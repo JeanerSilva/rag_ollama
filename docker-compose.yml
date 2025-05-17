@@ -13,14 +13,15 @@ services:
       - OLLAMA_HOST=http://ollama:11434
 
   ollama:
-    container_name: ollama
     image: ollama/ollama
+    container_name: ollama
     ports:
       - "11434:11434"
     volumes:
+      - ./entrypoint.sh:/entrypoint.sh 
       - ollama_models:/root/.ollama
+    entrypoint: ["/bin/sh", "/entrypoint.sh"] 
     restart: always
-    command: ["ollama", "run", "llama3.2"]
 
 volumes:
   ollama_models:

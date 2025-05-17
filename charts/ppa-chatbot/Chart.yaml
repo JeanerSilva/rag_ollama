@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ppa-chatbot
+description: Aplicação RAG + Ollama com Streamlit
+type: application
+version: 0.1.0
+appVersion: "1.0.0"

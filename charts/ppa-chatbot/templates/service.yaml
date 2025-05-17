@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: ppa-chatbot-service
+spec:
+  selector:
+    app: ppa-chatbot
+  ports:
+    - name: streamlit
+      port: {{ .Values.ragApp.service.port }}
+      targetPort: 8501
+    - name: ollama
+      port: {{ .Values.ollama.service.port }}
+      targetPort: 11434
+  type: {{ .Values.ragApp.service.type }}

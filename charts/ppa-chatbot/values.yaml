@@ -1,0 +1,15 @@
+ragApp:
+  image:
+    repository: seu-dockerhub/ppa-chatbot
+    tag: latest
+  service:
+    type: ClusterIP
+    port: 8501
+
+ollama:
+  image:
+    repository: ollama/ollama
+    tag: latest
+  model: llama3
+  service:
+    port: 11434

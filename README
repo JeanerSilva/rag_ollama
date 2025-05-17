@@ -1,23 +1,36 @@
 ollama pull mistral
 ollama run mistral
 
- ollama run llama3.2
+ ollama run llama3
 streamlit run .\app.py
 
- Após subir, carregar o modelo no Ollama (exemplo):
-No terminal (dentro ou fora do container):
+docker compose downw -v
+docker-compose up --build
 
-bash
-Copiar
-Editar
-curl http://localhost:11434/api/pull -d '{"name": "mistral"}'
-Ou configure para já carregar no CMD do serviço ollama.
 
-❓ Quer que o Ollama já inicie com o modelo?
-Podemos configurar assim no docker-compose.yml:
+✅ 1. Streamlit (sua aplicação RAG)
+URL: http://localhost:8501
 
-yaml
-Copiar
-Editar
-command: ["ollama", "run", "mistral"]
-Mas o ideal é deixar o container subir e você controlar os modelos conforme necessário.
+É aqui que você acessa a interface web para fazer perguntas com base nos documentos.
+
+✅ 2. Ollama (servidor da LLM)
+API: http://localhost:11434
+
+curl http://localhost:11434/api/tags
+
+curl http://localhost:11434/api/generate -H "Content-Type: application/json" -d '{"model":"llama3.2", "prompt":"Jeaner é feliz?"}'
+curl.exe http://localhost:11434/api/generate -H "Content-Type: application/json" -d "{\"model\":\"llama3.2\",\"prompt\":\"Jeaner é feliz?\"}"
+
+
+
+
+Esse é o endpoint onde a aplicação se comunica com o modelo Mistral via HTTP.
+
+
+Helm
+winget install Helm.Helm
+helm install ppa-chatbot ./charts/ppa-chatbot
+helm upgrade --install ppa-chatbot ./charts/ppa-chatbot
+
+
+pytest tests/

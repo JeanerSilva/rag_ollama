@@ -10,3 +10,4 @@ unstructured
 pdfminer.six
 faiss-cpu
 python-docx 
+pytest

@@ -1,0 +1,36 @@
+name: CI/CD to Kubernetes
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v3
+
+      - name: Login no Docker Hub
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.DOCKERHUB_USER }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - name: Build da imagem e push
+        run: |
+          docker build -t ${{ secrets.DOCKERHUB_USER }}/ppa-chatbot:latest .
+          docker push ${{ secrets.DOCKERHUB_USER }}/ppa-chatbot:latest
+
+      - name: Configurar acesso ao cluster
+        uses: azure/setup-kubectl@v3
+        with:
+          version: latest
+
+      - name: Deploy com Helm
+        run: |
+          helm upgrade --install ppa-chatbot ./charts/ppa-chatbot \
+            --namespace default \
+            --set ragApp.image.repository=${{ secrets.DOCKERHUB_USER }}/ppa-chatbot

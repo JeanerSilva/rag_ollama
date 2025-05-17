@@ -1,0 +1,44 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ppa-chatbot
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ppa-chatbot
+  template:
+    metadata:
+      labels:
+        app: ppa-chatbot
+    spec:
+      containers:
+        - name: rag-app
+          image: "{{ .Values.ragApp.image.repository }}:{{ .Values.ragApp.image.tag }}"
+          ports:
+            - containerPort: 8501
+          env:
+            - name: OLLAMA_HOST
+              value: "http://localhost:11434"
+          volumeMounts:
+            - name: docs-volume
+              mountPath: /app/docs
+            - name: vectordb-volume
+              mountPath: /app/vectordb
+
+        - name: ollama
+          image: "{{ .Values.ollama.image.repository }}:{{ .Values.ollama.image.tag }}"
+          command: ["ollama", "run", "{{ .Values.ollama.model }}"]
+          ports:
+            - containerPort: 11434
+          volumeMounts:
+            - name: ollama-cache
+              mountPath: /root/.ollama
+
+      volumes:
+        - name: docs-volume
+          emptyDir: {}
+        - name: vectordb-volume
+          emptyDir: {}
+        - name: ollama-cache
+          emptyDir: {}
