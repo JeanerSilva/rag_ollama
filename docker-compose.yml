@@ -1,0 +1,26 @@
+services:
+  rag-app:
+    build: .
+    container_name: ppa_rag_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./docs:/app/docs
+      - ./vectordb:/app/vectordb
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+
+  ollama:
+    container_name: ollama
+    image: ollama/ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    restart: always
+    command: ["ollama", "run", "llama3.2"]
+
+volumes:
+  ollama_models:
