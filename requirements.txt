@@ -9,5 +9,5 @@ python-dotenv>=1.0.1
 unstructured
 pdfminer.six
 faiss-cpu
-python-docx 
+python-docx>=0.8.11
 pytest
