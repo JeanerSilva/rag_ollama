@@ -1,5 +1,9 @@
 import os
+
+#lembrar de tirar o streamlit deste arquivo
 import streamlit as st
+
+
 from langchain.chains import RetrievalQA
 from langchain_community.llms import Ollama
 from rag.prompt import get_custom_prompt
@@ -7,7 +11,7 @@ from settings import TEMPERATURE, RETRIEVER_TOP_K
 
 def build_qa_chain(vectorstore):
     if not vectorstore:
-        st.warning("⚠️ Vetor de documentos não carregado.")
+        st.warning("⚠️ Vetor de documentos não carregado.") #retirar
         return None
 
     # Lê o host do Ollama via variável de ambiente (com fallback)
@@ -21,7 +25,7 @@ def build_qa_chain(vectorstore):
             temperature=TEMPERATURE
         )
     except Exception as e:
-        st.error(f"❌ Erro ao conectar com o Ollama: {e}")
+        st.error(f"❌ Erro ao conectar com o Ollama: {e}") #retirar
         return None
 
     # Define quantos trechos relevantes buscar (k)

@@ -8,8 +8,9 @@ from langchain_community.document_loaders import (
     TextLoader, PyPDFLoader, UnstructuredWordDocumentLoader,
     UnstructuredExcelLoader, UnstructuredHTMLLoader
 )
-from rag.embeddings import load_embeddings
 from rag.utils import save_indexed_files
+
+from langchain_huggingface import HuggingFaceEmbeddings
 
 def create_vectorstore():
     sidebar_status = st.sidebar.empty()
@@ -49,9 +50,26 @@ def create_vectorstore():
         sidebar_progress.empty()
         st.stop()
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
+    sidebar_status.markdown(f"📄 Indexando...")
+
+    splitter = RecursiveCharacterTextSplitter.from_huggingface_tokenizer(
+        chunk_size=1000, 
+        chunk_overlap=200,
+        separators = ["###", "##", "#", "\n\n", "\n", "."]
+)
     chunks = splitter.split_documents(docs)
-    db = FAISS.from_documents(chunks, load_embeddings())
+    #embedding = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+    
+    model_name = "intfloat/multilingual-e5-large"
+
+    embedding = HuggingFaceEmbeddings(
+        model_name=model_name,
+        #model_kwargs={"device": "cuda" if torch.cuda.is_available() else "cpu"},
+        encode_kwargs={"normalize_embeddings": True}
+)
+
+
+    db = FAISS.from_documents(chunks, embedding)
     db.save_local(VECTORDB_PATH)
 
     indexed_files = [os.path.basename(f) for f in files]

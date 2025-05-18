@@ -5,7 +5,7 @@ from rag.vectorstore import load_vectorstore, create_vectorstore
 from rag.qa_chain import build_qa_chain
 from rag.utils import save_uploaded_files, load_indexed_files
 from settings import RETRIEVER_TOP_K
-from rag.normalizador import normalize_query
+#from rag.normalizador import normalize_query
 
 
 st.set_page_config(page_title="Pergunte ao PPA", page_icon="🧠")
@@ -67,10 +67,9 @@ if qa_chain:
         submitted = st.form_submit_button("Enviar")
 
     if submitted and user_input:
-        normalized_question = normalize_query(user_input)
-        result = qa_chain(normalized_question)
-
-        #result = qa_chain(user_input)
+        #normalized_question = normalize_query(user_input)
+        #result = qa_chain(normalized_question)
+        result = qa_chain(user_input)
         resposta = result["result"]
         fontes = result["source_documents"]
         st.session_state.chat_history.append(("user", user_input))
