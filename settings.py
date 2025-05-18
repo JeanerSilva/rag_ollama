@@ -19,3 +19,5 @@ CHUNK_OVERLAP = 100
 
 
 TEMPERATURE = 0.7
+EMBEDDING_MODEL = "intfloat/multilingual-e5-large"
+LLM_MODEL = "llama3.2"

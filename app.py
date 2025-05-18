@@ -56,6 +56,9 @@ else:
 
 # Carregamento
 vectorstore = load_vectorstore()
+if not vectorstore:
+    raise ValueError("Vetor de documentos não carregado.")
+
 qa_chain = build_qa_chain(vectorstore)
 if not qa_chain:
     st.warning("⚠️ A chain ainda não está carregada. Verifique a indexação ou se há documentos na pasta.")
