@@ -62,12 +62,25 @@ def create_vectorstore():
     splitter = TokenTextSplitter.from_huggingface_tokenizer(
         tokenizer=tokenizer,
         chunk_size=CHUNK_SIZE,  # Tokens, não caracteres
-        chunk_overlap=CHUNK_OVERLAP
+        chunk_overlap=CHUNK_OVERLAP,
+        length_function=lambda x: len(tokenizer.encode(x))
+        separators=[
+        "\n\n",  # parágrafos
+        "\n",    # quebras de linha
+        ".",     # frases
+        ";",     # sentenças curtas
+        ",",     # frases compostas
+        " ",     # fallback: palavras
+        ""       # fallback final: caractere por caractere
+    ]
     )
 
     sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")
 
     chunks = splitter.split_documents(docs)
+    # Prefixar cada chunk com "passage: " para compatibilidade com e5
+    for chunk in chunks:
+        chunk.page_content = f"passage: {chunk.page_content.strip()}"
 
     db = FAISS.from_documents(chunks, load_embeddings())
     db.save_local(VECTORDB_PATH)
