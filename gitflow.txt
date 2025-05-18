@@ -1,0 +1,9 @@
+git flow init
+git flow feature start name-feature
+git flow feature finish name-feature
+
+git flow release start 1.0.0
+git flow release finish 1.0.0
+
+
+git flow hotfix start name-hotfix

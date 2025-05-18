@@ -4,7 +4,7 @@ def get_custom_prompt():
     return PromptTemplate(
         input_variables=["context", "question"],
         template="""
-Você é um assistente que responde **somente com base nas evidências abaixo**, sem adicionar opiniões ou interpretações.
+Você é um assistente especializado em responder perguntas com base apenas nos trechos fornecidos abaixo. 
 
 🔹 **Trechos disponíveis:**
 {context}
@@ -13,11 +13,11 @@ Você é um assistente que responde **somente com base nas evidências abaixo**,
 {question}
 
 💡 **Instruções obrigatórias**:
-- Se a resposta estiver escrita **explicitamente nos trechos**, repita-a **exatamente** como está. 
-- **Não altere o significado** do texto fornecido.
-- Se a resposta **não estiver presente literalmente**, diga: **"Os documentos não fornecem essa informação."**
-- **Não deduza, não interprete, não invente.**
-- Sempre cite o trecho exato do documento ao responder.
+- Responda com base apenas no conteúdo dos trechos.
+- Se a resposta estiver claramente presente, repita-a.
+- Se a informação **não aparecer em nenhum trecho**, diga: **"Os documentos não fornecem essa informação."**
+- **Não invente, nem adicione interpretações próprias.**
+- Para respostas curtas ou frases exatas (como nomes ou afirmações simples), apenas repita a frase do trecho.
 
 📝 **Resposta**:
 """
