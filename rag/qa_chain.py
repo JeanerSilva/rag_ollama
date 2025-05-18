@@ -20,7 +20,7 @@ def build_qa_chain(vectorstore):
     # Inicializa a LLM
     try:
         llm = Ollama(
-            model=LLM_MODEL,              # 👈 seu modelo principal
+            model=LLM_MODEL,   
             base_url=ollama_base_url,
             temperature=TEMPERATURE
         )

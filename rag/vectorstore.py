@@ -3,15 +3,15 @@ import glob
 import streamlit as st
 from config import DOCS_PATH, VECTORDB_PATH
 from langchain_community.vectorstores import FAISS
-#from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import (
     TextLoader, PyPDFLoader, UnstructuredWordDocumentLoader,
     UnstructuredExcelLoader, UnstructuredHTMLLoader
 )
 from rag.embeddings import load_embeddings
 from rag.utils import save_indexed_files
-from transformers import AutoTokenizer
-from langchain.text_splitter import TokenTextSplitter
+#from transformers import AutoTokenizer
+#from langchain.text_splitter import TokenTextSplitter
 from settings import EMBEDDING_MODEL
 
 def create_vectorstore():
@@ -54,10 +54,17 @@ def create_vectorstore():
 
     sidebar_status.markdown(f"📄 Fazendo o splitting...")
 
-    splitter = TokenTextSplitter.from_huggingface_tokenizer(
-        tokenizer=AutoTokenizer.from_pretrained(EMBEDDING_MODEL),
-        chunk_size=1024,
-        chunk_overlap=256
+    
+    #splitter = TokenTextSplitter.from_huggingface_tokenizer(
+    #    tokenizer=AutoTokenizer.from_pretrained(EMBEDDING_MODEL),
+    #    chunk_size=1024,
+    #    chunk_overlap=256
+    #)
+
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=500,
+        chunk_overlap=100,
+        #length_function=len
     )
 
     sidebar_status.markdown(f"📦 Gerando embeddings...")
