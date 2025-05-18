@@ -3,16 +3,19 @@ import glob
 import streamlit as st
 from config import DOCS_PATH, VECTORDB_PATH
 from langchain_community.vectorstores import FAISS
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+#from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import (
     TextLoader, PyPDFLoader, UnstructuredWordDocumentLoader,
     UnstructuredExcelLoader, UnstructuredHTMLLoader
 )
 from rag.embeddings import load_embeddings
 from rag.utils import save_indexed_files
-#from transformers import AutoTokenizer
-#from langchain.text_splitter import TokenTextSplitter
-from settings import EMBEDDING_MODEL
+from langchain.text_splitter import TokenTextSplitter
+from transformers import AutoTokenizer
+
+
+
+from settings import EMBEDDING_MODEL, CHUNK_OVERLAP, CHUNK_SIZE
 
 def create_vectorstore():
     sidebar_status = st.sidebar.empty()
@@ -52,26 +55,19 @@ def create_vectorstore():
         sidebar_progress.empty()
         st.stop()
 
-    sidebar_status.markdown(f"📄 Fazendo o splitting...")
+    sidebar_status.markdown(f"📄 Fazendo o splitting com modelo {EMBEDDING_MODEL}...")
 
-    
-    #splitter = TokenTextSplitter.from_huggingface_tokenizer(
-    #    tokenizer=AutoTokenizer.from_pretrained(EMBEDDING_MODEL),
-    #    chunk_size=1024,
-    #    chunk_overlap=256
-    #)
+    tokenizer = AutoTokenizer.from_pretrained(EMBEDDING_MODEL)
 
-    splitter = RecursiveCharacterTextSplitter(
-        chunk_size=500,
-        chunk_overlap=100,
-        #length_function=len
+    splitter = TokenTextSplitter.from_huggingface_tokenizer(
+        tokenizer=tokenizer,
+        chunk_size=CHUNK_SIZE,  # Tokens, não caracteres
+        chunk_overlap=CHUNK_OVERLAP
     )
 
-    sidebar_status.markdown(f"📦 Gerando embeddings...")
+    sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")
 
     chunks = splitter.split_documents(docs)
-
-    sidebar_status.markdown(f"📦 Indexando documentos...")
 
     db = FAISS.from_documents(chunks, load_embeddings())
     db.save_local(VECTORDB_PATH)

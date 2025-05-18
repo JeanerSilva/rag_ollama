@@ -3,9 +3,8 @@ import os
 #lembrar de tirar o streamlit deste arquivo
 import streamlit as st
 
-
 from langchain.chains import RetrievalQA
-from langchain_community.llms import Ollama
+from langchain_ollama import OllamaLLM
 from rag.prompt import get_custom_prompt
 from settings import TEMPERATURE, RETRIEVER_TOP_K, LLM_MODEL
 
@@ -19,7 +18,7 @@ def build_qa_chain(vectorstore):
 
     # Inicializa a LLM
     try:
-        llm = Ollama(
+        llm = OllamaLLM(
             model=LLM_MODEL,   
             base_url=ollama_base_url,
             temperature=TEMPERATURE

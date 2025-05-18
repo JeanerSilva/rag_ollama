@@ -14,8 +14,8 @@ RETRIEVER_TOP_K = 10
 # Essa sobreposição é importante para manter o contexto entre blocos vizinhos. Um chunk_size menor pode facilitar a recuperação de 
 # informações pontuais, enquanto valores maiores mantêm mais contexto. Para documentos com conteúdo denso ou técnico, 
 # recomenda-se começar com chunk_size = 500 e chunk_overlap = 100, ajustando conforme necessário.
-CHUNK_SIZE = 500
-CHUNK_OVERLAP = 100
+CHUNK_SIZE = 300
+CHUNK_OVERLAP = 50
 
 
 TEMPERATURE = 0.7
