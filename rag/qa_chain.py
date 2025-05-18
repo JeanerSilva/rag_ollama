@@ -3,7 +3,7 @@ import streamlit as st
 from langchain.chains import RetrievalQA
 from langchain_community.llms import Ollama
 from rag.prompt import get_custom_prompt
-from settings import TEMPERATURE
+from settings import TEMPERATURE, RETRIEVER_TOP_K
 
 def build_qa_chain(vectorstore):
     if not vectorstore:
@@ -16,7 +16,7 @@ def build_qa_chain(vectorstore):
     # Inicializa a LLM
     try:
         llm = Ollama(
-            model="llama3",              # 👈 seu modelo principal
+            model="llama3.2",              # 👈 seu modelo principal
             base_url=ollama_base_url,
             temperature=TEMPERATURE
         )
@@ -25,7 +25,7 @@ def build_qa_chain(vectorstore):
         return None
 
     # Define quantos trechos relevantes buscar (k)
-    k = st.session_state.get("retriever_k", 6)
+    k = st.session_state.get("retriever_k", RETRIEVER_TOP_K)
 
     # Cria a cadeia QA com recuperação de fontes
     qa_chain = RetrievalQA.from_chain_type(
