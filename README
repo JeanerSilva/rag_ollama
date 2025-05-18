@@ -4,8 +4,10 @@ ollama run mistral
  ollama run llama3
 streamlit run .\app.py
 
-docker compose downw -v
-docker-compose up --build
+docker-compose down
+d
+
+
 
 
 ✅ 1. Streamlit (sua aplicação RAG)
@@ -22,6 +24,7 @@ curl http://localhost:11434/api/generate -H "Content-Type: application/json" -d 
 curl.exe http://localhost:11434/api/generate -H "Content-Type: application/json" -d "{\"model\":\"llama3.2\",\"prompt\":\"Jeaner é feliz?\"}"
 
 
+curl http://localhost:11434/api/generate -d '{"model":"llama3.2","prompt":"Jeaner é feliz?"}'
 
 
 Esse é o endpoint onde a aplicação se comunica com o modelo Mistral via HTTP.

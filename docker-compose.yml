@@ -1,5 +1,3 @@
-version: "3.9"
-
 services:
   rag-app:
     image: python:3.10-slim 
@@ -12,6 +10,7 @@ services:
       - .:/app      
       - ./docs:/app/docs
       - ./vectordb:/app/vectordb
+      - ./rag_indexed:/app/indexed
     environment:
       - OLLAMA_HOST=http://ollama:11434
     depends_on:

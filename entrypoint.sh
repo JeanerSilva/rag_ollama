@@ -1,11 +1,13 @@
-#!/bin/sh
+#!/bin/bash
 
-echo "⏳ Aguardando daemon do Ollama..."
+# Start Ollama server in the background
+ollama serve &
 
-# Aguarda o Ollama subir antes de executar o modelo
-until curl -s http://localhost:11434/api/tags > /dev/null; do
-  sleep 2
-done
+# Wait for Ollama server to start
+sleep 5
 
-echo "🚀 Rodando modelo llama3..."
-ollama run llama3
+# Pull llama3 model
+ollama run llama3.2
+
+# Wait for the Ollama server to finish 
+wait $!
