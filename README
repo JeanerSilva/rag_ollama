@@ -27,6 +27,8 @@ curl.exe http://localhost:11434/api/generate -H "Content-Type: application/json"
 curl http://localhost:11434/api/generate -d '{"model":"llama3.2","prompt":"Jeaner é feliz?"}'
 
 
+ $env:PYTHONPATH="."; pytest
+
 Esse é o endpoint onde a aplicação se comunica com o modelo Mistral via HTTP.
 
 

@@ -4,6 +4,9 @@ from config import DOCS_PATH
 from rag.vectorstore import load_vectorstore, create_vectorstore
 from rag.qa_chain import build_qa_chain
 from rag.utils import save_uploaded_files, load_indexed_files
+from settings import RETRIEVER_TOP_K
+from rag.normalizador import normalize_query
+
 
 st.set_page_config(page_title="Pergunte ao PPA", page_icon="🧠")
 st.title("🧠 Pergunte ao PPA")
@@ -31,7 +34,7 @@ st.session_state["retriever_k"] = st.sidebar.number_input(
     label="Número de trechos a considerar (k)",
     min_value=1,
     max_value=20,
-    value=st.session_state.get("retriever_k", 6),
+    value=st.session_state.get("retriever_k", RETRIEVER_TOP_K),
     step=1
 )
 
@@ -57,7 +60,6 @@ qa_chain = build_qa_chain(vectorstore)
 if not qa_chain:
     st.warning("⚠️ A chain ainda não está carregada. Verifique a indexação ou se há documentos na pasta.")
 
-
 # Formulário de pergunta
 if qa_chain:
     with st.form("chat-form", clear_on_submit=True):
@@ -65,7 +67,10 @@ if qa_chain:
         submitted = st.form_submit_button("Enviar")
 
     if submitted and user_input:
-        result = qa_chain(user_input)
+        normalized_question = normalize_query(user_input)
+        result = qa_chain(normalized_question)
+
+        #result = qa_chain(user_input)
         resposta = result["result"]
         fontes = result["source_documents"]
         st.session_state.chat_history.append(("user", user_input))

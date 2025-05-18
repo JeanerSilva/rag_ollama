@@ -1,20 +1,11 @@
-import pytest
-from unittest.mock import patch, MagicMock
 from rag.vectorstore import create_vectorstore
+from langchain_community.vectorstores import FAISS
+import os
 
-@patch("rag.vectorstore.glob.glob", return_value=["test.txt"])
-@patch("rag.vectorstore.TextLoader")
-@patch("rag.vectorstore.FAISS")
-@patch("rag.vectorstore.load_embeddings")
-def test_create_vectorstore_success(mock_embeddings, mock_faiss, mock_loader, mock_glob):
-    loader_instance = MagicMock()
-    loader_instance.load.return_value = [{"page_content": "conteúdo de teste"}]
-    mock_loader.return_value = loader_instance
+def test_create_vectorstore(tmp_path):
+    os.makedirs(tmp_path / "docs", exist_ok=True)
+    with open(tmp_path / "docs" / "test.txt", "w") as f:
+        f.write("Jeaner é feliz.")
 
-    db_mock = MagicMock()
-    mock_faiss.from_documents.return_value = db_mock
-
-    db = create_vectorstore()
-
-    assert db is not None
-    mock_faiss.from_documents.assert_called()
+    db = create_vectorstore(str(tmp_path / "docs"), str(tmp_path / "vectordb"))
+    assert isinstance(db, FAISS)
