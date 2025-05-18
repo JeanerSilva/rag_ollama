@@ -52,19 +52,22 @@ def create_vectorstore():
         sidebar_progress.empty()
         st.stop()
 
-    sidebar_status.markdown(f"📄 Fazendo o splitting...")
+    sidebar_status.markdown("📄 Fazendo o splitting...")
 
+    tokenizer = AutoTokenizer.from_pretrained(EMBEDDING_MODEL)
     splitter = TokenTextSplitter.from_huggingface_tokenizer(
-        tokenizer=AutoTokenizer.from_pretrained(EMBEDDING_MODEL),
+        tokenizer=tokenizer,
         chunk_size=1024,
         chunk_overlap=256
     )
 
-    sidebar_status.markdown(f"📦 Gerando embeddings...")
-
     chunks = splitter.split_documents(docs)
 
-    sidebar_status.markdown(f"📦 Indexando documentos...")
+    # ✅ Adiciona o prefixo "passage:" para cada chunk
+    for i, chunk in enumerate(chunks):
+        chunk.page_content = f"passage: {chunk.page_content.strip()}"
+
+    sidebar_status.markdown("📦 Gerando embeddings e indexando...")
 
     db = FAISS.from_documents(chunks, load_embeddings())
     db.save_local(VECTORDB_PATH)
@@ -73,7 +76,7 @@ def create_vectorstore():
     st.session_state["indexed_files"] = indexed_files
     save_indexed_files(indexed_files)
 
-    sidebar_status.update(label="✅ Documentos indexados com sucesso!")
+    sidebar_status.markdown("✅ Documentos indexados com sucesso!")
     sidebar_progress.empty()
     return db
 

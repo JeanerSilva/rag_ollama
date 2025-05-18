@@ -69,15 +69,32 @@ if qa_chain:
         user_input = st.text_input("Digite sua pergunta:")
         submitted = st.form_submit_button("Enviar")
 
+    #if submitted and user_input:
+    #    #normalized_question = normalize_query(user_input)
+    #    #result = qa_chain(normalized_question)
+    #    result = qa_chain(user_input)
+    #    resposta = result["result"]
+    #    fontes = result["source_documents"]
+    #    st.session_state.chat_history.append(("user", user_input))
+    #    st.session_state.chat_history.append(("bot", resposta))
+    #    st.session_state.last_contexts = fontes
+
     if submitted and user_input:
-        #normalized_question = normalize_query(user_input)
-        #result = qa_chain(normalized_question)
-        result = qa_chain(user_input)
+    # Prefixo necessário para modelos E5
+        query = f"query: {user_input}"
+        result = qa_chain.invoke({"query": query})
         resposta = result["result"]
         fontes = result["source_documents"]
         st.session_state.chat_history.append(("user", user_input))
         st.session_state.chat_history.append(("bot", resposta))
         st.session_state.last_contexts = fontes
+        st.sidebar.write("🔍 Consulta enviada ao retriever:", query)
+        with st.expander("🔬 Depuração: Chunks retornados pelo retriever"):
+            for doc in result["source_documents"]:
+                st.markdown(doc.page_content)
+
+
+
 
 # Chat
 for role, msg in st.session_state.chat_history:
