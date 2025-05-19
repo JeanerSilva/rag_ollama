@@ -63,16 +63,16 @@ def create_vectorstore():
         tokenizer=tokenizer,
         chunk_size=CHUNK_SIZE,  # Tokens, não caracteres
         chunk_overlap=CHUNK_OVERLAP,
-        length_function=lambda x: len(tokenizer.encode(x))
-        separators=[
-        "\n\n",  # parágrafos
-        "\n",    # quebras de linha
-        ".",     # frases
-        ";",     # sentenças curtas
-        ",",     # frases compostas
-        " ",     # fallback: palavras
-        ""       # fallback final: caractere por caractere
-    ]
+
+        #separators=[
+        #"\n\n",  # parágrafos
+        #"\n",    # quebras de linha
+        #".",     # frases
+        #";",     # sentenças curtas
+        #",",     # frases compostas
+        #" ",     # fallback: palavras
+        #""       # fallback final: caractere por caractere
+        #]
     )
 
     sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")
