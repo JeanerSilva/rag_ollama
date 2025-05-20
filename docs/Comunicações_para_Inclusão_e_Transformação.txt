@@ -1,0 +1,70 @@
+passage: Programa: Comunicações para Inclusão e Transformação
+
+Objetivo Geral:
+- Assegurar serviços de comunicações e conectividade, pela oferta inclusiva dos meios de acesso, com o desenvolvimento das habilidades digitais, dando ênfase aos grupos vulnerabilizados
+
+Objetivos Específicos:
+- Apoiar a pesquisa, o desenvolvimento e a inovação em telecomunicações.
+- Promover a inclusão digital e a conectividade significativa
+- Promover o desenvolvimento das habilidades digitais da sociedade.
+- Expandir a Digitalização da TV Aberta
+- Ampliar a segurança das comunicações de agentes do Estado pela exploração da Rede Privativa de Comunicação da Administração Pública Federal (RPCAPF), com criptografia de Estado.
+- Promover o acesso universal ao atendimento dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+- Promover o acesso universal à distribuição dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+- Modernizar o Parque Logístico Nacional dos Correios
+- Ampliar a capacidade de processamento dos objetos nacionais e internacionais, com instalação de novos Centros operacionais (Construções)
+
+Indicadores de Entrega:
+- Aluno capacitado 
+- Backhaul implantado 
+- Cidades Atendidas 
+- Escolas conectadas 
+- Infovia implantada 
+- Infovia implantada 
+- Infovia implantada 
+- Infovia implantada 
+- Infovia implantada 
+- Infovia implantada 
+- Infovia implantada 
+- Infovia implantada 
+- Localidades conectadas 
+- Localidades conectadas 
+- Municípios conectados 
+- Municípios contemplados pelo programa com infraestrutura de TV Digital implantada 
+- Percentual da população com cobertura 5G ou superior 
+- Percentual de centros operacionais e administrativos construídos e entregues para o período de 2024 a 2027 para os Estados previstos 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos 
+- Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos 
+- Percentual de conclusão da Rede Fixa Segura de Estado 
+- Percentual de conclusão da Rede Móvel Segura de Estado 
+- Percentual de distritos brasileiros com população igual ou superior a 500 habitantes contemplados com a distribuição postal dentre os previstos para implantação no período de 2024 a 2027 
+- Percentual de execução física do projeto 
+- Percentual de posições de atendimento postal implantadas dentre as previstas para implantação no período de 2024 a 2027 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Bauru ou Ribeirão Preto/SP 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Contagem/MG 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Cuiabá/MT 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Goiânia/GO 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Guarulhos/SP 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Jaboatão dos Guararapes/PE 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Pinhais/PR 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Salvador/BA 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Santo Amaro ou ABC/SP 
+- Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Valinhos ou São José do Rio Preto/SP 
+- Quantidade de infovias concluídas 
+- Quantidade de projetos de pesquisa, desenvolvimento e inovação em telecomunicações contratados 
+- Total de municípios com backhaul de fibra óptica 
+- Trechos conectados 
+- Unidades de saúde conectadas 
+
+Indicadores de Objetivos Específicos:
+- Número de novos canais digitais de TV autorizados: 
+- Número de pedidos de registro de propriedade intelectual no ano de referência: 
+- Número de pessoas capacitadas em cursos de TICs: 
+- Percentual de conclusão da RPCAPF: 
+- Percentual de distritos com população igual ou superior a 500 habitantes atendidos com distribuição postal: 
+- Percentual de infraestrutura disponibilizada por meio da construção de novos centros operacionais no DF, MA e PR (Tratamento de Cartas/Encomendas), MG (Logística Integrada) e CE (Complexo Operacional): 
+- Percentual de modernização/implantação de 58 novos sistemas de triagem automatizada nos Centros de Tratamento: Brasília (4), Aracaju (2), Bauru (3), Campo Grande (2), Caxias do Sul (2), Contagem (1), Cuiabá (2), Fortaleza (2), Goiania (4), Guarulhos (1), Jaboatão dos Guararapes (1), João Pessoa (2), Joinville (2), Macéio (2), Manaus (2), Natal (2), Passo Fundo (2), Pinhais (1), Ribeirão Preto (3), Salvador (1), Santa Maria (2), Santo Amaro (4), Santo André (2), São José dos Campos (2), São Luís (2), Teresina (2), Vitória (2), Rio de Janeiro (1): 
+- Percentual de pessoas de 10 anos ou mais que são usuárias da Internet: 
+- Percentual de posições necessárias de atendimento postal disponíveis à população brasileira:

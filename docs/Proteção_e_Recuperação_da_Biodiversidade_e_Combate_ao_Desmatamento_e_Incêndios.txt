@@ -1,0 +1,61 @@
+passage: Programa: Proteção e Recuperação da Biodiversidade e Combate ao Desmatamento e Incêndios
+
+Objetivo Geral:
+- Conservar, recuperar e valorizar os biomas terrestres e as zonas costeira e marinha, para a manutenção da diversidade biológica, dos recursos naturais e dos serviços ecossistêmicos, combatendo o desmatamento, os incêndios e a exploração predatória dos recursos naturais.
+
+Objetivos Específicos:
+- Prevenir e controlar o desmatamento e a degradação da vegetação nativa no Brasil.
+- Prevenir e controlar os incêndios em vegetação nativa.
+- Promover a recuperação de florestas e demais formas de vegetação nativa em todos os biomas brasileiros.
+- Conservar as espécies, em particular, espécies ameaçadas de extinção.
+- Ampliar e consolidar a proteção, a conservação e a conectividade dos ecossistemas terrestres, costeiros e marinhos, em especial por meio de áreas protegidas.
+
+Indicadores de Entrega:
+- Área das florestas públicas federais não destinadas 
+- Área de florestas públicas em recuperação por meio de concessões florestais 
+- Área degradada em UC monitorada, diagnosticada e em processo de restauração inclusiva 
+- Áreas passíveis de recuperação ambiental (áreas embargadas, projetos de recuperação ambiental de áreas degradadas, de plantio compensatório ou reposição florestal) qualificadas 
+- Área total manejada com fogo em unidades de conservação federais 
+- Aumento do numero total de dias de campo em operações de fiscalização ambiental nas unidades de conservação federais 
+- Aumento proporcional de informações relativas ao Manejo Integrado do Fogo disponíveis no Sisfogo 
+- Avaliações e reavaliações quanto ao risco de extinção de espécies da flora brasileira 
+- 'Grupo de espécies às quais é aplicada a metodologia brasileira de Avaliação de Risco Ambiental de Agrotóxicos 
+- Hectares embargados da área desmatada ilegalmente no bioma Amazônia 
+- Nº de unidades de conservação federais participantes do Programa Nacional de Monitoramento da Biodiversidade com dados validados e disponíveis à sociedade 
+- Número anual de ações de fiscalização em terras indígenas 
+- Número de ações realizadas no âmbito do manejo integrado do fogo e capacitações realizadas por ano 
+- Número de Atualizações das Áreas e Ações Prioritárias para Conservação, Utilização Sustentável e Repartição dos Benefícios da Biodiversidade Brasileira atualizados 
+- Número de espécies da fauna com o risco de extinção avaliado 
+- 'Número de espécies da flora brasileira oficialmente ameaçadas de extinção contempladas em Planos de Ação Nacional (PANs) para a conservação e recuperação 
+- Número de estados elegíveis para captação de recursos de REDD+ 
+- Número de fiscais com participação mínima de 20 dias em ações de fiscalização 
+- Número de imóveis regularizados em unidades de conservação de domínio público 
+- Número de jardins botânicos assessorados 
+- Número de listas de espécies exóticas invasoras e planos de ação sobre vias/vetores de introdução e dispersão no país atualizadas e publicadas 
+- Número de mapas elaborados por ano 
+- Número de mapas preditivos elaborados e publicados 
+- Número de mapas produzidos no ano 
+- Número de Mestres e Doutores formados pela Escola Nacional de Botânica Tropical (ENBT) 
+- Número de municípios com áreas verdes urbanas em recuperação e estruturação apoiados 
+- Número de normativas sobre salvaguardas, repartição de benefícios e sistema de registro para exclusão de áreas publicadas 
+- Número de Planos de Manejo Publicado elaborados ou revisados 
+- Número de planos monitorados, avaliados e atualizados 
+- Número de processos por infrações contra flora instaurados 
+- Número de Relatório anual da vegetação nativa florestal em regeneração nos biomas brasileiros 
+- Número de UCs no Cadastro Nacional de Unidades de Conservação (CNUC) 
+- Número de Unidade de Conservação com catálogo de Flora disponibilizado 
+- Número de unidades Cetas federais com reforma ou melhorias estruturais adequadas para operação 
+- Número de Unidades de conservação com limites consolidados (demarcação ou refinamento de limites) 
+- Percentual das Áreas de Preservação Permanente e de Reserva Legal em regularização ambiental recuperação monitoradas 
+- Percentual de alertas de desmatamento dos sistemas de detecção oficiais classificados por nível de prioridade para a fiscalização e disponibilizado aos fiscais 
+- Percentual de animais silvestres reabilitados e destinados, na forma da lei, por Centros de Triagem de Animais Silvestres federais ou estaduais em regime de cooperação técnica 
+- Percentual de conselhos ativos 
+- Quantidade de brigadistas contratados 
+- Relatórios mensais (biomas Amazônia, Cerrado e Pantanal) e anual (todos os biomas) da perda e degradação da vegetação nativa dos 6 biomas brasileiros 
+
+Indicadores de Objetivos Específicos:
+- Área de cobertura vegetal nativa em recuperação: 
+- Área protegida com o manejo integrado do fogo implementado: 
+- Número de espécies da fauna/flora ameaçadas de extinção com Planos de Ação ou outros instrumentos para conservação: 
+- Percentual de redução da área total de vegetação nativa suprimida por ano e por bioma: 
+- Percentual do território terrestre e marinho protegido:

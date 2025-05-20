@@ -1,0 +1,72 @@
+passage: Programa: Vigilância em Saúde e Ambiente
+
+Objetivo Geral:
+- Reduzir e controlar doenças e agravos passíveis de prevenção e controle, com enfoque na superação das desigualdades de acesso, regionais, sociais, de raça/etnia e gênero.
+
+Objetivos Específicos:
+- Reduzir o número de casos autóctones de malária na região amazônica.
+- Disponibilizar informações precisas e oportunas de estatísticas vitais e de morbidade da população por meio dos sistemas de informação de vigilância em saúde.
+- Ampliar a capacidade de diagnóstico dos laboratórios pertencentes a Rede Nacional de Laboratórios de Saúde Pública (RNLSP)
+- Reduzir a taxa de incidência de arboviroses (dengue, chikungunya, Zika e febre amarela) no Brasil
+- Reduzir a incidência de HIV/aids, TB, Hepatites Virais, sífilis e outras IST, doenças de determinação social, por meio do incentivo a medidas de prevenção e tratamento adequado
+- Ampliar as coberturas vacinais da população, em especial do calendário infantil
+- Fornecer imunobiológicos de responsabilidade do Ministério da Saúde, conforme demanda estimada.
+- Ampliar a vigilância de ambientes e populações expostas a agrotóxicos no âmbito da vigilância da saúde ambiental e saúde do trabalhador
+- Ampliar as redes de preparação, vigilância e resposta às emergências em saúde pública por regiões e macrorregiões.
+- Produzir conhecimento sobre determinantes ambientais da saúde (mudanças do clima, poluição e biodiversidade) por meio do Centro de Síntese, para fortalecimento da inovação do SUS e melhoria da qualidade de vida da população brasileira.
+
+Indicadores de Entrega:
+- Nº de processos de aquisição formalizados 
+- Número absoluto de casos autóctones de malária por P. falciparum na região amazônica 
+- Número absoluto de municípios com pelo menos 3 anos sem transmissão de malária na região amazônica 
+- Número de avaliações ou atualizações de risco realizadas e divulgadas 
+- Número de centrais e regionais estaduais da rede de frio com a estrutura adequada 
+- Número de Centro de Inteligência Genômica implantado 
+- Número de exames moleculares realizados, por ano, pela Rede Nacional de Laboratórios de Saúde Pública (RNLSP) 
+- Número de laboratórios da Rede Nacional de Laboratórios de Saúde Pública estruturados visando aumentar sua capacidade resolutiva 
+- Número de municípios acima de 100 mil habitantes com certificação para eliminação de transmissão vertical de HIV e/ou sífilis e/ou hepatite B ou com selo de boas práticas rumo à eliminação 
+- Número de municípios apoiados por profissionais do projeto Projeto Apoiadores Municipais para Prevenção, Controle e Eliminação de Malária na região Amazônica 
+- Número de municipios prioritários com vacinação intensificada 
+- Número de Oficinas de Ativação de Estruturas de Resposta às emergências em saúde pública realizadas por ano 
+- Número de oficinas de Microplanejamento realizadas anualmente, segundo região 
+- Número de paineis de divulgação de informação em vigilância em saúde de acesso público implantados 
+- Número de pessoas tratadas para hepatite C, por ano 
+- Número de profissionais certificados, ao final de cada ano, pelo Programa de Treinamento em Epidemiologia aplicada aos Serviços do Sistema único de Saúde - EpiSUS, nos três níveis de formação (fundamental, intermediário e avançado) 
+- Número de simulados de preparação, vigilância e resposta às emergências em saúde pública realizados por ano 
+- Número de UF com a Estratégia de Unidade Sentinela implantada 
+- Número de UF com Autoavaliação realizada por ano 
+- Número de UF realizando as estratégias de vacinação orientadas pelo Programa Nacional de Vacinação ao longo do ano 
+- Número de UF realizando Vigilância Baseada em Evidências (VBE) utilizando o EIOS por ano 
+- Número de UFs com profissionais de vigilância capacitados para vigilância animal e entomológica aplicada às arboviroses silvestres e para o uso da plataforma SISS-Geo 
+- Número de Unidades de Laboratórios Móveis de Resposta Rápida implantadas 
+- Número de Unidades Federadas com profissionais de vigilância estaduais capacitados em respostas a surtos e epidemias por arboviroses 
+- Número municípios capacitados com o curso de Vigilância em Saúde de Populações Expostas a Agrotóxicos (VSPEA) 
+- Painel de dados divulgado em ambiente WEB 
+- Percentual de estratificações de risco socioambiental, epidemiológica e entomológica realizadas 
+- Percentual de execução da obra 
+- Percentual de execução das ações de capacitação planejadas 
+- Percentual de execução das ações de produção de conhecimento planejadas 
+- Percentual de municípios com pelo menos uma tecnologia de controle vetorial implementada 
+- Percentual de municípios estratificados em função do risco para arboviroses urbanas 
+- Percentual de municípios notificando no formulário online da Declaração de Nascido Vivo ou da Declaração de Óbito 
+- Percentual de municípios notificando no formulário online da Declaração de Óbito 
+- Percentual de municípios prioritários para Vigilância em Saúde de Populações Expostas a Agrotóxicos c/ resultados do monitoramento de agrotóxicos em água p/ consumo humano, realizado pela setor saúde 
+- Percentual de municípios que notificaram violências interpessoais e autoprovocadas 
+- Percentual de municípios que operacionalizam vacinação no âmbito escolar 
+- Percentual de notificações de violência interpessoal e autoprovocada com campo orientação sexual preenchido com dados válidos 
+- Percentual de óbitos com causa básica registrada como 'evento cuja intenção é indeterminada', no total de óbitos por causas externas 
+- Proporção de cura de casos novos de tuberculose pulmonar com confirmação laboratorial 
+- Proporção de municípios com avaliação e estratificação de risco realizadas 
+- Proporção de pessoas vivendo com HIV/aids, vinculadas aos serviços de saúde do SUS, em tratamento antirretrovirall 
+
+Indicadores de Objetivos Específicos:
+- Indice composto de HIV/aids, TB, HCV, HBV e sífilis congênita: 
+- Número absoluto de casos autóctones de malária na região amazônica: 
+- Número de exames/ano laboratoriais realizados pela RNLSP: 
+- Percentual de conclusão da estratégia de fortalecimento das capacidades das unidades federativas no enfrentamento às Emergências em Saúde Pública: 
+- Percentual de execução das ações de produção de conhecimento planejadas: 
+- Percentual de imunobiológicos distribuídos aos estados de acordo com a demanda estimada: 
+- Percentual de municípios com cobertura adequada (95%) das vacinas: penta(DTP/HepB/Hib) - PENTA; polio injetável - VIP; e pneumo 10 - VPC10, sarampo, caxumba, rubéola - SCR, em crianças de até 1 ano d: 
+- Percentual de municípios prioritários com Vigilância em Saúde de Populações Expostas a Agrotóxicos (VSPEA) implantada: 
+- Percentual de munícipios utilizando as declarações eletrônicas de nascido vivo ou de óbito: 
+- Taxa de incidência média de arboviroses nos últimos 5 anos:

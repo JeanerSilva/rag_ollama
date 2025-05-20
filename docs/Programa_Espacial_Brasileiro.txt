@@ -1,0 +1,34 @@
+passage: Programa: Programa Espacial Brasileiro
+
+Objetivo Geral:
+- Ampliar a disponibilidade e competitividade de soluções espaciais na forma de produtos, serviços, infraestrutura e aplicações para atendimento às demandas da sociedade de forma autônoma e sustentada.
+
+Objetivos Específicos:
+- Ampliar a entrega de produtos, serviços e aplicações espaciais para atender a demandas prioritárias da sociedade
+- Buscar autonomia científica, tecnológica e operacional na área espacial
+
+Indicadores de Entrega:
+- Ambiente de gestão de imagens e dados espaciais implantado 
+- Elevar o número de chamadas lançadas para missões científicas 
+- Elevar o percentual de avanço da tecnologia de motor foguete a propelente líquido no período do PPA 
+- Número de aplicações espaciais desenvolvidas ou atualizadas e entregues 
+- Número de Autorizações de Lançamento emitidas no período do PPA 
+- Número de Campanhas de Lançamento de Balões Estratosféricos 
+- Número de chamadas lançadas para desenvolvimento tecnológico 
+- Número de empresas, ICTs e órgãos capacitados 
+- Número de empresas, ICTs e órgãos fomentados 
+- Número de estudos estratégicos para o setor espacial realizados no período do PPA 
+- Número de iniciativas de capacitação implementadas 
+- Número de iniciativas de promoção da utilização de produtos e serviços espaciais para atendimento a demandas nacionais 
+- Número de missões espaciais acadêmicas ou tecnológicas desenvolvidas no período do PPA 
+- Número de produtos e processos voltados a tecnologias espaciais testados e documentados ao menos em laboratório no período do PPA 
+- Percentual de avanço do desenvolvimento da tecnologia de subsistema para plataformas de satélites 
+- Percentual de avanço do projeto de implantação do centro de lançamento 
+- Percentual de avanço no desenvolvimento da missão espacial do tipo SAR 
+- Percentual de avanço no desenvolvimento de missão científica 
+- Percentual de avanço no desenvolvimento de missão de sensoriamento remoto 
+- Percentual do avanço do projeto do veículo lançador nacional 
+
+Indicadores de Objetivos Específicos:
+- Incremento do número de produtos, serviços e aplicações nacionais entregues: 
+- Percentual de avanço em rotas tecnológicas:

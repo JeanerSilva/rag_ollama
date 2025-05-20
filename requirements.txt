@@ -13,3 +13,5 @@ python-docx>=0.8.11
 pytest
 tiktoken>=0.5.1
 langchain-ollama
+openpyxl
+xlrd

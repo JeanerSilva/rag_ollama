@@ -1,0 +1,109 @@
+passage: Programa: Consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação – SNCTI
+
+Objetivo Geral:
+- Recuperar, expandir, modernizar, consolidar e integrar o Sistema Nacional de Ciência, Tecnologia e Inovação, promovendo a articulação com a sociedade civil e os governos estaduais e municipais, a difusão de capacidades e a redução de assimetrias
+
+Objetivos Específicos:
+- Recuperar, expandir e modernizar a infraestrutura nacional de Pesquisa & Desenvolvimento (P&D)
+- Ampliar o impacto da Ciência & Tecnologia (C&T) nacional, fomentando a geração de conhecimento através do apoio a projetos
+- Promover a formação, capacitação, atração, fixação e ampliação de recursos humanos em projetos de CT&I com atenção à correção de assimetrias
+- Expandir as parcerias estratégicas de cooperação nacional e internacional em CT&I
+- Ampliar a capacidade de pesquisa, desenvolvimento e inovação do ecossistema de segurança cibernética nacional
+- Contribuir com fomento à Infraestrutura Nacional da Qualidade
+
+Indicadores de Entrega:
+- Apoio a projetos não-reembolsável a ICts contratados, voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D) 
+- Avanço na Ampliação e implantação dos Enlaces 
+- Avanço na implantação das Infovias Estaduais 
+- % de beneficiários/ano de bolsas de Produtividade em Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, negros e indígenas em relação ao total de beneficiários/ano de bolsas PQ e DT 
+- Índice de Orientação de Teses e Diessertações no ano 
+- Número de beneficiários/ano de bolsas de Desenvolvimento Científico Regional (DCR) 
+- Número de beneficiários/ano de bolsas de fixação 
+- Número de beneficiários/ano de bolsas de formação (iniciação, mestrado e doutorado) 
+- Número de bolsas concedidas em projetos de desenvolvimento da Infraestrutura Brasileira da Qualidade 
+- Número de empresas e órgãos com capacidades industriais ou institucionais apoiadas 
+- Número de eventos promovidos na área de segurança cibernética 
+- Número de infraestruturas de Pesquisa & Desenvolvimento aptas ao compartilhamento 
+- Número de Infraestruturas de Pesquisa & Desenvolvimento (P&D) disponibilizadas pelas Unidades de Pesquisa do MCTI 
+- Número de instrumentos de Cooperação Internacional firmados 
+- Número de instrumentos de cooperação nacional firmados pelas Unidades de Pesquisa do MCTI 
+- Número de laboratórios recuperados e modernizados 
+- Número de novos laboratórios 
+- Número de participações do Brasil em grandes colaborações científicas internacionais 
+- Número de profissionais qualificados em tecnologias críticas para o setor de segurança cibernética 
+- Número de programas e atividades de cooperação internacional em Ciência, Tecnologia & Inovação (CT&I) apoiados 
+- Número de programas e projetos vigentes em parceria formal com instituições internacionais 
+- Número de projetos contratados 
+- Número de provedores de ensaios de proficiência capacitados em áreas estratégicas 
+- Número de publicações das Unidades de Pesquisa / TNSE 
+- Número de startups fomentadas 
+- Percentual da elaboração de estudos prospectivos sobre potencialidades à serem implementadas nos laboratórios existentes 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de avanço do projeto 
+- Percentual de Crescimento do número de projetos apoiados 
+- Percentual de equipamentos novos, recuperados e/ou modernizados nas regiões N, NE e CO 
+- Percentual de implementação do GraNioTer-MCTI 
+- Percentual de publicações brasileiras na base Scopus com colaboração internacional 
+- Percentual de recursos de apoio não-reembolsável destinado às regiões Norte, Nordeste e Centro-oeste , voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D) 
+- Profissionais capacitados no Curso de Conscientização em Segurança Cibernética 
+- Publicações técnico-científicas com patrocínio do CNPq 
+- Valor de investimento para o estabelecimento do centro de excelência em tecnologias críticas para o setor de segurança cibernética nacional 
+- Valor do dispêndio orçamentário em programas de PD&I relacionados a tecnologias críticas e emergentes para o setor de segurança cibernética 
+
+Indicadores de Objetivos Específicos:
+- Evolução anual da disponibilização de infraestrutura de P&D: 
+- Número de beneficiários atendidos com bolsas do CNPq por 100 mil habitantes: 
+- Número de laboratórios voltados à padronização, metrologia, acreditação e avaliação da conformidade fomentados: 
+- Número de programas, atividades, instrumentos e projetos resultantes de parcerias formais com instituições nacionais e internacionais: 
+- Proporção entre as citações das publicações brasileiras e o total mundial de citações: 
+- Volume de Recursos Aplicados em Projetos de Pesquisa, Desenvolvimento, Inovação e Capacitação em Segurança Cibernética:

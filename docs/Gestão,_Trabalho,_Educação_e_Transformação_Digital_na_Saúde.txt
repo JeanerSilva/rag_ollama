@@ -1,0 +1,65 @@
+passage: Programa: Gestão, Trabalho, Educação e Transformação Digital na Saúde
+
+Objetivo Geral:
+- Aprimorar o cuidado à saúde, fortalecendo a gestão estratégica do SUS, do trabalho e da educação em saúde, e intensificar a incorporação da inovação e da saúde digital e o enfrentamento das discriminações e desigualdades de raça/etnia, de gênero, regionais e sociais.
+
+Objetivos Específicos:
+- Ampliar o acesso a informações de saúde e serviços digitais aos gestores, profissionais e cidadãos
+- Ampliar a oferta de atendimentos realizados por meio da telessaúde no âmbito do SUS em território nacional
+- Fortalecer a Gestão da Educação na Saúde no SUS a partir da integração ensino-serviço-comunidade, da educação permanente em saúde e das residências em saúde e os usuários
+- Ampliar as ações para o fortalecimento da gestão do trabalho na saúde
+- Implantar o Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no Sistema Único de Saúde (SUS) para o enfrentamento às iniquidades em saúde
+- Aumentar a resolutividade da Ouvidoria-Geral do SUS com ênfase no fortalecimento da participação popular e transparência pública
+- Fortalecer o planejamento, o monitoramento, a avaliação e a intersetorialidade, reafirmando o controle social como instância fiscalizadora e deliberativa no SUS
+- Implementar ofertas formativas em rede e EAD como contribuição para a redução das desigualdades regionais e sociais em saúde
+
+Indicadores de Entrega:
+- Número de alunas concluintes pelo Programa Mulheres e Meninas na Ciência 
+- Número de alunos concluintes em cursos de qualificação em EAD no formato autoinstrucional 
+- Número de alunos concluintes em cursos que visem a redução de desigualdades regionais em relação ao letramento digital e transformação digital 
+- Número de alunos concluintes em mestrado profissional nas regiões com maior demanda de formação em saúde 
+- Número de alunos concluintes nas novas turmas do VigiFronteiras 
+- Número de boletins publicizados 
+- Número de bolsas de incentivo à preceptoria de residência médica e de residência em área profissional da saúde financiadas pelo MS 
+- Número de bolsas de residência médica e residência em área profissional da saúde financiadas pelo MS 
+- Número de bolsas financiadas pelo Programa de Educação para o Trabalho na Saúde (PET-SAÚDE) 
+- Número de canais implantados 
+- Número de conjuntos de painéis disponibilizados na Sala de Apoio à Gestão Estratégica (SAGE) 
+- Número de conselheiras e conselheiros de saúde, lideranças de entidades e movimentos sociais capacitados em gestão interfederativa e participativa 
+- Número de estratégias de comunicação em saúde implantadas 
+- Número de estratégias de educação em saúde implantadas 
+- Número de estratégias de gestão em saúde implantadas 
+- Número de gestores/trabalhadores certificados 
+- Número de gestores/trabalhadores certificados 
+- Número de iniciativas de formação realizadas 
+- Número de instrumentos validados 
+- Número de mobilizadoras/es formadas/os 
+- Número de novas funcionalidades disponibilizadas no app e site do Meu SUS Digital 
+- Número de Núcleos de telessaúde em funcionamento 
+- Número de pesquisas realizadas 
+- Número de pessoas capacitadas 
+- Número de pessoas capacitadas 
+- Número de projetos de inovação em saúde digital apoiados 
+- Número de Projetos de Vivências no SUS executados 
+- Número de relatórios de pesquisas concluídas 
+- Número de salas/ambientes de teleatendimento instaladas em estabelecimentos de saúde do SUS 
+- Número de trabalhadores, estudantes, lideranças comunitárias e membros do controle social qualificados em Educação Popular em Saúde 
+- Número de trabalhadores, gestores, usuários e estudantes qualificados em áreas prioritárias do SUS 
+- Número de trabalhadores técnicos de nível médio e pós-técnicos na área de saúde formados 
+- Número de Unidades da Federação com acesso aos dados disponibilizados na Rede Nacional de Dados em Saúde 
+- Percentual das Unidades Básicas de Saúde informatizadas integradas à Rede Nacional de Dados em Saúde (RNDS) para uso do SUS Digital Profissional 
+- Percentual de categorias profissionais com demografias concluídas 
+- Percentual de manifestações respondidas ao cidadão em até 30 dias do recebimento 
+- Percentual de Mesas Estaduais e Municipais de Negociação Permanente do SUS aderidas ao SiNNP-SUS 
+- Percentual de municípios atendidos por meio da telessaúde 
+- Percentual de preceptores e gestores de programas de residências em saúde qualificados 
+
+Indicadores de Objetivos Específicos:
+- Número de alunos concluintes nas ações formativas para redução das desigualdades regionais e sociais em saúde: 
+- Número de atendimentos de telessaúde realizados: 
+- Número de entes federados com Relatório de Gestão encaminhado para apreciação no Conselho de Saúde: 
+- Número de estratégias e dispositivos implantados: 
+- Número de serviços digitais disponibilizados para o SUS: 
+- Número de trabalhadores, gestores, estudantes e usuários qualificados: 
+- Percentual de ações desenvolvidas por UF: 
+- Percentual de manifestações respondidas ao cidadão em até 30 dias do recebimento:

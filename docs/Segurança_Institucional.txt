@@ -1,0 +1,25 @@
+passage: Programa: Segurança Institucional
+
+Objetivo Geral:
+- Elevar o nível de segurança do Estado e da sociedade por meio de ações de articulação e assessoramento político e estratégico
+
+Objetivos Específicos:
+- Fortalecer a Cultura Integrada de Segurança das Instituições, do Estado e da Sociedade
+- Contribuir para a Garantia da Soberania, dos Interesses Nacionais, da Segurança do Estado e da Sociedade e da Proteção de Áreas Estratégicas
+
+Indicadores de Entrega:
+- Índice das Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas perante as solicitadas 
+- Índice de implantação do Sistema de Proteção das Instalações Presidenciais (ProPR) 
+- Índice de incidentes e vulnerabilidades cibernéticos tratados perante aos identificados 
+- Índice de Notas Técnicas de Assentimento-Anuência Produzidas perante o Número de Requerimentos 
+- Índice de qualificação e designação de Gestores de Segurança da Informação ou de Cibersegurança perante o número de órgãos da APF 
+- Índice de riscos emergentes identificados e tratados 
+- Índice de tratamento de Incidentes de Segurança das Instalações Presidenciais 
+- Número de campanhas realizadas 
+- Número de eventos sobre segurança institucional realizados (seminários, workshops, palestras e cursos) 
+- Percentual de eventos de emergência e proteção física nuclear realizados do Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON) 
+- Porcentagem de execução das ações do Programa de Proteção Integrada de Fronteiras (PPIF) 
+
+Indicadores de Objetivos Específicos:
+- Indíce de contribuição para garantia da soberania e dos interesses nacionais e da segurança do estado e da proteção das áreas estratégicas: 
+- Índice de fortalecimento da cultura integrada de segurança, das instituições do estado e da sociedade:

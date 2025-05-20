@@ -1,0 +1,41 @@
+passage: Programa: Saneamento Básico
+
+Objetivo Geral:
+- Ampliar o acesso e melhorar a qualidade das ações e dos serviços de saneamento básico nas áreas urbanas e rurais, visando a universalização e a integração entre as políticas públicas relacionadas, segundo os princípios da equidade, integralidade e sustentabilidade
+
+Objetivos Específicos:
+- Ampliar o acesso da população aos serviços adequados de abastecimento de água no meio urbano
+- Ampliar o acesso aos sistemas e às soluções alternativas de abastecimento de água no meio rural
+- Ampliar o acesso da população aos serviços adequados de esgotamento sanitário no meio urbano
+- Ampliar o acesso aos sistemas e às soluções alternativas de esgotamento sanitário no meio rural
+- Diminuir o risco de inundações através da implantação, ampliação ou melhoria dos sistemas de drenagem urbana e manejo de águas pluviais
+- Ampliar o acesso da população aos serviços adequados de manejo de resíduos sólidos e limpeza urbana
+- Melhorar a capacidade institucional dos titulares, prestadores e reguladores dos serviços públicos de saneamento básico
+
+Indicadores de Entrega:
+- Empreendimento entregue 
+- Empreendimento entregue 
+- Empreendimento entregue 
+- Novo PAC: empreendimentos entregues no subeixo Abastecimento de Água (eixo Água para Todos) 
+- Novo PAC: empreendimentos entregues no subeixo Esgotamento Sanitário (eixo Cidades Sustentáveis e Resilientes) 
+- Número de empreendimentos contratados para obras de Drenagem Urbana Sustentável e de Manejo de Águas Pluviais 
+- Número de empreendimentos entregues no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes) 
+- Número de pessoas capacitadas 
+- Percentual de adesão de entidades reguladoras infranacionais (ERIs) às normas de referência da ANA 
+- População beneficiada com a Implantação de Sistemas de Esgotamento Sanitário nos estados de Alagoas, Bahia, Maranhão, Minas Gerais, Pernambuco, Piauí e Sergipe 
+- Quantidade de empreendimentos concluídos no período, para população rural 
+- Quantidade de empreendimentos de sistemas ou soluções alternativas concluídos no período, para população rural 
+- Quantidade de empreendimentos entregues que receberam ações de apoio à gestão 
+- Valor alocado para seleção (R$) 
+- Valor alocado para seleção (R$) 
+- Valor alocado para seleção (R$) 
+- Valor alocado para seleção (R$) 
+
+Indicadores de Objetivos Específicos:
+- Parcela de domicílios não sujeitos a situação de risco de inundação (SINISA): 
+- Percentual de domicílios rurais abastecidos com água por rede de distribuição ou por poço ou nascente: 
+- Percentual de domicílios rurais servidos por rede coletora ou fossa séptica para os excretas ou esgotos sanitários ou outras soluções adequadas: 
+- Percentual de domicílios urbanos abastecidos com água por rede de distribuição ou por poço ou nascente: 
+- Percentual de domicílios urbanos servidos por rede coletora ou fossa séptica para os excretas ou esgotos sanitários: 
+- Porcentagem de municípios com planos de saneamento básico (SINISA): 
+- Proporção de Resíduos Sólidos Urbanos Coletados com destinação final adequada:

@@ -1,0 +1,27 @@
+passage: Programa: Sistema Financeiro do Futuro
+
+Objetivo Geral:
+- Fomentar a eficiência, a sustentabilidade e a transformação digital dos sistemas financeiro e de pagamentos, com maior inclusão e educação financeira de cidadãos.
+
+Objetivos Específicos:
+- Promover a transformação digital e a competição para ampliar o acesso a transações e serviços financeiros e de pagamentos.
+- Aprimorar a resiliência operacional do Sistema Financeiro Nacional (SFN), promovendo ações para fortalecimento da gestão da resiliência cibernética nas entidades supervisionadas.
+- Ampliar o alcance da população, em especial do público escolar, a conteúdos de educação financeira, história dos instrumentos de pagamentos, conceitos básicos de economia e de sustentabilidade.
+
+Indicadores de Entrega:
+- Exercícios cibernéticos 
+- Museu de Valores do BC - virtual lançando 
+- Nova plataforma do Programa Aprender Valor implementada 
+- Novas tecnologias Pix implementadas 
+- Novo Museu de Valores do BC inaugurado 
+- Open finance – compartilhamento de dados de investimentos e câmbio implementado 
+- Open finance – jornada sem redirecionamento na iniciação de pagamento implementado 
+- Pix automático implementado 
+- Quantidade de Entidades supervisionadas (ESs) incluídas no mapa 
+- Quantidade de Workshops realizados 
+- Real Digital Implementado 
+
+Indicadores de Objetivos Específicos:
+- Índice de alcance das ações de Educação Financeira do Banco Central do Brasil: 
+- Índice de execução das ações para fortalecimento da gestão da resiliência cibernética no SFN: 
+- Número de transações digitais anuais per capita:

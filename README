@@ -39,3 +39,20 @@ helm upgrade --install ppa-chatbot ./charts/ppa-chatbot
 
 
 pytest tests/
+
+
+
+
+Programa: [nome do programa]
+
+Objetivo Geral:
+- [texto objetivo geral 1]
+- [texto objetivo geral 2]
+
+Objetivos Específicos:
+- [texto objetivo específico 1]
+- [texto objetivo específico 2]
+
+Indicadores:
+- [indicador 1] – [meta 1]
+- [indicador 2] – [meta 2]

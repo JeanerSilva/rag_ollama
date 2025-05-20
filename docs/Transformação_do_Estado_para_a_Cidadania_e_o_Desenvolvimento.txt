@@ -1,0 +1,52 @@
+passage: Programa: Transformação do Estado para a Cidadania e o Desenvolvimento
+
+Objetivo Geral:
+- Ampliar e qualificar a gestão, os serviços e as políticas governamentais, para a sociedade e a administração pública, apoiando e potencializando a inovação e o fortalecimento das capacidades do Estado.
+
+Objetivos Específicos:
+- Implantar o sistema de identificação do cidadão com o estabelecimento da Carteira de Identidade Nacional.
+- Ampliar a destinação de imóveis da União para políticas públicas, com foco na habitação de interesse social
+- Fortalecer as capacidades estatais pelo aperfeiçoamento do sistema de carreiras e de gestão de pessoas, pela qualificação no recrutamento e desenvolvimento de competências e pela democratização das relações de trabalho na Administração Pública Federal.
+- Impulsionar a adesão aos sistemas estruturantes de gestão para a promoção da inovação, da transformação e da ampliação da capacidade do Estado para geração de valor na prestação de serviços públicos.
+- Ampliar a transformação digital na União e nos demais entes federados.
+- Ampliar o acesso aos documentos, por meio do fortalecimento da gestão de documentos e arquivos, sob coordenação do Arquivo Nacional, assegurando o direito à informação e à memória do País.
+- Promover o alinhamento entre as empresas estatais federais e as políticas públicas.
+- Induzir políticas estratégicas de compras e parcerias governamentais que impulsionem o desenvolvimento econômico e social inclusivo, solidário e sustentável.
+
+Indicadores de Entrega:
+- Ampliação do número de órgãos com planos de transformação digital pactuados 
+- Ampliação do perceptual de serviços públicos digitais utilizando a API de Avaliação 
+- % de Módulos do Novo Sistema de Informações e Relacionamento das Empresas Estatais desenvolvidos e implementados 
+- Indice de maturidade em gestão de documentos de arquivos alcançados pelos órgãos e entidades da Administração Pública Federal 
+- Indice de maturidade em gestão de documentos de arquivos alcançados pelos órgãos e entidades da Administração Pública Federal 
+- Índice de processos negociais abertos com entidades sindicais 
+- Índice geral de assinaturas eletrônicas avançadas Gov.br realizadas 
+- Índice geral de assinaturas eletrônicas qualificadas realizadas 
+- Integração dos cadastros administrativos federais existentes ao CIN 
+- Número acumulado de arquivos públicos, privados e comunitários participantes do Sistema Nacional de Arquivos (SINAR) 
+- Número de certificados avançados emitidos 
+- Número de certificados ICP-Brasil emitidos 
+- Número de documentos acessados 
+- Número de documentos digitalizados 
+- Número de famílias beneficiadas em programas habitacionais de interesse social 
+- Número de imóveis disponibilizados para políticas públicas 
+- Número de Ministérios atendidos pelo COLABORAGOV 
+- Número de municípios aderidos à Rede Gov.br 
+- Número de serviços incluídos no Corpus do VLIBRAS 
+- Percentual de produtos de dados inseridos ou evoluídos no Observatório de Pessoal 
+- Percentual dos municípios com mais de 300 mil habitantes integrados a algum serviço da ID Digital 
+- Quantidade de formações e iniciativas em temáticas estratégicas ofertadas 
+- Taxa de adesão de Estados aos serviços e soluções de gestão 
+- Valor total acumulado com compras centralizadas 
+- Variação na quantidade de certificados emitidos para agentes públicos estaduais e municipais em ação de desenvolvimento síncrona da Enap 
+- Variação na quantidade de certificados emitidos para agentes públicos estaduais e municipais em curso da EV.G 
+
+Indicadores de Objetivos Específicos:
+- Indicador de Governança das Empresas Estatais - IG-SEST: 
+- Indice de adesão às soluções de modernização sobre responsabilidade da SEGES pública: 
+- Índice federativo de uso do ComprasGov: 
+- Número de documentos disponibilizados à consulta pública no Sistema de Informações do Arquivo Nacional: 
+- Percentual acumulado de CINs emitidas pela população: 
+- Percentual de necessidades de desenvolvimento informadas pelos órgãos e entidades que enviarem seu respectivo relatório no prazo legal com execução de ações de desenvolvimento: 
+- Taxa de municípios com mais de 300 mil habitantes utilizando ao menos uma das soluções de governo digital providas pela SGD: 
+- Valor total dos imóveis destinados para políticas públicas:

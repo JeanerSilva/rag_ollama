@@ -66,15 +66,15 @@ def create_vectorstore():
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,
         
-        #separators=[
-        #"\n\n",  # parágrafos
-        #"\n",    # quebras de linha
-        #".",     # frases
-        #";",     # sentenças curtas
-        #",",     # frases compostas
-        #" ",     # fallback: palavras
-        #""       # fallback final: caractere por caractere
-        #]
+        separators=[
+        "\n\n",  # parágrafos
+        "\n",    # quebras de linha
+        ".",     # frases
+        ";",     # sentenças curtas
+        ",",     # frases compostas
+        " ",     # fallback: palavras
+        ""       # fallback final: caractere por caractere
+        ]
     )
 
     sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")

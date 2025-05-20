@@ -1,0 +1,31 @@
+passage: Programa: Proteção Social pelo Sistema Único de Assistência Social (SUAS)
+
+Objetivo Geral:
+- Fortalecer e ampliar o acesso aos serviços e benefícios socioassistenciais às famílias e pessoas em situações de vulnerabilidade, riscos pessoais e sociais e violações de direitos, contribuindo para a redução das desigualdades e a inclusão socioeconômica.
+
+Objetivos Específicos:
+- Manter, qualificar e ampliar os serviços e programas de Proteção Social Básica ofertados às famílias e pessoas em situações de vulnerabilidade social.
+- Manter, qualificar e ampliar os serviços e programas de Proteção Social Especial ofertados às famílias e pessoas em situações de risco social, violência e violação de direitos
+- Promover a proteção e o desenvolvimento integral das crianças na primeira infância, considerando sua família e seu contexto de vida
+- Aprimorar a gestão do BPC para reduzir o tempo de concessão dos benefícios, agilizando o acesso dos requerentes
+- Fortalecer e qualificar a gestão do Sistema Único de Assistência Social (SUAS) e os mecanismos democráticos de participação e controle social
+
+Indicadores de Entrega:
+- Municípios cujos Conselhos de Assistência Social apresentam proporcionalidade entre os segmentos da sociedade civil (trabalhadores, usuários e entidades) adequada à Resolução CNAS Nº 100/202 
+- Número de municípios com cobertura de CREAS 
+- Número de municípios com cofinanciamento federal para ações estratégicas do PETI 
+- Número de municípios ofertando o Serviço de Acolhimento em Família Acolhedora para crianças e adolescentes 
+- Número de unidades Centro Pop em funcionamento 
+- Número de vagas ofertadas pelos serviços de acolhimento 
+- Percentual de crianças de 0 a 3 anos inscritas no Cadastro Único, atendidas pelo Programa Primeira Infância no SUAS / Criança Feliz 
+- Percentual de famílias com renda de até 1/2 salário-mínimo inscritas no Cadastro Único referenciadas por CRAS cofinanciados pelo Governo Federal 
+- Percentual de municípios com preenchimento do Prontuário Eletrônico do SUAS 
+- Tempo Médio de Concessão (TMC) do BPC para as pessoas com deficiência (PcD) 
+- Tempo Médio de Concessão (TMC) do BPC para as pessoas idosas 
+
+Indicadores de Objetivos Específicos:
+- Percentual de famílias com renda de até ½ salário-mínimo inscritas no Cadastro Único, cobertas por unidades CRAS: 
+- Percentual de municípios com adesão ao Programa Primeira Infância no SUAS/Criança Feliz, em relação ao quantitativo de municípios elegíveis ao Programa: 
+- Percentual de municípios com preenchimento dos sistemas de registro e monitoramento dos requisitos do Art. 30 da LOAS (Conselho, Fundo e Plano de Assistência Social): 
+- Percentual de municípios com presença de serviços e unidades de Proteção Social Especial (PSE) de Média ou Alta Complexidades: 
+- Tempo Médio de Concessão (TMC) para o BPC (PcD e Idoso):
