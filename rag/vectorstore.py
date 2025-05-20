@@ -15,6 +15,7 @@ from transformers import AutoTokenizer
 
 
 
+
 from settings import EMBEDDING_MODEL, CHUNK_OVERLAP, CHUNK_SIZE
 
 def create_vectorstore():
@@ -59,11 +60,12 @@ def create_vectorstore():
 
     tokenizer = AutoTokenizer.from_pretrained(EMBEDDING_MODEL)
 
+    # Splitter baseado em tokens reais
     splitter = TokenTextSplitter.from_huggingface_tokenizer(
         tokenizer=tokenizer,
-        chunk_size=CHUNK_SIZE,  # Tokens, não caracteres
-        chunk_overlap=CHUNK_OVERLAP,
-
+        chunk_size=600,
+        chunk_overlap=100,
+        
         #separators=[
         #"\n\n",  # parágrafos
         #"\n",    # quebras de linha
@@ -76,9 +78,10 @@ def create_vectorstore():
     )
 
     sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")
-
+    # Carregamento e divisão dos documentos
     chunks = splitter.split_documents(docs)
-    # Prefixar cada chunk com "passage: " para compatibilidade com e5
+
+    # Prefixar "passage: " para compatibilidade com E5
     for chunk in chunks:
         chunk.page_content = f"passage: {chunk.page_content.strip()}"
 

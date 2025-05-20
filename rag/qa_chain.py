@@ -33,7 +33,9 @@ def build_qa_chain(vectorstore):
     # Cria a cadeia QA com recuperação de fontes
     qa_chain = RetrievalQA.from_chain_type(
         llm=llm,
-        retriever=vectorstore.as_retriever(search_type="similarity", k=k),
+        #retriever=vectorstore.as_retriever(search_type="similarity", k=k),
+        retriever=vectorstore.as_retriever(search_type="mmr", k=k, fetch_k=30),
+
         return_source_documents=True,
         chain_type_kwargs={"prompt": get_custom_prompt()}
     )
