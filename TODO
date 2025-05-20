@@ -1,0 +1,5 @@
+Permitir a edição do prompt
+Retirar a possibilidade de alterar o K, considerando que os chunks terao valor definido
+Permitir a escolha do modelo na hora da pergunta (tem que indexar em todos) e criar tela de configuração para o settings
+Alterar a parte de documentos para permitir a gestão pela web (adicionar, excluir...)
+Criar modelo para incorporação do conteúdo do PPA (Tabelas SIOP)
