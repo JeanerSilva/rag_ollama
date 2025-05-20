@@ -63,8 +63,8 @@ def create_vectorstore():
     # Splitter baseado em tokens reais
     splitter = TokenTextSplitter.from_huggingface_tokenizer(
         tokenizer=tokenizer,
-        chunk_size=600,
-        chunk_overlap=100,
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP,
         
         #separators=[
         #"\n\n",  # parágrafos
