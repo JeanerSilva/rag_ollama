@@ -1,0 +1,3838 @@
+passage: Programa Número 2321
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 991
+Indicador: 9990
+Denominação: Área beneficiada
+Sigla: AB
+Índice De Referência: 70000.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: O indicador reflete o total da área beneficiada pelas diferentes práticas de conservação de água e solo
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PIPs = Projetos Individuais de Propriedade ( projeto executivo de todas as intervenções em uma propriedade, que incluem reflorestamento, cercamento, barraginhas, terraços, sistemas de saneamento rural, dentre outras)
+Fonte De Dados Das Variáveis De Cálculo: Painel gerencial do Produtor de Água, alimentado com informações fornecidas pelos parceiros responsáveis pelos projetos.
+Forma De Disponibilização: No site da ANA, com atualização semestral
+Procedimento De Cálculo: Os dados podem ser diretamente obtidos no Painel Gerencial do Produtor de Água
+Limitações: Não há
+Notas Explicativas: O indicador considera as áreas das propriedades onde foram realizadas intervenções para conservação de água e solo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 1614
+Indicador: 10808
+Denominação: Área hidroambientalmente recuperada
+Sigla: AR
+Índice De Referência: 4812.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Área hidroambientalmente recuperada
+Período Ou Data A Que Se Refere: Mensal
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Área Hidroambientalmente Recuperada; An = Área de drenagem cujo escoamento superficial foi controlado e ampliada infiltração por meio da ação/ intervenção do tipo n; Cn = Coeficiente de Recuperação Hidroambiental do tipo n de ação/ intervenção.
+Fonte De Dados Das Variáveis De Cálculo: Fiscais de contratos e Sistemas de Gestão de Contratos da Codevasf
+Notas Explicativas: Cn variável de acordo com o grau de restauração dos serviços ambientais da área beneficiada que a ação/ intervenção n promove.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 2089
+Indicador: 11441
+Denominação: Área total beneficiada por ações de revitalização de bacias hidrográficas
+Sigla: ATB
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: ha
+Descrição: Área total beneficiada por ações de revitalização de bacias hidrográficas realizadas pelo DNOCS
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Área Hidroambientalmente Recuperada;
+Ai = área total beneficiada por ações de revitalização
+At= área total da bacia hidrográfica a recuperar.
+Fonte De Dados Das Variáveis De Cálculo: Fiscais de Contrato/Convênio e Diretoria de Infraestrutura Hídrica do DNOCS
+Forma De Disponibilização: As informações podem ser disponibilizadas por meio de Relatório, com periodicidade quadrimestral.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 2084
+Indicador: 11425
+Denominação: Área total beneficiada por iniciativas de revitalização de bacias hidrográficas
+Sigla: ATBRB
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: ha
+Descrição: Área em hectares beneficiada por iniciativas de revitalização de bacias hidrográficas.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= Área total beneficiada
+Fonte De Dados Das Variáveis De Cálculo: Registros internos administrativos, Processos SEI.
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório da área total beneficiada pelas iniciativas de revitalização de bacias hidrográficas.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 2114
+Indicador: 11468
+Denominação: Bacias interestaduais com a cobrança implementada
+Sigla: UGRH CBH
+Índice De Referência: 6.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Unidades de Gestão de Recursos Hídricos (CBHs) com a cobrança implementada
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de UGHs CBH que implementaram a Cobrança
+Fonte De Dados Das Variáveis De Cálculo: Normativos publicados pelos governos estaduais, pelos conselhos nacional e estaduais de recursos hídricos, e pelos comitês de bacia hidrográficas
+Forma De Disponibilização: Site institucional da Agência Nacional de Águas e Saneamento Básico
+Procedimento De Cálculo: soma simples do número de UGHs CBH que implementaram a Cobrança ao final de cada ano
+Notas Explicativas: O indicador demonstra o avanço da implementação do instrumento da Cobrança no SINGREH, principalmente a sua abrangência geográfica. Outros indicadores complementares podem ser necessários a análises mais detalhadas, como % arrecadado e % executado a partir dos recursos cobrados, os quais não estão abrangidos pelo presente indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1781
+Indicador: 11057
+Denominação: Certificados emitidos
+Sigla: CE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de certificados emitidos em ações de capacitação realizadas pelo Serviço Geológico do Brasil (SGB-CPRM), em cada ano do PPA
+Período Ou Data A Que Se Refere: janeiro a dezembro do exercício corrente
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: certificados emitidos por capacitação realizada no ano base de apuração
+Fonte De Dados Das Variáveis De Cálculo: Dados registrados em processos SEI, com os certificados emitidos
+Forma De Disponibilização: Site do SGB (http://www.cprm.gov.br) e RIGeo - Repositório Institucional de Geociências (https://rigeo.cprm.gov.br)
+Procedimento De Cálculo: Apuração e somatório do total de certificados emitidos e registrados em processo SEI,  no ano-base de apuração
+Limitações: O indicador não mede o nível de conhecimento assimilado pelos participantes das capacitações.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1053
+Indicador: 10054
+Denominação: Estados da federação com a cobrança implementada
+Sigla: UGRH DF
+Índice De Referência: 6.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Unidades de Gestão de Recursos Hídricos (Estados) com a cobrança implementada
+Período Ou Data A Que Se Refere: anual
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de UGHs UF que implementaram a Cobrança
+
+Sendo UGH - Unidades de Gestão de Recursos Hídricos
+Fonte De Dados Das Variáveis De Cálculo: Normativos publicados pelos governos estaduais, pelos conselhos nacional e estaduais de recursos hídricos, e pelos comitês de bacia hidrográficas
+Forma De Disponibilização: Site institucional da Agência Nacional de Águas e Saneamento Básico
+Procedimento De Cálculo: soma simples do número de UGHs UF que implementaram a Cobrança ao final de cada ano
+Notas Explicativas: O indicador demonstra o avanço da implementação do instrumento da Cobrança no SINGREH, principalmente a sua abrangência geográfica. Outros indicadores complementares podem ser necessários a análises mais detalhadas, como % arrecadado e % executado a partir dos recursos cobrados, os quais não estão abrangidos pelo presente indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 3409
+Indicador: 12755
+Denominação: Implantar 100% da Adutora do Seridó Eixo Sul
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2025-01-01 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: mês anterior ao período de referência
+Data De Divulgação/Disponibilização: 31 de dezembro de cada ano
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: SIGEC
+Procedimento De Cálculo: Realizar somatório dos percentuais de execução física dos contratos do empreendimento
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1227
+Indicador: 10292
+Denominação: Número de barragens com planos de segurança de barragem e planos de ação emergencial elaborados
+Sigla: PSB/PAE elaborad
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: PSB/PAE elaborados, com a entrega de todos os volumes previstos, segundo o exigível de cada barragem, conforme normativos dos órgãos fiscalizadores
+Data De Divulgação/Disponibilização: 31 dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Forma De Disponibilização: Relatório de Gestão Anual disponibilizados no site do Dnocs.
+Procedimento De Cálculo: somatório de PSB/PAE elaborados
+Notas Explicativas: O indicador considera os PSB/PAE com todos os volumes entregues ao DNOCS pela empresa contratada.
+PSB/PAE com todos os volumes previstos entregues pela contratada.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1757
+Indicador: 11032
+Denominação: Número de barragens com relatórios/diagnósticos elaborados
+Sigla: Relatórios/diagn
+Índice De Referência: 119.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O Relatório de Segurança de Barragens - RSB apresenta à sociedade um panorama da evolução da segurança das barragens brasileiras e da implementação da PNSB, incluindo a melhoria da gestão da segurança.
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ISR - Inspeção de Segurança Regular
+Fonte De Dados Das Variáveis De Cálculo: Relatório de inspeção.
+Forma De Disponibilização: Relatórios de inspeção elaborados e encaminhados aos órgãos fiscalizadores
+Procedimento De Cálculo: Somatório dos relatórios de ISR elaborados dentro do período de apuração (anual)
+Limitações: não se aplica
+Notas Explicativas: o indicador considera os relatórios de ISR elaborados, relativos a visitas realizadas dentro do período de ao período de apuração (anualmente).
+
+Política Nacional de Segurança de barragens - PNSB
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1239
+Indicador: 10307
+Denominação: Número de barragens recuperadas
+Sigla: NBR
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Barragens e demais infraestruturas hídricas devidamente recuperadas dentro de parâmetros técnicos de segurança e uso, incluindo a regularização jurídica relativa a meio-ambiente, recursos hídricos e segurança de barragens, com os projetos, planos e estudos necessários às reabilitações.
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Forma De Disponibilização: Relatório de Gestão Anual disponibilizado no site.
+Procedimento De Cálculo: verificação das obras concluídas, tendo como fonte relatórios de andamento de obras, termos de recebimento ou outro documento de acompanhamento da intervenção
+Notas Explicativas: o indicador considera barragens que sofreram intervenções para recuperação, modernização ou adequação com vistas a garantir sua segurança, cujas obras foram concluídas durante o período de apuração (anualmente).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2119
+Indicador: 11474
+Denominação: Número de famílias beneficiadas com acesso à água, em quantidade e qualidade, para consumo e/ou produção
+Sigla: NFB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador "Número de famílias beneficiadas com acesso à água, em quantidade e qualidade, para consumo e/ou produção" é uma métrica essencial para avaliar o progresso na ampliação do acesso à água em comunidades rurais, compreendendo populações em situação de escassez hídrica, povos e comunidades tradicionais, populações ribeirinhas, comunidades periféricas, comunidades rurais dispersas. Ele mede quantas famílias estão sendo beneficiadas com a disponibilidade de água de produção e/ou potável em locais produtivos ou suas moradias. É relevante porque as famílias são os pilares que sustentam a estrutura social, cultural e econômica dessas localidades.
+Outrossim, permite acompanhar o progresso ao longo do tempo e comparar diferentes regiões, a partir de dados oficializados, como, por exemplo, IBGE, proporcionando uma visão abrangente do alcance das ações implementadas.
+O número de famílias atendidas é uma medida concreta e mensurável, que fornece um valor numérico que pode ser comparado ao longo do tempo e em diferentes áreas geográficas, permitindo uma avaliação clara do progresso e resultados alcançados, que poderão auxiliar no monitoramento do desempenho e na identificação de lacunas a serem preenchidas. Posteriormente, os gestores públicos, bem como os formuladores de políticas poderão fazer uso dessas informações para identificar as áreas com maior necessidade e realizar priorizações para ampliar a cobertura em locais onde mais precisam. Por fim, permitirá identificar disparidades e desigualdades existentes, direcionando esforços para as comunidades rurais que estão mais marginalizadas e com menor acesso à água de produção e/ou potável.
+Período Ou Data A Que Se Refere: ano (1º de janeiro a 31 de dezembro)
+Data De Divulgação/Disponibilização: 31 de janeiro (30 dias após o final do exercício)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: FB = número de famílias beneficiadas com acesso à água, em quantidade e qualidade, para consumo e/ou produção.
+Fonte De Dados Das Variáveis De Cálculo: Planilha "Acesso à Água" sob gestão da SDR, onde são registrados os dados de acompanhamento das implantações das tecnologias comunitárias de acesso à água, incluindo a quantidade de famílias beneficiadas.
+Forma De Disponibilização: A Planilha "Acesso à Água ", sob gestão da SDR, contendo os registros de acompanhamento da quantidade de famílias beneficiadas, será publicada no sítio eletrônico do Ministério da Integração e do Desenvolvimento Regional, na seção "Assunto >>> Desenvolvimento Regional", no âmbito da SDR, de forma anual, até o 10º dia útil após a apuração do indicador.
+Procedimento De Cálculo: Procedimento de cálculo do indicador NFB:
+1. pessoa indicada da SDR registra os dados na Planilha "Acesso à Água", sob gestão da unidade;
+2. em seguida, para apurar o número de famílias atendidas, filtra-se, na coluna "Indicador PPA", a situação "SIM".
+3. Por fim, soma-se o número de famílias beneficiadas na coluna "Indicador NFB" da referida planilha até o ano de referência, de acordo com a seguinte fórmula de cálculo: Somatório FB.
+
+Vale ressaltar que, considerando os avanços tecnológicos, a SDR busca realizar aprimoramentos no sentido de automatizar seus processos internos, no que for possível. Assim, está em planejamento a elaboração de painéis personalizados com os indicadores de desempenho mais relevantes sob gestão da Secretaria para facilitar o acompanhamento dos resultados. Quando implantado, será possível extrair os dados de apuração do indicador via arquivo Excel.
+Limitações: O indicador concentra-se na quantidade de famílias beneficiadas, deixando de lado outros aspectos importantes, como a qualidade da água fornecida, pois, em algumas localidades de municípios do Nordeste, por exemplo, há incidência de água salobra imprópria para produção, e a sustentabilidade das fontes de abastecimento. É importante, por conseguinte, complementá-lo com outras métricas que abordem essas questões, principalmente, quando for referência para a formulação novas políticas votadas à temática produtiva; ele não considera suficiência do suprimento de água para atender às necessidades delas de forma adequada, é que algumas famílias podem ter uma demanda maior de água devido a fatores como o número de indivíduos do grupo familiar, atividades econômicas diversas (criação de animais como ovelhas) ou condições climáticas; e, também, não fornece informações sobre a sustentabilidade a longo prazo do abastecimento de água, pois se espera uma disponibilidade contínua e de forma sustentável; e, finalmente, não avalia a satisfação das famílias atendidas, que seria o caso de complementá-lo com outro indicador que possa identificar a percepção delas quanto ao impacto no desenvolvimento socioeconômico e à qualidade da água (potabilidade).
+
+Ademais, a implantação de tecnologias comunitárias de acesso à água para produção poderá ser financiada pela Ação 00SX - Apoio a Projetos de Desenvolvimento Sustentável Local Integrado, vinculada ao Programa de Desenvolvimento Regional e Ordenamento Territorial, deixando de ser apurada neste indicador.
+Notas Explicativas: Adota-se critério de 1 sistema simplificado de abastecimento de água (ssaa) para atender cerca de 200 pessoas (convertendo para famílias, seria cerca de 40 famílias), ocorre que há algumas especificidades que o quantitativo pode variar para mais ou para menos, inclusive devido à vazão do poço perfurado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1761
+Indicador: 11035
+Denominação: Número de municípios com poços monitorados (RIMAS)
+Sigla: NPM
+Índice De Referência: 251.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Sintese de todas as atividades relacionadas com coleta, medição, validação, consolidação interpretação de dados e informações, bem como administração de base de dados, elaboração de relatórios técnicos e mapas temáticos em hidrogeologia.
+Período Ou Data A Que Se Refere: JANEIRO A DEZEMBRO do exercício corrente
+Data De Divulgação/Disponibilização: 31 DEZEMBRO
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NM_RIMAS (acumulado total)=Total de municípios com ao menos um poço da RIMAS monitorado no ano.
+
+NM_RIMAS (acumulado PPA): Número de novos municípios com poços RIMAS monitorados ano 2024 até 2027.
+Fonte De Dados Das Variáveis De Cálculo: https://rimasweb.sgb.gov.br/layout/
+Forma De Disponibilização: https://rimasweb.sgb.gov.br/layout/
+Procedimento De Cálculo: A cada ano de exercício do PPA, serão levantados os números de municípios beneficiados pelos poços da Rede RIMAS e somados a linha de base informada.
+
+NM_RIMAS(acumulado_total) = NM_RIMAS(acumuladoPPA) + Linha base (2023) 
+
+Serão considerados como novos municípios para acréscimo na base, os municípios que atenderem os critérios estabelecidos para a variável estabelecida 
+
+Critério de inclusão do município no calculo :
+O município não deve constar na base de dados utilizada para o cálculo da linha de base.
+ O município é considerado monitorado se tiver ao menos 1 poço da Rede RIMAS com dados válidos de monitoramento no ano de referência.
+ Se um município tiver mais de um poço, ele ainda conta apenas uma vez no total anual.
+ O cruzamento entre a localização dos poços (georreferenciada) e os limites municipais garante precisão.
+Limitações: O indicador fornece dados pontuais.Infromação sobre a disponibilidade hídrica dos aquíferos devem considerar  o conjunto de dados levantados
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1036
+Indicador: 10037
+Denominação: Número de novas estações piezométricas telemétricas instaladas ou estações piezométricas convencionais, já instaladas, convertidas em telemétricas com disponibilização regular de dados na plataforma hidrotelemetria
+Sigla: PZ
+Índice De Referência: 50.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de novas estações instaladas ou número de estações convencionais convertidas
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Q1 = quantidade de estações piezométricas convencionais convertidas em telemétricas;
+Q2 = quantidade de novas estações piezométricas telemétricas instaladas
+Fonte De Dados Das Variáveis De Cálculo: Apuração feita pela COSUB/SPP/ANA, com informações disponibilizadas no site hidrotelemetria da ANA
+Forma De Disponibilização: O indicador será disponibilizado no site da ANA na internet (portal de acompanhamento do Planejamento Estratégico Institucional).
+Procedimento De Cálculo: Somatório de Q1 e Q2
+Q1 = quantidade de estações piezométricas convencionais convertidas em telemétricas;
+Q2 = quantidade de novas estações piezométricas telemétricas instaladas
+Limitações: Dados em números inteiros
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 1413
+Indicador: 11307
+Denominação: Número de participantes de eventos e capacitações
+Sigla: NMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador "número de participantes" refere-se à métrica que mede a quantidade de pessoas envolvidas em uma determinada atividade, projeto, campanha ou evento. Esse indicador é utilizado para avaliar o alcance e o impacto das ações, bem como a eficiência na mobilização e conscientização social. O número de participantes pode indicar o grau de envolvimento das comunidades, o alcance das atividades e o potencial de influenciar mudanças positivas. Um aumento no número de participantes ao longo do tempo pode indicar uma maior conscientização e adesão às ações propostas.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número total de participantes
+Fonte De Dados Das Variáveis De Cálculo: Registros de participantes das campanhas, eventos e capacitações, por meio de inscrições, listas de presença, formulários de feedback, sistemas de registro eletrônico, entre outros.
+Forma De Disponibilização: Relatório Anual
+Procedimento De Cálculo: Soma simples
+Limitações: Esse indicador fornece apenas uma medida quantitativa da participação, não capturando aspectos como a compreensão das ações, o engajamento efetivo e a diversidade demográfica dos participantes, no entanto os relatórios a serem elaborados podem considerar essas dimensões.
+Notas Explicativas: Ao coletar os dados de participação, é recomendado incluir informações como nome, contato, afiliação organizacional (se aplicável) e informações adicionais sobre o contexto em que os números de participantes foram coletados, como a duração das campanhas, a frequência dos eventos e capacitações, os métodos de divulgação utilizados, os critérios de inclusão dos participantes, feedbacks e percepções dos participantes, bem como a avaliação da implementação de práticas sustentáveis por parte dos envolvidos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1732
+Indicador: 10974
+Denominação: Número de pequenas propriedades beneficiadas com os programas estaduais de fomento apoiados
+Sigla: NPPI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Indicador mede o apoio dado pelo governo federal para programas estaduais de agricultura irrigada em pequenas propriedades
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do número de pequenas propriedades beneficiadas com os programas estaduais de fomento apoiados
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI MIDR
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1061
+Indicador: 10060
+Denominação: Número de pessoas capacitadas
+Sigla: PC
+Em Apuração: Sim
+Unidade De Medida: pessoas capacitadas
+Descrição: Número de pessoas capacitadas por meio de cursos, oficinas, eventos  e webinários
+Período Ou Data A Que Se Refere: anual
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= nº de pessoas formadas presencialmente
+B=número de pessoas formadas a distância
+Fonte De Dados Das Variáveis De Cálculo: Sistema da Escola Virtual de Governo - EVG e tabela excel
+Forma De Disponibilização: Site institucional da Agência Nacional de Águas e Saneamento Básico e relatório anual
+Procedimento De Cálculo: Soma simples do número de pessoas capacitadas nas modalidades presencial, remota e a distância
+Notas Explicativas: O indicador demonstra o avanço da agenda de capacitação voltada para o Singreh, visando a qualificação dos atores que atuam na gestão de recursos hídricos e saneamento. Outros indicadores complementares podem ser necessários para que possamos mensurar  o impacto da capacitação na tomada de decisão e na ampliação da governança e representatividade na gestão das águas e saneamento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 2117
+Indicador: 11472
+Denominação: Número de pessoas capacitadas
+Sigla: PC
+Índice De Referência: 35000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de pessoas capacitadas por meio de cursos, oficinas, eventos  e webinários
+Período Ou Data A Que Se Refere: anual
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = nº de pessoas formadas presencialmente 
+B = número de pessoas formadas a distância
+Fonte De Dados Das Variáveis De Cálculo: Sistema da Escola Virtual de Governo - EVG e tabela excel
+Forma De Disponibilização: Site institucional da Agência Nacional de Águas e Saneamento Básico e relatório anual
+Procedimento De Cálculo: Soma simples do número de pessoas capacitadas nas modalidades presencial, remota e a distância
+Notas Explicativas: O indicador demonstra o avanço da agenda de capacitação voltada para o Singreh, visando a qualificação dos atores que atuam na gestão de recursos hídricos e saneamento. Outros indicadores complementares podem ser necessários para que possamos mensurar  o impacto da capacitação na tomada de decisão e na ampliação da governança e representatividade na gestão das águas e saneamento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1774
+Indicador: 11051
+Denominação: Número de poços cadastrados (SIAGAS)
+Sigla: NPC
+Índice De Referência: 369000.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Sistema de Informações de Águas Subterrâneas atualizado, aonde o alcance é medido a partir do seguinte Indicador das Entrega: N° de poços cadastrados
+Período Ou Data A Que Se Refere: janeiro a dezembro do exercício corrente
+Data De Divulgação/Disponibilização: 31/dez
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Poços cadastrados/consistidos na base de dados SIGAS a cada ano
+Fonte De Dados Das Variáveis De Cálculo: https://siagasweb.sgb.gov.br/layout/
+Forma De Disponibilização: https://siagasweb.sgb.gov.br/layout/
+Procedimento De Cálculo: Soma dos poços cadastrados no ano ao valor informado na linha de base:
+NP_SIAGAS (acumulado_total) = NP_SIAGAS (acumuladoPPA) + Linha base (2023) 
+
+Linha de base(2023): Conjunto de poço cadastrados/consistidos ativo em 2023 (ano base)
+
+NP_SIAGAS(t): Conjunto de poço cadastrados/consistidos no ano t
+
+ΔP_SIAGAS(2024–2027): Número de novos poços cadastrados/consistidos ano2024+.....+ano2027
+Limitações: O indicador fornece dados pontuais. Informação sobre a disponibilidade hídrica dos aquíferos devem considerar  o conjunto de dados levantados
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 66
+Indicador: 10834
+Denominação: Número de PPIs reabilitados
+Sigla: NPPIs
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Intervenções realizadas nos projetos públicos de irrigação que contribuirão para melhorar a eficiênca na utilização da infraestrutura de uso comum.
+Período Ou Data A Que Se Refere: mensal
+Data De Divulgação/Disponibilização: até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: I = Perímetro Reabilitado e A = intervenção realizada
+Fonte De Dados Das Variáveis De Cálculo: Sistema interno de gestão de contratos e convênios - SIGEC e o sistema de tramitação de processos e documentos, e-Codevasf.
+Forma De Disponibilização: Os dados são disponibilizados a partir de fiscalização em campo e posterior confecção de relatórios, estes são inseridos no SIGEC e no e-Codevasf pela área responsável. Os dados serão levantados e consolidados pelas Unidades de Gestão dos Empreendimentos de Irrigação.
+Procedimento De Cálculo: O indicador é mensurado a partir do somatório da intervenção feita no projeto público de irrigação. Cada projeto público de irrigação necessita de uma intervenção diferente e estas podem ser troca de equipamentos ou obras para a melhoria da eficiência da infraestrutura de uso comum.
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: Cada projeto público de irrigação necessita de uma intervenção diferente e estas podem ser troca de equipamentos ou obras para a melhoria da eficiência da infraestrutura de uso comum.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 1620
+Indicador: 10814
+Denominação: Número de programas estaduais publicados
+Sigla: NPEP
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Quantidade de Programas de Revitalização criados nas unidades da federação.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do número de programas estaduais publicados
+Fonte De Dados Das Variáveis De Cálculo: Registros internos administrativos, Processos SEI.
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório do número de programas estaduais publicados.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1640
+Indicador: 10836
+Denominação: Número de Projetos Públicos de Irrigação Emancipados
+Sigla: NPPIE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Indicador contabiliza o total de projetos públicos de irrigação emancipados em cada ano
+Período Ou Data A Que Se Refere: ano (1 de janeiro a 31 de dezembro)
+Data De Divulgação/Disponibilização: até o 10º dia após o término do mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório de projetos públicos de irrigação emancipados
+Fonte De Dados Das Variáveis De Cálculo: Portarias publicadas no Diário Oficial da União e Processo SEI MIDR
+Forma De Disponibilização: Diário Oficial da União
+Procedimento De Cálculo: Contagem do número de portarias publicadas
+Limitações: O indicador é número inteiro, não há possibilidade de casas decimais.
+Notas Explicativas: O MIDR está em desenvolvimento de um sistema de informação que constará a situação do projeto e disponibilizará as informações em página própria na internet
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1778
+Indicador: 11054
+Denominação: Número de publicações relacionadas à avaliação da disponibilidade hídrica
+Sigla: NPD
+Índice De Referência: 30.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mapas, Estudos e Pesquisas
+Período Ou Data A Que Se Refere: janeiro a dezembro do exercício corrente
+Data De Divulgação/Disponibilização: 31/dez
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de publicações finalizadas e registradas na base Repositório Institucional de Geociências (RiGeo), em cada ano-base
+Fonte De Dados Das Variáveis De Cálculo: http://www.cprm.gov.br/publique/Hidrologia/Monitoramento-Hidrologico-e-Hidrogeologico-366
+Forma De Disponibilização: http://www.cprm.gov.br/publique/Hidrologia/Monitoramento-Hidrologico-e-Hidrogeologico-366
+Procedimento De Cálculo: Apuração das publicação do tema registradas em cada ano base. 
+Verificação dos likns de publicações informados no monitoramento anual dos indicadores estratégicos do SBG-CPRM.
+Os links informados são verificados e validados, para posterior contabilização das entregas realizadas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 105
+Indicador: 8905
+Denominação: Número de sistemas de abastecimento implantados
+Sigla: NSAI
+Índice De Referência: 32.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de sistemas de abastecimento implantados
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de sistemas de abastecimento implantados
+Fonte De Dados Das Variáveis De Cálculo: Registros Administrativos CGPA/DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1047
+Indicador: 10047
+Denominação: Número de unidades da federação com contrato do Programa de Consolidação do Pacto Nacional pela Gestão das Águas assinado com a ANA
+Sigla: CA
+Índice De Referência: 8.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Órgão Gestor Estadual de Recursos Hídricos com contrato assinado do 3ª ciclo do Programa de Consolidação do Pacto Nacional pela Gestão das Águas - Progestão
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A - Estados com contrato assinado
+Fonte De Dados Das Variáveis De Cálculo: Publicação dos contratos no diário oficial da União
+Forma De Disponibilização: Site institucional da Agência Nacional de Águas e Saneamento Básico e portal do programa
+Procedimento De Cálculo: Contar o número de contratos assinados
+Notas Explicativas: O indicador demonstra o número de estados que aderiram ao  3º ciclo do Programa de Consolidação do Pacto Nacional pela Gestão das Águas - Progestão visando o cumprimento de metas que contribuem com o fortalecimento da gestão nos estados.  Outros indicadores complementares podem ser necessários para a mensuração do impacto obtido por meio da implementação do Programa.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1188
+Indicador: 10228
+Denominação: Número de usos de recursos hídricos monitorados em Bacias Hidrográficas prioritárias
+Sigla: URHMon
+Índice De Referência: 500.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Este indicador permitirá o conhecimento do real uso de água nas bacias hidrográficas prioritárias para a gestão de recursos hídricos, bem como o acompanhamento e a identificação do uso irregular de recursos hídricos.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: junho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A =  Quantidade de usuários obrigados ao envio dos dados de uso dos recursos hídricos em bacias hidrográficas prioritárias, por ano
+
+Em regra os usuários que correspondem a 80% ou mais da demanda pelo uso dos recursos hídricos em bacias hidrográficas prioritárias são obrigados ao envio dos dados medidos à ANA.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão obtidos do sistema da Declaração Anual de Usos dos Recursos Hídricos- DAURH, do aplicativo DeclaraÁgua e de sistema de telemetria dos dados de consumo.
+Forma De Disponibilização: Nos relatórios (Ex. relatório de gestão) ou portal de acompanhamento do Planejamento Estratégico Institucional, disponibilizados no site da ANA.
+Procedimento De Cálculo: Para calculo do indicador deverá ser observado as bacias hidrográficas que possuem obrigatoriedade do monitoramento do uso da água e identificar o grupo (quantidade) de usuários obrigados a medição e envio dos dados à ANA. Para efeito de identificação da conformidade desses usuários à regra estabelecida identificar a periodicidade do envio e se estão cumprindo a obrigatoriedade e os termos da outorga.
+Limitações: Número inteiro.
+Notas Explicativas: Para uso desse indicador observar as regras estabelecidas em normativos específicos para monitoramento do consumo, atos de outorgas ou termos de alocação negociada de água.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 118
+Indicador: 8919
+Denominação: Percentual de execução
+Sigla: PEF
+Índice De Referência: 2.12
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "A= Valor total liquidado
+B = Valor total do empreendimento"
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 3033
+Indicador: 12395
+Denominação: Percentual de execução
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o percentual de execução física da obra.
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "A= Valor total liquidado
+B = Valor total do empreendimento"
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2938
+Indicador: 12329
+Denominação: Percentual de Execução
+Sigla: PEX
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede a evolução da atualização dos estudos e dos projetos
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Somatório do percentual das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2933
+Indicador: 12302
+Denominação: Percentual de execução da iniciativa
+Sigla: PEA
+Índice De Referência: 8.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Indicador mede o percentual de execução física da obra.
+Período Ou Data A Que Se Refere: Mensal
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Somatório do percentual de participação das etapas concluídas
+Fonte De Dados Das Variáveis De Cálculo: A origem dos valores é o valor total liquidado e o valor total do empreendimento, ambos apresentados no SIGEC
+Forma De Disponibilização: SIGEC/e-Codevasf
+Procedimento De Cálculo: "O cálculo deve ser realizado levando em consideração apenas a execução acumulada dos produtos planejados até a data de apuração, excluindo a execução financeira do(s) instrumento(s) de execução, despesas relacionadas à fiscalização, atualização ou readequação de projetos, entre outros. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC registra cada um deles separadamente, e o percentual total de execução física da obra deve ser obtido por meio de uma ponderação entre cada instrumento.
+A fiscalização do instrumento de execução é responsável por registrar o monitoramento da execução, apresentando informações como o ""Avanço acumulado do instrumento (%)"", a data de apuração, a situação do instrumento, a descrição do monitoramento, bem como a data e o responsável pelo registro das informações."
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) estão disponíveis para consulta a qualquer momento pelo corpo técnico da Codevasf, através de login e senha de acesso à intra ou extranet. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"", é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), uma vez que o sistema não exibe valores decimais.
+É importante ressaltar que o monitoramento depende da inserção manual das informações pela equipe de fiscalização, o que pode ocasionar atrasos em casos de afastamento pessoal ou indisponibilidade do sistema. Além disso, caso ocorra um acréscimo de serviços ou quantitativos no instrumento de execução, o percentual de conclusão física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações realizadas.
+"
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 3412
+Indicador: 12761
+Denominação: Percentual de execução do contrato
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: E: quantitativo de produtos entregues e aprovados T: quantititativo total de produtos contratados
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2960
+Indicador: 12321
+Denominação: Percentual de Execução dos Produtos
+Sigla: PPI-Jequitaí
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Percentual de execução  dos produtos.
+Período Ou Data A Que Se Refere: Mensal
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Valor total liquidado/ B= Valor total do empreendimento
+Fonte De Dados Das Variáveis De Cálculo: A origem dos valores é o valor total liquidado e o valor total do empreendimento, ambos apresentados no SIGEC
+Forma De Disponibilização: SIGEC/e-Codevasf
+Procedimento De Cálculo: "O cálculo deve ser realizado levando em consideração apenas a execução acumulada dos produtos planejados até a data de apuração, excluindo a execução financeira do(s) instrumento(s) de execução, despesas relacionadas à fiscalização, atualização ou readequação de projetos, entre outros. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC registra cada um deles separadamente, e o percentual total de execução física da obra deve ser obtido por meio de uma ponderação entre cada instrumento.
+A fiscalização do instrumento de execução é responsável por registrar o monitoramento da execução, apresentando informações como o ""Avanço acumulado do instrumento (%)"", a data de apuração, a situação do instrumento, a descrição do monitoramento, bem como a data e o responsável pelo registro das informações."
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) estão disponíveis para consulta a qualquer momento pelo corpo técnico da Codevasf, através de login e senha de acesso à intra ou extranet. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"", é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), uma vez que o sistema não exibe valores decimais.
+É importante ressaltar que o monitoramento depende da inserção manual das informações pela equipe de fiscalização, o que pode ocasionar atrasos em casos de afastamento pessoal ou indisponibilidade do sistema. Além disso, caso ocorra um acréscimo de serviços ou quantitativos no instrumento de execução, o percentual de conclusão física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações realizadas.
+"
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 2303
+Indicador: 11754
+Denominação: Percentual de Execução Física
+Sigla: PEF
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o percentual de execução física da obra.
+Período Ou Data A Que Se Refere: 1º janeiro a 31º de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A=Somatório do avanço físico
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Gestão
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 120
+Indicador: 8923
+Denominação: Percentual de execução física da Adutora Curimatá
+Sigla: PEF
+Índice De Referência: 36.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Procedimento De Cálculo: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1812
+Indicador: 11094
+Denominação: Percentual de execução física da Barragem Bico da Pedra
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de Execução física da obra
+Período Ou Data A Que Se Refere: mensal
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = SOMATÓRIO DE EXECUÇÃO FÍSICA DA OBRA
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1816
+Indicador: 11100
+Denominação: Percentual de execução física da Barragem Boacica
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de Execução física da obra
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: A = Somatório de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2220
+Indicador: 11594
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1856
+Indicador: 11161
+Denominação: Percentual de execução física da obra
+Sigla: NFB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Mede a execução física do total da implantação de infraestruturas em Vilas Produtivas Rurais ao longo do PISF.
+Período Ou Data A Que Se Refere: Janeiro à Dezembro
+Data De Divulgação/Disponibilização: 31/12/2022
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Consolidação interna (por planilha DPE)
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 60
+Indicador: 8858
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 67
+Indicador: 8891
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Fonte: Ente governamental compromissário Governo do Estado de Pernambuco.
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 69
+Indicador: 8890
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário Governo do Estado de Pernambuco.
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 70
+Indicador: 8887
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o término do mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo- DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 72
+Indicador: 8886
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo - DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 75
+Indicador: 8884
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o término do mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Avanço Físico
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 86
+Indicador: 8883
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 50.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário Governo do Estado do RS
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 100
+Indicador: 8894
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 102
+Indicador: 8896
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 11.69
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 99
+Indicador: 8892
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 99.78
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 115
+Indicador: 8916
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 85.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 117
+Indicador: 8917
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 133
+Indicador: 8933
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Data De Divulgação/Disponibilização: 15º dia do mês subsequente a apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Sistema de Gestão de Convênios e Contratos - SIGEC
+Procedimento De Cálculo: Boletim de medição, conforme cronograma físico-financeiro da obra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 123
+Indicador: 8924
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Data De Divulgação/Disponibilização: 15º dia do mês subsequente a apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Sistema de Gestão de Convênios e Contratos - SIGEC
+Procedimento De Cálculo: Boletim de medição, conforme cronograma físico-financeiro da obra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 124
+Indicador: 8925
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Data De Divulgação/Disponibilização: 15º dia do mês subsequente a apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Convênios e Contratos - SIGEC
+Forma De Disponibilização: Boletim de medição, conforme cronograma físico-financeiro da obra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 125
+Indicador: 8926
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 0.091
+Em Apuração: Não
+Data De Apuração: 2007-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: SIGEC
+Procedimento De Cálculo: Realizar somatório dos percentuais de execução física dos contratos do empreendimento
+Limitações: Enquanto as obras não iniciarem, faz sentido utilizar duas casa decimais, pois a evolução financeira do trabalho será mais lenta
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 138
+Indicador: 8937
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Data De Divulgação/Disponibilização: 15º dia do mês subsequente a apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Sistema de Gestão de Convênios e Contratos - SIGEC
+Procedimento De Cálculo: Boletim de medição, conforme cronograma físico-financeiro da obra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 154
+Indicador: 8978
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 16.47
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário PM de Bagé
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 169
+Indicador: 8980
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 81.52
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário Governo do Estado do RS.
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 271
+Indicador: 9108
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 74.47
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário Governo do Estado do Ceará
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2129
+Indicador: 11579
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 287
+Indicador: 9120
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 90.36
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário Governo do Estado PB.
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 289
+Indicador: 9125
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 77.54
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Ente governamental compromissário Governo do Estado do PE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2226
+Indicador: 11570
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2227
+Indicador: 11565
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (jan a dez)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 402
+Indicador: 9274
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 404
+Indicador: 9276
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2130
+Indicador: 11580
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 46.0
+Em Apuração: Não
+Data De Apuração: 2023-07-26 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 13/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2131
+Indicador: 11581
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (jan a dez)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2132
+Indicador: 11582
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2134
+Indicador: 11583
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2135
+Indicador: 11584
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2136
+Indicador: 11585
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2137
+Indicador: 11586
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2809
+Indicador: 12174
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 66.02
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede a evolução do percentual de execução física da obra.
+Período Ou Data A Que Se Refere: jan a dez do ano de referência
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução.
+Forma De Disponibilização: Relatório de Gestão Anual disponibilizados no site do Dnocs.
+Procedimento De Cálculo: somatório da execução física acumulada, tendo como fonte os relatórios de andamento de obras ou documentos equivalentes
+Limitações: 2 casas decimais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2138
+Indicador: 11587
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço do percentual de execução física
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Avanço Físico
+Forma De Disponibilização: Relatório de Avanço Físico
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2139
+Indicador: 11588
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 70.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o percentual de execução física da obra.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Avanço Físico
+Forma De Disponibilização: Relatório de Avanço Físico
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2140
+Indicador: 11589
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 31/07/2023
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A=somatório da execução física acumulada
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de execução
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: somatório da execução física acumulada, tendo como fonte os relatórios de andamento de obras ou documentos equivalentes
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2164
+Indicador: 11590
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 90.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: janeiro a dezembro do mês de referência
+Data De Divulgação/Disponibilização: até o 1º dia após o mês de referência da apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Avanço Físico
+Forma De Disponibilização: Relatório de Avanço Físico
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2224
+Indicador: 11572
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (jan a dez)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2223
+Indicador: 11573
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2222
+Indicador: 11574
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2217
+Indicador: 11591
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: percentagem
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2218
+Indicador: 11592
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2221
+Indicador: 11595
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: percentagem %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2219
+Indicador: 11593
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2307
+Indicador: 11777
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: SIGEC
+Procedimento De Cálculo: Realizar somatório dos percentuais de execução física dos contratos do empreendimento
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1406
+Indicador: 10530
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1826
+Indicador: 11116
+Denominação: Percentual de execução física da obra
+Sigla: PEF
+Índice De Referência: 60.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Mensal
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Somatório de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2306
+Indicador: 11752
+Denominação: Percentual de execução física da obra
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2121
+Indicador: 11575
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (Janeiro a Dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2123
+Indicador: 11576
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2225
+Indicador: 11571
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (jan a dez)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2126
+Indicador: 11577
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (jan a dez)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2127
+Indicador: 11578
+Denominação: Percentual de execução física da obra
+Sigla: PEFO
+Índice De Referência: 70.0
+Em Apuração: Sim
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de execução física da obra.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2820
+Indicador: 12185
+Denominação: Percentual de Execução física da obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede a evolução do percentual de execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório do percentual de projetos realizados.
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE/SNSH
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos do empreendimento.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2823
+Indicador: 12188
+Denominação: Percentual de Execução Física da Obra
+Sigla: PEFO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede a evolução do percentual de execução física da obra.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório do percentual de projetos realizados.
+Fonte De Dados Das Variáveis De Cálculo: Sumário Executivo DPE/SNSH
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos percentuais da execução física dos contratos dos empreendimento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 127
+Indicador: 8928
+Denominação: Percentual de execução física da obra Jequitaí/MG
+Sigla: PEF
+Índice De Referência: 87.99
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC/e-Codevasf
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1042
+Indicador: 10040
+Denominação: Percentual de execução física do Canal do Sertão Baiano
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-01-01 00:00:00
+Unidade De Medida: percentual
+Descrição: Representa o desenvolvimento do empreendimento, considerando a elaboração dos projetos e da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física do empreendimento
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: SIGEC
+Procedimento De Cálculo: Realizar somatório dos percentuais de execução física dos contratos do empreendimento
+Limitações: Enquanto as obras não iniciarem, faz sentido utilizar duas casa decimais, pois a evolução financeira do trabalho será mais lenta
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1023
+Indicador: 10021
+Denominação: Percentual de execução física do empreendimento
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o avanço na execução física da obra.
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física do empreendimento
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: SIGEC
+Procedimento De Cálculo: Realizar somatório dos percentuais de execução física dos contratos do empreendimento
+Limitações: Enquanto as obras não iniciarem, faz sentido utilizar duas casa decimais, pois a evolução financeira do trabalho será mais lenta
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1033
+Indicador: 10027
+Denominação: Percentual de execução física do empreendimento
+Sigla: PEF
+Índice De Referência: 1.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução física da obra
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física do empreendimento
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: SIGEC
+Procedimento De Cálculo: Realizar somatório dos percentuais de execução física dos contratos do empreendimento
+Limitações: Enquanto as obras não iniciarem, faz sentido utilizar duas casa decimais, pois a evolução financeira do trabalho será mais lenta
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 964
+Indicador: 9954
+Denominação: Percentual de Implantação do Projeto Público de Irrigação
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de implantação do PPI
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: O Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) foi desenvolvido e institucionalizado pela Codevasf em 2007. Seus dados podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba "Metas/Monitoramento Físico" é possível visualizar o "Avanço Físico Acumulado do Instrumento" em números inteiros percentuais (%), pois o sistema não exibe valores decimais.
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 971
+Indicador: 8952
+Denominação: Percentual de Implantação do Projeto Público de Irrigação
+Sigla: PEF
+Índice De Referência: 55.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de implantação do PPI
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 2015
+Indicador: 11362
+Denominação: Percentual de Implantação do Projeto Público de Irrigação
+Sigla: PPPI
+Índice De Referência: 40.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de Implantação do Projeto Público de Irrigação
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de implantação do PPI
+Fonte De Dados Das Variáveis De Cálculo: SIGEC / E - CODEVASF
+Forma De Disponibilização: O Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) foi desenvolvido e institucionalizado pela Codevasf em 2007. Seus dados podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba "Metas/Monitoramento Físico" é possível visualizar o "Avanço Físico Acumulado do Instrumento" em números inteiros percentuais (%), pois o sistema não exibe valores decimais.
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1008
+Indicador: 10004
+Denominação: Percentual de Implantação do Projeto Público de Irrigação
+Sigla: PPI-MOC
+Índice De Referência: 1.45
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de implantação do PPI
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Valor total liquidado/ B= Valor total do empreendimento
+Fonte De Dados Das Variáveis De Cálculo: A origem dos valores é o valor total liquidado e o valor total do empreendimento, ambos apresentados no SIGEC
+Forma De Disponibilização: SIGEC / E - CODEVASF
+Procedimento De Cálculo: "O cálculo deve ser realizado levando em consideração apenas a execução acumulada dos produtos planejados até a data de apuração, excluindo a execução financeira do(s) instrumento(s) de execução, despesas relacionadas à fiscalização, atualização ou readequação de projetos, entre outros. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC registra cada um deles separadamente, e o percentual total de execução física da obra deve ser obtido por meio de uma ponderação entre cada instrumento.
+A fiscalização do instrumento de execução é responsável por registrar o monitoramento da execução, apresentando informações como o ""Avanço acumulado do instrumento (%)"", a data de apuração, a situação do instrumento, a descrição do monitoramento, bem como a data e o responsável pelo registro das informações."
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) estão disponíveis para consulta a qualquer momento pelo corpo técnico da Codevasf, através de login e senha de acesso à intra ou extranet. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"", é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), uma vez que o sistema não exibe valores decimais.
+É importante ressaltar que o monitoramento depende da inserção manual das informações pela equipe de fiscalização, o que pode ocasionar atrasos em casos de afastamento pessoal ou indisponibilidade do sistema. Além disso, caso ocorra um acréscimo de serviços ou quantitativos no instrumento de execução, o percentual de conclusão física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações realizadas.
+"
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 959
+Indicador: 9948
+Denominação: Percentual de Implantação do Projeto Público de Irrigação
+Sigla: PEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de implantação do PPI
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC / E - CODEVASF
+Forma De Disponibilização: O Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) foi desenvolvido e institucionalizado pela Codevasf em 2007. Seus dados podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba "Metas/Monitoramento Físico" é possível visualizar o "Avanço Físico Acumulado do Instrumento" em números inteiros percentuais (%), pois o sistema não exibe valores decimais.
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 976
+Indicador: 9968
+Denominação: Percentual de Implantação do Projeto Público de Irrigação
+Sigla: PEF
+Índice De Referência: 80.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de implantação do PPI
+Período Ou Data A Que Se Refere: mensal
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório do percentual de execução física da obra
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Os indicadores obtidos no SIGEC serão fornecidos pela AD
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: "Os dados do Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba ""Metas/Monitoramento Físico"" é possível visualizar o ""Avanço Físico Acumulado do Instrumento"" em números inteiros percentuais (%), pois o sistema não exibe valores decimais. 
+O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações."
+A construção do projeto de irrigação deu-se em 2005, mas sofreu diversas paralisações ao longo dos anos, sendo retomada em 2021.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 2016
+Indicador: 11363
+Denominação: Percentual de Implantação do Projeto Público de Irrigação Salitre
+Sigla: PPI - Salitre
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentagem
+Descrição: Percentual de Implantação do Projeto Público de Irrigação Salitre no estado da Bahia.
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: 10º dia útil do mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: E = Percentual de Execução; A = Serviços Executados; e B = Total de Serviços previstos
+Fonte De Dados Das Variáveis De Cálculo: SIGEC / E-Codevasf
+Forma De Disponibilização: O Sistema de Gestão de Convênios e Contratos da Codevasf (SIGEC) foi desenvolvido e institucionalizado pela Codevasf em 2007. Seus dados podem ser consultados, via intra ou extranet, a qualquer momento pelo corpo técnico da Codevasf, que possui login e senha de acesso. Na ficha de cada instrumento de execução, na aba "Metas/Monitoramento Físico" é possível visualizar o "Avanço Físico Acumulado do Instrumento" em números inteiros percentuais (%), pois o sistema não exibe valores decimais.
+Procedimento De Cálculo: "O cálculo deve ser realizado considerando apenas a execução física da obra acumulada até a data da apuração e não a execução financeira do(s) instrumento(s) de execução, despesas com fiscalização, atualização/readequação de projetos etc. No caso de entregas vinculadas a mais de um instrumento de execução, o SIGEC os registra isoladamente e o somatório do percentual de execução física da obra deverá ser obtido por ponderação entre cada instrumento.
+A fiscalização do instrumento de execução pode registrar o monitoramento da execução física, em que são apresentados o ""Avanço físico acumulado do instrumento (%)"", a data da apuração, a situação do instrumento, a descrição do monitoramento, a data e responsável pelo registro da informação. "
+Limitações: O SIGEC não registra casa decimais no "Avanço físico acumulado do instrumento (%), portanto devem ser considerados apenas números inteiros.
+Notas Explicativas: O monitoramento depende da inserção manual das informações pela fiscalização, o que pode levar a atrasos em casos de afastamento pessoal ou de indisponibilidade do sistema. Caso o instrumento de execução seja objeto de acréscimo de serviços ou quantitativos, o percentual da execução física da obra poderá ser ajustado, para mais ou para menos, para se adequar às alterações.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1818
+Indicador: 11101
+Denominação: Percentual de pedidos de outorga com atos emitidos no ano
+Sigla: Outorga
+Índice De Referência: 90.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador reflete a proporção de pedidos de outorga que têm sua análise concluída, resultando em um ato de outorga, com efetivação do direito de uso, ou um indeferimento do pedido, quando se verifica a impossibilidade de efetivação desse direito em virtude da disponibilidade hídrica. Os indeferimentos exercem papel importante no controle qualiquantitativo do uso, garantindo, assim, que um direito de uso efetivado possa realmente ser praticado.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Q1= número de pedidos de outorga com atos emitidos em um determinado ano;
+Q2 = número de pedidos de outorga solicitado sem um mesmo ano;
+Fonte De Dados Das Variáveis De Cálculo: Painel Gerencial do REGLA
+Forma De Disponibilização: No site da ANA, anualmente
+Procedimento De Cálculo: 1) Obter, no Painel Gerencial do REGLA, a planilha com todos os pedidos de outorga; 2) Para contabilizar os pedidos realizados em um determinado ano: filtrar apenas os pedidos realizados nesse ano e excluir os pedidos com alguma pendência, aqueles em aberto e os cancelados; 3) Para contabilizar os atos emitidos: filtrar os pedidos de outorga com atos emitidos no ano em questão; 4) dividir o número de atos emitidos pelo número de pedidos realizados e multiplicar por 100 para se obter o percentual.
+Limitações: O indicador não considera que a demanda pelo uso de recursos hídricos tende a aumentar ao longo tempo
+Notas Explicativas: A água é um bem de domínio público e o exercício do direito de acesso à água é efetivado por meio da outorga, um instrumento da Política Nacional de Recursos hídricos que assegura o controle quantitativo e qualitativo dos usos da água. Para o exercício desse direito, os interessados pelo uso de recursos hídricos de domínio da União devem protocolar pedido de outorga, que são analisados tendo em vista critérios técnicos de disponibilidade hídrica, uso eficiente e demanda de uso. Após as análises, são emitidos atos de outorga, que efetivam o direito de uso, ou atos de indeferimento do pedido, que tem como papel garantir o direito de uso já efetivado para outorgados anteriormente.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1429
+Indicador: 10559
+Denominação: Percentual de Planos Estaduais de Recursos Hídricos revisados e implementados
+Sigla: PPERH
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Esse indicador reflete o progresso na integração dos planos estaduais ao planejamento nacional, demonstrando o nível de engajamento e colaboração entre os estados e o governo central na gestão dos recursos hídricos. A meta seria atingir uma alta taxa de revisão e implementação dos planos, indicando uma abordagem abrangente e integrada na gestão dos recursos hídricos em todo o país.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: nº de planos revisados por ano
+Fonte De Dados Das Variáveis De Cálculo: Instrumentos firmados entre o MMA com órgãos gestores estaduais de recursos hídricos
+Forma De Disponibilização: Registro de instrumentos firmados do Departamento de Revitalização de Bacias Hidrográficas, Acesso à Água e Uso Múltiplo dos Recursos Hídricos - DRBH/SNPCT/MMA. Podem ser disponibilizados por meio de relatórios anuais.
+Procedimento De Cálculo: Dividir o número de Planos Estaduais de Recursos Hídricos revisados, dividido pelo total de unidades da federação (27), multiplicando o resultado por 100.
+Limitações: Não há casas decimais. A entrega do plano revisado equivale ao valor 1.
+Notas Explicativas: Cada plano revisado recebe o indicador 1.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2229
+Indicador: 11564
+Denominação: Percentual de projetos e estudos realizados
+Sigla: PPER
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: percentual %
+Descrição: O indicador representa a proporção de projetos e estudos que foram concluídos ou implementados.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório do percentual de projetos realizados.
+Fonte De Dados Das Variáveis De Cálculo: Sumário Execultivo DPE/SNSH
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: O resultado do indicador I é uma representação numérica do grau de sucesso na implementação dos projetos e estudos planejados, e quanto mais próximo de 100% o valor, maior será a efetividade na execução das iniciativas.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1180
+Indicador: 10212
+Denominação: Percentual de trechos de rio com informação de disponibilidade hídrica
+Sigla: %Ottobacias
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: Cada trecho da base hidrográfica onde a disponibilidade deve ser estimada é denominada ottobacia
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: nOttoEst = número de ottobacias com disponibilidade atualizada  
+nOttoTot = número total de ottobacias
+Fonte De Dados Das Variáveis De Cálculo: Base Hidrográfica Ottocodificada (BHO)
+disponível em: https://metadados.snirh.gov.br/geonetwork/srv/por/catalog.search#/metadata/0c698205-6b59-48dc-8b5e-a58a5dfcc989
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: O cálculo deve ser atualizado sempre que uma nova bacia hidrográfica for atualizada
+Limitações: A atualização do indicador deve refletir a ordem de prioridade de atualização definida na agenda estratégica da ANA
+Notas Explicativas: Na medida que a base de disponibilidade hídrica for sendo atualizada é fundamental uma avaliação da situação das outorgas (federais e estaduais) nas bacias no qual foram atualizadas. Isso é fundamental para assegurar que a gestão tá utilizando a melhor informação disponivel entregando um melhor serviço para sociedade.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1248
+Indicador: 10336
+Denominação: Projetos público de irrigação sociais reabilitados
+Sigla: PPIs
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Serão considerados reabilitados os projetos em condição de produzir.
+Data De Divulgação/Disponibilização: Último dia útil do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PPI-Entrega;
+X= Número de Projetos públicos sociais funcionando.
+Forma De Disponibilização: Sistemas eletrônicos do governo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1014
+Indicador: 10015
+Denominação: Proporção de Estações da Rede Hidrometeorológica Nacional de responsabilidade da ANA com disponibilização regular de dados
+Sigla: PERHN
+Índice De Referência: 70.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador reflete a regularidade da disponibilização de dados diários coletados nas estações da RHN-ANA em operação, referentes à precipitação pluviométrica e ao nível dos rios.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Q1= Quantidade de estações pluviométricas  convencionais operando regularmente;
+Q2 =Quantidade de estações pluviométricas convencionais ativas na RHN;
+Q3 = Quantidade de estações fluviométricas convencionais operando regularmente;
+Q4 = Quantidade de estações fluviométricas convencionais ativas na RHN;
+Q5 = Quantidade de estações pluviométricas e fluviométricas telemétricas operando regularmente;
+Q6 = Quantidade de estações pluviométricas e fluviométricas ativas na RHN;
+
+Para cada grupo de estações (pluviométricas convencionais, fluviométricas convencionais e telemétricas), consideram-se "estações operando regularmente" aquelas em que houve geração e disponibilização de, no mínimo, 80% dos dados previstos durante o período de apuração.
+Fonte De Dados Das Variáveis De Cálculo: As variáveis para cálculo do indicador são extraídas do Sistema Hidro, por meio da aplicação SIADORHA - Sistema para Análise do Desempenho da Operação da Rede Hidrometeorológica da ANA (estações convencionais) e do Hidro Telemetria (estações telemétricas). Para as estações convencionais, devido ao lapso regular entre a coleta e a disponibilização dos dados hidrológicos, decorrente do trabalho de processamento dos dados, o indicador é calculado com defasagem de quatro meses.
+Forma De Disponibilização: Até meados de julho/2023, o indicador será disponibilizado no site da ANA na internet (portal de acompanhamento do Planejamento Estratégico Institucional).
+Procedimento De Cálculo: 1) Para cada grupo de estações em atividade (pluviométricas convencionais, fluviométricas convencionais e telemétricas), procede-se o levantamento daquelas cujo quantitativo de dados de chuva ou nível, disponibilizados no período, foram iguais ou superiores a 80% do previsto (disponibilização regular de dados). 2) Calcula-se, para cada grupo, o percentual de estações com disponibilização regular de dados (razão entre o número de estações com disponibilização regular de dados e o número de estações ativas). 3) O indicador, no período considerado, é calculado pela média dos percentuais de cada grupo.
+Limitações: Indicador expresso em números inteiros.
+Notas Explicativas: O indicador reflete a regularidade da operação das estações da RHN-ANA e da disponibilização de seus dados à sociedade.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 1026
+Indicador: 10022
+Denominação: Proporção de Estações da Rede Nacional de Qualidade da Água pactuada com os Estados implantadas com disponibilização regular de dados
+Sigla: PERNQA
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador reflete a regularidade da disponibilização de dados de qualidade da água, provenientes das estações da RNQA constantes de Contratos Qualiágua em vigor (Programa de Estímulo à Divulgação de Dados de Qualidade das Águas).
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N1 = Número de visitas a estações da RNQA realizadas; 
+N2 = Número de visitas a estações da RNQA previstas;
+Q1 = quantitativo de dados de qualidade determinados nas estações da RNQA;
+Q2 = quantitativo de dados de qualidade previstos nas estações da RNQA
+Número de visitas às estações da RNQA (previstas e realizadas no período) e quantitativo de dados de monitoramento de qualidade da água relativos às estações da RNQA constantes de contratos Qualiágua em vigor (previsto e realizado no período).
+Fonte De Dados Das Variáveis De Cálculo: Contratos Qualiágua e documentação de avaliação do cumprimento das metas contratuais, relativas às visitas às estações de monitoramento e aos parâmetros de qualidade determinados.
+Forma De Disponibilização: Os dados para apuração do indicador podem ser obtidos na Página do Qualiágua (https://www.gov.br/ana/pt-br/assuntos/monitoramento-e-eventos-criticos/qualidade-da-agua/programa-qualiagua). Até meados de julho/2023, o indicador será disponibilizado no site da ANA na internet (portal de acompanhamento do Planejamento Estratégico Institucional).
+Procedimento De Cálculo: 1) No período de apuração, contabilizar o quantitativo de visitas previstas e realizadas às estações da RNQA com contrato Qualiágua em vigor, bem como o quantitativo de dados de qualidade previstos e determinados. 2) Calcula-se o percentual de execução de visitas e de dados de qualidade da água (razão entre o executado e o previsto em contrato). 3) O indicador, no período considerado, é calculado pela média dos percentuais de cada grupo.
+Limitações: Indicador expresso em números inteiros.
+Notas Explicativas: O indicador reflete a regularidade da operação das estações da RNQA, objeto de contratos Qualiágua em vigor, e da disponibilização de seus dados à sociedade.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2940
+Indicador: 12350
+Denominação: Quantidadade de Estudos e projetos concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Somatório das etapas concluídas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 3414
+Indicador: 12763
+Denominação: Quantidade de alevinos produzidos de espécies nativas visando à recomposição da ictiofauna para a revitalização de bacias hidrográficas pela Codevasf
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Quantidade de alevinos produzidos de espécies nativas visando à recomposição da ictiofauna para a revitalização de bacias hidrográficas pela Codevasf
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= quantidade de alevinos produzidos de espécies nativas visando a recomposição da ictiofauna para a revitalização de bacias hidrográficas pela Codevasf
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1872
+Indicador: 11180
+Denominação: Quantidade de barragens fiscalizadas pela ANA com PSB elaborado
+Sigla: BFSB
+Índice De Referência: 71.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Esse indicador permite avaliar se os empreendedores das barragens estão cumprindo a PNSB (12.334, de 20 de setembro de 2010) quanto a elaboração dos Planos de Segurança de Barragens - PSB, importante instrumento que permite ao orgão fiscalizador acompanhar a situação da barragem, visando previdir acidentes.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: Dezembro do ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Q = Quantidade de barragens obrigadas a elaboração e ao envio dos Plano de Segurança de Barragens à ANA que efetivamente enviaram o documento. Em regra as barragens obrigadas ao envio do PSB são definidas após  a classificação e enquadramento da barragem na PNSB, pela área de regulação. Com a emissão do ato de classificação da barragem os prazos de elaboração dos volumes do PSB são estabelecidos pela área de regulação e acompanhados pela área de fiscalização.
+Fonte De Dados Das Variáveis De Cálculo: Os dados das barragens obrigadas ao envio do PSB são extraidos do SNISB e o PSB é enviado diretamente pelo empreendedor para a ANA, via PROTON.
+Forma De Disponibilização: Nos relatórios (Ex. relatório de gestão) ou portal de acompanhamento do Planejamento Estratégico Institucional, disponibilizados no site da ANA.
+Procedimento De Cálculo: Para calculo do indicador deverá ser observado as barragens que possuem obrigatoriedade de envio do PSB à ANA. Para efeito de identificação da conformidade à regra estabelecida deverá ser avaliado o conteúdo do documento conforme Resolução ANA 236/2017, alterada pela Resolução ANA nº 121, 09 de maio de 2022.
+Limitações: Número inteiro.
+Notas Explicativas: Para uso desse indicador observar o ato de classificação de barragem que define o conteúdo do PSB e os prazos que o empreendedor da barragem deve observar.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1211
+Indicador: 10259
+Denominação: Quantidade de barragens reguladas pela ANA verificadas quanto ao enquadramento na PNSB
+Sigla: ENQSB
+Índice De Referência: 236.0
+Em Apuração: Não
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador reflete o quantitativo de barragens reguladas e fiscalizadas pela ANA cadastradas no Sistema Nacional de Informações sobre Segurança de Barragens - SNISB e classificadas quanto ao seu enquadramento na Política Nacional de Segurança de Barragens - PNSB, conforme critérios estabelecidos na Lei nº 12.334, de 20 de setembro de 2010. A classificação de barragens quanto ao enquadramento na PNSB é etapa essencial para um efetivo cumprimento da Política, uma vez que permite um acompanhamento direto dos barramentos junto aos empreendedores.
+Período Ou Data A Que Se Refere: O valor de referência sofreu alterações desde a implementação da PNSB em 2012 até a data de apuração.
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= barragens reguladas pela ANA verificadas quanto ao enquadramento na PNSB
+O número de barragens irá variar em função da atuação da ANA para o cadastramento, levantamento de informações e consequente classificação.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Nacional de Informações sobre Segurança de Barragens
+Forma De Disponibilização: Os dados são obtidos do SNISB, por meio da planilha de dados constante do Sistema.
+Procedimento De Cálculo: O cálculo do indicador irá derivar da planilha de dados do SNISB, através da aplicação de filtro por órgão fiscalizador (no caso, a ANA) e o filtro quanto à classificação de enquadramento na PNSB (Sim ou Não).
+Limitações: Número inteiro.
+Notas Explicativas: Para o cálculo do indicador deverá ser levado em consideração o universo de barragens reguladas e fiscalizadas pela ANA, constante da base de dados do SNISB, bem como as observações se as barragens foram ou não classificadas quanto ao enquadramento da PNSB (no SNISB, aparecem como "Sim" ou "Não". As demais são identificadas como "Não Classificadas").
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2946
+Indicador: 12352
+Denominação: Quantidade de estudos e projeto concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2947
+Indicador: 12354
+Denominação: Quantidade de estudos e projeto concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2943
+Indicador: 12351
+Denominação: Quantidade de estudos e projeto concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Somatório das etapas concluídas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2951
+Indicador: 12360
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a evolução dos estudos e projetos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2948
+Indicador: 12357
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2954
+Indicador: 12397
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: QEPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a evolução dos estudos e projetos.
+Polaridade: Não se aplica
+Variáveis De Cálculo: A= Somatório das etapas concluídas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2953
+Indicador: 12398
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: QEPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2952
+Indicador: 12373
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a evolução dos estudos e projetos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2958
+Indicador: 12402
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: QEPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2957
+Indicador: 12400
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: QCPE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos.
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2956
+Indicador: 12399
+Denominação: Quantidade de estudos e projetos concluídos
+Sigla: QEPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos concluídos
+Período Ou Data A Que Se Refere: anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= somatório das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2939
+Indicador: 12349
+Denominação: Quantidade de Estudos e projetos concluídos
+Sigla: EPC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de estudos e projetos conluídos.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 31/12/2025
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A=Somatório do percentual das etapas concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1728
+Indicador: 10967
+Denominação: Quantidade de Polos e Projetos de Irrigação beneficiados
+Sigla: PAII
+Índice De Referência: 2.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Indicador contabiliza o total de polos e projetos de Irrigação beneficiados em cada ano.
+Período Ou Data A Que Se Refere: Do 1º ao último dia do mês anterior à apuração do indicador
+Data De Divulgação/Disponibilização: Até o décimo dia após o mês de referência
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório dos polos de agricultura irrigada instituídos por meio de Portaria
+Fonte De Dados Das Variáveis De Cálculo: Processo SEI
+Forma De Disponibilização: Pinel Estratégico, disponibilizado no site do MIDR.
+Procedimento De Cálculo: Realizar somatório dos polos de agricultura irrigada instituídos por meio de Portaria
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Entrega: 1731
+Indicador: 10973
+Denominação: Quantidade de sistemas de reuso das águas residuárias para irrigação implantados
+Sigla: QSRARI
+Índice De Referência: 21.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Indicador mede o avanço na implantação de sistemas de reuso das águas residuárias para irrigação
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório de sistemas de reuso das águas residuárias para irrigação implantados
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI MIDR
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Procedimento De Cálculo: Verificar em cada instrumento de execução ou processo SEI MIDR correspondente, o número de sistemas de reuso das águas residuárias para irrigação já implantados.
+Limitações: Atentar que, geralmente, há mais de um sistema de reuso a ser implantando por Processo.
+Notas Explicativas: Verificar em cada instrumento de execução ou processo SEI MIDR correspondente, o número de sistemas de reuso das águas residuárias para irrigação já implantados, com prestação de contas concluídas, seja parcial ou final.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Entrega: 153
+Indicador: 8960
+Denominação: Quantidade de sistemas implantados de dessalinização de águas salobras e salinas
+Sigla: QSIDASS
+Índice De Referência: 20.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede o avanço na implantação de sistemas de dessalinização de águas salobras e salinas
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: até o 10º dia após o mês de referência da apuração
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = quantidade de sistemas implantados de dessalinização de águas salobras e salinas
+Fonte De Dados Das Variáveis De Cálculo: Entes parceiros responsáveis pela execução dos sistemas; Plataforma Transferegov, SIAFI e Sistema de Informações do Programa
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional
+Procedimento De Cálculo: O número de sistemas implantados é obtido mensalmente conforme avança a execução. As informações são obtidas junto aos executores, de forma direta, como parte dos trabalhos de fiscalização e supervisão da execução dos instrumentos (convênios e contratos).
+Notas Explicativas: Considera-se o sistema implantado a partir do momento em que o mesmo entra em operação e inicia o fornecimento de água potável de forma contínua a população.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 1725
+Indicador: 8950
+Denominação: Sistemas de Abastecimento de Água Implantados
+Sigla: SAI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Indica a quantidade de sistemas de abastecimento de água implantados.
+Período Ou Data A Que Se Refere: 30/06/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: n = número de Sistemas de Abastecimento de Água implantados
+Fonte De Dados Das Variáveis De Cálculo: PRDA/SUDAM
+Forma De Disponibilização: PRDA/SUDAM
+Procedimento De Cálculo: Realizar somatório dos projetos implantados
+Limitações: Utilização de números absolutos apenas
+Notas Explicativas: Considerando a falta de dados sobre a quantidade de comunidades tradicionais existentes em toda a região amazônica, considerou-se como índice de referência a base "0,00". Nesse sentido, considerando, ainda, que a entrega é uma iniciativa da Superintendência do Desenvolvimento da Amazônia (SUDAM), amparada nas estratégias do Plano de Desenvolvimento Regional da Amazônia (PRDA), serão considerados os sistemas de abastecimento de água entregues pela Superitendência seja através de seus recursos próprios ou através das parcerias que realizar com outras entidades governamentais e da sociedade civil.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Entrega: 998
+Indicador: 10000
+Denominação: Sistemas hídricos locais com regramento especial estabelecido/revisado
+Sigla: REO
+Índice De Referência: 57.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador reflete a quantidade de sistemas hídricos locais em situação de comprometimento hídrico que passaram a ter regramento especial ou que tiveram seu regramento especial revisado
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Q = Quantidade acumulada de regramentos especiais para sistemas sistemas hídricos locais de domínio da União estabelecidas ou revisadas
+V1 = Número de regramentos especiais estabelecidos
+V2 = Número de regramentos especiais revisados
+Fonte De Dados Das Variáveis De Cálculo: Resoluções emitidas pela ANA que tratam de regramentos especiais
+Forma De Disponibilização: No site da ANA, anualmente
+Procedimento De Cálculo: 1) Contabilizar a quantidade de resoluções da ANA publicadas que tratam de regramentos especiais novos ou revisados no período de um ano; 2) Somar a quantidade de regramentos especiais já existentes até a data de 31/12/2023
+Limitações: O indicador só considera números inteiros
+Notas Explicativas: Em vários sistemas hídricos locais (SHL), a demanda por água já atingiu o limite da vazão de referência adotada. Para que seja possível ampliar o uso desse recursos hídricos de forma sustentável, torna-se necessário o estabelecimento de regramentos especiais. Esses regramentos especiais consideram as especificidades de cada sistema hídrico local e, portanto, são estabelecidos de maneira exclusiva.  Ao longo do tempo, os regramentos especiais precisam ser revistos para se adequarem às alterações de demanda pelo uso de recursos hídricos e de disponibilidade hídrica, incluindo as decorrentes de mudanças climáticas. Dessa forma, a ampliação do uso da água em sistemas hídricos é concretizada por meio do estabelecimento de novos regramentos especiais ou de revisões de regramentos especiais já implementados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Entrega: 2821
+Indicador: 12186
+Denominação: Somatório dos valores dos projetos
+Sigla: SVP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: R$
+Descrição: O indicador mede o somatório dos valores dos projetos aprovados em editais.
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório dos valores dos projetos aprovados em Edital.
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Forma De Disponibilização: Painel Estratégico, disponibilizado no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Realizar somatório dos valores dos projetos aprovados em Edital.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2321
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Indicador: 10611
+Denominação: Área total beneficiada por ações de revitalização de bacias hidrográficas
+Sigla: ATBR
+Em Apuração: Sim
+Unidade De Medida: ha
+Descrição: Área em hectares beneficiada por ações de recuperação, conservação e preservação dos recursos hídricos, considerando os limites das microbacias diretamente atendidas pela ANA, CODEVASF e SNSH/MIDR.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: 15/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Área total beneficiada por ações de revitalização de bacias desenvolvidas pelo MIDR;
+B = Área total beneficiada por ações de revitalização de bacias desenvolvidas pela CODEVASF;
+C = Área total beneficiada por ações de revitalização de bacias desenvolvidas pela ANA.
+Fonte De Dados Das Variáveis De Cálculo: Informações administrativas/ SEI MIDR, Codevasf e ANA
+Forma De Disponibilização: Painel Estratégico, disponível no site do Ministério da Integração e do Desenvolvimento Regional
+Procedimento De Cálculo: A área total beneficiada em hectares será obtida pela soma das áreas beneficiadas pelas ações de cada unidade vinculada do MIDR, a partir do monitoramento dos projetos em execução, para os quais poderão ser utilizadas medições diretas in loco ou por sensoriamento remoto.
+Limitações: Não há limitações ao uso.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Indicador: 10567
+Denominação: Estimativa de incremento anual de área irrigada com base nas autorizações de uso das águas de domínio da União
+Sigla: EIA
+Índice De Referência: 346152.58
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Trata-se do somatório da área total irrigada estimada com base nas informações das outorgas de direito de uso dos recursos hídricos emitidas pela Agência Nacional de Águas e Saneamento Básico (ANA) em rios de domínio da União para os usuários com finalidade de irrigação, considerando o ano de referência
+Período Ou Data A Que Se Refere: 31 de dezembro do ano de referência
+Data De Divulgação/Disponibilização: Junho do ano subsequente ao de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ∑ = Área irrigada total estimada com base nas informações de outorgas emitidas para ANA, considerando o ano de referência.
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Águas (ANA)
+Forma De Disponibilização: Painel Estratégico, disponível no site do Ministério da Integração e do Desenvolvimento Regional.
+Procedimento De Cálculo: Para o procedimento de cálculo é necessário:
+a) Solicitar, anualmente, para a Agência Nacional de Águas (ANA) -   Superintendência de Regulação de Usos dos Recursos Hídricos – SER,  a Planilha com as outorgas emitidas pela ANA constando da informação “Área Total Irrigada”;
+As informações para solicitação podem ser encontradas em: https://www.gov.br/ana/pt-br/acesso-a-informacao/quem-e-quem
+b) Recebida a Planilha deve-se proceder a aplicação de filtros de maneira a trabalhar, especialmente, as informações constantes nas seguintes colunas: i) nome UF; ii) data inicial da outorga; iii) Área Total Irrigada;
+c) Após aplicação dos filtros e separação das informações a serem trabalhadas é possível regionalizar os dados para apuração dos valores anuais.
+Limitações: O indicador reflete somente a estimativa de incorporação anual de área irrigada dos projetos de irrigação que possuem outorgas (autorização de uso) de águas de domínio de União, não compreendendo os projetos de irrigação que possuem outorgas de águas de domínio estadual tampouco os projetos que ainda não possuem outorga.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Indicador: 9981
+Denominação: Nível de stress hídrico: proporção das retiradas de água doce em relação ao total dos recursos de água doce disponíveis
+Sigla: SH
+Índice De Referência: 1.72
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador fornece uma estimativa da pressão pelos recursos de água doce renováveis exercida pelo total de demandas do país, para todas as finalidades de usos; considera também a inserção da variável ambiental, essencial à conservação dos ecossistemas aquáticos. Trata-se, em síntese, de um balanço hídrico global entre ofertas e demandas de recursos hídricos em um país. O indicador é calculado mediante a relação entre o total de demandas de retirada de água doce para abastecimento da população e suprimento hídrico a todas as atividades econômicas, e o total de recursos de água doce renováveis disponíveis no país. Desconta-se do total de recursos de água doce renováveis disponíveis uma vazão ecológica, ou seja, uma parcela dos recursos hídricos superficiais que deve ser reservada para manter a função ambiental dos ecossistemas aquáticos. Utilizou-se o percentual de 50% da vazão média do longo termo para cada Região Hidrográfica (Qmlt) como indicativo de vazão ecológica.
+Período Ou Data A Que Se Refere: 2019
+Data De Divulgação/Disponibilização: 2022
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Dt = Demandas hídricas de retirada totais em m^3/s
+Erh = Estoque total de águas doces do país incluindo águas superficiais e subterrâneas e entradas de águas de outros países ,emm^3/s
+Qeco = Vazão ecológica,emm^3/s
+
+1) Vazão ecológica, 2)Demandas hídricas de retirada totais e 3) Estoque total de águas doces do país, incluindo águas superficiais e subterrâneas e entradas de águas de outros países
+Fonte De Dados Das Variáveis De Cálculo: "Conjuntura dos Recursos Hídricos no Brasil e
+Manual de Usos Consuntivos da Água no Brasil"
+Forma De Disponibilização: https://www.gov.br/ana/pt-br/centrais-de-conteudos/publicacoes/ods6
+Procedimento De Cálculo: "Passo a passo
+1. Faz-se a correspondência de ottobacia a cada Região
+Hidrográfica.
+2. Obtém-se a vazão média do longo termo para cada
+Região Hidrográfica (Qmlt)
+3. Calcula-se 50% da Qmlt como indicativo de vazão
+ecológica.
+4. Totalizam-se as demandas por finalidade para cada
+Região Hidrográfica e em cada ano da série de demandas.
+5. Calcula-se para cada ano o indicador através do
+quociente da demanda total / [Erh – (Qeco)]"
+Limitações: "O Brasil é um dos países que possuem a maior disponibilidade de água doce do mundo. Isso traz um aparente conforto, porém os recursos hídricos estão distribuídos de forma desigual no território, 
+espacial e temporalmente. Esses fatores, somados aos usos da água pelas diferentes atividades econômicas nas bacias hidrográficas brasileiras e os problemas de qualidade de água, 
+geram áreas de conflito. Assim, devido às grandes diferenças que caracterizam o território nacional, um valor único do Indicador proposto para o Brasil pode não refletir as especificidades de todas 
+as suas bacias hidrográficas. No entanto, serve como um bom orientador para identificar regiões com potenciais conflitos e o desempenho de ações de gestão voltados para evitar a escassez hídrica, 
+como ampliação da oferta ou melhoria na eficiência das demandas.			"
+Notas Explicativas: "O objetivo do indicador proposto é mostrar o grau em que os recursos hídricos estão sendo explorados para atender a demanda de água do país. Ele mede a pressão de um país sobre seus recursos hídricos e, portanto, o desafio da sustentabilidade do uso da água. O indicador mostra o quanto os recursos hídricos já são utilizados e deve sinalizar a importância de políticas eficazes de gestão da oferta e da demanda. Indica a probabilidade de aumento da competição e conflito entre diferentes usos e usuários da água em uma situação de crescente escassez de água. O aumento do stress hídrico, evidenciado pelo aumento do valor do indicador, tem efeitos potencialmente negativos na sustentabilidade dos recursos naturais e no desenvolvimento econômico. Por outro lado, valores baixos do indicador indicam que a água não representa um desafio particular para o desenvolvimento econômico e sustentabilidade do País ou mesmo é um recurso que pode estar subutilizado.
+Seguindo a experiência dos primeiros cinco anos de aplicação de indicador no âmbito dos relatórios ODS 6, e consistente com a abordagem adotada durante o programa, o limite de 25% foi identificado como o limite superior para uma segurança total e incondicional do estresse hídrico conforme avaliado pelo indicador 6.4.2 da ONU.
+Isso significa, por um lado, que valores abaixo de 25% podem ser considerados seguros em qualquer instância (sem estresse); por outro, que valores superiores a 25% devem ser encarados como potencialmente e cada vez mais problemáticos, devendo ser qualificados e/ou reduzidos. Acima de 25% de estresse hídrico, quatro classes foram identificadas para sinalizar diferentes níveis de gravidade do estresse: 
+• SEM ESTRESSE <25% 
+• BAIXO 25% - 50% 
+• MÉDIO 50% - 75% 
+• ALTO 75-100% 
+• CRÍTICO >100 %"
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Indicador: 8859
+Denominação: Quantidade de municípios com Índice de Segurança Hídrica (ISH) baixo ou crítico na dimensão humana beneficiados com ampliação da oferta hídrica
+Sigla: QMISH
+Índice De Referência: 75.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Visa mensurar a quantidade de municípios com Índice de Segurança Hídrica (ISH), na dimensão humana, mínimo ou baixo que são beneficiados com a ampliação da oferta hídrica com ações do MIDR, de forma a melhorar suas condições de segurança hídrica. De acordo com o PNSH, o total de municípios com ISH, na dimensão humana, mínimo ou baixo é de 717. Assim, o indicador busca representar a atuação da União na melhoria da segurança hídrica.
+Período Ou Data A Que Se Refere: ano (janeiro a dezembro)
+Data De Divulgação/Disponibilização: até o 10º dia após o término do trimestre de referência da apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = quantidade de municípios com Índice de Segurança Hídrica, baixo ou crítico na dimensão humana beneficiados com ampliação da oferta hídrica.
+Fonte De Dados Das Variáveis De Cálculo: Base de dados da SNSH
+Forma De Disponibilização: Relatórios de gestão (site MIDR) e SIOP
+Procedimento De Cálculo: 1) Obter a listagem de municípios beneficiados por obras de oferta de água concluídas, a partir de 1º de janeiro de 2020;
+2) Identificar os municípios da listagem do item 1 que possuíam Índice de Segurança Hídrica, baixo ou crítico na dimensão humana, menor do que 3, conforme divulgado pelo Plano Nacional de Segurança Hídrica de abril de 2019;
+3)  Realizar o somatório do número de municípios identificados no item 2.
+Limitações: Sem limitações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2321
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 54
+Enunciado: Preservar, conservar e recuperar bacias hidrográficas, especialmente aquelas em situação de vulnerabilidade
+Descrição: Realização de estudos, projetos, diagnósticos e implementação de ações de recuperação, conservação e preservação ambiental nas bacias hidrográficas onde os recursos hídricos estão em situação de vulnerabilidade em decorrência da ação humana, em que os seus usos múltiplos estão prejudicados em função de quantidade ou qualidade da água ou em função de condições de escoamento, com o comprometimento de mananciais hídricos.
+Órgão: 53000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 55
+Enunciado: Ampliar a área e a produtividade da agricultura irrigada para o desenvolvimento regional, observando o uso racional dos recursos naturais
+Descrição: Promover a ampliação sustentável da irrigação em áreas agrícolas existentes, bem como em áreas degradadas, para o aumento da produção e da produtividade, visando contribuir para o desenvolvimento regional e a redução das disparidades intra regionais.
+Órgão: 53000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 56
+Enunciado: Ampliar a segurança hídrica e a resiliência à mudança do clima por meio da implantação, recuperação e manutenção da infraestrutura hídrica, em bases sustentáveis, especialmente nas regiões em situação crítica.
+Descrição: Ampliar a infraestruturas hídrica para atender um maior número de municípios com Índice de Segurança Hídrica, na dimensão humana, baixo ou crítico, promovendo o desenvolvimento regional e a melhoria da qualidade de vida das populações atendidas.
+Órgão: 53000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Objetivo Específico: 58
+Enunciado: Aprimorar os usos múltiplos da água e os serviços hídricos, observando a eficiência e a sustentabilidade, ampliando o conhecimento sobre recursos hídricos, minimizando os riscos e ocorrências de conflitos.
+Descrição: Esse objetivo específico busca estabelecer um pacto nacional para a definição de diretrizes e políticas públicas voltadas para a melhoria da oferta de água, em quantidade e qualidade, gerenciando as demandas e considerando ser a água um elemento estruturante para a implementação das políticas setoriais, sob a ótica do desenvolvimento sustentável, usos múltiplos da água e da inclusão social. Nesse sentido busca assegurar a melhoria das disponibilidades hídricas, superficiais e subterrâneas, em qualidade e quantidade; a redução dos conflitos reais e potenciais de uso da água, bem como dos eventos hidrológicos críticos e a percepção da conservação da água como valor socioambiental relevante.
+Órgão: 53000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2321
+
+Exercício: 2025
+Programa: 2321
+Objetivo: 1270
+Enunciado: Assegurar a disponibilidade de água em padrões de qualidade e quantidade adequados aos usos múltiplos, por meio de infraestrutura adequada, da conservação, da recuperação e do uso racional dos recursos naturais, promovendo a proteção dos mananciais e revitalização de bacias hidrográficas
+Descrição: Para assegurar a disponibilidade de água em padrões de qualidade e quantidade adequados aos usos múltiplos, é necessário adotar uma série de medidas, incluindo a adoção de padrões de qualidade, a conservação e recuperação dos recursos hídricos e o uso racional da água.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2321
+
+Exercício: 2025
+Programa: 2321
+Título: Recursos Hídricos: Água em Quantidade e Qualidade para sempre
+Tipo: Finalístico
+Órgão: 53000.0
+Público-Alvo: População localizada nos municípios com Índice de Segurança Hídrica, na dimensão humana, mínimo ou baixo.
+Descrição Do Problema: Insegurança hídrica: situação em que não há disponibilidade de água em quantidade e qualidade suficientes para o atendimento às necessidades humanas, à prática das atividades econômicas e à conservação dos ecossistemas aquáticos, acompanhada de um nível aceitável de risco relacionado a secas e cheias.
+Causa Do Problema: Mudanças demográficas e arranjos urbanos e rurais - uso e ocupação desordenada do solo.
+Distribuição espacial e temporal não uniforme dos recursos hídricos.
+Falta de proteção e recuperação dos mananciais naturais.
+Degradação ambiental e sobre exploração dos Recursos Hídricos.
+Manutenção deficiente das infraestruturas existentes.
+Aumento da demanda pelo uso da água.
+Crescente déficit de infraestrutura hídrica (inadequação da infraestrutura).
+Insuficiência de conhecimento da vulnerabilidade e disponibilidade dos RHs superficiais e subterrâneos.
+Baixa qualidade dos projetos.
+Desarticulação entre Planos e Políticas com impacto nos Recursos Hídricos.
+Desarticulação institucional.
+Dissociação na gestão dos Recursos Hídricos superficiais e subterrâneos (dominialidade).
+Modelo de negócio inadequado.
+Evidências Do Problema: Eventos hidrológicos extremos (impactados) – inundações e secas.
+Aumento dos conflitos pelo uso da água.
+Aumento da percepção do risco econômico associado aos recursos hídricos.
+Diminuição da oferta hídrica localizada.
+Aumento do déficit nos balanços hídricos
+Percentual significativo da população sem acesso a água de qualidade.
+Aumento da demanda gastos públicos para resposta a desastres.
+Justificativa Para A Intervenção: Viabilizar a oferta de água para os múltiplos usuários, promovendo um adequado ambiente de desenvolvimento econômico e social com qualidade ecossistêmica, por meio de ações de gestão dos recursos hídricos e de intervenções físicas.
+Evolução Histórica: As intervenções físicas para o aproveitamento dos recursos hídricos tiveram o início do seu desenvolvimento no final do século XIX, após a grande seca no nordeste brasileiro. O início do século XX, marcado pelo êxodo rural e pela industrialização, pressionou a demanda por recursos hídricos e impulsionou a construção de muitas estruturas de condução e armazenamento de água, além da construção de usinas hidrelétricas.
+Para organizar esse desenvolvimento e a gestão das águas, o Brasil publicou o Decreto nº 24.643, de 10 de julho de 1934, conhecido como o Código das Águas.
+A política pública de gestão dos recursos hídricos evoluiu significativamente no período, resultando na publicação da Lei nº 9.433, de 8 de janeiro de 1997, passando a ter como pilar a gestão participativa. Também evoluiu o planejamento dos empreendimentos de infraestrutura hídrica, passando a ter prioridade as intervenções de caráter estruturante e regional. Nesse sentido, foi publicado o Plano Nacional de Segurança Hídrica, com o olhar sobre as intervenções de infraestrutura prioritárias na resolução das condições mais críticas de déficit hídrico.
+Novo passo deve ser dado, no período deste novo PPA, para o avanço na direção da sustentabilidade econômica dos empreendimentos e maior foco no seu retorno social e na sua segurança e rumo ao estabelecimento de uma política de infraestrutura hídrica.
+Relação Com Os Ods: Afinidades com Objetivos de Desenvolvimento Sustentável - ODS nº  2, 6, 11 e 13 da ONU 
+Agenda 2030.
+Agentes Envolvidos: Instituições Federais: MIDR, MMA, MME, ANA, CODEVASF, DNOCS, IBAMA, CPRM
+Decisores e Gestores Públicos da União, dos Estados e dos Municípios
+Articulação Federativa: União, Estados e Municípios
+Comitês de Bacias Hidrográficas e Agências de Água
+Enfoque Transversal: Política Ambiental
+Saneamento Básico
+Desenvolvimento Urbano e Regional
+Prevenção de Riscos de Desastres
+Agricultura
+Marco Legal: Lei 9.433/1997
+Lei 12.334/2010
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Segurança Hídrica
+Plano Nacional de Recursos Hídricos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

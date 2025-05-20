@@ -1,0 +1,1838 @@
+passage: Programa Número 5116
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 421
+Entrega: 1828
+Indicador: 11120
+Denominação: Ações de atendimento psicológico dos profissionais de segurança pública realizadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Profissionais de segurança pública em sofrimento psicológico e/ou adoecimento mental
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 31 de julho e 31 de janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Atendimento: atendimento psicológico online, realizados por Instituição Federal de Ensino aos profissionais de segurança pública
+Fonte De Dados Das Variáveis De Cálculo: Relatório de monitoramento do projeto
+Forma De Disponibilização: Canal Técnico - (Diretoria do Sistema Único de Segurança Pública - DSUSP)
+Procedimento De Cálculo: Levantamento semestral de atendimentos registrados no Relatório de monitoramento do projeto
+Limitações: As ações são de abrangência nacional e de caráter voluntário do profissional, por este motivo, a consolidação das informações referente as ações depende da adesão dos atores participantes
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 445
+Entrega: 1822
+Indicador: 11108
+Denominação: Ações integradas de segurança pública realizadas
+Índice De Referência: 51.0
+Em Apuração: Não
+Data De Apuração: 2023-01-02 00:00:00
+Unidade De Medida: quantidade
+Descrição: Ações Integradas de segurança pública são compostas pelas seguintes atividades: 
+
+Operação apoiada e integrada: operação policial realizada por no mínimo 2 instituições de segurança pública, de forma simultânea e conjunta, com o apoio da Secretaria Nacional de Segurança Pública - Senasp;
+
+Operação coordenada e integrada: operação policial coordenada pela Secretaria Nacional de Segurança Pública - Senasp, com a elaboração de planejamento, indicadores e metas, com a participação de pelo menos 02 instituições de segurança pública ou Entes Federados;
+
+Capacitação integrada: pelo menos 02 instituições de segurança pública participando de atividade de capacitação (encontros e cursos), de forma presencial e simultânea;
+
+Redes instituicionais criadas ou aperfeiçoadas.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro (do ano subsequente)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ações integradas de segurança pública:
+As ações integradas de segurança pública refere-se a atuação conjunta entre as instituições policiais, órgãos de segurança e outros atores relevantes buscando-se a prevenção e o enfrentamento da criminalidade mais preciso e direcionado.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de acompanhamento
+Forma De Disponibilização: Canal Técnico Diretoria de Operações Integradas e de Inteligência - DIOPI
+Procedimento De Cálculo: Levantamento de processos administrativos do Sistema Eletrônico de Informações - SEI referentes às ações realizadas.
+Limitações: As ações são de abrangência nacional e, por este motivo, a consolidação das informações referentes as ações integradas depende do envio dos dados pelos atores participantes (Instituições de segurança pública ou auxiliares, Entes Federados)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 445
+Entrega: 2111
+Indicador: 11464
+Denominação: Armas de fogo apreendidas
+Índice De Referência: 4090.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: quantidade
+Descrição: A quantidade de armas de fogos apreendidas em números absolutos. Esse indicador fornece uma medida quantitativa do progresso no combate ao tráfico de armas e à criminalidade armada, sendo um indicador relevante para avaliar a eficácia das ações de segurança pública. O aumento de armas de fogo apreendidas é de 2,5% ao ano para o quadriênio 2024/2027.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de armas de fogo apreendidas
+Fonte De Dados Das Variáveis De Cálculo: Painel BI DICOR - IPO (ferramenta desenvolvida no software QlikSense, que compila dados das Operações de Polícia Judiciária da Diretoria de Investigação e Combate ao Crime Organizado. Essencialmente, esse painel tem como objetivo mensurar o Índice de Produtividade Operacional das unidades da instituição)
+Sistema Analytics
+Forma De Disponibilização: Painel BI DICOR - IPO, com atualizações mensais.
+Comunicação administrativa
+Procedimento De Cálculo: Entrar em um sistema interno da Polícia Federal, que só servidores da PF possuem acesso, chamado BI IPO.   
+ 
+Coletar a informação da quantidade de armas de fogo apreendidas já somados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Entrega: 1161
+Indicador: 11096
+Denominação: Armas entregues voluntariamente
+Índice De Referência: 12000.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: Armas entregues nos postos de coletas registradas no Sistema Desarma
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Armas entregues de forma voluntária, registradas no Sistema Desarma
+Fonte De Dados Das Variáveis De Cálculo: Relatório Sistema Desarma
+Forma De Disponibilização: Painel BI DICOR - IPO, disponibilizado na intranet da PF com acesso interno para servidores.
+Procedimento De Cálculo: Levantamento semestral do total de armas entregues voluntarimente, registradas no Sistema Desarma
+Limitações: Por se tratar de entrega voluntária, não é possível trabalhar com meta regionalizada.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Entrega: 308
+Indicador: 9148
+Denominação: Atividades educacionais complementares realizadas
+Índice De Referência: 743974.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: O indicador visa aferir a quantidade de participações em atividades educacionais para as pessoas privadas de liberdade.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: maio e novembro do ano subsequente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = total de matrículas em cursos de capacitação profissional;
+B = total de atividades complementares;
+C = total de atividades de remição por meio da leitura;
+D = total de atividades de remição por meio do esporte
+Fonte De Dados Das Variáveis De Cálculo: Sisdepen
+Forma De Disponibilização: BI do Sisdepen
+Procedimento De Cálculo: Coleta dos dados junto às unidades federativas; Tratamento dos dados obtidos pela Senappen; Validação dos dados pelos gestores estaduais e senappen; divulgação dos dados pelo SISDEPEN.
+Notas Explicativas: O total de atividades educacionais tem como referência o mês de dezembro de cada ano, entretanto, o Sisdepen tem sido divulgado somente no ano seguinte, geralmente no mês de maio.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Entrega: 1389
+Indicador: 10505
+Denominação: Benefícios pagos a profissionais de segurança pública em razão de aprovação em capacitações do Bolsa-Formação
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Os profissionais de segurança pública aptos são aqueles que atendem os requisitos previstos no Art. 7º do Decreto 11.436/2023.
+
+ Art. 7º  Para participar de curso ofertado pelo Projeto Bolsa-Formação, o candidato deverá preencher os seguintes requisitos:
+
+ I - perceber remuneração mensal bruta de até R$ 15.000,00 (quinze mil reais);
+
+II - atender aos critérios de elegibilidade específicos de curso ofertado pelo Projeto Bolsa-Formação, estipulados nos termos do ato referido no art. 12;
+
+III - não ter sido condenado pela prática de infração administrativa de natureza grave, nos últimos cinco anos;
+
+IV - não possuir condenação penal nos últimos cinco anos;
+
+V - pertencer a corporação de ente federado que tenha assinado termo de adesão, nos termos do disposto nos art. 4º e art. 5º;  
+
+VI - frequentar, a cada doze meses, ao menos um dos cursos de que trata o inciso II do caput, observado o limite máximo de três.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro (do ano subsequente)
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Profissionais de segurança público beneficiados são aqueles que estão aptos a receber o benefício, observados os incisos do Art. 9ª do Decreto 11.436/2023.
+
+Art. 9º  A bolsa concedida no âmbito do Projeto Bolsa-Formação não será devida se o beneficiário:
+
+I - for reprovado ou abandonar o curso que o habilitou ao recebimento do benefício;
+
+II - apresentar informações ou documentos falsos;
+
+III - solicitar sua exclusão;
+
+IV - for condenado pela prática de infração administrativa de natureza grave ou sofrer condenação penal;
+
+V - for cedido ou designado a prestar serviço a outro órgão da administração pública;
+
+VI - usufruir licença para tratamento de interesse particular;
+
+VII - romper o vínculo funcional com a instituição da qual fazia parte quando da homologação do requerimento;
+
+VIII - aposentar-se; ou
+
+IX - falecer.
+Fonte De Dados Das Variáveis De Cálculo: Requerimentos homologados
+Forma De Disponibilização: Canal Técnico - Diretoria de Ensino e Pesquisa - DEP, via Sistema de Gestão Acadêmica (SGA)
+Procedimento De Cálculo: Cadastro dos requirementos homologados para posterior pagamento dos benefícios
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 421
+Entrega: 2155
+Indicador: 12735
+Denominação: Capacitações concluídas pelos profissionais do Sistema Único de Segurança Pública (SUSP)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: quantidade
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Julho e Janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: SUSP
+Forma De Disponibilização: Diretoria de Ensino e Pesquisa - DEP
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Entrega: 1160
+Indicador: 11088
+Denominação: Centros Comunitários pela Vida - CONVIVE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-29 00:00:00
+Unidade De Medida: percentual %
+Descrição: Centros Comunitários pela Vida - CONVIVE: equipamentos públicos construídos em regiões vulneráveis, com foco na prevenção à violência, inclusão social e fortalecimento comunitário.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro do ano subsequente
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Centros Comunitários pela Vida - CONVIVE: equipamentos públicos construídos em regiões vulneráveis, com foco na prevenção à violência, inclusão social e fortalecimento comunitário.
+Fonte De Dados Das Variáveis De Cálculo: Termos de adesão para construção do Centros Comunitários pela Vida - CONVIVE
+Forma De Disponibilização: Canal Técnico - Diretoria do Sistema Único de Segurança Pública - DSUSP, via Sistema Eletrônico de Informações - SEI
+Procedimento De Cálculo: Levantamento de processos administrativos do Sistema Eletrônico de Informações - SEI
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 120
+Entrega: 340
+Indicador: 9191
+Denominação: Comandos de enfrentamento a crimes ambientais realizados
+Índice De Referência: 2491.0
+Em Apuração: Não
+Data De Apuração: 2023-04-20 00:00:00
+Unidade De Medida: quantidade
+Descrição: Número absoluto de comandos de enfrentamento a crimes ambientais realizados por equipes PRF
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Comandos de Enfrentamento aos Crimes Ambientais: ações planejadas de fiscalização local, em ponto fixo sinalizado e por tempo predeterminado, com o propósito específico de prevenção, policiamento e fiscalização de enfrentamento a crimes contra a fauna, a flora, o ordenamento urbano, o patrimônio cultural, a administração ambiental e crimes de poluição.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 165
+Entrega: 313
+Indicador: 9153
+Denominação: Comandos de segurança viária realizados em rodovias federais
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: Contabiliza os comandos de segurança viária realizados em trechos críticos de acidentalidade.
+Período Ou Data A Que Se Refere: Último dia do Semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Comandos de Segurança Viária (CSV): ações planejadas, em horário e local determinado e devidamente sinalizado, com propósito específico de prevenir sinistros, policiar, fiscalizar e enfrentar crimes de trânsito e de transportes.
+
+Tipos de CSV: Alcoolemia, Cargas Especiais, Decibelímetro, Equipamento Obrigatório, Estabelecimento- Venda de Bebidas, Excesso de Peso, Fiscalização de Estrangeiro, Fiscalização Eletrônica, Lei do Descanso, Medidor de transmitância Luminosa, Motocicleta, Ônibus, Opacímetro, Produto Perigoso, Radar co Registro de Imagem, Ultrapassagem, Táxi e Uso e Ocupação da Faixa de Domínio, bem como outros que venham a ser criados no âmbito da temática em análise.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Limitações: Para esse indicador, o aumento da abrangência ocasiona necessidade de adequação concomitante das metas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 170
+Entrega: 327
+Indicador: 9171
+Denominação: Interdições realizadas em rodovias federais
+Índice De Referência: 2802.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Número absoluto de interdições totais ou parciais em rodovias federais
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Interdições: impedimento parcial da movimentação de bens e pessoas em vias, exceto os causados por fenômenos da natureza, obras e defeitos na via
+Bloqueios: impedimento total da movimentação de bens e pessoas em vias, exceto os causados por fenômenos da natureza, obras e defeitos na via.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 125
+Entrega: 274
+Indicador: 9107
+Denominação: Matrículas em capacitações voltadas a investigações de crimes patrimoniais
+Índice De Referência: 2458.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Matrículas refere-se à quantidade de pessoas que se matricularam em cursos insituidos pela Polícia Federal que visam aprimorar as habilidades e conhecimentos dos participantes na investigação de delitos patrimoniais, como lavagem de dinheiro, fraudes financeiras, corrupção e outras infrações que envolvem questões de patrimônio. O número de matrículas reflete o engajamento da Polícia Federal em aperfeiçoar e difundir métodos atualizados em investigações para descapitalizar organizações criminosas com maior eficácia. O aumento do número de matrículas é de 100 matrículas por ano para o quadriênio 2024/2027.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de matrículas em capacitações voltadas a investigaçõse de crimes patrimôniais
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Capacitações da Academia Nacional de Polícia - Educa
+Forma De Disponibilização: Sistema Educa (acesso pela intranet da Polícia Federal disponível apenas para os servidores do órgão)
+Procedimento De Cálculo: 1º passo: entrar em um sistema interno da Polícia Federal, que só servidores da PF possuem acesso, chamado Educa.                                               2º passo: Coletar a informação da quantidade de matrículas apreendidas em cursos relacionados a investigações de crimes patrimôniais
+Notas Explicativas: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 à 2027. Essa linha base é calculada como a média do número total de matrículas em cursos relacioandos a crimes patrimôniais nos anos de 2020, 2021 e 2022.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 123
+Entrega: 270
+Indicador: 9101
+Denominação: Matrículas em capacitações voltadas ao combate aos crimes cibernéticos
+Índice De Referência: 457.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Número de matrículas
+Descrição: O número de matrículas refere-se à quantidade de pessoas que se matricularam em cursos instituídos pela Polícia Federal que visam aprimorar as habilidades e conhecimentos dos participantes no combate aos crimes cibernéticos. O número de matrículas reflete o engajamento da Polícia Federal em aperfeiçoar e difundir métodos atualizados de atuação nesta área.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de matrículas em capacitações voltadas a investigações de crimes cibernéticos
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Capacitações da Academia Naiconal de Polícia - Educa
+Forma De Disponibilização: Sistema Educa (acesso pela intranet da Polícia Federal disponível apenas para os servidores do órgão)
+Procedimento De Cálculo: 1º passo: entrar em um sistema interno da Polícia Federal, que só servidores da PF possuem acesso, chamado Educa.                                               2º passo: Coletar a informação da quantidade de matrículas realizadas em cursos relacionados a crimes cibernéticos
+Notas Explicativas: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 à 2027. Essa linha base foi definida como a média aproximada dos quantitativos de matrículas nos anos de 2020, 2021 e 2022 nos cursos relacionados ao combate a crimes cibernéticos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 117
+Entrega: 199
+Indicador: 9000
+Denominação: Matrículas em capacitações voltadas a Polícia Judiciária
+Índice De Referência: 9170.0
+Em Apuração: Não
+Data De Apuração: 2023-06-23 00:00:00
+Unidade De Medida: Número de matrículas
+Descrição: O número de matrículas refere-se à quantidade de pessoas que se matricularam em cursos instituídos pela Polícia Federal que visam aprimorar as habilidades e conhecimentos dos participantes em atividades de polícia judiciária. O número de matrículas reflete o engajamento da Polícia Federal em aperfeiçoar e difundir métodos atualizados de atuação nesta área.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Matrículas refere-se à quantidade de pessoas que se matricularam em cursos insituidos pela Polícia Federal que visam aprimorar as habilidades e conhecimentos dos participantes em atividades de polícia judiciária
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Capacitações da Academia Naiconal de Polícia - Educa
+Forma De Disponibilização: Sistema Educa (acesso pela intranet da Polícia Federal disponível apenas para os servidores do órgão)
+Procedimento De Cálculo: 1º passo: entrar em um sistema interno da Polícia Federal, que somente servidores da PF possuem acesso, chamado Educa.                                               2º passo: Coletar a informação da quantidade de matrículas realizadas em cursos relacionados às atividades de polícia judiciária.
+Limitações: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 à 2027. Essa linha base foi definida como a média dos quantitativos de matrículas nos anos de 2020, 2021 e 2022 cursos relacioandos a Polícia Judiciária excluídos os cursos relacionados a crime cibernéticos e cursos sobre crimes patrimoniais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 300
+Entrega: 620
+Indicador: 9560
+Denominação: Número de agentes públicos capacitados por meio do Programa Nacional de Capacitação e Treinamento para o Combate à Corrupção e à Lavagem de Dinheiro (PNLD)
+Índice De Referência: 3427.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa
+Descrição: É o somatório do número de agentes públicos  capacitados  na temática combate à corrupção e à lavagem de dinheiro
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Até o dia 28 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: * ∑ do número agentes públicos capacitados por meio do Programa Nacional de Capacitação e Treinamento para o Combate à Corrupção e à Lavagem de Dinheiro (PNLD): Soma dos agentes públicos capacitados pelo PNLD que foram certificados
+Fonte De Dados Das Variáveis De Cálculo: Sistema Sei
+Forma De Disponibilização: Sistema Sei
+Procedimento De Cálculo: Consulta as listas de  presença, relatórios  e sistema SEI
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 120
+Entrega: 268
+Indicador: 9098
+Denominação: Número de operações de prevenção e repressão a crimes contra meio ambiente nos estados da Amazônia Legal (AC, AM, AP, MA, MT, PA, RO, RR e TO)
+Índice De Referência: 99.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Descrição: Número de operações de prevenção e repressão a crimes contra a flora e mineração ilegal nos estados da Amazônia Legal (AC, AM, AP, MA, MT, PA, RO, RR e TO)
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Operações (Comuns e Especiais) nas Unidades Amazônia Legal (AC, AM, AP, MA, MT, PA, RO, RR, TO) de repressão a crimes contra a flora e mineração
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Polícia Judiciária - ePol (painel BI com acesso interno para servidores da polícia Federal)
+Forma De Disponibilização: Painel BI e sitema Palas
+Procedimento De Cálculo: 1º passo: entrar em um sistema interno da Polícia Federal, que só servidores da PF possuem acesso (BI, PALAS, ePol).                                               2º passo: Coletar a informação da quantidade de operações deflagradas
+Notas Explicativas: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 a 2027. Esse valor é calculado como os dados do ano de 2022.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 173
+Entrega: 339
+Indicador: 9190
+Denominação: Percentual de eficiência em ações de enfrentamento à criminalidade
+Índice De Referência: 43.0
+Em Apuração: Não
+Data De Apuração: 2023-04-20 00:00:00
+Unidade De Medida: percentual
+Descrição: Quociente entre o número de comunicados de alta probabilidade que geraram Registro de Ocorrência Criminal e o número de comunicados de alta probabilidade fornecido
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CAI: comunicado de aplicação imediata, com alta probabilidade de ocorrência criminal, fornecido pela área de inteligência à área de operações.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do bando de dados; Cálculo pela fórmula.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Entrega: 1158
+Indicador: 11095
+Denominação: Percentual de espaços estruturados
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Contagem de equipamentos públicos voltados ao enfrentamento a violência contra mulheres entregues
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Equipamentos públicos voltados ao enfrentamento à violência contra mulheres implementados
+Fonte De Dados Das Variáveis De Cálculo: Termos de adesão para estruturação de equipamentos públicos voltados ao enfrentamento a violência contra mulheres
+Forma De Disponibilização: Canal Técnico - Diretoria do Sistema Único de Segurança Pública - DSUSP, via Sistema Eletrônico de Informações - SEI
+Procedimento De Cálculo: Levantamento de processos administrativos do Sistema Eletrônico de Informações - SEI referentes às doações realizadas
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 300
+Entrega: 623
+Indicador: 9574
+Denominação: Percentual de Estatística consolidada das análises realizadas pelos LAB-LD de órgãos de persecução criminal
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: É o percentual de Estatística consolidada das análises realizadas pelos LAB-LD de órgãos de persecução criminal
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Até o dia 28 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: * ∑  total de laboratórios de persecução criminal que forneceram aboratórios de persecução criminal que forneceram informações estatísticas: São unidades especializadas na extração, tratamento e análise de grande massas de dados para o combate à lavagem de dinheiro que forneceram informações estatísticas quando solicitadas
+
+* ∑  total de laboratórios de persecução criminal: São unidades especializadas na extração, tratamento e análise de grande massas de dados para o combate à lavagem de dinheiro criminal
+Fonte De Dados Das Variáveis De Cálculo: Sistema Sei
+Forma De Disponibilização: Sistema Sei
+Procedimento De Cálculo: Relatórios e Sistema Sei
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 300
+Entrega: 621
+Indicador: 11049
+Denominação: Percentual de execução das ações aprovadas na plenária da ENCLA
+Índice De Referência: 60.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: É o percentual de execução das ações aprovadas na Reunião plenária da ENCCLA em relação às ações propostas na plenária da ENCCLA no ano anterior
+Período Ou Data A Que Se Refere: 31/12/2022
+Data De Divulgação/Disponibilização: 28 de Fevereito do Ano Subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: * ∑ das ações propostas na ENCCLA: Ações propostas, no ano anterior, na Reunião plenária da Estratégia Nacional de Combate a Corrupção e à Lavagem de Dinheiro (ENCCLA) 
+
+* ∑ das ações aprovadas, no ano anterior, na Reunião plenária da Estratégia Nacional de Combate a Corrupção e à Lavagem de Dinheiro (ENCCLA)
+Fonte De Dados Das Variáveis De Cálculo: Sistema Sei
+Forma De Disponibilização: Sistema Sei e
+ https://www.gov.br/mj/pt-br/acesso-a-informacao/perguntas-frequentes/ativos_cooperacao/estrategia-nacional-de-combate-a-corrupcao-e-a-lavagem-de-dinheiro-enccla;
+http://enccla.camara.leg.br/
+Procedimento De Cálculo: Relatórios e Sistema Sei
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Entrega: 304
+Indicador: 9143
+Denominação: Percentual de pessoas privadas de liberdade matriculadas em educação formal
+Índice De Referência: 16.18
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: O indicador visa aferir a quantidade de matrículas de Educação Básica – Educação de Jovens e Adultos - ofertadas para as pessoas privadas de liberdade.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: junho e dezembro do ano subsequente.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Pessoas matriculadas na educação básica – alfabetização ou 1º e 2º anos das Séries Iniciais do Ensino Fundamental.
+B = Pessoas matriculadas na educação básica - 3º, 4º e 5º anos das séries iniciais e das séries finais do Ensino Fundamental.
+C = Pessoas matriculadas na educação básica - Ensino Médio - regular e técnico.
+(Dados são obtidos através do Censo Escolar e Infopen, como educação escolar, e demonstram as matrículas realizadas junto à rede pública e privada de ensino).
+D = Pessoas envolvidas em atividades educacionais de ensino superior, obtidas no Infopen.
+Fonte De Dados Das Variáveis De Cálculo: Sisdepen
+Forma De Disponibilização: BI do Sisdepen
+Procedimento De Cálculo: Coleta dos dados junto às unidades federativas; Tratamento dos dados obtidos pela Senappen; Validação dos dados pelos gestores estaduais e senappen; divulgação dos dados pelo SISDEPEN.
+Notas Explicativas: O total de matrículas tem como referência o mês de dezembro de cada ano, entretanto, o Sisdepen tem sido divulgado somente no ano seguinte, geralmente no mês de maio.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Entrega: 312
+Indicador: 9155
+Denominação: Percentual de pessoas privadas de liberdade que participam de atividades laborais
+Índice De Referência: 18.96
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: O indicador mede: o número de pessoas envolvidas em ações de trabalho, atividades laborativas e qualificação profissional.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: maio e novembro do ano subsequente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= presos condenados              
+B= presos provisórios         
+C= egressos               
+D= medidas alternativas de pena
+Fonte De Dados Das Variáveis De Cálculo: SISDEPEN
+Forma De Disponibilização: BI do SISDEPEN
+Procedimento De Cálculo: Coleta dos dados junto às unidades federativas; Tratamento dos dados obtidos pela Senappen; Validação dos dados pelos gestores estaduais e senappen; divulgação dos dados pelo SISDEPEN.
+Notas Explicativas: O SISDEPEN tem divulgado os dados anuais em Maio, por isso o utilizamos como marco temporal.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 173
+Entrega: 337
+Indicador: 9189
+Denominação: Pessoas alcançadas em ações de garantia e promoção de Direitos Humanos
+Índice De Referência: 196521.0
+Em Apuração: Não
+Data De Apuração: 2023-04-20 00:00:00
+Unidade De Medida: pessoa
+Descrição: Número absoluto de pessoas alcançadas em ações de garantia e promoção dos direitos humanos
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ação de garantia e promoção dos Direitos Humanos: campanhas educativas, operações e intervenções de enfrentamento a crimes contra os Direitos Humanos.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 165
+Entrega: 305
+Indicador: 9146
+Denominação: Pessoas alcançadas em atividade de educação para o trânsito
+Índice De Referência: 1928473.0
+Em Apuração: Não
+Data De Apuração: 2023-04-20 00:00:00
+Unidade De Medida: pessoa
+Descrição: Contabiliza aa pessoas alcançadas em ações de educação para o trânsito realizadas pela PRF.
+Período Ou Data A Que Se Refere: Último dia do semestre Semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Atividades de Educação para o Trânsito (AEDT): São os tipos de atividades planejadas com base em estudos de sinistralidade de trânsito e executados no âmbito da educação para o trânsito pela PRF.
+
+Tipos de AEDT: Ações Educativas, Comandos Educativos, Educar PRF, Fetran e Trânsito Compartilhado, bem como outras que venham a ser criadas no âmbito da temática em análise.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Entrega: 326
+Indicador: 9170
+Denominação: Pessoas atendidas pelos serviços especializados de atenção à pessoa egressa do sistema prisional
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: pessoa
+Descrição: O indicador visa aferir o aumento de pessoas atendidas pelos serviços especializados.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Fevereiro e Agosto do ano subsequente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NT=número total; 
+NI=número de novos inscritos;                                  
+ND= número de desligados.
+Fonte De Dados Das Variáveis De Cálculo: Formulários preenchidos mensalmente pelos Serviços Especializados de Atenção à Pessoa Egressa do Sistema Prisional.
+Forma De Disponibilização: Os dados serão disponibilizados por meio de Boletins Semestrais em canais de comunicação oficiais da SENAPPEN.
+Procedimento De Cálculo: O número total de pessoas atendidas pelos serviços especializados será calculado a partir do número de pessoas inscritas, menos o número de pessoas desligadas.
+Notas Explicativas: A sistematização e a coleta de dados relativas às pessoas atendidas pelos serviços especializados de atenção à pessoa egressa estão sendo inauguradas de forma concomitante à construção dos indicadores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Entrega: 316
+Indicador: 9159
+Denominação: Pessoas em cumprimento de medidas alternativas ao encarceramento
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa
+Descrição: O indicador visa aferir o aumento da aplicação das medidas cautelares, penas restritivas de direito, acordo de não persecução penal e monitoração eletrônica (medidas cautelares e medidas protetivas de urgência) como alternativas ao cárcere.
+
+No Índice de Referência, consta o seguinte texto: "Índice de referência zero. A linha de base do indicador será estabelecida a partir do número de medidas cautelares, penas restritivas de direito, acordos de não persecução penal e monitoração eletrônica para os casos de medidas cautelares e medidas protetivas de urgência." Contudo, é importante esclarecer que o ideal seria que todas as modalidades de acompanhamento sejam incluídas para contagem, uma vez que não há distinção das modalidades quando da coleta das informações. Assim que o Sistema Nacional de Alternativas Penais (SINAPE) for implementado, será possível realizar uma avaliação individualizada do impacto e do quantitativo de todas as modalidades de medidas adotadas, tanto pelas Centrais Integradas de Alternativas Penais quanto pelas Centrais de Monitoração Eletrônica. Isso permitirá um monitoramento mais preciso e detalhado da aplicação das medidas em âmbito nacional.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Fevereiro e Agosto do ano subsequente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: T=total;
+NE=novas entradas; 
+mc=medida cautelar; 
+prd=pena restritiva de direito; 
+anpp= acordo de não persecução penal; 
+me= monitoração eletrônica
+Fonte De Dados Das Variáveis De Cálculo: Formulários preenchidos mensalmente pelas Centrais Integradas de Alternativas Penais e Centrais de Monitoração Eletrônica e validadas pelas Secretarias de Estado.
+Forma De Disponibilização: Os dados serão disponibilizados por meio de Boletins Semestrais em canais de comunicação oficiais da SENAPPEN
+Procedimento De Cálculo: O número será calculado a partir do somatório de novas pessoas em medidas cautelares, das penas restritivas de direito, do acordos de não persecução penal e da monitoração eletrônica (medidas cautelares e medidas protetivas de urgência)
+Notas Explicativas: A sistematização e coleta de dados relativos às medidas alternativas ao encarceramento está sendo inaugurada de forma concomitante à construção dos indicadores.
+A linha de base do indicador será estabelecida a partir do número de medidas cautelares, penas restritivas de direito, acordo de não persecução penal e monitoração para os casos de medidas cautales e medidas protetivas de urgência.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 421
+Entrega: 1827
+Indicador: 11118
+Denominação: Profissionais de segurança pública beneficiados com subsídios habitacionais
+Índice De Referência: 6500.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: quantidade
+Descrição: Profissionais de segurança Pública beneficiados de acordo com as regras do programa Habite Seguro
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro (do ano subsequente)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Contratos para destinação de subvenção (pagamento de parte do valor do imóvel e/ou pagamento do valor da parcela da tarifa para contratação do financiamento)
+Fonte De Dados Das Variáveis De Cálculo: Relatório agente operador (Caixa Econômico Federal)
+Forma De Disponibilização: Canal Técnico
+(Diretoria do Sistema Único de Segurança Pública - DSUSP)
+Procedimento De Cálculo: Recebimento de planilhas do Agente Operador (Caixa Econômica Federal - CEF) com informações dos contratos ativos
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 125
+Entrega: 277
+Indicador: 9111
+Denominação: Quantidade de cocaína apreendida em Operações de Polícia Judiciária
+Índice De Referência: 84574.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: kg
+Descrição: A quantidade de cocaína apreendida durante as operações de Polícia Judiciária indica a medida do volume de droga que foi confiscada pelas autoridades policiais durante o desdobramento de ações investigativas. A apreensão de cocaína nessas operações é um indicador importante do sucesso das atividades policiais na interrupção do tráfico de drogas, na desarticulação de redes criminosas e na proteção da sociedade contra os riscos associados ao comércio ilegal de entorpecentes. O aumento da quantidade de cocaína é de 0,25%, 0,5%, 0,7% e 0,9% para o quadriênio 2024/2027.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 1º de março do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de cocaína apreendida em Operações de Polícia Judiciária
+Fonte De Dados Das Variáveis De Cálculo: Sistema ePol.
+Forma De Disponibilização: Paineis BI SIGACrim Qualidade de Dados.
+Procedimento De Cálculo: 1º passo: entrar no Painel BI SIGACrim Qualidade de Dados, hospedado no sistema interno da Polícia Federal, que só servidores da PF possuem acesso.
+2º passo: Coletar do Painel BI SIGACrim Qualidade de Dados.
+Notas Explicativas: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 a 2027. Esse valor é calculado como a média dos dados dos dois últimos anos, ou seja, 2022 e 2023.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 173
+Entrega: 334
+Indicador: 9187
+Denominação: Quantidade de Comandos de enfrentamento à criminalidade
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: número absoluto
+Descrição: Número absoluto de comandos de enfrentamento à criminalidade realizadas por equipes PRF
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Comandos de Enfrentamento à Criminalidade: ações planejadas de fiscalização local, em ponto fixo sinalizado e por tempo predeterminado, com o propósito específico de prevenção, policiamento e fiscalização de enfrentamento a crimes, excetuadas aquelas analisadas no âmbito de comandos de segurança viária.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Limitações: Estão sendo feitas melhorias nos sistemas de informação para coleta de dados desse indicador
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 401
+Entrega: 3391
+Indicador: 12729
+Denominação: Quantidade de perfis inseridos no Banco Nacional de Perfis Balísticos (BNPB)
+Índice De Referência: 76024.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: O Sistema Nacional de Análise Balística permite o compartilhamento e a comparação de perfis balísticos constantes do Banco Nacional de Perfis Balísticos.
+Período Ou Data A Que Se Refere: 31/12/2024
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Power BI gerenciado pela Secretaria Nacional de Segurança Pública - Senasp
+Forma De Disponibilização: Power BI gerenciado pela Secretaria Nacional de Segurança Pública - Senasp.
+Procedimento De Cálculo: Serão somados os perfis inseridos no Banco Nacional de Perfis Balísticos (BNPB).
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 401
+Entrega: 3390
+Indicador: 12728
+Denominação: Quantidade de perfis inseridos no Banco Nacional de Perfis Genéticos (BNPG)
+Índice De Referência: 247410.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Trata-se de um banco que auxilia nas investigações criminais por meio da prova pericial do DNA. Com o material, é possível identificar a autoria de fatos criminosos sem solução, comprovar a inocência de suspeitos e ainda relacionar um determinado caso com outras investigações das demais esferas policiais.
+Período Ou Data A Que Se Refere: 31/12/2024
+Data De Divulgação/Disponibilização: 10/01/2026
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Número total de perfis inseridos no Banco Nacional de Perfis Genéticos (BNPG)
+Fonte De Dados Das Variáveis De Cálculo: Power BI gerenciado pela Secretaria Nacional de Segurança Pública - Senasp.
+Forma De Disponibilização: Power BI gerenciado pela Secretaria Nacional de Segurança Pública - Senasp.
+Procedimento De Cálculo: Serão somados os perfis inseridos no Banco Nacional de Perfis Genéti\cos (BNPG).
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 165
+Entrega: 309
+Indicador: 9149
+Denominação: Rondas ostensivas realizadas em rodovias federais
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: hora
+Descrição: Contabiliza as horas empenhadas em rondas ostensivas por equipes PRF em trechos críticos de acidentalidade.
+Período Ou Data A Que Se Refere: Último dia do Semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Rondas Ostensivas: consiste em deslocamento ostensivo em viaturas caracterizadas de preservar a ordem pública e prevenir a ocorrência de sinistros e crimes, incluindo as paradas para execução de abordagens a veículos e pessoas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do sistema;
+Limitações: Estão sendo feitas melhorias nos sistemas de informação para coleta de dados desse indicador
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 165
+Entrega: 315
+Indicador: 9157
+Denominação: Tempo de resposta a sinistros de trânsito em rodovias federais
+Índice De Referência: 29.72
+Em Apuração: Não
+Data De Apuração: 2023-04-20 00:00:00
+Unidade De Medida: minuto
+Descrição: Contabiliza o tempo  tempo decorrido entre o acionamento da equipe PRF e sua chegada ao local do acidente de trânsito em rodovias federais.
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Sinistro de trânsito: todo evento que resulte em dano ao veículo ou à sua carga, e/ou em lesões a pessoas e/ou animais, e que possa trazer dano material ou prejuízos ao trânsito, à via ou ao meio ambiente, em que pelo menos uma das partes está em movimento nas vias terrestres ou em áreas abertas ao público.
+
+Tempo de resposta: tempo decorrido entre o acionamento da equipe e sua chegada ao local do sinistro.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Analytics
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do bando de dados; Cálculo pela fórmula.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 117
+Entrega: 284
+Indicador: 9118
+Denominação: Tempo médio de duração dos inquéritos policiais em andamento
+Índice De Referência: 679.0
+Em Apuração: Não
+Data De Apuração: 2023-06-12 00:00:00
+Unidade De Medida: dias
+Descrição: O indicador Tempo médio de duração dos inquéritos policiais em andamento revela a média aritmética simples do total (em dias) de todos os inquéritos policiais em andamento sobre a quantidade de inquéritos policiais em andamento.  O tempo de duração do inquérito em andamento corresponde ao período (em dias) da data de instauração do inquérito policial até a data atual.  O índice de referência utilizado corresponde ao tempo médio (em dias) obtido em 12/06/2023.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: 1. Data da Instauração do Inquérito policial: data do início das investigações.
+ 2. Data atual: data do momento da observação. 
+3. Total de inquéritos policiais em andamento: total de inquéritos policiais não concluídos.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Polícia Judiciária - ePol (painel BI com acesso interno para servidores da polícia Federal)
+Forma De Disponibilização: Painel BI  com atualização diária extraído do Sistema de Gestão de Polícia Judiciária (ePol) disponibilizado na intranet da PF com acesso interno para servidores da Polícia Federal. Obs: A atualização diária reflete a posição do dia anterior (D-1)
+Procedimento De Cálculo: Cálculo realizado automaticamente com a utilização de ferramenta de BI, com base na fórmula apresentada e respectivas variáveis de cálculo.
+Limitações: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 à 2027. A referência utilizada corresponde ao tempo médio (em dias) obtido em 12/06/2023, extraído do Sistema de Gestão de Polícia Judiciária (ePol) por meio de um Painel BI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 123
+Entrega: 2
+Indicador: 8768
+Denominação: Tempo médio de duração dos inquéritos policiais envolvendo crimes cibernéticos em andamento
+Índice De Referência: 606.0
+Em Apuração: Não
+Data De Apuração: 2023-06-12 00:00:00
+Unidade De Medida: dias
+Descrição: O indicador Tempo médio de duração dos inquéritos policiais em andamento revela a média aritmética simples do total (em dias) de todos os inquéritos policiais na temática de crimes cibernéticos em andamento sobre a quantidade de inquéritos policiais na temática de crimes cibernéticos em andamento.  O tempo de duração do inquérito em andamento corresponde ao período (em dias) da data de instauração do inquérito policial até a data atual.  O índice de referência utilizado corresponde ao tempo médio (em dias) obtido em 12/06/2023
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: 1. Data da Instauração do Inquérito policial: data do início das investigações. 
+2. Data atual: data do momento da observação. 
+3. Total de inquéritos policiais em andamento: total de inquéritos policiais não concluídos.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Polícia Judiciária - ePol (painel BI com acesso interno para servidores da polícia Federal)
+Forma De Disponibilização: Painel BI  com atualização diária extraído do Sistema de Gestão de Polícia Judiciária (ePol) disponibilizado na intranet da PF com acesso interno para servidores da Polícia Federal. Obs: A atualização diária reflete a posição do dia anterior (D-1)
+Procedimento De Cálculo: Cálculo realizado automaticamente com a utilização de ferramenta de BI, com base na fórmula apresentada e respectivas variáveis de cálculo.
+Limitações: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 à 2027. A referência utilizada corresponde ao tempo médio (em dias) obtido em 12/06/2023, extraído do Sistema de Gestão de Polícia Judiciária (ePol) por meio de um Painel BI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 421
+Entrega: 2155
+Indicador: 11501
+Denominação: Total de vagas preenchidas em ações educacionais
+Índice De Referência: 180000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Vagas preenchidas: matrículas homologadas em cursos de Educação à Distância - EaD, presenciais, híbridos, graduação, pós-graduação, e eventos técnicos, ofertados ou em parceria com o Governo Federal, com objetivo de aprimorar ações dos integrantes que compõem o Sistema Único de Segurança Pública - Susp
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 31 de julho e 31 de janeiro
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Ações educacionais: cursos em formato de Educação à Distância - EaD; cursos presenciais; cursos híbridos; cursos da Rede Nacional de Altos Estudos em Segurança Pública - Renaesp; e eventos técnicos.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de matriculados em Ambiente Virtual de Aprendizagem e planilha de matriculados em ações educacionais armazenadas Sistema de Gestão Acadêmica (SGA) e no Sistema Eletrônico de Informações - SEI.
+Forma De Disponibilização: Canal Técnico Diretoria de Ensino e Pesquisa - DEP
+Procedimento De Cálculo: Levantamento de matrículas homologadas e de certificação / declaração de aptidão, via Sistema de Gestão Acadêmica (SGA) e Sistema Eletrônico de Informações - SEI
+Limitações: Por se tratar de ação realizada para os profissionais de segurança pública, em âmbito nacional, não é possível trabalhar com meta regionalizada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 170
+Entrega: 325
+Indicador: 9168
+Denominação: Trechos críticos inspecionados
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Quociente entre o número de trechos críticos inspecionados e o total de trechos críticos
+registrados
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Trecho inspecionado: extensões fracionadas da malha viária elencadas no rol dequilômetros classificados e avaliados quanto a condições da via por equipe PRF.
+Fonte De Dados Das Variáveis De Cálculo: Banco de Dados do Formulário de Inspeção
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Extração de dados do bando de dados; Cálculo pela fórmula.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 401
+Entrega: 1157
+Indicador: 10173
+Denominação: Unidades de perícia integradas ao Sistema de Análise Balística - SINAB e ao Combined DNA Index System - CODIS (Rede Integrada de Banco de Perfis Genéticos - RIBPG)
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem  de unidades de perícia integradas ao Sistema de Análise Balística - SINAB e ao Combined DNA Index System - CODIS (Rede Integrada de Banco de Perfis Genéticos - RIBPG), nas Unidades Federativas (UF).
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 31 de julho e 30 de janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: UF Perícia SINAB: Unidades Federativas (UF) com unidades de perícia integradas ao Sistema de Análise Balística - SINAB
+
+UF Perícia CODIS: Unidades Federativas (UF) com unidades de perícia integradas ao Combined DNA Index System - CODIS (Rede Integrada de Banco de Perfis Genéticos - RIBPG)
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Comitê das Redes
+Forma De Disponibilização: Canal Técnico - (Diretoria do Sistema Único de Segurança Pública - DSUSP)
+Procedimento De Cálculo: Contagem das Unidades Federativas (UF) integradas a partir dos relatórios dos Comitês de cada Rede
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5116
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 173
+Indicador: 9179
+Denominação: Flagrantes interceptados pela PRF
+Índice De Referência: 60595.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Diuturnamente as equipes da PRF interceptam ações criminosas que ocorrem nas rodovias federais e áreas de interesse da União. O procedimento interno dita o registro dessas ocorrências criminais por meio de sistemas de informações e posterior adoção dos encaminhamentos legais necessários.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do mês  (entre os dias 10 e 15 do mês subsequente)
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Flagrante	interceptado:	resultado	de	ações	repressivas	de	enfrentamento	à criminalidade que culminaram na lavratura de Registros de Ocorrências Criminais.
+Fonte De Dados Das Variáveis De Cálculo: SISTEMA ANALYTICS
+Forma De Disponibilização: Inserção de dados no Painel Estratégico do Ministério e disponibilização via documento SEI
+Procedimento De Cálculo: Extração do quantitativo de flagrantes que culminaram em registro de ocorrências criminais por meio dos sistemas Analytics;
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 123
+Indicador: 9011
+Denominação: Índice de Identificação de autoria de crimes cibernéticos
+Índice De Referência: 50.75
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador tem como propósito mensurar a eficiência das investigações conduzidas por meio de inquéritos policiais, evidenciando a capacidade de identificar os responsáveis por tais delitos.
+O indicador considera o percentual de identificação de autoria de crime em relação ao total de inquéritos relatados que podem ter as seguintes classificações: [i] é crime e a autoria foi identificada; [ii] é crime e a autoria não foi identificada; [iii] não é crime. O índice de referência utilizado corresponde ao percentual apurado no ano de 2022.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) inquéritos policiais relatados com autoria Identificada: total de inquéritos policiais concluídos em que a autoria dos crimes foi devidamente identificada;
+
+2) inquéritos policiais relatados: total de inquéritos policiais encerrados que podem ser [i] é crime e a autoria foi identificada; [ii] é crime e a autoria não foi identificada; [iii] não é crime.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Polícia Judiciária - ePol (painel BI com acesso interno para servidores da polícia Federal)
+Forma De Disponibilização: Painel BI  com atualização diária extraído do Sistema de Gestão de Polícia Judiciária (ePol) disponibilizado na intranet da PF com acesso interno para servidores da Polícia Federal. Obs: A atualização diária reflete a posição do dia anterior (D-1)
+Procedimento De Cálculo: Cálculo realizado automaticamente com a utilização de ferramenta de BI, com base na fórmula apresentada e respectivas variáveis de cálculo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Indicador: 10164
+Denominação: Índice de percepção do risco de vitimização
+Índice De Referência: 33.0
+Em Apuração: Não
+Data De Apuração: 2022-12-07 00:00:00
+Unidade De Medida: percentual
+Descrição: A percepção do risco de vitimização é avaliada pela ausência ou controle de ameaças às pessoas. A partir dela pode-se compreender melhor o fenômeno social da violência e seus efeitos, buscando não apenas mitigá-los, mas também provocando uma mudança cultural. Para se aferir a percepção do risco de vitimização são considerados alguns aspectos: tipo de local; situação do domicílio; período do dia; vitimização; existência de serviços públicos, incivilidades e crimes nos arredores.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro (do ano subsequente)
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: PRVMA: Percepção do risco de vitimização - risco médio ou alto
+
+Tipos de vitimização considerados:
+
+1. Ser assaltado(a) ou roubado(a) com violência na rua;
+2. Ter seu domicílio roubado ou furtado;
+3. Ter seu carro, moto ou bicicleta assaltado ou roubado com violência;
+4. Ser assaltado(a) no transporte coletivo;
+5. Ser vítima de agressão sexual;
+6. Ser assassinado(a).
+Fonte De Dados Das Variáveis De Cálculo: PNAD (contínua)
+Forma De Disponibilização: Site IBGE (https://www.ibge.gov.br/estatisticas/sociais/justica-e-seguranca.html)
+Procedimento De Cálculo: A obtenção das informações se dará a partir de solicitação oficial junto ao IBGE.
+Limitações: Tempo entre a pesquisa e a disponibilização dos dados.
+
+As metas foram propostas sempre com base no índice de referência informado (33%). Neste sentido, espera-se ao final do ciclo uma redução total de 5%, resultando na diminuição da percepção do risco de vitimização - risco médio ou alto de 33% para 28%.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 117
+Indicador: 8989
+Denominação: Índice de Solução de Inquéritos
+Índice De Referência: 82.57
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador tem como propósito mensurar a eficiência das investigações  conduzidas por meio de inquéritos policiais. O indicador considera  inquéritos solucionados os inquéritos onde há autoria identificada  e onde não foi constatada a existência de crime. O índice de referência utilizado corresponde ao percentual apurado no ano de 2022.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 20 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) inquéritos policiais relatados com autoria Identificada: total de inquéritos policiais concluídos em que a autoria dos crimes foi devidamente identificada; 2) inquéritos policiais relatados sem identificação de crime: total de inquéritos policiais concluídos onde não foi constatada a existência de crimes. 3) inquéritos policiais relatados: total de inquéritos policiais encerrados.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Polícia Judiciária - ePol (painel BI com acesso interno para servidores da polícia Federal)
+Forma De Disponibilização: Painel BI  com atualização diária extraído do Sistema de Gestão de Polícia Judiciária (ePol) disponibilizado na intranet da PF com acesso interno para servidores da Polícia Federal. Obs: A atualização diária reflete a posição do dia anterior (D-1)
+Procedimento De Cálculo: Cálculo realizado automaticamente com a utilização de ferramenta de BI, com base na fórmula apresentada e respectivas variáveis de cálculo.
+Limitações: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 à 2027. A referência utilizada corresponde ao percentual apurado no ano de 2022 (31/12/2022), extraído do Sistema de Gestão de Polícia Judiciária (ePol) por meio de um Painel BI
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 300
+Indicador: 9548
+Denominação: Percentual de órgãos e entidades que participam das atividades promovidas pelas redes de articulação para o combate à corrupção e à lavagem de dinheiro
+Índice De Referência: 70.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de órgãos e entidades que participam das atividades promovidas pelas redes de articulação para o combate à corrupção e à lavagem de dinheiro,  considerando o número total de órgãos e entidades que integram as redes
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Até o dia 28 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: * ∑  dos órgãos e entidades que participam das atividades promovidas pelas redes de articulação para o combate à corrupção e à lavagem de dinheiro:  São os órgãos e entidades integrantes das redes de articulação para o combate à corrupção e à lavagem de dinheiro que participaram das atividades no decorrer do ano
+
+* ∑  dos órgãos e entidades que integram as redes: São os órgãos e entidades integrantes das redes de articulação para o combate à corrupção e à lavagem de dinheir dinheiro:  São os órgãos e entidades integrantes das redes de articulação para o combate à corrupção e à lavagem de dinheiro que participaram das atividades no decorrer do ano
+
+* ∑  dos órgãos e entidades que integram as redes: São os órgãos e entidades integrantes das redes de articulação para o combate à corrupção e à lavagem de dinheiro
+Fonte De Dados Das Variáveis De Cálculo: Sistema SEI
+Forma De Disponibilização: Sistema SEI
+Procedimento De Cálculo: Consulta as listas de  presença, relatórios  e sistema SEI
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Indicador: 8767
+Denominação: Pessoas atendidas nas diferentes políticas penais: trabalho, educação, atenção à pessoa egressa do sistema prisional, alternativas penais e monitoração eletrônica
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade absoluta de pessoas atendidas em cada uma das políticas: trabalho, educação, atenção à pessoa egressa e enfrentamento ao superencarceramento. Obs.: o indicador será medido por pessoas atendidas, porém agregará dados que podem subsidiar que a mesma pessoa seja contabilizada mais de uma vez, pela possibilidade de figurar como público em diferentes políticas.
+Período Ou Data A Que Se Refere: Último dia de maio e último dia de novembro
+Data De Divulgação/Disponibilização: maio e novembro de cada ano
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= Pessoas  atendidas pelas políticas penais
+A= N° absoluto de pessoas atendidas nas políticas de trabalho; B= N° absoluto de pessoas atendidas em formação acadêmica; C = Nº absoluto de  pessoas em cumprimento de medidas alternativas ao encarceramento por meio de: Centrais Integradas de Alternativas Penais; Ação de Justiça Restaurativa em âmbito criminal; Serviços de Atendimento à Pessoa Custodiada (APEC); Centrais de Monitoração Eletrônica; e  D =
+Nº absoluto de pessoas atendidas pelos serviços especializados de atenção ao egresso do sistema prisional e familiares; prisional.
+Fonte De Dados Das Variáveis De Cálculo: Sisdepen - Levantamento Nacional de Informações Penitenciárias e Levantamento Nacional de Alternativas Penais, monitoração eletrônica, serviços APEC e Atenção ao Egresso (descrito na coluna AH)
+Forma De Disponibilização: Power BI
+https://app.powerbi.com/view?r=eyJrIjoiMTQ2ZDc4NDAtODE5OS00ODZmLThlYTEtYzI4YTk0MTc2MzJkIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9&pageName=ReportSection045531d3591996c70bde
+Procedimento De Cálculo: Coleta dos dados junto às unidades federativas; Tratamento dos dados obtidos pela Senappen; Validação dos dados pelos gestores estaduais e senappen; Cruzamento de dados do Ministério da Saúde e os dados do SISDEPEN;
+Limitações: Prazo de fornecimento dos dados pelas unidades federativas e consequente impacto temporal nas etapas de validação e publicidade do indicador; dificuldade de integração com bases de dados extra-órgão.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 401
+Indicador: 10158
+Denominação: Quantidade de instituições integrantes do Sistema Único de Segurança Pública - SUSP, que aderiram aos sistemas nacionais de segurança pública
+Índice De Referência: 6490.0
+Em Apuração: Não
+Data De Apuração: 2023-07-03 00:00:00
+Unidade De Medida: quantidade
+Descrição: Os sistemas nacionais de segurança pública funcionam como um canal de integração das instituições que compõem o Sistema Único de Segurança Pública - SUSP. São disponibilizados pelo Governo Federal para acesso não apenas dos Estados, mas também dos municípios. Por meio deles é possível obter dados e informações que contribuem na formulação de conhecimento para embasar a tomada de decisão dos gestores.
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: 05 de julho (primeiro semestre);  05 janeiro (segundo semestre);
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Instituições integrantes do Sistema Único de Segurança Pública - SUSP: polícia federal, polícia rodoviária federal, polícia ferroviária federal, polícias civis, institutos oficiais de criminalística, medicina legal e identificação, polícias militares, corpos de bombeiros militares, polícias penais, guardas municipais,  agentes de trânsito, guarda portuária.
+
+Sistemas Nacionais de Segurança Pública: Sistema Nacional de Informações de Segurança Pública - SINESP, Plataforma de Monitoramento CORTEX, Sistema de Análise Balística - SINAB, Combined DNA Index System - CODIS (Rede Integrada de Banco de Perfis Genéticos - RIBPG)
+Fonte De Dados Das Variáveis De Cálculo: Sistemas Nacionais de Segurança Pública: SINESP, CORTEX, SINAB, CODIS.
+
+Os dados são contabilizados por sistema, podendo neste caso uma mesma instituição constar em mais de um sistema.
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: A obtenção das informações se dará por meio de contato via Sistema Eletrônico de Informações - SEI, com as áreas responsáveis pela gestão dos sistemas nacionais de segurança pública (SINESP - Diretoria de Gestão e Integração de Informações - DGI; CORTEX - Diretoria de Operações Integradas e de Inteligência - DIOPI; SINAB e CODIS - Diretoria do Sistema Único de Segurança Pública - DSUSP)
+Limitações: A adesão das instituições integrantes do Sistema Único de Segurança Pública - SUSP aos sistemas nacionais de segurança pública é realizada de forma facultativa, sendo o Governo Federal um indutor desta ação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 120
+Indicador: 8995
+Denominação: Redução do desmatamento ilegal na Amazônia Legal Brasileira (ALB)
+Índice De Referência: 11568.0
+Em Apuração: Não
+Data De Apuração: 2023-04-28 00:00:00
+Unidade De Medida: km²
+Descrição: Redução da área desmatada em áreas de interesse da União na Amazônia Legal, à razão do redutor anual de 20, 35, 50 e 65% para o quadriênio 2024/2027 considerando o índice de desmatamento PRODES/INPE 2022.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: A primeira apresentação dos dados do PRODES pelo INPE é realizada até dezembro de cada ano, na forma de estimativa, quando normalmente são processadas aproximad
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Monitoramento por satélites do desmatamento por corte raso na Amazônia Legal e produz.  As taxas anuais são estimadas a partir dos incrementos de desmatamento identificados em cada imagem de satélite que cobre a Amazônia Lega
+Fonte De Dados Das Variáveis De Cálculo: Instituto Nacional de Pesquisas Espaciais - INPE
+Forma De Disponibilização: Relatório consolidado PRODES/INPE publicado no primeiro semestre do ano subsequente.
+Procedimento De Cálculo: O Insituto Nacional de Pesquisas Espaciais - INPE, por meio do  PRODES realiza o monitoramento por satélites do desmatamento por corte raso na Amazônia Legal e produz, desde 1988, as taxas anuais de desmatamento na região
+Limitações: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 a 2027. Esse valor é calculado como os dados do ano de 2022 do Relatório ConsolidadadoPRODES/INPE.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 421
+Indicador: 10347
+Denominação: Registro de suicídios de profissionais de segurança pública
+Índice De Referência: 135.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de registros de suicídios de profissionais de segurança pública por ano
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro (do ano subsequente)
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Número de suicídios de profissionais de seguança pública por ano
+Fonte De Dados Das Variáveis De Cálculo: Pesquisa Perfil
+Forma De Disponibilização: Relatório da Pesquisa Perfil
+Procedimento De Cálculo: Levantamento de informações, junto às instituições de segurança pública, sobre suicídios dos profissionais.
+Limitações: Por se tratarem de dados sensíveis, se faz necessária a sensibilização e  pactuação junto às instituições de segurança pública (Estaduais, Distrital, e Municipais)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 165
+Indicador: 9140
+Denominação: Taxa de Mortalidade em sinistros de trânsito nas Rodovias Federais
+Índice De Referência: 0.5232
+Em Apuração: Não
+Data De Apuração: 2018-12-31 00:00:00
+Unidade De Medida: número de acidentes com vítimas a cada 10.000 veículos
+Descrição: O Plano Nacional de Redução de Mortes e Lesões no Trânsito (PNATRANS), criado pela Lei nº 13.614, de 11 de janeiro de 2018, estabelece a meta de reduzir no mínimo à metade o índice nacional de mortos no trânsito por grupo de veículos, no período de dez anos a partir do seu ano de vigência.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do mês  (entre os dias 10 e 15 do mês subsequente)
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: FROTA: A frota nacional de veículos automotores foi aferida com base nas divulgações da SENATRAN. 
+
+Sinistro de trânsito: todo evento que resulte em dano ao veículo ou à sua carga, e/ou em lesões a pessoas e/ou animais, e que possa trazer dano material ou prejuízos ao trânsito, à via ou ao meio ambiente, em que pelo menos uma das partes está em movimento nas vias terrestres ou em áreas abertas ao público.
+Fonte De Dados Das Variáveis De Cálculo: SISTEMA ANALYTICS
+Forma De Disponibilização: Inserção de dados no Painel Estratégico do Ministério e disponibilização via documento SEI
+Procedimento De Cálculo: Extração do quantitativo de vítimas fatais no Sistema Analytics;
+extração da quantidade de veículos registrados na frota nacional do SENATRAN pelo sistema do DENATRAN; 
+cálculo por meio da fórmula do indicador.
+Notas Explicativas: Sinistro de trânsito: todo evento que resulte em dano ao veículo ou à sua carga, e/ou em lesões a pessoas e/ou animais, e que possa trazer dano material ou prejuízos ao trânsito, à via ou ao meio ambiente, em que pelo menos uma das partes está em movimento nas vias terrestres ou em áreas abertas ao público.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 445
+Indicador: 10998
+Denominação: Taxa de mortes Violentas Intencionais - MVI
+Índice De Referência: 22.18
+Em Apuração: Sim
+Data De Apuração: 2023-07-03 00:00:00
+Unidade De Medida: percentual
+Descrição: Dados nacionais de segurança pública com recorte em: homicídio doloso; latrocínio; lesão corporal seguida de morte; e feminicídio.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 16 de Janeiro do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Vítimas de mortes violentas intencionais corresponde à soma das vítimas de homicídio doloso, latrocínio, lesão corporal seguida de morte e mortes decorrentes de intervenções policiais em serviço e fora. Por 100 mil habitantes
+Fonte De Dados Das Variáveis De Cálculo: Levantamento junto as instituições de segurança pública via Sistema Validador de Dados Estatísticos
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Levantamento via sistema de dados estatísticos do (Somatório  feminicídio,  homicídio doloso,  morte por intervenção policial,  latrocínio, e  lesão corporal seguida de morte/ população ) * 100 mil
+Limitações: Os dados sobre mortes decorrentes de intervenções policiais em serviço e fora serão coletados a partir de agosto de 2023.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Indicador: 12732
+Denominação: Taxa de MVI-M (Mortes Violentas Intencionais de Mulheres)
+Índice De Referência: 3.76
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: taxa
+Descrição: Soma dos crimes ralacionados a mortes violentas intencionais de mulheres são considerados: a) feminicídio, b) homicídio doloso, c) morte por intervenção policial, d) latrocínio, e e) lesão corporal seguida de morte, cometidos contra a população do sexo feminino.
+Período Ou Data A Que Se Refere: 31/12/2024
+Data De Divulgação/Disponibilização: 31/03/2026
+Polaridade: Não se aplica
+Variáveis De Cálculo: Taxa de mortes de vítimas de feminicídio, homicídio doloso, morte por intervenção policial, latrocínio e lesão corporal seguida de morte cometidos contra a população do sexo feminino. Por 100 mil habitantes
+Fonte De Dados Das Variáveis De Cálculo: Levantamento junto as instituições de segurança pública via Sistema Validador de Dados Estatísticos
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Levantamento via sistema de dados estatísticos do (Somatório  feminicídio,  homicídio doloso,  morte por intervenção policial,  latrocínio, e  lesão corporal seguida de morte, cometidos contra a população do sexo feminino / população do sexo feminino ) * 100 mil
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 170
+Indicador: 9162
+Denominação: Tempo de interdições em rodovias federais
+Índice De Referência: 11.4
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: hora
+Descrição: Contabiliza a média dos tempos de duração, em minutos, de interdições totais ou parciais em rodovias federais
+Período Ou Data A Que Se Refere: último dia do mês
+Data De Divulgação/Disponibilização: 10 dias úteis após o fechamento do mês  (entre os dias 10 e 15 do mês subsequente)
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Interdições: impedimento parcial da movimentação de bens e pessoas em vias, exceto os causados por fenômenos da natureza, obras e defeitos na via
+
+Bloqueios: impedimento total da movimentação de bens e pessoas em vias, exceto os causados por fenômenos da natureza, obras e defeitos na via.
+Fonte De Dados Das Variáveis De Cálculo: SISTEMA ANALYTICS
+Forma De Disponibilização: Inserção de dados no Painel Estratégico do Ministério e disponibilização via documento SEI
+Procedimento De Cálculo: Extração do tempo de duração de interdições por meio dos sistemas Analytics; 
+Extração do quantitativo de interdições por meio dos sistemas Analytics; 
+cálculo por meio da fórmula do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 401
+Indicador: 12727
+Denominação: Usuários com cadastro ativo no Sistema Nacional de Seguraça Pública, Prisionais, de Rastreamento de Armas e Munições, de Material Genético, de Digitais e de Drogas (SINESP)
+Índice De Referência: 551074.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: Pessoas
+Descrição: Monitorar o número de servidores ativos no Sinesp com vistas a mensurar o avanço na capacidade de governança e integração do SUSP, proporcionando uma visão clara do engajamento das instituições na utilização de plataformas de informação compartilhada. Essa integração é fundamental para o aprimoramento da gestão, da troca de informações e da coordenação entre os órgãos de segurança pública em diferentes níveis federativos, contribuindo para a otimização da aplicação dos recursos públicos e, consequentemente, para a melhoria da segurança pública no país.
+Período Ou Data A Que Se Refere: 31/12/2024
+Data De Divulgação/Disponibilização: 10/01/2026
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de usuários com cadastro ativo no Sistema Nacional de Seguraça Pública, Prisionais, de Rastreamento de Armas e Munições, de Material Genético, de Digitais e de Drogas (SINESP).
+Fonte De Dados Das Variáveis De Cálculo: SINESP/SEGURANÇA
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 125
+Indicador: 9105
+Denominação: Valores estimados de restrições efetivamente aplicadas a bens e valores, sejam físicos ou virtuais, por meio de medidas como arresto, sequestro, apreensão, destruição, inutilização, bloqueio e outras
+Índice De Referência: 3357.97
+Em Apuração: Não
+Data De Apuração: 2024-03-01 00:00:00
+Unidade De Medida: milhão R$
+Descrição: O aumento nos valores estimados de restrições efetivamente aplicadas a bens e valores, sejam físicos ou virtuais, por meio de medidas como arresto, sequestro, apreensão, destruição, inutilização, bloqueio e outras. Essas medidas visam privar indivíduos e organizações criminosas de seus ativos ilícitos, impedindo que sejam utilizados para fins criminosos ou para beneficiar a organização. O aumento desses valores demonstra um fortalecimento das ações de combate à criminalidade e uma maior efetividade na descapitalização de grupos criminosos. A razão do aumento anual de 2,5%, 5%, 7% e 9% para o quadriênio 2024/2027.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia 1º de março do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Valores estimados de restrições efetivamente aplicadas a bens e valores, sejam físicos ou virtuais, por meio de medidas como arresto, sequestro, apreensão, destruição, inutilização, bloqueio e outras, não incluindo previsões abstratas constantes em decisões judiciais,
+como ordens de bloqueio, que apenas fixem valor-teto para a incidência de medidas cautelares reais.
+Fonte De Dados Das Variáveis De Cálculo: Sistema ePol, para os valores estimados de restrições efetivamente aplicadas a bens e valores, sejam físicos ou virtuais, por meio
+de medidas como arresto, sequestro, apreensão, bloqueio e outras e Sistema SIGACrim para os valores de bens destruídos ou inutilizados.
+Forma De Disponibilização: Painéis BI SIGACrim Qualidade de Dados, SIGACrim Operações e ePol Estatísticas.
+Procedimento De Cálculo: 1º passo: entrar nos Painéis BI SIGACrim Qualidade de Dados, SIGACrim Operações e ePol Estatísticas, hospedados no sistema interno da Polícia Federal, que só servidores da PF possuem acesso.
+2º passo: Coletar, do Painel BI SIGACrim Qualidade de Dados, os valores estimados de restrições efetivamente aplicadas a bens e valores, sejam físicos ou virtuais, por meio de medidas como arresto, sequestro, apreensão, ou bloqueio.
+3º passo: Coletar, do Painel BI SIGACrim Operações, os valores estimados de bens destruídos ou inutilizados.
+Notas Explicativas: O campo Índice de Referência determina a referência utilizada como ponto de partida para estabelecer as metas para o quadriênio de 2024 a 2027. Esse valor é calculado como a média dos dados dos dois últimos anos, ou seja, 2021 e 2022.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5116
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 3
+Enunciado: Estruturar políticas penais que possibilitem a reintegração social de pessoas privadas de liberdade, de pessoas egressas do sistema penitenciário e daquelas em cumprimento de medidas alternativas ao encarceramento.
+Descrição: a) incentivo à adoção de medidas alternativas ao encarceramento;
+b) fomento à monitoração eletrônica como alternativa ao cárcere, com o recorte prioritário das medidas cautelares e as medidas protetivas de urgência;
+c) promoção de políticas de educação e trabalho no sistema penal;
+d) promoção de políticas voltadas às pessoas egressas do sistema prisional e suas famílias, com foco na reintegração social.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 117
+Enunciado: Fortalecer o enfrentamento à criminalidade, com enfoque em crimes violentos, organizações criminosas, corrupção e lavagem de dinheiro, inclusive com atuação na faixa de fronteira
+Descrição: O objetivo específico consiste em fortalecer o enfrentamento à criminalidade, mediante a implementação de medidas preventivas e repressivas, tendo como reflexo índices elevados de solução dos inquéritos policiais. A redução do tempo médio de tramitação dos inquéritos policiais, o incremento de ações de controle nesses instrumentos por meio de ações correcionais e as ações de capacitações em polícia judiciária corroboram para otimizar a eficiência e celeridade nas investigações permitindo uma resposta mais rápida e eficaz no combate aos crimes
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 120
+Enunciado: Contribuir para a redução do desmatamento por meio de ações policiais preventivas e repressivas de proteção da Amazônia Legal
+Descrição: Redução da área desmatada em áreas de interesse da União na Amazônia Legal, à razão do redutor anual de 20, 35, 50 e 65% para o quadriênio 2024/2027 considerando o índice de desmatamento PRODES/INPE 2022, por meio de ações policiais preventivas e repressivas de proteção da Amazônia Legal.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 123
+Enunciado: Fortalecer o enfrentamento à criminalidade, com enfoque em crimes cibernéticos.
+Descrição: O objetivo específio consiste em fortalecer o combate à criminalidade, com ênfase nos crimes cibernéticos. Isso envolve a implementação de medidas preventivas e repressivas, além da promoção da capacitação e da modernização tecnológica.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 125
+Enunciado: Fortalecer a realização de investigações com foco na descapitalização de organizações criminosas
+Descrição: O objetivo específico é fortalecer as investigações voltadas para o enfraquecimento financeiro de organizações criminosas. Isso implica em concentrar os esforços e recursos nas investigações que visam identificar e apreender os ativos financeiros, recursos e bens adquiridos ilicitamente pelas organizações criminosas, com o propósito de privá-las de sua capacidade econômica e, assim, dificultar suas atividades criminosas. O objetivo final é diminuir o poder e a influência dessas organizações, prejudicando sua capacidade de operação e incentivando a dissolução de suas estruturas.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 165
+Enunciado: Reduzir a violência no trânsito das rodovias federais
+Descrição: O modelo de gestão da segurança viária da PRF é baseado no Plano de Ação da Década de Redução de Mortes da ONU – 2021 a 2030 (Resolução A/RES/74/299 ONU) e no Plano Nacional de Redução de Mortes e Lesões no Trânsito – PNATRANS (Lei nº 13.614/2018 através da Resolução CONTRAN nº 870/2021).
+
+A atuação da PRF em Segurança Viária nas Rodovias Federais tem como finalidade a redução do índice nacional de mortos por grupo de veículos nas rodovias federais, no mínimo à metade (50%), até 2028, conforme o artigo 326-A §1º do CTB e a contribuição para a redução de mortes e acidentes graves decorrentes do trânsito nos demais entes federados.
+
+Considerando estudo realizado pelo Instituto de Pesquisas Econômicas Aplicadas (IPEA), em 12 anos (2007-2018), o custo com os acidentes de trânsito no Brasil chegou a mais de 1,5 trilhão de reais, sendo, ainda, imensurável a quantidade de famílias que se desestruturam em virtude dos acidentes de trânsito. Portanto, o problema central identificado é o alto índice da violência no trânsito, com especial enfoque nas rodovias federais.
+
+Não obstante a PRF estar trabalhando incansavelmente na busca pela redução da acidentalidade nas rodovias federais, reconhece-se que para alcançar esse objetivo, é necessário um esforço de integração e cooperação com outras instituições, visando a estabelecer a cultura de paz no trânsito.
+
+Para tanto, a PRF reforça seu compromisso social em intensificar ações para um trânsito mais seguro, em observância à Segunda Década de Ação para a Segurança no Trânsito, adotada pela Assembleia-Geral da ONU em 31 de agosto de 2020.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 170
+Enunciado: Promover a mobilidade nas rodovias federais
+Descrição: A eficiência, a acessibilidade e a segurança dos sistemas de mobilidade contribuem direta ou indiretamente para a melhoria econômico-social da população, uma vez que afetam necessidades básicas de locomoção segura e eficiente de bens e pessoas por todo o país.
+
+A atuação em mobilidade nas rodovias federais pela PRF tem como finalidade a promoção da livre circulação de pessoas e cargas nas rodovias federais, com o fomento de ações preventivas e a intensificação de ações responsivas.
+
+Isto porque as rodovias federais são responsáveis por conectar as regiões do país e viabilizar o transporte de cargas e passageiros, tanto em áreas urbanas quanto rurais, sendo o transporte rodoviário de cargas o responsável por mais de 60% de todo o transporte de cargas no Brasil. Portanto, o problema central identificado é que a interdição ou o congestionamento de uma rodovia federal geram impactos significativos para a economia e mobilidade do país.
+
+Para tanto, é fundamental que a atuação da PRF em mobilidade nas rodovias federais seja estruturada de forma integrada e coordenada entre os diferentes órgãos e entidades envolvidos, sendo necessário investir em infraestrutura e tecnologias que permitam a prevenção e a rápida resposta a incidentes que possam comprometer a circulação nas rodovias, como acidentes, interdições por obras e dinâmicas sociais.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 173
+Enunciado: Intensificar o enfrentamento à criminalidade nas rodovias federais
+Descrição: A PRF realiza a fiscalização e o policiamento das rodovias federais visando combater o crime organizado, o tráfico de drogas, os crimes ambientais, tributários e de trânsito, o combate à exploração infantil, o roubo de cargas, veículos, e demais crimes conexos, traduzindo o esforço operacional do órgão em comandos de enfrentamento à criminalidade por meio das ações coordenadas de policiamento e de inteligência, visando a promoção e manutenção da ordem, segurança e livre circulação de pessoas, bens e riqueza nacional.
+
+A atuação da PRF no enfrentamento à criminalidade nas Rodovias Federais tem por finalidade a ampliação da eficiência de atuação da PRF no combate aos ilícitos em rodovias federais, aumentando a acurácia das abordagens policiais com o tratamento sistemático de informações, gerando um direcionamento para as ações policiais (policiamento orientado por inteligência); com a intensificação dos acordos de Cooperação e operações em conjunto com outras Instituições de Segurança pública; e com a priorização de ações de combate aos crimes ambientais e de promoção dos direitos humanos.
+
+O problema central identificado é o crescimento da criminalidade, não obstante o reconhecido esforço da PRF desprendido ao enfrentamento desta nas rodovias federais, de modo que se exsurge a necessidade de que a PRF atue de forma estratégica, a fim de maximizar a eficácia de seus recursos limitados, conforme priorização Estatal.
+
+Para tanto, já considerando a finitude de recursos, medidas como o policiamento orientado por inteligência e a atuação com base em evidências são norteadores do presente planejamento, sendo preciso que haja uma constante atualização das técnicas e equipamentos utilizados pelo órgão, a fim de acompanhar a evolução das modalidades criminosas e garantir a efetividade das ações de combate ao crime.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 300
+Enunciado: Fortalecer a articulação para o combate à corrupção e à lavagem de dinheiro
+Descrição: Fortalecimento da articulação dos órgãos federais, estaduais e municipais envolvidos no combate à corrupção e à lavagem de dinheiro
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 401
+Enunciado: Aprimorar a governança e ampliar a integração das instituições de segurança pública.
+Descrição: A implementação do Sistema Único de Segurança Pública está diretamente relacionada a capacidade de governança e integração de suas instituições. Neste sentido, o objetivo específico visa contribuir para a efetivação do Sistema Único de Segurança Pública - SUSP, promovendo a melhoria das relações interinstitucionais e interfederativas, e, por conseguinte, melhoria na gestão e aplicação dos recursos públicos federais.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 402
+Enunciado: Promover a segurança cidadã e a cultura de paz, com foco na prevenção da violência contra grupos de pessoas vulneráveis.
+Descrição: A segurança cidadã amplia a ideia de segurança pública, ainda muito percebida apenas pelas ações das forças policiais. Essa abordagem envolve a perspectiva de atuação integral, localizada e participativa na construção de uma cultura de paz. Assim, o objetivo específico destaca a importância das ações de prevenção das violências e dá visibilidade a grupos vulnerabilizados, que em grande medida, são as maiores vítimas da violência..
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 421
+Enunciado: Fortalecer a valorização profissional e melhorar a qualidade de vida e as condições de saúde biopsicossocial dos profissionais de segurança pública.
+Descrição: A promoção da dignidade do profissional de segurança pública é um ponto que deve ser considerado não apenas para o bom funcionamento do SUSP e melhoria do atendimento prestado à população, mas também pela questão humana. Esse objetivo específico chama atenção para as necessidades do indivíduo, que se soma as necessidades do profissional responsável pela proteção e defesa da sociedade.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Objetivo Específico: 445
+Enunciado: Fortelecer a atuação das instituições de segurança pública no enfrentamento a criminalidade.
+Descrição: O enfrentamento a criminalidade está entre os principais objetivos da segurança pública contemporânea. Os crimes são compostos por inúmeras variáveis que precisam ser consideradas na escolha de soluções. Ainda é preciso compreender as competências de todas esferas de Poder, bem como dos entes federados, para atuar de forma legal, respeitando os limites definidos pela lei. Assim, em alguma medida, as iniciativas do Governo Federal caminham no sentido de gerar efeito nos índices de criminalidade.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5116
+
+Exercício: 2025
+Programa: 5116
+Objetivo: 1250
+Enunciado: Fortalecer a prevenção e o enfrentamento à violência e à criminalidade, promovendo a segurança pública cidadã, humanizada e integrada entre os entes federados e em articulação com a sociedade, com atenção especial à proteção de grupos sociais vulneráveis.
+Descrição: O objetivo desse programa e o fortalecimento da prevenção e do enfrentamento à violência e à criminalidade, com foco na promoção da segurança pública cidadã, humanizada e integrada, e com atenção especial à proteção de grupos sociais vulneráveis, é uma medida de extrema importância para construir um futuro mais seguro, igualitário e justo para todos os cidadãos. Através da integração entre governos, colaboração com a sociedade e um foco na proteção dos mais vulneráveis, busca-se alcançar um ambiente onde todos os cidadãos possam viver com tranquilidade e dignidade.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5116
+
+Exercício: 2025
+Programa: 5116
+Título: Segurança Pública com Cidadania
+Tipo: Finalístico
+Órgão: 30000.0
+Público-Alvo: Sociedade;
+Estado;
+Órgãos nacionais e internacionais;
+Órgãos de segurança pública federais, estaduais e municipais;
+Organizações da sociedade civil;
+Usuários das rodovias federais;
+Pessoas privadas de liberdade;
+Pessoas egressas do sistema prisional;
+Familiares de pessoas privadas de liberdade;
+ Profissionais de Segurança Pública;
+Servidores da PRF, PF e Servidores do Sistema Prisional.
+Descrição Do Problema: Os problemas enfrentados no âmbito do Programa Segurança Pública com Cidadania envolvem o alto índice de criminalidade; a violência no trânsito nas rodovias federais; o bloqueios nas rodovias federais; o alto índice de população encarcerada; o alto índice de feminicídio e crimes de racismo; e o desmatamento ilegal na Amazônia.
+Causa Do Problema: As causas dos problemas enfrentados no Programa Segurança Pública com Cidadania incluem a falta de investimento em inteligência; influência das organizações criminosas na sociedade; impunidade; falta de integração entre os órgãos e esferas; violência contra mulher; população negra, patrimônio; tráfego entre outros; influências das facções dos presídios; falha na delimitação das competências constitucionais; violência contra grupos vulneráveis; tráfico de substâncias ilícitas e seres humanos; crimes cibernéticos; lavagem de dinheiro; corrupção fronteiras exportas e região amazônica desprotegida.
+Evidências Do Problema: O problema se evidencia pela sensação de insegurança na sociedade e nas rodovias federais; violência doméstica; falta de conscientização e educação sobre os direitos da mulheres, a igualdade de gênero, o racismo estrutural; número de pessoas encarceradas; mudanças climáticas e perda de habitat para uma variedade de espécies, além do reflexo negativo da imagem do país causada pelo desmatamento.
+Justificativa Para A Intervenção: A intervenção se justifica pela proteção dos direitos humanos, preservação da ordem pública, prevenção de danos futuros, promoção do desenvolvimento socioeconômico, fortalecimento do Estado de Direito, proteção das vítimas e grupos vulneráveis preservação de vidas, promoção da segurança, prevenção de acidentes, redução de impactos socioeconômicos, melhoria da qualidade de vida e cumprimento da legislação. 
+É necessário ainda reduzir a superlotação nos presídios, melhorar as condições carcerárias, promover a reintegração social, buscar alternativas à prisão.
+Além disso, é importante a prevenção de desastres naturais e conservação da biodiversidade.
+Relação Com Os Ods: ODS 3 - Saúde e Bem-estar
+3.6 até 2020, reduzir pela metade as mortes e os ferimentos globais por acidentes em estradas.
+ODS 16 – Paz, justiça e instituições eficazes
+16.1 - Reduzir significativamente todas as formas de violência e as taxas de mortalidade relacionada, em todos os lugares
+16.2 - Acabar com abuso, exploração, tráfico e todas as formas de violência e tortura contra crianças
+16.4 - Até 2030, reduzir significativamente os fluxos financeiros e de armas ilegais, reforçar a recuperação e devolução de recursos roubados, e combater todas as formas de crime organizado
+16.5 - Reduzir substancialmente a corrupção e o suborno em todas as suas formas
+16.a - Fortalecer as instituições nacionais relevantes, inclusive por meio da cooperação internacional, para a construção de capacidades em todos os níveis, em particular nos países em desenvolvimento, para a prevenção da violência e o combate ao terrorismo e ao crime
+Agentes Envolvidos: Secretaria Nacional de Segurança Pública - SENASP; 
+Secretaria Nacional de Justiça - Senajus; 
+Secretaria Nacional de Políticas Penais - Senappen;
+Polícia Federal - PF; 
+Polícia Rodoviária Federal - PRF.
+Articulação Federativa: Todas as ações vinculadas ao Programa dependerão de uma articulação entre o Poder Executivo, Legislativo e Judiciário, tanto no âmbito da Administração Federal, quanto em relação aos estados e municípios, respeitando sempre o pacto federativo.
+Enfoque Transversal: O Programa Segurança Pública com Cidadania envolve questões transversais ligadas a gênero, raça e outros marcadores sociais relacionados às Políticas de Segurança Pública. Nesse cenário, diferentes órgãos e Ministérios contribuirão para a execução das ações nesse Programa:  Ministério dos Direitos Humanos, Ministério do Desenvolvimento Social, Ministério da Igualdade Racial , Ministério da Saúde e Ministério da Mulher.
+Marco Legal: Constituição Federal de 1988 (artigo 144);Lei nº 7.210, de 11 de julho de 1984;
+Lei nº 8.069, de 13 de julho de 1990 (dispõe sobre o estatuto da criança e do adolescente e dá outras providências);
+Lei nº 8.429, de 2 de junho de 1992;
+Lei nº 9.613, de 3 de março de 1998;
+Lei nº 10.741, de 1º de outubro de 2003 (dispõe sobre o estatuto do idoso e dá outras providências);
+Lei nº 10.826, de 22 de dezembro de 2003 (Sinarm);
+Lei nº 11.340, de 07 de agosto de 2006 (Maria da Penha), alterada pela Lei n°14.550, de 19 abril de 2023;
+Lei nº 11.343, de 23 de agosto de 2006 (Sisnad);
+Lei nº 11.473, de 10 de maio de 2007 (Cooperação Federativa);
+Lei nº 11.530, de 24 de outubro de 2007 (institui o Programa Nacional de Segurança Pública com Cidadania - Pronasci)
+Lei nº 11.530, de 24 de outubro de 2007 e alterações (PRONASCI);
+Lei nº 11.707, de 19 de junho 2008 (PRONASCI);
+Lei nº 12.681, de 04 de julho de 2012 (SINESP);
+Lei nº 12.846, de 1º de agosto 2013;
+Lei nº 12.850, de 2 de agosto de 2013 (ORCRIM);
+Lei nº 12.850, de 2 de agosto de 2013;
+Lei nº 13.104, de 09 de março de 2015 (Crime hediondo feminicídio);
+Lei nº 13.257, de 8 de março de 2016 - dispõe sobre as políticas públicas para a primeira infância);
+Lei nº 13.500, de 26 de outubro de 2017;
+Lei nº 13.675, de 11 de junho de 2018 (cria a Política Nacional de Segurança Pública e Defesa Social e institui o Sistema Único de Segurança Pública - SUSP)
+Lei nº 13.675, de 11 de junho de 2018 (PNSPDS e Susp);
+Lei nº 13.718, de 24 de setembro de 2018 (Altera o Código Penal para tipificar os crimes de importunação sexual e de divulgação de cena de estupro)
+Lei nº 13.756, de 12 de dezembro de 2018 (dispõe sobre o Fundo Nacional de Segurança Pública)
+Lei nº 13.756, de 12 de dezembro de 2018 (FNSP);
+Lei nº 13.812, 16 de março de 2019 (Política Nacional de Pessoas Desaparecidas);
+Lei nº 13.964, de 24 de dezembro de 2019 (aperfeiçoa a legislação penal e processual penal);
+Lei nº 13.964, de 24 de dezembro de 2019 (aperfeiçoar a legislação penal e processual penal);
+Lei nº 14.132, de 31 de março de 2021 (Acrescenta ao Código Penal o crime de perseguição);
+Lei nº 14.149, de 5 de maio de 2021 (Institui o Formulário Nacional de Avaliação de Risco, a ser aplicado à mulher vítima de violência doméstica e familiar);
+Lei nº 14.312, de 14 de março de 2022 (Institui o Programa Habite Seguro);
+Lei nº 14.316, de 29 de março de 2022 (Destina recursos do Fundo Nacional de Segurança Pública - FNSP para ações de enfrentamento da violência contra a mulher);
+Lei nº 14.330, de 4 de maio de 2022 (Inclui o Plano Nacional de Prevenção e Enfrentamento à Violência contra a Mulher como instrumento de implementação da Política Nacional de Segurança Pública e Defesa Social -PNSPDS);
+Lei nº 14.423 de 22 de julho de 2022 (Altera a Lei nº 10.741, de 1º de outubro de 2003, para substituir, em toda a Lei, as expressões “idoso” e “idosos” pelas expressões “pessoa idosa” e “pessoas idosas”, respectivamente.);
+Lei nº 14.541, de 3 de abril de 2023 (Dispõe sobre a criação e o funcionamento ininterrupto de Delegacias Especializadas de Atendimento à Mulher.);
+Lei nº 14.550, de 19 de abril de 2023 (Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre as medidas protetivas de urgência e estabelecer que a causa ou a motivação dos atos de violência e a condição do ofensor ou da ofendida não excluem a aplicação da Lei.);
+Lei nº 14.550, de 19 de abril de 2023 (Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre as medidas protetivas de urgência e estabelecer que a causa ou a motivação dos atos de violência e a condição do ofensor ou da ofendida não excluem a aplicação da Lei);
+Decreto nº 10.321, de 15 de abril de 2020 regulamenta PPA 2020-2023;
+Decreto nº 10.365, de 22 de maio de 2020 regulamenta estrutura MJSP;
+Decreto nº 10.426, de 16 de julho de 2020 - Dispõe sobre a descentralização de créditos entre órgãos e entidades da administração pública federal integrantes dos Orçamentos Fiscal e da Seguridade Social da União, por meio da celebração de termo de execução descentralizada;
+Decreto nº 10.426, de 16 de julho de 2020;
+Decreto nº 10.622, de 9 de fevereiro de 2021 (Institui o Comitê Gestão da Política Nacional de Pessoas Desaparecidas);
+Decreto nº 10.622, de 9 de fevereiro de 2021 (Institui o Comitê Gestro da Política Nacional de Pessoas Desaparecidas);
+Decreto nº 10.711, de 2 de junho de 2021 (SINAB);
+Decreto nº 10.770, de 17 de agosto de 2021 (institui a agenda transversal e multissetorial da primeira infância);
+Decreto nº 10.777 de 24 de agosto de 2021 – Institui a Política Nacional de Inteligência de Segurança Pública - Pnisp;
+Decreto nº 10.778 de 24 de agosto de 2021 – Aprova a Estratégia Nacional de Inteligência de Segurança Pública - Enisp;
+Decreto nº 10.785, de 1º de setembro de 2021 - Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério da Justiça e Segurança Pública;
+Decreto nº 10.793, de 13 de setembro de 2021 - Regulamenta Programa Habite Seguro;
+Decreto nº 10.822, de 28 de setembro de 2021 (institui o Plano Nacional de Segurança Pública);
+Decreto nº 10.906, de 20 de dezembro de 2021 (Institui o Plano Nacional de Enfrentamento ao Feminicídio);
+Decreto nº 11.348, de 01 janeiro de 2023 (Estrutura Regimental do MJSP);
+Decreto nº 11.348, de 1º de janeiro de 2023 (Aprova a estrutura Regimental do Ministério da Justiça e Segurança Pública)
+Decreto nº 11.366, de 1º de janeiro de 2023 (Suspende os registros para a aquisição e transferência de armas e de munições de uso restrito por caçadores, colecionadores, atiradores e particulares, restringe os quantitativos de aquisição de armas e de munições de uso permitido, suspende a concessão de novos registros de clubes e de escolas de tiro, suspende a concessão de novos registros de colecionadores, de atiradores e de caçadores, e institui grupo de trabalho para apresentar nova regulamentação à Lei nº 10.826, de 22 de dezembro de 2003.);
+Decreto nº 11.366, de 1º de janeiro de 2023, Suspende os registros para a aquisição e transferência de armas e de munições de uso restrito por caçadores, colecionadores, atiradores e particulares, restringe os quantitativos de aquisição de armas e de munições de uso permitido, suspende a concessão de novos registros de clubes e de escolas de tiro, suspende a concessão de novos registros de colecionadores, de atiradores e de caçadores, e institui grupo de trabalho para apresentar nova regulamentação à Lei nº 10.826, de 22 de dezembro de 2003;
+Decreto nº 11.431, de 08 de março de 2023 (institui o Programa Mulher Viver sem Violência)
+Decreto nº 11.436 de 15 de março de 2023 (Regulamenta a Lei nº 11.530, de 24 de outubro de 2007 - PRONASCI), para estabelecer os eixos prioritários para a execução do Programa 
+Nacional de Segurança Pública com Cidadania - Pronasci, no biênio 2023-2024, denominado Pronasci 2, e dispõe sobre o Projeto Bolsa-Formação.);
+Decreto nº 11.436 de 15 de março de 2023 (Regulamenta a Lei nº 11.530, de 24 de outubro de 2007, para estabelecer os eixos prioritários para a execução do Programa Nacional de Segurança Pública com Cidadania - Pronasci, no biênio 2023-2024, denominado Pronasci 2, e dispõe sobre o Projeto Bolsa-Formação.);
+Decreto nº 11.436, de 15 de março de 2023 (estabelece os eixos prioritários do Pronasci 2)
+Decreto nº 11.455, de 28 de março de 2023 (Altera o Decreto nº 11.366, de 1º de janeiro de 2023, para prorrogar o prazo de recadastramento de armas de fogo e incluir novos representantes no grupo de trabalho.);
+Decreto nº 3.678, de 30 de novembro de 2000;
+Decreto nº 3.695, de 21 de dezembro de 2000 (SISP);
+Decreto nº 4.410, de 7 de outubro de 2002;
+Decreto nº 5.687, de 31 de janeiro de 2006;
+Decreto nº 8.903, de 16 de novembro de 2016 (Programa de Proteção Integrada de Fronteiras);
+Decreto nº 9.489, de 30 de agosto de 2018 (Regulamenta PNSPDS);
+Decreto nº 9.609 de 12 de dezembro de 2018 (Conselho Gestor do FNSP)
+Decreto nº 9.630 de 26 de dezembro de 2018 (Institui Plano Nacional de Segurança Pública e Defesa Social)
+Decreto nº 9.847 de 25 de junho de 2019 - Regulamenta Sinarm;
+Decreto nº 9.861, de 25 de junho de 2019 - Dispõe sobre a Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis e sobre as Comissões Estaduais de Segurança Pública nos Portos, Terminais e Vias Navegáveis;
+Decreto nº 9.988, de 26 de agosto de 2019 - Promulga o texto atualizado da Convenção Internacional para a Salvaguarda da Vida Humana no Mar;
+Portaria GSI nº 38 de 20 de abril de 2018 (Planejamento Estratégico PPIF);
+Portaria MJSP nº 145, de 15 de agosto de 2022;
+Portaria MJSP nº 151 de 26 de setembro de 2018 (Regimento Interno SENASP);
+Portaria MJSP nº 240, de 12 de março de 2019, que estabelece procedimentos para o controle e a fiscalização de produtos químicos e define os produtos químicos sujeitos a controle pela Polícia Federal.
+Portaria MJSP nº 30, de 29 de janeiro de 2020, publicada no Diário Oficial da União nº 21, de 30 de janeiro de 2020, seção 1, páginas 91 e 92 (Regimento Interno da Conportos);
+Portaria MJSP Nº 400, de 13 de junho de 2023;
+Portaria MJSP nº 480, de 11 de novembro de 2021 (procedimentos para transferência obrigatória de recursos do FNSP);
+Portaria MJSP nº 483, de 11 de novembro de 2021 (regula os eixos financiados pelo FNSP).
+Portaria MJSP nº 79, de 13 de maio de 2022;
+Portaria MSP nº 155, de 27 de setembro de 2018 - Regimento Interno da PF, alterada pela Portaria MJSP nº 265, de 3 de janeiro de 2023;
+Portaria nº 288 de 23 de janeiro de 2023 (Regulamenta estrutura MJSP);
+Portaria nº 36 de 29 de março de 2021 – Sistema Cronos;
+Portaria nº 516 de 03 de dezembro de 2021- Institui o Programa Nacional de Segurança nas Fronteiras e Divisas – VIGIA;
+Portaria nº 705 de 13 de setembro de 2019 - Peculiaridades da DINT para CPGF;
+Portaria nº 867 de 02 de dezembro de 2019 (Operações SEOPI);
+Portaria SENASP nº 2 de 09 de janeiro de 2017 (Regulamenta contrato de repasse)
+Planos Nacionais, Setoriais E Regionais: Programa Nacional de Segurança Pública com Cidadania - Pronasci; 
+Programa Mulher Viver sem Violência;
+Programa de Proteção Integrada de Fronteiras;
+Plano Nacional de Segurança Pública e Defesa Social;
+Programa Nacional de Segurança nas Fronteiras e Divisas – VIGIA;
+Plano Nacional de Prevenção e Enfrentamento à Violência contra a Mulher como instrumento de implementação da Política Nacional de Segurança Pública e Defesa Social -PNSPDS;
+Política Nacional de Inteligência de Segurança Pública - Pnisp;
+o Plano Nacional de Enfrentamento ao Feminicídio);
+Plano Nacional de Redução de Mortes e Lesões no Trânsito – Pnatrans;
+Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro - ENCCLA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

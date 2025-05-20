@@ -1,0 +1,814 @@
+passage: Programa Número 5117
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Entrega: 1663
+Indicador: 10890
+Denominação: Número de Centros de Referência de Plantio e Beneficiamento de Plantas Medicinais e Fitoterápicos com implantação apoiada
+Sigla: NCENREFPMFITO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Os Centros de Referência em Plantas Medicinais e Fitoterápicos (CRPFM) tem o objetivo de servir de apoio à estruturação e funcionamento das farmácias vivas da sua região, como o fornecimento de plantas medicinais identificadas botanicamente, capacitação da equipe técnicas das unidades, promoção no uso seguro, dentre outras. Nesse sentido, este indicador procura medir o quantitativo de implantação destes centros nas cinco regiões do país.
+Período Ou Data A Que Se Refere: Último dia do ano
+Data De Divulgação/Disponibilização: 10 de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Centros de Referência de Plantio e Beneficiamento de Plantas Medicinais e Fitoterápicos com implantação apoiada pelo Ministério da Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Editais de Chamada Pública para implantação dos Centros de Referência de Plantio e Beneficiamento de Plantas Medicinais e Fitoterápicos.
+Forma De Disponibilização: Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Verificar o número de Centros de Referência de Plantio e Beneficiamento de Plantas Medicinais e Fitoterápicos com implantação apoiada por meio dos editais de chamada pública.
+2. Somar o número de Centros de Referência de Plantio e Beneficiamento de Plantas Medicinais e Fitoterápicos implantados.
+3. Informar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 480
+Entrega: 1659
+Indicador: 10885
+Denominação: Número de condições clínicas atendidas por serviços de cuidado farmacêutico no âmbito dos Componentes da Assistência Farmacêutica
+Sigla: NCONCLINICASSCF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de condições clínicas atendidas por serviços de cuidado farmacêutico no âmbito dos Componentes da Assistência Farmacêutica.
+
+O IR informado pelo Departamento de fato é Zero (jun/2023) - não está faltando
+Período Ou Data A Que Se Refere: Último dia do ano
+Data De Divulgação/Disponibilização: Em janeiro de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número total de condições clínicas atendidas pelos Serviços de cuidado farmacêutico no âmbito dos Componentes da Assistência Farmacêutica em determinado período.
+Fonte De Dados Das Variáveis De Cálculo: Bases de Dados dos Sistemas: SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS,
+CNES - Cadastro Nacional de Estabelecimentos de Saúde e SIA/SUS
+Forma De Disponibilização: Disponibilizado no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Consulta ao SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS;
+2. Extração do número de condições clínicas realizadas pelo serviços de cuidado farmacêutico dos componentes da Assistência Farmacêutica
+3. Limpeza e tratamento dos dados em planilha Excel.
+4. Disponibilização das informações das condições clínicas atendidas no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Entrega: 1665
+Indicador: 10892
+Denominação: Número de Estados, Distrito Federal e municípios com o serviço de cuidado farmacêutico estruturado em farmácias das Redes de Atenção à Saúde do SUS
+Sigla: ESTSERVCUIDADOFA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador busca medir o serviço de cuidado farmacêutico estruturado em estabelecimentos de saúde com farmácias na Redes de Atenção à Saúde do SUS em, no mínimo, uma farmácia do componente especializado por estado e uma farmácia de estabelecimento da Atenção Primária em Saúde - APS por município.
+Período Ou Data A Que Se Refere: Último dia do quadrimestre
+Data De Divulgação/Disponibilização: Dia 10 do mês subsequente ao quadrimestre.
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de estados e Distrito Federal com o serviço de cuidado farmacêutico estruturado em farmácias das Redes de Atenção à Saúde do SUS.
+Número de municípios com o serviço de cuidado farmacêutico estruturado em farmácias das Redes de Atenção à Saúde do SUS.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação Ambulatorial do Sistema Único de Saúde - SIA/SUS.
+e.SUS APS - Prontuário Eletrônico do Cidadão e Sistema de Informação em Saúde da Atenção Básica (SISAB)
+Forma De Disponibilização: Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Extrair dados de produção dos serviços de cuidado farmacêutico do SIA/SUS informados no âmbito dos estados, Distrito Federal e Municípios
+2. Verificar o número de entes cujas farmácias da Rede de Atenção à Saúde forneceram serviço de cuidado farmacêutico do SIA/SUS no âmbito dos estados, Distrito Federal e Municípios.
+2. Somar o número de farmácias dos estabelecimentos da Rede de Atenção à Saúde do SUS nos estados, df e municípios que prestaram serviços de cuidado farmacêutico.
+3. Informar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 153
+Entrega: 244
+Indicador: 9061
+Denominação: Número de fármacos e insumos estratégicos do Componente Básico da Assistência Farmacêutica adquiridos
+Sigla: NFIECBASICO
+Índice De Referência: 47.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de fármacos e insumos estratégicos listados na Relação Nacional de Medicamentos - Rename, dos componentes Básico, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Todo dia 10 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de fármacos do componente básico, cujos medicamentos foram adquiridos pelo Ministério da Saúde, em determinado período.
+Fonte De Dados Das Variáveis De Cálculo: Relação de compras centralizadas de medicamentos do componente básico, cujo acompanhamento é realizado pela Coordenação-Geral do Componente Básico do Departamento de Assistência Farmacêutica em determinado período.
+Forma De Disponibilização: Relatório de Monitoramento Mensal do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Acessar planilha de acompanhamento de contratos de compras centralizadas.
+2. Filtrar o período de aquisição de novos medicamentos.
+3. Verificar quantos fármacos foram adquiridos no mês e no acumulado do ano.
+4. Publicar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 153
+Entrega: 1654
+Indicador: 10878
+Denominação: Número de fármacos e insumos estratégicos do Componente Especializado da Assistência Farmacêutica adquiridos
+Sigla: NFIECESPECIALIZA
+Índice De Referência: 86.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de fármacos e insumos estratégicos listados na Relação Nacional de Medicamentos - Rename, do componente especializado, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Todo dia 10 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de fármacos do componente especializado, cujos medicamentos foram adquiridos pelo Ministério da Saúde em determinado período.
+Fonte De Dados Das Variáveis De Cálculo: Relação de compras centralizadas de medicamentos do componente especializado, cujo acompanhamento é realizado pela Coordenação-Geral do Componente Especializado do Departamento de Assistência Farmacêutica em determinado período.
+Forma De Disponibilização: Relatório de Monitoramento Mensal do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Acessar planilha de acompanhamento de contratos de compras centralizadas.
+2. Filtrar o período de aquisição de novos medicamentos.
+3. Verificar quantos fármacos foram adquiridos no mês e no acumulado do ano.
+4. Publicar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 153
+Entrega: 1655
+Indicador: 10879
+Denominação: Número de fármacos e insumos estratégicos do Componente Estratégico da Assistência Farmacêutica adquiridos
+Sigla: NFISCESTRATEGICO
+Índice De Referência: 74.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de fármacos e insumos estratégicos listados na Relação Nacional de Medicamentos - Rename, do componente estratégico, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Todo dia 10 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de fármacos do componente estratégico, cujos medicamentos foram adquiridos pelo Ministério da Saúde em determinado período.
+Fonte De Dados Das Variáveis De Cálculo: Relação de compras centralizadas de medicamentos do componente estratégico, cujo acompanhamento é realizado pela Coordenação-Geral do Componente Estratégico do Departamento de Assistência Farmacêutica em determinado período.
+Forma De Disponibilização: Relatório de Monitoramento Mensal do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Acessar planilha de acompanhamento de contratos de compras centralizadas.
+2. Filtrar o período de aquisição de novos medicamentos.
+3. Verificar quantos fármacos foram adquiridos no mês e no acumulado do ano.
+4. Publicar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 152
+Entrega: 242
+Indicador: 9059
+Denominação: Número de medicamentos e correlatos incluídos no sistema de gratuidade do Programa Farmácia Popular do Brasil
+Sigla: NMISGPFP
+Índice De Referência: 24.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de medicamentos e correlatos do elenco do Programa Farmácia Popular do Brasil disponibilizados de forma gratuita nas farmácias credenciadas pelo Programa. Podem ser incluídos os medicamentos existentes no sistema de co-pagamento do Programa ou novos medicamentos.
+Período Ou Data A Que Se Refere: Último dia do ano
+Data De Divulgação/Disponibilização: 10 de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Novos medicamentos e correlatos incluídos no sistema gratuidade do elenco do Programa Farmácia Popular são publicados em Portaria do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Portarias do Ministério da Saúde.
+Forma De Disponibilização: Disponibilização por meio de relatórios e pelo Portal da Saúde na internet: www.gov.br/saude
+Procedimento De Cálculo: Consulta ao Diário Oficial da União pela Portaria de Publicação com a inclusão dos novos medicamentos  e correlatos incluídos no sistema gratuidade do Programa Farmácia Popular do Brasil.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Entrega: 1664
+Indicador: 10891
+Denominação: Número de municípios e/ou estados com assistência farmacêutica qualificada em fitoterápicos
+Sigla: NMAFARMCQUALIFIT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador pretende medir o quantitativo de municípios e/ou estados com assistência farmacêutica em plantas medicinais e fitoterápicos qualificada, com ênfase especial nas Farmácias Vivas.
+Período Ou Data A Que Se Refere: Último dia do ano
+Data De Divulgação/Disponibilização: 10 de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios com assistência farmacêutica qualificada em fitoterápicos.
+Fonte De Dados Das Variáveis De Cálculo: Portarias de qualificação dos municípios com assistência farmacêutica qualificada em fitoterápicos.
+Forma De Disponibilização: Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Verificar o número de municípios com assistência farmacêutica qualificada em fitoterápicos.
+2. Somar o número de municípios com assistência farmacêutica qualificada em fitoterápicos.
+3. Informar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 152
+Entrega: 243
+Indicador: 9060
+Denominação: Número de novas indicações incluídas no Programa Farmácia Popular do Brasil
+Sigla: NNICIPFP
+Índice De Referência: 11.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador tem como propósito medir as novas indicações incluídas no elenco do Programa Farmácia Popular do Brasil. Na atualidade, o programa possui 11 patologias, sendo 5 na modalidade gratuidade (asma, diabetes, hipertensão, anticoncepção e osteoporose) e 6 na modalidade gratuidade (dislipidemia, doença de Parkinson, glaucoma, incontinência, rinite e diabetes melitus + doença cardiovascular (>65 anos)).
+Período Ou Data A Que Se Refere: Último dia do ano
+Data De Divulgação/Disponibilização: 10 de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de novas indicações incluídas no elenco do Programa Farmácia Popular do Brasil.
+Fonte De Dados Das Variáveis De Cálculo: Portarias do Ministério da Saúde.
+Forma De Disponibilização: Disponibilização por meio de relatórios e pelo Portal da Saúde na internet: www.gov.br/saude
+Procedimento De Cálculo: Consulta ao Diário Oficial da União pela Portaria de Publicação com a inclusão dos novos medicamentos e correlatos incluídos no sistema gratuidade do Programa Farmácia Popular do Brasil.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Entrega: 1661
+Indicador: 10888
+Denominação: Número de novos municípios habilitados no eixo estrutura do Programa Qualifar-SUS, conforme pactuação tripartite
+Sigla: NMUNHABQUALIFAR
+Índice De Referência: 3858.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Calcula o número de novos municípios habilitados no eixo estrutura do Programa de Qualificação da Assistência Farmacêutica do SUS. A habilitação neste eixo é a porta de entrada para a qualificação dos serviços de cuidado farmacêutico da assistência farmacêutica nas Redes de Atenção à Saúde do SUS. As novas habilitações são pactuadas na Comissão Intergestores Tripartite.
+Período Ou Data A Que Se Refere: Último dia do trimestre
+Data De Divulgação/Disponibilização: Todo dia 10 do mês subsequente ao trimestre.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Novos municípios habilitados no eixo estrutura do Programa Qualifar-SUS.
+Fonte De Dados Das Variáveis De Cálculo: Portarias de novas habilitações dos entes no eixo estrutura do Programa Qualifar-SUS.
+Forma De Disponibilização: Disponibilização por meio de relatórios do Departamento de Assistência Farmacêutica
+Procedimento De Cálculo: 1. Acessar as portarias de habilitação de novos municípios no eixo estrutura do programa Qualifar-SUS.
+2. Verificar a quantidade de novos municípios habilitados.
+3. Somar os quantitativos e transcrever os resultados para o Relatório de Monitoramento do DAF.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Entrega: 1662
+Indicador: 10889
+Denominação: Número de secretarias estaduais e municipais de saúde apoiadas para implantação de Farmácias Vivas
+Sigla: NSEMIMPFARMVIVAS
+Índice De Referência: 147.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: As farmácias vivas realizam localmente todas as etapas para a produção de fitoterápicos, desde o cultivo das plantas medicinais, até o produto acabado aos usuários do SUS. Os fitoterápicos preparados nas farmácias vivas atendem as demandas e interesses locais, articulando saberes e práticas nos territórios. Assim, este indicador busca medir o número de novas farmácias vivas implantadas pelas Secretarias Municipais e Estaduais apoiadas pelo Ministério da Saúde.
+Período Ou Data A Que Se Refere: Último dia do ano
+Data De Divulgação/Disponibilização: 10 de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Secretarias estaduais de saúde apoiadas pelo Ministério da Saúde para implantação de Farmácias Vivas
+Secretarias municipais de saúde apoiadas pelo Ministério da Saúde para implantação de Farmácias Vivas
+Fonte De Dados Das Variáveis De Cálculo: Editais de Chamada Pública para implantação de Farmácias Vivas.
+Forma De Disponibilização: Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Verificar o número de municípios que manifestaram interesse em implantar Farmácias Vivas por meio dos editais de chamada pública.
+2. Somar o número de municípios que implantaram Farmácias Vivas.
+3. Informar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 480
+Entrega: 1660
+Indicador: 10886
+Denominação: Número de usuários atendidos a partir dos serviços de cuidado farmacêutico incluídos no programa farmácia popular
+Sigla: NUSCUIDADOPFPB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de usuários atendidos pelos serviços de cuidado farmacêutico nas farmácias privadas credenciadas no Programa Farmácia Popular do Brasil.
+Número de usuários atendidos a partir dos serviços de cuidado farmacêutico incluídos no programa farmácia popular do Brasil.
+O IR informado pelo Departamento de fato é Zero (jun/2023) - não está faltando
+Período Ou Data A Que Se Refere: Último dia do quadrimestre
+Data De Divulgação/Disponibilização: A cada quadrimestre
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de usúários atendidos pelas Farmácias Privadas credenciadas
+Fonte De Dados Das Variáveis De Cálculo: Base de dados dos Sistemas do Programa Farmácia Popular do Brasil mantidos pela Coordenação-Geral de Programa Farmácia Popular do Departamento de Assistência Farmacêutica.
+Sistema Autorizador do Programa Farmácia Popular
+Sistema Gestão 1.0
+Sistema Gestão 2.0
+Forma De Disponibilização: Disponibilização por meio de relatórios e pelo Portal da Saúde na internet: www.gov.br/saude
+Procedimento De Cálculo: 1. Extrair dos Sistema Autorizador, Gestão 1.0 e 2.0 do Programa Farmácia Popular o número de usuários que receberam atendimento de cuidado farmacêutico;
+2. Consolidar as informações em planilha Excel.
+3. Informar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 482
+Entrega: 1667
+Indicador: 10895
+Denominação: Percentual de fabricantes de medicamentos nacionais inspecionados com frequência condizente com o risco associado ao estabelecimento e seus produtos
+Sigla: PFABRINSPECIONA
+Índice De Referência: 79.5
+Em Apuração: Não
+Data De Apuração: 2023-06-19 00:00:00
+Unidade De Medida: percentual
+Descrição: Compete ao Sistema Nacional de Vigilância Sanitária- SNVS, conforme disposto no § 1º do art. 6º, da Lei 8.080/1980, eliminar, diminuir ou prevenir riscos à saúde da população e intervir nos problemas sanitários decorrentes da produção de bens e prestação de serviços.  O monitoramento da fabricação de medicamentos é parte desta competência legalmente instituída. 
+À Anvisa cabe a realização do monitoramento de fabricantes de medicamentos localizados nos estados do Norte, Nordeste e no Centro-Oeste, com exceção do estado de Goiás. Este monitoramento deve ser realizado na frequência previamente definida conforme o risco associado de cada um desses estabelecimentos.
+O objetivo deste monitoramento a termo infere a garantia ao acesso da população à medicamentos que possuam qualidade. "
+Período Ou Data A Que Se Refere: Último dia do trimestre.
+Data De Divulgação/Disponibilização: Trimestrealmente -  janeiro, abril, julho e outubro.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de inspeções centralizadas realizadas dentro do prazo = corresponde as inspeções centralizadas realizadas de acordo com o prazo definido pelo POP-O-SNVS-015; 
+
+Número de inspeções centralizadas previstas no prazo = número de inspeções centralizadas que deveriam ocorrer no prazo estipulado pelo POP-O-SNVS-015.  
+
+O cálculo determina a relação entre o número de ações planejadas no período para os estabelecimentos de acordo com as diretrizes de risco do POP-O-SNVS-015 e o número de ações realizadas.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de Excel localizada na rede interna
+Forma De Disponibilização: A planilha Excel da qual serão extraídos os dados para o cálculo da meta não é pública.
+Procedimento De Cálculo: O cálculo consiste em extrair da planilha de Excel o número de empresas fabricantes que deveriam ser inspecionadas e as que de fato foram inspecionadas no período determinado.
+Limitações: Dependendo do período a ser considerado para a extração dos dados (por ex, mensal), pode-se obter um valor de 100%, o que significaria que nenhuma empresa deveria ser inspecionada no período considerado e nenhuma empresa foi inspecionada no período considerado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 152
+Entrega: 241
+Indicador: 9058
+Denominação: Percentual de farmácias credenciadas por Unidade da Federação no Programa Farmácia Popular
+Sigla: PFCUFPFP
+Índice De Referência: 31.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o percentual de farmácias privadas credenciadas no Programa Farmácia Popular do Brasil. O Brasil possui hoje cerca de 90 mil farmácias privadas. Pretende-se credenciar 50% das farmácias privadas ao programa por região.
+Período Ou Data A Que Se Refere: último dia do mês
+Data De Divulgação/Disponibilização: Dia 10 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de farmácias privadas credenciadas no Programa Farmácia Popular do Brasil: Total de farmácias cadastradas no PFPB.
+Número total de farmácias privadas no Brasil: Total de farmácias privadas existentes no Brasil.
+Fonte De Dados Das Variáveis De Cálculo: Base de dados dos Sistemas do Programa Farmácia Popular do Brasil mantidos pela Coordenação-Geral de Programa Farmácia Popular do Departamento de Assistência Farmacêutica.
+Base de dados de farmácias privadas do Conselho Federal de Farmácia.
+Forma De Disponibilização: Disponibilização por meio de relatórios e pelo Portal da Saúde na internet: www.gov.br/saude
+Procedimento De Cálculo: 1. Entra no Sistema Gestão 2.0;
+2. Filtra o número total de farmácias credenciadas no período;
+3. Baixa a planilha para o computador;
+4. Insere o número total de farmácias privadas existentes no Brasil por UF;
+5. Calcula-se o percentual de farmácias credenciadas no programa por UF;
+6. Disponibiliza os dados no relatório de monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 482
+Entrega: 1666
+Indicador: 10894
+Denominação: Percentual de processos de trabalho finalísticos com o Sistema de Gestão da Qualidade implementado para entregar produtos e serviços de excelência à sociedade
+Sigla: PPSISGESTÃOQUALI
+Índice De Referência: 28.0
+Em Apuração: Não
+Data De Apuração: 2023-06-15 00:00:00
+Unidade De Medida: percentual
+Descrição: A implantação do Sistema de Gestão da Qualidade(SGQ) na Anvisa é requisito crítico para o reconhecimento do Brasil como autoridade de referência pela OMS. A implantação de um SGQ, com base na ISO 9001:2015, utiliza a lógica de processos. A Anvisa possui uma cadeia de valor que descreve os processos finalísticos, de suporte e gerenciais que executa. Para atendimento dos requisitos do SGQ, estes processos devem ser mapeados, devem ter indicadores estabelecidos e riscos controlados, devem existir procedimentos para execução das atividades e devem ser submetidos a avaliação e melhoria contínua.
+Período Ou Data A Que Se Refere: Último dia do trimestre.
+Data De Divulgação/Disponibilização: janeiro, abril, julho, outubro
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A cadeia de valor da Anvisa possui níveis, sendo que o primeiro nível são os macroprocessos de suporte, gerenciais e gestão da promoção e proteção à saúde. 
+Os processos de gestão da promoção e proteção à saúde são os processos finalísticos.
+Para fins de cálculo do indicador, será considerada a implantação do Sistema de Gestão da Qualidade(SGQ) no no nível considerado mapeável para cada processo.
+A cadeia de valor está em constante atualização, no momento, há 200 processos finalísticos mapeáveis.
+Fonte De Dados Das Variáveis De Cálculo: Planilha contendo o processo mapeado, planilha contendo o gerenciamento de risco do processo e registros de realização de reuniões de análise crítica.
+Forma De Disponibilização: Os dados serão obtidos internamente no repositório de processos mapeados e no repositório de gerenciamento de risco de processos, além de extrato do sistema de análise crítica da direção.
+Procedimento De Cálculo: Trimestralmente serão listados os processos finalísticos da cadeia de valor que foram mapeados e que possuem gerenciamento de risco. Será verificado se as unidades responsáveis pela execução destes processos estão realizando as reuniões de análise crítica. Caso estes requisitos sejam atendidos, o processo será considerado incluído no Sistema de Gestão da Qualidade(SGQ).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 480
+Entrega: 1658
+Indicador: 10884
+Denominação: Percentual dos serviços de Cuidado Farmacêutico nos estados, DF e municípios avaliados
+Sigla: PSCUIDADOAVALIAD
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede o percentual de Serviços de Cuidado Farmacêutico nos estados, DF e municípios avaliados.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Dia 10 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de serviços de cuidado farmacêutico produzidos e apresentados no SIA/SUS nos entes avaliados pelo Ministério da Saúde; 
+Número de serviços de cuidado farmacêutico produzidos e apresentados no Sistema de Informação Ambulatorial do SUS (SIA/SUS) nos estabelecimentos de saúde
+Fonte De Dados Das Variáveis De Cálculo: Bases de Dados dos Sistemas: SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS,
+CNES - Cadastro Nacional de Estabelecimentos de Saúde e SIA/SUS
+Forma De Disponibilização: Disponibilizado no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Extração do SIA/SUS da produção de serviços de cuidado farmacêuticos baseados na tabaela SIGTAP;
+2. Categorização por nível de atenção/complexidade assistencial dos serviços de cuidado farmacêutico produzidos por ente federativo;
+3. Somar os quantitativos da produção identificados no SIA/SUS e transcrever os resultados nacionais e por ente federativos para o Relatório de Monitoramento do DAF.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5117
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Indicador: 10887
+Denominação: Número de estados, DF e municípios habilitados nos eixos do Programa de Qualificação Nacional da Assistência Farmacêutica no SUS​
+Sigla: NEDFMHPQUALIFAR
+Índice De Referência: 3858.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Calcula o número de estados, DF e municípios habilitados no eixo estrutura do Programa de Qualificação da Assistência Farmacêutica do SUS. A habilitação neste eixo é a porta de entrada para a qualificação dos serviços de cuidado farmacêutico e serviços gerenciais da assistência farmacêutica nas Redes de Atenção à Saúde do SUS.
+Período Ou Data A Que Se Refere: Último dia do trimestre
+Data De Divulgação/Disponibilização: Todo dia 10 do mês subsequente ao trimestre.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios habilitados no eixo estrutura do Programa Qualifar-SUS;
+Estados e DF habilitados no eixo estrutura do Programa Qualifar-SUS; 
+Novos municípios habilitados no eixo estrutura do Programa Qualifar-SUS;
+Novos estados habilitados no eixo estrutura do Programa Qualifar-SUS.
+Fonte De Dados Das Variáveis De Cálculo: Portarias de habilitação já publicadas e portarias de novas habilitações dos entes no eixo estrutura do Programa Qualifar-SUS.
+Forma De Disponibilização: Disponibilização por meio de relatórios do Departamento de Assistência Farmacêutica
+Procedimento De Cálculo: 1. Acessar as portarias de municípios e estados já habilitados no eixo estrutura do Programa Qualifar-SUS.
+2. Acessar as portarias de habilitação de novos municípios habilitados no eixo estrutura do programa Qualifar-SUS.
+3. Verificar a quantidade de municípios habilitados e as novas habilitações.
+4. Somar os quantitativos e transcrever os resultados para o Relatório de Monitoramento do DAF.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 153
+Indicador: 10877
+Denominação: Número de fármacos e insumos estratégicos adquiridos no âmbito dos componentes básico, estratégico e especializado da Assistência Farmacêutica do SUS sob responsabilidade do Ministério da Saúde.​
+Sigla: NFIEDEDFM
+Índice De Referência: 207.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de fármacos listados na Relação Nacional de Medicamentos - Rename, dos componentes Básico, Estratégico e Especializados da Assistência Farmacêutica, cuja aquisição de medicamentos é de responsabilidade do Ministério da Saúde. A lista é atualizada de acordo com as novas inclusões aprovadas na Conitec e pactuadas na Comissão Intergestores Tripartite. A atualização da Rename é frequente no Portal da Saúde e sua publicação é a cada dois anos.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Todo dia 10 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Somatório do número de fármacos do componente básico, cujos medicamentos foram adquiridos pelo Ministério da Saúde em determinado período.
+Somatório do número de fármacos do componente estratégico, cujos medicamentos foram adquiridos pelo Ministério da Saúde em determinado período.
+Somatório do número de fármacos do componente especializado, cujos medicamentos foram adquiridos pelo Ministério da Saúde em determinado período.
+Fonte De Dados Das Variáveis De Cálculo: Relação de compras centralizadas de medicamentos de cada componente, cujo acompanhamento é realizado pelas Coordenações-Gerais dos Componentes Básico, Estratégico e Especializado do Departamento de Assistência Farmacêutica em determinado período.
+Forma De Disponibilização: Relatório de Monitoramento Mensal do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Acessar planilha de acompanhamento de contratos de compras centralizadas.
+2. Filtrar o período de aquisição de novos medicamentos.
+3. Verificar quantos fármacos foram adquiridos no mês e no acumulado do ano.
+4. Publicar no Relatório de Monitoramento do Departamento de Assistência Farmacêutica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 480
+Indicador: 10883
+Denominação: Número de serviços de cuidado farmacêutico realizados nos estabelecimentos de saúde ofertados aos usuários do SUS
+Sigla: NSCUIDADOFRSUS
+Índice De Referência: 6251476.0
+Em Apuração: Não
+Data De Apuração: 2023-09-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Permite medir a quantidade de serviços de cuidado farmacêutico realizados nos estabelecimentos de saúde das Redes de Atenção à Saúde aos usuários do SUS. 
+Os serviços de cuidado farmacêutico incluem uma relação padrão de procedimentos realizados pelo profissional farmacêutico no atendimento ao usuário do SUS.
+O monitoramento deste indicador se dará mês a mês a partir das informações apresentadas por municípios e estados no Sistema de Informação Ambulatorial do SUS - (SIA/SUS), Sistema de Informações Hospitalares do SUS -(SIH/SUS) e Sistema de Informação em Saúde para a Atenção Básica (SISAB)  e prioritariamente utilizará os procedimentos relacionados as Consultas/ atendimentos/ Acompanhamentos, conforme Tabela de Procedimentos do SUS (SIGTAP) pelos profissionais no CBO Farmacêutico ofertados aos usuários do SUS nos estabelecimentos de saúde  nos três níveis de atenção à saúde, incluindo as farmácias do componentes especializados da assistência farmacêutica.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Dia 10 de cada mês divulgação dos dados do mês anterior.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de atendimentos de cuidado farmacêutico aos usuários nas redes de atenção à saúde realizados pelo profissional farmacêutico em determinado período de tempo.
+Fonte De Dados Das Variáveis De Cálculo: SIGTAP - Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS
+CNES - Cadastro Nacional de Estabelecimentos de Saúde
+Sistema de Informação Ambulatorial do SUS (SIA/SUS)
+Sistema de Informações Hospitalares do SUS (SIH/SUS) e Sistema de Informação em Saúde para a Atenção Básica (SISAB)
+Forma De Disponibilização: Disponibilizada nos relatórios de Monitoramento do Departamento de Assistência Farmacêutica.
+Procedimento De Cálculo: 1. Acessar o site do SIGTAP: http://sigtap.datasus.gov.br/tabela-unificada/app/sec/inicio.jsp
+2. Realizar o levantamento dos serviços farmacêuticos que constam na base de dados do Sistema de Informações Ambulatoriais do SUS (SIA/SUS), Sistema de Informações Hospitalares do SUS (SIH/SUS) e Sistema de Informação em Saúde para a Atenção Básica (SISAB).
+3. Extração da tabela de procedimentos com os serviços cadastrados e a sua produção por estabelecimento de saúde (CNES) e na CBO Farmacêutico
+4. Gerar dados de Consultas/ atendimentos/ Acompanhamentos ofertados ao usuário do SUS do mês desejado.
+
+O rol de serviços/procedimentos será definido em documento oficial.
+Limitações: Ausência e/ou inconsistência na inserção das informações nas bases de dados dos sistemas consultados que impossibilitem a geração de dados confiáveis.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 152
+Indicador: 10876
+Denominação: Número de usuários atendidos pelo Programa Farmácia Popular do Brasil​ ao ano
+Sigla: NUAPFPB
+Índice De Referência: 21909425.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o quantitativo de usuários do SUS que receberam medicamentos e insumos constantes do elenco do Programa Farmácia Popular do Brasil - PFPB, em determinado período.
+Período Ou Data A Que Se Refere: último dia do mês
+Data De Divulgação/Disponibilização: Dia 20 de cada mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de usuários (CPF) que receberam medicamentos do elenco do Programa Farmácia Popular do Brasil em determinado período.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas do Programa Farmácia Popular do Brasil.
+Forma De Disponibilização: Os dados são disponibilizados no Portal da Saúde: www.gov.br/saude
+Procedimento De Cálculo: 1. Entrar no Sistema do Programa Farmácia Popular do Brasil
+2. Consultar o mês desejado
+3. Baixar planilha.
+4. Publicar o dado no Portal da Saúde.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 482
+Indicador: 10893
+Denominação: Percentual de cumprimento dos requisitos da OMS relacionados à Anvisa para medicamentos e vacinas
+Sigla: PCREQOMSMEDVAC
+Índice De Referência: 73.0
+Em Apuração: Não
+Data De Apuração: 2021-05-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o percentual de atendimento aos critérios de auditoria utilizados pela Organização Mundial da Saúde para auditar as autoridades sanitárias nacionais. Esta medida é realizada por meio de uma autoavaliação periódica para identificar eventuais problemas ou dificuldades no atendimento aos critérios e para elaboração de planos de ação de melhoria, para que a Anvisa esteja preparada para receber a auditoria da OMS.
+Período Ou Data A Que Se Refere: último dia do ano
+Data De Divulgação/Disponibilização: até 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A OMS estabeleceu 289 critérios de auditoria (268 critérios da ferramenta Global Benchmarking Tool - GBT e 21 critérios de desempenho). Para os critérios do GBT é possível classificar o atendimento como não implementado (valor 0), em implementação (valor 0,25), parcialmente implementado (valor 0,75) e implementado (valor 1). Para os critérios de desempenho há a classificação de não implementado (valor 0), parcialmente implementado (valor 0,5) e implementado (valor 1). Nas autoavaliações, o resultado da classificação de cada critério será somado para compor o percentual final)
+Fonte De Dados Das Variáveis De Cálculo: Atividades de autoavaliação da Anvisa realizadas por meio do processo de Auditoria Interna da Qualidade anualmente.
+Forma De Disponibilização: Os resultados obtidos serão registrados e distribuídos somente internamente no processo SEI.
+
+Critérios de auditoria utilizados pela OMS:
+Global Benchmarking Tool - https://apps.who.int/iris/rest/bitstreams/1346833/retrieve 
+Interim manual for the performance evaluation of regulatory authorities seeking the designation as WHO listed authorities - https://cdn.who.int/media/docs/default-source/medicines/regulatory-systems/manual-combined-rev1.pdf?sfvrsn=27547ada_8&download=true
+
+Em definição o local a ser disponibilizado internamente pela Anvisa.
+Procedimento De Cálculo: As unidades da Anvisa que executam processos relacionados aos critérios de auditoria da OMS serão auditadas anualmente pela Anvisa para verificação do atendimento a estes critérios. A auditoria seguirá o procedimento do Sistema de Gestão da Qualidade da Anvisa de Auditoria Interna da Qualidade. Este procedimento utiliza os mesmos critérios utilizados pela OMS. A ferramenta computadorizada da OMS (cGBT) será alimentada para realizar os cálculos automáticos do resultado do atendimento aos critérios de auditoria do GBT. Dependendo da classificação de cada critério, um valor é atribuído (vide - variáveis de cálculo). Serão somados a estes dados, os resultados de avaliação dos 21 critérios de desempenho (que não estão contemplados na ferramenta computadorizada da OMS) para o cálculo final do percentual.
+Notas Explicativas: Ao longo do ciclo do PPA a OMS pode atualizar a ferramenta GBT ou os critérios de desempenho, podendo afetar o número de critérios ou o teor do critério. Caso isto ocorra deverá ser considerado nos cálculos e na avaliação dos resultados.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5117
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 152
+Enunciado: Ampliar o acesso da população a medicamentos e insumos estratégicos do elenco do Programa Farmácia Popular do Brasil.
+Descrição: O Programa Farmácia Popular do Brasil visa complementar a disponibilização de medicamentos utilizados na Atenção Primária à Saúde - APS, por meio de parceria com farmácias e drogarias da rede privada, permitindo que o cidadão obtenha medicamentos nessas farmácias credenciadas ao programa, além das Unidades Básicas de Saúde e/ou farmácias municipais.
+O Programa disponibiliza medicamentos gratuitos para o tratamento de asmas, diabetes e hipertenção, passando a entregar gratuitamente medicamentos para osteoporose e anticoncepcionais a partir de junho de 2023. Também fornece, de forma subsidiada (até 90% do valor de referência tabelado), medicamentos para dislipidemia, rinite, doença de Parkinson, glaucoma e fraldas geriátricas.
+Vários problemas impediram o avanço deste programa como: o processo de credenciamento de farmácias suspenso desde 2014; o monitoramento insatisfatório das farmácias cadastradas; a concentração da oferta do programa Farmácia Popular nos grandes centros urbanos; a desigualdade regional na distribuição de farmácias credenciadas.
+Assim, este objetivo estratégico pretende corrigir essas falhas e contribuir com ampliação do acesso da população a medicamentos e insumos estratégicos utilizados na APS.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 153
+Enunciado: Proporcionar o acesso a medicamentos e insumos estratégicos de aquisição centralizada no âmbito dos componentes Básico, Estratégico e Especializado da Assistência Farmacêutica do SUS.
+Descrição: O objetivo específico pretende atender as aquisições programadas em pactuações tripartite e de acordo com as demandas de medicamentos e insumos estratégicos visando reduzir as iniquidades regionais, garantir melhores preços e práticas de mercado farmacêutico e de produtos para a saúde priorizados no âmbito do SUS.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 480
+Enunciado: Ampliar o acesso aos serviços de cuidado farmacêutico no âmbito do SUS.
+Descrição: Os serviços de cuidado farmacêutico “compreende um conjunto de serviços clínicos dirigidos aos usuários, que englobam ações integrais e integradas de saúde e visam a prevenção, identificação e resolução de problemas relacionados à farmacoterapia, assim como atividades técnico-pedagógicas voltadas aos usuários e profissionais de saúde, que envolvem o matriciamento acerca da farmacoterapia, ambos com vistas a melhoria da qualidade de vida das pessoas” (Conasems, 2021).
+Os serviços de cuidado farmacêutico transcendem o ato da dispensação de medicamentos (entrega de medicamento e orientação de uso pelo farmacêutico ao usuário) envolve inúmeras atividades como rastreamento em saúde (identificação de doença ou condição de saúde em pessoa assintomática); reconciliação medicamentosa (avaliação e orientação adequada quanto ao uso de medicamentos); revisão da farmacoterapia (avaliação detalhada dos medicamentos utilizados pelo usuário e recomendações aos prescritores); monitorização terapêutica de medicamentos (avalia e interpreta os níveis séricos de medicamentos para o alcance de concentrações plasmáticas efetivas e seguras); acompanhamento farmacoterapêutico (gerenciamento da farmacoterapia e das condições de saúde do usuário, incluindo método clínico adequado); dentre outros.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 481
+Enunciado: Fortalecer os serviços gerenciais e assistenciais nos estados e municípios habilitados no Programa Nacional de Qualificação da Assistência Farmacêutica como estratégia de qualificação do acesso aos medicamentos e atenção à saúde.
+Descrição: Aprimorar por meio do programa Qualifar-SUS os serviços gerenciais e assistenciais da assistência farmacêutica no âmbito dos municípios, estados e Distrito Federal fortalecendo os processos de seleção, programação, aquisição, distribuição e armazenamento, visando garantir acesso da população aos medicamentos e insumos nos diferentes níveis de atenção nas unidades da federação, ampliando as condições para oferta de serviços de cuidado farmacêuticos e gestão da informação, comunicação e transparência de dados na gestão e na assistência no SUS.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Objetivo Específico: 482
+Enunciado: Promover o acesso, a inovação e a produção de medicamentos de qualidade por meio do reconhecimento do Brasil como autoridade referência para a Organização Mundial da Saúde.
+Descrição: O reconhecimento do Brasil como referência pela Organização Mundial da Saúde consiste na avaliação da atuação da autoridade sanitária com base em rigorosos requisitos que representam as melhores práticas regulatórias internacionais. Tal reconhecimento aplicado à cadeia de produção, importação e distribuição de Medicamentos e Vacinas fortalece as atividades regulatórias da Anvisa e promove ambiente favorável à ampliação da disponibilidade e acesso a produtos nacionais e importados de qualidade.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5117
+
+Exercício: 2025
+Programa: 5117
+Objetivo: 1266
+Enunciado: Ampliar o acesso da população aos medicamentos, insumos estratégicos e serviços farmacêuticos, qualificando a assistência farmacêutica, articulada à pesquisa, à inovação e à produção nacional, regulação, com qualidade e uso adequado no Sistema Único de Saúde, reduzindo as iniquidades.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5117
+
+Exercício: 2025
+Programa: 5117
+Título: Qualificação da Assistência Farmacêutica no Sistema Único de Saúde
+Tipo: Finalístico
+Órgão: 36000.0
+Público-Alvo: População em geral usuária do SUS;
+Gestores e profissionais da saúde dos municípios, Estados e Distrito Federal;
+Instituições de ensino, pesquisa e inovação, bem como laboratórios públicos oficiais.
+Descrição Do Problema: Baixa qualificação dos serviços farmacêuticos e dificuldades no acesso dos usuários aos medicamentos e insumos estratégicos, no âmbito da assistência farmacêutica, do Sistema Único de Saúde.
+Causa Do Problema: - Aumento crescente da demanda de medicamentos e insumos estratégicos em virtude dos aspectos epidemiológicos e sociodemográficos da população brasileira. 
+- Cobertura inadequada dos serviços de assistência farmacêutica.   
+- Percepção reducionista da Assistência Farmacêutica, focada no abastecimento, aquisição e distribuição de medicamentos, ante ao papel protagonista do cuidado farmacêutico (prescrição, dispensação e do uso racional de medicamentos) na assistência à saúde nas redes de atenção à saúde. 
+- Ausência de diretrizes nacionais para o desenvolvimento dos serviços e do cuidado farmacêutico no SUS.  
+- Deficiência na elaboração, atualização, disseminação e utilização de diretrizes clínicas para o desenvolvimento do cuidado farmacêutico no SUS.   
+- Subutilização de recursos terapêuticos de práticas integrativas e complementares, a exemplo de plantas medicinais e fitoterápicos. 
+- Dificuldade de acesso aos medicamentos, insumos estratégicos e serviços farmacêuticos pela população brasileira.  
+- Baixa qualificação das ações e dos serviços da assistência farmacêutica, impactando negativamente na atenção à saúde e no uso racional de medicamentos. 
+- Descontinuidade na ampliação de programas e projetos estratégicos para a assistência farmacêutica no SUS como Qualifar-SUS e Farmácia Popular.  
+- Desalinhamento das prescrições de medicamentos frente aos elencos estabelecidos na Relação Nacional de Medicamentos (RENAME) e pactuações de protocolos clínicos nos diferentes níveis de atenção.  
+- Concentração da oferta do Programa Farmácia Popular do Brasil nos grandes centros urbanos.   
+- Desigualdade regional na distribuição de farmácias credenciadas ao Programa Farmácia Popular do Brasil.  
+- Monitoramento insatisfatório das farmácias cadastradas no programa Farmácia Popular do Brasil. 
+- Processo de credenciamento de farmácias do Programa Farmácia Popular do Brasil suspenso desde 2014. 
+- Desigualdade na presença de estabelecimentos privados entre as regiões geográficas. 
+- Baixo poder de compra por parte dos entes em aquisições isoladas em virtude da perda de escala e fatores regionais. 
+- Ausência de ações para o fortalecimento de consórcios e compras públicas compartilhadas na assistência farmacêutica. 
+- Dificuldades na aplicação dos recursos para ações de qualificação da assistência farmacêutica nos três níveis de gestão no SUS. 
+- Deficiência de política de educação permanente da Assistência aos profissionais e gestores de saúde. 
+- Falhas na operabilidade dos sistemas e da Base Nacional de Dados e Serviços da Assistência Farmacêutica, impossibilitando o monitoramento da gestão e da elaboração de indicadores nacionais, regionais e locais. 
+- Recursos insuficientes para ampliação de programas e projetos estruturantes da assistência farmacêutica nas três esferas de gestão do SUS. 
+- Falhas nos processos após incorporação de medicamentos que dificultam a previsões orçamentárias dos entes. 
+- Falhas na gestão da assistência farmacêutica nos três níveis de gestão do SUS. 
+- Fragmentação de ações e serviços da assistência farmacêutica e fragilidade na capacidade de gestão articulada dos entes nas redes de atenção à saúde. 
+- Dificuldades regulatórias nacionais e internacionais diante das práticas abusivas de preços do mercado farmacêutico. 
+- Dependência internacional de insumos para produção nacional de medicamentos e produtos para saúde. 
+- Dificuldades na aplicação dos recursos para a ações de qualificação da assistência farmacêutica nos três níveis de gestão no SUS.  
+- Necessidade de revisão dos modelos de financiamento ou de sub-financiamento das ações de qualificação da assistência farmacêutica, no que se refere a estruturação, informação, educação, serviço e acesso.    
+- Baixa qualidade nas informações sobre o planejamento e gestão da assistência farmacêutica no SUS.  
+- Dificuldade no desenvolvimento de sistemas de informação e descontinuidade e/ou suporte tecnológico inadequado aos sistemas existentes.
+- Precariedade no suporte e no desenvolvimento de soluções tecnológicas para a gestão da informação e comunicação no âmbito da assistência farmacêutica.  
+- Baixa qualidade da informação prestada pelos entes. 
+- Falhas no processo de programação, aquisição e distribuição de medicamentos e insumos estratégicos (vacinas e kits laboratoriais). 
+- Falhas de logística nos serviços de assistência farmacêutica especializada, dificultando o atendimento dos usuários. 
+- Vazios assistenciais.
+Evidências Do Problema: -
+Justificativa Para A Intervenção: Diante do cenário recente, agravado pela pandemia da covid-19 e seus impactos na situação epidemiológica do Brasil, dos problemas alusivos à assistência farmacêutica no SUS e suas causas, , é plausível garantir o acesso ampliado da população a serviços farmacêuticos qualificados e aos medicamentos e insumos estratégicos no âmbito do SUS com abastecimento tempestivo e resolutivo, por meio de diferentes estratégias e parcerias, a fim de que haja maior eficiência na assistência à saúde, com eficácia e efetividade, observando o uso racional de medicamentos e as especificidades regionais.
+Evolução Histórica: No intuito de garantir as prioridades estabelecidas nas Política Nacional de Medicamentos (PNM), na Política Nacional de Assistência Farmacêutica (PNAF) e na Política e Programa Nacional de Plantas Medicinais e Fitoterápicos (PNPMF), percebe-se que houve uma evolução dos gastos com a assistência farmacêutica no país, e especialmente, no âmbito do Ministério da Saúde, no intuito de apoiar, com diferentes estratégias, o acesso aos medicamentos, insumos e serviços farmacêuticos, complementarmente às aquisições e serviços dos demais entes. Essa evolução da aplicação de recursos na assistência farmacêutica sai, em 2014, de 8,64 bilhões de reais para um orçamento programado em 2023 de cerca de 16,02 bilhões de reais, em valores nominais. 
+De acordo com o Sistema de Informação sobre Orçamento Público na Saúde (SIOPS), as despesas empenhadas em 2021, por exemplo, o percentual da despesa pública com medicamentos frente ao total de despesas com ações e serviços de Saúde entre entes federados, chegou a 19,43%. Mesmo com esse grau de aplicação de recursos, é fundamental qualificar cada vez mais essa aplicação de recursos públicos, especialmente no âmbito da União, porém, nos últimos 4 anos, principalmente pelos impactos ocasionados pela Pandemia da covid-19, ficou evidente a dependência internacional do país para insumos e matérias primas básicas para a produção nacional, o que impactou significativamente nos orçamentos dos entes em virtude dos preços praticados no mercado nacional e internacional, muito acima do normal quando comparado com os anos anteriores à pandemia.  A partir de 2010 o Ministério da Saúde, articulado com o CONASS e CONASEMS, passaram a pactuar diferentes estratégias em apoio a qualificação dos serviços farmacêuticos no SUS, no entanto, algumas estratégias e programas estagnaram nos últimos anos a exemplo do Farmácia Popular do Brasil que reduziu a meta de ampliação do credenciamento de farmácias privadas de 90% para 81% em virtude de problemas na gestão e monitoramento do Programa. Da mesma forma, o QUALIFAR-SUS - Programa Nacional de Qualificação da Assistência Farmacêutica  - desde 2019 não habilita novos municípios e os sistemas de informação, como o Hórus, e o próprio Farmácia Popular sofreram descontinuidades nas suas evoluções tecnológicas, impactando diretamente no processo de monitoramento e avaliação da área.  Outro aspecto relevante que demonstrou a importância destes programas e estratégias governamentais para garantia do acesso foi a Pesquisa Nacional sobre o Acesso, Utilização e Promoção do Uso Racional de Medicamentos no Brasil (PNAUM), que apontou como o cidadão ampliou as possibilidades de acesso aos medicamentos no SUS, seja no setor público e/ou de forma complementar no setor privado, por meio do Programa Farmácia Popular do Brasil, especialmente aqueles medicamentos de gratuidade para tratamento de doenças como asma, hipertensão e diabetes.
+Comparações Internacionais: -
+Relação Com Os Ods: Objetivos: 
+ 3.8 Assegurar, por meio do Sistema Único de Saúde (SUS), a cobertura universal de saúde, o acesso a serviços essenciais de saúde de qualidade em todos os níveis de atenção e o acesso a medicamentos e vacinas essenciais seguros, eficazes e de qualidade que estejam incorporados ao rol de produtos oferecidos pelo SUS. 
+3.b Apoiar a pesquisa e o desenvolvimento de tecnologias e inovações em saúde para as doenças transmissíveis e não transmissíveis, proporcionar o acesso a essas tecnologias e inovações incorporadas ao SUS, incluindo medicamentos e vacinas, a toda a população.  
+
+Indicadores:
+.8.1 - Cobertura da Atenção Primária à Saúde (definida como a cobertura média dos cuidados de saúde primários aferida por indicadores relativos a saúde reprodutiva, materna, neonatal e infantil, doenças infecciosas, doenças não transmissíveis, e sobre o acesso e capacidade dos serviços, junto da população geral e das populações mais desfavorecidas). 
+3.b.3 - Proporção de estabelecimentos de saúde que dispõem de um conjunto básico de medicamentos essenciais e relevantes disponíveis e a custo acessível numa base sustentável.
+Agentes Envolvidos: União, Estados e DF, Municípios;
+Entidades públicas e privadas;
+Conselhos de saúde, CONASS, CONASEMS; 
+Organismos Internacionais;
+Instituições de ensino e pesquisa;
+Laboratórios farmacêuticos oficiais;
+Anvisa,;
+Ministério da Saúde.
+Articulação Federativa: -
+Enfoque Transversal: Políticas e programas do complexo econômico produtivo e industrial da saúde; de pesquisa, desenvolvimento e inovação; de Gestão de Tecnologias em Saúde; de Saúde Digital; do Sistema Prisional; da Saúde da Mulher; da Saúde Indígena; das Práticas Integrativas e Complementares no SUS; de Controle da Tuberculose; de Hanseníase; de HIV/AIDS; de Tabagismo; de Diabetes; de Calamidade Pública.
+Marco Legal: Constituição Federal de 1988 (art. 196 a 200).   
+Lei nº 8.080, de 19 de setembro de 1990, que dispõe sobre os princípios a serem obedecidos na execução de ações e serviços públicos de saúde no âmbito do Sistema Único de Saúde (SUS), especialmente a universalidade, a integralidade e a igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie.   
+Resolução do Conselho Nacional de Saúde nº 338, de 26 de maio de 2004, que aprova a Política Nacional de Assistência Farmacêutica. 
+Lei nº 12.401, de 28 de abril 2011, que dispõe sobre a assistência terapêutica e a incorporação de tecnologia em saúde no âmbito do SUS.   
+Portaria de Consolidação GM/MS nº 2, de 28 de setembro de 2017, em seu Anexo 1 do Anexo XXVII, que institui a Política Nacional de Medicamentos e outras disposições sobre os componentes da assistência farmacêutica.   
+Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017.   
+Decreto N° 5.813, de 22 de junho de 2006, que aprova a Política Nacional de Plantas Medicinais e Fitoterápicos.  
+Portaria interministerial N° 2.960, de 9 de dezembro de 2008, que aprova o Programa Nacional de Plantas Medicinais e Fitoterápicos.   
+Portaria GM/MS nº 3.677, de 29 de setembro de 2022, que Altera a Portaria de Consolidação GM/MS nº 5, de 28 de setembro de 2017, e amplia a cobertura do Programa Farmácia Popular do Brasil - PFPB.
+Planos Nacionais, Setoriais E Regionais: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

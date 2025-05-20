@@ -1,0 +1,742 @@
+passage: Programa Número 4006
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 476
+Entrega: 1990
+Indicador: 11317
+Denominação: Número de acessos à página das campanhas de comunicação promovidas pela SENAES
+Sigla: NAP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de visualizações permite uma métrica sobre a quantidade de pessoas que acessam o conteúdo das campanhas de comunicação.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de acessos à página das campanhas de comunicação promovidas pela SENAES
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de desempenho do site e redes sociais do MTE
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório dos números de acesso à página das campanhas de comunicação  promovidas pela SENAES
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 1763
+Indicador: 11121
+Denominação: Número de agentes formadores qualificados para socialização do conhecimento da Economia Popular e Solidária e da educação socioambiental
+Sigla: NAF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de agentes formadores qualificados para socialização do conhecimento da Economia Popular e Solidária e da educação socioambiental.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de agentes formadores qualificados para socialização do conhecimento da Economia Popular e Solidária e da educação socioambiental.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de acompanhamento das atividades e da participação nos processos formativos em Economia Popular e Solidária Sustentáveis.
+Forma De Disponibilização: Portal da SENAES.
+Procedimento De Cálculo: Somatório do número de agentes formadores qualificados para socialização do conhecimento da Economia Popular e Solidária e da educação socioambiental.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1776
+Indicador: 11052
+Denominação: Número de bases de serviços de assessoramento técnico criadas
+Sigla: NBSC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensurar o número de bases de assessoramento técnico de serviços criadas para  atuarem no assessoramento técnico aos Empreendimento de Economia Popular e Solidária
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de bases de serviços de assessoramento técnico criadas
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária -SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de bases de serviços de assessoramento técnico criadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1736
+Indicador: 10993
+Denominação: Número de centros públicos e espaços multifuncionais da Economia Popular e Solidária sustentáveis criados e/ou fortalecidos
+Sigla: NCPEM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de centros públicos e espaços multifuncionais da Economia Popular e Solidária sustentáveis criados e fortalecidos
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de centros públicos e espaços multifuncionais da Economia Popular e Solidária sustentáveis criados e fortalecidos
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária -SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de centros públicos e espaços multifuncionais da Economia Popular e Solidária sustentáveis criados e fortalecidos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1734
+Indicador: 10991
+Denominação: Número de circuitos de comercialização popular e solidária implantados
+Sigla: NCC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de circuitos de comercialização popular e solidária implantados
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de empreendimentos fomentados e implantados para  atuarem nos circuitos de comercialização
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária - SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de empreendimentos fomentados e implantados para  atuarem nos circuitos de comercialização
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 476
+Entrega: 1993
+Indicador: 11320
+Denominação: Número de comissões estaduais e municipais de cadastro e informação apoiadas no contexto do CADSOL
+Sigla: NCA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador permite acompanhar a atuação institucional nos estados e municípios e avaliar a capilaridade da Política Nacional de Economia Popular e Solidária nas unidades federativas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de comissões estaduais e municipais de cadastro e informação apoiadas no contexto do CADSOL.
+Fonte De Dados Das Variáveis De Cálculo: Treinamentos realizados e termos de adesão das comissões estaduais e municipais de cadastro e informação no CADSOL.
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório das comissões estaduais e municipais de cadastro e informação apoiadas por meio de treinamentos ou de termo de adesão ao CADSOL.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 2301
+Indicador: 12111
+Denominação: Número de concluintes nos cursos ofertados no Avamec
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de concluintes nos cursos ofertados no Avamec
+Período Ou Data A Que Se Refere: Jandeiro a dezembro
+Data De Divulgação/Disponibilização: Até março do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: concluintes são as pessoas que conseguiram emitir certificado pelo AVAMEC
+Fonte De Dados Das Variáveis De Cálculo: Avamec
+Forma De Disponibilização: Plataforma Avamec
+Procedimento De Cálculo: Total de concluintes nos cursos ofertados no Avamec
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1756
+Indicador: 11030
+Denominação: Número de cooperativas de catadores fortalecidas
+Sigla: NCCF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de cooperativas de catadores fortalecidas para atuarem na coleta seletiva e destinação adequada para os resíduos sólidos
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cooperativas de catadores fortalecidas
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária - SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de cooperativas de catadores fortalecidas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1738
+Indicador: 10995
+Denominação: Número de cooperativas de plataforma assessoradas
+Sigla: NCPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de cooperativas de plataformas assessoradas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cooperativas de plataformas assessoradas
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária -SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de cooperativas de plataformas assessoradas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 1766
+Indicador: 11134
+Denominação: Número de cursos ofertados em Economia Popular e Solidária sustentáveis para o público geral e específicos
+Sigla: NCPGE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de cursos ofertados em Economia Popular e Solidária sustentáveis para o público geral e os públicos específicos.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cursos ofertados em Economia Popular e Solidária sustentáveis para os públicos geral e específicos.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de acompanhamento das atividades e da participação nos processos formativos em Economia Popular e Solidária Sustentáveis.
+Forma De Disponibilização: Portal da SENAES.
+Procedimento De Cálculo: Somatório de cursos ofertados em Economia Popular e Solidária sustentáveis para o público geral e os públicos específicos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1782
+Indicador: 11058
+Denominação: Número de empreendimentos de finanças populares e solidárias assessorados
+Sigla: NEFP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de empreendimentos de finanças populares e solidárias assessorados para atuarem nos bancos comunitários, nas moedas sociais, nas cooperativas de crédito, nos fundos solidários e nas Fintechs
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de empreendimentos de finanças populares e solidárias assessorados
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária -SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de empreendimentos de finanças populares e solidárias assessorados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1737
+Indicador: 10994
+Denominação: Número de empresas recuperadas
+Sigla: NER
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de empresas recuperadas apoiadas para atuarem nas massas falidas assumidas pelos trabalhadores
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de empresas recuperadas
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária -SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de empresas recuperadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 476
+Entrega: 1991
+Indicador: 11318
+Denominação: Número de estudos, pesquisas e indicadores sobre a Economia Popular e Solidária produzidos e/ou divulgados pela SENAES
+Sigla: NEP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de estudos, pesquisas e indicadores sobre a Economia Popular e Solidária produzidos e/ou divulgados pela SENAES.
+Período Ou Data A Que Se Refere: janeiro e dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de pesquisas, estudos e indicadores, produzidos ou divulgados pela SENAES
+Fonte De Dados Das Variáveis De Cálculo: Lista das pesquisas, estudos e indicadores produzidos ou divulgados pela SENAES.
+Forma De Disponibilização: Portal da SENAES e Portal do Observatório Nacional da Economia Solidária e do Cooperativismo.
+Procedimento De Cálculo: Somatório das pesquisas, estudos e indicadores produzidos ou divulgados pela SENAES.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1735
+Indicador: 10992
+Denominação: Número de feiras de Economia Popular e Solidária implantadas
+Sigla: NFEPS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de feiras de Economia Popular e Solidária implantadas para facilitar a comercialização direta dos Empreendimentos
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de feiras de Economia Popular e Solidária implantadas
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária -SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de feiras de Economia Popular e Solidária implantadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 1765
+Indicador: 11127
+Denominação: Número de gestores nacionais, estaduais e municipais formados para execução da política de Economia Popular e Solidária
+Sigla: NGF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de gestores nacionais, estaduais e municipais formados para execução da política de Economia Popular e Solidária.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de gestores nacionais, estaduais e municipais formados para execução da política de Economia Popular e Solidária.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de acompanhamento das atividades e da participação nos processos formativos em Economia Popular e Solidária Sustentáveis.
+Forma De Disponibilização: Portal da SENAES.
+Procedimento De Cálculo: Somatório de gestores nacionais, estaduais e municipais formados para execução da política de Economia Popular e Solidária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 1768
+Indicador: 11138
+Denominação: Número de incubadoras tecnológicas da Economia Popular e Solidária apoiadas
+Sigla: NIT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de incubadoras tecnológicas da Economia Popular e Solidária apoiadas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de incubadoras tecnológicas da Economia Popular e Solidária apoiadas.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de acompanhamento das atividades e da participação nos processos formativos em Economia Popular e Solidária Sustentáveis.
+Forma De Disponibilização: Portal da SENAES.
+Procedimento De Cálculo: Somatório do número de incubadoras tecnológicas da Economia Popular e Solidária apoiadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 476
+Entrega: 1992
+Indicador: 11319
+Denominação: Número de indicadores nacionais em matéria de Economia Popular e Solidária desenvolvidos e disponibilizados
+Sigla: NIN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de indicadores nacionais em matéria de Economia Popular e Solidária desenvolvidos e disponibilizados. Quanto mais indicadores nacionais em matéria de Economia Popular e Solidária, maior será a capacidade de medir e avaliar o seu impacto socioeconômico no país.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de indicadores quantitativos nacionais em matéria de Economia Popular e Solidária disponibilizados
+Fonte De Dados Das Variáveis De Cálculo: Lista de indicadores quantitativos nacionais em matéria de Economia Popular e Solidária disponibilizados
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório do número  de indicadores disponíveis
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 1752
+Indicador: 11026
+Denominação: Número de integrantes dos empreendimentos de Economia Popular e Solidária formados
+Sigla: NIF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de integrantes dos empreendimentos de Economia Popular e Solidária formados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Última semana de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de integrantes dos empreendimentos de Economia Popular e Solidária formados.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de acompanhamento das atividades e da participação nos processos formativos em Economia Popular e Solidária Sustentáveis.
+Forma De Disponibilização: Portal da SENAES.
+Procedimento De Cálculo: Somatório de integrantes dos empreendimentos de Economia Popular e Solidária formados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Entrega: 1784
+Indicador: 11060
+Denominação: Número de redes, cadeias e arranjos produtivos implementados
+Sigla: NRCA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de redes, cadeias e arranjos produtivos implementados
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de redes, cadeias e arranjos produtivos implementados
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária - SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de redes, cadeias e arranjos produtivos implementados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Entrega: 2304
+Indicador: 12112
+Denominação: Número de vagas ofertadas pelo Pronatec em Economia Popular e Solidária
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas pelo Pronatec em Economia Popular e Solidária.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Março do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: vagas ofertadas
+Fonte De Dados Das Variáveis De Cálculo: Pronatec
+Forma De Disponibilização: Plataforma do Pronatec
+Procedimento De Cálculo: Total de de vagas ofertadas pelo Pronatec em Economia Popular e Solidária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4006
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Indicador: 11048
+Denominação: Número de concluintes de processos formativos em Economia Popular e Solidária sustentáveis
+Sigla: NCPF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de concluintes de processos formativos em Economia Popular e Solidária sustentáveis com os seguintes recortes: acessibilidade e equidade de gênero, raça, cor, etnia e orientação sexual e regionalidade.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de concluintes de processos formativos em Economia Popular e Solidária sustentáveis.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de acompanhamento das atividades e da participação nos processos formativos em Economia Popular e Solidária Sustentáveis.
+Forma De Disponibilização: Portal da SENAES.
+Procedimento De Cálculo: Somatório do número de concluintes de processos formativos em Economia Popular e Solidária sustentáveis.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 476
+Indicador: 11315
+Denominação: Número de Empreendimentos Econômicos Solidários (EES) cadastrados no novo CADSOL
+Sigla: NEES
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de empreendimentos econômicos solidários cadastrados no CADSOL, permitindo a visibilidade, a obtenção de informações e o acesso a políticas públicas voltadas ao público envolvido nesses empreendimentos.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Diária
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cadastros enviados pelos usuários no novo sistema do CADSOL
+Fonte De Dados Das Variáveis De Cálculo: Sistema eletrônico de cadastro de iniciativas de Economia Popular e Solidária
+Forma De Disponibilização: Portal da SENAES, na página do CADSOL
+Procedimento De Cálculo: Somatório das iniciativas de Economia Popular e Solidária identificadas no CADSOL
+Limitações: O número de Empreendimentos Econômicos Solidários (EES) cadastrados no novo CADSOL depende do acesso ao sistema por parte das pessoas que representam o empreendimento, demandando acesso à internet e compreensão do processo, o que não é muito comum em relação ao público da política. Medidas estão sendo adotadas para assessorar e facilitar esse processo.
+Notas Explicativas: O indicador considera os registros de empreendimentos a partir do envio dos cadastros para análise no sistema, desconsiderando os empreendimentos rejeitados ou aqueles que não concluíram todas as etapas de envio do cadastro.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Indicador: 10990
+Denominação: Número de iniciativas de Economia Popular e Solidária implementadas
+Sigla: NEPS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensurar o número de iniciativas empreendimentos de economia popular e solidária implementadas
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de iniciativas de Economia Popular e Solidária implementadas
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de EES do Sistema Nacional de Economia Solidária - SIES
+Forma De Disponibilização: Portal da SENAES
+Procedimento De Cálculo: Somatório de iniciativas de Economia Popular e Solidária implementadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4006
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 476
+Enunciado: Promover a institucionalidade, a visibilidade e a capilaridade da Economia Popular e Solidária
+Descrição: O objetivo trata da promoção e determinação de diretrizes e prioridades da Política Nacional de Economia Popular e Solidária; do planejamento, controle e avaliação dos programas relacionados à Economia Popular e Solidária; da promoção de ações que incentivem o desenvolvimento da economia solidária; do estímulo à criação, manutenção e ampliação de iniciativas de Economia Popular e Solidária no país, tendo em consideração o desenvolvimento local, regional e territorial integrado e sustentável.
+Ademais, é necessário elaborar dados qualificados para subsidiar os programas relacionados à Economia Popular e Solidária e promover ações de comunicação e divulgação para fortalecer as oportunidades de trabalho e acesso à renda, em todo o território brasileiro, por meio de iniciativas autogestionadas, fundamentadas nos princípios de cooperação e solidariedade.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 477
+Enunciado: Implementar as iniciativas de Economia Popular e Solidária, valorizando as dinâmicas territoriais
+Descrição: O objetivo proposto faz parte de um conjunto de ações de proteção pública social voltado para uma parcela significativa da população rural e urbana pobre. Tendo em vista que o enfrentamento da pobreza é considerado um tema complexo e multidimensional, abrangendo questões profundas e estruturais, entende-se que ela só pode ser superada se um conjunto de bens e serviços públicos for ofertado e operacionalizado em benefício desse público.
+Os Empreendimentos de Economia Popular e Solidária, necessitam de serviços de apoio, principalmente com foco na comercialização de seus produtos e no acesso ao crédito. Portanto, realizar ações de identificação e mapeamento da produção; estudos de mercado e planejamento das redes e cadeias produtivas, assessoramento/capacitação em temas da dinamização econômica dos territórios são estratégias fundamentais. Além disso, há necessidade de investimentos em equipamentos para torná-los competitivos para a inserção sustentável dos produtos no mercado.
+O objetivo vai incidir exatamente na capacidade de os Empreendimentos de Economia Popular e Solidária gerarem trabalho e renda, fortalecendo a capacidade produtiva como estratégia de superação da pobreza e o desenvolvimento territorial, solidário e sustentável.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Objetivo Específico: 478
+Enunciado: Promover a educação popular, a qualificação técnica e a formação cidadã em Economia Popular e Solidária
+Descrição: Por meio deste objetivo espera-se que sejam criados cursos de qualificação profissional para desenvolvimento de competências técnicas, humanas, políticas, sociais e ambientais dos integrantes dos empreendimentos de economia popular e solidária.
+Tais curso deverão sempre seguir as seguintes diretrizes:
+a) Ser uma formação humanista, antirracista, feminista e anticapacitista;
+b) Considerar o bem viver e os saberes dos povos e comunidades tradicionais e indígenas;
+c) Formação realizada por meio da educação popular e interdisciplinar, da metodologia pedagógica da alternância garantindo o diálogo entre teoria e prática, na relação da autogestão com a comunidade e o território;
+d) Fortalecer os princípios da Economia Solidária e diretrizes da política nacional;
+e) Alinhar as competências técnicas, humanas, políticas, sociocultural e ambientais.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 4006
+
+Exercício: 2025
+Programa: 4006
+Objetivo: 1338
+Enunciado: Fortalecer as iniciativas de economia popular e solidária e a construção de redes produtivas, fundamentadas nos princípios da autogestão, cooperação, sustentabilidade ambiental, participação popular e na valorização das dinâmicas territoriais
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4006
+
+Exercício: 2025
+Programa: 4006
+Título: Economia Popular e Solidária Sustentáveis
+Tipo: Finalístico
+Órgão: 40000.0
+Público-Alvo: Famílias em situação de vulnerabilidade socioeconômica; trabalhadores e trabalhadoras da economia popular e solidária.
+Descrição Do Problema: O modelo hegemônico de desenvolvimento econômico não é capaz de atender e incluir todas as pessoas no mercado de trabalho e de consumo, o que resulta em exclusão, desigualdade social, precarização das relações de trabalho, insegurança alimentar, violência, dentre outros problemas enfrentados em nosso país.
+
+A Economia Popular e Solidária, por sua vez, surge como um outro modelo de desenvolvimento socioeconômico, visando a promoção da justiça social, a superação e redução das desigualdades. Conforme pontuado no 1º Plano de Nacional de Economia Solidária, vigente entre os anos de 2015 a 2019, a economia solidária se mostra como uma alternativa de geração de trabalho e renda, que aglutina princípios de autogestão, cooperação e solidariedade na realização de produção de bens e de serviços, distribuição, consumo e finanças.
+
+Contudo, a Economia Solidária ainda enfrenta diversas dificuldades que impedem a sua expansão e desenvolvimento, dentre as quais destacam-se: ausência de legislação que regula o tema, poucos recursos públicos destinados para ações de Economia Solidária, necessidade de formação para integrantes das iniciativas e pouco conhecimento dos princípios que regem tal política.
+
+Dessa forma, o programa Economia Popular e Solidária Sustentáveis busca mitigar esses problemas e expandir o alcance de tal política pública.
+Causa Do Problema: Limitações para expansão da Economia Solidária: hegemonia do sistema capitalista; falta de qualificação dos integrantes das iniciativas de economia popular e solidária; pouco investimento público; pouco conhecimento dos ganhos e impactos da economia popular e solidária na economia formal brasileira. 
+Ambiente tributário e legal desfavorável à Economia Popular e Solidária: dificuldade de acesso ao crédito e falta de conhecimento técnico em gestão das iniciativas; ausência de espaços públicos para comercialização.
+Evidências Do Problema: De acordo com dados do IBGE, publicados no primeiro trimestre de 2023, o trabalho informal - sem carteira assinada - é a opção de 38,1 milhões dos trabalhadores e trabalhadoras. Somado a isso, o desemprego (taxa de desocupação) afeta 8,8% de brasileiros e brasileiras. O Brasil tem, assim, uma situação em que o desemprego e os trabalhos informais atingem cerca de 47,5% da sua população economicamente ativa. Com a exacerbação das desigualdades sociais decorrente da pandemia e de falta de políticas sociais efetivas, há uma estimativa, conforme dados da CEPAL/ONU, de que o número de pessoas em extrema pobreza na América Latina e Caribe venha a subir dos atuais 67,4 milhões para 90 milhões, devido ao aumento da taxa de desemprego e perda de renda, sendo que, desse número, mais de um terço são brasileiros e brasileiras.
+Justificativa Para A Intervenção: Com a recriação do Ministério do Trabalho e Emprego em 2023, foi também recriada a Secretaria Nacional de Economia Popular e Solidária, que tem entre suas competências a promoção dessa importante política pública. Além disso, a expansão da Economia Solidária é uma resposta efetiva à falta de renda, sendo uma verdadeira estratégia de desenvolvimento, como se lê no 1º Plano Nacional de Economia Solidária (2015 -2019):
+
+“Nos últimos anos, a economia solidária experimentou uma expansão no Brasil, em especial, dentre os segmentos populacionais mais vulneráveis. As iniciativas econômicas solidárias vêm sendo incentivadas como estratégias de dinamização socioeconômica em processos de desenvolvimento local e territorial sustentável, na perspectiva de promover a coesão social, a preservação da diversidade cultural e do meio ambiente.”
+Ainda, cabe destacar que a Constituição Federal de 1988 prevê como fundamento da República os valores sociais do trabalho e da livre iniciativa, sendo essas as fundamentações de atuação do Ministério do Trabalho.
+Evolução Histórica: Em 2013 as políticas públicas de fomento e fortalecimento da economia solidária beneficiaram diretamente 81 mil pessoas em iniciativas de trabalho e renda por meio de 4 mil empreendimentos econômicos solidários, contribuindo com o esforço nacional de superação da pobreza extrema, no âmbito das ações de Inclusão Produtiva Urbana do Brasil Sem Miséria.
+Essas iniciativas também refletem os esforços do Governo Federal na realização dos objetivos estratégicos delineados no PPA 2012 – 2015 que, em seu Objetivo 0982, visava “Fortalecer a institucionalidade da política nacional de economia solidária, a articulação federativa e a integração das políticas de promoção das iniciativas econômicas”. 
+Em 2013 foram divulgados os novos números da economia solidária no Brasil. Desde 2005 já foram identificados 33,5 mil empreendimentos econômicos solidários - EES no Sistema de Informações em Economia Solidária em todas as regiões brasileiras. Além de mapear novos EES, foram realizadas revisitas em EES constantes na base anterior. Ao todo foram identificados mais 11,6 mil novos empreendimentos. Destes, 5,8 (50%) declararam ter iniciado suas atividades após o ano de 2004, o que demonstra que a economia solidária é um fenômeno que apresenta dinamismo social e econômico independentemente do contexto de crise do desemprego e do fenômeno do dessalariamento que caracterizou o período de seu surgimento nas últimas décadas do século passado. 
+Essas políticas sofreram descontinuidade após o impeachment da Presidenta Dilma, em 2016. Agora, com a proposta no PPA 2024-2027, a Senaes pretende retomar essas políticas exitosas visando a geração de trabalho e renda para milhões de trabalhadores e trabalhadoras da Economia Popular Solidária no país.
+Comparações Internacionais: O Estado brasileiro assumiu o compromisso com os Objetivos de Desenvolvimento Sustentável – Agenda 2030, em especial, o ODS 8 de “promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos”, o qual prevê uma meta de reduzir substancialmente a proporção de jovens sem emprego, educação ou formação.
+A Resolução da Organização Internacional do Trabalho – OIT, de 10 de junho de 2022, relativa ao trabalho decente e a economia social e solidária, orienta os Estados-membros a levarem em consideração a contribuição da economia social e solidária à conquista do trabalho decente, à economia inclusiva e sustentável, à justiça social, ao desenvolvimento sustentável e à melhoria na qualidade de vida para todos.
+A recomendação da Organização para a Cooperação e o Desenvolvimento Econômico – OCDE, de 10 junho de 2022, sobre a economia social e solidária e a inovação social, proposta pelo Comitê-Diretor do Emprego e Desenvolvimento Econômico Local, fornece aos Estados um quadro político internacionalmente acordado para fomentar a economia social e o desenvolvimento da inovação social e assegurar a sua contínua expansão.
+A Resolução da Organização das Nações Unidas – ONU, de 27 de março de 2023, para promover a economia social e solidária para o desenvolvimento sustentável, reconhece a função desempenhada pela economia social e solidária na promoção da democracia e da justiça social.
+Relação Com Os Ods: O programa, cuja finalidade é o avanço de um modelo de desenvolvimento sustentável, popular, solidário e democrático, está alinhado aos seguintes Objetivos de Desenvolvimento Sustentável – Agenda 2030: ODS 1 - Erradicação da pobreza, ODS 2 – Fome zero e agricultura sustentável, ODS 4 Educação de Qualidade, ODS 5 – Igualdade de Gênero, ODS 8 – Trabalho decente e crescimento econômico, ODS 10 – Redução das Desigualdades, e ODS 12 - Consumo e produção responsáveis. 
+Com a implementação do Programa, espera-se promover a proteção social e a melhoria na qualidade de vida de trabalhadores e trabalhadoras, a partir da organização coletiva autogestionária, fundamentada na cooperação e na redistribuição, nos princípios comunitários, da participação e educação popular e socioambiental, na construção de redes produtivas e na valorização das dinâmicas territoriais. 
+Programa vinculado à diretriz de Democracia e aos objetivos estratégicos 2.7, 1.9, 1.5, 2.1., 2.3., 2.5., 1.7. e 3.5 (conforme Guia de apoio à elaboração do PPA-2027-2027).
+Agentes Envolvidos: Ministério do Trabalho e Emprego – MTE; 
+Secretaria Geral da Presidência da República – SG/PR; 
+Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS; 
+Ministério do Meio Ambiente e Mudança do Clima - MMA;
+Ministério da Educação - MEC; 
+Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA;
+Ministério da Ciência, Tecnologia e Inovação - MCTIC; 
+Ministério do Desenvolvimento, Indústria, Comércio e Serviços - MDIC; 
+Ministério da Agricultura e Pecuária - MAPA; 
+Ministério da Pesca e Aquicultura - MPA;
+Ministério da Saúde - MS; 
+Ministério da Justiça e Segurança Pública - MJSP; 
+Ministério dos Direitos Humanos e Cidadania - MDHC; 
+Ministério da Igualdade Racial - MIR; 
+Ministério das Mulheres - MM; 
+Ministério dos Povos Indígenas - MPI; 
+Ministério da Gestão e da Inovação em Serviços Públicos - MGI;
+ Ministério da Fazenda – MF;
+Secretaria de Comunicação da Presidência da República – SECOM/PR;
+Escola Nacional de Administração Pública - ENAP;
+Institutos Federais, Centros Federais de Educação Tecnológica e Universidades;
+Instituto Brasileiro de Geografia e Estatística – IBGE;
+Instituto de Pesquisa Econômica Aplicada – IPEA; 
+Banco Nacional de Desenvolvimento Econômico e Social – BNDES; Sistema S.
+Articulação Federativa: A articulação federativa se dará por meio da atuação do Conselho Nacional de Economia Solidária, regulamentado pelo Decreto 5.811, de 21 de janeiro de 2006, que possui em sua composição órgãos federais, secretarias Estaduais de Trabalho e órgãos de apoio à economia solidária de governos estaduais e municipais.
+Enfoque Transversal: O enfoque transversal da Economia Solidária se dá pelo fato de outros ministérios possuírem competências similares para atuação conjunta no tema. Dessa forma há ações transversais com os seguintes parceiros: Secretaria Geral da Presidência da República – SG/PR;  Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS;  Ministério do Meio Ambiente e Mudança do Clima - MMA; Ministério da Educação - MEC;  Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA; Ministério da Ciência, Tecnologia e Inovação - MCTIC; Ministério do Desenvolvimento, Indústria, Comércio e Serviços - MDIC;  Ministério da Agricultura e Pecuária - MAPA;  Ministério da Pesca e Aquicultura - MPA;  Ministério da Saúde - MS;  Ministério da Justiça e Segurança Pública – MJSP;  Ministério dos Direitos Humanos e Cidadania - MDHC;  Ministério da Igualdade Racial - MIR;  Ministério das Mulheres - MM; Ministério dos Povos Indígenas - MPI. 
+Para orientar os trabalhos conjuntos desses órgãos será implementado um Comitê Interministerial presidido pelo Secretário Nacional de Economia Popular e Solidária
+Marco Legal: A Economia Popular e Solidária ainda não é regulamentada por lei. Entretanto, destacamos algumas normas relacionadas: 
+Lei nº 5.764, de 16 de dezembro de 1971 - Define a Política Nacional de Cooperativismo, institui o regime jurídico das sociedades cooperativas, e dá outras providências;
+Lei nº 9.867, de 10 de novembro de 1999 - Dispõe sobre a criação e o funcionamento de Cooperativas Sociais, visando à integração social dos cidadãos, conforme especifica;
+Lei nº 11.101, de 9 de fevereiro de 2005 - Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária;
+Decreto nº 5.811, de 21 de junho de 2006 - Dispõe sobre a composição, estruturação, competência e funcionamento do Conselho Nacional de Economia Solidária - CNES;
+Lei Complementar nº 130, de 17 de abril de 2009 - Dispõe sobre o Sistema Nacional de Crédito Cooperativo e revoga dispositivos das Leis nos 4.595, de 31 de dezembro de 1964, e 5.764, de 16 de dezembro de 1971;
+Decreto nº 7.357, de 17 de novembro de 2010 - Dispõe sobre o Programa Nacional de Incubadoras de Cooperativas Populares - PRONINC, e dá outras providências;
+Decreto nº 7.358, de 17 de novembro de 2010 - Institui o Sistema Nacional do Comércio Justo e Solidário - SCJS, cria sua Comissão Gestora Nacional, e dá outras providências;
+Lei nº 12.690, de 19 de julho de 2012 - Dispõe sobre a organização e o funcionamento das Cooperativas de Trabalho; institui o Programa Nacional de Fomento às Cooperativas de Trabalho - PRONACOOP; e revoga o parágrafo único do art. 442 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943;
+Lei nº 13.928, de 10 de dezembro de 2019 - Institui o Dia Nacional da Economia Solidária;
+Portaria MTE nº 1.780 de 19 de novembro de 2014 – Instituir o Cadastro de Empreendimentos Econômicos Solidários – CADSOL.
+Planos Nacionais, Setoriais E Regionais: 1º Plano de Nacional de Economia Solidária, vigente entre os anos de 2015 a 2019.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

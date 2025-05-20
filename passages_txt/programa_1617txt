@@ -1,0 +1,1078 @@
+passage: Programa Número 1617
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1934
+Indicador: 11248
+Denominação: Área com processo de recuperação ambiental em andamento
+Sigla: RECUP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: ha
+Descrição: O indicador contabiliza a superfície das áreas degradadas em Terras Indígenas que se encontram em processo de recuperação ambiental com o apoio da Funai.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ai: Áreas individuais com processo de recuperação ambiental em andamento
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de Atividades Executadas das Coordenações Regionais e Relatórios de Ações Executadas por instituições parceiras
+Forma De Disponibilização: Relatório de Gestão Anual
+Procedimento De Cálculo: Medição em campo ou por análise de imagens aéreas, e somatório das áreas individuais mensuradas
+Limitações: Serão contabilizadas somente as áreas que estão sendo recuperadas com apoio da Funai.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1887
+Indicador: 11208
+Denominação: Número de brigadas indígenas constituídas
+Sigla: BRIG
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de Brigadas Indígenas e Grupos de Queima Prescrita (GPI) constituídos a cada ano.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: 30/11, 30/04
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de brigadas indígenas constituídas
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos e Centro de Monitoramento Remoto - CMR
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador não abrange a informação de quais foram as terras indígenas em que cada brigada ou GPI atuou.
+Notas Explicativas: As brigadas contempladas neste indicador são:
+(i) as Brigadas Indígenas constituídas para combate a incêndio no período de estiagem, remuneradas pelo Ibama, cuja logística para operação depende da Funai; e
+(ii) os Grupos de Queima Prescrita (GPI) constituídos para a prevenção de incêndios fora do período de estiagem, formados e operacionalizados pela Funai, com apoio do Ibama.
+
+Cada brigada ou GPI a ser constituída será composta por cerca de 20 brigadistas.
+
+Cada brigada ou GPI poderá realizar mais de uma ação ao ano. A cada novo ano, uma mesma brigada ou GPI, sendo constituída para realizar ações, será contabilizada novamente.
+
+Considerando que cada Brigada ou GPI atua em uma ou mais terras indígenas no período da sua mobilização, serão calculadas também quantas terras indígenas foram protegidas, para a construção do relatório qualitativo que permitirá apontar a medida de esforço da atuação da Funai na proteção territorial e garantia da posse plena e do usufruto exclusivo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1917
+Indicador: 11231
+Denominação: Número de eventos realizados
+Sigla: FSBIOECO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de eventos de formação em sociobioeconomia indígena. As temáticas da sociobioeconomia indígena envolvem agroecologia, sistemas agroflorestais, etnodesenvolvimento, educação etnoambiental, saúde ambiental, entre outros.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eventos realizados
+Fonte De Dados Das Variáveis De Cálculo: Relatório de projeto no Limesurvey
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: As temáticas da sociobioeconomia indígena envolvem agroecologia, sistemas agroflorestais, etnodesenvolvimento, educação etnoambiental, saúde ambiental, entre outros.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1929
+Indicador: 11243
+Denominação: Número de feiras apoiadas
+Sigla: FEIRAS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de feiras de artes, artesanatos e outros produtos da sociobiodiversidade indígenas que receberam apoio do MPI.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: 31/01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de feiras apoiadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de monitoramento das ações do MPI
+Forma De Disponibilização: Relatório de monitoramento das ações do MPI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador não contabiliza feiras realizadas sem o apoio do MPI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1915
+Indicador: 11229
+Denominação: Número de IGATIs elaborados ou revisados
+Sigla: IGATI-ER
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de instrumentos de gestão ambiental e territorial de terras indígenas (IGATIs) que têm sua elaboração ou revisão apoiada pelo MPI ou pela Funai.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de IGATIs elaborados ou revisados
+Fonte De Dados Das Variáveis De Cálculo: Planilha de Monitoramento de IGATIs
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Relatório Executivo
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador só contabiliza IGATIs cuja elaboração ou revisão seja apoiada, seja pelo MPI ou pela Funai.
+Notas Explicativas: IGATI é um termo que designa instrumentos de diferentes tipos, definidos no âmbito do CG-PNGATI. Os principais tipos de IGATI são diagnósticos, etnomapeamentos, etnozoneamentos, planos de gestão, planos de vida, bem como instrumentos para a gestão integrada e compartilhada de Terras Indígenas e outras áreas protegidas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1896
+Indicador: 11218
+Denominação: Número de indígenas formados
+Sigla: FFPE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de colaboradores indígenas das Frentes de Proteção Etnoambiental formados a cada ano.
+Período Ou Data A Que Se Refere: ano civil
+Data De Divulgação/Disponibilização: 31/01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de indígenas formados
+Fonte De Dados Das Variáveis De Cálculo: Sistema de monitoramento das ações do MPI
+Forma De Disponibilização: Relatório de monitoramento das ações do MPI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: Planeja-se a realização dos eventos de formação a fim de capacitar 12 colaboradores indígenas por ano para cada Frente de Proteção Etnoambiental, totalizando 132 colaboradores indígenas formados por ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1890
+Indicador: 11212
+Denominação: Número de indígenas formados
+Sigla: FPPT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de indígenas formados no âmbito do Programa de Proteção Territorial.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: 30/11, 30/04
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de indígenas formados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos e Centro de Monitoramento Remoto - CMR
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador não capta a efetividade da formação do indivíduo em uma relação direta com a proteção da terra indígena.
+Notas Explicativas: Considerando que cada curso forma cerca de 20 indivíduos, e que cada um tem seu domicílio em terras indígenas, será possível quantificar quais e quantas foram as terras abrangidas pelo programa e utilizar essa informação na elaboração do relatório qualitativo que permitirá apontar a medida de esforço da atuação da Funai na proteção territorial e garantia da posse plena e do usufruto exclusivo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1916
+Indicador: 11230
+Denominação: Número de indígenas formados
+Sigla: FGATICLIMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de indígenas que participaram de eventos formativos em gestão territorial e ambiental e para o enfrentamento da emergência climática. Os eventos formativos podem ser cursos (presenciais ou EAD), oficinas, intercâmbios, etc.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de indígenas formados
+Fonte De Dados Das Variáveis De Cálculo: Relação de participantes em eventos formativos
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Relatório Executivo
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador só contabiliza os indígenas participantes em eventos formativos apoiados.
+Notas Explicativas: Os eventos formativos podem ser cursos (presenciais ou EAD), oficinas, intercâmbios, etc.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1926
+Indicador: 11240
+Denominação: Número de iniciativas apoiadas
+Sigla: PROMOCERT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de iniciativas de promoção, marketing e certificação de produtos indígenas apoiadas pela Funai.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de iniciativas apoiadas
+Fonte De Dados Das Variáveis De Cálculo: Dados extraídos do Limesurvey
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1933
+Indicador: 11246
+Denominação: Número de iniciativas em implementação
+Sigla: MANMONIT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de iniciativas de manejo e monitoramento participativo da biodiversidade em implementação com o apoio da Funai.
+Período Ou Data A Que Se Refere: ano civil
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de iniciativas em implementação
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de Atividades Executadas das Coordenações Regionais e Relatórios de Ações Executadas por instituições parceiras
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Relatório Executivo
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador só contabiliza as iniciativas apoiadas pela Funai.
+Notas Explicativas: Parte da meta é de responsabilidade da Funai/DPDS/CGGAM e outra parte da meta é de responsabilidade da Funai/DPDS/CGETNO.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 2106
+Indicador: 11459
+Denominação: Número de mecanismos criados
+Sigla: ARTES
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de mecanismos criados para a divulgação do artesanato indígena, com enfoque na geração de renda.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de mecanismos criados
+Fonte De Dados Das Variáveis De Cálculo: Dados extraídos do Limesurvey e processos do SEI
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1889
+Indicador: 11209
+Denominação: Número de ocupações de não-indígenas indenizadas
+Sigla: IND
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de ocupações de não-indígenas indenizadas pelas benfeitorias consideradas de boa-fé.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de ocupações de não-indígenas indenizadas
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos e Sistema Indigenista de Informações-SII
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: A indenização de ocupações não indígenas de boa-fé não garante que a terra indígena não será invadida por terceiros não contemplados no processo de demarcação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1923
+Indicador: 11237
+Denominação: Número de oficinas realizadas
+Sigla: ACMERC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de oficinas realizadas visando a qualificação de indígenas para o acesso ao PAA, ao PNAE e à PGPMBIO.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de oficinas realizadas
+Fonte De Dados Das Variáveis De Cálculo: Dados extraídos do Limesurvey e processos no SEI
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 2829
+Indicador: 12196
+Denominação: Número de oitivas realizadas
+Sigla: OIT
+Índice De Referência: 20.0
+Em Apuração: Não
+Data De Apuração: 2023-07-18 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de oitivas realizadas em comunidades indígenas durante processos de licenciamento ambiental.
+Período Ou Data A Que Se Refere: ano civil
+Data De Divulgação/Disponibilização: 31.01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de oitivas realizadas
+Fonte De Dados Das Variáveis De Cálculo: Processos no Sistema Eletrônico de Informações – SEI
+Forma De Disponibilização: Painel Power BI e Relatório de Monitoramento da Política - RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador só computa a realização do evento da oitiva, conforme previsto na IN Funai nº 02/2015. Ele não afere a efetividade da política e nem a satisfação do público-alvo.
+Notas Explicativas: O índice de referência de 20 oitivas no ano, entre julho de 2022 e junho de 2023, se deu em período atípico. Ademais, o indicador anterior era o número de manifestações conclusivas, com meta de 100 ao ano. O indicador ora proposto é um pouco diferente, e faz referência ao ano civil (janeiro a dezembro), em vez do período entre julho e junho.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1903
+Indicador: 11210
+Denominação: Número de operações de desintrusão realizadas
+Sigla: DESINT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de operações de desintrusão realizadas, em parceria com o MJSP, MD e MS.
+Período Ou Data A Que Se Refere: ano civil
+Data De Divulgação/Disponibilização: 31/01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de operações de desintrusão realizadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de monitoramento das ações do MPI
+Forma De Disponibilização: Relatório de monitoramento das ações do MPI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1927
+Indicador: 11241
+Denominação: Número de organizações indígenas beneficiadas
+Sigla: ORGFORT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de entidades indígenas gestoras de iniciativas econômicas comunitárias e redes de organizações produtivas indígenas beneficiadas por iniciativas de fortalecimento e articulação por parte da Funai.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de organizações indígenas beneficiadas
+Fonte De Dados Das Variáveis De Cálculo: Dados extraídos do Limesurvey
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: As redes e entidades apoiadas podem ser formais ou informais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1895
+Indicador: 11215
+Denominação: Número de planos de proteção elaborados
+Sigla: PLANISO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de planos elaborados para a proteção de áreas com presença de povos indígenas isolados.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de planos de proteção elaborados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de Monitoramento Trimestral – RMT
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: São realizadas atividades de proteção de povos indígenas isolados para além do contemplado nos Planos de Proteção, e que não aparecem na apuração do indicador.
+Notas Explicativas: Os planos de proteção constituem uma referência para a execução da política pública de proteção dos povos indígenas isolados. São projetos-piloto que não abarcam todos os 28 registros de povos indígenas confirmados que se encontram no escopo atual de atuação da GIIRC/Funai.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1925
+Indicador: 11239
+Denominação: Número de planos em implementação
+Sigla: VISITUR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de planos de visitação em implementação.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de planos em implementação
+Fonte De Dados Das Variáveis De Cálculo: Dados extraídos do Limesurvey e processos no SEI
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Entrega: 1878
+Indicador: 11191
+Denominação: Número de portarias declaratórias
+Sigla: DECL
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de portarias declaratórias editadas e publicadas, declarando os limites e determinando sua demarcação física das terras indígenas de ocupação tradicional.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de portarias declaratórias
+Fonte De Dados Das Variáveis De Cálculo: Relatório Interno e Sistema Indigenista de Informações - SII
+Forma De Disponibilização: Relatório de Monitoramento Trimestral - RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: Mesmo com a emissão da portaria declaratória, em muitos casos, não se efetiva imediatamente o direito das comunidades indígenas ao usufruto exclusivo de suas terras, tendo em vista que há uma série de outras etapas do processo demarcatório a serem cumpridas, notadamente a extrusão dos ocupantes não indígenas, até que os indígenas tenham a posse plena de suas terras de ocupação tradicional. Por conseguinte, não se garante que essas comunidades usufrutuárias sairão de uma eventual situação de vulnerabilidade, tampouco que as demais políticas governamentais irão alcançá-las.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1891
+Indicador: 11213
+Denominação: Número de portarias de restrição de uso publicadas
+Sigla: PRU
+Índice De Referência: 6.0
+Em Apuração: Não
+Data De Apuração: 2023-07-20 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de publicações, com entrada em vigência, de portarias de restrição do uso de áreas com presença de povos indígenas isolados.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de áreas com restrição de uso
+Fonte De Dados Das Variáveis De Cálculo: Diário Oficial da União – DOU
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: Trata-se de portarias publicadas pela presidência da Funai, delimitando áreas e restringindo atividades econômicas, visando expedições em campo para a comprovação da presença de povos indígenas isolados e a qualificação do uso pelos indígenas, a fim de subsidiar o processo de regularização. A partir do princípio da precaução e poder de polícia administrativo da Funai, diante da vulnerabilidade de povo indígena isolado ainda não confirmado, faz-se necessária a publicação de Portaria de Restrição de Uso. Uma vez confirmada a presença do povo indígena isolado e feitos os estudos que resultam no Processo de Regularização Fundiária, a Portaria de Restrição de Uso deixa de existir, na medida em que se avance nas etapas do processo demarcatório. Em casos extremos, quando após anos de trabalhos ininterrupto de campo não há confirmação da presença de povo indígena, a Portaria de Restrição de Uso perde seu objeto.
+
+A previsão é que seja publicada uma nova portaria de restrição de uso por ano. Duas portarias serão renovadas em 2025, pois terão o período de vigência expirado. Portanto, essas duas a serem renovadas não serão contabilizadas ao final do período do PPA.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1900
+Indicador: 11220
+Denominação: Número de programas vigentes para povos de recente contato
+Sigla: PDPRC
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-07-28 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de programas específicos criados, visando a promoção e a proteção dos direitos dos povos indígenas de recente contato.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de programas vigentes para povos de recente contato
+Fonte De Dados Das Variáveis De Cálculo: Boletim de Serviço da Funai (Portarias da Presidência da Funai instituindo programas para a proteção de povos indígenas de recente contato)
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: São realizadas atividades de proteção de povos indígenas de recente contato para além do contemplado nos programas criados, e que não aparecem na apuração do indicador.
+Notas Explicativas: A instituição de programas específicos de promoção e proteção dos direitos dos povos indígenas de recente contato, por portarias da Presidência da Funai, e disponibilizando orçamento próprio, visa maior articulação de ações junto a esses povos, respeitando suas especificidades. No entanto, a CGIIRC/DPT/Funai, em parceria com coordenações da DPDS/Funai, realiza atividades de promoção de direitos dos povos de recente contato independentemente da instituição de programas específicos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1922
+Indicador: 11236
+Denominação: Número de projetos apoiados
+Sigla: INFRAESCO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de projetos de infraestrutura de escoamento da produção indígena apoiados pela Funai.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de projetos apoiados
+Fonte De Dados Das Variáveis De Cálculo: Relatório de projeto no Limesurvey
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1919
+Indicador: 11233
+Denominação: Número de projetos em implementação
+Sigla: AGROECO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de projetos de transição agroecológica ou produção sustentável em territórios indígenas que estão em implementação com o apoio da Funai.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de projetos em implementação
+Fonte De Dados Das Variáveis De Cálculo: Banco de Dados da CGETNO e Formulário de Projeto no Limesurvey
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: São projetos voltados em especial a territórios onde se encontram sistemas produtivos agropecuários.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1893
+Indicador: 11214
+Denominação: Número de registros a qualificar
+Sigla: PIQUALIREF
+Índice De Referência: 86.0
+Em Apuração: Não
+Data De Apuração: 2023-07-20 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de referências da presença de povos isolados cujos registros na Funai ainda estão pendentes de qualificação. A qualificação dos registros são trabalhos sistematizados, envolvendo visitas de campo e expedições que comprovam a presença de povos isolados no território em questão.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Número de registros a qualificar
+Número de Registros qualificados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de Monitoramento Trimestral – RMT
+Relatórios de Localização e Qualificação
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: Atualmente, há no Brasil cerca de 114 registros da presença de índios isolados, a maioria na Amazônia Legal. Esses números podem variar conforme a evolução dos trabalhos indigenistas em curso realizados pela Funai. Entre esses 114 registros, existem:
+
+i) os "povos indígenas isolados", com os quais a Funai desenvolve trabalhos sistemáticos visando o monitoramento do uso do território e a proteção territorial;
+
+ii) as "referências de povos indígenas isolados", que são registros de fortes evidências da existência de determinado grupo indígena isolado, que se encontram devidamente inseridos e qualificados no banco de dados da Funai, porém não tendo havido um trabalho sistematizado por parte da Coordenação-Geral de Índios Isolados da Funai que possa comprovar a existência de grupos isolados;
+
+iii) as "informações de índios isolados", que são informações sobre a existência de índios isolados, que se encontram devidamente registradas no banco de dados da Funai, tendo passado por um processo de triagem, mas que ainda não passaram por um estudo de qualificação.
+
+Esta entrega consiste na realização de trabalhos sistematizados, envolvendo visitas de campo e expedições, para a qualificação das referências de povos indígenas isolados. Atualmente, a categoria “povos indígenas isolados” totaliza 28 registros. Já as categorias “referências de povos indígenas isolados” e “informações de índios isolados”, ainda sem qualificação completa, totalizam 86 registros.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Entrega: 1880
+Indicador: 11186
+Denominação: Número de reservas indígenas constituídas
+Sigla: RI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de reservas indígenas constituídas.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de reservas indígenas constituídas
+Fonte De Dados Das Variáveis De Cálculo: Relatório interno e Sistema Indigenista de Informações – SII
+Forma De Disponibilização: Relatório de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1899
+Indicador: 11219
+Denominação: Número de servidores capacitados
+Sigla: CAPCONT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de servidores capacitados para o atendimento aos Planos de Contingência para Situações de Contato
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N: Número de servidores capacitados em cada atividade de capacitação
+T: Total de atividade de capacitação
+Fonte De Dados Das Variáveis De Cálculo: Documentos oriundos das capacitações
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: As atividades de capacitação só serão executadas se houver condução conjunta com a SESAI/MS, visto que um dos objetivos da formação é a qualificação em procedimentos sanitários e de contenção epidemiológica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Entrega: 1920
+Indicador: 11234
+Denominação: Número de tecnologias sociais em implementação
+Sigla: TECSOC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de iniciativas de tecnologias sociais em terras indígenas em implementação com o apoio da Funai.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/07 e 31/10
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de tecnologias sociais em implementação
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados CGETNO e Relatório de projeto no Limesurvey
+Forma De Disponibilização: Relatório Trimestral de Monitoramento e Painel Power BI
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: As tecnologias sociais consistem em bancos de sementes, viveiros comunitários, sistemas agroflorestais, quintais produtivos, sistemas de produção integrada, entre outras.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Entrega: 1876
+Indicador: 11184
+Denominação: Número de terras indígenas delimitadas
+Sigla: DELIM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de terras indígenas com ocupação tradicional que tiveram seus estudos apresentados no Relatório Circunstanciado de Identificação e Delimitação (RCID) aprovados pela Funai.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de terras indígenas delimitadas
+Fonte De Dados Das Variáveis De Cálculo: Relatório interno e Sistema Indigenista de Informações - SII
+Forma De Disponibilização: Relatório de Monitoramento Trimestral - RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: Mesmo com a delimitação de terras indígenas, em muitos casos, não se efetiva imediatamente o direito das comunidades indígenas às suas terras, bem como não se garante que essas comunidades usufrutuárias sairão de uma eventual situação de vulnerabilidade, tampouco que as demais políticas governamentais irão alcançá-las, uma vez que o procedimento demarcatório de terras indígenas tem outras etapas administrativas a serem cumpridas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Entrega: 1885
+Indicador: 11196
+Denominação: Número de terras indígenas fiscalizadas
+Sigla: FISC
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de terras indígenas fiscalizadas.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de terras indígenas fiscalizadas
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos e Centro de Monitoramento Remoto - CMR
+Forma De Disponibilização: Relatórios de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: Os esforços empreendidos em cada terra indígena, inclusive nas mais críticas (que em geral recebem várias ações de fiscalização ao ano), serão computadas somente uma vez por ano. Ademais, há variação entre ações de curto e médio prazos, além de operações permanentes.
+Notas Explicativas: Considerando que em uma terra indígena pode ocorrer mais de uma ação de fiscalização, iremos também calcular quantas foram realizadas em cada terra, para a construção do relatório qualitativo que permitirá apontar a medida de esforço da atuação da Funai na proteção territorial e garantia da posse plena e do usufruto exclusivo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Entrega: 1879
+Indicador: 11188
+Denominação: Número de terras indígenas georreferenciadas
+Sigla: GEO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de terras indígenas georreferenciadas e demarcadas fisicamente.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de terras indígenas georreferenciadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema Indigenista de Informações - SII
+Forma De Disponibilização: Relatório de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: Existem terras indígenas com portaria declaratória prontas para serem georreferenciadas e demarcadas fisicamente, mas que têm essa entrega dificultada ou impedida devido à ocorrência de conflitos agrários ou judicialização. A entrega fica condicionada à resolução do conflito ou decisão judicial definitiva.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Entrega: 1883
+Indicador: 11192
+Denominação: Número de terras indígenas registradas
+Sigla: REG
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de terras indígenas registradas em cartório de imóveis.
+Período Ou Data A Que Se Refere: 31/03, 30/06, 30/09, 31/12
+Data De Divulgação/Disponibilização: 30/04, 31/07, 31/10, 31/01
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de terras indígenas registradas
+Fonte De Dados Das Variáveis De Cálculo: Relatório interno e Sistema Indigenista de Informações – SII
+Forma De Disponibilização: Relatório de Monitoramento Trimestral – RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Notas Explicativas: O registro da terra indígena confirma o domínio do imóvel em nome da União e o usufruto do povo indígena destinatário pelo qual a terra indígena foi demarcada.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1617
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Indicador: 11182
+Denominação: Índice de Regularização Fundiária de Terras Indígenas
+Sigla: IRFTI
+Índice De Referência: 67.38
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: O indicador contabiliza, para as terras indígenas de ocupação tradicional já confirmadas no Brasil, o percentual das etapas do processo demarcatório que já foram concluídas. 
+
+As metas regionalizadas são a contribuição percentual em cada região para o aumento do índice nacional, a partir das ações regionalizadas de regularização fundiária.
+Período Ou Data A Que Se Refere: 31/12, 31/03, 30/06 e 30/09
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/08 e 30/11
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: T: Número total de terras indígenas no Brasil (771)
+N: Número total de etapas do processo de regularização fundiária (7)
+i: Etapa (1: qualificação, 2: constituição de GT, 3: delimitação, 4: declaração, 5: georreferenciamento, 6: homologação; 7: registro; 8: processo completo)
+i-1: Peso de cada etapa, dado pelo número de etapas previamente concluídas no processo de regularização fundiária da terra indígena
+t(i): Número de terras indígenas em cada etapa do processo de regularização fundiária
+Fonte De Dados Das Variáveis De Cálculo: Sistema Indigenista de Informação - SII
+Forma De Disponibilização: Relatório de Monitoramento Trimestral - RMT
+Procedimento De Cálculo: Cálculo feito automaticamente a partir da atualização do banco de dados existente no Sistema Indigenista de Informação - SII
+Limitações: O índice não informa sobre a criação de Reservas Indígenas, que será indicado na entrega referente ao tema. Também não informa sobre as terras em reivindicação e ainda não confirmadas.
+Notas Explicativas: O processo de regularização fundiária de terras indígenas divide-se em 7 etapas (N = 7): qualificação, constituição de GT, delimitação, declaração, georreferenciamento, homologação e registro. Cada etapa tem seu cumprimento marcado pela publicação de um ato administrativo e/ou procedimento técnico. O peso de cada etapa (i-1) é dado pelo número de etapas previamente concluídas no processo de regularização fundiária, de modo que é igual a 0 para terras indígenas na etapa de qualificação, igual a 1 para terras indígenas na etapa de constituição de GT, igual a 2 para terras indígenas na etapa de delimitação, igual a 3 para terras indígenas na etapa de declaração, igual a 4 para terras indígenas na etapa de georreferenciamento, igual a 5 para terras indígenas na etapa de homologação, igual a 6 para terras indígenas na etapa de registro e igual a 7 para terras indígenas que já passaram por todas etapas.
+
+O número total atual de terras indígenas é 771 (T = 771), que ficará fixo no denominador, servindo de balizador da previsão de atos administrativo e/ou procedimentos técnicos a serem realizados no período de 4 anos.
+
+A cada ato administrativo e/ou procedimento técnico que altere a etapa de uma terra indígena dentro do processo de regularização fundiária, esta irá migrar de uma etapa para a etapa seguinte, diminuindo em uma unidade o quantitativo de terras indígenas na etapa anterior e acrescendo uma unidade no quantitativo de terras indígenas na etapa para a qual migrou.
+
+O índice ainda será ajustado a partir de uma análise mais pormenorizada, na qual serão identificadas terras indígenas em revisão que estejam sendo contabilizadas em duplicidade.
+
+As metas regionalizadas são a contribuição percentual em cada região para o aumento do índice nacional, a partir das ações regionalizadas de regularização fundiária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Indicador: 11193
+Denominação: Número de terras indígenas atendidas com ações de proteção, posse plena e usufruto exclusivo
+Sigla: PROT
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de terras indígenas atendidas anualmente com pelo menos um dos seguintes tipos de ação de proteção, posse plena e usufruto exclusivo:
+a) fiscalização, 
+b) constituição de brigadas indígenas, 
+c) pagamento de indenização de ocupações não indígenas, 
+d) desintrusão, 
+e) interdição (restrição de uso) de áreas com presença de povos isolados, 
+f) localização de povos indígenas isolados e qualificação de registros não confirmados, 
+g) execução de planos para a proteção de áreas com presença de povos indígenas isolados e/ou 
+h) implementação de programas específicos de promoção e proteção dos direitos dos povos indígenas de recente contato.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: 31/01, 30/04, 31/08 e 30/11
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de terras indígenas atendidas com ações de proteção, posse plena e usufruto exclusivo
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos
+Forma De Disponibilização: Relatório de Monitoramento Trimestral - RMT
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador contabiliza as ações por terra indígena atendida, portanto, não contabiliza as ações de formação de servidores e indígenas, nem as brigadas constituídas. Além disso, não contabiliza todas as ações realizadas na mesma terra indígena dentro do mesmo ano.
+Notas Explicativas: Considerando que uma terra indígena pode ser atendida por mais de uma ação, iremos calcular quantas vezes cada terra indígena tiver sido atendida por pelo menos uma ação dentro de um ano. Isso indicará uma medida de esforço da atuação da Funai quanto à proteção territorial e à garantia da posse plena e do usufruto exclusivo.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Indicador: 11222
+Denominação: Número iniciativas de Gestão Territorial e Ambiental e da sociobioeconomia em implementação
+Sigla: IGATI-I
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de iniciativas de Gestão Territorial e Ambiental e da sociobioeconomia que têm sua implementação apoiada pela Funai e MPI
+Período Ou Data A Que Se Refere: 31/12 e 30/06
+Data De Divulgação/Disponibilização: 31/01 e 31/07
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de IGATIs com a implementação apoiada
+Fonte De Dados Das Variáveis De Cálculo: Planilha de Monitoramento de IGATIs em Implementação
+Forma De Disponibilização: Relatório de Monitoramento Trimestral e Relatório Executivo
+Procedimento De Cálculo: Contagem simples a partir de consulta à fonte de dados
+Limitações: O indicador só contabiliza IGATIs em implementação e com implementação apoiada pela Funai, não informando sobre os resultados. O indicador não retrata de maneira exaustiva todas as iniciativas de gestão ambiental e territorial.
+Notas Explicativas: IGATI é um termo que designa instrumentos de diferentes tipos, a serem definidos no âmbito do CG-PNGATI. Os principais tipos de IGATI são diagnósticos participativos, etnomapeamentos, etnozoneamentos, planos de gestão, planos de vida, bem como instrumentos para a gestão integrada e compartilhada de Terras Indígenas e outras áreas protegidas. A Funai apoia tanto a elaboração quanto a implementação de IGATIs. Neste indicador, só estão sendo considerados os IGATIs que têm a sua implementação apoiada.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1617
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 168
+Enunciado: Garantir aos povos indígenas o direito às suas terras
+Descrição: Este objetivo específico busca cumprir o dever da União previsto no artigo 231 da Constituição Federal que se refere ao reconhecimento dos direitos dos povos originários sobre as terras que tradicionalmente ocupam. O processo completo de regularização fundiária das terras indígenas envolve sete etapas: qualificação, constituição de GT, delimitação, declaração, georreferenciamento, homologação e registro.
+Órgão: 84000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 513
+Enunciado: Assegurar aos povos indígenas a proteção, posse plena e usufruto exclusivo de seus territórios
+Descrição: Este objetivo específico busca cumprir o dever da União previsto no artigo 231 da Constituição Federal que se refere à proteção das terras indígenas e à garantia aos povos originários que tradicionalmente as ocupam da sua posse plena e usufruto exclusivo.
+Órgão: 84000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Objetivo Específico: 514
+Enunciado: Promover a gestão territorial e ambiental de territórios indígenas e a sustentabilidade da sociobioeconomia indígena
+Descrição: Este objetivo específico visa promover a elaboração, revisão e implementação de instrumentos de gestão ambiental e territorial de terras indígenas (IGATIs), bem como apoiar projetos e outras iniciativas que promovam a sustentabilidade da sociobioeconomia indígena.
+Órgão: 84000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 1617
+
+Exercício: 2025
+Programa: 1617
+Objetivo: 1305
+Enunciado: Garantir aos povos indígenas o reconhecimento, a posse plena e a sustentabilidade dos seus territórios com usufruto exclusivo, assegurando plenas condições materiais de alcance do bem viver, a integridade do patrimônio indígena, o ambiente saudável, protegido e conservado, soberania alimentar, bem como justiça socioambiental e climática, respeitando sua autodeterminação, sua pluralidade étnico-cultural e seu protagonismo na gestão das políticas públicas que lhes são afetas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1617
+
+Exercício: 2025
+Programa: 1617
+Título: Demarcação e Gestão dos Territórios Indígenas para o Bem Viver, a Sustentabilidade e o Enfrentamento da Emergência Climática
+Tipo: Finalístico
+Órgão: 84000.0
+Público-Alvo: Povos indígenas no Brasil
+Descrição Do Problema: O problema que este programa visa resolver é o da falta de condições para o bem viver indígena do ponto de vista do território. Uma dessas condições é a terra, cuja posse e usufruto exclusivo precisam estar plenamente assegurados aos povos indígenas. Outra condição fundamental para o bem viver é que o território tenha suas riquezas naturais devidamente protegidas, conservadas e, quando é o caso, recuperadas, assegurando-se um ambiente saudável e adequado às atividades econômicas e culturais. Esse macroproblema desdobra-se, portanto, em três problemas específicos: a falta do reconhecimento das terras tradicionalmente ocupadas por populações indígenas, as ameaças que os povos e territórios indígenas sofrem e a falta de condições ambientais adequadas.
+Causa Do Problema: Os povos indígenas, em sua grande maioria, enfrentam uma acelerada e complexa transformação socioeconômica, necessitando buscar novas respostas para assegurar a sua sobrevivência física e cultural e o bem viver das gerações presentes e futuras. O histórico de interferências externas causadoras de impacto nos modos e sistemas de vida dos povos indígenas vem desde o processo de colonização até as atuais pressões e invasões por madeireiros, garimpeiros e fazendeiros em territórios indígenas. As ações destrutivas desses invasores incluem desterritorialização, queimadas, desmatamento, contaminação da terra e das águas, exaurimento dos recursos naturais, perda de biodiversidade e outras formas de degradação ambiental. Além disso, as interferências culturais ocasionadas pelo processo de contato com a sociedade envolvente trazem hábitos de consumo que antes não faziam parte da realidade dos povos indígenas. Em decorrência disso, surge a necessidade de obtenção de renda pelas famílias indígenas para a aquisição de bens de consumo e serviços produzidos fora de seus territórios. O conjunto dessas interferências históricas ocasionaram e ainda ocasionam o êxodo de famílias indígenas de seus territórios e graves impactos não só no meio ambiente de territórios indígenas, mas também nas dinâmicas socioeconômicas e sistemas agroalimentares de comunidades indígenas, gerando dependência da aquisição de bens de consumo externos, vulnerabilidade, perda de soberania alimentar, insegurança alimentar e nutricional, bem como problemas de saúde causados por contaminação. Para além dos impactos nos modos de vida e nos sistemas agroalimentares indígenas, a cobiça por recursos naturais em territórios indígenas gera conflitos, mortes e insegurança em grande parte da população indígena, impedindo-a de ter paz e liberdade.
+Em suma, o problema que este programa pretende enfrentar tem origem nas seguintes causas:
+•	Pressão pelo uso dos recursos naturais dos territórios indígenas, presentes nos solos, subsolos, águas, fauna e flora;
+•	Pressão sobre o território e sobre as riquezas naturais provocadas a partir da instalação de empreendimentos e atividades no entorno das terras indígenas, ou dentro delas;
+•	Interesse no acesso ao patrimônio genético da sociobiodiversidade indígena e ao conhecimento tradicional associado aos seus usos;
+•	Passivos ambientais decorrentes de esbulhos territoriais anteriores à regularização fundiária de Terras Indígenas;
+•	Aumento da geração de resíduos sólidos nas aldeias em decorrência do consumo de bens industrializados, sem que haja gerenciamento e destinação adequados;
+•	Crescimento demográfico nas aldeias e comunidades indígenas e falta de infraestrutura sanitária;
+•	Baixo acesso a conhecimentos, insumos e técnicas produtivas adequadas e sustentáveis para o contexto de confinamento territorial, adensamento demográfico e de crescente sedentarização das comunidades indígenas;
+•	Desvalorização dos conhecimentos tradicionais e práticas em relação ao uso e manejo das riquezas naturais; e
+•	Eventos extremos decorrentes do aquecimento global e da crise climática.
+Evidências Do Problema: As evidências do problema estão amplamente documentadas em estudos acadêmicos, matérias da imprensa, livros, documentários, assim como em relatórios governamentais, intergovernamentais e não-governamentais.
+O bem viver dos povos indígenas depende muito das condições presentes em seus territórios e de sua autonomia para se relacionar com o ambiente no território ao qual pertencem. Considerando a relação dos povos indígenas com seus territórios, uma das medidas indispensáveis para o seu bem viver é a demarcação das terras que tradicionalmente ocupam. Atualmente, os registros da Funai contabilizam 792 áreas, das quais 442 são Terras Indígenas cujos processos de demarcação se encontram homologados/regularizados, 73 são Terras Indígenas declaradas de posse permanente da(s) comunidade(s) indígena(s), 44 são território indígenas delimitadas e outras 133 são áreas em estudo. Há ainda 22 Reservas Indígenas regularizadas e 67 em processo de regularização, além de 11 Áreas Dominiais.
+A posse plena de seus territórios é fundamental para assegurar a autonomia dos povos indígenas. No entanto, para além da política de garantia dos direitos territoriais, são necessárias políticas públicas que promovam a gestão desses territórios, haja vista os impactos causados pelo histórico de interferências externas e adaptações no modo de vida dos povos indígenas.
+As evidências de perda de qualidade ambiental das Terras Indígenas podem ser aferidas por meio de fontes e metodologias diversas e complementares, como dados oficiais de monitoramento por satélite, a análise de contexto socioambiental e fundiário mediante técnicas de geoprocessamento e pesquisa, a realização de vistorias in loco e de diagnósticos etnoambientais e inventários botânicos e de fauna, o registro de imagens aéreas por drones, o acompanhamento de processos e ações judiciais relacionados a passivos ambientais, a consulta a dados secundários demográficos e socioeconômicos, bem como a instrumentos de gestão ambiental e territorial de terras indígenas (etnomapeamentos, diagnósticos participativos, etnozoneamentos, PGTAs, Planos de Vida, etc.), RCIDs, ECIs de EIAs, RIMAs, entre outros estudos e relatórios.
+Nesse contexto, os dados produzidos pelo Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite (Prodes), do Instituto Nacional de Pesquisas Espaciais (INPE), revelam, nos últimos anos, um desmatamento recorde na Amazônia Legal: entre agosto de 2018 e julho de 2019, foram desmatados 10.895 km², um aumento de 35% em comparação com o ano anterior. A tendência de elevação nos índices de desmatamento foi mantida nos anos subsequentes, os quais apresentaram, respectivamente, 10.500 km² (entre agosto de 2019 e julho de 2020), 12.416 km² (entre agosto de 2020 e julho de 2021) e 12.203 km² (entre agosto de 2021 e julho de 2022).
+O aumento do desmatamento no último quadriênio foi também observado nas Terras Indígenas. Segundo dados do Prodes/Inpe, entre agosto de 2018 e julho de 2019, foram desmatados 458,97 km² em TIs, um acréscimo de 44% em relação ao período anterior. Em que pese a tendência de queda nos períodos subsequentes, os dados seguiram elevados. Entre agosto de 2019 e julho de 2022, foram desmatados cerca de um milhão de hectares de florestas em Terras Indígenas localizadas na Amazônia Legal.
+Os dados mantêm a tendência nas demais regiões do país e impactam de forma generalizada também os aspectos culturais dos indígenas brasileiros.  A diminuição da população de fauna nativa, o assoreamento de rios, o desmatamento e as queimadas e as pressões socioculturais geradas pela ocupação desordenada e o consequente confinamento desses povos resultam na diminuição e mesmo no exaurimento das riquezas naturais necessárias para a sua reprodução física e cultural.
+Entre os povos mais impactados pela pressão em suas terras, estão os povos indígenas isolados. Segundo consta nas diretrizes da Funai, são considerados "isolados" os grupos indígenas que não estabeleceram contato permanente com a população nacional, diferenciando-se dos povos indígenas que mantêm contato antigo e intenso com não-indígenas.
+Justificativa Para A Intervenção: Conforme o artigo 231 da Constituição Federal, "são reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens." Além disso, os povos indígenas possuem saberes e práticas ancestrais que satisfazem as suas necessidades de forma harmoniosa e respeitosa com os sistemas biofísicos que sustentam a vida no planeta, de forma que seus sistemas de vida, que são referência de sustentabilidade, precisam não só ser preservados, como também servir de exemplo para a sociedade moderna.
+Evolução Histórica: No decorrer do processo histórico nacional, a relação de contato entre os povos indígenas e as sociedades envolventes ocorreu de modo desordenado e intempestivo. Durante um largo período da história do país, estas ações tiveram como foco a eliminação das possíveis diferenças culturais e étnicas e almejavam uma possível homogeneização social. A legislação indigenista da época e a ausência de políticas públicas pautadas pelas especificidades étnicas, associada às diversas formas de violência nos âmbitos locais, culminaram na desestruturação das organizações sociais e culturais indígenas e em transformações nos modos de elaboração das subjetividades, para além dos cenários próprios de diferenças internas, comuns a qualquer modo organizado de vida coletiva.
+A promulgação da Constituição Federal de 1988 e a assinatura da Convenção n° 169 da OIT sobre Povos Indígenas e Tribais, em 1989, trouxeram uma importante mudança de rumos na política indigenista. Os povos indígenas passam a ter direitos pluriétnicos territoriais, ambientais, culturais e sociais assegurados e o Estado se obriga a efetivar esses direitos, a abandonar as práticas de tutela e a garantir a realização de consultas prévias e informadas às comunidades indígenas a serem impactadas por empreendimentos, atividades econômicas e políticas públicas. Isso não foi suficiente para garantir o cumprimento de todas as obrigações do Estado e da sociedade perante os povos indígenas, mas foi a base que possibilitou importantes avanços, sobretudo no reconhecimento dos direitos territoriais dos povos indígenas e na sua proteção, mesmo com o avanço rápido da fronteira agrícola e impactantes empreendimentos de energia e mineração.
+No período entre 2019 e 2022, houve o abandono explícito das responsabilidades do poder público federal junto aos povos indígenas, que em conjunto com o incentivo ao armamento, à grilagem, ao garimpo e ao desmatamento ilegal, e sob os efeitos da pandemia da Covid-19, gerou casos de calamidade pública e provocou a escalada dos conflitos envolvendo povos indígenas, ampliando as mortes de indígenas causadas por doenças, contaminação e homicídios.
+A partir de 2023, com a criação do Ministério dos Povos Indígenas, busca-se ao mesmo tempo a reconstrução da estrutura do Estado para implementar a política indigenista, bem como garantir o protagonismo indígena nas decisões que são afetas aos povos indígenas.
+Relação Com Os Ods: O programa tem relação com os seguintes ODS:
+ODS 1 (metas 1.2, 1.3, 1.4, 1.5, 1.a e 1.b)
+ODS 2 (metas 2.1, 2.2, 2.3, 2.4 e 2.5)
+ODS 3 (metas 3.9 e 3.d)
+ODS 6 (metas 6.1, 6.3, 6.5, 6.6 e 6.b)
+ODS 8 (metas 8.3, 8.4 e 8.9)
+ODS 10 (metas 10.2 e 10.3) 
+ODS 11 (metas 11.4 e 11.5)
+ODS 12 (meta 12.2)
+ODS 13 (metas 13.1, 13.2, 13.3 e 13.b)
+ODS 14
+ODS 15 (metas 15.1, 15.2, 15.3, 15.4, 15.5, 15.6, 15.7, 15.9 e 15.a)
+ODS 16 (metas 16.1, 16.2, 16.3 e 16.4)
+ODS 17 (metas 17.14 e 17.17)
+Agentes Envolvidos: MPI, Funai, MJSP, MDA, MMA, Ibama, ICMBio, Polícia Federal, Polícia Rodoviária Federal, Força Nacional, governos estaduais e municipais, poder legislativo, poder judiciário, movimento indígena organizado, comunidades indígenas, brigadistas, colaboradores indígenas e organizações socioambientalistas.
+Articulação Federativa: Além de incorporar a PNGATI e de ter alinhamento com diversas diretrizes e objetivos estratégicos presentes na dimensão estratégica do PPA 2024-2027, este programa alinha-se também com a Estratégia Federal de Desenvolvimento (EFD) e com os Objetivos de Desenvolvimento Sustentável (ODS). No que concerne à EFD, o alinhamento ao PPA advém principalmente da sua diretriz do Eixo Ambiental, qual seja: “Promover a conservação e o uso sustentável dos recursos naturais, com foco na qualidade ambiental como um dos aspectos fundamentais da qualidade de vida das pessoas, conciliando a preservação do meio ambiente com o desenvolvimento econômico e social”.
+Enfoque Transversal: É um programa multissetorial, voltado para a população indígena em geral. Consiste em políticas voltadas sobretudo à regularização fundiária, à proteção territorial e ambiental, à gestão territorial e ambiental, à sociobioeconomia indígena, bem como à promoção da justiça socioambiental e climática.
+Marco Legal: Constituição Federal, art. 4º, inciso III, art. 20, inciso XI, art. 22, inciso XIV, art. 49, inciso XVI, artigo 109, inciso XI, art. 174, §§ 3º e 4º, art. 176, § 1º e capítulo VIII, arts. 231. e 232.
+Convenção n° 169 da OIT sobre Povos Indígenas e Tribais
+Decreto nº 7.747, de 5 de junho de 2012, que institui a Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas – PNGATI, e dá outras providências
+Planos Nacionais, Setoriais E Regionais: A nível nacional e setorial, este programa dialoga com os planos de prevenção e controle do desmatamento nos biomas brasileiros (PPCDAm, PPCerrado e PPCaatinga), bem como com as políticas de conservação da biodiversidade, bioeconomia, segurança alimentar e nutricional e assistência técnica e extensão rural.  A nível regional, dialoga com os Planos Regionais de Desenvolvimento da Amazônia, Nordeste e Centro-Oeste, coordenados pela Sudam, Sudene e Sudeco, respectivamente.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

@@ -1,0 +1,1850 @@
+passage: Programa Número 5123
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 486
+Entrega: 1789
+Indicador: 11067
+Denominação: Nº de processos de aquisição formalizados
+Índice De Referência: 12.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Estima o número de contratos formalizados por ano para o fornecimento de imunobiológicos em todo o Brasil.
+Período Ou Data A Que Se Refere: último dia do mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de contratos formalizados: Informa a quantidade de contratos formalizados até o momento da avaliação / Total de contratos previstos para o ano: total de contratos previstos para formalização no ano de referência.
+Fonte De Dados Das Variáveis De Cálculo: Planilha no Teams, Sistema Eletrônico de Informação (SEI)
+Forma De Disponibilização: Planilha no Teams, Sistema Eletrônico de Informação (SEI)
+Procedimento De Cálculo: 1. Elaboração de Estudo Técnico Preliminar (ETP); 2. Elaboração de Termo de Referência; 3. Análise e aprovação da Consultoria Jurídica; 4. Concessão de disponibilidade orçamentária; 5. Emissão do empenho; 6. Formalização do contrato.
+Limitações: Morosidade nos trâmites para formalização dos contratos; falta da matéria-prima; falta de tecnologia nacional ocasionando a aquisição internacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 28
+Entrega: 34
+Indicador: 8823
+Denominação: Número absoluto de casos autóctones de malária por P. falciparum na região amazônica
+Índice De Referência: 20334.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Estima o número de casos de malária por P. falciparum (códigos B50 da CID – 10) com transmissão local, ou seja, dentro do Brasil. São excluídos os resultados de Lâmina de Verificação de Cura (LVC) por estarem relacionadas a recidivas (recrudescências e recaídas).
+Período Ou Data A Que Se Refere: ´De acordo com a semana epidemiológica
+Data De Divulgação/Disponibilização: Semanalmente (terça-feira)
+Periodicidade: Semanal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: - número de exames positivos de malária por P. falciparum (código B50 da CID-10) no ano por local provável de infecção na região amazônica;
+- lâminas de verificação de cura (LVC) por ser tratar de recidivas (recrudescências e recaídas).
+Fonte De Dados Das Variáveis De Cálculo: ▪ Sistema de Informação de Vigilância Epidemiológica - Malária (Sivep-Malária), na região amazônica;
+▪ Sistema de Informação de Agravos de Notificação (Sinan), na região extra-amazônica;
+▪ e-SUS VS, somente no estado do Espírito Santo.
+Forma De Disponibilização: www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/malaria
+Procedimento De Cálculo: Sivep-Malária, Sinan/SVS/MS e e-SUS VS (para o estado do Espírito Santo): O usuário deverá acessar o “Saúde de A a Z”, do Portal gov.br/saúde. Na página inicial, o usuário deverá direcionar para seção “Situação Epidemiológica da Malária”. Em seguida, ir para o item “dados, boletins e mapas interativos”, e posteriormente clicar em "dados para o cidadão".  Nesta rotina é possível verificar o número de casos autóctones de malária por P.Falcparum ano a ano, no Brasil.
+Método para filtrar dados a partir da base de dados:
+Sivep-Malária: Base: NOTIPOXX.csv, sendo XX igual ao ano da base de dados com 2 dígitos (Ex: NOTIPO22.csv). Contar número de registros, agrupados por município (MUN_INFE) ou por unidade da federação (UF_INFEC), sendo ID_LVC = 2. Para selecionar os casos de malária por P. falciparum, considerar apenas os registros com RESULT = 2, 3, 5, 6, 7 e 9.
+Sinan Net (a partir de 2007): Base: MALANXX.dbf, sendo XX igual ao ano da base de dados com 2 dígitos (Ex: MALAN22.dbf). Contar número de registros, agrupados por município (COMUNINF) ou por unidade da federação (COUFINF), sendo RESULT ≠ 1, AT_LAMINA ≠ 3. Para selecionar os casos de malária por P. falciparum, considerar apenas os registros com RESULT = 2, 3, 5, 6, 7 e 9.
+e-SUS VS (a partir de 2021): Base: esusvs_21823_Malaria_X.csv, sendo X relacionado à data de atualização da base de dados e outras informações. Contar número de registros, agrupados por município (c_municipio_prov_infec) ou por unidade da federação (c_uf_prov_infec), sendo de_result_exame ≠ 1 e ae_tipo_lamina ≠ 3. Para selecionar os casos de malária por P. falciparum, considerar apenas os registros com RESULT = 2, 3, 5, 6, 7 e 9.
+Limitações: ▪ Estima o número de casos da doença pelo número de exames positivos de malária por P. falciparum, o que pode resultar em duplicidade de registro, quando o mesmo paciente é submetido a mais de um exame, superestimando o indicador.
+▪ Depende das condições operacionais do sistema de informação de cada área geográfica para que a notificação seja inserida de forma oportuna.
+▪ Está sujeito a qualidade do diagnóstico no campo para a detecção dos casos de malária por P. falciparum.
+▪ Depende da correta investigação e digitação dos casos por parte da vigilância municipal.
+Notas Explicativas: ▪ Analisa variações geográficas e temporais na distribuição dos casos autóctones de malária por P. falciparum, como parte do conjunto de ações de vigilância epidemiológica e ambiental da doença;
+▪ Avalia de forma indireta a qualidade da organização do sistema de saúde e o nível de acesso da população ao diagnóstico e tratamento da malária;
+▪ Subsidia processos de planejamento, gestão e avaliação de políticas e ações de saúde direcionadas ao controle e à eliminação da malária.
+
+O indicador se relaciona com os ODS, porém é uma espécie parasitária específica e não se refere a malária geral.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 28
+Entrega: 38
+Indicador: 8824
+Denominação: Número absoluto de municípios com pelo menos 3 anos sem transmissão de malária na região amazônica
+Índice De Referência: 528.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Estima o número de municípios sem transmissão de malária autóctone considerando os 3 anos anteriores. São excluídos os resultados de Lâmina de Verificação de Cura (LVC) por estarem relacionadas a recidivas (recrudescências e recaídas).
+Período Ou Data A Que Se Refere: semana epidemiológica do período a que se refere o indicador
+Data De Divulgação/Disponibilização: semanalmente (terça-feira).
+Periodicidade: Semanal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios com zero caso autótone, ou seja, sem exames positivos de malária(código B50 da CID-10) nos três anos anteriores ao da avaliação por local provável de infecção; e
+Lâminas de verificação de cura (LVC) por ser tratar de recidivas (recrudescências e recaídas).
+Fonte De Dados Das Variáveis De Cálculo: ▪ Sistema de Informação de Vigilância Epidemiológica - Malária (Sivep-Malária), na região amazônica;
+▪ Sistema de Informação de Agravos de Notificação (Sinan), na região extra-amazônica;
+▪ e-SUS VS, somente no estado do Espírito Santo.
+Forma De Disponibilização: www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/malaria
+Procedimento De Cálculo: Sivep-Malária, Sinan/SVS/MS e e-SUS VS (para o estado do Espírito Santo): O usuário deverá acessar o “Saúde de A a Z”, do Portal gov.br/saúde. Na página inicial, o usuário deverá direcionar para seção “Situação Epidemiológica da Malária”. Em seguida, ir para o item “dados, boletins e mapas interativos”, e posteriormente clicar em "dados para o cidadão".  Nesta rotina é possível verificar o número de casos autóctones ano a ano, no Brasil.
+Método para filtrar dados a partir da base de dados:
+Sivep-Malária: Base: NOTIPOXX.csv, sendo XX igual ao ano da base de dados com 2 dígitos (Ex: NOTIPO22.csv). Contar número de registros, agrupados por município (MUN_INFE), sendo ID_LVC = 2, onde a unidade da federação (UF_INFEC) = 11, 12, 13, 14, 15, 16, 17, 21 ou 51.
+Sinan Net (a partir de 2007): Base: MALANXX.dbf, sendo XX igual ao ano da base de dados com 2 dígitos (Ex: MALAN22.dbf). Contar número de registros, agrupados por município (COMUNINF), sendo RESULT ≠ 1, AT_LAMINA ≠ 3 e unidade da federação (COUFINF) = AC, AM, AP, PA, RR, RO, MA, MT ou TO.
+e-SUS VS (a partir de 2021): Base: esusvs_21823_Malaria_X.csv, sendo X relacionado à data de atualização da base de dados e outras informações. Contar número de registros, agrupados por município (c_municipio_prov_infec), sendo de_result_exame ≠ 1, ae_tipo_lamina ≠ 3 e unidade da federação (c_uf_prov_infec) = AC, AM, AP, PA, RR, RO, MA, MT ou TO.
+Limitações: ▪ Necessita de 3 anos de monitoramento para se adequar aos critérios de município eliminado.
+▪ Depende das condições operacionais do sistema de informação de cada município para que a notificação seja inserida de forma oportuna.
+▪ Depende da investigação adequada do local provável de infecção dos casos bem como o registro adequado em sistema de informação por parte dos municípios.
+Notas Explicativas: ▪ Analisa variações geográficas e temporais nas áreas de transmissão de malária;
+▪ Avalia de forma direta a qualidade de territórios com transmissão da doença na região amazônica;
+▪ Possibilita a tomada de ações direcionadas para o controle e a eliminação da malária;
+▪ Exige engajamento da vigilância municipal para monitoramento e execução de ações em tempo hábil em resposta a notificações de casos suspeitos no território.
+O indicador se relaciona com os ODS, porém é uma contagem de municípios sem casos, enquanto na ODS se refere a casos de malária. Reduzindo municípios com casos, reduz-se o número geral de casos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1690
+Indicador: 10932
+Denominação: Número de avaliações ou atualizações de risco realizadas e divulgadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: As avaliações de risco subsidiam o processo de tomada de decisão e a definição de áreas e populações prioritárias para a aplicação de ações preventivas e para intensificação das ações de vigilância e imunização.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: 30/06 e 31/12
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de documentos produzidos com os resultados da avaliação de risco
+Fonte De Dados Das Variáveis De Cálculo: Oficinas de trabalho planejadas, organizadas e realizadas pela CGARB com elaboração de nota técnica contendo os resultados alcançados
+Forma De Disponibilização: Por meio de Comunicação administrativa escrita e virtual (por meio de Boletim, ofício ou e-mail) , divulgando as informações aos entes federativos à medida que as avaliações forem finalizadas.
+Procedimento De Cálculo: Trata-se de ação prevista no Plano de Contingência para Resposta às Emergências em Saúde Pública: febre amarela (2ª edição), como parte das ações de preparação para o período sazonal da doença no Brasil (em geral, entre agosto e novembro). Eventualmente, a depender do cenário epidemiológico, poderá ser realizada uma atualização da avaliação de risco de Febre Amarela durante o período sazonal (entre dezembro e maio), ou ainda, uma avaliação de risco aplicada a outras arboviroses (ex. Febre do Nilo Ocidental, Febre Oropouche, Febre Mayaro, entre outras).
+Limitações: Limitação orçamentária, de recursos humanos e de dados para execução das avaliações em todas as esferas de gestão. Eventualmente, a escassez de registros de casos pode inviabilizar a modelagem matemática dos dados.
+Notas Explicativas: O número de avaliações/atualizações em cada ano pode ser alterado a depender do cenário epidemiológico
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Entrega: 1682
+Indicador: 10922
+Denominação: Número de centrais e regionais estaduais da rede de frio com a estrutura adequada
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Indicador aponta para as centrais e regionais que possuem a estrura adequada conforme orientado pelo PNI. As centrais e regionais são locais aonde são armazenados grandes volumes de imunobiológicos que necessitam de condições especificas para a manutenção da qualidade desses imunizantes.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A variável utilizada é a unidade estruturada. São centrais e regionais da rede de frio estadual que possuem estrutura adequada, conforme orientado pelo PNI.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão coletados por meio de formulário especico desenvolvido no Redcap.
+Procedimento De Cálculo: 1) Solicitar aos Estados o preenchimento semestral do formulário no RedCap; 2) Baixar as informações e identificar as unidades que atenderam a todos os critérios definidos para um estrura adequada.
+Notas Explicativas: Importante ressaltar que a competência do Ministério da Saúde é orentar, qualificar e financiar (parcialmnete) a rede de frio do PNI nas demais esferas de governo. Sendo atribuição das unidades federadas a efetiva estruturação das centrais e regionais estaduais, tal como aquisição de equipamentos adequados (câmera fria, câmara frigorífica, medidores e monitores de temperatura), bem como dispor de estrutura física que atenda aos parâmetros de qualidade em armazenagem de imunobiológicos.
+A estrutura adequada da central e da regional da rede de frio das unidades federadas estão descritas na última edição do manual da rede de frio do PNI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 472
+Entrega: 2540
+Indicador: 11854
+Denominação: Número de Centro de Inteligência Genômica implantado
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Centro de Inteligência Genômica implantado. Entrega será excluvisa para o Ministério da Saúde. A Estruturação do Centro de Inteligência Genômica – CIGEN representa braço importante do Centro de Inteligência Epidemiológica, da Secretaria de Vigilância em Saúde e Ambiente. A estruturação do CIGEN (ação 1), consiste na preparação do espaço que exercerá as atividades de vigilância genômica, com a aquisição de equipamentos, computadores com capacidade de processamento de alto volume (supercomputadores) para análise de dados, servidor para armazenagem e processamento de dados em alta escala, softwares, segurança computacional e de dados, integração de sistemas. A manutenção (ação 2) consiste na continuidade das ações do CIGEN, contemplando a contratação de profissionais, manutenção dos equipamentos, capacitações e treinamentos e insumos necessários para a vigilância genômica. A gestão da Rede Nacional de Sequenciamento Genético – RNSG é realizada pelo Ministério da Saúde.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Não se aplica
+Fonte De Dados Das Variáveis De Cálculo: Relatórios emitidos pela Rede Nacional de Sequenciamento Genético - RNSG e diagnóstico situacional.
+Forma De Disponibilização: As etapas de elaboração do projeto são acompanhadas pela CGLAB  através da planilha de monitoramento.
+Procedimento De Cálculo: Contagem de projetos elaborados
+Notas Explicativas: Entrega será exclusiva para o Ministério da Saúde. A Estruturação do Centro de Inteligência Genômica – CIGEN representa braço importante do Centro de Inteligência Epidemiológica, da Secretaria de Vigilância em Saúde e Ambiente. A estruturação do CIGEN (ação 1), consiste na preparação do espaço que exercerá as atividades de vigilância genômica, com a aquisição de equipamentos, computadores com capacidade de processamento de alto volume (supercomputadores) para análise de dados, servidor para armazenagem e processamento de dados em alta escala, softwares, segurança computacional e de dados, integração de sistemas. A manutenção (ação 2) consiste na continuidade das ações do CIGEN, contemplando a contratação de profissionais, manutenção dos equipamentos, capacitações e treinamentos e insumos necessários para a vigilância genômica. A gestão da Rede Nacional de Sequenciamento Genético – RNSG é realizada pelo Ministério da Saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 472
+Entrega: 1675
+Indicador: 10914
+Denominação: Número de exames moleculares realizados, por ano, pela Rede Nacional de Laboratórios de Saúde Pública (RNLSP)
+Índice De Referência: 2009471.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a capacidade de diagnóstico molecular pela RNLSP, promovendo o aumento da capacidade resolutiva (maior número de respostas no menor tempo possível) dos Laboratórios Públicos Estaduais e Municipais potencializando de forma transversal a saúde da população.
+Período Ou Data A Que Se Refere: último dia do mês a cada dois meses.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº de exames realizados por UF: esse dado é retirado do sistema Gerenciador de Ambiente Laboratorial (GAL), abrange todas as metodologias de diagnóstico e agravos cadastrados no sistema;
+Fonte De Dados Das Variáveis De Cálculo: Gerenciador de Ambiente Laboratorial (GAL)
+Procedimento De Cálculo: Levantamento, pelo GAL, dos exames moleculares, por UF:  Acesso ao banco de dados do GAL; Por meio da ferramente R é realizado a extração e tratamento das variáveis: status igual a exames realizados; UF/Região; método de diagnóstico; ano de coleta;
+É gerado um banco de dados e organizado em planilha Excel."
+Notas Explicativas: Linha de Base ou índice de referência = Média da capacidade anual, instalada, de realização de exames moleculares dos últimos 4 anos (2018; 2019;2020;2022), desconsiderando o ano epidêmico (2021)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 472
+Entrega: 2483
+Indicador: 11802
+Denominação: Número de laboratórios da Rede Nacional de Laboratórios de Saúde Pública estruturados visando aumentar sua capacidade resolutiva
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A estruturação física contribuirá no aumento da capacidade resolutiva (maior número de respostas no menor tempo possível) dos Laboratórios Públicos Estaduais e Municipais potencializará de forma transversal a saúde da população. Promoverá a fortalecimento da vigilância em saúde e ambiente, particularmente nas epidemias e surtos epidêmicos. 
+Permitirá a racionalização nas demandas aos LACEN, LAFRON e LMSP, multiplicando  e distribuindo competências. Redução do tempo da resposta aos pacientes, com consequente diminuição da morbimortalidade, especialmente, àquelas causadas pelas doenças infecciosas, e principalmente em regiões isoladas."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Laboratórios Públicos Estaduais, de Fronteira e Municipais de Saúde Pública - LACEN, LMSP e LAFRON estruturado
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos e planilhas de monitoramento da área
+Forma De Disponibilização: Disponibilização ambiente virtual interno / externo
+Procedimento De Cálculo: "
+Contagem de Estados e Municipios que possuem LACEN, LMSP e LAFRON - Número total"
+Notas Explicativas: "O aumento da capacidade resolutiva (maior número de respostas no menor tempo possível) dos Laboratórios Públicos Estaduais e Municipais potencializará de forma transversal a saúde da população. Promoverá a fortalecimento da vigilância em saúde e ambiente, particularmente nas epidemias e surtos epidêmicos. 
+Permitirá a racionalização nas demandas aos LACEN, LAFRON e LMSP, multiplicando  e distribuindo competências. Redução do tempo da resposta aos pacientes, com consequente diminuição da morbimortalidade, especialmente, àquelas causadas pelas doenças infecciosas, e principalmente em regiões isoladas.
+"
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 484
+Entrega: 1680
+Indicador: 10919
+Denominação: Número de municípios acima de 100 mil habitantes com certificação para eliminação de transmissão vertical de HIV e/ou sífilis e/ou hepatite B ou com selo de boas práticas rumo à eliminação
+Índice De Referência: 43.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de municípios acima de 100 mil habitantes que atingiram as metas de impacto e de processo previstas no Guia de Certificação, e que receberam, nos quatro anos, ou a "Certificação da Eliminação da Transmissão Vertical" do HIV e/ou sífilis e/ou hepatite B, ou então  o "Selo de Boas Práticas Rumo à Eliminação da Transmissão Vertical" dessas doenças.
+Indica a redução de casos de transmissão vertical de HIV e/ou sífilis e/ou de hepatite B nesses municípios, bem como a existência de condições favoráveis ao controle da transmissão vertical da doença nos serviços do país. Além disso, aponta a qualidade da vigilância e assistência nos serviços de pré-natal dos municípios certificados.
+Período Ou Data A Que Se Refere: Dez/2022
+Data De Divulgação/Disponibilização: dezembro/janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios acima de 100 mil habitantes com certificação para eliminação de transmissão vertical de HIV e/ou sífilis e/ou hepatite B ou com selo de boas práticas rumo à eliminação
+Fonte De Dados Das Variáveis De Cálculo: Registro do processo de certificação nacional
+Forma De Disponibilização: Portaria; ofício comunicando a certificação
+Procedimento De Cálculo: Contagem do número de municípios acima de 100 mil habitantes com certificação para eliminação de transmissão vertical de HIV e/ou sífilis e/ou hepatite B ou com selo de boas práticas rumo à eliminação ao final do ano
+Limitações: Dificuldade de manter a certificação decorrente de mudança na assistência e sistema de vigilância local
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 28
+Entrega: 39
+Indicador: 8825
+Denominação: Número de municípios apoiados por profissionais do projeto Projeto Apoiadores Municipais para Prevenção, Controle e Eliminação de Malária na região Amazônica
+Índice De Referência: 38.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Estima o número de municípios com atuação do apoiador municipal.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: Março do ano seguinte à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios apoiados com o profissional apoiador municipal.
+Fonte De Dados Das Variáveis De Cálculo: Planilha interna de monitoramento do Projeto Apoiadores Municipais para o controle, Prevenção e Eliminação da Malária em parceria com a Fiocruz.
+Forma De Disponibilização: Os dados são atualizados mensalmente e disponibilizados internamente na Coordenação de Eliminação da Malária por meio de planilha de monitoramento.
+Procedimento De Cálculo: Contagem do número de municípios que foram apoiados pelo projeto apoiadores municipais para prevenção, controle e eliminação da malária no ano de referência.
+Limitações: Está sujeito a variações ao longo do tempo, em virtude da rotatividade de profissionais.
+▪ Está sujeito a dificuldade de contratação devido as características da região de alocação e perfil dos profissionais.
+▪ Depende de aceitabilidade do profissional por parte das Secretarias Estaduais e Municipais de Saúde.
+▪ Depende de disponibilidade orçamentária do projeto Apoiadores Municipais para Prevenção, Controle e Eliminação da Malária.
+Notas Explicativas: - O índice de referência considerou o número de apoios ocorridos no período de 2019 a 2022.
+"▪ O indicador considera o número de municípios apoiados ao longo do ano pelo projeto Apoiadores Municipais para Prevenção, Controle e Eliminação da Malária. Neste sentido, mais de um município pode ser apoiado pelo mesmo profissional do projeto em espaço de tempo diferente.
+▪ O indicador é capaz de mensurar a capacidade de suporte aos municípios por parte do projeto Apoiadores Municipais para Prevenção, Controle e Eliminação da Malária.
+▪ O projeto Apoiadores Municipais para Prevenção, Controle e Eliminação da Malária aloca um profissional com expertise epidemiológica em cada um dos municípios prioritários da região amazônica.
+▪ Possibilita o acompanhamento mais próximo do município por parte do Ministério da Saúde e do Estado.
+▪ Fornece inteligência epidemiológica aos municípios para alcançarem as metas de eliminação.
+▪ Fortalece do serviço local por meio de disseminação de boas práticas  de gestão. 
+▪ Depende de apoio local para desenvolvimento de atividades."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Entrega: 1681
+Indicador: 10920
+Denominação: Número de municipios prioritários com vacinação intensificada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Ampliar o número de municipios prioritários com vacinação intensificada.
+Período Ou Data A Que Se Refere: último dia do mês.
+Data De Divulgação/Disponibilização: Décimo dia útil do mês subsequente.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios prioritários com vacinação intensificada
+Fonte De Dados Das Variáveis De Cálculo: CGICI/DPNI/SVSA/MS
+Forma De Disponibilização: Diponibilização de planilha com número de municipios prioritários com vacinação intensificada no Portal de Imunização do Ministério da Saúde: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/c/calendario-nacional-de-vacinacao
+Procedimento De Cálculo: Apuração do número de municipios prioritários com vacinação intensificada
+Limitações: Atraso na liberação dos recursos previstos, insuficiência de recursos humanos, não adesão das secretarias de saúde ao processo de intensificação das atividades de vacinação
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 3358
+Indicador: 12682
+Denominação: Número de Oficinas de Ativação de Estruturas de Resposta às emergências em saúde pública realizadas por ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: As oficinas de ativação de estruturas de resposta, abrangendo todas as Unidades da Federação serão realizadas, no mínimo, uma oficina por mês.
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: O= Oficina de ativação realizada.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas interna de monitoramento mensal e Relatório de Gestão Anual do Departamento de Emergências em Saúde Pública
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI)
+Procedimento De Cálculo: Somatório de Oficinas de Ativação de Estruturas de Resposta de realizadas nas UF.
+Limitações: Alteração no planejamento das entregas por mudanças políticas, insustentabilidade orçamentária ou falta de adesão/participação dos usuários, gestores, estados e municípios.
+Notas Explicativas: O início dessa etapa está condicionado à conclusão da fase de simulados, prevista para começar no início de 2026. Representando a terceira etapa da estratégia para fortalecer a capacidade de enfrentamento às emergências em saúde pública, essas oficinas terão início em janeiro de 2026.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Entrega: 3399
+Indicador: 12741
+Denominação: Número de oficinas de Microplanejamento realizadas anualmente, segundo região
+Índice De Referência: 4.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de oficinas de Microplanejamento para as Atividades de Vacinação de Alta Qualidade para municípios prioritários, segundo região (Sul, Sudeste, Centro-Oeste, Norte e Nordeste), realizadas anualmente.
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Total de oficinas realizadas,por região geográfica. 
+a = Número de oficinas realizadas
+Fonte De Dados Das Variáveis De Cálculo: Coordenação-Geral de Incorporação Cientifica e Imunização (CGICI)/Departamento do Programa Nacional de Imunizações(DPNI).
+Forma De Disponibilização: Os dados serão disponibilizados por meio de um banco de dados interno, gerado pela CGICI.
+Procedimento De Cálculo: Planejamento: As oficinas serão previamente organizadas conforme a programação definida pela equipe responsável.
+
+Ministração das oficinas: As oficinas serão ministradas aos municípios ao longo do semestre, conforme cronograma estabelecido.
+
+Registro das atividades: Cada oficina realizada deverá ser registrada com as informações necessárias para controle e acompanhamento.
+
+Quantificação semestral: Ao final de cada semestre, será realizada a consolidação e quantificação do total de oficinas ministradas no período.
+
+Serão contabilizadas as oficinas ofertadas pelo DPNI aos  municípios que forem identificados como prioritários de acordo com os critérios definidos pelo PNI, em cada uma das regiões geográficas.
+Notas Explicativas: As oficinas serão ofertadas presencialmente, em formato regional, considerando o agrupamento de municípios por estado. A definição dos locais seguirá critérios de priorização estabelecidos pelo DPNI, com o objetivo de garantir maior efetividade nas ações e otimização dos recursos disponíveis. Todas as regiões serão contempladas ao longo de 2025, sendo que, em alguns casos, duas regiões participarão conjuntamente da mesma oficina.
+Em relação aos municípios prioritários, após a implementação do método de microplanejamento nas 27 Unidades da Federação, o PNI definiu que, a partir de 2025, os municípios com maior risco para doenças imunopreveníveis serão selecionados pelo DPNI para receber as oficinas de Microplanejamento. A escolha será baseada em uma análise de risco que considerará fatores como baixa cobertura vacinal, localização geográfica, entre outros critérios relevantes.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 1699
+Indicador: 10941
+Denominação: Número de paineis de divulgação de informação em vigilância em saúde de acesso público implantados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede o progresso de implantação do CIE por meio da divulgação dos painéis epidemiológicos a serem disponibilizados para os gestores, pesquisadores, imprensa e para  a população em geral. Serão priorizados os paineis epidemiológicos das doenças e agravos com indicadores no PPA mais as doenças de transmissão respoiratórias e imunopreveníveis.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de painéis epidemiológicos divulgados se referem as informações epidemiológicas relevantes definidas em conjunto com as áreas técnicas, CIE e SVSA. Serão considerados 12 painéis de doenças e agravos: Dengue, Chikungunya, Zika, Febre Amarela, Tuberculose, Covid-19, Influenza, SRAG, Malária, Coberturas vacinais do calendário infantil, Hepatites virais e Intoxicações exógenas.
+Fonte De Dados Das Variáveis De Cálculo: Portal eletrônico do CIE
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI)
+Procedimento De Cálculo: Cada painel construído e divulgado pelo CIE será considerado no numerador. Serão considerados 12 painéis de doenças e agravos: Dengue, Chikungunya, Zika, Febre Amarela, Tuberculose, Covid-19, Influenza, SRAG, Malária, Coberturas vacinais do calendário infantil, Hepatites virais e Intoxicações exógenas. A cada ano serão disponibilizados no mínimo três painéis e ao final dos quatro anos os 12 painéis planejados.
+Limitações: Alteração no planejamento das entregas por mudanças políticas, insustentabilidade orçamentária ou falta de adesão/participação dos usuários, gestores, estados e municípios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 484
+Entrega: 1678
+Indicador: 10917
+Denominação: Número de pessoas tratadas para hepatite C, por ano
+Índice De Referência: 17082.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de pacientes que anualmente receberam medicamentos para o tratamento da hepatite C, que conferem a cura de 95% dos casos. Corrobora para avaliação acerca do acesso ao tratamento medicamentoso no SUS, redução das novas infecções, cirrose, hepatocarcinoma e mortalidade decorrentes da infecção pelo vírus C. Permite o monitoramento das metas associadas à eliminação da hepatite C como problema de saúde pública.
+Período Ou Data A Que Se Refere: Ao ano de 2022
+Data De Divulgação/Disponibilização: Semestralmente divulagados no Painel de Hepatites
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de pessoas que receberam pelo menos uma dispensação de medicamentos para hepatite C, no SUS, registradas no Siclom, no período
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Controle Logístico de Medicamentos (Siclom)
+Forma De Disponibilização: Painel de Hepatites
+Procedimento De Cálculo: 1ª etapa: no banco do Siclom selecionar as pessoas que tiveram pelo menos uma dispensação de medicadmentos para HCV no referido ano
+2ª etapa: calcular o indicador contanto apenas uma única vez as pessoas que tiveram dispesanção de medicamentos para HCV no período referido
+Limitações: O indicador é diretamente proporcional aos novos diagnósticos de hepatite C, portanto, depende dos esforços da Rede SUS em testar, diagnosticar e vincular as pessoas com hepatite C.
+Notas Explicativas: O indicador é diretamente proporcional aos novos diagnósticos de hepatite C, portanto, depende dos esforços da Rede SUS em oferecer a testagem, diagnóstico, vinculação, retenção e adesão das pessoas com hepatite C.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 1700
+Indicador: 10942
+Denominação: Número de profissionais certificados, ao final de cada ano, pelo Programa de Treinamento em Epidemiologia aplicada aos Serviços do Sistema único de Saúde - EpiSUS, nos três níveis de formação (fundamental, intermediário e avançado)
+Índice De Referência: 481.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apontado em cada ano reflete o número total de alunos certificados pelo EpiSUS nos três níveis de formação: Fundamental, Intermediário e Avançado.
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: O número total de profissionais certificados em epidemiologia de campo pelo Programa de Treinamento em Epidemiologia aplicada aos Serviços do Sistema único de Saúde - EpiSUS nos três níveis de formação: Fundamental, Intermediário e Avançado.
+Fonte De Dados Das Variáveis De Cálculo: Relação certificações emitidas pelo Programa de Treinamento em Epidemiologia aplicada aos Serviços do Sistema único de Saúde - EpiSUS para cada nível de formação: Fundamental, Intermediário e Avançado .
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI)
+Procedimento De Cálculo: Verificação da relação de certificações emitidas pelo Programa de Treinamento em Epidemiologia aplicada aos Serviços do Sistema único de Saúde - EpiSUS para cada nível de formação: Fundamental, Intermediário e Avançado .
+Limitações: Alteração no planejamento das entregas por mudanças políticas, insustentabilidade orçamentária ou falta de adesão/participação dos usuários, gestores, estados e municípios.
+Notas Explicativas: Nos últimos anos, a formação de epidemiologistas de campo tem se tornado mais descentralizada e integrada aos entes federados nos níveis Fundamental e Intermediário. Já o nível Avançado é oferecido pela SVSA, com atividades de campo que abrangem estados e municípios. Anualmente, o Programa EpiSUS disponibiliza 300 vagas para fortalecer a capacitação em epidemiologia de campo no país. No entanto, devido à estratégia compartilhada de descentralização do EpiSUS-Fundamental com os entes federados, o número de profissionais formados pode superar o total de vagas inicialmente previstas.
+
+Embora essa estratégia não seja diretamente considerada um critério para o cálculo da entrega da meta, ela é reconhecida como um elemento complementar essencial para seu alcance. A formação contínua de profissionais em epidemiologia de campo, por meio do Programa de Treinamento em Epidemiologia Aplicada aos Serviços do Sistema Único de Saúde (EpiSUS), nos três níveis de qualificação, tem como objetivo fortalecer a capacidade de resposta a eventos de interesse e emergências em saúde pública. Essa abordagem contribui para a atuação qualificada de epidemiologistas de campo em todas as esferas de gestão — federal, estadual e municipal — garantindo maior efetividade nas ações de saúde pública.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 3359
+Indicador: 12681
+Denominação: Número de simulados de preparação, vigilância e resposta às emergências em saúde pública realizados por ano
+Índice De Referência: 4.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Os simulados permitem testar a eficácia dos planos de contingência e aprimorar a capacidade dos profissionais de saúde para atuar de forma ágil e coordenada diante de diferentes cenários de emergência.
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: S - número de de simulados realizados durante o ano.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas interna de monitoramento mensal e Relatório de Gestão Anual do Departamento de Emergências em Saúde Pública
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI)
+Procedimento De Cálculo: Somatório de simulados realizados nas UF
+Limitações: Alteração no planejamento das entregas por mudanças políticas, insustentabilidade orçamentária ou falta de adesão/participação dos usuários, gestores, estados e municípios.
+Notas Explicativas: Essa é a segunda etapa da estratégia para fortalecer a capacidade de enfrentamento às emergências em saúde pública. Foram iniciados em agosto de 2024, até dezembro do mesmo ano foram realizados 4 Simulados (Pará, Bahia, Acre e Pernambuco).
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 487
+Entrega: 1697
+Indicador: 10939
+Denominação: Número de UF com a Estratégia de Unidade Sentinela implantada
+Índice De Referência: 4.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de unidades federadas com Unidades Sentinela ativas reflete a implementação da Vigilânica em Saúde Ambiental e Qualidade do Ar no âmbito nacional
+Período Ou Data A Que Se Refere: Último dia do mês a cada dois meses.
+Data De Divulgação/Disponibilização: Disponabilização, em maio de cada ano, dos resultados do último levantamento, referente ao ano anterior
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número total acumulado de unidades da federação com Unidades Sentinela ativas
+Fonte De Dados Das Variáveis De Cálculo: Dados obtidos através de levantamento anual junto aos estados, na forma de questionário eletrônico
+Forma De Disponibilização: Dados divulgados durante oficinas de qualificação, publicações e comunicações administrativas.
+Procedimento De Cálculo: - Divulgação do questionário estadual anual 
+ - Obtenção dos resultados do questionário
+ - Validação dos resultados obtidos (verificação dos totais, caso haja inconsistências)
+ - Identificação dos estados com unidades ativas
+ - Soma do número total de estados com unidades ativas
+Limitações: O indicador possibilita o rastreamento do número de estados com unidades ativas, mas não possui uma resolução espacial estadual, para analisar a distribuição de unidades dentro de um estado. 
+Como o indicador é atualizado anualmente, não possui uma resolução temporal que possibilitaria o seu acompanhamento no período mensal.
+Notas Explicativas: No passado, houve dificuldades na comunicação e recebimento das informações dos estados, assim como falha na comunicação entre estado e município, fatores que podem complicar o envio do dados solicitados em tempo hábil. É necessário atualizar o instrutivo do Ministério da Saúde sobre essa estratégia, assim como identificar uma ferramenta adequada para o registro e envio dos dados gerados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 3357
+Indicador: 12683
+Denominação: Número de UF com Autoavaliação realizada por ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador vai permitir apurar uma etapa da estratégia abrangente adotada para aprimorar a capacidade nacional de enfrentamento às emergências em saúde pública e, que é composta por cinco etapas, representadas nas novas entregas: Oficinas de Preparação, Vigilância e Resposta; Simulados de Mesa; Oficinas de Ativação de Estruturas de Resposta; Autoavaliação de Capacidades; e Vigilância Baseada em Eventos (VBE) com uso do EIOS.
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= núero de UF com autoavaliação realizada no ano.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas interna de monitoramento mensal e Relatório de Gestão Anual do Departamento de Emergências em Saúde Pública
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI),
+Procedimento De Cálculo: Somatório de UF com autoavaliação concluída por ano.
+Limitações: Alteração no planejamento das entregas por mudanças políticas, insustentabilidade orçamentária ou falta de adesão/participação dos usuários, gestores, estados e municípios.
+Notas Explicativas: Após o projeto-piloto no segundo semestre de 2025, envolvendo as cinco primeiras Unidades da Federação, a estratégia poderá ser ajustada, incluindo possíveis alterações na quantidade de oficinas ao longo de 2026 e 2027.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Entrega: 3396
+Indicador: 12736
+Denominação: Número de UF realizando as estratégias de vacinação orientadas pelo Programa Nacional de Vacinação ao longo do ano
+Índice De Referência: 27.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de UF realizando as estratégias de vacinação orientadas pelo Programa Nacional de Vacinação ao longo do ano.
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Total de UF que realizou as estratégias nacionais de vacinação
+a = Somatório do número de UF que realizou as estratégias nacionais de vacinação (∑ UF)
+Fonte De Dados Das Variáveis De Cálculo: Coordenação-Geral de Incorporação Cientifica e Imunização (CGICI)/Departamento do Programa Nacional de Imunizações(DPNI).
+Forma De Disponibilização: Os dados serão disponibilizados por meio de um banco de dados interno, gerado pela CGICI.
+Procedimento De Cálculo: 1. Monitoramento da execução das estratégias de vacinação junto aos estados;
+2. Monitoramento das doses registradas nos sistemas de informação integrados com as RNDS em cada estratégia segundo estado e município.
+Limitações: Em relação a estratégica de vacinação na fronteira vale informar que é realizada de acordo com os locais definidos como prioritários.
+Notas Explicativas: O PNI publicará diretrizes para que estados e municípios operacionalizem essas ações de forma coordenada, promovendo estratégias nacionais de vacinação que ampliem a adesão da população e reforcem a importância da vacinação como medida de proteção coletiva. Essas estratégias têm o potencial de gerar um impacto positivo na cobertura vacinal e no controle de doenças imunopreveníveis em todo o território nacional. Podendo ser até três estratégias, sendo elas: Atualização da caderneta, Vacinação escolar e Fronteira.  Podendo ser até três estratégias, a depender do estado, devido a estratégia de vacinação na fronteira que ocorre em determinados estados das regiões Norte, Centro-Oeste e Sul.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 3356
+Indicador: 12679
+Denominação: Número de UF realizando Vigilância Baseada em Evidências (VBE) utilizando o EIOS por ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Demonstra a implementação da estratégia na UF quanto ao uso da ferramenta EIOS na realização de ações de Vigilância Baseada em Evidências (VBE).
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Unidade Federada usando a estratégia a cada ano.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas interna de monitoramento mensal e Relatório de Gestão Anual do Departamento de Emergências em Saúde Pública.
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI) ou e-mail institucional.
+Procedimento De Cálculo: Somatório de UF utilizando EIOS para realização de VBE por ano.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1691
+Indicador: 10933
+Denominação: Número de UFs com profissionais de vigilância capacitados para vigilância animal e entomológica aplicada às arboviroses silvestres e para o uso da plataforma SISS-Geo
+Índice De Referência: 16.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Capacitar as equipes de vigilância dos níveis estadual e municipal para a vigilância animal aplicada às arboviroses silvestres para detecção precoce da circulação viral e aplicação oportuna das medidas de vigilância e resposta no Brasil.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: Junho e Dezembro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de estados com capacitações realizadas
+Fonte De Dados Das Variáveis De Cálculo: Serão consideradas capacitações realizadas os treinamentos presenciais ou virtuais, os cursos de educação à distância, os treinamentos técnicos envolvendo a vigilância aniaml e/ou entomológica e/ou do uso do SISS-Geo.
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Durante a realização das capacitações, são utilizadas listas de frequência e emitidas declarações de participação dos profissionais, a partir das quais é possível verificar as UF participantes para o cálculo do indicador. Além destes, relatórios, gravações e documentos administrativos relacionados à contratação e execução dos eventos presenciais e virtuais também poderão ser utilizados.
+Limitações: Limitação orçamentária e de recursos humanos em todas as esferas de gestão.
+Notas Explicativas: Os estados indicados em cada ano podem ser alterados a depender do cenário epidemiológico e dos critérios de priorização.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 472
+Entrega: 2493
+Indicador: 11812
+Denominação: Número de Unidades de Laboratórios Móveis de Resposta Rápida implantadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Implantação de 5 (cinco) LMRR,  com institucionalização de projeto piloto da primeira LMRR. Os Estados contemplados com as LMRR, serão responsáveis pela manutenção após o período da garantia.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de laboratórios móveis implantados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios fornecidos pelos laboratórios de saúde pública na região norte.
+Forma De Disponibilização: Relatorios internos da CGLAB
+Procedimento De Cálculo: Número de relatorios fornecidos referentes a região norte
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1687
+Indicador: 10929
+Denominação: Número de Unidades Federadas com profissionais de vigilância estaduais capacitados em respostas a surtos e epidemias por arboviroses
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: As capacitações trazem informações sobre os fluxos que devem ser fortalecidos conforme as necessidades percebidas para aprimoramento do monitoramento de indicadores epidemiológicos e operacionais, maior efetividade na implementação das ações de controle vetorial e aumento da capacidade de resposta.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: Junho e Dezembro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Serão consideradas capacitações realizadas os treinamentos presenciais ou virtuais, os cursos de educação à distância, os treinamentos técnicos envolvendo a análise de dados epidemiológicos, a estratificação de risco e as atividades relacionadas às tecnologias de controle vetorial recomendadas pelo MS.
+Fonte De Dados Das Variáveis De Cálculo: Os dados para aferição do indicador serão contabilizados a partir de relatórios, listas de presença, declarações de participação, gravações de eventos presenciais e virtuais, além de documentos administrativos relacionados à contratação e execução dos eventos.
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Durante a realização das capacitações, são utilizadas listas de frequência e emitidas declarações de participação dos profissionais, a partir das quais é possível verificar as UF participantes para o cálculo do indicador. Além destes, relatórios, gravações e documentos administrativos relacionados à contratação e execução dos eventos presenciais e virtuais também poderão ser utilizados.
+Limitações: Limitação orçamentária para realizar as capacitações; Não participação das UF; Conflito de agendas dos profissionais estaduais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 487
+Entrega: 1696
+Indicador: 10938
+Denominação: Número municípios capacitados com o curso de Vigilância em Saúde de Populações Expostas a Agrotóxicos (VSPEA)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Permite medir a estratégia adotada pela esferea federal para difundir conhecimentos sobre as normas, diretrizes, objetivos e principais instrumentos da vigilância em saúde de população expostas a agrotóxicos, além de disseminar entendimento sobre o desenvolvimento das ações básicas e transversais da VSPEA, incorporando uma visão ampliada do território e a necessidade da atuação integrada das ações do setor saúde, no âmbito da vigilância em saúde ambiental, epidemiológica, da saúde do trabalhador e da rede de atenção à saúde .
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios prioritários capacitados para a Vigilância em Saúde de Populações Expostas a Agrotóxicos (VSPEA)  acumulado no período.
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Virtual de realização do do(s) curso(s) da Vigilância de Populações Expostas a Agrotóxicos(VSPEA)
+Forma De Disponibilização: Relatório de conclusão do(s) curso(s) da Vigilância de Populações Expostas a Agrotóxicos(VSPEA) realizados
+Procedimento De Cálculo: Contabilização na plataforma virtual do número de cursos da VSPEA ofertados
+Somatório do número de vagas disponibilizadas em cada curso ofertado
+Somatório do número de alunos que concluíram cada curso ofertado
+Será considerado como curso realizado quando =>60% dos alunos concluírem o curso
+Limitações: A entrega  do curso depende da plataforma de disponibilização e do processo de diagramação que contam com apoio da Coordenação Geral de Vigilância em Saúde Ambiental, mas que depende de atores externos dificultando o controle sobre o processo de disponibilização da capacitação. A adesão das Secretarias Municipais de Saúde, além do apoio das Secretarias Estaduais de Saúde para realizar o curso pode ser considerada um risco.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1695
+Indicador: 10937
+Denominação: Painel de dados divulgado em ambiente WEB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Mede o percentual de evolução na construção e atualização do painel de dados.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de estratificações
+Fonte De Dados Das Variáveis De Cálculo: Painel Web
+Forma De Disponibilização: Disponibilização por meio de plataforma WEB
+Procedimento De Cálculo: 1. Contabilizar no painel de dados disponibilizado no período o número de estratificações realizadas; 2. Dividir o número obtido no item 1 pelo número total de estratificações propostas (54).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1693
+Indicador: 10935
+Denominação: Percentual de estratificações de risco socioambiental, epidemiológica e entomológica realizadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Mede as estratificações de risco realizadas para a escala nacional e/ou macrorregional tendo como unidade de análise os municípios
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: maio de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de estratificações
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de estratificação socioambiental, epidemiológica e entomológica elaborados pela equipe do projeto
+Forma De Disponibilização: Disponibilização por meio de relatórios e plataforma WEB
+Procedimento De Cálculo: 1. Contabilizar em relatório de estratificação disponibilizado no período o número de estratificações realizadas; 2. Dividir o número obtido no item 1 pelo número total de estratificações propostas (54)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Entrega: 2598
+Indicador: 11898
+Denominação: Percentual de execução da obra
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Consiste em medir a construção do Memorial da Pandemia - RJ organizado por execução da obra.
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: Semestralmente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número das etapas concluídas dividido pelo total geral das etapas da obra multiplicado por 100
+Fonte De Dados Das Variáveis De Cálculo: Projeto de execução no processo de licitação da obra
+Forma De Disponibilização: Processo de licitação da obra
+Procedimento De Cálculo: Acesso ao SEI, confrontando os dados obtidos da fiscalização de obra pelas etapas de cada obra a ser executada.
+Limitações: Atraso no processo licitatório e variáveis de custos de insumos para obras.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 489
+Entrega: 1702
+Indicador: 10944
+Denominação: Percentual de execução das ações de capacitação planejadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Mede o número de capacitações sobre Mudança do Clima, biodiversidade e poluição realizadas no âmbito do SUS.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Fevereiro de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numero de capacitações sobre Mudança do Clima, biodiversidade e poluição executadas; e Numero de capacitações planejadas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Apoio à Gestão - SAGE
+Forma De Disponibilização: Metas físicas cadastradas no Sistema de Apoio à Gestão - SAGE
+Procedimento De Cálculo: Contabilizar em relatório anual as capacitações sobre Mudança do Clima, biodiversidade e poluição no âmbito do SUS realizadas, dividir pelo total de planejadas, multiplicado por 100.
+Limitações: Insuficiência de recursos para realizar as capacitações sobre Mudança do Clima, biodiversidade e poluição.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 489
+Entrega: 1701
+Indicador: 10943
+Denominação: Percentual de execução das ações de produção de conhecimento planejadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Mede o número de Pesquisas sobre Mudança do Clima, biodiversidade e poluição e saúde realizadas.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Fevereiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numero de Pesquisas sobre Mudança do Clima, biodiversidade e poluição e saúde executadas; e  número de pesquisas planejadas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Apoio à Gestão - SAGE
+Forma De Disponibilização: Metas físicas cadastradas no Sistema de Apoio à Gestão - SAGE
+Procedimento De Cálculo: Contabilizar em relatório anual as Pesquisas sobre Mudança do Clima, biodiversidade e poluição e saúde realizadas, dividir pelo total de planejadas, multiplicado por 100.
+Limitações: Insuficiência de recursos para realizar as Pesquisas sobre Mudança do Clima, biodiversidade e poluição e saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1689
+Indicador: 10931
+Denominação: Percentual de municípios com pelo menos uma tecnologia de controle vetorial implementada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: O risco de infecção por arboviroses urbanas não é homogêneo no território brasileiro. Desta forma, as novas diretrizes para o controle vetorial consideram a priorização de territórios para a implementação de novas tecnologias de controle vetorial. Este indicador apresenta os municípios caracterizados como prioritários que possuem essas novas tecnologias implementadas.
+Período Ou Data A Que Se Refere: Junho/2023
+Data De Divulgação/Disponibilização: Junho e Dezembro
+Periodicidade: Semanal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios com novas tecnologias implementadas são os municípios que estiverem utilizando pelo menos uma das novas tecnologias recomendadas pelo MS. Municípios prioritários são os municípios que serão selecionados, segundo critérios demográficos, epidemiológicos e territoriais, para a implementação de novas tecnologias de controle vetorial.
+Fonte De Dados Das Variáveis De Cálculo: Secretarias Estaduais de Saúde.
+Forma De Disponibilização: Nota Informativa divulgada nos meios de comunicação oficiais do MS, contendo o processo de implementação e desenvolvimento das tecnologias nos municípios.
+Procedimento De Cálculo: Os municípios que pleitearão a implementação de novas tecnologias de controle vetorial deverão apresentar Plano de Trabalho ao MS e informar dados/resultados da estratificação de risco e as características para a implementação das novas tecnologias. Relatórios, informes e Boletins Epidemiológicos também poderão ser utilizados para o cálculo do inidcador.
+Limitações: Limitação orçamentária e de recursos humanos para execução das ações em todas as esferas de gestão
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1694
+Indicador: 10936
+Denominação: Percentual de municípios estratificados em função do risco para arboviroses urbanas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Mede o número de municípios estratificados tendo como unidade de análise bairros ou áreas de abrangências
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Outubro de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios estratificados realizados no período de aferição de cada relatório; número total de municípios propostos para estratificação no projeto.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de estratificação socioambiental, epidemiológica e entomológica elaborados pela equipe do projeto.
+Forma De Disponibilização: Disponibilização por meio de relatórios e plataforma WEB.
+Procedimento De Cálculo: 1. Contabilizar em relatório de estratificação disponibilizado no período o número de municípios estratificados; 2. Dividir o número obtido no item 1 pelo número total de municípios propostos (10)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Entrega: 1670
+Indicador: 10909
+Denominação: Percentual de municípios notificando no formulário online da Declaração de Nascido Vivo ou da Declaração de Óbito
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Representa a implementação dos formulários eletrônicos dos sistemas de informação de estatítiscas vitais, que estão incluídos no Programa eSUS Linha da Vida. Esse programa visa modernizar os atuais sistema de informação da linha da vida por meio de uma plataforma on-line, desenvolvidos em novas e seguras tecnologias, como a disponibilização dos formulários eletrônicos da Declaração de Nascido Vivo e da Declaração de Óbito e das notificação online de doenças e agravos de notificação compulsória. Espera-se a garantia da segurança da informação e minimizando possibilidades de fraudes; reduzir subregistro de nascidos vivos e de óbitos; consolidar informações em nível federal de forma oportuna e tempestiva e fortalecer a integração com a Rede Nacional de Dados em Saúde (RNDS). Os dados gerados pelos sistemas de informação são fundamentais para avaliar e monitorar as condições de saúde de uma população, fornecendo subsídios para fomentar políticas e programas, auxiliar a gestão na tomada de decisão e para a reorganização das práticas nos serviços de saúde, sendo os sistemas de informações sobre estatísticas vitais premissa para este processo.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano subsequente ao ano de referência.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios que notificaram no sistema e-SUS Declarações (código do IBGE)
+Número de municípios no país, região ou estado
+Fonte De Dados Das Variáveis De Cálculo: Sistema e-SUS Declarações
+Forma De Disponibilização: http://plataforma.saude.gov.br/
+https://datasus.saude.gov.br/
+https://svs.aids.gov.br/daent/centrais-de-conteudos/paineis-de-monitoramento/
+Procedimento De Cálculo: 1. Calcular o número de municípios que realizaram notificações de nascido vivo no sistema e-SUS Declarações
+2. Dividir pelo total de municípios no estado, região ou país
+3. Multiplicar por 100
+Limitações: Interesse do município em passar a utilizar o Sistema e-SUS Declarações para registro da Declação de Nascido Vivo. A utilização dos formulários eletrônicos de nascidos vivos e de óbitos pelo municípios iniciar-se-á somente após a disponibilização "e-SUS Declarações", com previsão de conclusão do desenvolvimento em 2023. Após disponibilização do "e-SUS Declarações" e ampla divulgação, será necessário verificar o interesse do(s) município(s) em começar utilizar o sistema; capacitação/treinamento dos técnicos que utilizarão o sistema, bem como sanar possíveis intercorrências tendo em vista o novo processo de trabalho relacionado à temática.
+Notas Explicativas: O Ministério da Saúde trabalha para disponibilizar o Sistema e-SUS Declarações até final de 2023 para possibilitar o início de sua utilização a partir de janeiro de 2024
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Entrega: 1671
+Indicador: 10910
+Denominação: Percentual de municípios notificando no formulário online da Declaração de Óbito
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Representa a implementação dos formulários eletrônicos dos sistemas de informação de estatítiscas vitais, que estão incluídos no Programa eSUS Linha da Vida. Esse programa visa modernizar os atuais sistema de informação da linha da vida por meio de uma plataforma on-line, desenvolvidos em novas e seguras tecnologias, como a disponibilização dos formulários eletrônicos da Declaração de Nascido Vivo e da Declaração de Óbito e das notificação online de doenças e agravos de notificação compulsória. Espera-se a garantia da segurança da informação e minimizando possibilidades de fraudes; reduzir subregistro de nascidos vivos e de óbitos; consolidar informações em nível federal de forma oportuna e tempestiva e fortalecer a integração com a Rede Nacional de Dados em Saúde (RNDS). Os dados gerados pelos sistemas de informação são fundamentais para avaliar e monitorar as condições de saúde de uma população, fornecendo subsídios para fomentar políticas e programas, auxiliar a gestão na tomada de decisão e para a reorganização das práticas nos serviços de saúde, sendo os sistemas de informações sobre estatísticas vitais premissa para este processo.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano subsequente ao ano de referência.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Número de municípios que notificaram no sistema e-SUS Declarações (código do IBGE)
+Número de municípios no país, região ou estado
+Fonte De Dados Das Variáveis De Cálculo: Sistema e-SUS Declarações
+Forma De Disponibilização: http://plataforma.saude.gov.br/
+https://datasus.saude.gov.br/
+https://svs.aids.gov.br/daent/centrais-de-conteudos/paineis-de-monitoramento/
+Procedimento De Cálculo: 1. Calcular o número de municípios que realizaram notificações de óbitos no sistema e-SUS Declarações.
+2. Dividir pelo total de municípios no estado, região ou país
+3. Multiplicar por 100
+Limitações: Interesse do município em passar a utilizar o Sistema e-SUS Declarações para registro da Declação de Óbito.
+Notas Explicativas: O Ministério da Saúde trabalha para disponibilizar o Sistema e-SUS Declarações até final de 2023 para possibilitar o início de sua utilização a partir de janeiro de 2024			.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 487
+Entrega: 1698
+Indicador: 10940
+Denominação: Percentual de municípios prioritários para Vigilância em Saúde de Populações Expostas a Agrotóxicos c/ resultados do monitoramento de agrotóxicos em água p/ consumo humano, realizado pela setor saúde
+Índice De Referência: 23.7
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Permite verificar a concordância das ações da vigilância quanto ao monitoramento de agrotóxicos em água para consumo humano em relação a lista de municípios priorizados para implantar a VSPEA, incluindo municípios selecionados pelo Ministério da Saúde e pelas Secretarias Estaduais de Saúde.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Julho.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "Numerador: Número de municípios prioritários para a VSPEA com dados de monitoramento de agrotóxicos em água para consumo humano, realizado pela Vigilância, inseridos no Sisagua
+Denominador: Total de municípios prioritários para a VSPEA"
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Vigilância da Qualidade da Água para Consumo Humano (Sisagua)
+Forma De Disponibilização: Painel da Vigilância em Saúde das Populações Expostas a Agrotóxicos (VSPEA) -  https://www.gov.br/saude/pt-br/composicao/svsa/saude-do-trabalhador/renast/vspea 
+Sistema de Informação da Vigilância da Qualidade da Água para Consumo Humano (Sisagua) - http://sisagua.saude.gov.br/sisagua/paginaExterna.jsf
+Procedimento De Cálculo: Para elencar os municípios prioritários da VSPEA considerou-se: 
+i. Municípios selecionados pelo Ministério da Saúde: considerou-se a População Economicamente ativa Ocupada (PEAO) de acordo com censo IBGE de 2010 e a PEAO da atividade econômica da agricultura, pecuária, produção florestal, pesca e aquicultura (Seção A da CNAE, PEAO 2010). Método de cálculo: Proporção da PEAO na agropecuária (CNAE) em relação a população PEAO total por município. Ponto de corte: Primeiramente, foram selecionados os municípios com mais de 15.000 habitantes (cerca de 7.500 trabalhadores da PEAO) e, a partir disso, considerados como prioritários os municípios que possuíam pelo menos 30% da PEAO voltados para a agricultura. 
+ii. Municípios selecionados pelas Secretarias Estaduais de saúde: considerou-se os municípios que apresentam risco de exposição humana a outros tipos de agrotóxicos, como os de uso doméstico, de uso na saúde pública, os raticidas ou mesmo os produtos veterinários, configurando-se em municípios que possuem vulnerabilidade de exposição humana decorrente das dinâmicas dos territórios. 
+
+1. Extrair do Painel da Vigilância em Saúde das Populações Expostas a Agrotóxicos (VSPEA) lista de municípios priorizados para implantar a VSPEA 
+2. Extrair no Painel da Vigilância em Saúde das Populações Expostas a Agrotóxicos (VSPEA) os municípios priorizados para a VSPEA - https://www.gov.br/saude/pt-br/composicao/svsa/saude-do-trabalhador/renast/vspea
+3. Extrair o relatório "Amostras analisadas pela vigilância", selecionando todas opções de grupo "Informações Gerais e de coleta" e o campo "Agrotóxicos" do grupo "Resultados-demais parâmetros"; e identificar os municípios com, pelo menos, um dado de monitoramento de agrotóxicos no ano de referência.
+4. Calcular o percentual de municípios prioritários da VSPEA com informações do monitoramento de agrotóxicos em água de consumo humano no Sisagua
+Limitações: Limitação laboratorial do setor saúde; falta de priorização pelos gestores responsáveis; qualificação precária do corpo técnico; dificuldade na Inserção dos dados no Sisagua pela SMS e SES, conforme amostragem; falta de recurso financeiro específico para essa ação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Entrega: 1673
+Indicador: 10912
+Denominação: Percentual de municípios que notificaram violências interpessoais e autoprovocadas
+Índice De Referência: 79.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Representa o percentual de municípios no Brasil, estados e regiões, que realizaram ao menos uma notificação de violência interpessoal e autoprovocada.
+Desde 2011 a notificação de violência interpessoal e autoprovocada se tornou compulsória para todos os serviços de saúde públicos e privados do Brasil. Entre 2011 e 2021, a notificação das violências se expandiu no país, passando de 38% de municípios notificantes para 78,7%. No entanto, ainda há um elevado número de municípios silenciosos.
+As violências são eventos altamente prevalentes, e com graves impactos à saúde física e psiquica. Estima-se, por exemplo, que uma em cada três mulheres no mundo já tenham sido vítimas de alguma violência física ou sexual na vida. Dados da Pesquisa Nacional de Saúde 2019, no Brasil, demonstram que uma em cada cinco mulheres sofreram alguma violência psicológica, física ou sexual no ano anterior à pesquisa. A notificação é um instrumento fundamental para a visibilização desses eventos, inclusão das vítimas da rede de atenção integral e proteção à saúde, bem como uma obrigação legal, estabelecida nas Leis 10.778/2003, Estatuto da Criança e do Adolescente, Estatuto da Pessoa Idosa e Estatuto da Pessoa com Deficiência. Desse modo, aumentar a cobertura das notificações de violências, de modo a reduzir o subregistro, é fundamental para o fortalecimento do sistema e garantia do cuidado, proteção, e dos direitos humanos das pessoas em situação de violência.
+Período Ou Data A Que Se Refere: 30/06 e 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: Novembro do ano subsequente ao ano de referência.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios que notificaram ao menos uma violência (ID_MUNICIP)
+Número de municípios no País, região ou Estado
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação de Agravos de Notificação (Sinan - Violências)
+Forma De Disponibilização: http://plataforma.saude.gov.br/cidades/
+https://datasus.saude.gov.br/
+Procedimento De Cálculo: 1. Calcular o número de municípios que realizaram notificações de violências interpessoais e autoprovocadas, registrados no Sinan-Violências
+2. Dividir pelo total de municípios no estado, região ou país
+3. Multiplicar por 100
+Limitações: Não permite avaliar a cobertura das notificações segundo tipo de unidade notificadora.
+Notas Explicativas: O indicador responde à Política Nacional de Redução da Morbimortalidade por Acidentes e Violências, cuja coordenação é responsabilidade da CGDANT/DAENT/SVSA, bem como ao Plano de Ações Estratégicas para o Enfrentamento das Doenças e Agravos Não Transmissíveis no Brasil, 2021-2030
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Entrega: 3360
+Indicador: 12684
+Denominação: Percentual de municípios que operacionalizam vacinação no âmbito escolar
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Quantidade (%) de municípios que operacionalizaram a estratégia de vacinação nas escolas, conforme  preconizado pelo DPNI .
+Período Ou Data A Que Se Refere: 31/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numerador: (A) Número de municipios realizando a estratégia de vacinação nas escolas.                                                                                  Denominador: (B) Número de municípios brasileiros(5.570)                                                                                                                                                       Fator de multiplicação: 100
+Fonte De Dados Das Variáveis De Cálculo: Rede Nacional de dados em Saúde (RNDS)
+Forma De Disponibilização: Painel  de doses aplicadas do Calendário Nacional de Vacinação LocalizaSUS - https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_MENU_DOSES/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_MENU_DOSES.html
+Procedimento De Cálculo: Painel de Vacinação por Ocorrência: https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_OCORRENCIA/SEIDIGI_DEMAS_VACINACAO_CALENDARIO_NACIONAL_OCORRENCIA.html
+
+
+Selecione o ano desejado no filtro lateral.
+
+Escolha a estratégia:
+Marque "Vacinação Escolar" em "Estratégia de Vacinação".
+
+Clique na aba "Tabelas" na parte superior.
+
+Organize por "Município" e "Faixa Etária" usando os filtros da tabela.
+
+Clique no ícone de Baixar dados (canto superior direito da tabela) para baixar os dados em CSV.
+Limitações: Aspectos operacionais, como a adequada parametrização dos sistemas de informação conforme as regras dos Programas, a integração efetiva com a Rede Nacional de Dados em Saúde (RNDS) e o correto manejo desses sistemas pelos profissionais de saúde, podem impactar completude das informações.
+Notas Explicativas: A implementação da nova regra de registro denominada "Vacinação Escolar" em 2025 permite um monitoramento mais eficaz das informações de vacinação geradas dentro dessa estratégia. Além disso, essa ação está alinhada à Lei Federal nº 14.886/2024, que institui o Programa de Vacinação Escolar, e à Portaria GM/MS nº 6.715, de 17 de março de 2025, reforçando o compromisso com a ampliação da cobertura vacinal no ambiente escolar e contribuindo para a proteção coletiva da população infantojuvenil.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Entrega: 1674
+Indicador: 10913
+Denominação: Percentual de notificações de violência interpessoal e autoprovocada com campo orientação sexual preenchido com dados válidos
+Índice De Referência: 71.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Completude do campo 'Orientação sexual' da notificação de violência interpessoal e autoprovocada, expresso no percentual de notificações de violências com o campo preenchido com dados válidos (diferentes de '9-Ignorado' ou em branco)
+Trata-se de dado que expressa a qualidade de preenchimento do campo 'Orientação sexual' da ficha de notificação individual de violência interpessoal e autoprovocada no aspecto de completude. Os resultados são classificados segundo critério proposto por Romero e Cunha como Excelente (≥ 95%), Bom (≥ 90% e < 95%), Regular (≥ 90% e < 80%), Ruim (≥ 80% e < 70%), Muito ruim (≤ 70%). A meta é alcançar a excelência do preenchimento da variável.
+Período Ou Data A Que Se Refere: 30/06 e 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: Novembro do ano subsequente ao ano de apuração.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "1. Total de notificações de violência interpessoal e autoprovocada com o campo 'Orientação sexual' preenchido com informação válida [ORIENT_SEX]
+2. Total de casos notificados"
+Fonte De Dados Das Variáveis De Cálculo: Sinan-Violências
+Forma De Disponibilização: "http://plataforma.saude.gov.br/cidades/
+https://datasus.saude.gov.br/"
+Procedimento De Cálculo: "1. Calcular o número de notificações de indivíduos com 10 anos de idade ou mais em que o campo ORIENT_SEX foi preenchido com valores válidos [Diferente de Ignorado ou Missing]
+2. Dividir pelo total de notificações de indivíduos com 10 anos de idade ou mais
+3. Multiplicar por 100"
+Limitações: O campo 'Orientação sexual', em seu formato atual, não abarca todas as possibilidades de orientação sexual com as quais um indivíduo pode se identificar, limitando seu preenchimento nos casos que fogem às opções disponíveis na ficha de notificação. Diz respeito apenas à qualidade de um dos campos da ficha de notificação, não permitindo mensurar outros aspectos de qualidade.
+Notas Explicativas: "O preenchimento de variáveis relativas a vulnerabilidades para as violências é essencial para a identificação dessas populações e formulação de ações específicas para o enfrentamento dessas violências. No caso das notificações de violências interpessoais e autoprovocadas, os campos relativos a orientação sexual e identidade de gênero são essenciais para identificar violências contra a população LGBT, e para dar resposta à Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais. 
+Não obstante a sua importância, ainda há um baixo grau de preenchimento, uma vez que ainda prevalecem, na atuação de profissionais de saúde, a percepção equivocada de que aspectos de orientação sexual e identidade de gênero se tratam de aspectos privados, e pouco relevantes para o cuidado em saúde. A identificação desses grupos populacionais na notificação é importante, tendo em vista se tratar de grupos sob maior risco de vitimização."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Entrega: 1672
+Indicador: 10911
+Denominação: Percentual de óbitos com causa básica registrada como 'evento cuja intenção é indeterminada', no total de óbitos por causas externas
+Índice De Referência: 9.27
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O registro adequado da causa básica de óbito, entre as causas externas, exige a investigação da intencionalidade do evento, a fim de determinar se tratou-se se um evento acidental, uma violência interpessoal ou uma violência autoprovocada. Na ausência de informações ou de investigação que permitam determinar a intencionalidade do evento que resultou na morte, os óbitos são registrados como 'eventos cuja intenção é indeterminada', os quais representam classificações de causa básica de óbito pouco informativas. A qualificação desses dados é essencial para a produção de indicadores de mortalidade por causas externas, incluindo homicídios, suicídios e causas acidentais, fidedígnos. Nesse sentido, esse indicador visa avaliar a qualidade do registro da causa básica de óbito por causa externa, a fim de qualificar esse registro, e reduzir a proporção de mortes por eventos de intenção indeterminada.
+Período Ou Data A Que Se Refere: 30/06 e 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: Mês seguinte à disponibilização dos dados oficiais de mortalidade (dados do SIM) do ano de refência.
+Periodicidade: Semestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Número de óbitos por eventos de intenção indeterminada [CID-10: Y10-Y34] [CAUSABAS]
+Número de óbitos por causas externas [CID-10: V01-Y98] [CAUSABAS]
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Mortalidade Infantil (SIM)
+Forma De Disponibilização: http://plataforma.saude.gov.br/cidades/
+https://datasus.saude.gov.br/
+Procedimento De Cálculo: 1. Calcular o número de óbitos por eventos de intenção indeterminada [CID-10: Y10-Y34]
+2. Calcular o número de óbitos por causas externas [CID-10: V01-Y98]
+3. Multiplicar por 100
+Limitações: Considerando que todo óbito por causa externa deve ser encaminhado para o IML para investigação e devida classificação da "causa morte", este indicador dependerá de ações que extrapolam o âmbito de atuação do setor saúde.
+Notas Explicativas: Todo óbito por causa externa deve ser encaminhado para o IML para investigação e devida classificação da "causa morte". Desta forma, os resultados do indicador envolvem as ações desenvolvidas pela segurança pública.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 484
+Entrega: 1677
+Indicador: 10916
+Denominação: Proporção de cura de casos novos de tuberculose pulmonar com confirmação laboratorial
+Índice De Referência: 67.6
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Esse indicador expressa a efetividade do tratamento da pessoa com tuberculose. O alcance da meta pactuada visa à redução da transmissão da doença no território, diminuindo a ocorrência de novos casos.
+Período Ou Data A Que Se Refere: Analisados no ano corrente e faz referência aos casos diagnosticados no ano anterior.
+Data De Divulgação/Disponibilização: Divulgado anualmente no boletim epidemiológico da tuberculose, publicado geralmente no mês de março, além de ser atualizado 3 vezes ao ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numerador: Número de casos novos de tuberculose pulmonar com confirmação laboratorial encerrados por cura por data de diagnóstico
+Denominador: Número de casos novos de tuberculose pulmonar com confirmação laboratorial notificados por data de diagnóstico
+Fator de multiplicação: x 100
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação de Agravos de Notificação (SINAN)
+Forma De Disponibilização: Boletim epidemiológico anual da TB; Plataforma IVIS; Relatório Anual de Gestão do Ministério da Saúde
+Procedimento De Cálculo: Para cálculo pelo Tabwin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   1ª Etapa: Executar a 1ª tabulação (selecionar todos os casos pulmonares)
+ARQUIVO DE DEFINICÃO C:\SinanNet\BaseDBF\TuberculNet5_0.def
+LINHAS Ano de Diagnóstico (ano anterior ao ano corrente)
+COLUNAS Situação Encerra.
+INCREMENTO Frequência
+SELEÇÕES ATIVAS 
+Ano Diagnóstico:  ano desejado (ano anterior ao ano corrente)
+Tipo de entrada: Caso Novo, pós-óbito e não sabe
+Forma Pulmonar e Pulmonar+Extrapulmonar
+Uf Res / Município Res   (UF/Município Selecionado)
+Situação encerramento: Marcar todos, exceto Mudança de Diagnóstico, TB-DR,
+Mudança de esquema e Falência
+NÃO CLASSIFICADOS Marcar “Ignorar”
+ Renomear todas as colunas acrescentando PULM. (Exemplo: Cura PULM, Abandono PULM, Total PULM, etc.)
+ Salvar a tabela: PULMONARES.
+Executar a 2ª tabulação (selecionar todos os casos pulmonares que não tiveram confirmação laboratorial)                                                                                                                                                                                                                                                               ARQUIVO DE DEFINICÃO C:\SinanNet\BaseDBF\TuberculNet5_0.def
+LINHAS Ano de Diagnóstico (ano anterior ao ano corrente)
+COLUNAS Situação Encerra.
+INCREMENTO Frequência
+SELEÇÕES ATIVAS 
+Ano Diagnóstico: ano desejado (ano anterior ao ano corrente)
+Tipo de entrada: Caso Novo, pós-óbito e não sabe
+Forma Pulmonar e Pulmonar+Extrapulmonar
+Uf Res / Município Res   (UF/Município Selecionado)
+Bacilosc. Escarro Marcar todos, exceto a Positiva
+2ª Bacilosc. Escarro Marcar todos, exceto a Positiva
+Cultura Marcar todos, exceto a Positiva
+Teste rápido TB Marcar todos, exceto as opções com detectável
+Situação encerramento: Marcar todos, exceto Mudança de Diagnóstico, TB-DR,
+Mudança de esquema e Falência
+NÃO CLASSIFICADOS Marcar “Ignorar”
+ Renomear todas as colunas acrescentando SEM CONF. (Exemplo: Cura SEM CONF, Abandono SEM CONF, Total SEM CONF, etc.)
+ Salvar a tabela: PULMONARES SEM CONFIRMAÇÃO.
+
+2ª Etapa – Incluir a tabela anterior (PULMONARES) e subtrair as colunas “SEM CONF” das “PULM”.
+ Selecionar opção “Subtrair” no menu “Operações”.
+ Na opção “Minuendo” selecione as colunas com “PULM” e clique em “OK”.
+ Na opção “Subtraendo” selecione as colunas com “SEM CONF” e clique em “OK”
+ Modificar o título das colunas DIFERENÇA para “LAB”.
+
+3ª Etapa - manter apenas as colunas Cura LAB e Total LAB, eliminando as outras, clicando no menu Quadro, opção Eliminar colunas e selecionando as que devem ser eliminadas.
+
+4ª Etapa - Cálculo dos percentuais:
+ Selecione a opção Calcular Indicador no menu Operações:
+ Selecione na opção Numerador – Cura LAB
+ Selecione na opção Denominador – Total LAB
+ Marque na opção Escala – 100
+ Marque na opção Casas decimais – 1
+ Escreva no Título da coluna – % Cura LAB
+ Mova a coluna “% Cura LAB” para depois da coluna “Cura LAB”.
+Limitações: São considerados casos com confirmação laboratorial aqueles indivíduos que apresentam pelo menos uma amostra positiva de baciloscopia, de teste rápido molecular ou de cultura para tuberculose na ocasião do diagnóstico da doença. A confirmação laboratorial é um aspecto relacionado a organização da rede de atenção para acesso a exames e qualificação do diagnóstico.
+Notas Explicativas: Dados de 2021, atualizado com a base do Sinan qualificada pela CGTM em abril/2023.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Entrega: 1688
+Indicador: 10930
+Denominação: Proporção de municípios com avaliação e estratificação de risco realizadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: O risco de infecção para as arboviroses urbanas não é homogêneo no território brasileiro. Nesse sentido, as novas diretrizes para o controle vetorial devem considerar a priorização de territórios para a implementação de novas tecnologias de controle vetorial. Baseado na proposta de identificar cenários prioritários para o controle vetorial criada pelo Ministério da Saúde, é necessário que seja realizada uma análise das condições de risco por local, apresentadas em um relatório.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Junho e Dezembro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Serão considerados municípios com estratificação de risco realizada aqueles com avaliações orientadas pelo MS ou parceiros, além daquelas avaliações executadas com recursos disponibilizados para essa finalidade.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios, Planos de Trabalho, Informes e Boletins Epidemiológicos publicados pela Coordenação-Geral de Vigilância de Arboviroses (CGARB/DEDT/SVSA/MS), pelas Secretarias de Estado da Saúde e pelas Secretarias Municipais de Saúde.
+Forma De Disponibilização: Nota Informativa divulgada nos meios de comunicação oficiais do MS.
+Procedimento De Cálculo: Os municípios que pleitearão a implementação de novas tecnologias de controle vetorial deverão apresentar um Plano de Trabalho ao MS, para informar os dados/resultados da estratificação de risco e as características para a implementação das novas tecnologias. Relatórios, Informes e Boletins Epidemiológicos também poderão ser utilizados para o cálculo do indicador.
+Limitações: Não disponibilidade dos relatórios estaduais em tempo oportuno.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 484
+Entrega: 1676
+Indicador: 10915
+Denominação: Proporção de pessoas vivendo com HIV/aids, vinculadas aos serviços de saúde do SUS, em tratamento antirretrovirall
+Índice De Referência: 88.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador dimensiona a proporção de pessoas viviendo com HIV/aids (PVHA) vinculadas aos serviços de saúde do SUS e que estao em terapia antirretroviral (TARV), residentes em determinado espaço geográfico, no período analisado. O aumento da cobertura de PVHA em TARV contrinui para o controle da epidemia, uma vez que aquelas PVHA em TARV com carga viral indetectável não transmitem o vírus (Indetectável = Intransmissível).
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: Semestralmente divulagados em http://indicadoresclinicos.aids.gov.br/ e publicados anualmente no Relatório de Monitoramento Clínico do HIV
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "Numerador: Número de PVHA vinculadas (que realizaram pelo menos um CD4 ou CV ou tiveram pelo menos uma dispensação no ano), e que estavam em TARV (tiveram pelo menos uma dispensação nos últimos 120 dias do referido ano)
+Denominador: Número de PVHA vinculadas (que realizaram pelo menos um CD4 ou CV ou tiveram pelo menos uma dispensação no ano)
+Fator de multiplicação: x100"
+Fonte De Dados Das Variáveis De Cálculo: "Sistema de Controle Logístico de Medicamentos - Siclom
+Sistema de Controle de Exames Laboratoriais - Siscel"
+Forma De Disponibilização: Relatório de Monitoramento Clínico do HIV, http://indicadoresclinicos.aids.gov.br/
+Procedimento De Cálculo: "1ª etapa: no banco do Siscel selecionar as PVHA que realizaram pelo menos um exame de CD4 ou CV no referido ano
+2ª etapa: no banco do Siclom selecionar as PVHA que tiveram pelo menos uma dispensação de ARV no referido ano
+3ª etapa: juntar os dois bancos e contar uma única vez as PVHA que tiveram dispesanção ou fizeram CD4 ou CV, definidas como vinculadas (denominador)
+4ª etapa: contar uma única vez as PVHA que tiveram dispesanção nos últimos 120 dias no referido ano, definidas com em TARV (numerador)
+5ª etapa: calcular o indicador dividindo o numerados pelo denominador e multiplicar por 100"
+Limitações: É uma proxy da cobertura de TARV nas PVHA como um todo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5123
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 484
+Indicador: 10900
+Denominação: Indice composto de HIV/aids, TB, HCV, HBV e sífilis congênita
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: índice numérico
+Descrição: Esse índice composto mensura conjuntamente a carga do HIV/aids, TB, HCV, HBV e sífilis congênita no país. A diminuição dessa carga é fundamental para o alcance das metas de eliminação dessas doenças de determinação social.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Os indicadores utilizados são calculados da seguinte maneira:
+1. Taxa de incidência de sífilis congênita em menores de um ano por 1.000 nascidos vivos
+Numerador: (Número de casos de aids em um determinado ano de diagnóstico) X 1.000
+Denominador: Número de nascidos vivos no ano analisado 
+
+2. Taxa de detecção de aids em menores de 5 anos por 100.000 habitantes
+Numerador: (Número de casos de aids em menores de 5 anos de idade no ano analisado) X 100.000
+Denominador: População de menores de 5 anos de idade no ano analisado
+
+3. Taxa de detecção de hepatite B em crianças de 0 a 6 anos por 100.000 habitantes
+Numerador: (Número de casos de confirmados de hepatite B em crianças de 0 a 6 anos de idade no ano analisado) X 100.000
+Denominador: População de menores de 5 anos de idade no ano analisado
+
+4. Taxa de detecção de casos de tuberculose
+Numerador: (Número de casos registrados de tuberculose (casos novos e recidivas) X 100
+Denominador: Número de casos de tuberculose estimados por meio de modelo matemático pela OMS
+
+5. Taxa de detecção de aids em adultos maiores de 13 anos por 100.000 habitantes
+Numerador: Número de casos de aids em menores de 5 anos de idade no ano analisado X 100.000
+Denominador: População de menores de 5 anos de idade no ano analisado
+
+6. Razão entre o número de casos de hepatite C e o número de pessoas tratadas para hepatite C
+Numerador: Número de pessoas tratadas para hepatite C X 100
+Denominador: Número de casos de hepatite C no ano analisado
+Fonte De Dados Das Variáveis De Cálculo: Sífilis congênita: Sinan/SVS/MS
+Aids: Sinan/SVS/MS, Siscel/SVS/MS, Siclom/SVS/MS e SIM/SVS/MS.
+Hepatite B: Sinan/SVS/MS
+Hepatite C: Sinan/SVS/MS e Siclom-HV/SVS/MS
+Tuberculose: Sinan/SVS/MS e Relatório anual da OMS
+População: IBGE
+Forma De Disponibilização: No site do DATHI/SVSA/MS
+Procedimento De Cálculo: O índice pode variar de 0 a 6 pontos e é calculado somando um ponto se:
+1. Há diminuição de 0,1 caso, por 1.000 nascidos vivos, na taxa de incidência de sífilis congênita em menores de um ano na comparação do ano analisado com o ano anterior;
+2. Há diminuição de 0,1 caso, por 100.000 habitantes, na taxa de detecção de aids em menores de 5 anos na comparação do ano analisado com o ano anterior;
+3. A taxa de detecção de hepatite B em crianças de 0 a 5 anos, por 100.000 habitantes, no ano analisado, é menor do que 0,5;
+4. Há diminuição de 1% no coeficiente de incidência de tuberculose em 2024 comparado com 2023, 2% em 2025 comparado com 2024, 3% em 2026 comparado com 2025, 4% em 2027 comparado com 2026;
+5. A taxa de detecção de aids em adultos maiores de 13 anos é menor do que 22 por 100.000 habitantes no ano analisado;
+6. A proporção de pessoas tratadas para hepatite C é maior que 90% dos casos detectados de hepatite C no ano analisado.
+
+1. Taxa de incidência de sífilis congênita em menores de um ano por 1.000 nascidos vivos
+1ª etapa: extrair do Sinan (Sistema de Informação de Agravos de Notificação) os casos confirmados de sífilis congênita em menores de um ano, segundo ano de diagnóstico e local de residência desejado (numerador).
+
+2ª etapa: extrair do Sinasc (Sistema de Informação de Nascidos Vivos) os nascidos vivos, segundo ano de nascimento e local de residência (denominador).
+3ª etapa: calcular o indicador em questão, dividindo o numerador pelo denominador e multiplicando por 1.000.
+
+2. Taxa de detecção de aids em menores de 5 anos por 100.000 habitantes
+1ª etapa: Realizar o relacionamento entre as bases de dados do Sinan (Sistema de Informação de Agravos de Notificação), Sim (Sistema de Informação sobre Mortalidade), Siscel (Sistema de Controle de Exames Laboratoriais) e Siclom (Sistema de Controle SIM de Medicamentos), para captura de casos de aids detectados em outros sistemas além dos casos detectados no Sinan.
+
+2ª etapa: extrair do banco relacionado os casos de aids em menores de 5 anos, segundo ano de detecção e local de residência (numerador).
+
+3ª etapa: extrair da página do Tabnet no site do Datasus a população menor de 5 anos de idade, segundo ano e local de residência (denominador).
+
+4ª etapa: calcular o indicador em questão, dividindo o numerador pelo denominador e multiplicando por 100.000.
+
+3. Taxa de detecção de hepatite B em crianças de 0 a 6 anos por 100.000 habitantes
+1ª etapa: extrair do Sinan (Sistema de Informação de Agravos de Notificação) os casos confirmados de hepatite B em crianças de 0 a 6 anos de idade, segundo ano de diagnóstico e local de residência (numerador).
+
+2ª etapa: extrair da página do Tabnet no site do Datasus a população de crianças de 0 a 6 anos de idade, segundo ano e local de residência (denominador).
+3ª etapa: calcular o indicador em questão, dividindo o numerador pelo denominador e multiplicando por 100.000.
+
+4. Taxa de detecção de casos de tuberculose
+
+1ª etapa: extrair do Sinan (Sistema de Informação de Agravos de Notificação) todos os casos novos de tuberculose (considerar o ano diagnóstico de interesse, o tipo de entrada "caso novo, não sabe e pós-óbito" e a situação de encerramento "todos, exceto mudança de diagnóstico") (numerador).
+
+2ª etapa: extrair da página do Tabnet no site do Datasus a população segundo ano e local de residência (denominador)
+
+3ª etapa: realizar o cálculo do coeficiente de incidência, dividindo o numerador pelo denominador e multiplicando por 100.000.
+
+5. Taxa de detecção de aids em adultos maiores de 13 anos por 100.000 habitantes
+
+1ª etapa: Realizar o relacionamento entre as bases de dados do Sinan (Sistema de Informação de Agravos de Notificação), Sim (Sistema de Informação sobre Mortalidade), Siscel (Sistema de Controle de Exames Laboratoriais) e Siclom (Sistema de Controle Logístico de Medicamentos), para captura de casos de aids detectados em outros sistemas além dos casos detectados no Sinan.
+
+2ª etapa: extrair do banco relacionado os casos de aids em adultos maiores de 13 anos de idade, segundo ano de detecção e local de residência (numerador).
+
+3ª etapa: extrair da página do Tabnet no site do Datasus a população de adultos maiores de 13 anos de idade, segundo ano e local de residência (denominador).
+
+4ª etapa: calcular o indicador em questão, dividindo o numerador pelo denominador e multiplicando por 100.000.
+
+6. Razão entre o número de casos de hepatite C e o número de pessoas tratadas para hepatite C
+
+1ª etapa: selecionar no Sinan (Sistema de Informação de Agravos de Notificação) os casos confirmados de hepatite C segundo ano de diagnóstico e local de residência desejado (numerador).
+
+2ª etapa: no banco do Siclom, selecionar as pessoas que receberam tratamento no referido ano
+3ª etapa: contar uma única vez as pessoas que tiveram dispesanção no referido ano (denominador)
+
+4ª etapa: calcular o indicador em questão, dividindo o numerador pelo denominador e multiplicando por 100.
+Limitações: "Por se tratar de um índice composto, é possível que ele não reflita com exatidão a diminuição da incidência dos agravos que compõe o índice. Ainda, os aumentos observados nos indicadores de detecção não necessariamente refletem piora na carga das doenças e sim estar associados à melhora na qualidade do diagnóstico, o que pode influenciar negativamente o índice.			"
+Notas Explicativas: Na análise dos resultados deste índice composto, no período de 2024 a 2027, serão utilizadas informações geradas pelo monitoramento dos indicadores especificados para cada doença uma das determinação social (HIV/aids, TB, HBV, HCV e sífilis congênita).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 28
+Indicador: 8819
+Denominação: Número absoluto de casos autóctones de malária na região amazônica
+Índice De Referência: 129000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Estima o número de casos de malária (códigos B50 a B54 da CID – 10) com transmissão local, ou seja, dentro do Brasil. São excluídos os resultados de Lâmina de Verificação de Cura (LVC) por estarem relacionadas a recidivas (recrudescências e recaídas).
+Período Ou Data A Que Se Refere: A cada semana do ano corrente.
+Data De Divulgação/Disponibilização: Semanalmente (terça-feira).
+Periodicidade: Semanal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: - número de exames positivos de malária (código B50 a B54 da CID-10) no ano por local provável de infecção na região Amazônica;
+- lâminas de verificação de cura (LVC) por ser tratar de recidivas (recrudescências e recaídas).
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação de Vigilância Epidemiológica - Malária (Sivep-Malária), na região amazônica;
+Sistema de Informação de Agravos de Notificação (Sinan), na região extra-amazônica; e
+e-SUS VS, somente no estado do Espírito Santo.
+Forma De Disponibilização: www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/malaria.
+Procedimento De Cálculo: Sivep-Malária, Sinan/SVS/MS e e-SUS VS (para o estado do Espírito Santo): O usuário deverá acessar o “Saúde de A a Z”, do Portal gov.br/saúde. Na página inicial, o usuário deverá direcionar para seção “Situação Epidemiológica da Malária”. Em seguida, ir para o item “dados, boletins e mapas interativos”, e posteriormente clicar em "dados para o cidadão".  Nesta rotina é possível verificar o número de casos autóctones ano a ano, no Brasil.
+Método para filtrar dados a partir da base de dados:
+Sivep-Malária: Base: NOTIPOXX.csv, sendo XX igual ao ano da base de dados com 2 dígitos (Ex: NOTIPO22.csv). Contar número de registros, agrupados por município (MUN_INFE) ou por unidade da federação (UF_INFEC), sendo ID_LVC = 2. 
+Sinan Net (a partir de 2007): Base: MALANXX.dbf, sendo XX igual ao ano da base de dados com 2 dígitos (Ex: MALAN22.dbf). Contar número de registros, agrupados por município (COMUNINF) ou por unidade da federação (COUFINF), sendo RESULT ≠ 1, AT_LAMINA ≠ 3.
+e-SUS VS (a partir de 2021): Base: esusvs_21823_Malaria_X.csv, sendo X relacionado à data de atualização da base de dados e outras informações. Contar número de registros, agrupados por município (c_municipio_prov_infec) ou por unidade da federação (c_uf_prov_infec), sendo de_result_exame ≠ 1 e ae_tipo_lamina ≠ 3.
+Limitações: ▪ Estima o número de casos da doença pelo número de exames positivos de malária, o que pode resultar em duplicidade de registro, quando o mesmo paciente é submetido a mais de um exame.
+▪ Depende das condições operacionais do sistema de informação de cada área geográfica para que a notificação seja inserida de forma oportuna.
+▪ Depende da correta investigação e digitação dos casos por parte da vigilância municipal.
+Notas Explicativas: ▪ Analisa variações geográficas e temporais na distribuição dos casos autóctones de malária, como parte do conjunto de ações de vigilância epidemiológica e ambiental da doença.
+▪ Subsidia processos de planejamento, gestão e avaliação de políticas e ações de saúde direcionadas ao controle e à eliminação da malária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 472
+Indicador: 10782
+Denominação: Número de exames/ano laboratoriais realizados pela RNLSP
+Índice De Referência: 7415224.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a capacidade de diagnóstico de doenças de notificação compulsória, permitindo a redução do tempo da resposta aos pacientes, com consequente diminuição da morbimortalidade, especialmente, àquelas causadas pelas doenças infecciosas, e principalmente em regiões isoladas e promovendo o aumento da capacidade resolutiva (maior número de respostas no menor tempo possível) dos Laboratórios Públicos Estaduais e Municipais potencializando de forma transversal a saúde da população.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: nº de exames realizados por UF: esse dado é retirado do sistema Gerenciador de Ambiente Laboratorial (GAL), abrange todas as metodologias de diagnóstico e agravos.
+Fonte De Dados Das Variáveis De Cálculo: Gerenciador de Ambiente Laboratorial (GAL)
+Forma De Disponibilização: Gerenciador de Ambiente Laboratorial (GAL
+Procedimento De Cálculo: Acesso ao banco de dados do GAL; Por meio da ferramente R é realizado a extração e tratamento das variáveis: status igual a exames realizados; UF/Região; método de diagnóstico; ano de coleta; É gerado um banco de dados e organizado em planilha Excel.
+Limitações: "Instabilidade dos dados pelos estados; Falha de sistema".
+Notas Explicativas: O índice de referência é a média da capacidade anual, instalada dos laboratórios de realização de exames dos últimos 4 anos (2018; 2019;2020;2022), desconsiderando o ano epidêmico (2021).
+Na previsão das metas anuais foi considerada a capacidade de análise dos laboratórios para o período de 12 meses.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Indicador: 10904
+Denominação: Percentual de conclusão da estratégia de fortalecimento das capacidades das unidades federativas no enfrentamento às Emergências em Saúde Pública
+Índice De Referência: 16.8
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede o progresso da implementação da estratégia de fortalecimento das capacidades das Unidades Federativas (UF) para o enfrentamento de Emergências em Saúde Pública (ESP).
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número e área de cobertura dos CIEVS na região de saúde; número de hospitais elegíveis com núcleo de vigilância epidemiológica hospitalar implantado na região de saúde; vigidesastres com cobertura na região de saúde implantado; profissionais capacitados no episus fundamental na região de saúde.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Gestão Anual do Departamento de Emergências em Saúde Pública
+Forma De Disponibilização: Comunicação administrativa pelo Sistema Eletrônico Informatizado (SEI!)
+Procedimento De Cálculo: Deve-se verificar junto ao DEMSP/SVSA/MS a presença dos serviços de preparação, vigilânia e resposta em cada região de saúde ou a constatação de cobertura desses serviços para a região de saúde. Uma região de saúde é considerada adequada com presença das ações de preparação, vigilância e resposta" quando seu território tiver a cobertura dos quatro elementos (CIEVS, RENAVEH, VIGIDESASTRES e EPISUS FUNDAMENTAL).
+Limitações: Alteração no planejamento das entregas por mudanças políticas, insustentabilidade orçamentária ou falta de adesão/participação dos usuários, gestores, estados e municípios.
+Notas Explicativas: A extensão da cobertura de cada um dos quatro elementos pode variar de acordo com a região de saúde ou o tipo de elemento. Por exemplo, espera-se que uma equipe de vigidesastres esteja implantada em cada estado, não sendo necessário que haja uma equipe em cada região de saúde. Por outro lado, para a RENAVEH e EPISUS fundamental, é necessário que a cobertura seja avaliada em nível territorial de região de saúde.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 489
+Indicador: 10905
+Denominação: Percentual de execução das ações de produção de conhecimento planejadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Produção de conhecimento sobre determinantes ambientais da saúde (mudanças do clima, poluição e biodiversidade) para fortalecimento da inovação do SUS e melhoria da qualidade de vida da população brasileira.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: P=Numero de produção de conhecimento sobre determinantes ambientais da saúde (mudanças do clima, poluição e biodiversidade)  executadas.
+TP=Total de produções planejadas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Apoio à Gestão - SAGE
+Forma De Disponibilização: Metas físicas cadastradas no Sistema de Apoio à Gestão - SAGE
+Procedimento De Cálculo: Contabilizar em relatório anual a produção de conhecimento xsobre determinantes ambientais da saúde (mudanças do clima, poluição e biodiversidade)  executadas, dividido pelo total de planejadas, multiplicado por 100.
+Limitações: Insuficiência de recursos para realizar as ações.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 486
+Indicador: 10902
+Denominação: Percentual de imunobiológicos distribuídos aos estados de acordo com a demanda estimada
+Índice De Referência: 93.6
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador irá medir o percentual de imunobiológicos distribuídos aos estados com base no planejamento realizado para o ano. O planejamento é feito anualmente de acordo com a demanda estimada dos estados.
+Período Ou Data A Que Se Refere: De 01/01  até o ultimo dia do mês a que se refere o indicador.
+Data De Divulgação/Disponibilização: 30 dias após o último dia do mês a que se refere o indicador.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numerador: Quantidade de doses de imunobiológicos distribuidos no ano
+Denominador: Número de doses de imunobiológicos planejados para distribuição
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação de Insumos Estratégicos - SIES; Sistema de Administração de Material/Medicamentos - SISMAT; e Planejamento e Gerenciamento de Contratações - PGC.
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Numerador: Acesso ao SIES, selecionar a entidade SVS, Selecionar a Área e os Imunobiológicos> Clicar em Relatórios> Relação de saídas por requisitantes> inserir período.
+Denominador: Verificar a Reprogramção da PLOA do ano vigente> Verificar o quantitativo planejado e identificar o estoque estratégico> Subtrair o total de estoque estratégico do total de isumos planejados.
+Limitações: Trâmites administrativos do processo para celebração de Contratos; não cumprimento do cronograma de entrega pré-estabelecido em Contrato; indisponibilidade de recebimento os imunobiológicos pela central de armazenagem; demora no processo de embarque para produtos importados; atraso na liberação de Termo de Guarda para imunobiológicos importados, pela Agência Nacional de Vigilância Sanitária e órgão de controle; atraso para liberação da vacina pelo Instituto Nacional de Controle de Qualidade em Saúde; situações de surto; indisponibilidade do imunobiológico no mercado nacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Indicador: 10901
+Denominação: Percentual de municípios com cobertura adequada (95%) das vacinas: penta(DTP/HepB/Hib) - PENTA; polio injetável - VIP; e pneumo 10 - VPC10, sarampo, caxumba, rubéola - SCR, em crianças de até 1 ano d
+Índice De Referência: 29.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mede a homogeneidade da cobertura de vacinas do calendário infantil, verificando o atingimento da meta pelos municípios brasileiros.
+Período Ou Data A Que Se Refere: último dia do mês.
+Data De Divulgação/Disponibilização: Décimo dia útil do mês subsequente.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1. Número de municípios que atingiram pelo menos 95% de cobertura vacinal para as 5 vacinas selecionadas:  penta(DTP/HepB/Hib) - PENTA; polio injetável - VIP; pneumo 10 - VPC10, sarampo, caxumba, rubéola - SCR em  menores de 1 ano e de 1 ano de idade.
+2. Número de municípios brasileiros.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas de Informação Oficiais do Programa Nacional de Imunizações SIPNI/e-SUS-APS
+Forma De Disponibilização: SI-PNI Gestão
+Procedimento De Cálculo: "Medir a Coberura vacinal municipal para cada uma das vacinas selecionadas: penta(DTP/HepB/Hib) - PENTA; polio injetável - VIP; pneumo 10 - VPC10, sarampo, caxumba, rubéola - SCR em  crianças de até 1 ano de idade. Verificar o número de municípios brasileiros que atingiram a meta de cobertura vacinal (95%) para as 4 vacinas selecionadas. Dividir o número de municípios que atingiram a meta de cobertura vacinal (95%) para as 4 vacinas selecionadas pelo total de municípios brasileiros e multiplicar o resultado encontrado por 100.       
+OBS.:  Em crianças menores de 1 ano de idade : (penta(DTP/HepB/Hib) - PENTA - 3ª Dose, polio injetável - VIP - 3ª Dose, pneumo 10 - VPC10 - 2ª Dose). Em crianças de 1 ano de idade: (sarampo, caxumba, rubéola - SCR - 1ª dose)."
+Limitações: Registro  e transmissão de dados do nível local para base nacional; adesão da população á vacinação; acesso da população aos serviços de vacinação
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 487
+Indicador: 10903
+Denominação: Percentual de municípios prioritários com Vigilância em Saúde de Populações Expostas a Agrotóxicos (VSPEA) implantada
+Índice De Referência: 27.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: %
+Descrição: Mede o percentual de implantação da VSPEA nos municípios prioritários considerando o desenvolvimento de ações de vigilância e atenção integral à saúde da populações expostas a agrotóxicos, capacitação dos profissionais da vigilância e da atenção à saúde e promoção da saúde da população. Possui a finalidade de subsidiar o processo de planejamento, gestão e avaliação de políticas e ações de vigilância das populações expostas aos agrotóxicos.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador.
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numerador: Número de municípios prioritários que implantaram a Vigilância de Populações Expostas a Agrotóxicos(VSPEA): Será considerado o total de municípios que implantaram a VSPEA acumulado no período de vigência do PPA, considerando o atendimento simultâneo de tres critérios: instituição de Grupo de Trabalho ou estrutura similar para discussão da VSPEA; elaboração de plano de ação para VSPEA; notificação de casos de intoxicação exógena por agrotóxicos.
+Denominador: serão considerados os 658 municípios prioritários do país. 
+Fator de multiplicação: 100
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação de Agravo de Notificação (Sinan); Formulário digital de coleta de dados da VSPEA
+Forma De Disponibilização: Painel da Vigilância em Saúde das Populações Expostas a Agrotóxicos (VSPEA): https://www.gov.br/saude/pt-br/composicao/svsa/saude-do-trabalhador/renast/vspea
+Procedimento De Cálculo: "Definição critérios para a escolha dos municípios prioritários:
+Para elencar os municípios prioritários considerou-se: 
+1. Municípios selecionados pelo Ministério da Saúde: considerou-se a População Economicamente ativa Ocupada (PEAO) de acordo com censo IBGE de 2010 e a PEAO da atividade econômica da agricultura, pecuária, produção florestal, pesca e aquicultura (Seção A da CNAE, PEAO 2010). Método de cálculo: Proporção da PEAO na agropecuária (CNAE) em relação a população PEAO total por município. Ponto de corte: Primeiramente, foram selecionados os municípios com mais de 15.000 habitantes (cerca de 7.500 trabalhadores da PEAO) e, a partir disso, considerados como prioritários os municípios que possuíam pelo menos 30% da PEAO voltados para a agricultura. 
+2. Municípios selecionados pelas Secretarias Estaduais de saúde: considerou-se os municípios que apresentam risco de exposição humana a outros tipos de agrotóxicos, como os de uso doméstico, de uso na saúde pública, os raticidas ou mesmo os produtos veterinários, configurando-se em municípios que possuem vulnerabilidade de exposição humana decorrente das dinâmicas dos territórios. 
+Para efeito de monitoramento, considera-se a VSPEA implantada os municípios que cumprirem os seguintes requisitos dentro do período da meta:
+1. Criar de GT ou estrutura similar;
+2. Elaborar de plano de ação para VSPEA
+3. Notificar casos de intoxicação exógena por agrotóxicos
+Limitações: A implantação depende da adesão das Secretarias Municipais de Saúde, além do apoio das Secretarias Estaduais de Saúde. A falta de recurso financeiro específico para essa ação pode ser considerada um risco. Riscos adicionais:
+Dificuldades na comunicação e recebimento de informações dos municípios;
+Ausência de documentos que comprovem o criação do GT;
+Falta do reconhecimento das intoxicações exógenas por agrotóxicos e a sua subnotificação.
+Notas Explicativas: Transversalidade com: Política Nacional de Vigilância em Saúde; Política Nacional de Saúde do Trabalhador e Trabalhadora; Política Nacional de Agroecologia e Produção Orgânica (Pnapo); Política Nacional de Saúde Integral das Populações do Campo, Floresta e Águas; Diretrizes Nacionais para a Vigilância em Saúde de Populações Expostas a Agrotóxicos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Indicador: 10906
+Denominação: Percentual de munícipios utilizando as declarações eletrônicas de nascido vivo ou de óbito
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Representa a implementação dos formulários eletrônicos dos sistemas de informação de estatítiscas vitais, que estão incluídos no Programa eSUS Linha da Vida. Esse programa visa modernizar os atuais sistema de informação da linha da vida por meio de uma plataforma on-line, desenvolvidos em novas e seguras tecnologias, como a disponibilização dos formulários eletrônicos da Declaração de Nascido Vivo e da Declaração de Óbito e das notificação online de doenças e agravos de notificação compulsória. Espera-se a garantia da segurança da informação e minimizando possibilidades de fraudes; reduzir subregistro de nascidos vivos e de óbitos; consolidar informações em nível federal de forma oportuna e tempestiva e fortalecer a integração com a Rede Nacional de Dados em Saúde (RNDS).
+Período Ou Data A Que Se Refere: Ao último dia do mês a que se refere o indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios que notificaram no sistema e-SUS Declarações (código do IBGE)
+Número de municípios no país, região ou estado
+Fonte De Dados Das Variáveis De Cálculo: Sistema e-SUS Declarações
+Forma De Disponibilização: http://plataforma.saude.gov.br/
+https://datasus.saude.gov.br/   
+https://svs.aids.gov.br/daent/centrais-de-conteudos/paineis-de-monitoramento/
+Procedimento De Cálculo: 1. Calcular o número de municípios que realizaram notificações no sistema e-SUS Declarações
+2. Dividir pelo total de municípios no estado, região ou país
+3. Multiplicar por 100
+Limitações: A utilização dos formulários eletrônicos de nascidos vivos e de óbitos pelo municípios iniciar-se-á somente após a disponibilização "e-SUS Declarações", com previsão de conclusão do desenvolvimento em 2023. Após disponibilização do "e-SUS Declarações" e ampla divulgação, será necessário verificar o interesse do(s) município(s) em começar utilizar o sistema; capacitação/treinamento dos técnicos que utilizarão o sistema, bem como sanar possíveis intercorrências tendo em vista o novo processo de trabalho relacionado à temática.
+Notas Explicativas: O Ministério da Saúde trabalha para disponibilizar o Sistema e-SUS Declarações até final de 2023 para possibilitar o início de sua utilização a partir de janeiro de 2024. Inicialmente a opções de uso dos formulários eletrônicos de nascidos vivos e de óbitos pelo municípios será opcional. Todavia, além do interesse tripartite para modernização dos sistemas, há a necessidade urgente do avanço tecnológico dos Sistema de Informações sobre Nascidos Vivos (Sinasc), do Sistema de Informações sobre Mortalidade (SIM) e do Sistema de Informação de Agravos de Notificação (Sinan).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Indicador: 10899
+Denominação: Taxa de incidência média de arboviroses nos últimos 5 anos
+Índice De Referência: 641.9
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: 1/100.000 habitantes
+Descrição: A taxa de incidência de arboviroses sofre flutuações a cada ano, com aumento significativo em anos epidêmicos. O uso da taxa de incidência média nos últimos 5 anos tem como finalidade reduzir os efeitos dessas oscilações, de modo que o indicador se torne mais estável na série histórica e que a ocorrência de surtos e epidemias em determinados anos seja ponderada pela incidência em períodos não epidêmicos.
+Período Ou Data A Que Se Refere: A média dos último 5 anos a partir de 2020  (2020-2024, 2021-2025, 2022-2026, 2023-2027).
+Data De Divulgação/Disponibilização: Semanalmente no período sazonal (outubro a maio), e quinzenalmente no período de baixa ocorrência (junho a setembro).
+Periodicidade: Quinqüenal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: - Os números de casos de dengue, chikungunya e Zika referem-se aos casos prováveis (todos os casos notificados, excluídos os casos descartados); o número de casos de febre amarela refere-se aos casos confirmados. 
+- População residente no Brasil é o enumerado de pessoas pelo seu local de residência habitual.
+Fonte De Dados Das Variáveis De Cálculo: - Ministério da Saúde/Secretaria de Vigilância em Saúde: Sistema de Informação de Agravos de Notificação – Sinan (dados consolidados pela CGARB)
+- Estimativa da população residente atualizada anualmente pelo IBGE
+Forma De Disponibilização: Boletim epidemiológico
+Procedimento De Cálculo: - Download dos bancos de dados do SINAN; 
+- Análise de consistência e limpeza das bases de dados (exclusão de duplicidades, avaliação dos critérios de classificação, etc.);
+- Tabulação dos bancos de dados do SINAN para extração das informações de casos prováveis (dengue, chikungunya e Zika) e de casos confirmados (febre amarela).
+Limitações: A ocorrência de surtos e epidemias pode implicar em aumento do indicador;
+- A subnotificação/redução das taxas de incidência durante a epidemia por COVID-19 implicou na redução da taxa de incidência média, de modo que esse fator pode refletir negativamente nas metas estabelecidas;
+- A taxa de incidência depende da capacidade técnico-operacional do sistema de vigilância epidemiológica, em cada unidade federada, para detectar, notificar, investigar e encerrar os casos suspeitos notificados; e
+- Durante epidemias, não há obrigatoriedade de investigação de 100% dos casos suspeitos de dengue, sendo computados os casos ignorados e em branco como casos prováveis.
+Notas Explicativas: Os indicadores de cada ano considerarão a taxa de incidência média nos últimos 5 anos (2020-2024, 2021-2025, 2022-2026, 2023-2027).
+Não se trata de média móvel já que o cálculo não é realizado a partir das taxas de incidência em cada ano, mas a partir da soma do número absoluto de casos no período.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5123
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 28
+Enunciado: Reduzir o número de casos autóctones de malária na região amazônica.
+Descrição: A redução do número de casos autóctones de malária irá reduzir o impacto que os casos têm no desenvolvimento da região amazônica, área endêmica para a doença, reduzindo também a mortalidade e internações pela doença, gerando impacto positivo na saúde da população.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 67
+Enunciado: Disponibilizar informações precisas e oportunas de estatísticas vitais e de morbidade da população por meio dos sistemas de informação de vigilância em saúde.
+Descrição: Os Sistemas de Informação em Saúde que possuem dados sobre estatísitcas vitais (nascimentos: Sinasc e mortalidade: SIM) e morbidade (Sinan) permitem a obtenção de números com recortes por municípios, faixa etária ou sexo e possibilitam a tomada de decisão baseada em evidências. Atualmente tais informações são preechidas em formulários em papel e posteriormente digitadas no respectivo sistema desenolvidos com tecnologias obsoletas. O Programa e-SUS Linha da Vida tem o objetivo de disponibilizar uma plataforma on-line de sistemas integrados (Sinasc, Sinan e SIM) desenvolvidos em novas e seguras tecnologias, com infraestrutura de fácil expansão e escalabilidade, com alta capacidade de atualização e disponibilização de novas funcionalidades, facilidade de uso nas multiplataformas possibilitando desta forma, a obtenção de dados confiáveis e acessíveis em tempo oportuno, detecção/redução de fraudes, e integração e interoperabilidade com outros sistemas.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 472
+Enunciado: Ampliar a capacidade de diagnóstico dos laboratórios pertencentes a Rede Nacional de Laboratórios de Saúde Pública (RNLSP)
+Descrição: Fortalecer a capacidade do sistema de saúde pública em detectar, monitorar e responder rapidamente a ameaças à saúde, que envolve questões como: detecção precoce e precisa de patógenos, vigilância laboratorial e epidemiológica aprimorada, resposta eficaz a epidemias e pandemias, melhoria da vigilância de resistência antimicrobiana. Além de contribuir para a proteção da população e o controle de doenças infecciosas e fortalecer a capacidade de resposta a emergências de saúde pública.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 483
+Enunciado: Reduzir a taxa de incidência de arboviroses (dengue, chikungunya, Zika e febre amarela) no Brasil
+Descrição: Redução do número relativo de casos de arboviroses na população brasileira. As elevadas incidência e prevalência dessas doenças geram impactos importantes sobre a saúde pública, com sobrecarga dos serviços de saúde relacionados à vigilância, à assistência e ao diagnóstico, e prejuízos econômicos decorrentes do absenteísmo no trabalho, dos gastos com a assistência aos pacientes e com mortes prematuras.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 484
+Enunciado: Reduzir a incidência de HIV/aids, TB, Hepatites Virais, sífilis e outras IST, doenças de determinação social, por meio do incentivo a medidas de prevenção e tratamento adequado
+Descrição: O objetivo específico proposto visa à redução da incidência de doenças determinadas socialmente: HIV/aids, TB, HV e outras IST e está diretamente relacionado à instituição do Comitê Interministerial para a Eliminação da Tuberculose e de Outras Doenças Determinadas Socialmente (Decreto nº 11.494 de 11/04/2023). O Comitê visa à promoção de ações intersetoriais que contribuam para a eliminação da tuberculose e de outras doenças determinadas socialmente como problemas de saúde pública no País até 2030.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 485
+Enunciado: Ampliar as coberturas vacinais da população, em especial do calendário infantil
+Descrição: Atingir a meta de cobertura vacinal do calendário infantil, de forma homogenea, a fim de proteger as crianças de doenças imunopreveníveis.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 486
+Enunciado: Fornecer imunobiológicos de responsabilidade do Ministério da Saúde, conforme demanda estimada.
+Descrição: A definir
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 487
+Enunciado: Ampliar a vigilância de ambientes e populações expostas a agrotóxicos no âmbito da vigilância da saúde ambiental e saúde do trabalhador
+Descrição: A toxicidade dos agrotóxicos impactam na saúde humana de diversas formas. Ampliar a VSPEA é fundamental para promover a qualidade de vida e reduzir, controlar ou eliminar a vulnerabilidade e os riscos à saúde de populações expostas a essas substâncias garantia saúde da população, portanto pretende-se ampliar o número de municípios que implantaram essa vigilância no território.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 488
+Enunciado: Ampliar as redes de preparação, vigilância e resposta às emergências em saúde pública por regiões e macrorregiões.
+Descrição: Verificamos que em cada Estado temos a presença dos serviços de CIEVS, RENAVEH, VIGIDESASTRES. Para os profissionais capacitados no EPISUS Fundamental essa cobertura é reduzida. Mas, a proposta é garantir que haja cobertura dos serviços de CIEVS, RENAVEH, VIGIDESASTRES e dos profissionais capacitados no EPISUS Fundamental para as regiões de saúde. Onde todas as regiões de saúde estejam sendo assistidas por essa rede em uma emergência em saúde pública.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Objetivo Específico: 489
+Enunciado: Produzir conhecimento sobre determinantes ambientais da saúde (mudanças do clima, poluição e biodiversidade) por meio do Centro de Síntese, para fortalecimento da inovação do SUS e melhoria da qualidade de vida da população brasileira.
+Descrição: Promover estudos abrangentes e interdisciplinares que investiguem as relações entre mudança do clima, poluição, biodiversidade e seus impactos na saúde pública, resultando em subsídios para políticas públicas de saúde, conservação ambiental, mitigação e adaptação às mudanças climáticas, enfrentamento da exposição à poluição e promoção da saúde pública. Dessa forma, fortalecendo o SUS com estratégias preventivas e sustentáveis, contribuindo para o bem-estar da população brasileira, e sustentabilidade do país.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5123
+
+Exercício: 2025
+Programa: 5123
+Objetivo: 1280
+Enunciado: Reduzir e controlar doenças e agravos passíveis de prevenção e controle, com enfoque na superação das desigualdades de acesso, regionais, sociais, de raça/etnia e gênero.
+Descrição: Fortalecer a vigilância em saúde e ambiente por meio da ampliação e aprimoramento contínuo e sistemático de coleta, consolidação, análise de dados e disseminação de informações sobre eventos relacionados à saúde pública, visando o planejamento e a implementação de ações estratégicas de regulação, intervenção e atuação em condicionantes e determinantes da saúde, para a proteção e promoção da saúde da população, prevenção e controle de riscos, agravos e doenças.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5123
+
+Exercício: 2025
+Programa: 5123
+Título: Vigilância em Saúde e Ambiente
+Tipo: Finalístico
+Órgão: 36000.0
+Público-Alvo: População Geral
+Descrição Do Problema: Adoecimento da população por doenças e agravos passíveis de prevenção e controle.
+Causa Do Problema: O adoecimento da população por doenças e agravos passíveis de prevenção e controle pode ser resultado de diversas causas. Entre elas, destaca-se a baixa cobertura vacinal, a disseminação de informações equivocadas sobre saúde (fake news), o baixo envolvimento e consciência da população sobre saúde, a descontinuidade dos programas de educação em saúde voltados à população, a deficiência estrutural para a atuação do Sistema de Vigilância e Atenção à Saúde, a desarticulação entre as vigilâncias e a assistência à saúde, o sistema de vigilância desintegrado, a obsolescência e falta de interoperabilidade do sistema de informação, a insuficiência na cobertura e qualidade dos sistemas de informação e de análises de situação de saúde oportunas, decisões não embasadas em critérios técnicos, de gestão e de governança, a baixa qualificação dos recursos humanos na vigilância em saúde, o baixo investimento e priorização em pesquisa e tecnologias para a vigilância em saúde, a baixa efetividade de algumas estratégias utilizadas para prevenção e controle de doenças e agravos, a baixa priorização em tecnologias sociais para redução do déficit de saneamento ambiental, a baixa influência da área da saúde na regulação de produtos nocivos à saúde e em questões ambientais com impactos na saúde, o uso indiscriminado de substâncias nocivas à saúde, a insalubridade ambiental, as desigualdades sociais e as Emergências em Saúde Pública.
+Evidências Do Problema: A baixa efetividade das estratégias utilizadas para prevenção e controle de tais doenças e agravos, a fragilidade das ações de promoção à saúde, a falta de integração dos sistemas de vigilância, somados à insuficiência na cobertura e qualidade dos sistemas de informação que inviabilizam a análise adequada da situação de saúde, tem contribuído de forma expressiva para o adoecimento da população por doenças e agravos passíveis de prevenção e controle, gerando dentre outras, sobrecarga e ineficiência do sistema de saúde e diminuição da qualidade de vida.   
+Existem ainda diversas causas que levam a população a adoecer por doenças e agravos passíveis de prevenção e controle. Dentre as principais causas dessas doenças estão as doenças crônicas não transmissíveis (DCNT), que incluem as doenças cardiovasculares, câncer, doenças respiratórias e diabetes, as quais são responsáveis por milhões de mortes em todo o mundo. Embora o Sistema Único de Saúde (SUS) tenha contribuído para reduzir a carga dessas doenças e agravos na população brasileira, ainda persistem desigualdades no acesso aos serviços de saúde e nas ações de promoção e prevenção. Além disso, o aumento da carga dessas doenças está relacionado ao envelhecimento populacional, mudanças nos hábitos e estilo de vida e disparidades socioeconômicas. Portanto, é fundamental que haja políticas públicas que visem a prevenção e o controle dessas doenças, bem como ações de promoção da saúde e conscientização da população sobre a importância de hábitos saudáveis e prevenção de doenças.
+Justificativa Para A Intervenção: Desenvolver ações para reduzir ou controlar doenças e agravos passíveis de prevenção e controle é fundamental para promover a saúde da população e prevenir o surgimento de novos casos. A Política Nacional de Vigilância em Saúde (PNVS) do Sistema Único de Saúde (SUS), apresenta um conjunto de princípios, diretrizes e estratégias a serem observados pelas três esferas de gestão do SUS, para o desenvolvimento da vigilância em saúde, visando a promoção e a proteção da saúde e a prevenção de doenças e agravos, bem como a redução da morbimortalidade, vulnerabilidades e riscos decorrentes das dinâmicas de produção e consumo nos territórios. 
+É necessário investir em ações de Vigilância em Saúde para garantir a integralidade da atenção à saúde da população brasileira, bem como em práticas e processos de trabalho voltados para a vigilância da situação de saúde, com a produção de análises que subsidiem o planejamento, estabelecimento de prioridades e estratégias, monitoramento e avaliação das ações de saúde pública, a detecção oportuna e adoção de medidas adequadas para a resposta às emergências de saúde pública; a vigilância, prevenção e controle das doenças transmissíveis; a vigilância das doenças crônicas não transmissíveis, dos acidentes e violências; a vigilância de populações expostas a riscos ambientais em saúde; a vigilância da saúde do trabalhador; vigilância sanitária dos riscos decorrentes da produção e do uso de produtos, serviços e tecnologias de interesse a saúde, e outras ações de vigilância que, de maneira rotineira e sistemática, podem ser desenvolvidas em serviços de saúde públicos e privados nos vários níveis de atenção, laboratórios, ambientes de estudo e trabalho e na própria comunidade.
+O enfrentamento de muitas doenças está ainda relacionado à fatores condicionantes e determinantes que extrapolam o setor saúde. Transformações econômicas, sociais e demográficas trazem significativas repercussões nas condições de vida da população, refletindo nas situações de saúde e no perfil de morbimortalidade da população. Nesse contexto, um dos grandes desafios que se coloca é buscar resultados que garantam cada vez mais um maior impacto à saúde da população brasileira, principalmente na vigilância, prevenção e controle de doenças e agravos. 
+Compreender a promoção e prevenção da saúde é fundamental para aprimorar a saúde da população e construir comunidades mais saudáveis. A promoção da saúde e a prevenção de doenças são estratégias complementares e trabalham juntas para ajudar a reduzir a incidência de doenças e melhorar a saúde geral. Portanto, investir em ações que visem à prevenção e ao controle de doenças e agravos passíveis de prevenção é fundamental para garantir a saúde da população.
+Evolução Histórica: A vigilância em saúde desempenha um papel fundamental no combate a diversas doenças, incluindo doenças imunopreveníveis (sarampo, tétano, coqueluche, etc.); antropozoonoses e doenças transmitidas por vetores (leishmaniose, esquistossomose, leptospirose, febre amarela, raiva, etc.); as doenças de veiculação hídrica e alimentar (febre tifóide, botulismo, etc.) e de veiculação respiratória, como as meningites, entre outras. A coleta, análise e disseminação de informações precisas e oportunas sobre a ocorrência de doenças e seus fatores de risco são essenciais para a tomada de decisões informadas por profissionais de saúde e governos. Além disso, a vigilância ajuda a identificar surtos precocemente, permitindo medidas preventivas e de controle, e a avaliar a efetividade das intervenções implementadas. Em resumo, a vigilância em saúde é uma ferramenta indispensável para a promoção da saúde pública e a prevenção de doenças.
+Constituir sistemas de vigilância à saúde eficazes envolve considerar as especificidades epidemiológicas, étnicas, ambientais e sociais. Nesse contexto, um aspecto importante que deve ser trabalhado é o fortalecimento das ações de vigilância na Amazônia Legal, que inclui os estados do Acre, Amazonas, Amapá, Pará, Rondônia, Roraima, Tocantins (na Região Norte), Mato Grosso (na Região Centro-Oeste) e Maranhão (na Regiões Nordeste), correspondendo a 61% do território e cerca de 13% da população brasileira, que apresenta avanços na cobertura sanitária desde a criação do Sistema Único de Saúde (SUS) em 1988, o que gerou uma diminuição da carga de doenças na população e maior homogeneização dos indicadores entre as regiões do país. No entanto, verifica-se o retorno do aumento da mortalidade infantil em Roraima e no Amazonas entre 2010 e 2019, contrariando a tendência da região como um todo¹. 
+Ainda existem obstáculos para garantir o pleno direito à saúde, que compartilham semelhanças e diferenças com os desafios enfrentados em todo o país. Esses obstáculos estão relacionados ao modelo de desenvolvimento adotado na região até o momento. Destaca-se a necessidade, dentre outras, do fortalecimento das ações de vigilância com vistas a equidade e redução das desigualdades regionais.
+As causas externas nos óbitos na região da Amazônia Legal, por exemplo, eram significativamente superior à do Brasil em 2010 e 2019, devido a conflitos no campo e florestas, à violência característica de grandes metrópoles e suas periferias, além da alta incidência de acidentes de transporte, fruto das más condições de vias urbanas e estradas e falhas no transporte público e na fiscalização. A média de óbitos por doenças infecciosas e parasitárias na Amazônia segue superior à brasileira, principalmente devido à falta de saneamento básico, atingindo índices muito inferiores à média brasileira. Os fatores que desencadeiam doenças infecciosas e parasitárias na região incluem a dimensão da área alagada, habitat natural de vetores de arboviroses, como dengue, zika e febre amarela, e veículo de contaminação para alguns agravos infecciosos, como gastroenterites microbianas.
+Na Região das Américas, epidemias por dengue têm ocorrido ciclicamente a cada 3 a 5 anos. Em 2022, até a semana epidemiológica (SE) 52, o Brasil registrou 2.383.001 casos dengue dos 2.803.096 casos registrados nas Américas. A introdução dos vírus Chikungunya, em 2014, e Zika, em 2015, ocasionaram aumento de casos, óbitos, e outras complicações como malformações congênitas, com rápida e ampla dispersão no país. A reemergência da febre amarela na região extra-amazônica, a partir de 2014, resultou nos maiores surtos da doença registrados no último século.  
+O aumento da incidência de arboviroses promove o aumento do número de hospitalizações e de óbitos, e o esgotamento das capacidades de assistência e diagnóstico, com impactos importantes sobre os indicadores de saúde e sobre a qualidade de vida. Recentemente, destacam-se o relevante aumento do número de óbitos por dengue e chikungunya, cujos vírus têm ampliado sua área de circulação, e a transmissão de diferentes linhagens do vírus da febre amarela na região extra-amazônica. Considerando a circulação simultânea e endêmica de diversos arbovírus no país (incluindo os vírus do Nilo ocidental, Mayaro e Oropouche), é necessário ampliar e integrar as políticas de vigilância epidemiológica e a aumentar a qualidade dos serviços de saúde, a fim de aprimorar as estratégias de prevenção, vigilância, controle e assistência no Brasil. 
+Os novos cenários epidemiológicos que mostram o surgimento de novas  doenças  transmissíveis,  alteração  nos  padrões  habituais  de  transmissão  de doenças existentes, ampliação da importância das doenças e dos agravos não-transmissíveis na agenda de saúde pública, o surgimento e a propagação de doenças, agravos e desastres decorrentes das agressões ao meio ambiente, ao lado de novas estratégias de prevenção e controle de doenças com potencial de propagação internacional, apontam para a necessidade de readequação e aprimoramento de conceitos, estruturas, processos e práticas de vigilância em saúde, de forma articulada com a rede de atenção à saúde. 
+Ao longo dos anos o Brasil tem investido em estratégias para aprimoramento de ações em Emergência em Saúde Pública, entretanto há um longo caminho a ser percorrido. Atualmente existe a necessidade de fortalecer essas ações utilizando as melhores práticas baseadas em evidências científicas para orientação das suas estratégias, para isso as iniciativas relevantes de preparação, vigilância e resposta estão a Rede Nacional de Centros de Informação Estratégica em Vigilância em Saúde (CIEVS) e Rede Nacional de Vigilância Epidemiológica Hospitalar (Renaveh).  Além disso, o gerenciamento do Programa Nacional de Riscos em Saúde Associados a Desastres (Vigidesastres), Programa de Treinamento em Epidemiologia de Campo (EpiSUS) e outros cursos em parceria com países da América do Sul e Central, juntamente com os de língua portuguesa.
+Comparações Internacionais: A Organização Pan-Americana da Saúde (OPAS) é a responsável pela coleta e análise dos dados sobre a cobertura vacinal nas Américas. De acordo com as informações disponíveis em seu site² , a região das Américas apresenta uma taxa de cobertura vacinal de cerca de 80% para as principais vacinas recomendadas pela Organização Mundial da Saúde (OMS). No entanto, há uma grande variação na cobertura vacinal entre os países da região, com alguns alcançando taxas superiores a 90% e outros com taxas inferiores a 50%.
+De acordo com dados disponibilizados pela OPAS, 45 países e territórios introduziram a vacina contra HPV, 37 a vacina contra pneumococo e 22 a vacina contra o rotavírus. Dos 15 milhões que vivem nas Américas, 1.4 milhão não completam seus calendários básicos de vacinação. Destaca-se ainda que 18 países da Região relataram cobertura inferior a 80% com a primeira dose da vacina contra rubéola, sarampo e caxumba.
+Além disso, a OPAS destaca a importância da cobertura vacinal para prevenir doenças evitáveis por vacinação, como sarampo, rubéola e poliomielite. A organização alerta para a necessidade de fortalecer os sistemas de imunização em toda a região e de ampliar o acesso às vacinas, especialmente para as populações mais vulneráveis. A OPAS também ressalta que a pandemia de COVID-19 teve um impacto significativo na cobertura vacinal, com muitos países enfrentando desafios para manter os serviços de imunização durante a crise sanitária.
+Com relação às arboviroses, de acordo com a OPAS³ , durante o ano de 2022, vários países da região registraram aumentos no número de casos de dengue, Zika e chikungunya, acima do que foi registrado em 2021. Na Região das Américas, o número de casos de arboviroses notificados em 2022 até a SE 52 (3.110.442 casos) representa um aumento de 118% em relação ao mesmo período em 2021 (1.425.221 casos). A dengue é a arbovirose que causa o maior número de casos na Região das Américas, com epidemias ocorrendo ciclicamente a cada 3 a 5 anos. Em 2019 foi notificado o maior número de casos de dengue já registrados na Região, com mais de 3,1 milhões de casos, incluindo 28.203 casos graves e 1.773 óbitos. A isso se soma a circulação simultânea de outras arboviroses, como chikungunya e zika, ambas transmitidas pelo mesmo vetor, o Aedes aegypti, que está presente em quase todos os países e territórios da Região das Américas.
+Ainda de acordo com a instituição, na primeira metade de 2023, vários países da Região, especialmente no Cone Sul, terão um aumento de temperatura relacionado à estação do verão, o que, dependendo de sua magnitude e impacto nas áreas endêmicas de arboviroses, poderia constituir uma carga adicional de enfermidades por arbovírus para os sistemas de saúde nas áreas afetadas.
+
+²Organização Pan-Americana da Saúde - OPAS. Disponível em: https://www.paho.org/pt/topicos/imunizacao. Acessado em 24/04/2023.
+³Organização Pan-Americana da Saúde - OPAS. Atualização Epidemiológica Dengue, chikungunya e Zika -25 de janeiro de 2023. Disponível em: https://www.paho.org/pt/documentos/atualizacao-epidemiologica-dengue-chikungunya-e-zika-25-janeiro-2023. Acessado em 24/04/2023.
+Relação Com Os Ods: ODS 3.3
+Agentes Envolvidos: Ministério da Saúde (Secretaria de Vigilância em Saúde e Ambiente; e a unidade vinculada - Fiocruz), Secretarias estaduais e municipais de saúde
+Enfoque Transversal: No que se refere a eliminação das doenças de determinantes sociais um dos grandes desafios é acabar com as epidemias de tuberculose (TB), do HIV/aids e das hepatites virais (HV) é uma das metas (ODS 3.3) na temática de Saúde e Bem-estar dos Objetivos do Desenvolvimento Sustentável (Nações Unidas, 2015), e se configura como um importante compromisso da agenda política global de resposta às doenças determinadas socialmente e de afirmação do conceito integral e ampliado de saúde.
+Marco Legal: CF 88 artigos de 196 a 200 Lei 8080/90 
+Portaria 1378/13 
+Lei nº 6259, de 30/10/75 Decreto nº78.231, de 12/08/76 Portaria nº 204, de 17/02/16 
+Resolução CNS 588, de 12/07/2018 - Política Nacional de Vigilância em Saúde
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Saúde
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

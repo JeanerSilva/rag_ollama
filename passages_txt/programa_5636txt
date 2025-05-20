@@ -1,0 +1,545 @@
+passage: Programa Número 5636
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Entrega: 227
+Indicador: 9045
+Denominação: Capacidade de armazenagem disponível para formação e manutenção de estoques públicos de alimentos
+Sigla: ArmazenagemCapac
+Em Apuração: Sim
+Unidade De Medida: tonelada
+Descrição: Indicador relacionado com a capacidade de armazenagem disponível, em toneladas, para formação e manutenção de estoques públicos de alimentos, abrangendo rede pública e rede privada credenciada.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Janeiro do ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A total =  A pública + A rede credenciada
+A pública: somatório da capacidade de armazenagem disponível, em toneladas, da rede própria e 
+A credenciada: somatório da capacidade de armazenagem disponível, em toneladas, rede privada credenciada
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da CONAB
+Forma De Disponibilização: Relatório de gestão da CONAB disponibilizado anualmente, preenchimento do SIOP realizado semestralmente.
+Procedimento De Cálculo: Soma da capacidade disponível da rede própria e da rede credenciada, em toneladas
+Limitações: Limitação orçamentária - disponibilidade orçamentária em efetuar as manutenções, ampliações e modernizações necessárias.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Entrega: 817
+Indicador: 9765
+Denominação: Capacidade estática cadastrada
+Sigla: CadArmaz
+Índice De Referência: 20.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Cadastramento e levantamento de dados das unidades armazenadoras, alimentação e atualização do banco de dados dos armazéns do País com vistas a manter, atualizar e administrar o Sistema Nacional de Cadastro das Unidades Armazenadoras.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: Janeiro do ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Capacidade estática
+Fonte De Dados Das Variáveis De Cálculo: Sicarm - Sistema de Cadastro Nacional de Unidades Armazenadoras
+Forma De Disponibilização: Relatório de gestão da CONAB; página eletrônica da CONAB; base de dados da CONAB
+Procedimento De Cálculo: Relatório do Sicarm da capacidade estática atualizada dividido pela capacidade total no 1º ano de apuração do indicador. O percentual da meta será acumulativo de forma anual, até atingir 80%
+Limitações: 2 casas decimais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 329
+Entrega: 968
+Indicador: 9962
+Denominação: Número de agricultores e agricultoras familiares beneficiados
+Sigla: FeiraEvento
+Índice De Referência: 2000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: unidade de medida = nº de agricultores e agicultoras beneficiados
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: janeiro 2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: An: Somatório de CPF diferentes apoiados por projetos de estruturação em cada ano
+Fonte De Dados Das Variáveis De Cálculo: base de dados da SEAB
+Forma De Disponibilização: relatório anual publicado na pagina eletrônica do MDA
+Procedimento De Cálculo: soma-se a quantidade de diferentes CPF beneficiados por feiras, eventos e circuitos curtos de comercialização
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 329
+Entrega: 989
+Indicador: 9995
+Denominação: Número de agricultores familiares que venderam para alimentação escolar (PNAE)
+Sigla: PnaeMDA
+Índice De Referência: 40000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: número de agricultores familiares que venderam para alimentação escolar (PNAE)
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: junho do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "
+An+1: Somatório de CPF diferentes que venderam para alimentação escolar em 2024
+An+2: Somatório de CPF diferentes que venderam para alimentação escolar em 2025
+An+3: Somatório de CPF diferentes que venderam para alimentação escolar em 2026
+An+4: Somatório de CPF diferentes que venderam para alimentação escolar em 2027"
+Fonte De Dados Das Variáveis De Cálculo: base de dados do FNDE
+Forma De Disponibilização: pagina eletrônica do FNDE
+Procedimento De Cálculo: soma-se a quantidade de diferentes CPFs que venderam para alimentação escolar
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 329
+Entrega: 957
+Indicador: 9947
+Denominação: Número de editais lançados para compra de alimentos oriundos de agricultores familiares que produziram e venderam para o mercado institucional (Programa de Aquisição de Alimentos, modalidade compra institucional)
+Sigla: PAA
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador "Número de editais lançados para compra de alimentos oriundos de agricultores familiares que produziram e venderam para o mercado institucional  (Programa de Aquisição de Alimentos, modalidade compra institucional)" objetiva mensurar o volume de editais e recursos ofertados por organizações públicas para compras da agricultura familiar
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: janeiro 2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAAcomprainstitucional: Número de editais lançados para compra de alimentos de agricultores familiares no âmbito do Programa de Aquisição de Alimentos, modalidade Compra Institucional
+Fonte De Dados Das Variáveis De Cálculo: Base de dados SEAB
+Forma De Disponibilização: relatório anual publicado na pagina eletrônica do MDA
+Procedimento De Cálculo: Soma-se  a quantidade de editais lançados para compra de alimentos de famílias da agricultura familiar beneficiárias nos mercados de compras públicas (PAA) compra institucional.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 339
+Entrega: 1016
+Indicador: 10008
+Denominação: Número de Empreendimentos, associações e cooperativas solidárias da AF apoiados para comercialização de produtos
+Sigla: Agroind
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Empreendimentos, associações e cooperativas solidárias da AF apoiados diretamente pelo MDA para comercialização de produtos
+Período Ou Data A Que Se Refere: dezembro 2022
+Data De Divulgação/Disponibilização: Janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A agroind: Somatório de CNPJ diferentes apoiados por projetos de estruturação 
+A pronaf_Agroind: Somatório de CPF/CNPJ diferentes que acessaram linha de crédito pronaf agroindústria
+A pronaf_indústria: Somatório de CPF/CNPJ diferentes que acessaram linha de crédito pronaf industrialização
+Fonte De Dados Das Variáveis De Cálculo: Base de dados da SEAB/MDA e dados de crédito Sicor
+Forma De Disponibilização: Pagina eletrônica da SEAB/MDA e matriz de dados do crédito pronaf constante do Sicor/Bacen.
+Procedimento De Cálculo: Soma-se  a quantidade de diferentes CNPJ apoiados por projetos de estruturação conjuntamente com CPF/CNPJ que acessaram as linhas de crédito do Pronaf Agroindústria e Pronaf Industrialização.
+Limitações: Não atendimento às chamadas públicas para o apoio aos projetos de investimento.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 339
+Entrega: 1055
+Indicador: 10052
+Denominação: Número de organizações atendidas
+Sigla: ATER Mais Gestão
+Índice De Referência: 1165.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Somatório das organizações produtivas da agricultura familiar atendidas por assistência técnica em gestão
+Período Ou Data A Que Se Refere: Os dados se remetem a todo o período de existência do Programa Mais Gestão, desde 2011.
+Data De Divulgação/Disponibilização: Janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ORG = somatório de organizações produtivas da agricultura familiar atendidas por assistência técnica em gestão
+Fonte De Dados Das Variáveis De Cálculo: Base de dados da SEAB/COOGEC, sistema SGA/ANATER e Transferegov.
+Forma De Disponibilização: Relatórios periódicos.
+Procedimento De Cálculo: Análise dos relatórios de execução.
+Limitações: Falta de painel de monitoramento das ações com informações prontamente disponíveis para consulta imediata e acesso limitado às informações contidas no sistema SGA por parte do MDA.
+Notas Explicativas: Conforme estabelecido no Contrato de Gestão a ANATER deve apresentar relatórios de execução semestrais e anuais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 339
+Entrega: 1039
+Indicador: 10034
+Denominação: Número de Selos SENAF emitidos no Vitrine da Agricultura Familiar
+Sigla: SENAF
+Índice De Referência: 3698.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mensura o Número de agricultores familiares inseridos na Vitrine da Agricultura Familiar beneficiários do SENAF, sendo cumulativo a cada ano do PPA. A linha de base em 2023 era de 3.698 agricultores beneficiários, assim, o valor mínimo que o indicador terá é o valor da linha de base.
+Período Ou Data A Que Se Refere: 01/01/2023
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: An: Somatório do n° de selo emitidos na Vitrine da Agricultura Familiar no ano de apuração
+Fonte De Dados Das Variáveis De Cálculo: Vitrine da Agricultura Familiar: https://sistemas.agricultura.gov.br/vitrine/
+Forma De Disponibilização: Vitrine da Agricultura Familiar: https://sistemas.agricultura.gov.br/vitrine/
+Procedimento De Cálculo: Soma-se  a quantidade de certificados emitidos em cada ano do PPA.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Entrega: 802
+Indicador: 9746
+Denominação: Quantidade de insumos vendidos a pequenos criadores de animais (ProVB)
+Sigla: IEProvB
+Índice De Referência: 60.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-06 00:00:00
+Unidade De Medida: tonelada
+Descrição: Quantidade de insumos vendidos a pequenos criadores de animais (ProVB) no período.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 5º dia útil do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Vp: somatório de vendas no período
+Fonte De Dados Das Variáveis De Cálculo: Demandas oficiais encaminhadas pela Supab (Ofícios, E-mails etc); Planilha de Controle de Remoções da Sulog; e Notas Fiscais de Entrada de grãos (em caso de compra com entrega no destino)
+Forma De Disponibilização: Sistema Geplanes (Gestão de Planejamento Estratégico)
+Procedimento De Cálculo: Fórmula: Vendas no período = ∑Vp Onde: ∑Vp = somatório das vendas no período
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Entrega: 810
+Indicador: 9756
+Denominação: Quantidade de toneladas disponibilizadas
+Sigla: CeasaDisp
+Índice De Referência: 1153044.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: tonelada
+Descrição: Quantidade de alimentos em toneladas disponibilizados
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: An: Somatório de quantidade de alimentos disponibilizados pela CEASA-MG e CEAGESP no ano atual
+Fonte De Dados Das Variáveis De Cálculo: base de dados de CEASA-MG e CEAGESP
+Forma De Disponibilização: boletim publicado na pagina eletrônica da CEASA-MG e CEAGESP
+Procedimento De Cálculo: somatório da quantidade de alimentos disponibilizados pela CEASA-MG e CEAGESP em cada ano do PPA.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Entrega: 788
+Indicador: 9731
+Denominação: Quantidade de toneladas em estoque
+Sigla: Abastec
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: tonelada
+Descrição: O indicador Quantidade de toneladas em estoque abrange PGPM (Aquisição do Governo Federal AGF ou Contrato de opção de venda COV) + Outras formas de aquisição para estoque de alimentos
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Março do ano de referência
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Estoque disponível = Estoque inicial + Estoque adquirido - Estoque vendido
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da CONAB
+Forma De Disponibilização: Página eletrônica da CONAB
+Procedimento De Cálculo: Estoque disponível = Estoque inicial + Estoque adquirido - Estoque vendido
+Estoque Inicial: volume de alimentos em estoques público no início do período de apuração 
+Estoque Adquirido: volume de alimentos adquiridos por meio de Aquisição do Governo Federal (AGF), Contrato de opção de venda (COV) e outras formas de aquisição para estoque de alimentos
+Estoque Vendido: volume de alimentos vendidos
+Limitações: A limitação é a elevação do preço de mercado. Com isso o Governo é impedido de efetuar as compras via AGF.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5636
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 329
+Indicador: 9691
+Denominação: Número de agricultores e agricultoras beneficiadas por ações de apoio à comercialização
+Sigla: ComercAF
+Em Apuração: Sim
+Unidade De Medida: família
+Descrição: Trata-se de indicador que abrange o somatório do nº de agricultores e agricultoras beneficiadas por ações de apoio à comercialização
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: junho do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: An: Número de agricultores familiares (familias) apoiados para acesso a mercados e comercialização no respectivo ano
+Fonte De Dados Das Variáveis De Cálculo: Base de dados da SEAB
+Forma De Disponibilização: Relatório anual publicado na pagina eletrônica do MDA
+Procedimento De Cálculo: Soma-se a quantidade de diferentes CPFs apoiado para acesso a mercados
+Notas Explicativas: O indicador deste OE refere-se ao somatório das entregas PAA e PnaeMDA
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 339
+Indicador: 9708
+Denominação: Número de Empreendimentos, associações e cooperativas da agricultura familiar apoiados para comercialização de produtos
+Sigla: AgroindCap
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Empreendimentos, associações e cooperativas solidárias da AF apoiados diretamente pelo MDA para comercialização de produtos.
+Período Ou Data A Que Se Refere: 01/12/2022
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: An: Somatório da quantidade beneficiários apoiados por projetos de estruturação em cada ano do PPA alcançados pelo Pronaf industrialização, Pronaf agroindustrialização, ações de apoio a agroindustrialização e Mais Gestão
+Fonte De Dados Das Variáveis De Cálculo: Base de dados da SEAB/MDA
+Forma De Disponibilização: Pagina eletrônica da SEAB/MDA
+Procedimento De Cálculo: Soma-se  a quantidade beneficiários apoiados por projetos de estruturação em cada ano do PPA alcançados pelo Pronaf industrialização, Pronaf agroindustrialização, ações de apoio a agroindustrialização e Mais Gestão.
+Limitações: Não atendimento às chamadas públicas para o apoio aos projetos de investimento.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Indicador: 8873
+Denominação: Quantidade de toneladas em estoque
+Sigla: Abastec
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: tonelada
+Descrição: O indicador "Quantidade de toneladas em estoque" mensura o quantitativo de alimentos disponível em estoque, considerando estoque inicial, estoque adquirido e diminuído do estoque vendido
+Período Ou Data A Que Se Refere: 31/12/2022
+Data De Divulgação/Disponibilização: Março do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estoque disponível = Estoque inicial + Estoque adquirido - estoque vendido
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da CONAB
+Forma De Disponibilização: Página eletrônica da CONAB
+Procedimento De Cálculo: Estoque disponível = Estoque inicial + Estoque adquirido - estoque vendido
+Estoque Inicial: volume de alimentos em estoques público no início do período de apuração 
+Estoque Adquirido: volume de alimentos adquiridos por meio de Aquisição do Governo Federal (AGF), Contrato de opção de venda (COV) e outras formas de aquisição para estoque de alimentos
+Estoque Vendido: volume de alimentos vendidos
+Limitações: A limitação é a elevação do preço de mercado. Com isso o Governo é impedido de efetuar as compras via AGF.
+Notas Explicativas: A política de abastecimento tem como objetivo formar estoques de alimentos para disponibilizar alimentos básicos para políticas sociais, bem como para proteção de preço mínimo ao agricultor. A política tem abrangência nacional e eventual territorialização poderia prejudicar formação de estoque. Igualmente, não cabe a desagregação por publico.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5636
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 72
+Enunciado: Promover a formação de estoques de alimentos, contribuindo para a sustentação de preços aos produtores(as) e ampliando a oferta de produtos básicos no mercado interno.
+Descrição: A aquisição de alimentos tem o objetivo de assegurar a renda e preços mínimos aos produtores, disponibilizar alimentos para famílias em situação de insegurança alimentar, regular os preços de mercado e ofertar os estoques nos momentos de elevação de preços, contribuindo para a regularidade da oferta e controle da inflação.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 329
+Enunciado: Promover a comercialização e as compras públicas da agricultura familiar, assegurando a participação de povos e comunidades tradicionais, povos indígenas, juventude rural e mulheres rurais.
+Descrição: As Compras Institucionais promovem a aquisição de alimentos produzidos pela agricultura familiar e uma alimentação mais saudável porque a oferta dos alimentos está mais perto dos consumidores, permitindo que os produtos sejam frescos, diversificados, de qualidade e adequados ao hábito alimentar local, respeitando também as tradições culturais da população da região.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Objetivo Específico: 339
+Enunciado: Fortalecer a capacidade produtiva da Agricultura Familiar para o abastecimento, por meio da promoção de empreendimentos familiares, associativismo e cooperativismo solidários, agroindustrialização e inclusão sanitária, assegurando a participação de povos
+Descrição: Apoio para a estruturação da produção das organizações da agricultura familiar, através da promoção da agroindustrialização da produção da AF, com ações como Pronaf industrialização, Pronaf agroindustrialização, ações de apoio a agroindustrialização e Mais Gestão.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+passage: Programa Número 5636
+
+Exercício: 2025
+Programa: 5636
+Objetivo: 1296
+Enunciado: Ampliar a disponibilidade e o abastecimento de alimentos diversificados com base em sistemas alimentares saudáveis e sustentáveis, para promoção da soberania alimentar
+Descrição: Para ampliar a disponibilidade e o abastecimento de alimentos diversificados com base em sistemas alimentares saudáveis e sustentáveis, para promoção da soberania alimentar as políticas serão trabalhadas de forma conjunta entre si e com os outros programas. Não basta aumentar a produção, ela deve estar acessível espacial e financeiramente à população conforme suas necessidades. Os programas de compras públicas, a capacitação via Ater, o crédito para as cooperativas se estruturarem, o incentivo ao cooperativismo e associativismo, são ações que permitem esse contexto virtuoso. Garantir preços mínimos de compra, manter estoques de alimentos, reforçar a capacidade de armazenagem, são todas ações que viabilizam esse ambiente, Desse modo também se estimula a produção ao garantir que a produção tenham destino, seja remunerada de forma justa e sustentável e que a comida chegue de fato a quem precisa conforme sua condição de pagamento. Todo o sistema se beneficia com isso ao garantir tanto o sustento das agricultoras e agricultores familiares quanto garantindo o abastecimento alimentar da população, dando apoio a todos conforme suas necessidades e características, incentivando o público diverso da agricultura familiar de acordo com suas características sociais, culturais e produtivas, incentivando o fornecimento de produtos de quilombolas, indígenas, extrativistas, pescadores artesanais, ribeirinhos e todos os povos e comunidades tradicionais, mantendo os hábitos alimentares saudáveis e sustentáveis de cada local.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5636
+
+Exercício: 2025
+Programa: 5636
+Título: Abastecimento e Soberania Alimentar
+Tipo: Finalístico
+Órgão: 49000.0
+Público-Alvo: - Agricultor familiar, pescador e aquicultor;
+- Extrativistas, assentados da reforma agrária, irrigantes, povos e comunidades tradicionais e população ribeirinha;
+- Centrais de Abastecimento;
+- Secretarias Estaduais e municipais de agricultura, organizações sociais, sindicatos, associações e cooperativas; - mulheres rurais
+Descrição Do Problema: Insuficiência de estoques de alimentos para abastecimento e proteção de preços da agricultura familiar. Dificuldade de acesso às informações necessárias para regularização; predominância de empreendimentos dirigidos por homens ou com maior participação no acesso aos mercados
+Causa Do Problema: - Estrutura precária para armazenamento e escoamento dos produtos agropecuários;
+- Baixa ou pouca organização social dos agricultores familiares, com reflexo na falta de agregação de valor à  produção e acesso aos mercados;
+- Inflação do preço de alimentos
+- Insegurança alimentar e nutricional
+- Insuficiência da capacidade produtiva da agricultura familiar. 
+- Desigualdade de acesso e de estrutura para obter informações 
+- predominância da informalidade entre as organizações de mulheres
+Evidências Do Problema: A agricultura familiar enfrenta uma série de desafios que impactam seu desenvolvimento rural. Alguns desses desafios são:
+
+- Baixa organização da agricultura familiar em cooperativas e associações, especialmente entre as mulheres: A falta de estrutura organizacional dificulta a comercialização e acesso a recursos por parte dos agricultores e agricultoras familiares, comprometendo sua capacidade de obter renda.
+
+- Baixa inclusão sanitária dos empreendimentos da agricultura familiar: Muitos empreendimentos da agricultura familiar apresentam condições sanitárias inadequandas, o que exige a atuação governamental para apoiar na sua estruturação. De outro lado, há a necessidade de adequação das normas sanitárias, nas diversas esferas governamentais, de modo a adequa-las às especificidades da agricultura familiar.
+
+- Baixa participação da agricultura familiar nos mercados institucionais: Apesar de programas governamentais como o Programa Nacional de Alimentação Escolar (PNAE) incentivarem a compra de produtos da agricultura familiar, a participação ainda é limitada. Cerca de 1/3 das Entidades Executoras do PNAE não cumprem a obrigação de destinar 30% dos recursos para a compra de alimentos da agricultura familiar.
+
+- Baixo número de estabelecimentos agropecuários da agricultura familiar que comercializam produtos com agregação de valor: A falta de capacitação técnica, acesso a tecnologias e dificuldades logísticas dificultam a agregação de valor aos produtos da agricultura familiar, limitando sua capacidade de obter melhores preços e maior valor agregado.
+
+- Descontinuidade das políticas de aquisição de alimentos e garantia de preços mínimos: A falta de previsibilidade e estabilidade nessas políticas impacta negativamente o abastecimento alimentar, tornando difícil para os agricultores e agricultoras familiares planejar suas produções e garantir uma renda mínima.
+Justificativa Para A Intervenção: A intervenção é necessária para enfrentar os desafios relacionados ao abastecimento alimentar, acesso a mercados, organização da agricultura familiar, inclusão sanitária e agregação de valor. Através de ações coordenadas, é possível fortalecer a capacidade dos agricultores e agricultoras familiares e seus empreendimentos de produzir alimentos de forma sustentável, garantindo um abastecimento alimentar adequado e seguro, respeitando as dimensões regionais, culturais e sociais. Além disso, é fundamental promover o acesso a mercados, incentivando a participação da agricultura familiar em programas institucionais e facilitando o acesso a canais curtos de comercialização. A organização social em cooperativas e associações é essencial para ampliar a comercialização de produtos. A inclusão sanitária é uma prioridade, com investimentos em infraestrutura e boas práticas agrícolas que assegurem a qualidade dos produtos e a saúde dos consumidores. A organização das mulheres e o apoio a formalização é condição necessária para ampliar a participação delas nos mercados e contribuir com sua autonomai econômica. Por fim, é necessário estimular a agregação de valor aos produtos da agricultura familiar, promovendo a diversificação, a capacitação técnica e o acesso a tecnologias que permitam a produção de alimentos com maior valor agregado. Com uma intervenção abrangente, podemos impulsionar a agricultura familiar e alcançar um desenvolvimento saúdável, sustentável e justo.
+Evolução Histórica: Quanto à organização da agricultura familiar, é importante destacar que houve um crescimento significativo de aproximadamente 73% no número de agricultores familiares, de acordo com o Censo Agropecuário de 2017 em comparação com o realizado em 2006. No entanto, é preocupante constatar que apenas 10,6% desses agricultores estão atualmente organizados em cooperativas. Esse baixo índice de organização evidencia a necessidade de incentivar e fortalecer a formação de cooperativas entre os agricultores familiares, visando à ampliação de suas oportunidades de acesso aos mercados e melhoria nos níveis de renda.
+
+No que se refere à Política de Garantia de Preços Mínimos, constatou-se uma redução de 70% na execução dos valores disponíveis para a Aquisição do Governo Federal (AGF). Esse recuo representa um impacto significativo na efetividade dessa política, comprometendo o apoio aos agricultores familiares e a estabilidade dos preços.
+
+Nos últimos anos, observou-se um aumento significativo da participação da agricultura familiar nos mercados institucionais, especialmente no Programa Nacional de Alimentação Escolar (PNAE). Em 2011, de acordo com dados do Fundo Nacional de Desenvolvimento da Educação (FNDE), aproximadamente 68% das entidades executoras não atendiam à obrigação de destinar 30% dos recursos para a aquisição de alimentos provenientes da agricultura familiar. Entretanto, em 2019, houve uma ampliação dessa participação. Apesar desse avanço, ainda existe uma parcela de aproximadamente 30% das entidades executoras que não cumprem essa determinação legal, mostrando a necessidade de aprimoramento e fiscalização para garantir a efetiva implementação dessa política.
+
+Enquanto no Programa Nacional de Alimentação Escolar (PNAE) houve um avanço na participação da agricultura familiar, no Programa de Aquisição de Alimentos (PAA) ocorreu um retrocesso significativo tanto na disponibilidade de recursos quanto no número de agricultores familiares beneficiados. No período de 2016 a 2022, registrou-se uma queda de 80% na participação de agricultores familiares no PAA. Destaca-se que esse programa até então tinha uma ampla participação das mulheres. Essa redução é preocupante, uma vez que o programa desempenha um papel central no apoio à agricultura familiar, na autonomia econômica das mulheres e na garantia de segurança alimentar e nutricional.
+Comparações Internacionais: O cooperativismo e o associativismo têm sido recomendados pela Organização das Nações Unidas para Agricultura e Alimentação (FAO) como estratégias para reduzir os impactos ambientais e promover o desenvolvimento socioeconômico de famílias rurais, especialmente aquelas com menor renda. Essas abordagens têm se mostrado eficazes na busca por soluções sustentáveis e na melhoria das condições de vida no campo. Em um estudo recente, o organismo destacou os benefícios da organização social na redução das desigualdades de renda, gênero e geração, bem como na promoção de sistemas alimentares saudáveis. Essa análise ressalta a importância de promover ações coletivas e engajamento comunitário para alcançar um desenvolvimento mais equitativo e sustentável.
+
+No entanto, de acordo com a CEPAL, apenas 7% da população brasileira está associada a cooperativas, incluindo aquelas voltadas para a agricultura familiar. Essa porcentagem coloca o Brasil em desvantagem em comparação a outros países da América Latina, como Costa Rica, Chile, Colômbia, Uruguai, Argentina e Equador, que apresentam níveis mais elevados de participação da população por meio de cooperativas. 
+
+No que diz respeito à insegurança alimentar, de acordo com a FAO, o número de pessoas em situação de desnutrição ou fome crônica aumentou de 804 milhões em 2016 para 821 milhões em 2017. No Brasil, durante o mesmo período, observou-se um crescimento na desnutrição, afetando 5,2 milhões de brasileiro.
+
+A questão da obesidade tem se tornado uma preocupação crescente para os organismos internacionais. Em 2017, a obesidade infantil afetou cerca de 38 milhões de crianças em todo o mundo. No Brasil, de acordo com dados do Ministério da Saúde, mais da metade da população das capitais brasileiras apresenta excesso de peso. Estudos semelhantes indicam que quase metade dos países enfrentam problemas relacionados à desnutrição e obesidade em suas populações.
+
+Essas estatísticas destacam a necessidade de implementar ações efetivas para lidar com essa questão global, e o envolvimento dos governos na formulação de políticas públicas de aquisição e distribuição de alimentos saudáveis se torna essencial. Nesse contexto, programas como o Programa Nacional de Alimentação Escolar (PNAE), o Programa de Aquisição de Alimentos (PAA), o Programa de Garantia de Preços para a Agricultura Familiar (PGPM) e outras iniciativas voltadas para a promoção do abastecimento e soberania alimentar .
+Relação Com Os Ods: ODS 1 - Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 4 – Assegurar a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.
+ODS 5 - Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.
+ODS 8 - Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
+ODS 10 - Reduzir a desigualdade dentro dos países e entre eles.
+ODS 11 – Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.
+ODS 12 - Assegurar padrões de produção e de consumo sustentáveis.
+ODS 13 - Tomar medidas urgentes para combater a mudança climática e seus impactos,
+ODS 15 - Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a
+desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+ODS 16 - Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir
+instituições eficazes, responsáveis e inclusivas em todos os níveis.
+ODS 17 - Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+Agentes Envolvidos: Companhia Nacional de Abastecimento - Conab, Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA, Ministério da Educação, FNDE,  Associações de Produtores, Associações de pescadores, Escritórios Estaduais do MDA, Instituto Nacional de Colonização e Reforma Agrária - INCRA, Superintendências de Agricultura Familiar e Regionais da Conab (Suregs), Secretarias Municipais de Agricultura Familiar, Secretarias Estaduais e Municipais de agricultura, Codevasf, agricultores familiares, assentados da reforma agrária, silvicultores, aquicultores, extrativistas, pescadores profissionais, povos indígenas, comunidades quilombolas e demais povos e comunidades tradicionais. Instituições de pesquisa e ensino, cooperativas, ONG’s, Organizações Estaduais de Pesquisa Agropecuária, Grupo Gestor do Plano ABC, bancos oficiais e agentes financeiros, Federação de Agricultura, ANATER, Emateres Estaduais, Extensionistas, , Prefeituras, Cooperativas, Associações, Sindicatos, Confederação Nacional dos Municípios - CNM, SEBRAE, Serviço Nacional de Aprendizagem Rural (SENAR), FAO, IICA, Conselhos Municipais de Desenvolvimento Sustentável; PNUD, MERCOSUL (REAF)
+Articulação Federativa: A promoção do fortalecimento e da soberania alimentar requer uma articulação federativa entre as três esferas de governo (municipal, estadual e federal), bem como a atuação conjunta com consórcios intermunicipais, consórcios estaduais e territórios. Essa colaboração entre os diferentes níveis de governo é essencial para garantir uma abordagem integrada e efetiva na implementação de políticas voltadas para a segurança alimentar e nutricional, e o desenvolvimento rural sustentável. Ao trabalhar em conjunto, os governos podem compartilhar recursos, conhecimentos e experiências, além de promover a coordenação de ações e a adoção de estratégias alinhadas, fortalecendo assim as iniciativas de promoção da soberania e segurança alimentar e nutricional em todo o país.
+
+No contexto dos mercados institucionais, existe uma significativa articulação com os gestores públicos locais responsáveis pela aquisição de alimentos provenientes da agricultura familiar. Essa aproximação busca fortalecer o vínculo entre os agricultores familiares e os órgãos e entidades compradoras, visando estimular a participação da agricultura familiar e promover o desenvolvimento local. Através dessa articulação, são estabelecidos mecanismos de diálogo, capacitação e monitoramento para garantir a transparência, a eficiência e a equidade na aquisição de alimentos, contribuindo assim para a valorização e a sustentabilidade da agricultura familiar e para o fornecimento de alimentos de qualidade para crianças no âmbito do PNAE, e população em vulnerabilidade social para o PAA.
+
+Além disso, para a efetividade da política, é fundamental estabelecer relação com os colegiados de participação social, nos diversos níveis da federação, tais como: os conselhos estaduais e municipais de desenvolvimento rural sustentável, os conselhos estaduais e municipais de segurança alimentar e nutricional, e os espaços de controle social do PAA e PNAE. Também é importante destacar a representação do Ministério por meio dos escritórios estaduais, que desempenham um papel fundamental na articulação e coordenação das ações voltadas para a agricultura familiar em cada estado. Essa representação local contribui para uma maior proximidade com as demandas e realidades regionais, facilitando a implementação das políticas e fortalecendo a interlocução entre os agricultores familiares e os órgãos responsáveis.
+Enfoque Transversal: Para alcançar o objetivo proposto no programa, é fundamental adotar uma abordagem transversal, considerando a complexidade dos desafios a serem enfrentados e a diversidade de atores envolvidos. A natureza multifacetada dos problemas exige uma atuação integrada e colaborativa, envolvendo diferentes setores, instituições e agentes da sociedade. Somente por meio dessa abordagem, que promove a troca de conhecimentos, recursos e experiências, podemos enfrentar efetivamente os desafios e alcançar resultados significativos. A colaboração entre os diversos agentes é essencial para a implementação de ações coordenadas, a busca de soluções inovadoras e a promoção de um desenvolvimento rural sustentável e justo.
+
+Nesse sentido, é fundamental a articulação com com programas e ações relacionadas à segurança alimentar e nutricional, mudanças climáticas, povos e comunidades tradicionais, gênero e juventude. Essas áreas desempenham um papel essencial e interligado para alcançar os objetivos propostos. A integração dessas pautas fortalece as ações e políticas, permitindo abordagens mais abrangentes e inclusivas, que considerem as particularidades e necessidades específicas de cada contexto. 
+
+Dentre os órgãos fundamentais para a implementação do objetivo proposto, destacam-se o Ministério do Meio Ambiente e Mudança do Clima (MMA), o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), o Ministério da Agricultura e Pecuária (MAPA), Ministério da Saúde (MS), Agência Nacional de Vigilância Sanitária (Anvisa), Ministério da Educação (MEC), Ministério dos Povos Indígenas (MPI), Fundação Nacional dos Povos Indígenas (FUNAI), Fundação Cultural Palmares, Fundo Nacional de Desenvolvimento da Educação (FNDE), a Companhia Nacional de Abastecimento (Conab), entre outros atores relevantes.
+Marco Legal: Lei nº 11.326/2006 - Lei da Agricultura Familiar: Essa lei define a agricultura familiar, estabelecendo critérios como o tamanho da área, a mão de obra familiar e a gestão da unidade produtiva familiar. Ela reconhece a importância da agricultura familiar para a segurança alimentar, o desenvolvimento sustentável e a promoção da igualdade social no meio rural.
+Lei Nº 12.188, de 11 de janeiro de 2010. Institui a Política Nacional de Assistência Técnica e Extensão Rural para a Agricultura Familiar e Reforma Agrária - PNATER e o Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária - PRONATER, altera a Lei no 8.666, de 21 de junho de 1993, e dá outras providências. 
+Decreto Nº 7.794, de 20 de agosto de 2012. Institui a Política Nacional de Agroecologia e Produção Orgânica.
+Decreto nº 6.323, de 27 de dezembro de 2007. Regulamenta a lei no 10.831, de 23 de dezembro de 2003, que dispõe sobre a agricultura orgânica, e dá outras providências. 
+Lei nº 11.947, de 16 de junho de 2009.
+Medida Provisória nº 1.666, de 22 de março de 2023.
+Decreto nº 11.479, de 6 de abril de 2023.
+Lei nº 8.171, de 17 de janeiro de 1991.
+Lei nº 8.427, de 27 de maio de 1992.
+Decreto-Lei nº 79, de 19 de dezembro de 1966.
+Lei nº 5.764, de 16 de dezembro de 1971. 
+- Decreto n 11.452, de 22 de março de 2023 que institui o Programa de Organização Produtiva e Econômica de Mulheres Rurais e o seu Comitê Gestor.
+Planos Nacionais, Setoriais E Regionais: - Plano Nacional de desenvolvimento rural sustentável e solidário;
+- Plano Nacional de Agroecologia e Produção Orgânica
+- Plano Nacional de Segurança Alimentar e Nutricional 
+- Plano Nacional de Políticas para Mulheres
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

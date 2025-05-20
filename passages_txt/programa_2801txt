@@ -1,0 +1,1987 @@
+passage: Programa Número 2801
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 471
+Entrega: 1617
+Indicador: 10815
+Denominação: Índice de serviços realizados pelo Inmetro referenciados no BIPM/KCDB
+Índice De Referência: 50.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Relação entre a quantidade total de serviços metrológicos, que são abrangidos pelo Acordo de Reconhecimento Mútuo (ARM) e quantidade total de serviços metrológicos realizados no período considerado. Os serviços metrológicos em questão incluem calibrações, ensaios e materiais de referência certificados (MRC). Uma parte desses serviços oferece o valor agregado do reconhecimento internacional para as capacidades de medição e de calibração (Calibration and Measurement Capability - CMC) mantidos pelo Inmetro no banco de dados de comparações chaves (Key Comparison Data Base - KCDB) disponibilizado pelo BIPM (Bureau International des Poids et Mesures).
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: Após cada fim de semestre, no Relatório de Monitoramento do Contrato de Desempenho
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: I = Índice de serviços realizados pelo Inmetro referenciados no BIPM/KCDB
+T = número total de certificados emitidos pela Dimci
+R = relatórios emitidos pela Dimci
+M = MRCs da Dimci com CMC
+D = número total de certificados, relatórios, MRC da Dimci
+Fonte De Dados Das Variáveis De Cálculo: Documentação do sistema de gestão da qualidade da Diretoria de Metrologia Científica (Dimci).
+Forma De Disponibilização: Os Relatórios de Monitoramento do Contrato de Desempenho são publicados no site do Inmetro.
+Procedimento De Cálculo: O índice calcula a soma dos serviços realizados com rastreabilidade e divide pelo total de serviços realizados.
+Limitações: Atividade depende da disponibilidade da infraestrutura laboratorial e investimentos em metrologia científica.
+Notas Explicativas: O objetivo do indicador é detectar a cada período a tendência associada à evolução do número dos serviços realizados para os laboratórios
+acreditados e para a indústria no país, número esse associado à razão entre a quantidade dos serviços de alto valor agregado com relação ao número total de serviços realizados. Esse indicador visa quantificar o impacto do Acordo de Mútuo Reconhecimento em comparação ao conjunto de serviços metrológicos prestados para a sociedade, e mostra a importância da manutenção desse Acordo por parte do Inmetro para as medições (CMCs) em grandezas físicas, químicas e biológicas;
+
+Assim, o registro de CMCs no banco de dados do BIPM (KCDB) traduz o esforço de gestão da infraestrutura da qualidade nacional, em especial com referência aos serviços de provimento de rastreabilidade metrológica de alto nível oferecido pelos laboratórios do Inmetro, o que requer evidências objetivas registradas por especialistas de outros Institutos Internacionais de Metrologia (NMIs), através de avaliações por pares (peer reviews), confirmando que o Inmetro atende às normas e requisitos internacionais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 1218
+Indicador: 10273
+Denominação: Nº acumulado de doações realizadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Utilização do poder de compra do Estado para promoção da Economia Verde nos municípios (equipamentos de geração de energia renovável em prédios públicos - sobretudo escolas e hospitais-), aliviando despesas com energia, ampliando a oferta de energia limpa da matriz energética brasileira e incentivando a produção nacional de equipamentos, contribuindo para o processo de neoindustrialização do país.
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de doações realizadas
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Novas Economias da Secretaria de Economia Verde, Descarbonização e Bioindústria -DNOVA/SEV/MDIC
+Forma De Disponibilização: Páginas eletrônicas do MDIC
+Procedimento De Cálculo: Não se aplica
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 1080
+Indicador: 10095
+Denominação: Nº acumulado de empresas capacitadas em práticas ASG (Ambiental, Social e de Governança)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Programa de atendimento a empresas com foco na capacitação em práticas ESG
+Período Ou Data A Que Se Refere: Ano Anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número acumulado de empresas capacitadas em ESG;
+X =  número de empresas capacitadas em ESG.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Novas Economias da Secretaria de Economia Verde, Descarbonização e Bioindústria -DNOVA/SEV/MDIC
+Forma De Disponibilização: Departamento de Novas Economias da Secretaria de Economia Verde, Descarbonização e Bioindústria -DNOVA/SEV/MDIC
+Procedimento De Cálculo: Contagem simples do número acumulado de empresas capacitadas em ESG.
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 1066
+Indicador: 10078
+Denominação: Nº acumulado de povos indígenas, povos e comunidades tradicionais e agricultores familiares (PICTAFs) beneficiados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: As rotas referem-se a implementação de ações que visam melhorar a  qualidade, a capacidade produtiva, a produtividade e  a conexão das unidades produtivas de PICTAFs (Povos Indígenas, Povos e Comunidades Tradicionais e Agricultores Familiares) que forem inseridas ou que já fazem parte de cadeias de valor nacionais ou internacionais. Essas são necessáriamente cadeias de valor de produtos da sociobiodiversidade e devem estar relacionadas com as vocações dos biomas onde estiverem inseridas, com objetivos de aumento de renda dos beneficiários de forma sustentável social, ambiental e culturalmente. Considera-se "implementada" a rota em que houve, no âmbito do programa, ampliação dos valores contratados junto às unidades produtivas dos PICTAFs, seja pela melhoria da qualidade dos produtos ou pelo aumento da produção.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número acumulado de comunidades de PICTAFs beneficiada;
+X1, 2, n = número de comunidades de PICTAFs por ano.
+Fonte De Dados Das Variáveis De Cálculo: Registros internos MDIC/SEV/DEAMA/CGAMA
+Forma De Disponibilização: Páginas eletrônicas do MDIC
+Procedimento De Cálculo: Contagem simples do número de comunidades de PICTAFs benificiadas por ano.
+Limitações: Não há
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 1057
+Indicador: 10062
+Denominação: Nº acumulado de produtos e serviços certificados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: produtos
+Descrição: Certificação de produtos/serviços que preenchem requisitos de sustentabilidade pre-estabelecidos.
+Período Ou Data A Que Se Refere: semestre anterior
+Data De Divulgação/Disponibilização: fevereiro e agosto de cada ano
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número acumulado de produtos/serviços rotulados a partir da criação do Selo Verde Brasil do início de vigência do PPA ao período de referência;
+X1,2,n = número de produtos/serviços rotulados a partir da criação do Selo Verde por semestre.
+Fonte De Dados Das Variáveis De Cálculo: Secretaria de Economia Verde, Descarbonização e Bioindústria - MDIC/SEV e Associação Brasileira de Normas Técnicas -ABNT
+Forma De Disponibilização: Páginas eletrônicas do MDIC e ABNT
+Procedimento De Cálculo: Contagem simples do número de produtos/serviços rotulados a partir da criação do Selo Verde.
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 2208
+Indicador: 11529
+Denominação: Nº de clientes atendidos no PRONAMPE
+Índice De Referência: 445450.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O PRONAMPE é instrumento de acesso a crédito criado na pandemia e que agora é permanente. Operado por ampla rede bancária, conta com taxa muito competitivas e outras vantagens como carência de até 12 meses e prazo de até 72 meses. O número de empresas atendidas será obtido a partir de relatório operacional preparado pela entidade gestora da linha de crédito (Banco do Brasil), que considera todas as empresas que fecharam contrato com qualquer um dos bancos operadores.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro do período seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empresas atendidas são aquelas que submetem solicitação de crédito aos bancos operadores do PRONAMPE e tem solicitação aprovada no período
+Fonte De Dados Das Variáveis De Cálculo: Relatório emitido pelo gestor do FGO - Banco do Brasil
+Forma De Disponibilização: Divulgação no site do MDIC
+Procedimento De Cálculo: Os dados do Indicador 11529 são disponibilizados em sítio eletrônico do Banco do Brasil, administrador do FGO (Fundo Garantidor de Operações) Pronampe.
+Limitações: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 471
+Entrega: 1608
+Indicador: 10807
+Denominação: Nº de entidades envolvidas
+Índice De Referência: 16.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Espaço permanente para encontro, diálogo e compartilhamento de ideias, projetos e informações sobre infraestrutura da qualidade em caráter transversal e em nível nacional, regional, estadual e setorial.
+Período Ou Data A Que Se Refere: Mês anterior
+Data De Divulgação/Disponibilização: Primeiro dia do mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = acumulado de entidades participantes nos fóruns em funcionamento
+P1, P2, Pn = entidades participantes nos fóruns em funcionamento
+Fonte De Dados Das Variáveis De Cálculo: Própria Secretaria de Competitividade e Política Regulatória - SCPR
+Forma De Disponibilização: Informação da Secretaria de Competitividade e Política Regulatória - SCPR
+Procedimento De Cálculo: Contagem unitária das entidades envolvidas em cada fórum de apoio à ENIQ, desconsiderando a dupla contagem para entidades que participem em mais de um fórum. Somatório das entidades identificadas.
+Limitações: Não há formato específico para constituição e funcionamento dos fóruns, contudo precisam ser reconhecidos pela SCPR
+Notas Explicativas: 1 - Nacional
+2025 - 7 - Cada eixo da ENIQ
+2026 - 1 pra cada região 
+2027 - 1 pra cada estado
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 2206
+Indicador: 11527
+Denominação: Número acumulado de bases de dados integradas ao Mapa de Empresas
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: O Mapa de Empresas se restringe às informações cadastrais das empresas (dados de solicitações de abertura de empresas e cadastro no CNPJ). ​
+O intuito dessa iniciativa é incluir no Mapa informações outras bases de dados do Governo Federal para subsidiar análises econômicas das empresas ativas no país.​
+Assim, vislumbra-se o desenvolvimento do Mapa de Empresas como uma efetiva e completa ferramenta para as políticas públicas governamentais.
+Período Ou Data A Que Se Refere: Quadrimestre anterior
+Data De Divulgação/Disponibilização: quadrimestre posterior a integração com outras bases de dados
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+Bi representa o número de bases de dados integradas ao Mapa de Empresas em cada período
+O índice 'i' varia de 1 até 'n', que representa o número total de períodos considerados para consolidação do acumulado
+Fonte De Dados Das Variáveis De Cálculo: Consulta à solução de TIC do Mapa de Empresas
+Forma De Disponibilização: Mapa de empresas  -  https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas
+Procedimento De Cálculo: Somatório acumulado das bases integradas
+Limitações: É necessária a autorização da RFB para o acesso  as novas bases de dados.
+Notas Explicativas: Metas elaboradas considerando a quantidade de bases agregadas à solução de TIC do Mapa de Empresas. No início de 2023, consta na solução as bases CNPJ e solicitações Redesim (dados de tempo de abertura de empresas). Para 2024, com a disponibilização da solução bcadastros, prevê-se a integração das bases CPF, CAEPF, Simples Nacional e DAU (Dívida Ativa da União). Para os anos seguintes, vislumbra-se a integração de, ao menos, uma nova base governamental a cada ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2196
+Indicador: 11518
+Denominação: Número acumulado de feiras/missões internacionais com participação da alta administração do MDIC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: A participação do MDIC em feiras e missões internacionais visa aumentar a visibilidade e representatividade desses eventos, que geram, entre outros,  novos negócios para as empresas brasileiras. Importante observar que estas feiras internacionais, promovidas pela APEX, até 2014 contavam com a presença do Ministro de Estado do MDIC. A partir de então, e até a presente data, a a Agência continuou realizando Missões Empresariais para diversos mercados, contudo sem a presença do Ministro de Estado e com porte reduzido. A partir de 2023, no entanto, a alta administração do MDIC vai voltar a participar desses eventos, que passará a ter um porte maior e com a participação efetiva do MDIC em sua organização.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: último dia do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NF = número acumulado de feiras/missões internacionais com a participação da alta administração do MDIC
+a = ano de referência
+NFa = número de feiras/missões internacionais com a participação da alta administração do MDIC realizadas no ano 'a'
+Fonte De Dados Das Variáveis De Cálculo: Informações disponibilizadas em site governamental (site <https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/dpfac/promocao-das-exportacoes-e-cultura-exportadora>).
+Forma De Disponibilização: comunicação administrativa / mídia (televisão e jornais)
+Procedimento De Cálculo: Passo 1: contagem do número de feiras/missões internacionais com a participação da alta administração do MDIC realizadas no ano de referência;
+Passo 2: soma dos valores resultantes da contagem do ano de 2024 até o ano de referência.
+Limitações: não se aplica
+Notas Explicativas: As metas estão sendo consideradas de forma cumulativa, ou seja, a previsão é que ocorram 4 feiras/missões internacionai com a participação da alta administração do MDIC por ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 2205
+Indicador: 11526
+Denominação: Número acumulado de Juntas Comerciais com a medida implementada (padrão nacional para registro e legalização de empresas e negócios)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Vislumbra-se, em articulação com outros órgãos do Governo Federal, até para que haja um convencimento para o avanço nos estados, evoluir os sistemas da Redesim (federal e estaduais) para ser realizada uma única coleta de dados para abertura e legalização de empresas.​
+Por fim, pretende-se elevar os sistemas de abertura de empresas como ferramentas que dispõe de serviços que efetivamente facilitam a operação e manutenção dos negócios brasileiros.​
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: março/agosto
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+Ui representa o número de Unidades da Federação com a medida implementada em cada período
+O índice 'i' varia de 1 até 'n', que representa o número total de períodos considerados para o acumulado
+Fonte De Dados Das Variáveis De Cálculo: Boletim do Mapa de Empresas - https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas
+Forma De Disponibilização: Boletim do Mapa de Empresas -  https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas
+Procedimento De Cálculo: Somatório cumulativo das unidades da federação que implementaram a medida
+Notas Explicativas: As 27 juntas comerciais utilizam soluções tecnológicas providas a partir de 5 fábricas de software (públicas ou privadas). Uma solução abarca 9 juntas comerciais; enquanto 11 juntas são atendidas por outra solução; e 5 juntas por outra solução (Rio de Janeiro consta nesse grupo, porém com sistema que se diferencia um pouco das outras 4). Por fim, São Paulo e Minas Gerais possuem soluções próprias. As metas do indicador levam em consideração a adoção da medida por cada grupo (solução tecnológica).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 1021
+Indicador: 10020
+Denominação: Número acumulado de linhas de produção ampliadas e/ou aperfeiçoadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Trata-se da ampliação (novas linhas) e/ou aperfeiçoamento de linhas de produção, em biorrefinarias, com a utilização da biomassa e da biodiversidade.
+Data De Divulgação/Disponibilização: março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = novas linhas de produção, em biorrefinarias que utilizam biomassa ou  biodiversidade no ano de referência it
+N = número acumulado de novas linhas de produção, em biorrefinarias que utilizam biomassa ou  biodiversidade do início de vigência do PPA até o ano de referência
+Fonte De Dados Das Variáveis De Cálculo: CNI/Associação Brasileira de Bioindústria de Invovação (ABBI)
+Forma De Disponibilização: Relatórios anuais da CNI/ ABBI
+Procedimento De Cálculo: Contagem do número de novas linhas de produção, em biorrefinarias que utilizam biomassa ou  biodiversidade no ano de referência. Soma dos valores resultantes da contagem do início de vigência do PPA até o período de referência.
+Limitações: Não há dados na Pesquisa da Indústria Anual (PIA/IBGE)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1542
+Indicador: 10738
+Denominação: Número acumulado de palestras de articulação institucional e disseminação e de informações para o desenvolvimento da Amazônia
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-21 00:00:00
+Unidade De Medida: unidade
+Descrição: Realização de palestras de articulação institucional com o fim de divulgar informações para o desenvolvimento da Amazônia
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: julho/janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número de palestras realizadas desde o início de vigência do PPA
+P1, P2, Pn = número de palestras realizadas por semestre
+Fonte De Dados Das Variáveis De Cálculo: Sistema SEI do órgão/unidade responsável
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Contagem do número de palestras e eventos realizados para a finalidade de articulação institucional e disseminação de informações para o desenvolvimento da Amazônia por meio da comunicação administrativa.
+Limitações: 1. Disponibilidade orçamentária para as viagens.  
+2. Vigência do Decreto-Lei 356/68 (incentivos da amazônia ocidental) 
+3 Vigência da Lei de Infomática Lei 8.387/91.
+Notas Explicativas: Buscar  atender às recomendações sinalizadas pelo TCU de forma recorrente, em diversos Acórdãos, como os apresentados nos ACÓRDÃO 608/2016 - PLENÁRIO  e ACÓRDÃO 2388/2017 - PLENÁRIO, além de observar os pontos elencados na Lista de Alto Risco (LAR) da Administração Pública federal , elaborada pelo Tribunal de Contas da União (TCU)no final do ano de 2022, que identificou problemas de formulação, execução e monitoramento das políticas públicas, o que traz prejuízos ao objetivo fundamental de redução das desigualdades sociais e regionais, estabelecido na Constituição federal, o PIRD tem o propósito de sanar lacunas nessas políticas públicas de contribuir para a redução das desigualdades socioeconômicas.
+As palestras irão abordar as seguintes temáticas:
+
+Palestra 1 - INCENTIVOS FISCAIS DA SUFRAMA PARA EMPRESAS NA AMAZÔNIA OCIDENTAL E AMAPÁ; 
+Palestra 2 - CADASTRO E COMPRA NACIONAL E IMPORTADA COM INCENTIVO FISCAL;
+Palestra 3 - RECURSOS DE P.D&I DA ZFM APLICADOS A AMAZÔNIA OCIDENTAL E AMAPÁ; 
+Palestra 4 - COMO APRESENTAR PROJETOS NA SUFRAMA ; 
+Palestra 5 - ACESSO A RECURSOS PELO BANCO DA AMAZÔNIA;
+Palestra 6 - ACESSO A RECURSOS PELA SUDAM
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2199
+Indicador: 11520
+Denominação: Número acumulado de planos de trabalhos estaduais pactuados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O PNCE tem o objetivo de difundir a cultura exportadora e ampliar o número de exportadores brasileiros – principalmente de micro, pequenas e médias empresas (MPMEs) – por meio de uma rede de apoio formada por diversas instituições públicas e privadas que atuam no fomento às exportações brasileiras. Os Comitês Estaduais (informais) são o meio pelo qual a coordenação do PNCE nas unidades da Federação é exercida. 
+O Plano Nacional da Cultura Exportadora (PNCE) dará lugar à Política Nacional de Cultura Exportadora (mantendo a mesma sigla). Já existe processo administrativo contendo minuta de decreto que instituirá a Política. Importante destacar também que será criado, juntamente com a Política – e para tratar da Política – um Comitê Nacional para a Promoção da Cultura, a princípio composto por MDIC, MRE, MAPA, ApexBrasil, Sebrae e, provavelmente, CNI, CNA, CNC, CNS e governos estaduais. Ou seja, apesar de o MDIC ter um papel de liderança na condução da Política, as diretrizes serão estabelecidas em Comitê. Partindo-se do pressuposto que até o final de 2023 a Política já terá sido instituída e o Comitê criado, e que, a princípio, a cada ano, pelo menos dois Planos de Trabalho estaduais serão desenvolvidos para serem executados no ano seguinte.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NF = número acumulado de planos de trabalhos estaduais pactuados
+a = ano de referência
+NFa = número de planos de trabalhos estaduais pactuados no ano 'a'
+Fonte De Dados Das Variáveis De Cálculo: Informações disponibilizadas em site governamental (site <https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/dpfac/promocao-das-exportacoes-e-cultura-exportadora>).
+Forma De Disponibilização: publicações / mídia (televisão e jornal)
+Procedimento De Cálculo: Passo 1: contagem do número de planos de trabalhos estaduais pactuados no ano de referência;
+Passo 2: soma dos valores resultantes da contagem do ano de 2024 até o ano de referência.
+Limitações: não se aplica
+Notas Explicativas: As metas estão sendo consideradas de forma cumulativa, ou seja, a previsão é que sejam pactuados dois planos de trabalhos estaduais por ano.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2195
+Indicador: 11517
+Denominação: Número acumulado de produtos novos ou reformulados
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se da produção e disponibilização de novos dados, indicadores e estudos relacionados ao comércio exterior. Esses produtos englobam bases de dados abertas, planilhas formatadas, sistema de consulta, sistema de visualização de dados, estudos mais analíticos etc. Seguem alguns exemplos desses produtos:
+http://comexstat.mdic.gov.br/pt/home
+http://comexstat.mdic.gov.br/pt/comex-vis
+https://balanca.economia.gov.br/balanca/IPQ/index.html
+https://balanca.economia.gov.br/balanca/outras/porte/relatorio_porte.html
+https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/outras-estatisticas-de-comercio-exterior-1/mulheres_comercio_exterior_uma_analise_para_o_brasil.pdf
+https://balanca.economia.gov.br/balanca/outras/panorama_municipios_brasileiros_comex.pdf
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: último dia do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NF = número acumulado de produtos novos ou reformulados
+a = ano de referência
+NFa = número de produtos novos ou reformulados lançados no ano 'a'
+Fonte De Dados Das Variáveis De Cálculo: Informações disponibilizadas em site governamental (site https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas).
+Forma De Disponibilização: publicações disponibilizadas em  https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas
+Procedimento De Cálculo: Passo 1: contagem do número de produtos novos ou reformulados lançados no ano de referência;
+Passo 2: soma dos valores resultantes da contagem do ano de 2024 até o ano de referência.
+Limitações: não se aplica
+Notas Explicativas: As metas estão sendo consideradas de forma cumulativa, ou seja, a previsão é que anualmente sejam disponibilizados 3 produtos novos ou reformulados.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 2207
+Indicador: 11528
+Denominação: Número acumulado de tradutores e intérpretes públicos aprovados em processo seletivo nacional
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Realizar processos seletivos de Tradutores e Intérpretes Públicos em todo o país, peridiodicamente (a depender da demanda)  a fim de suprir as necessidades destes profissionais, no âmbito das Juntas Comerciais.
+A profissão de tradutor e intérprete público, comumente chamado de "tradutor juramentado", foi reestruturada de acordo com a ordem constitucional vigente. Para o acesso à profissão se exige aprovação em concurso específico nacional para aferição das aptidões necessárias ao desenvolvimento das atividades correlatas. A realização de concurso foi alterada com a Lei nº 14.195/2021, e o DREI o órgão competente para a realização do certame.
+
+Com a nova regulamentação, esses profissionais passam a atuar em todo o território brasileiro, e não mais na unidade de federação de sua matrícula, como era exigido anteriormente. Outra novidade é a exclusão de requisitos como idade mínima e comprovação de domicílio onde a profissão será exercida. A medida também possibilita a atuação de profissionais estrangeiros residentes no Brasil, já que antes apenas brasileiros podiam desempenhar as tarefas de tradutores e intérpretes públicos.
+O objetivo do concurso é ampliar o mercado de tradutores oficiais, tendo em vista que o mercado atual não supre as demandas atuais. O desequilíbrio entre oferta e demanda tem prejudicado, por exemplo, empreendedores e cidadãos que dependem da tradução juramentada para contratos internacionais, operações de importação e exportação e até transações cotidianas com documentos que exigem tradução oficial. Com o concurso nacional, tem-se expectativa de se reduzir os custos para contratação dos serviços de tradução, bem como reduzir o atraso nas entregas de documentos traduzidos.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ci = quantidade de candidatos aprovados em processo seletivo nacional no período (anual)
+O índice 'i' varia de 1 até 'n', que representa o número total de períodos considerados para o acumulado
+Fonte De Dados Das Variáveis De Cálculo: 27 Juntas Comerciais do País com dados consolidados pelo Departamento Nacional de Registro Empresarial e Integração
+Forma De Disponibilização: Portal do DREI
+Procedimento De Cálculo: Total acumulado de candidatos aprovados nos processos seletivos a serem realizados entre 2024 e 2027 (1 concurso por ano)
+Observação: existem tradutores e intérpretes matriculados no âmbito das Juntas Comerciais estaduais, uma vez que a competência para a realização de concurso para aferição de aptidão era desses órgãos, antes do advento da da Lei nº 14.195, de 26 de agosto de 2021, cujo art. 25 tranferiu para o Departamento Nacional de Registro Empresarial e Integração – DREI a competência para organização e regulamentação do referido concurso, em âmbito nacional. Assim, o indicador não abrangerá tradutores juramentados que foram aprovados em antigos concursos, mas apenas nos novos, organizados pelo DREI.
+Limitações: Orçamento para a realização dos  processos seletivos.
+Notas Explicativas: - Metas elaboradas considerando o total de tradutores e intérpretes públicos cadastrados nas 27 juntas comerciais do país: 2.419 profissionais. A expectativa é que esse quantitativo dobre nos próximos 4 anos, com a realizados dos concursos nacionais.
+- Apesar de constar na Lei 14.195/2021 a nomenclatura "concurso", o certâme a ser realizado trata-se de processo seletivo.
+- Existem tradutores e intérpretes matriculados no âmbito das Juntas Comerciais estaduais, uma vez que a competência para a realização de concurso para aferição de aptidão era desses órgãos, antes do advento da da Lei nº 14.195, de 26 de agosto de 2021, cujo art. 25 tranferiu para o Departamento Nacional de Registro Empresarial e Integração – DREI a competência para organização e regulamentação do referido concurso, em âmbito nacional. Assim, o indicador não abrangerá tradutores juramentados que foram aprovados em antigos concursos, mas apenas nos novos, organizados pelo DREI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 3423
+Indicador: 12768
+Denominação: Número acumulado de unidades federativas integrantes do Sistema Nacional de Economia de Impacto (SIMPACTO)
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Ampliação do Sistema Nacional de Economia de Impacto, através da adesão de unidades federativas que tenham política pública instituída sobre o tema
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número de unidades federativas integrantes do Sistema Nacional de Economia de Impacto;
+X1,2,n = número de unidades federativas com ACT firmado com o MDIC para aderir ao SIMPACTO.
+Fonte De Dados Das Variáveis De Cálculo: Informações disponíveis na página oficial do MDIC (https://www.gov.br/mdic/pt-br/assuntos/enimpacto/simpacto).
+Forma De Disponibilização: Página eletrônica do MDIC
+Procedimento De Cálculo: Contagem do número total de unidades federativas brasileiras que aderiram ao Sistema Nacional de Economia de Impacto através de assinatura de Acordo de Cooperação Técnica
+Limitações: A adesão ao SIMPACTO depende de existência prévia de política pública de economia de impacto, arcabouço normativo e estruturas de governança na respectiva unidade federativa
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 2203
+Indicador: 11524
+Denominação: Número de acessos aos sistemas CredMais e Capacita
+Índice De Referência: 172000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de sistemas de serviços digitais disponibilizados pela SEMPE para conectar MEIs e MPEs a parceiros e redes de apoio e crédito
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: junho/janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+ACredMaisi representa cada acesso individual ao sistema CredMais ao longo do ano
+ACapacitai representa cada acesso individual ao sistema Capacita ao longo do ano
+O índice 'i' varia de 1 até 'n', que representa o número total de acessos no ano
+Fonte De Dados Das Variáveis De Cálculo: CRED+: Paineis SERPRO
+CAPACITA: Google Analytics
+Forma De Disponibilização: Portal do Empreendedor
+Procedimento De Cálculo: Apuração da quantidade de acessos no Portal do SERPRO e no Google Analytics.
+Limitações: Não há
+Notas Explicativas: Não há
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 471
+Entrega: 1634
+Indicador: 10827
+Denominação: Número de ações de supervisão
+Índice De Referência: 1948.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede o incremento das ações de supervisão de mercado em regulamentação metrológica em locais críticos de distribuição de instrumentos e produtos pré-embalados, tais como ambientes alfandegários, fábricas e centros de distribuição, tendo como base a estimativa da meta feita para o ano de 2021.
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: A cada fim de semestre, no Relatório de Monitoramento do Contrato de Desempenho
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número de ações de fiscalização em ambiente alfandegários, fábricas e centros de distribuição no período considerado
+i - período de tempo considerado
+Fonte De Dados Das Variáveis De Cálculo: SGI - Sistema de Gestão Integrado - este sistema controla as ações de supervisão de mercado da RBMLQ-I
+Forma De Disponibilização: Os Relatórios de Monitoramento do Contrato de Desempenho são publicados no site do Inmetro.
+Procedimento De Cálculo: A cada semestre é realizada uma consulta ao banco de dados do SGI para contabilizar as ações de supervisão de mercado nos ambientes alfandegários, fábricas e centros de distribuição.
+Limitações: Dotação de recursos à RBMLQ-I. Limitação de recursos como fiscais, carros e equipamentos de fiscalização.
+Notas Explicativas: A meta anual se deve à incerteza de dotação orçamentária e restrições operacionais da RBMLQ-I (quantidade de fiscais, carros, equipamentos etc)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1507
+Indicador: 10708
+Denominação: Número de atendimentos realizados a empresas de micro, pequeno e médio porte do setor industrial
+Sigla: BMPIND
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número acumulado de atendimentos ou acompanhamento especializados prestados a empresas de micro, pequeno e médio porte do setor industrial, em todas as modalidades elegíveis a este público-alvo, por instituições executoras do programa Brasil Mais Produtivo.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 31/03 do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TA = total de atendimentos
+Mij = número de atendimentos na modalidade "i" no ano "j"
+i = modalidades de atendimento
+j = ano de realização do atendimento
+n = quantidade de modalidades de atendimento
+Fonte De Dados Das Variáveis De Cálculo: Instituições parceiras estratégicas que atuem como executora de modalidades do programa
+Forma De Disponibilização: Portal do Brasil Mais Produtivo
+Procedimento De Cálculo: Realizar o somatório dos atendimentos de cada modalidade de atendimento para o respectivo ano de referência.
+Limitações: Aferição, processamento e consolidação dos resultados dependem de fornecimento dos dados pelas instituições executoras, bem como de ações de tratamento subsequentes.
+Notas Explicativas: O campo “Índice de Referência” deve ser marcado como “Em apuração” tendo em vista a separação do indicador anterior em dois novos indicadores, sendo um para comércio e serviços e outro para indústria.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1475
+Indicador: 10672
+Denominação: Número de atendimentos realizados a empresas de micro, pequeno e médio porte dos setores de comércios e serviços
+Sigla: BMPCS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número acumulado de atendimentos ou acompanhamento especializados prestados a empresas de micro, pequeno e médio porte de setores de comércios e serviços, em todas as modalidades elegíveis a este público-alvo, por instituições executoras do programa Brasil Mais Produtivo.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 31/03 do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TA = total de atendimentos
+𝑀𝑖𝑗 = número de atendimentos na modalidade “i” no ano “j”
+𝑖 = 𝑚𝑜𝑑𝑎𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑑𝑒 𝑎𝑡𝑒𝑛𝑑𝑖𝑚𝑒𝑛𝑡𝑜
+𝑗 = 𝑎𝑛𝑜 𝑑𝑒 𝑟𝑒𝑎𝑙𝑖𝑧��çã𝑜 𝑑𝑜 𝑎𝑡𝑒𝑛𝑑𝑖𝑚𝑒𝑛𝑡𝑜
+𝑛 = 𝑞𝑢𝑎𝑛𝑡𝑖𝑑𝑎𝑑𝑒 𝑑𝑒 𝑚𝑜𝑑𝑎𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑑𝑒 𝑎𝑡𝑒𝑛𝑑𝑖𝑚𝑒𝑛𝑡𝑜
+Fonte De Dados Das Variáveis De Cálculo: Instituições parceiras estratégicas que atuem como executora de modalidades do programa.
+Forma De Disponibilização: Portal do Brasil Mais Produtivo.
+Procedimento De Cálculo: Realizar o somatório dos atendimentos de cada modalidade de atendimento para o respectivo ano de referência.
+Limitações: Aferição, processamento e consolidação dos resultados dependem de fornecimento dos dados pelas instituições executoras, bem como de ações de tratamento subsequentes.
+Notas Explicativas: O campo “Índice de Referência” deve ser marcado como “Em apuração” tendo em vista a separação do indicador anterior em dois novos indicadores, sendo um para comércio e serviços e outro para indústria.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 3424
+Indicador: 12769
+Denominação: Número de cooperativas em atendimento a cada ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de cooperativas em atendimento, até 31/12 do ano de referência, por ao menos um dos componentes do programa, cujo atendimento completo, incluindo todos os seus componentes, ocorrerá em ciclos de 24 meses.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: nº de cooperativas
+Fonte De Dados Das Variáveis De Cálculo: SEBRAE Nacional
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: Contagem simples
+Limitações: não se aplica
+Notas Explicativas: As cooperativas serão atendidas por um ciclo de 24 meses, com início previsto para julho de 2025. Portanto, a mesma cooperativa, caso permaneça durante todo o ciclo, será reportada como "sendo atendida" por 03 anos consecutivos
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 862
+Indicador: 9827
+Denominação: Número de coordenações estaduais inscritas no Edital do Selo "Estado Indutor do Artesanato nos Municípios"
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A incrição das Coordenações Estaduais do Artesanato no edital do Selo "Estado Indutor do Artesanato nos Municípios" se dá mediante o atendimento de critérios como adesão da unidade da federação ao PAB, adesão ao Plano de Capacitação Integrada de Artesãos, instituição de fórum do artesanato estadual, número de artesãos cadastrados anualmente no SICAB, percentual de municípios da unidade da federação com artesãos inscritos no SICAB, entre outros requisitos.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+Ci rrepresenta cada coordenação individual inscrita no edital do selo "Estado Indutor do Artesanato nos Municípios" ao longo do ano
+O índice 'i' varia de 1 até 'n', que representa o número total de coordenações inscritas anualmente (as coordenações que são inscritas permanecem sendo consideradas para os anos seguintes, exceto se optarem por cancelar sua inscrição).
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Artesanato e Microempreendedor Individual da Secretaria da Micro e Pequena Empresa e do Empreendedorismo - DAMEI / SEMPE / MDIC
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Verificação da quantidade de inscrições no edital do Selo "Estado Indutor do Artesanato nos Municípios" deferidas.
+Limitações: Nao se aplica
+Notas Explicativas: O Selo será elaborado em 2024, razão pela qual não há meta estabelecida para esse ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Entrega: 2125
+Indicador: 11481
+Denominação: Número de decisões de exame técnico de pedidos de patentes
+Índice De Referência: 32400.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mensura a capacidade do INPI de processar a demanda por pedidos de concessão de  patentes, com foco nas decisões de mérito (técnicas) e não em decisões resultantes de processamento exclusivamente administrativo, como por exemplo o arquivamento por não pagamento de taxas.
+Período Ou Data A Que Se Refere: Mês anterior
+Data De Divulgação/Disponibilização: Primeira quinzena do mês seguinte ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: RM = resultado mensal
+D = número de deferimentos de pedidos de patentes sob o cód. 9.1
+I = número de indeferimentos de pedidos de patentes sob o cód. 9.2
+AT1 = número de arquivamentos técnicos sob o cód. 11.2
+AT2 = número de arquivamentos técnicos sob o cód.11.5
+
+RA = ∑ RM
+RA = resultado anual
+Fonte De Dados Das Variáveis De Cálculo: INPI/Revista da Propriedade Industrial (RPI)
+Forma De Disponibilização: Central de Monitoramento disponível no portal do INPI:  https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico
+Procedimento De Cálculo: 1) Acessar as bases de dados do INPI para identificar os despachos de decisão técnica publicados no período na RPI;
+2) Somar o número total de despachos publicados no período.
+
+Observação:
+RA = ∑ RM
+RA = resultado anual
+Notas Explicativas: O alcance das metas está condicionado à aprovação das propostas de revisão da Lei da Propriedade Industrial -  LPI (Lei nº 9.279/1996) apresentadas pelo INPI. Além disso, sem o ingresso de novos servidores, a capacidade de produção do INPI cairá em 2023 e anos seguintes em virtude da saída de examinadores de patentes e do aumento da complexidade do exame técnico de pedidos de patentes mais recentes, que restringe a possibilidade de aproveitamento do trabalho de buscas e exames realizado por outros escritórios de PI.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 2204
+Indicador: 11525
+Denominação: Número de empresas abertas no Inova Simples
+Índice De Referência: 1550.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Pretende-se evoluir o sistema de modo a permitir outros serviços para simplificar as empresas inovadoras, tais como: emissão de certificado de pessoa jurídica (e-CNPJ); integração com bancos públicos para a criação de conta bancária etc.​
+Por fim, com a conclusão das evolutivas de sistemas pendentes e em atuação com outras áreas do Governo Federal, pretende-se alavancar o Inova Simples como política pública de fomento ao empreendedorismo de inovação, viabilizando mecanismos de acesso a programas de aceleração de startups e iniciativas de acesso a crédito simplificado.
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: Março/agosto
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+Ei representa o número de Empresas Simples de Inovação abertas em cada mês
+O índice 'i' varia de 1 a 6, representando os meses do primeiro semestre
+Fonte De Dados Das Variáveis De Cálculo: Mapa de empresas - https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas
+Forma De Disponibilização: Mapa de empresas  -  https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas
+Procedimento De Cálculo: Somatório das empresas abertas no Inova Simples
+Notas Explicativas: Estimado como meta crescimento anual de novas inscrições de 10% ao ano. Ano-base: 2022
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 3425
+Indicador: 12770
+Denominação: Número de empresas atendidas ou em atendimento no período
+Em Apuração: Não
+Data De Apuração: 2025-04-24 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se do número de empresas que utilizaram serviços do CBA, ou estabeleceram parceria para o desenvolvimento de produtos.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: janeiro a dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Centro de Bionegócios da Amazônia (CBA)
+Forma De Disponibilização: Pagina eletrônica do CBA
+Procedimento De Cálculo: Contagem simples do número de serviços e empresas atendidas ou com parceria estabelecida no período.
+Limitações: não se aplica
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1458
+Indicador: 10615
+Denominação: Número de empresas de micro, pequeno e médio porte atendidas em consultoria para desenvolvimento de varejo on line
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: vagas disponibilizadas para atendimento/consultoria a empresas de micro, pequeno e médio porte  para  desenvolvimento no varejo on line
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: maio e janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número de vagas disponibilizadas para atendimento/consultoria a empresas de micro, pequeno e médio porte para desenvolvimento no varejo on line no período de referência
+P = número de vagas disponibilizadas para atendimento/consultoria a empresas de micro, pequeno e médio porte para desenvolvimento no varejo on line por edital lançado
+A = Ano de referência
+Fonte De Dados Das Variáveis De Cálculo: Edital do concurso/chamamento.
+Forma De Disponibilização: Divulgação do Edital  no site da ABDI.
+Procedimento De Cálculo: Contagem do número de vagas, somando as disponibilizadas a cada edital lançado no período, considerando todos os anos do PPA desde o período de referência.
+Limitações: efetividade da fase de escala  depende do orçamento a ser disponibilizado
+Notas Explicativas: A seleção e o fomento dos projetos das redes de inovação estão sendo realizados até agosto de 2025, apenas depois disso começarão os atendimentos às empresas. Isso acontecerá em dois momentos: na fase de piloto, entre agosto/25 e março/26, e na fase de escala, que será implementada entre maio e novembro/2026. Não há referências anteriores.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 541
+Entrega: 2211
+Indicador: 11547
+Denominação: Número de entidades envolvidas
+Índice De Referência: 35.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Realização de eventos para proporcionar a troca de informações e a disseminação de melhores práticas regulatórias
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 30/01 (anual)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número de instituições que participaram dos eventos realizados do início de vigência do PPA até o ano de referência
+P1, P2, Pn = número de instituições que participaram de cada evento realizado
+Fonte De Dados Das Variáveis De Cálculo: Listas de presenças presenciais e online geradas pelos aplicativos de videoconferência.
+Forma De Disponibilização: Relatório MDIC
+Procedimento De Cálculo: Contagem do número de registros completos de participantes em cada lista de presença dos eventos realizados em datas que se situem no intervalo de referência. Soma dos valores resultantes da contagem.
+Limitações: não  se aplica
+Notas Explicativas: não  se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Entrega: 2216
+Indicador: 11555
+Denominação: Número de estudos de prospecção tecnológica e de inteligência estratégica em Propriedade Intelectual disponibilizados
+Índice De Referência: 7.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Indicador destinado a contabilizar o número de estudos de prospecção tecnológica e inteligência estratégica produzidos a partir das bases de dados de propriedade industrial
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: ano de referência
+E𝐴: número total de estudos realizados no ano 𝐴
+PT𝐴: número de estudos de prospecção tecnológica realizados no ano 𝐴
+IE𝐴: número de estudos de inteligência estratégica em propriedade intelectual (PI) realizados no ano 𝐴
+Detalhamento:
+- Estudos de prospecção tecnológica: relatórios "Radar Tecnológico" elaborados pelo INPI de análise de tecnologias/setores elencados como prioritários pelo Governo Brasileiro e/ou instituições parceiras. Tem como escopo apresentar o desenvolvimento tecnológico no Brasil e no mundo através da análise dos documentos de patente do setor tecnológico.
+- Estudos de inteligência estratégica de PI: estudos de interesse da Estratégia Nacional de Propriedade Intelectual (ENPI) ou do Governo Federal elaborados em parceria pelo INPI e o MDIC, no âmbito de Grupo Técnico do Grupo Interministerial de Propriedade Intelectual (GIPI), e envolvendo outros atores do sistema nacional de inovação, a partir de bases de dados de PI ou outras bases de interesse para a PI.
+Fonte De Dados Das Variáveis De Cálculo: INPI
+Forma De Disponibilização: - Central de Monitoramento disponível no portal do INPI:  https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico
+- Página de informação tecnológica do portal do INPI: https://www.gov.br/inpi/pt-br/servicos/patentes/informacao-tecnologica
+Procedimento De Cálculo: Contagem do número de estudos realizados em um ano, seguindo os seguintes passos:
+i. definir o ano de referência;
+ii. realizar o levantamento dos estudos de prospecção tecnológica (PT);
+iii. realizar o levantamento dos estudos de inteligência estratégica de PI (IE);
+iv. somar os 2 quantitativos (PT + IE).
+Obs.: não inclui os estudos realizados em anos anteriores e publicado no ano de referência do indicador
+Notas Explicativas: O alcance da meta para 2024 considera a capacidade de produção estudos atual do INPI.
+O alcance das metas anuais para 2025 a 2027 está condicionado ao ingresso de novos servidores no INPI, para o cargo de Pesquisador em PI, conforme solicitação de concurso público enviada ao MDIC.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1379
+Indicador: 10492
+Denominação: Número de ex-tarifários vigentes
+Índice De Referência: 23000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Ex-tarifários são exceções tarifárias à Tarifa Externa Comum, concedidos quando identificada a ausência de produção nacional equivalente. A redução do número de ex-tarifários indica que a indústria nacional tem capacidade de produção.
+Período Ou Data A Que Se Refere: Mês anterior
+Data De Divulgação/Disponibilização: Primeiro dia após mês de referência.
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Nex (t) = número de ex-tarifários vigentes no momento t
+E(t) = conjunto de ex-tarifários vigentes no instante t
+∣E(t)∣ = contagem de quantos elementos (itens) existem no conjunto E(t)
+Fonte De Dados Das Variáveis De Cálculo: Lista de Ex-tarifários vigentes
+Forma De Disponibilização: Dados disponibilizados no site do MDIC
+Procedimento De Cálculo: Contagem do número de ex-tarifários vigentes ao final do período de tempo t.
+Limitações: Quantidade de servidores
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 828
+Indicador: 9793
+Denominação: Número de instituições que aderiram ao Plano de Capacitação Integrada para Artesãos
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Constituição da rede estruturada de agentes capacitadores dos artesãos por mei da adesão de instituições ao Plano de Capacitação Integrada para Artesãos.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa o somatório
+Ti representa cada termo individual de adesão celebrado ao longo do ano
+O índice 'i' varia de 1 até 'n', que representa o número total de termos de adesão celebrados anualmente
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Artesanato e Microempreendedor Individual da Secretaria da Micro e Pequena Empresa e do Empreendedorismo - DAMEI / SEMPE / MDIC
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração da quantidade de instrumentos de adesão (Termos de Adesão) celebrados anualmente.
+Limitações: Orçamento
+Notas Explicativas: O Plano de Capacitação Integrada para Artesãos será elaborado em 2024 para a constituição da rede, razão pela qual não há meta estabelecida para esse ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 541
+Entrega: 2210
+Indicador: 11546
+Denominação: Número de pessoas capacitadas
+Índice De Referência: 28.0
+Em Apuração: Não
+Data De Apuração: 2023-05-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Implementação de programa de capacitação de pessoas para utilização de instrumentos classificados como "boas práticas regulatórias", como AIR, ARR, Agenda Regulatória, dentre outros.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 30/01 (anual)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número absoluto de pessoas capacitadas
+X1, X2, Xn = número de pessoas capacitadas por período
+Fonte De Dados Das Variáveis De Cálculo: Listas de presenças presenciais e online geradas pelos aplicativos de videoconferência.
+Forma De Disponibilização: Relatório MDIC
+Procedimento De Cálculo: Contagem do número de participantes de eventos de capacitação que concluiram as capacitações em datas que se situem no intervalo de referência. Soma dos valores resultantes da contagem.
+Limitações: nao se aplica
+Notas Explicativas: nao se aplica
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1437
+Indicador: 10597
+Denominação: Número de portarias fixando/alterando o Processo Produtivo Básico (Lei de TICs e ZFM) publicadas no ano
+Índice De Referência: 48.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede o total portarias de PPB publicadas no período de referência
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Segunda semana do mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P_m = número de portarias publicadas no mês 'm', com m = 1 a 12 (de janeiro a dezembro).
+P_ano = número total de portarias de PPB publicadas no ano em referência.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Desenvolvimento da Indústria de Alta Complexidade Tecnológica da Secretaria de Desenvolvimento Industrial, Inovação, Comércio e Serviços - DIAL / SDIC
+Forma De Disponibilização: https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processo-produtivo-basico-ppb/dados-abertos-processo-produtivo-basico
+Procedimento De Cálculo: Contagem de Portarias  de Processo Produtivo Básico publicadas no Diário Oficial da União.
+Limitações: Número de servidores atuando na CGEL/DIAL afeta o volume de portarias publicadas no ano
+Notas Explicativas: Crescimento de 5% ao ano
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Entrega: 2214
+Indicador: 11553
+Denominação: Número de projetos inovadores beneficiados por programas de estímulo à geração e à comercialização de patentes
+Índice De Referência: 227.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: A decisão de depósito de patente é decisão do inventor, por isso trabalhamos para conscientizá-los, mas não podemos nos comprometer com a decisão de depositar um pedido de patente. Para atingir a meta do objetivo específico de aumentar o percentual de depósitos de patentes de residentes, é necessário sensibilizar os potenciais depositantes residentes no país envolvidos em projetos de inovação sobre os benefícios de proteger sua invenção como uma patente e as possibilidades de comercialização da invenção, por isso a relevância dessa entrega e seu indicador para o objetivo específico.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P1,2,n = Número de depositantes e potenciais depositantes de patentes beneficiados por programas selecionados
+R = total da soma de depositantes e potenciais depositantes beneficiados pelos programas
+Fonte De Dados Das Variáveis De Cálculo: INPI e MDIC
+Forma De Disponibilização: Sob demanda aos gestores dos programas. Envio por mensagem eletrônica.
+Procedimento De Cálculo: Solicitar aos gestores dos programas considerados o número de depositantes e potenciais depositantes de patentes atendidos no período e somar o resultado de cada um dos programas.
+Limitações: Os projetos podem ter mais de uma patente envolvida ou pode-se chegar à conclusão de que não seria o caso de depositar patente e sim outro ativo de PI, ou segredo industrial. No entanto, é o conceito que melhor traduz o escopo de atuação e dinâmica dos programas em geral. O Índice de Referência foi feito com base nos programas existentes em 2022, estes programas serão atualizados e outros poderão ser criados nos próximos anos.
+Notas Explicativas: O indicador se aplica tanto à geração e comercialização de patentes, por isso abrange projetos de depositantes e potenciais depositantes de patentes. O valor de referência (partida) considera o número de projetos beneficiados pelo Programa de Mentoria em Propriedade Intelectual (PMPI) no ano de 2022 e projetos do Inovativa (startups). Ao longo dos anos podem ser agregados e considerados no cálculo outros programas projetados para estimular o depósito e comercialização de patentes por residentes.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 541
+Entrega: 2209
+Indicador: 11545
+Denominação: Número de selos concedidos
+Índice De Referência: 34.0
+Em Apuração: Não
+Data De Apuração: 2023-05-12 00:00:00
+Unidade De Medida: unidade
+Descrição: Disseminação de melhores práticas
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 30/01 (anual)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = número absoluto de selos concedidos do início de vigência do PPA até o ano de referência
+X1, X2, Xn = número de selos concedidos a cada ano
+Fonte De Dados Das Variáveis De Cálculo: Publicações relativas à concessão dos selos
+Forma De Disponibilização: Relatório SCPR
+Procedimento De Cálculo: Contagem e soma do número de selos concedidos em período em que se situe no intervalo de referência.
+Limitações: O número de atos pode variar conforme produção normativa nao significando redução da relevância da iniciativa
+Notas Explicativas: O indicador em questão se refere aos selos de boas práticas concedidos, não ao número de atos submetidos. Os atos submetidos que não atinjam a pontuação suficiente para receber um selo não serão contabilizados para o atingimento da meta estipulada.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 844
+Indicador: 9807
+Denominação: Número dos canais de comercialização do artesanato fomentados pelo Programa do Artesanato Brasileiro (PAB)
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Aumento do número de eventos nos canais de comercialização do artesanato, que abrangem feiras regionais, feiras nacionai, feiras internacionais, e-commerce, entre outros.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+Ti representa cada canal de comercialização do artesanato fomentado ao longo do ano
+O índice 'i' varia de 1 até 'n' , que representa o número total de canais de comercialização do artesanato fomentados anualmente
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Artesanato e Microempreendedor Individual da Secretaria da Micro e Pequena Empresa e do Empreendedorismo - DAMEI / SEMPE / MDIC
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Formalização dos eventos/canais de comercialização para artesãos
+Limitações: Orçamento
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Entrega: 2215
+Indicador: 11554
+Denominação: Percentual de ampliação da quantidade de novas instituições alcançadas pelas unidades regionais do INPI em relação ao biênio anterior
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Indicador destinado a mensurar a expansão das ações de disseminação, articulação e mentoria promovidas pelas unidades regionais do INPI
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = instituições distintas alcançadas não presentes no rol de instituições alcançadas no biênio anterior ao do ano de apuração do indicador
+B = instituições distintas alcançadas no biênio anterior ao ano de apuração do indicador
+Fonte De Dados Das Variáveis De Cálculo: INPI. Sistema Inovadoc (www.inovadoc.inpi.gov.br), disponível na intranet do INPI
+Forma De Disponibilização: - Central de Monitoramento disponível no portal do INPI:  https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico
+- Sistema Inovadoc (www.inovadoc.inpi.gov.br), disponível na intranet do INPI
+Procedimento De Cálculo: 1. Levantar a quantidade de instituições distintas que participaram de ações de disseminação, articulação ou mentoria promovidas pelas unidades regionais do INPI ao longo do biênio anterior ao do ano de apuração do indicador (a);
+2. Levantar a quantidade de instituições distintas que participaram de ações de disseminação, articulação ou mentoria promovidas pelas unidades regionais do INPI ao longo do ano de apuração e que não constam do conjunto de instituições apurado no biênio anterior ao do ano de apuração do indicador (b);
+3. Dividir (b) por (a) e multiplicar o resultado da operação por 100
+Limitações: A limitação existente neste indicador tem a ver com o fato de que às vezes a instituição beneficiária da ação de disseminação, articulação ou mentoria não está cadastrada previamente no Inovadoc, levando o operador a empregar a rubrica "outras instituições", o que pode levar a uma subnotificação de instituições alcançadas. O procedimento para remediar isto é fazer constar o nome real da instituição em questão, no menor tempo possível.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 869
+Indicador: 9835
+Denominação: Percentual de artesãos beneficiados com crédito
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Oferta de crédito para artesãos como parte da política pública do segmento artesanal.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "∑" representa a soma
+Ai representa cada artesão individual beneficiado com crédito no ano
+Atotal representa o total de artesãos com carteiras
+O índice i varia de 1 até n, que representa o número total de artesãos beneficiados com crédito
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Artesanato e Microempreendedor Individual da Secretaria da Micro e Pequena Empresa e do Empreendedorismo - DAMEI / SEMPE / MDIC
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Verificação da quantidade de operações de crédito concretizadas a artesãos individuais pelo sistema financeiro.
+Limitações: Possibilidade de baixa adesão de instituições financeiras
+Notas Explicativas: O número absoluto de artesãos beneficiados com crédito  não inclui artesãos que já tenham tido acesso ao benefício em períodos anteriores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2200
+Indicador: 11521
+Denominação: Percentual de desenvolvimento do sistema
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Drawback é um regime aduaneiro especial que consiste na suspensão, isenção ou restituição de tributos incidentes nos insumos importados e/ou nacionais vinculados a um produto a ser exportado. No Drawback contínuo a empresa irá apresentar a proposta indicando, já dentro do próprio sistema, a relação de consumo entre os itens de insumo e o produto a ser exportado, por meio de uma matriz. Após o deferimento, e ao contrário das outras formas de Drawback, não haverá prazo definido para a operação, mas sim uma contagem de tempo por meio de saldos de aquisição de insumos. A entrega do sistema informatizado vai viabilizar este regime, enfatizando que o desenvolvimento do sistema será realizado por etapas, conforme metodologia Ágil adotada pelo Serpro..
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: D = número de funcionalidades desenvolvidas
+T = número de funcionalidades totais
+Onde: 
+i. funcionalidades desenvolvidas são as funcionalidades do sistema que já estão disponíveis para utilização por parte dos operadores de comércio exterior;
+ii. funcionalidades totais são todas as funcionalidades necessárias para a utilização plena do sistema.
+Fonte De Dados Das Variáveis De Cálculo: Sistema ALM (Apllication Life Cycle Management), do prestador de serviços de TI do Portal Único de Comércio Exterior.
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Divisão das funcionalidades do sistema que já estão disponíveis para utilização por parte dos operadores de comércio exterior até o período de referência pelo número de funcionalidades necessárias para a utilização plena do sistema. O cálculo é realizado levando-se em consideração os itens do sistema que ainda precisam ser desenvolvidos (constantes do sistema ALM do Serpro).
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 822
+Indicador: 9777
+Denominação: Percentual de implementação do projeto de melhorias no SICAB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Implementação de novos módulos/funcionalidade de melhoria do SICAB
+Relação entre a implementação realizada e prevista nos prazos pactuados
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: março e agosto
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Mt = percentual de implementação do projeto de melhorias no SICAB no período de tempo "t"
+PFe = número total de pontos de função já executados no período de tempo "t"
+PFp = número total de pontos de função previstos para o novo SICAB
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Artesanato e Microempreendedor Individual da Secretaria da Micro e Pequena Empresa e do Empreendedorismo - DAMEI / SEMPE / MDIC
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Termo de aceite dos módulos concluídos
+Limitações: Orçamento MDIC e cronograma de execução do SERPRO
+Notas Explicativas: P1/2024 -novo módulo de registro de artesãos 
+P2/2025 - novo módulo feiras 
+P3/2026 - novo módulo certificação
+P4/2027 - novo módulo estatística e transparência
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Entrega: 2133
+Indicador: 11483
+Denominação: Percentual de implementação do sistema BPMS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mensura a execução física do projeto "BMPS -  Automação do Fluxo de Patentes" do Plano Estratégico 2023-2026 do INPI, com foco na implementação da ferramenta BMPS a partir de 2023. Não considera etapas anteriores do projeto envolvendo a realização de estudos preliminares no âmbito de projeto de pesquisa com o IBICT
+Período Ou Data A Que Se Refere: Mês anterior
+Data De Divulgação/Disponibilização: Primeira quinzena do mês seguinte ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = percentual informado pelo Gerente realizado de cada tarefa
+H = total de horas de cada tarefa
+B = total das horas previstas do projeto até a data de status definida
+Fonte De Dados Das Variáveis De Cálculo: INPI
+Forma De Disponibilização: BI disponibilizado na intranet e no portal do INPI ("Central de Monitoramento", disponível no portal do INPI: <https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico>) e comunicação administrativa.
+Procedimento De Cálculo: Cálculo automático pelo software MS Project a partir do % Previsto e % Realizado das tarefas informando pelo gerente do projeto.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2194
+Indicador: 11515
+Denominação: Percentual de importações realizadas no Portal Único de Comércio Exterior
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: A última etapa da implementação completa do Portal Único de Comércio Exterior é a migração de todas as operações de importação. Apesar do desenvolvimento dos diversos sistemas que compõem o Portal já estarem em estágio bastante avançado, em geral a migração somente ocorre efetivamente na iminência do desligamento do sistema atual. Assim, o indicador desta entrega reflete o percentual do valor importado por meio do Novo Processo de Importação, o qual está sendo implementado no âmbito do Portal Único de Comércio Exterior, quando comparado ao valor total importado. O valor total importado abrange também as operações de importação realizadas por meio do processo atual (usando Licenças de Importação - LI - e Declarações de importação - DI), o qual será, assim que possível, gradativamente encerrado. Será contabilizado o valor total importado no período de 6 meses (jan-jun e jul-dez), cuja data de referência será a data do desembaraço da operação.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 30 dias após o último dia do semestre a ser mensurado.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (Valor FOB DUIMP): valor FOB total das importações declaradas via Declaração Única de Importação (DUIMP) desembaraçadas no período a ser calculado.
+(Valor FOB DI): valor FOB total das importações declaradas via Declaração de Importação (DI) desembaraçadas no período a ser calculado.
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados governamentais / Relatórios dos sistemas
+Forma De Disponibilização: comunicação administrativa
+Procedimento De Cálculo: Consulta às ferramentas de dados gerenciais dos módulos do Siscomex de modo a colher o valor FOB correspondente a todas as Duimp e todas as DI desembaraçadas no período que se deseja calcular. O procedimento envolve acesso a dados protegidos por sigilo, o que impede a reprodução do procedimento por parte de todos os interessados.
+Limitações: não se aplica
+Notas Explicativas: A execução do Programa Portal Único de Comércio Exterior é acompanhada por um indicador de CAPACIDADE de realizar importações por meio do Portal Único Siscomex, o qual tem previsão para alcançar o valor 100% ao final de 2024. Uma vez alcançado, inicia-se a fase de migração compulsória das importações junto aos operadores privados, fase crucial para o atingimento deste indicador ("migração de 100% das importações"), que representa o uso efetivo do novo processo.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Entrega: 873
+Indicador: 9840
+Denominação: Percentual de incremento no total de Carteiras Nacionais do Artesão para indígenas e quilombolas
+Índice De Referência: 7692.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação do número de indígenas e quilombolas com Carteira Nacional do Artesão
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: R - Porcentagem de incremento no número de Carteiras Nacionais do Artesão de indígenas e quilombolas.
+x - Número absoluto de Carteiras Nacionais do Artesão de indígenas e quilombolas no ano analisado.
+y - Número absoluto de Carteiras Nacionais do Artesão de indígenas e quilombolas na data base (31/05/2023).
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Artesanato e Microempreendedor Individual da Secretaria da Micro e Pequena Empresa e do Empreendedorismo - DAMEI / SEMPE / MDIC
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração da quantidade de carteiras emitidas para esses grupos (indígenas e quilombolas).
+Limitações: Dificuldade de acesso físico ao público
+Falta de informaçoes sobre o recorte do público que desenvolvem a atividade de artesanato
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2201
+Indicador: 11522
+Denominação: Percentual de medidas adotadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Com a implementação das medidas, espera-se melhorar o ambiente de negócios para a atração de investimentos estrangeiros no Brasil
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro de cada ano ou quando houver necessidade
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de ações concluídas do início da vigência até o ano de referência
+B = número de ações propostas para o período de vigência do PPA
+Fonte De Dados Das Variáveis De Cálculo: Subsecretaria de Investimentos Estrangeiros da Secretaria-Exevutiva da Câmara de Comércio Exterior - SINVE/SE-CAMEX
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Divisão do somatório do número de ações concluídas pelo somatório do número de ações propostas.
+Limitações: Todas as ações terão o mesmo peso na fórmula de cálculo, independente de sua importância relativa para o objetivo final do Plano
+Notas Explicativas: Espera-se entregar a iniciativa 2 em 2024, enquanto a 3 e a 5 em 2025. Já as iniciativas 1 e 4 são mais complexas e dependem de interesses de outros países, o que pode comprometer o tempo de entrega. Sendo assim, foram projetadas com prazo para 2027. Em relação à iniciativa 6, espera-se entregá-la ao fim do 3º trimestre de 2026.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2202
+Indicador: 11523
+Denominação: Percentual de medidas implementadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Com a implementação das medidas espera-se avançar na consecução de novas políticas públicas e práticas que tragam melhoria para a conduta empresarial responsável no Brasil
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro de cada ano ou quando houver necessidade
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de ações concluídas do início da vigência até o ano de referência
+B = número de ações propostas para o período de vigência do PPA
+Fonte De Dados Das Variáveis De Cálculo: Subsecretaria de Investimentos Estrangeiros da Secretaria-Exevutiva da Câmara de Comércio Exterior - SINVE/SE-CAMEX
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Divisão do somatório do número de ações concluídas pelo somatório do número de ações propostas.
+Limitações: Todas as ações terão o mesmo peso na fórmula de cálculo, independente de sua importância relativa para o objetivo final do Plano.
+Notas Explicativas: Espera-se entregar as iniciativa 1 e 5 em 2024, enquanto a 4 em 2025. Já as iniciativas 2 e 3 são mais complexas, o que pode compremeter o tempo de entrega. Sendo assim, foram projetadas com prazo para 2027.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Entrega: 2197
+Indicador: 11519
+Denominação: Percentual de novos projetos industriais ou de novas Zonas de Processamento de Exportação (ZPEs) apreciados no âmbito do Conselho Nacional da ZPE em relação às demandas recebidas nos últimos 12 meses
+Índice De Referência: 16.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: percentual
+Descrição: Com a aprovação do Novo Marco Legal das ZPE houve o aumento de pedidos tanto de criação de ZPEs como de autorizações para instalação em ZPEs já existentes de projetos industriais. Tanto a Secretaria-Executiva do CZPE quanto o próprio CZPE devem dar vazão à análise e tomada de decisão em cada caso, exceto por aqueles casos que são arquivados pro falta de informações dos peticionários.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de casos decididos pelo CZPE em 12 meses
+B = número de casos arquivados pela inação das partes em 12 meses
+C = número de casos protocolizados na SE-CZPE em 12 meses
+Fonte De Dados Das Variáveis De Cálculo: SE-CZPE
+Forma De Disponibilização: comunicação administrativa
+Procedimento De Cálculo: Contagem simples de pleitos recebidos nos 12 meses, contagem simples dos pleitos decididos no período (deferimento ou indeferimento) e contagem simples dos pleitos arquivados no período, com subsequente aplicação da fórmula indicada.
+Limitações: Indicador depende a) da demanda b) da agenda dos Conselheiros da CZPE c) pode não chegar nunca a 100% por se tratar da análise de desfechos de casos apresentados no mesmo ano, e a demanda pode se concentrar no final do próprio ano.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Entrega: 3426
+Indicador: 12771
+Denominação: Quantidade acumulada de setores da indústria da transformação (CNAE C) com taxonomias desenvolvidas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2025-04-25 00:00:00
+Unidade De Medida: unidade
+Descrição: Definidos os setores prioritários na indústria de transformação - considerando, entre outros, sua relevância em emissões de GEEs, energointensividade, valor agregado gerado, empregos - se desenvolverá taxonomia própria.  O cálculo é feito pela soma simples das quantidades de setores produtivos contemplados com taxonomias concluídas.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = quantidade  acumulada de setores da indústria da transformação (CNAE C) com taxonomias desenvolvidas;
+X1,2,n = setor específico da indústria de transformação contemplado com taxonomia concluída
+Fonte De Dados Das Variáveis De Cálculo: Informações disponíveis na página oficial da Taxonomia Sustentável Brasileira (https://www.gov.br/fazenda/pt-br/orgaos/spe/taxonomia-sustentavel-brasileira).
+Forma De Disponibilização: Página eletrônica da Taxonomia Sustentável Brasileira
+Procedimento De Cálculo: Contagem da quantidade acumulada de setores da indústria da transformação (CNAE C) com taxonomias desenvolvidas
+Limitações: Os setores produtivos prioritários podem sofrer acréscimos. Os dados e informações necessários para levar a cabo a construção de cada taxonomia são dispersos, presentes em bases privadas ou mesmo inexistentes, requerendo prazo significativo de maturação para definição de critérios setoriais.
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Entrega: 2128
+Indicador: 11482
+Denominação: Tempo de Decisão de Exame Técnico de Pedidos de Registro de Marca – Pedidos sem Oposição
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: mês
+Descrição: O indicador mensura a agilidade da resposta do INPI à demanda por pedidos de registro de marcas, com foco nas decisões de mérito (técnicas) e não em decisões resultantes de processamento exclusivamente administrativo, como por exemplo o arquivamento por não pagamento de taxas.
+Período Ou Data A Que Se Refere: Mês anterior
+Data De Divulgação/Disponibilização: Primeira quinzena do mês seguinte ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: M: mês de referência (por exemplo, abril de 2025)
+RM𝑀 : Resultado Mensal no mês 𝑀; representa a moda das frequências de tempo decorrido entre o depósito e a decisão publicada na RPI
+P𝑀: conjunto de pedidos com publicação de despacho de exame técnico na RPI do mês 𝑀, com os seguintes códigos de decisão:
+IPAS029 e IPAS768 → deferimento
+IPAS781 → deferimento parcial
+IPAS024 e IPAS774 → indeferimento
+Inclui, conforme o caso, pedidos com ou sem oposição
+D𝑖: data de protocolo do depósito do pedido 𝑖
+P𝑖: data de publicação do despacho de exame técnico na RPI referente ao pedido 𝑖
+T𝑖 = P𝑖 −D𝑖: tempo decorrido, em dias (ou meses), entre o depósito e a publicação da decisão para o pedido 𝑖
+Moda: operador estatístico que retorna o(s) valor(es) mais frequente(s) da distribuição {T𝑖}
+Fonte De Dados Das Variáveis De Cálculo: INPI/Revista da Propriedade Industrial (RPI) e sistema IPAS
+- Despacho de decisão de exame técnico: deferimento [códigos IPAS029 e IPAS768]; deferimento parcial [código IPAS781]; e indeferimento [códigos IPAS024 e IPAS774]
+Forma De Disponibilização: BI disponibilizado na intranet e no portal do INPI ("Central de Monitoramento", disponível no portal do INPI: <https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico>) e comunicação administrativa.
+Procedimento De Cálculo: A definição do indicador tempo de decisão de exame técnico de pedido de marcas, que constitui-se da moda dos tempos de decisão de exame técnico em pedido de marcas depositados diretamente no INPI ou em designações recebidas, via Protocolo de Madri, observados os tempos apurados para a emissão de decisões de exame técnico, considerando essas duas vias de entrada. Os tempos são contabilizados em relação a todos os despachos relativos a deferimento, indeferimento e deferimento parcial, desde o mês de janeiro até o mês em análise, no ano de referência . A decisão de exame técnico, no caso de pedido de marca depositado por via direta, abrange os despachos de deferimento ou indeferimento, enquanto as decisões de exame técnico em designações recebidas via Protocolo de Madri referem-se a deferimento de designação, indeferimento de designação e deferimento parcial de designação (quando há classes deferidas e classes indeferidas). A moda das frequências de tempo decorrido entre a data de depósito do pedido de marca (quando a decisão for de 1º exame) ou do tempo decorrido entre a data da publicação de decisão anterior e publicação da decisão de exame técnico (conforme já exposto) representa o tempo de decisão de exame técnico de pedido de marca no período em análise.
+A partir dessa definição, segue a definição do "procedimento de cálculo" do indicador tempo de decisão de exame técnico de pedido de marcas (e designações via protocolo de Madri):
+
+etapa 1: obtenção de dados atualizados sobre os despachos relativos a decisões de exame técnico em pedidos nacionais (deferimento do pedido; indeferimento do pedido) e em designações recebidas via Protocolo de Madri (deferimento de designação, indeferimento de designação, deferimento parcial de designação (classes deferidas e classes indeferidas), a serem incorporados, mensalmente, à base de dados do INPI;
+etapa 2: identificação da data do depósito, caso a decisão de deferimento ou indeferimento seja a primeira do pedido ou designação, ou a data de emissão do despacho anterior ao despacho de exame técnico, conforme descrito na Etapa 1;
+etapa 3: calcular o tempo (em dias) decorrido entre o despacho de decisão de exame técnico e a data de depósito (se for decisão em 1º exame) ou do tempo (em dias) decorrido entre a data de emissão da decisão anterior ao atual despacho de exame técnico;
+
+etapa 4: a partir dos tempos obtidos em dias, na etapa 3, identificar o valor ocorrido mais vezes;
+
+etapa 5: converter a o tempo em dias, obtido na etapa 4, para tempo em meses, dividindo-se o valor inicial obtido em dias por 30 (quantidade padrão de dias do mês civil).
+
+Cabe mencionar que a obtenção desse indicador, cumpridas as etapas acima, não requer cálculos complexos, apenas o ordenamento das frequências de tempo de decisão para todos os pedido e designações que receberam despachos aqui descritos, de modo a identificar a que ocorreu mais vezes.
+Notas Explicativas: Não aplicável.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1391
+Indicador: 10529
+Denominação: Variação da eficiência energética média dos veículos leves comercializados no país
+Índice De Referência: 1.62
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: %
+Descrição: Uma das diretrizes do Programa Rota 2030 é o incremento da eficiência energética dos veículos comerciliazados no país. O resultado dessa meta deverá permanecer ao longo do tempo, na medida em que os novos veículos tendem a incorporar cada vez mais tecnologias com foco na eficiência energética. O incremento da eficiência energética veicular impacta diretamente na autonomia dos veículos, refletindo em redução de consumo de combustível e emissões de gases do efeito estufa.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = consumo energético dos veículos comercializados (consumo de energia em mega Joule (MJ) por quilômetro percorrido (MJ/km), calculado pela relação entre a densidade energética do combustível (em MJ/l) e a autonomia do veículo (em km/l))
+N = novos emplacamentos dos veículos comercializados (quantitativo de vendas de veículos novos no período considerado)
+T = número total de novos emplacamentos
+Q = Variação da eficiência energética média dos veículos leves comercializados no país
+Fonte De Dados Das Variáveis De Cálculo: Consumo Energético: Ibama
+Emplacamentos: Senatran
+Forma De Disponibilização: Dados de consumo energético estão disponíveis no sistema Infoserv, administrado pelo Ibama. Os dados são restritos.
+Dados de emplacamento estão disponíveis no sistema RENAVAM, administrado pela Senatran. A Senatran comercializa os dados por meio do Serpro. É necessário contrato com o Serpro (mediante aprovação da Senatran) para obtenção dos dados.
+Procedimento De Cálculo: Os dados utilizados para o cálculo são obtidos de fontes com acesso restrito.
+De posse dos dados, é possível relacionar os dados de consumo energético (em MJ/km) com os emplacamentos.
+Após realizar o cálculo para obteção do valor de consumo energético da frota de veículos novos, esse valor é comparado com o índice de referência para determinação do percentual de incremento da eficiência energética veicular.
+Notas Explicativas: A definição de metas de eficiência energética é estabelecida em ciclos de cinco anos, de forma a permitir que as empresas possam fazer os desenvolvimentos necessários para adequação dos veículos à nova meta. Ou seja, o incremento da eficiência energética não ocorre de forma gradual, mas em saltos a partir da definição da nova meta e seu horizonte de atingimento.
+A próxima meta de eficiência energética será para o ano de 2027. Nesse sentido, para os anos de 2024 a 2026 não é esperado que haja uma incremento neste indicador.
+A meta definida para o indicador é exclusiva para veículos leves de passageiros e veículos leves comerciais com MOM (Massa em Ordem de Marcha) inferior a 1564Kg, de forma a mater a estabilidade do indicador em relação aos ciclos anteriores.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1383
+Indicador: 10499
+Denominação: Variação do investimento anual em PD&I das empresas habilitadas no PADIS
+Sigla: DI
+Índice De Referência: -35.2
+Em Apuração: Não
+Data De Apuração: 2024-07-31 00:00:00
+Unidade De Medida: percentual
+Descrição: A pessoa jurídica habilitada no Padis investirá anualmente no País em atividades de pesquisa, desenvolvimento e inovação, no mínimo, o valor de cinco por cento da base de cálculo formada pelo seu faturamento bruto. O índice de referência é relativo ao ano de 2023, quando comparado com o ano de 2022. Neste caso houve uma redução de 35,20% nos investimentos em PD&I.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Segundo semestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: It = investimento no ano t
+It-1 = investimento no ano t-1
+Fonte De Dados Das Variáveis De Cálculo: Dados fornecidos pelo MCTI, órgão responsável por receber as informações das empresas habilitadas.
+Forma De Disponibilização: Os dados são disponibilizados no sítio do MCTI:
+
+https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/padis
+Procedimento De Cálculo: Comparação percentual dos investimentos realizados em relação ao ano anterior
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Entrega: 1383
+Indicador: 12796
+Denominação: Variação do investimento anual em PD&I das empresas habilitadas no PADIS
+Sigla: DI
+Índice De Referência: -35.2
+Em Apuração: Não
+Data De Apuração: 2024-07-31 00:00:00
+Unidade De Medida: percentual
+Descrição: A pessoa jurídica habilitada no Padis investirá anualmente no País em atividades de pesquisa, desenvolvimento e inovação, no mínimo, o valor de cinco por cento da base de cálculo formada pelo seu faturamento bruto. O índice de referência é relativo ao ano de 2023, quando comparado com o ano de 2022. Neste caso houve uma redução de 35,20% nos investimentos em PD&I.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Segundo semestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: It = investimento no ano t
+It-1 = investimento no ano t-1
+Fonte De Dados Das Variáveis De Cálculo: Dados fornecidos pelo MCTI, órgão responsável por receber as informações das empresas habilitadas.
+Forma De Disponibilização: Os dados são disponibilizados no sítio do MCTI:
+
+https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/padis
+Procedimento De Cálculo: Comparação percentual dos investimentos realizados em relação ao ano anterior
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 2801
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Indicador: 9768
+Denominação: Aumento no faturamento de MPEs e MEIs com base nas informações prestada para fins de arrecadação
+Índice De Referência: 2064.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: R$ bilhão
+Descrição: O indicador é a melhor forma de analisar diversos fatores e políticas públicas que venham a impactar os MEIs e MPEs, traduzindo aumento de riqueza  para esse público. Uma vez que política exitosa de crédito; redução da mortalidade; melhoria de ambiente de negócio; compra pública e rede de apoio impactam diretamente no aumento de faturamento dos MEIs e MPEs.
+Data De Divulgação/Disponibilização: Proxy: fim do terceiro trimestre, referente ao semestre anterior e apuração oficial fim de setembro do exercício seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DASN-MEI e PGDAS
+Fonte De Dados Das Variáveis De Cálculo: RFB - CGSN
+Forma De Disponibilização: Estudos da RFB (https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos)
+Procedimento De Cálculo: Para as metas: Proxy do faturamento 2021, apurado de forma  estatística considerando os 5 anos anteriores e considerando crescimento de 6% e inflação média de 5,5%
+
+Para acompanhamento e 2027: Proxy estatística a partir da arrecadação, até que o dado oficial seja divulgado ou encaminhado .
+Limitações: Para acompanhamento mais tempestivo deverá  ter apuração com base em histórico estatístico
+Notas Explicativas: As metas apuradas levaram uma média de crescimento de 6% e um crescimento inflacionário também de 5,5%. Os resultados do indicador podem ser afetados por outros fatores externos, além do efeito das políticas do MDIC”
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Indicador: 11516
+Denominação: Corrente de comércio a preços constantes (USS Bilhões a preços de 1998)
+Índice De Referência: 317.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: US$ bilhão
+Descrição: O indicador em questão visa eliminar as variações decorrentes de aspectos conjunturais na determinação da inserção comercial do país no comércio internacional, sendo o indicador mais adequado para medir o aumento da inserção de que trata este objetivo específico, destacando que a inserção deve ser medida pela corrente de comércio (exportações + importações). O indicador será calculado como sendo a soma entre o valor total das exportações e o valor total das importações, deflacionados a preços de 1998 (ano de início da série) pelos índices de preço calculados pela SECEX/MDIC.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: T: período de referência (ex: 2024, 2025...)
+CC𝑇const: corrente de comércio a preços constantes no período 𝑇
+X𝑇const: valor das exportações a preços constantes no período 𝑇
+M𝑇const: valor das importações a preços constantes no período 𝑇
+Fonte De Dados Das Variáveis De Cálculo: http://comexstat.mdic.gov.br/pt/home e https://balanca.economia.gov.br/balanca/IPQ/index.html
+Forma De Disponibilização: Acesso direto dos links indicados
+Procedimento De Cálculo: O valor do deflator resultante de fórmula específica e dos dados é multiplicado pelos respectivos valores exportados e importados.
+A soma dois fluxos é o resultado da corrente de comércio deflacionada.
+Limitações: Muitos fatores conjunturais influenciam o desempenho do comércio exterior, como taxa de câmbio, crises internacionais, eventos climáticos etc. Os resultados poderão se desviar sensivelmente das metas em razão desses fatores.
+Notas Explicativas: O preço das mercadorias é um fator de instabilidade nos valores transacionados. Em especial, as exportações brasileiras por serem compostas em grande medida por commodities, estão sujeitas a grandes flutuações de preços. A meta proposta procura eliminar o fator meramente monetário do valor para medir o crescimento real do comércio.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 541
+Indicador: 11544
+Denominação: Índice de capacidade institucional e regulatória - I-CIR/CGU
+Índice De Referência: 16.7
+Em Apuração: Não
+Data De Apuração: 2022-06-07 00:00:00
+Unidade De Medida: percentual
+Descrição: A CGU elaborou um  diagnóstico das Capacidades (I-CIR) no qual 42 instituições foram avaliadas. Como resultado, as instituições foram classificadas em 5 diferentes níveis de maturidade regulatória, conforme detalhado a seguir: 16 agências foram classificadas como inicial, 13 como básico, 6 como intermediário, 7 como aprimorado e nenhuma instituição foi classificada como avançada. Para fins deste trabalho, propõe-se o indicador com foco na classificação "aprimorado".
+Período Ou Data A Que Se Refere: Ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Q𝑖 representa a pontuação atribuída ao quesito 𝑖, que pode ser:
+1,0: Atendido
+0,5: Parcialmente atendido
+0,0: Não atendido
+n é o número total de quesitos aplicáveis à agência avaliada.
+Fonte De Dados Das Variáveis De Cálculo: CGU
+Forma De Disponibilização: Trabalho interno da CGU
+Procedimento De Cálculo: Diagnóstico realizado por consultores
+Limitações: Engajamento das instituições para serem avaliadas
+Notas Explicativas: O projeto teve início em 2017, quando foi criado o Indice de Capacidade Institucional para Regulação (I-CIR), uma metodologia de diagnóstico para agências reguladoras. Em 2019, essa metodologia passou por testes e foi aplicada em quatro agências, em formato piloto.  No ano seguinte, 19 agências participaram da iniciativa. Em 2021, foi dado novo passo: o projeto se transformou em programa, o QualiREG. Em 2021, o diagnóstico foi levado a outras 19 agências reguladoras, finalizando assim o primeiro ciclo do QualiREG com a  aplicação do I-CIR em 42 agências reguladoras, alcançando a maioria dos estados e capitais brasileiras. Como resultado, temos o primeiro panorama nacional do ambiente regulatório brasileiro.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Indicador: 10010
+Denominação: Índice de economia verde da indústria
+Sigla: IEVI
+Índice De Referência: 45.94
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: R$ milhões
+Descrição: Contabilização do PIB da indústria de transformação, dividindo-o pelo percentual de energia gerada a partir de de fontes não renováveis na matriz energética brasileira
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: junho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: I_EVI = índice de economia verde da indústria
+PIB-IT = PIB da indústria de transformação em milhões de reais
+E_NR% = percentual de energia gerado a partir de fontes não renováveis na matriz energética brasileira
+Fonte De Dados Das Variáveis De Cálculo: IBGE
+Empresa de Pesquisa Energética - MME
+Forma De Disponibilização: Site do  Governo Federal
+Procedimento De Cálculo: Utilizar o PIB da  industrial de transformação, dividindo-o pelo percentual de energia gerada a partir de fontes não renováveis na matriz energética brasileira.
+Limitações: O Balanço Energético Nacional (BEN), elaborado pela Empresa de Pesquisa Energética, vinculada ao MME, fonte dos dados para obtermos o percentual de não renovabilidade da matriz energética brasileira,  costuma ser divulgado entre os meses de maio e junho de cada ano, o que poderá levar a utilização de dados já superados se tivermos que fazer a atualização de nossas metas no primeiro semestre do ano.
+Notas Explicativas: Trata-se de um indicador  que une o crescimento da indústria de tansformação nacional com relação à  "limpeza" de nossa matriz energética, lembrando a energia fotovoltaica, a eólica, os combustíveis de baixa emissão de carbono e, em breve, o chamado hidrogênio verde, todos objeto de nossas atribuições como Secretaria de Economia Verde, Descarbonização e Bioindústria , contribuem para uma matriz energética mais limpa, sendo o Brasil um líder mundial nesse quesito, tendendo a melhor ainda mais seus números, a partir de novas políticas que contribuem para esse fim.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 471
+Indicador: 10776
+Denominação: Índice Nacional de Infraestrutura da Qualidade
+Sigla: INIQ
+Índice De Referência: 0.6394
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Trata-se de uma adaptação do Global Quality Infrastructure Index (GQII) , índice internacional sobre infraestrutura da qualidade nos países.
+Data De Divulgação/Disponibilização: fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A) Filiação em organizações internacionais e regionais de metrologia  
+(B) Membro dos Comitês Consultivos do CIPM  
+(C) Cobertura das áreas de Capacidades de Calibração e Medição (CMC)  
+(D) Número de Comparações Chave e Suplementares  
+(E) Número de laboratórios de calibração acreditados no país
+(F) Filiação em organizações internacionais de padronização (ISO, IEC).  
+(G) Participação em Comitês Técnicos da ISO e da IEC
+(H) Número de empresas certificadas em normas de gestão  
+(I) Associação ou signatários de organizações internacionais ou regionais de acreditação  
+(J) Cobertura de esquemas de acreditação reconhecidos internacionalmente  
+(K) Número de organismos de avaliação de conformidade credenciados para certificação de produtos (ISO 17065)  
+(L) Número de organismos de avaliação de conformidade acreditados para sistemas de gestão (ISO 17021)  
+(M) Número de organismos de avaliação de conformidade acreditados para laboratórios de ensaio (ISO 17025)
+Fonte De Dados Das Variáveis De Cálculo: Global Quality Infrastructure Index (GQII) Program, Inmetro, ABNT e ISO
+Forma De Disponibilização: Inmetro e ABNT - envio direto
+Global Quality Infrastructure Index (GQII) Program e ISO - disponível no site
+Procedimento De Cálculo: Os valores base utilizados são os da última publicação do GQII (2022), cujos dados são de 2021. Para identificar o valor de referência foram comparados os valores do Brasil com o do país líder em cada variável e encontrado o percentual por variável. Cada componente (Metrologia, Normalização e Acreditação) é calculado separadamente e depois calculada a média simples dos três subíndices gerados. O cálculo das metas de cada ano do PPA  manterá a comparação com os valores máximos do ano de 2021.
+Limitações: A fórmula não alcança todos os componentes da infraestrutura da qualidade, contudo os componentes abrangidos são suficientemente representativos. Para possibilitar o cálculo entre unidades distintas é utilizado o valor percentual em relação ao valor máximo de cada variável.
+Notas Explicativas: O valor da meta ao final do período foi estabelecido de forma a atingir a posição 10a em cada variável conforme valor-base de 2021
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Indicador: 11480
+Denominação: Tempo de Decisão de Exame Técnico de Pedidos de Patentes
+Índice De Referência: 6.9
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: ano
+Descrição: O indicador mensura a agilidade da resposta do INPI à demanda por pedidos de concessão de patentes, com foco nas decisões de mérito (técnicas) e não em decisões resultantes de processamento exclusivamente administrativo, como, por exemplo, o arquivamento por não pagamento de taxas.
+Período Ou Data A Que Se Refere: Mês anterior
+Data De Divulgação/Disponibilização: Primeira quinzena do mês seguinte ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: M: mês de referência
+MMT𝑀 : Média Móvel Trimestral do tempo decorrido entre o depósito e a publicação da decisão no mês 𝑀
+P𝑀 : conjunto de pedidos de patente com decisão publicada na RPI nos meses 𝑀, 𝑀−1 e 𝑀−com os seguintes códigos de decisão:
+9.1 – Deferimento
+9.2 – Indeferimento
+11.2 – Arquivamento técnico
+N𝑀 = ∣P𝑀∣: número total de pedidos 𝑖 incluídos na média no trimestre de referência
+D𝑖 : data de depósito do pedido 
+P𝑖 : data de publicação da decisão na RPI do pedido 
+P𝑖−D𝑖 : tempo decorrido (em dias ou meses, conforme a base de dados) entre o depósito e a decisão do pedido 𝑖
+Fonte De Dados Das Variáveis De Cálculo: INPI/Revista da Propriedade Industrial (RPI) - publicação do INPI
+Forma De Disponibilização: Central de Monitoramento disponível no portal do INPI:  https://www.gov.br/inpi/pt-br/governanca/planejamento-estrategico.
+Procedimento De Cálculo: 1) Acessar as bases de dados do INPI para identificar os pedidos que tiveram despachos de decisão técnica publicados no período (despachos 9.1, 9.2 ou 11.2);
+2) Para cada pedido que teve algum destes despachos publicados, identificar sua data de depósito e a data de publicação (data da RPI) do despacho decisório;
+3) Calcular a diferença de tempo decorrido entre a data do depósito destes pedidos e a data de publicação do despacho decisório;
+4) Calcular a média dos tempos decorridos obtidos no passo 3 para os pedidos identificados no passo 1.
+Observação: o resultado anual será a média simples do tempo decorrido entre o depósito e a decisão de todos os pedidos decididos ao longo do ano, com os códigos (9.1, 9.2, 11.2).
+Notas Explicativas: O alcance das metas está condicionado à diferentes fatores administrativos, institucionais e normativos. i) Disponibilidade de recursos para investimentos em infraestrutura para automatização de processos e aplicação de inteligência artificial na busca de patentes; ii)  Ampliação dos recursos humanos dedicados ao exame de patentes, por meio de concursos e contratações. Sem o ingresso de novos servidores, a capacidade de produção do INPI cairá em 2023 e anos seguintes em virtude da saída de examinadores de patentes e do aumento da complexidade do exame técnico de pedidos de patentes mais recentes, que restringe a possibilidade de aproveitamento do trabalho de buscas e exames realizado por outros escritórios de PI. A evolução real (taxa de crescimento ou queda) da demanda é um fator externo (não controlado pelo INPI) determinante para os resultados de tempo de decisão técnica dos pedidos de patentes; e iii)  Aprovação das propostas de revisão da Lei da Propriedade Industrial -  LPI (Lei nº 9.279/1996), para reduzir os prazos processuais aplicáveis ao exame de patentes.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Indicador: 10449
+Denominação: ​Valor agregado da indústria (ind. de transformação) /PIB
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Valor da transformação industrial: Variável obtida pela diferença entre o valor bruto da produção industrial e os custos das operações industriais. É um indicador tradicionalmente utilizado pra medir o desempenho industrial, com série histórica longa, confiável e com periodicidade bem definida.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Segundo semestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PIITt = Participação da Indústria de Transformação no PIB no período 𝑡 (em %)
+VA IndTransf,t = Valor Adicionado da Indústria de Transformação no período t
+PIBt = Produto Interno Bruto total no período t
+Fonte De Dados Das Variáveis De Cálculo: Contas nacionais
+Forma De Disponibilização: Publicação institucional
+Procedimento De Cálculo: De acordo com fórmula aplicada pelo Banco Mundial
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2801
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 371
+Enunciado: Promover a simplificação e a desburocratização do ambiente de negócios; e o acesso a redes de apoio, a crédito e garantias, com enfoque em MPEs, microempreendedores e artesãos.
+Descrição: Visa garantir a elaboração, promoção e implementação de estudos, iniciativas e ações que possibilitem e efetivem a simplificação e desburocratização do ambiente de negócios; e o acesso a redes de apoio, a crédito e garantias, especialmente para as MPEs, microempreendedores e artesãos, sem prejuízo para promoção das medidas aos empreendedores em geral, beneficiando a formalização e pleno funcionamento dos negócios, a atração de investimento e o aumento de emprego e renda.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 390
+Enunciado: Promover o desenvolvimento da economia verde ampliando a sua participação na indústria brasileira
+Descrição: Incrementar a inclusão de políticas, ações e iniciativas visando o adensamento produtivo, a descarbonização do setor industrial e o aumento da sua competitividade.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos legais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 427
+Enunciado: Ampliar a produção nacional da indústria e de serviços, em bases sustentáveis, com maior valor agregado, intensidade tecnológica e inovação.
+Descrição: A nova política industrial deverá ter como foco não apenas o aumento da produção industrial, mas de serviços, especialmente aqueles mais sofisticados. Além disso, estará alinhada aos objetivos de sustentabilidade, descarbonização, transição energética e bioeconomia, sempre buscando o desenvolvimento produtivo e tecnológico e a inovação.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 471
+Enunciado: Promover o uso da infraestrutura da qualidade como ferramenta estratégica transversal para o aumento da produtividade, competitividade e desenvolvimento econômico​ sustentável
+Descrição: A Infraestrutura da Qualidade (IQ) é o sistema que abrange instituições (públicas e privadas), o arcabouço legal e regulatório e as práticas necessárias para dar apoio e incrementar a qualidade e segurança de bens, serviços e processos, assim como proteger o ser humano, o cidadão e o meio ambiente.
+Trata-se de ferramenta estratégica transversal de apoio a outras políticas públicas (industrial, de inovação, de comércio exterior, de economia verde, de micro e pequenas empresas, dentre outras), devendo coadunar-se com os objetivos das políticas mencionadas, alinhar-se com os objetivos legítimos a serem alcançados e cumprir com as Boas Práticas Regulatórias previstas nos instrumentos legais vigentes no país.
+Os seus componentes são a Metrologia, a Regulamentação Técnica, a Normalização, a Avaliação da Conformidade, a Acreditação e a Vigilância de Mercado. A Infraestrutura da Qualidade é essencial tanto para o mercado doméstico quanto para mercados externos.
+Com vistas a evitar ações de curto prazo, baixo impacto e descontinuadas, - que prejudicam a conquista de avanços e entregas consistentes para o setor produtivo e a sociedade brasileira, - é necessária a formulação de uma Estratégia Nacional de Infraestrutura da Qualidade (ENIQ).
+A ENIQ contemplará os objetivos de desenvolvimento econômico, social e ambiental do Brasil, gerando sinergia dos esforços públicos e propiciando a institucionalidade e governança adequados, além de contribuir para a simplificação, desburocratização e desenvolvimento tecnológico do país. Ela deverá ainda contribuir para a melhoria de competitividade do setor produtivo; para aumentar o acesso a mercados no exterior; para a geração de emprego e renda; para uma maior qualidade e segurança de produtos, serviços e processos; e para a atração de investimentos.
+A promoção do uso da IQ como ferramenta estratégica se dará por meio da formulação e da implementação da ENIQ.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 535
+Enunciado: Otimizar o desempenho do Sistema de Propriedade Intelectual e estimular o uso da Propriedade Intelectual como ferramenta estratégica para o alcance das políticas industrial, de inovação, de economia verde, de micro e pequenas empresas e de comércio exterior.
+Descrição: Conjunto de entregas destinadas a otimizar o desempenho do sistema de propriedade intelectual, especificamente a eficiência na prestação dos serviços pelo Instituto Nacional da Propriedade Industrial (INPI) e a estimular o uso da propriedade intelectual pela sociedade brasileira como ferramenta estratégica para o alcance dos objetivos traçados nas políticas de desenvolvimento industrial, inovação, economia verde, micro e pequenas empresas e comércio exterior.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 540
+Enunciado: Promover o aumento e a melhoria da inserção comercial do país.
+Descrição: Utilização de diversas políticas de Estado visando promover o aumento e a melhoria da inserção comercial do Brasil no resto do mundo, por meio, entre outros, da ampliação e aprofundamento da rede de acordos comerciais, da atração e manutenção de investimentos externos, da promoção do comércio sustentável e inclusivo, do aperfeiçoamento dos instrumentos de política comercial, do fortalecimento do sistema de apoio à exportação, da agregação de valor às exportações, da diversificação da pauta e dos destinos dos produtos e serviços exportados e da desburocratização e digitalização das operações de comércio exterior.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Objetivo Específico: 541
+Enunciado: Promover a melhoria do ambiente de negócios por meio do aperfeiçoamento do sistema regulatório nacional
+Descrição: Promover boas práticas regulatórias no Poder Executivo federal com vistas ao aperfeiçoamento do desenho de regulações que permitam maior previsibilidade, segurança jurídica, legitimidade e eficiência, reduzindo os custos de se fazer negócios no País.
+Órgão: 28000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2801
+
+Exercício: 2025
+Programa: 2801
+Objetivo: 1333
+Enunciado: Ampliar a inovação, a produtividade e a competitividade em direção a uma economia verde, diversificada, complexa e adensada, com melhoria do ambiente de negócios e aumento da participação econômica internacional qualificada do país, com vistas ao desenvolvimento econômico e social, a promoção de trabalho, a distribuição de renda e a redução das desigualdades sociais e regionais.
+Descrição: Ampliar a inovação, a produtividade e a competitividade em direção a uma economia verde, diversificada, complexa e adensada, promovendo a melhoria do ambiente de negócios, a participação econômica internacional qualificada e competitiva do país e a capacidade de atrair investimentos, com vistas ao desenvolvimento econômico e social, a promoção de trabalho, a distribuição de renda e a redução das desigualdades sociais e regionais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2801
+
+Exercício: 2025
+Programa: 2801
+Título: Neoindustrialização, Ambiente de Negócios e Participação Econômica Internacional
+Tipo: Finalístico
+Órgão: 28000.0
+Público-Alvo: Setor produtivo nacional, incluindo as micro, pequenas e médias empresas, artesãos, setores industriais, comércio e serviços, setor exportador, investidores, trabalhadores e empreendedores.
+Descrição Do Problema: Nas últimas décadas, a indústria brasileira perdeu participação no PIB nacional e nas exportações, declínio que gerou redução da renda, estagnação da produtividade da economia e aumento da desigualdade social.
+Nesse sentido, a economia brasileira enfrenta dificuldades em se posicionar de forma mais expressiva no comércio internacional, especialmente no que se refere ao desempenho das exportações e importações do país. Em 2021, o Brasil ocupou a 12ª posição entre as maiores economias do mundo, porém, figurou apenas na 24ª posição entre os maiores exportadores e na 22ª posição entre os maiores importadores de bens e serviços no mercado global.
+Causa Do Problema: O declínio precoce da indústria preocupa muito, pois se trata do principal caminho trilhado pelos países relevantes que se tornaram desenvolvidos. Dentre as características que fazem da indústria esse vetor tradicional de desenvolvimento estão: maiores economias de escala e escopo (learning by doing  - aprender fazendo, em tradução livre - e transbordamentos tecnológicos, por exemplo), maior propensão à automação, ao avanço tecnológico e à inovação (maior intensidade de P&D e de ativos de propriedade intelectual, por exemplo) e maiores encadeamentos e sinergias com outros elos produtivos (LEWIS, 1954; NURSKE, 1953; ROSENSTEIN-RODAN, 1943; HIRSCHMAN, 1958; PRE-BISCH, 1949; FURTADO, 1961). 
+O mundo, entretanto, mudou radicalmente a favor de políticas industriais. Com a pandemia do COVID-19 e conflitos militares, países perceberam que não poderiam ser dependentes de alguns insumos estratégicos. Mesmo países desenvolvidos perceberam que não poderiam deixar de produzir nacionalmente produtos como vacinas, medicamentos e equipamentos médicos, fertilizantes ou semicondutores. Ainda, vários países têm investido pesadamente na transição energética e na sustentabilidade, traçando estratégias de longo prazo que incluem o domínio das chamadas tecnologias verdes. Por fim, o avanço acelerado da economia digital significa que países que não implementarem políticas de desenvolvimento nessa área ficarão para trás. 
+A indústria vem diminuindo sistematicamente sua participação no Produto Interno Bruto – PIB brasileiro. Setores estratégicos da economia brasileira são extremamente dependentes de insumos estrangeiros, como fertilizantes, fármacos, dispositivos médicos, entre outros. Embora o Brasil tenha potencial de desenvolvimento em função de sua biodiversidade e de sua matriz energética limpa e renovável, muito pouco tem sido explorado desse potencial diferenciado. 
+Como causa da estagnação da produtividade, também podem-se destacar as dificuldades normativas, regulatórias, procedimentais, tecnológicas ou processuais à abertura, formalização, registro, legalização, acesso a crédito, investimentos, incentivo à inovação e demais etapas necessárias para alavancar as operações dos negócios, especialmente de micro e pequenos negócios. Nesse cenário, insere-se ainda como fator prejudicial a falta de integração de dados, informações e processos entre as instituições da esfera pública federal, estadual, distrital e municipal.
+Ainda, a falta de regulamentação clara de alguns setores tem levado ao adiamento de decisões importantes de investidores internacionais. Nesse sentido, as regulações inadequadas e barreiras à atividade econômica seriam alguns dos determinantes da baixa produtividade. Por essa razão, a qualidade do sistema regulatório deve ser capaz de promover o comportamento virtuoso dos agentes, de forma a maximizar a eficiência e o bem-estar social.
+Destaca-se também, que a falta de uma política industrial clara, com instrumentos bem definidos, com visão estratégica e de planejamento de longo prazo, tem levado o Brasil a perder oportunidades de inserção competitiva no mercado internacional. 
+O posicionamento ainda pouco expressivo do país no comércio internacional, também advém de outros fatores, dentre os quais destaca-se a natureza da rede de acordos comerciais do Brasil, que ainda é limitada e pouco diversificada. 
+Os programas brasileiros de apoio oficial ao crédito à exportação são pouco atrativos para seu público-alvo, em razão, sobretudo, da falta de agilidade operacional e da insegurança quanto à disponibilidade de recursos orçamentários. 
+O comércio exterior brasileiro tem baixa participação no PIB nacional e produtos brasileiros tem baixa competitividade e participação nos mercados globais, o que limita o potencial de crescimento e de desenvolvimento econômico do País, contribuindo para a o baixo crescimento da renda per capita e para o aumento da desigualdade social. 
+A promoção da competitividade internacional do produto brasileiro exige coordenação das políticas públicas, com reformas regulatórias, desburocratização do comércio exterior, mobilização de capital financeiro para financiamento da atividade exportadora, com incorporação dos paradigmas digital e sustentável na ação governamental, na melhoria e desburocratização do ambiente de negócios e do comércio exterior, e modernização da infraestrutura logística, com a perspectiva de inserção brasileira competitiva no comércio internacional.
+Em síntese, diversos aspectos contribuem para a pequena inserção internacional da economia brasileira. Dentre eles podemos citar:
+- Baixa participação dos produtos brasileiros no comércio internacional e nas cadeias globais de valor;
+- Baixa competitividade dos produtos brasileiros no comércio internacional;
+- Poucos acordos comerciais celebrados;
+- Poucas empresas exportadoras respondem por uma grande parcela do total exportado pelo Brasil;
+- Cultura exportadora incipiente;
+- Barreiras tarifárias e não-tarifárias;
+- Custos de transação nas operações internacionais;
+- Baixa qualificação dos artesãos, empresários e micro e pequenas empresas para atender às exigências do mercado externo;
+- Baixa exportação de produtos baseados da diversidade social e na biodiversidade.
+Os históricos baixos índices de exposição à competição nacional das empresas brasileiras levaram ao baixo acesso a novas tecnologias e consequentemente à perda de competitividade e produtividade. Assim, o comércio exterior precisa ser reconhecido como componente estratégico para o desenvolvimento do Brasil e para o maior dinamismo do setor produtivo doméstico, sendo promovido por política específica do Estado brasileiro.
+Evidências Do Problema: Após anos de desindustrialização precoce brasileira, o presente momento está marcado pela retomada de políticas para a indústria nas principais economias do mundo. Países desenvolvidos, transitaram de críticos das políticas particulares para defensores da coordenação e do apoio às empresas nacionais. 
+No centro do novo paradigma está o conceito de neoindustrialização, que se definiria como processo de desenvolvimento industrial concentrado nas necessidades estratégicas de cada país, visando principalmente a geração de empregos de qualidade, distribuição de renda via mercado e programas sociais, sustentabilidade ambiental estruturada a partir da economia verde e da bioindústria, diminuição das emissões de carbono e favorecimento do uso de tecnologias de ponta desenvolvidas de forma soberana e internacionalmente articulada, como a biotecnologia e as tecnologias digitais da indústria 4.0. 
+O conceito está alinhado com a ideia de que, para ter legitimidade ética e política, o desenvolvimento econômico precisa estar relacionado à gestão responsável do patrimônio natural do planeta, ao desenvolvimento técnico e científico contínuo das nações e da humanidade, à diminuição de gases causadores do efeito estufa e à superação das desigualdades sociais, raciais, regionais e de gênero.
+A neoindustrialização pressupõe o fortalecimento das cadeias produtivas internas por meio da intensificação tecnológica, implica no aumento dos intercâmbios econômicos e da articulação internacional no enfrentamento dos problemas mundiais. Contém a inserção externa competitiva, a maior agregação de valor nos produtos e a possibilidade da ascensão aos elos centrais das redes produtivas. Tem como um dos eixos a procura de melhor aproveitamento da riqueza mineral e natural sem prejuízos ao meio ambiente e aplicação dos conceitos ecológicos na ampliação da riqueza, por meio de uma economia verde. A sustentabilidade dos produtos está necessariamente vinculada à atração de investimentos.
+Como o Brasil possui centros científicos e tecnológicos reconhecidos, robusto mercado interno e experiência na produção em larga escala de energias limpas renováveis (hidrogênio verde, etanol, eólica, solar, biomassa etc.), a adoção do novo paradigma oferece ao país muitas oportunidades de avanços internos e melhor inserção na divisão mundial do trabalho. Assim, por exemplo, o vasto território sob clima tropical e a maior biodiversidade do planeta oferecem ao país a possibilidade de tornar-se líder no mercado de produtos industrializados baseados no patrimônio genético e produzidos com energias renováveis, bem como adquirir centralidade no mercado de carbono e outras iniciativas para a diminuição do efeito estufa. Além de já ter produtividade agrícola significativa e ser um dos principais produtores de alimentos, o país tem oportunidade de multiplicar e distribuir maior riqueza ao transformar-se em um dos polos industriais mais dinâmicos comprometidos com a reversão da economia mundial para uma economia verde, baseada nas energias renováveis e baixa emissão de gás carbônico. 
+No que se refere à atração de capital externo, será necessário ampliar e aperfeiçoar a estrutura para atendimento a potenciais investidores estrangeiros e apoiar os investimentos já realizados no Brasil em maior escala, de forma a transmitir maior segurança institucional e suporte aos investidores estrangeiros em relação aos aspectos normativos e de governança.
+Por sua vez, quanto à participação econômica internacional do Brasil, observa-se que o cenário presente é marcado pelo conflito entre grandes potências, pelas consequências da pandemia e da guerra entre Rússia e Ucrânia. A multipolaridade e as articulações referentes aos grandes temas mundiais oferecem oportunidades para a melhora da participação internacional do Brasil, devido à diversidade produtiva do país, aos seus abundantes recursos naturais e à tradicional posição de equidistância em relação às principais disputas geopolíticas. 
+O Brasil pode buscar maior protagonismo no cenário mundial aumentando sua participação no comércio e na captação de investimentos, tanto no mercado global como no regional. A ampliação da inserção internacional da economia brasileira é decisiva para o desenvolvimento econômico e social, pois viabiliza o acesso às novas tecnologias, capitais e oportunidades de negócio. É possível fortalecer a imagem externa do país, aumentando sua influência e poder de negociação em acordos comerciais e fóruns multilaterais. 
+Entretanto, é preciso projetar uma inserção mais qualificada e sustentável, aumentando a competitividade e diversificando a base exportadora, com a ampliação da participação de mercadorias de maior valor agregado. O processo criaria empregos de melhor qualidade e geraria maior renda. O aumento da integração externa estimularia a concorrência e a inovação, tornando as empresas brasileiras mais eficientes e produtivas.
+Essa projeção externa necessita ser coordenada por políticas garantidoras da distribuição justa e equitativa dos benefícios, sem prejudicar setores vulneráveis da economia, inclusive as micro e pequenas empresas, e sem comprometer a soberania nacional. É importante levar em conta ainda a crescente necessidade da sustentabilidade e da inclusão racial e de gênero no comércio exterior.
+Para alcançar esses objetivos, é necessário que o Brasil e os demais países membros do Mercosul continuem a trabalhar para a conclusão de acordos relevantes e para buscar novas negociações com parceiros estratégicos. A inclusão de novos temas nessas negociações, como comércio digital e temas ambientais, deve ser um objetivo, em linha com as discussões mais modernas de acordos comerciais. Em relação à competividade exportadora, destaca-se o necessário estabelecimento de condições de ordem tributária e financeira que permitam a empresas brasileiras competir com os concorrentes estrangeiros em termos de preço e qualidade de seus bens e serviços, isto é, sem entraves colocados por variáveis fora de seu controle.
+Nesse contexto, a política de apoio oficial ao crédito à exportação é fundamental. Segundo a OMC, entre 80% e 90% do comércio internacional conta com alguma forma de financiamento, dos quais parte significativa recebe apoio governamental, especialmente nos casos de créditos de médio e longo prazo e de créditos às exportações de micro, pequenas e médias empresas (MPMEs). De fato, ao longo das últimas duas décadas, países em desenvolvimento têm atuado de forma incisiva nessa área, o que tem comprometido a eficácia da regulação internacional sobre o tema, historicamente estabelecida no âmbito da OCDE. Como reação, a própria OCDE vem revisando suas diretrizes sobre apoio oficial ao crédito à exportação, autorizando o apoio a financiamentos com condições mais competitivas, em especial (mas não exclusivamente) nos casos de transações que atendam a critérios de mitigação climática. Nesse contexto altamente competitivo, os programas brasileiros de apoio oficial ao crédito à exportação têm tido atuação tímida, sendo muitas vezes pouco funcionais e pouco atrativos para seu público-alvo, o que exige uma pronta correção de rumo. O Estado deve ter instrumentos como seguro de crédito à exportação, financiamento direto e equalização de taxas de juros, entre outros, capazes de garantir que as exportações brasileiras possam ser realizadas com condições equivalentes às praticadas internacionalmente.
+Ademais, o alinhamento da estratégia comercial (política tarifária e disciplinas não-tarifárias) com os esforços da administração pública e do setor privado para o fortalecimento de inserção da empresas brasileiras nas cadeias globais de valor, a partir da incorporação dos paradigmas de transformação digital e de sustentabilidade, bem como a diversificação de mercados de destino para o produto brasileiro, com maiores inclusão setorial e abrangência regional, contribuirão para um ciclo de prosperidade, desenvolvimento, equilíbrio ecológico e modernização econômica.
+Será necessário aproveitar a tendência de associar sustentabilidade às negociações internacionais e ao comércio exterior. O Brasil tem o desafio de fazer da sustentabilidade um ativo, como de fato é, ao invés de um ônus para o posicionamento de marcas e produtos brasileiros no exterior. Importante construir uma agenda positiva que contribua para inserção internacional do produto brasileiro a partir dos atributos da economia verde e da Marca Brasil. O país tem condições de se posicionar bem à luz da tendência de que o tema sustentabilidade se torne, crescentemente, fator relevante no comércio internacional. A regulamentação do mercado de carbono e ampliação da capacidade exportadora do Brasil a partir da bioeconomia e das energias renováveis são exemplos dessa oportunidade. Assim como fortalecer a imagem dos produtos oriundos da cultura dos povos indígenas e comunidades tradicionais da Amazônia e dos demais biomas brasileiros como ativo no mercado global.
+Justificativa Para A Intervenção: Importante salientar que este é um programa típico de Estado. Para efeitos de PPA ele deve ter a duração de quatro anos, mas para fins de política pública esse programa refere-se à busca permanente, pelo Estado brasileiro, de desenvolver os setores industriais, de comércio e serviços; e ampliar sua participação no comércio internacional que passa pela melhoria do ambiente de negócios.
+Além disso, cabe destacar que o Estado tem papel muito relevante na criação de um ambiente de negócios favorável à competitividade empresarial por meio do fomento à inovação, à economia digital, à facilitação do acesso ao crédito por meio da concessão de garantias, à simplificação burocrática e à digitalização de serviços públicos associados à criação e funcionamento das empresas. Notadamente, as MPEs precisam incrementar sua produtividade e sua competitividade, a fim de viabilizar a expansão de seu mercado interno e externo, a integração nas cadeias produtivas e o acesso ao crédito. 
+Cabe destacar que a neoindustrialização apenas será possível com a adoção e o apoio aos novos ramos tecnológicos, principalmente a biotecnologia e a revolução digital. A construção de uma indústria ambientalmente sustentável e com baixas emissões pressupõe atitudes disruptivas frequentes e crescente produtividade fundada na adoção e adaptação às necessidades nacionais das tecnologias de ponta, principalmente aquelas incidentes no modelo da indústria 4.0: big data, aprendizagem de máquina, inteligência artificial, internet das coisas, geolocalização digital, robótica, fábrica automatizada e computação quântica. Pressupõe melhorias radicais nas sinergias entre o setor privado, as empresas estatais e as instituições privadas e públicas de desenvolvimento científico e tecnológico, focadas nos avanços da pesquisa básica nos ramos com potencial disruptivo e no aumento da produção de patentes utilizáveis. Este desenvolvimento de base tecnológica dinâmica pressupõe também políticas para garantia de insumos industriais estratégicos.
+Para a alavancagem tecnológica requerida, é pressuposta construção de Sistema Nacional de Propriedade Intelectual efetivo e equilibrado, amplamente conhecido, utilizado e observado pelos sujeitos econômicos e se capaz de incentivar a criatividade, os investimentos em inovação e o acesso ao conhecimento, com vistas ao aumento da competitividade e ao desenvolvimento econômico e social. O respeito aos princípios estabelecidos nos acordos internacionais de patentes e marcas deve ser interpretado a partir da necessidade reais das nações e não a partir de lobbys dos grupos mais poderosos. 
+Outra preocupação decisiva é preocupação com a diminuição das desigualdades regionais, que podem ser atenuadas tanto com o uso dos recursos naturais do Norte, Centro-Oeste e Nordeste na produção de energia limpas renováveis quanto com a constituição Zonas de Processamento de Exportação (ZPEs), que são áreas legalmente delimitadas com o objetivo incentivar as exportações e a geração de empregos no país, oferecendo benefícios fiscais e simplificando os procedimentos burocráticos para as empresas que se instalam nessas regiões. Será igualmente decisivo agregar nessa estratégia de política para a indústria os pequenos negócios e o empreendedorismo individual, principalmente por seu papel na descoberta de novos nichos de mercado e no preenchimento dos elos faltantes das cadeias produtivos, além da sua conhecida contribuição no aumento do emprego e na distribuição da renda. 
+
+No que se refere à atração de capital externo, será necessário ampliar e aperfeiçoar a estrutura para atendimento a potenciais investidores estrangeiros e apoiar os investimentos já realizados no Brasil em maior escala, de forma a transmitir maior segurança institucional e suporte aos investidores estrangeiros em relação aos aspectos normativos e de governança. 
+
+É também de grande relevância o fortalecimento da cadeia produtiva e da inserção e desenvolvimento dos pequenos negócios, e também do setor do artesanato, que, face à sua especificidade e transversalidade, necessita de políticas públicas estruturantes a fim de desenvolver seu potencial de inclusão social e econômica, integrado às políticas de cultura, turismo e desenvolvimento social e regional. Nesse sentido, a qualificação dessas instituições e a ampla capacitação de empreendedores e artesãos são aspectos a serem considerados na neoindustrialização. 
+São muitos os gargalos tecnológicos existentes, mas o CNDI priorizará aqueles relevantes para o país, ou seja, aqueles com vantagens competitivas e que trazem potencial para enfrentar, simultaneamente, alguns dos principais desafios produtivos e societais.
+Para garantir o foco das iniciativas governamentais, a nova política industrial deverá ser orientada por missões. Nesse sentido, o Decreto 11.482/2023 reconstituiu o Conselho Nacional de Desenvolvimento Industrial (CNDI) – composto por 20 Ministros de Estado, presidente do BNDES e 21 representantes da sociedade civil – com o intuito principal de propor ao Presidente da República a nova política industrial do país. As políticas que estão sendo construídas pelo CNDI estão voltadas à promoção das seguintes missões: (1) cadeias agroindustriais sustentáveis e digitais para a segurança alimentar e nutricional; (2) complexo econômico industrial da saúde resiliente para reduzir a vulnerabilidade do SUS e ampliar o acesso à saúde; (3) infraestrutura, saneamento, moradia e mobilidade sustentáveis para a integração produtiva e o bem-estar nas cidades; (4) transformação digital da indústria para ampliar a produtividade; (5) descarbonização, transição energética e bioeconomia para garantir os recursos para as futuras gerações; e (6) tecnologias de interesse para a soberania e a defesa nacionais.
+A intervenção de uma política pública sistemática se faz necessária também para promover o aumento da participação econômica internacional, tendo em vista que o nível de inserção do Brasil continua muito aquém de seu potencial. Nos últimos anos, apesar de a conta corrente de comércio brasileira ter aumentado substancialmente em termos de valor, a participação percentual do Brasil no comércio mundial respondeu somente por cerca de 1,3% das transações comerciais mundiais (US$ FOB) no ano de 2021. Já há muitos anos a participação brasileira no comércio internacional está em torno desse valor, indicando que muito ainda deve ser feito para o Brasil sair desse patamar.
+Por fim, cabe destacar que a governança regulatória envolve a adoção de um marco jurídico-institucional completo e abrangente para a política regulatória, que preencha as lacunas de coordenação, que supere as dificuldades de definição de uma estratégia de longo prazo, que promova a coerência e a convergência regulatórias, bem como facilite o uso de ferramentas de boas práticas regulatórias pelos agentes públicos. 
+Marcos regulatórios bem elaborados e adequadamente implementados resultam em maior previsibilidade, segurança jurídica, legitimidade e eficiência, reduzindo os custos do setor produtivo, estimulando investimentos e favorecendo a geração de emprego e renda.  Por essa razão, a qualidade do desenho regulatório deve ser capaz de promover o comportamento virtuoso dos agentes de forma a maximizar a eficiência econômica e o bem-estar social.
+Evolução Histórica: A neoindustrialização requer instrumentos adequados, sistemáticos e flexíveis de política industrial focados no fortalecimento da infraestrutura, da sustentabilidade, do ambiente de negócios e das empresas atuantes no país. O programa deverá evitar erros do passado. Por exemplo, avaliações de políticas industriais anteriores costumam apontar a existência de falhas de planejamento (como ausência de diagnóstico, excesso de temas priorizados e falta de planejamento estratégico de longo prazo), falhas de execução (como ausência de coordenação entre os atores, gerando fragmentações, sobreposições e duplicações de projetos), falhas no monitoramento e na avaliação (como inexistência de metas e indicadores prévios e claros), e incentivos focados em segmentos produtivos de baixa complexidade tecnológica.
+Para garantir o foco das iniciativas governamentais, a nova política industrial deverá ser orientada por missões. Nesse sentido, o Decreto 11.482/2023 reconstituiu o Conselho Nacional de Desenvolvimento Industrial (CNDI) – composto por 20 Ministros de Estado, presidente do BNDES e 21 representantes da sociedade civil – com o intuito principal de propor ao Presidente da República a nova política industrial do país. As políticas que estão sendo construídas pelo CNDI estão voltadas à promoção das seguintes missões: (1) cadeias agroindustriais sustentáveis e digitais para a segurança alimentar e nutricional; (2) complexo econômico industrial da saúde resiliente para reduzir a vulnerabilidade do SUS e ampliar o acesso à saúde; (3) infraestrutura, saneamento, moradia e mobilidade sustentáveis para a integração produtiva e o bem-estar nas cidades; (4) transformação digital da indústria para ampliar a produtividade; (5) descarbonização, transição energética e bioeconomia para garantir os recursos para as futuras gerações; e (6) tecnologias de interesse para a soberania e a defesa nacionais.
+Além disso, cabe destacar que o PPA 2020-2023 contemplou o Programa 2211 - “Inserção Econômica Internacional”, com o objetivo de aumentar o índice de exposição à competição internacional das empresas brasileiras visando, entre outros, maior acesso a novas tecnologias e o consequente aumento de produtividade; ampliar e qualificar a participação brasileira em fóruns e organismos internacionais; e gerir os mecanismos de financiamento externo.
+No PPA 2024-2027 pretende-se ampliar as conquistas realizadas nos últimos quatro anos, bem como abrir novas frentes, tendo como norteador o cenário geopolítico internacional atual (rivalidade entre grandes potências; medidas restritivas ao comércio adotadas por motivos de segurança nacional; retorno de políticas industriais associadas a discursos abertos sobre proteção e promoção de setores estratégicos; enfraquecimento de fóruns globais de concertação; fim da pandemia; guerra Ucrânia - Rússia; regionalização do comércio; mudanças em cadeias globais de valor; etc).
+Comparações Internacionais: 1.	Comparações Internacionais.
+Entre 1930 e 1980, o Brasil foi o terceiro país que mais cresceu em renda per capita no mundo, segundo o Maddison Project, tornando-se um país de renda média alta. Porém, desde então, apesar de alguns resultados importantes na área social, o crescimento econômico, que é a base para a sustentação da melhoria do bem-estar social, tem sido medíocre. O Brasil cresceu menos de um quarto do que países em estágios similares de desenvolvimento, menos da metade dos países da OCDE e ficou abaixo da média mundial. 
+Uma análise aprofundada da história econômica do próprio país nos últimos 50 anos e dos poucos países que, ao contrário do Brasil, continuaram crescendo e se tornaram países de renda alta nas últimas décadas, mostra que a interação estratégica entre Estado e mercado em busca do desenvolvimento produtivo e tecnológico e da inovação é a principal explicação para o sucesso econômico (JOHNSON, 1982; AMSDEN, 1989; WADE, 1990; EVANS; 1995 AMSDEN, 2001; CHANG, 2004; RODRIK, 2004; LALL, 2004; REINERT, 2009). Foi possível observar que nessas nações o desenvolvimento produtivo e tecnológico e a inovação foram considerados prioridade nacional. Nas últimas décadas, contudo, políticas desse tipo, genericamente chamadas de política industrial, receberam o devido destaque em poucos períodos de governo. O resultado é que a maior parte dos trabalhadores, quando empregada, acabou incorporada a segmentos de baixa produtividade, com empregos informais e precários e salários mais baixos, acentuando a desigualdade social. De cada 10 empregos gerados no país, 7 ganham até 2 salários-mínimos e são de baixa qualificação (LCA, 2022), enfraquecendo inclusive o potencial de crescimento do mercado interno. 
+Esse cenário é típico de um país que sofre de desindustrialização precoce. A desindustrialização é considerada precoce pela Conferência das Nações Unidas sobre Comércio e Desenvolvimento - UNCTAD quando uma economia não chega a atingir toda sua potencialidade produtiva manufatureira e, em vez do crescimento do emprego e da renda evoluir em direção a serviços com alto valor agregado, regride para a agricultura ou cai na informalidade. Nesse sentido, Morceiro e Tessarin (2019) analisaram o desempenho da indústria de 30 países de 1970 a 2017, que representam em torno de 90% da produção industrial, e concluíram que o Brasil sofria da maior desindustrialização precoce do mundo (queda de 27,3% para 11,3% do PIB entre 1986 e 2018). Outros indicadores confirmam esse diagnóstico: a produtividade em relação à dos EUA é menor do que em 1980 (Conference Board), e a complexidade econômica, ou seja, a capacidade que o país tem de produzir bens complexos e intensivos em conhecimento, tecnologia e inovação, declina desde pelo menos os anos 1990, segundo o Atlas de Complexidade de Harvard.
+No que se refere à inserção econômica internacional, levantamento realizado pela Confederação Nacional das Indústrias indica que os parceiros com os quais o Brasil possui acordos de livre-comércio e acordos preferenciais de comércio em vigor somam cerca de 8% das importações de bens mundiais. Essa participação é 3,6 vezes menor do que a média dos membros do G20, de 29%. 
+Vide arquivo anexo para tabelas e demais informações.
+Relação Com Os Ods: O MDIC está participando dos diálogos para retomada da Comissão Nacional dos Objetivos de Desenvolvimento Sustentável (CNODS) e o programa proposto se alinha em alguma medida a todos os ODS, sendo os mais diretamente impactados: 
+ODS 8 – Trabalho decente e crescimento econômico: promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos.
+ODS 9 – Indústria, inovação e infraestrutura: construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação. 
+ODS 10 – Redução das desigualdades: reduzir as desigualdades dentro dos países e entre eles. 
+ODS 12 – Consumo e produção responsáveis: assegurar padrões de produção e de consumo sustentáveis.
+ODS 16 – Paz, Justiça e Instituições eficazes: especialmente em relação aos 16.6 e 16.7
+ODS 17 – Parcerias e meios de implementação
+
+Além disso, o direcionamento da política industrial a missões para solucionar desafios concretos da sociedade brasileira, pode gerar impactos positivos nos Objetivos de Desenvolvimento Sustentável:
+
+ODS 1 – Erradicação da pobreza
+ODS 6 – Água Potável e Saneamento
+ODS 7 - Energia Limpa e Acessível
+ODS 14 – Vida na Água
+ODS 15 – Promover o uso sustentável dos ecossistemas terrestres e florestas
+ODS 17 – Parcerias e meios de implementação
+Agentes Envolvidos: Casa Civil e Secretaria-Geral da Presidência da República, Instituto Nacional da Propriedade Industrial, Instituto Nacional de Metrologia, Qualidade e Tecnologia, Superintendência da Zona Franca de Manaus, Serviço Brasileiro de Apoio às Micro e Pequenas Empresas, Agência Brasileira de Desenvolvimento Industrial, Agência Brasileira de Promoção de Exportações e Investimentos, Banco Nacional de Desenvolvimento Econômico e Social, Ministério da Fazenda, Ministério da Ciência, Tecnologia e Inovação, Ministério do Planejamento e Orçamento, Ministério das Relações Exteriores, Ministério do Meio Ambiente e Mudança do Clima, Ministério da Agricultura e Pecuária, Ministério da Integração e do Desenvolvimento Regional, Banco Central, Agências de Desenvolvimento, Organismos Internacionais, Estados estrangeiros, Organizações da Sociedade Civil, incluindo associações de classe, Entes Federados, Ministério de Minas e Energia, Ministério do Desenvolvimento Agrário e Agricultura Familiar, Ministério do Trabalho e Emprego, Ministério dos Transportes, Ministério da Saúde, Ministério da Defesa, Ministério de Portos e Aeroportos, Ministério da Educação, Ministério das Comunicações, Ministério da Gestão e da Inovação em Serviços Públicos, Financiadora de Estudos e Projetos (FINEP).
+Articulação Federativa: O MDIC tem um importante papel a desempenhar na coordenação e articulação de políticas entre os diversos entes federados, visando promover o desenvolvimento econômico e o comércio exterior de forma harmoniosa e equilibrada em todo o território nacional.
+A implementação deste Programa envolve, de fato, articulação intensa entre diversos entes do governo federal, notadamente os membros que compõem a Câmara de Comércio Exterior (Camex), a Receita Federal do Brasil (RFB), a Agência Nacional de Vigilância Sanitária (ANVISA), bem como com empresas do setor produtivo nacional. Além disso, também é necessária articulação com outros atores, como a ApexBrasil, BNDES, entre outros. Em todos os casos estão presentes necessidades de articulação federativa.
+Exemplos concretos podem ser encontrados nas iniciativas voltadas às MPE, por meio do Fóruns Estaduais das Micro e Pequenas empresas (MPEs) e o Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (CGSIM), à promoção da cultura exportador, por meio do Plano Nacional da Cultura Exportadora, executado em conjunto com os Estados, ao incentivo aos artesãos nacionais; ou em políticas e programas de recorte estritamente regional, como a Zona Franca de Manaus (ZFM), as Zonas de Processamento de Exportação (ZPEs) e os Regimes Automotivos Regionais.
+Enfoque Transversal: A atuação do MDIC, por natureza, somente ocorre de modo transversal, já que as políticas públicas sob sua coordenação guardam uma série de interligações com atores públicos e privados que demandam uma forma de trabalho integrada com outros órgãos e entidades, assim como com o setor privado.
+É atribuição basilar do Ministério a coordenação de políticas, a articulação de ações e a busca por soluções conjuntas entre diferentes áreas de atuação, visando impulsionar a competitividade, a inovação e o crescimento econômico. Somente dessa forma é possível maximizar os resultados e impactos das ações do MDIC, fomentando o desenvolvimento econômico e a geração de empregos no país.
+A título de exemplo, destaca-se a atuação do Ministério por meio da Câmara de Comércio Exterior (Camex), nos temas relacionados às políticas de comércio exterior, e do Conselho Nacional de Desenvolvimento Industrial (CNDI), no que diz respeito às estratégias de desenvolvimento produtivo – ambos colegiados voltados à formulação e proposição de políticas públicas a partir da concertação de diferentes perspectivas públicas e privadas.
+Marco Legal: Destacam-se de forma não exaustiva:
+•	Decreto nº 11.482/2023, que dispõe sobre o Conselho Nacional de Desenvolvimento Industrial – CNDI
+•	Portaria GM/MDIC nº 162/2023, que dispõe sobre a designação dos membros da sociedade civil para compor o Conselho Nacional de Desenvolvimento Industrial. 
+•	Lei  nº 9.279, de 14 de maio de 1996 - Lei da Propriedade Industrial
+•	Lei Complementar n. 123, de 14 de dezembro de 2006 – Microempresa e Empresa de Pequeno Porte
+•	Lei n. 14.600, de 19 de junho de 2023 - Lei de Organização dos Ministérios 
+•	Decreto n. 11.428, de 2 de março de 2023 - Decreto que dispõe sobre a CAMEX
+•	Lei n. 11.508, de 20 de julho de 2007 – Dispões sobre a criação de Zonas de Processamento de Exportação
+•	Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores (PADIS).
+•	Lei do Bem, regida pela Lei nº 11.196, de 21 de novembro de 2005 e normas posteriores.
+•	Lei nº 8.248/1991 e alterações - Lei de Informática
+•	Decreto-Lei nº 288, de 28 de fevereiro de 1967 – Zona Franca de Manaus
+•	Lei nº 13.755, de 10 de dezembro de 2018. - Rota 2030
+Planos Nacionais, Setoriais E Regionais: A reconstrução do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC), a reativação do Conselho Nacional do Desenvolvimento Industrial (CNDI) e a revitalização da capacidade de financiamento ao desenvolvimento industrial do BNDES são fundamentais como instrumentos de coordenação e indução da nova política industrial. 
+São muitos os gargalos tecnológicos existentes, mas o CNDI priorizará aqueles relevantes para o país, ou seja, aqueles com vantagens competitivas e que trazem potencial para enfrentar, simultaneamente, alguns dos principais desafios produtivos e societais.
+A implementação do Programa também está alinhada à Estratégia Nacional de Propriedade Intelectual (ENPI), cujo objetivo é estabelecer governança e coordenação para as iniciativas, projetos e programas ligados à propriedade intelectual, a fim de alavancar a competitividade e o desenvolvimento econômico e social do Brasil. O período de vigência da ENPI é de 10 anos (2021-2030). Ela possui 210 ações organizadas em 7 eixos estratégicos, as quais são implementadas por Planos de Ação bienais. O período do primeiro Plano de Ação de agosto de 2021 a julho de 2023, está se encerrando, quando será lançado o novo Plano de Ação para o período de 2023 a 2025. Esse objetivo específico do Programa está diretamente articulado com o Eixo 3 da ENPI, de “Governança e Fortalecimento Institucional”, onde se preveem medidas destinadas a aprimorar, fortalecer e modernizar as instituições responsáveis pelo registro e concessão de direitos de propriedade intelectual no Brasil.
+No que se refere a infraestrutura da qualidade, o Conmetro foi relançado em abril de 2023 e instituiu um Grupo de Trabalho para propor a Política Nacional de Infraestrutura da Qualidade.
+Ainda cabe destacar que está sendo elaborada, no âmbito da Camex, uma Estratégia Nacional de Comércio Exterior, conforme estabelecido no art. 3º do Decreto nº 11.428/2023, que tem como objetivo promover a inserção competitiva do Brasil no comércio internacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

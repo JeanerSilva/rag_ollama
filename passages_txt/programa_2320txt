@@ -1,0 +1,506 @@
+passage: Programa Número 2320
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 507
+Entrega: 1851
+Indicador: 11151
+Denominação: Moradias entregues por meio de arranjos institucionais e financeiros inovadores
+Sigla: MORADIA_pilotos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: nº de domicilios
+Descrição: Os projetos-piloto testarão novos formatos e institucionalidades e terão como alvo públicos prioritários no âmbito do Programa
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeira mês do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MORADIA_pilotos = moradias entregues por meio de arranjos institucionais e financeiros inovadores
+
+MORADIA_entregues= número de moradias entregue em cada projeto piloto
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Habitação
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades
+Procedimento De Cálculo: 1. Acessar base de dados internas da SNH
+2. Somar a quantidade de moradias entregues nos projetos-piloto inovadores
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 505
+Entrega: 1850
+Indicador: 11150
+Denominação: Moradias entregues por meio de parcerias com estados e municípios (SNHIS)
+Sigla: SNHIS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: As ações de desenvolvimento institucional incluem capacitação, eventos, cooperação técnica e outras modalidadades de apoio ao fortalecimento das capacidades de gestão da política habitacional pelos entes subnacionais.
+Período Ou Data A Que Se Refere: Mensal
+Data De Divulgação/Disponibilização: Terceira semana de cada mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SNHIS = Moradias entregues por meio de parcerias com estados e municípios
+
+MORADIAS_snhis = moradia entregue por meio de parceria via SNHIS
+Fonte De Dados Das Variáveis De Cálculo: SNH/MCID com informações fornecidas pelo Agente operador e agentes financeiros do Programa
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades
+Procedimento De Cálculo: 1) Consulta à base de dados referencial de acompanhamento do SNHIS;
+2) Soma-se o total de moradias entregues
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 510
+Entrega: 1854
+Indicador: 11154
+Denominação: Novo PAC: Financiamento Habitacional (eixo Cidades Sustentáveis e Resilientes, subeixo Financiamento Habitacional SBPE)
+Sigla: HAB_sbpe
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: R$
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo PAC
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: HAB_sbpe = somatório dos financiamentos para aquisição de novas moradias para classes média e média alta
+
+FINANCIAMENTO_sbpe = financiamento do SBPE para aquisição de novas moradias para classes média e média alta
+Fonte De Dados Das Variáveis De Cálculo: Banco Central do Brasil; Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (Abecip).
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades.
+Procedimento De Cálculo: Dados e informações extraídos dos sistemas transacionais e relatórios gerenciais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 504
+Entrega: 1845
+Indicador: 11145
+Denominação: Novo PAC: moradias contratadas no Novo Minha Casa Minha Vida (eixo Cidades Sustentáveis e Resilientes, subeixo Minha Casa Minha Vida, segmento Novo MCMV)
+Sigla: MCMV_novo
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Indicador a ser aferido por registros próprios do órgão, a partir do gerenciamento da carteira de investimentos em habitação.
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo PAC
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MCMV_novo = somatório de contratação de moradias para população com renda até R$ 8.000,00 em todo o Brasil
+
+MORADIA_ogu = moradia contratada com recursos do Orçamento Geral da União (OGU)
+MORADIA_fgts = moradia contratada com recursos do Fundo de Garantia do Tempo de Serviço (FGTS)
+Fonte De Dados Das Variáveis De Cálculo: SNH/MCID, conforme informações fornecidas pelo Agente operador e agentes financeiros do Programa
+Forma De Disponibilização: Portal de Dados Abertos do Ministério das Cidades
+Procedimento De Cálculo: 1) Consultar a base de dados referencial de acompanhamento da situação dos empreendimentos de moradia do Minha Casa Minha Vida.
+2) Somar o total de moradias contratadas nos anos de escopo do PPA (2024 a 2027).
+
+Observação: a total da meta do PPA é diferente da meta do PAC, em razão do escopo temporal deste dois instrumentos do governo federal.
+O PPA tem escopo temporal de 2024 a 2027. Já o PAC considera o exercício de 2023.
+A meta do PPA é de 1.895.000 (hum milhão, oitocentas e noventa e cinco) moradias contratadas
+A meta do PAC são 2 milhões de moradias contratadas. 
+Esta diferença é o volume de moradias contratadas no exercício de 2023: 105.000 (cento e cinco mil).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 504
+Entrega: 1848
+Indicador: 11148
+Denominação: Novo PAC: retomada e conclusão de empreendimentos contratados anteriormente à 2023 (OGU)
+Sigla: MCMV_retomada
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: quantidade
+Descrição: Novo PAC: retomada e conclusão de empreendimentos contratados anteriormente à 2023 com recursos do Orçamento Geral da União - OGU
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo PACsemana de cada mês subsequente
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MCMV_retomada = somatório dos empreendimentos  incluído no segmento "MCMV Retomada" retomados e concluídos
+
+EMPREENDIMENTO_concluido = empreendimento incluído no segmento "MCMV Retomada" que foi retomado e concluído
+
+O MCMV Retomada inclui os empreendimentos contratados anteriormente à 2023 com recursos do Orçamento Geral da União - OGU que serão retomados e concluídos no âmbito do Novo PAC
+Fonte De Dados Das Variáveis De Cálculo: Agente operador (SNH/MCID) e agentes financeiros (CAIXA Econômica Federal) do Programa.
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades
+Procedimento De Cálculo: 1) Consulta à base de dados referencial de acompanhamento da situação dos empreendimentos de moradia, apoiados com recursos federais de financiamento (FGTS);
+2) Soma-se o total de moradias entregues.
+
+Observação: a total da meta do PPA é diferente da meta do PAC, em razão do escopo temporal deste dois instrumentos do governo federal.
+O PPA tem escopo temporal de 2024 a 2027. Já o PAC considera o exercício de 2023.
+A meta do PPA é de 151.216 empreendimentos retomados e concluídas.
+A meta do PAC são 182.960 de empreendimentos retomados e concluídos. 
+Esta diferença é o volume de empreendimentos com previsão de conclusão no exercício de 2023: 31.744.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 510
+Entrega: 1853
+Indicador: 11153
+Denominação: Número de moradias entregues com recursos do FGTS em financiamento imobiliário habitacional
+Sigla: ME_FGTS
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador reflete o impacto do Programa Moradia Digna, especialmente o Programa Minha Casa, Minha Vida (PMCMV), no aumento da produção e na geração de empregos no âmbito da construção civil e mercado imobiliário.
+Período Ou Data A Que Se Refere: Trimestre anterior
+Data De Divulgação/Disponibilização: Segunda semana do mês após o trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ME_FGTS: Número de moradias entregues com recursos do FGTS em financiamento imobiliário habitacional
+
+Σ UHs_entregues: somatório de unidades habitacionais entregues com financiamento habitacional contratado com recursos do FGTS no período de referência
+Fonte De Dados Das Variáveis De Cálculo: CAIXA Econômica Federal
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades
+Procedimento De Cálculo: Dados e informações extraídos dos sistemas transacionais e relatórios gerenciais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 506
+Entrega: 1846
+Indicador: 11146
+Denominação: Percentual de certificações de Sistemas de Gestão da Qualidade (SGQ) de Empresas de Serviços/Obras da Construção Civill
+Sigla: SIAC
+Índice De Referência: 85.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O monitoramento do percentual de conformidade permite assegurar a boa gestão do Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H)
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeiro mês subsquente ao ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SIAC = percentual de certificações de Sistemas de Gestão da Qualidade (SGQ) de Empresas de Serviços/Obras da Construção Civill
+
+Certificações_emtidas = somatório das certificações emitidas
+Certificações_solicitada = somatório das certificações solicitadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema informatizado do PBQP-H
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades e https://pbqp-h.mdr.gov.br/
+Procedimento De Cálculo: Automatizado a partir das informações inseridas pelos gestores do Portal do PBQP-H
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 506
+Entrega: 1847
+Indicador: 11147
+Denominação: Percentual de qualificação de empresas de Materiais, Componentes e Sistemas Construtivos (SiMaC)
+Sigla: SIMAC
+Índice De Referência: 85.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O monitoramento do percentual de conformidade permite assegurar a boa gestão do Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H)
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeiro mês subsquente ao ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SIMAC = percentual de qualificação de empresas de Materiais, Componentes e Sistemas Construtivos (Sistema SiMaC)
+
+Certificações_emtidas = somatório das certificações emitidas
+Certificações_solicitada = somatório das certificações solicitadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema informatizado do PBQP-H
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades e https://pbqp-h.mdr.gov.br/
+Procedimento De Cálculo: Automatizado a partir das informações inseridas pelos gestores do Portal do PBQP-H
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2320
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 506
+Indicador: 11113
+Denominação: Conformidade dos materiais, componentes e sistemas construtivos das empresas de serviços e obras com certificação do Sistema de Gestão da Qualidade, no âmbito do Programa PBQPH
+Sigla: PBQPH_ppa
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador será apurado pela média da conformidade de Certificações de Sistemas de Gestão da Qualidade de Empresas de Serviços e Obras da Construção Civil (SiAC) e da Qualificação de Empresas de Materiais, Componentes de Sistemas Construtivos (SiMaC)
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Janeiro de cada ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Média simples calculada por 2 subsistemas integrantes (SiAC, SiMaC) do PBQP-H
+Fonte De Dados Das Variáveis De Cálculo: PBQP-H/SNH/MCID
+Forma De Disponibilização: Sistema de dados abertos do Ministério das Cidades e Relatório gerencial sob consulta no sistema - https://pbqp-h.mdr.gov.br/
+Procedimento De Cálculo: Automático, pelo sistema informatizado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 504
+Indicador: 11081
+Denominação: Déficit habitacional quantitativo
+Sigla: DEFHAB_quanti
+Índice De Referência: 5964933.0
+Em Apuração: Sim
+Unidade De Medida: nº de domicilios
+Descrição: Indicador tradicional no setor e consagrado na literatura internacional.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: DEFHAB_quanti = déficit habitacional (quantitativo)
+
+DOMICILIO_componente = domicílio que se enquadram nos seguintes componentes: habitação precária; coabitação familiar; ônus excessivo de aluguel; e adensamento excessivo em domicílios alugados
+Fonte De Dados Das Variáveis De Cálculo: Fundação João Pinheiro - Gov. Estado de Minas Gerais
+Forma De Disponibilização: Portal de Dados Abertos do Ministério das Cidades
+Procedimento De Cálculo: A partir da análise dos dados da PNADC e do Censo Populacional, produzidos pelo IBGE.
+
+O cálculo do déficit habitacional se dá por etapas, subdivididas para a aferição de cada componente e subcomponente. Partindo dos domicílios particulares, a ordem dessas etapas é a seguinte: 
+1. Dos classificados como permanentes e improvisados, selecionam-se e calculam-se os domicílios improvisados 
+2. Dos domicílios particulares e permanentes, são retirados os domicílios rústicos 
+3. Retirados os domicílios rústicos, identificam-se, entre os não rústicos, os domicílios tipo cômodo
+4. Os domicílios considerados não cômodos são o ponto de partida para se selecionar os 
+domicílios com ônus excessivo com aluguel nas áreas urbanas 
+5. Dos domicílios particulares, também são selecionados aqueles identificados como unidade doméstica convivente déficit.
+
+O déficit habitacional total se dá pela soma de cinco (sub)componentes:
+(i) domicílios rústicos; 
+(ii)  domicílios improvisados; 
+(iii) unidades domésticas conviventes; 
+(iv) domicílios identificados como cômodos; e,
+(v) domicílios identificados com ônus excessivo de aluguel urbano.
+
+A nova metodologia de cálculo do Déficit Habitacional e da Inadequação domiciliar é estimada por meio dos dados disponíveis da Pesquisa Nacional por Amostra de Domicílios Contínua (PnadC) do Instituto Brasileiro de Geografia e Estatística (IBGE) e do Cadastro Único para Programas Sociais - CadÚnico, do Ministério da Cidadania
+
+Fonte: FUNDAÇÃO JOÃO PINHEIRO. Diretoria de Estatística e Informações. Metodologia do deficit habitacional e da inadequação de domicílios no Brasil: 2016 - 2019. Belo Horizonte: FJP, 2021
+https://fjp.mg.gov.br/wp-content/uploads/2020/12/04.03_Cartilha_DH_compressed.pdf (páginas 5 a 15)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 505
+Indicador: 11104
+Denominação: Operações contratadas, em parceria com estados e municípios, nas linhas do MCMV
+Sigla: PARCERIAS
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: quantidade
+Descrição: Contabiliza a inovação representada pela maior participação dos entes na modalidade de contratação
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeiro mês do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PARCERIAS = somatório das operações contratadas, em parceria com estados e municípios, nas linhas do MCMV
+
+OPERACOES = operação contratada, em parceria com estados e municípios, nas linhas do MCMV
+Fonte De Dados Das Variáveis De Cálculo: SNH/MCID, por meio dos relatórios fornecidos pelo Agente Operador e agentes financeiros do Programa
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades
+Procedimento De Cálculo: 1. Acessar bases de dados fornecidas pelo Agente Operador e agentes financeiros do Programa
+2. somar a quantidade de operações contratadas em cada ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 510
+Indicador: 11128
+Denominação: Participação do Produto Interno Bruto da Construção Civil no Produto Interno Bruto (PIB) Total
+Sigla: TXPIB_CCivil
+Índice De Referência: 3.2
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A taxa de participação do Produto Interno Bruto da Construção Civil no Produto Interno Bruto (PIB) Total busca identificar o impacto do Programa na dinâmica econômica nacional
+Período Ou Data A Que Se Refere: Trimestre
+Data De Divulgação/Disponibilização: Mês posterior ao fechamento do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TXPIB_CCivil = taxa de participação do PIB da Construção Civil no PIB (PIB) total
+
+PIB_construçãocivil = apuração do PIB da Construção Civil a partir das Contas Nacionais do IBGE
+PIB_totalBrasil = apuração do PIB Total do Brasil a partir das Contas Nacionais do IBGE
+Fonte De Dados Das Variáveis De Cálculo: Câmara Brasileira da Indústria da Construção (CBIC) com dados primários do Instituto Brasileiro de Geografia e Estatística - Contas Nacionais
+http://www.cbicdados.com.br/home/
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades.
+Procedimento De Cálculo: 1. Consultar o valor do PIB da Construção Civil divulgado pela CBIC com os dados do IBGE (Contas Nacionais)
+2. Consultar o valor do PIB Brasil Total divulgado pelo IBGE (Contas Nacionais)
+3. Dividir o PIB da Construção Civil pelo PIB Brasil Total
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 507
+Indicador: 11122
+Denominação: Projetos-piloto inovadores realizados em parceria com estados, municípios, órgãos e entidades públicos e privados
+Sigla: PROJPILOTO_hab
+Em Apuração: Sim
+Unidade De Medida: projetos
+Descrição: Os projetos-piloto pretendem validar novos modelos de provisão para públicos prioritários, permitindo a futura replicação das experiências em maior escala.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeira semana do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PROJ = número de projetos contratadas para projetos-piloto inovadores
+Fonte De Dados Das Variáveis De Cálculo: SNH/MCIDADES
+Forma De Disponibilização: Portal de dados abertos do Ministério das Cidades
+Procedimento De Cálculo: 1. Acessar bases de dados de gestão interna da SNH
+2. somar a projetos-piloto inovadores contratados em cada ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2320
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 504
+Enunciado: Ampliar o atendimento habitacional, sobretudo à população de baixa renda, em áreas urbanas e rurais
+Descrição: Provisão subsidiada de unidades habitacionais novas e provisão financiada de unidades habitacionais novas ou usadas; locação social de imóveis em áreas urbanas; provisão de lotes urbanizados; melhoria habitacional
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 505
+Enunciado: Consolidar o Sistema Nacional de Habitação, com foco no Sistema Nacional de Habitação de Interesse Social (SNHIS), articulando as ações dos entes públicos e fomentando a participação da sociedade civil e da iniciativa privada
+Descrição: Permitir que a política habitacional se desenvolva de forma sistêmica e articulada, com a implementação de instrumentos e ferramentas típicos de sistemas nacionais no que tange a transferências de recursos, participação social, transparência e controle, cooperação técnica, parcerias e inovações institucionais
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 506
+Enunciado: Elevar os patamares da qualidade da construção civil, por meio da criação e implementação de mecanismos de modernização tecnológica e gerencial, incluindo conceitos e metas de sustentabilidade, visando ampliar o acesso à moradia digna para a população de menor renda
+Descrição: Este objetivo está vinculado ao Programa Brasileiro da Qualidade e Produtividade do Habitat (PBQP-H).
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 507
+Enunciado: Desenvolver e fomentar inovações institucionais na provisão habitacional, privilegiando populações vulneráveis
+Descrição: Trata-se de uma das prioridades estratégicas da Secretaria Nacional de Habitação (SNH), que é estimular arranjos institucionais e mecanismos de financiamento inovadores na provisão habitacional, em parceria com os entes subnacionais.
+
+No escopo das iniciativas incluem-se: Parcerias Público-Privadas, Mercado de Capitais, Recursos de Estados e Municípios, Microcrédito para Reformas, Aluguel Social, entre outras.
+Entre os setores vulneráveis priorizados, incluem-se as famílias que tenham a mulher como responsável; que tenham em sua composição pessoas com deficiência, idosas, crianças e adolescentes; que estejam em situação de risco e vulnerabilidade; que sejam vítimas de situações de emergência e calamidade ou de deslocamento involuntário em razão de obras públicas federais; que se encontrem em situação de rua crônica.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Objetivo Específico: 510
+Enunciado: Ampliar o volume de crédito habitacional a fim de contribuir para o desenvolvimento econômico e social
+Descrição: Direcionar recursos das fontes de crédito habitacional disponíveis com vistas a estimular a atividade econômica e a geração de empregos
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2320
+
+Exercício: 2025
+Programa: 2320
+Objetivo: 1260
+Enunciado: Promover moradia digna às famílias residentes em áreas urbanas e rurais com a garantia do direito à cidade, associado ao desenvolvimento urbano e econômico, à geração de trabalho e de renda e à elevação dos padrões de habitabilidade e de qualidade de vida da população.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2320
+
+Exercício: 2025
+Programa: 2320
+Título: Moradia Digna
+Tipo: Finalístico
+Órgão: 56000.0
+Público-Alvo: Famílias de baixa renda com dificuldade de acesso à moradia digna, residentes em assentamentos precários e/ou em condições de vulnerabilidade social.
+Descrição Do Problema: Dificuldade de acesso à moradia e condições inadequadas de moradia.
+Causa Do Problema: •	Baixa Capacidade de Planejamento e Articulação Institucional na Área de Habitação;
+•	Informalidade do Parcelamento do Solo Urbano;
+•	Oferta Imobiliária Incompatível com as Necessidades Habitacionais;
+•	Dificuldade de acesso à assistência técnica e a materiais de construção;
+•	Inadequação de infraestrutura urbana em assentamentos precários.
+Evidências Do Problema: •	Déficit Habitacional de absoluto = 5,96 milhões de domicílios (Fundação João Pinheiro, 2019);
+•	Demanda futura por moradias = 1,07 milhões de moradias por ano, de 2020 a 2040 (Universidade Federal Fluminense, 2022, dados preliminares).
+Justificativa Para A Intervenção: •	Crescimento da informalidade e precariedade habitacional;
+•	População sem acesso a moradia digna;
+•	Moradias mal inseridas na malha urbana.
+Evolução Histórica: Considerando o ano de 2009 como início da série histórica, houve uma tendência de queda do déficit habitacional absoluto, especialmente da participação do componente de coabitação familiar. A partir de 2012 essa tendência de queda é alterada e o déficit habitacional passa a crescer novamente, com a ampliação da participação do ônus excessivo com aluguel.
+Relação Com Os Ods: 11.1 - Até 2030, garantir o acesso de todos à habitação segura, adequada e a preço acessível, e aos serviços básicos e urbanizar as favelas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

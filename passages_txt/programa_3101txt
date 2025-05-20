@@ -1,0 +1,1289 @@
+passage: Programa Número 3101
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 10
+Entrega: 3183
+Indicador: 12556
+Denominação: Atender unidades do Programa Luz para Todos
+Em Apuração: Sim
+Unidade De Medida: unidades consumidoras
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 10
+Entrega: 3184
+Indicador: 12557
+Denominação: Atender unidades do Programa Luz para Todos
+Em Apuração: Sim
+Unidade De Medida: unidades consumidoras
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3430
+Indicador: 12792
+Denominação: % de execução do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador é relevante para acompanhar a execução do Projeto LTO de Angra 1
+Período Ou Data A Que Se Refere: mês  anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3219
+Indicador: 12564
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3189
+Indicador: 12562
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3186
+Indicador: 12559
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3188
+Indicador: 12561
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3187
+Indicador: 12560
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3218
+Indicador: 12563
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3185
+Indicador: 12558
+Denominação: Expandir a capacidade instalada após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3198
+Indicador: 12573
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km/MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3223
+Indicador: 12577
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3231
+Indicador: 12585
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3233
+Indicador: 12587
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3230
+Indicador: 12584
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3229
+Indicador: 12583
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3196
+Indicador: 12571
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3228
+Indicador: 12582
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3195
+Indicador: 12570
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3194
+Indicador: 12569
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km/MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3227
+Indicador: 12581
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Polaridade: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3226
+Indicador: 12580
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3225
+Indicador: 12579
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3224
+Indicador: 12578
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3222
+Indicador: 12576
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3193
+Indicador: 12568
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km/MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3192
+Indicador: 12567
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3221
+Indicador: 12575
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3236
+Indicador: 12590
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3191
+Indicador: 12566
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3232
+Indicador: 12586
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3234
+Indicador: 12588
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3235
+Indicador: 12589
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3190
+Indicador: 12565
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3220
+Indicador: 12574
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3197
+Indicador: 12572
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Não
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3268
+Indicador: 12604
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3249
+Indicador: 12603
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km; MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3248
+Indicador: 12602
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km/MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3247
+Indicador: 12601
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3246
+Indicador: 12600
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km/MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3237
+Indicador: 12591
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3238
+Indicador: 12592
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3245
+Indicador: 12599
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3239
+Indicador: 12593
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3240
+Indicador: 12594
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3244
+Indicador: 12598
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3243
+Indicador: 12597
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3241
+Indicador: 12595
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3242
+Indicador: 12596
+Denominação: Expandir o sistema de transmissão após conclusão da obra
+Em Apuração: Sim
+Unidade De Medida: MVA
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 44
+Indicador: 8956
+Denominação: Expansão da capacidade instalada de geração de energia elétrica no sistema elétrico brasileiro
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: MW
+Descrição: A expansão da capacidade instalada centralizada de geração de energia elétrica refere-se ao aumento da oferta total disponível das usinas geradoras que compõem o Sistema Interligado Nacional (SIN) ou os Sistemas Isolados. Esse crescimento é realizado por meio da entrada em operação de novos empreendimentos de usinas hidrelétricas, termelétricas, eólicas, solares, entre outras.
+Período Ou Data A Que Se Refere: més anterior ao mês corrente
+Data De Divulgação/Disponibilização: Até o final do mês subsequente ao mês corrente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Xi: Soma mensal de todas as novas usinas que entraram em operação comercial no sistema elétrico brasileiro, sem considerar MMGD
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Energia Elétrica - ANEEL
+Forma De Disponibilização: https://portalrelatorios.aneel.gov.br/Ralie
+Procedimento De Cálculo: Total da expansão da capacidade instalada de geração de energia elétrica no sistema elétrico brasileiro (MW). Ao acessar o Painel de Acompanhamento Expansão de Ofertas, Previsão, Operação comercial da Aneel, acessar a seção Histórico e tendência mensal e verificar a expansão  da capacidade instalada realizada.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 40
+Indicador: 9124
+Denominação: Expansão do sistema de transmissão de energia elétrica no sistema elétrico brasileiro
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: km
+Descrição: As linhas de transmissão permitem a integração e a otimização energética dos recursos localizados em diferentes áreas geográficas. O seu mapeamento reflete o grau de integração do sistema elétrico brasileiro e a expansão da malha, em benefício da segurança do atendimento energético. Especificação da unidade de medida: km de linha instalada (em operação)
+Período Ou Data A Que Se Refere: Mensal com defasagem de três meses
+Data De Divulgação/Disponibilização: Até 3 meses após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: extensões das linhas de transmissão de energia elétrica instaladas no sistema elétrico brasileiro que foram instaladas no mês
+Fonte De Dados Das Variáveis De Cálculo: MME, ANEEL e ONS
+Forma De Disponibilização: Boletim de Monitoramento do Sistema Elétrico — Ministério de Minas e Energia - https://www.gov.br/mme/pt-br/assuntos/secretarias/secretaria-nacional-energia-eletrica/publicacoes/boletim-de-monitoramento-do-sistema-eletrico
+Procedimento De Cálculo: Soma das extensões das linhas de transmissão de energia elétrica instaladas no sistema elétrico brasileiro que foram instaladas no mês (km)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Entrega: 3385
+Indicador: 12721
+Denominação: Linhas de transmissão de energia elétrica Construídas
+Em Apuração: Não
+Unidade De Medida: km
+Descrição: Este indicador acompanha as linhas de transmissão previstas no PAC (Programa de Aceleração do Crescimento) para construção até 2027. Essas obras são essenciais para integrar fontes de energia distribuídas pelo território nacional, melhorar a interconexão do sistema elétrico e garantir o suprimento energético com confiabilidade em todo o país
+Período Ou Data A Que Se Refere: mês anterior ao mês de referência
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Linha de transmissão de energia elétrica construída no  ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar as Linhas de transmissão ; 2) Somar o total (KM) de linhas de transmissão construídas durante o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 10
+Entrega: 43
+Indicador: 8915
+Denominação: Novas unidades consumidoras atendidas pelo Programa Luz Para Todos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de famílias em situação de vulnerabilidade, residentes nas áreas rurais e regiões remotas do país, que passaram a ter acesso pleno e contínuo ao serviço de distribuição de energia elétrica. Corresponde ao quantitativo absoluto de ligações realizadas no último período, adicionada ao acumulado no período anterior.
+Período Ou Data A Que Se Refere: Exercício atual
+Data De Divulgação/Disponibilização: Final de cada exercício
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável A - Unidades consumidoras atendidas pelo Programa Luz Para Todos (ANO "X")
+Variável B - Unidades consumidoras previstas para serem atendidas pelo Programa Luz Para Todos (ANO "X-1")
+Fonte De Dados Das Variáveis De Cálculo: Ministério de Minas e Energia - MME
+Forma De Disponibilização: Site MME (seção a ser definida)
+Procedimento De Cálculo: Quantidade de novas unidades consumidoras atendidas pelo Programa
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 9
+Entrega: 114
+Indicador: 8914
+Denominação: Número de novas unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A Lei nº 14.300/2022 prevê o Programa de Energia Renovável Social (PERS), destinado a investimentos na instalação de sistemas fotovoltaicos e de outras fontes renováveis, na modalidade local ou remota compartilhada, aos consumidores da Subclasse Residencial Baixa Renda
+Período Ou Data A Que Se Refere: Semestre do exercício atual
+Data De Divulgação/Disponibilização: Final de cada semestre
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Xn: Número de unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída no semestre x 
+Xn-1: Número de unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída no semestre
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Energia Elétrica - ANEEL
+Forma De Disponibilização: Site MME (seção a ser definida)
+Procedimento De Cálculo: A Aneel disponibilizará os dados para o cálculo do indicador.
+Notas Explicativas: MME está interagindo com a ANEEL para a divulgação do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 2246
+Indicador: 11609
+Denominação: Número de restrições operativas saneadas nos reservatórios do sistema elétrico brasileiro
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: No Plano de Recuperação de Reservatórios de Regularização de Usinas Hidrelétricas do País, instituído pela Lei 14.182/2021, constam ações voltadas à identificação e estudo de restrições operativas que mereçam ser tratadas para ampliar a flexibilidade operativa e o aproveitamento da energia armazenada no Sistema, sendo essencial a redução do número de restrições cadastradas no Sistema de Gestão da Atualização de Restrições Hidráulicas do ONS. A apuração do indicador se dará com a contabilização acumulada do número de restrições operativas sanadas a partir de 30/06/2023, considerando as registradas no Sistema de Gestão da Atualização de Restrições Hidráulicas, mantido pelo Operador Nacional do Sistema Elétrico (ONS). O O objetivo deste indicador é monitorar e garantir a melhoria das condições operacionais dos reservatórios, minimizando restrições que possam afetar a geração de energia, a navegabilidade e outros usos múltiplos dos recursos hídricos
+Período Ou Data A Que Se Refere: semestre anterior ao corrente
+Data De Divulgação/Disponibilização: Final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ni:Total do número de restrições operativas sanadas a partir de 30/06/2023. Apuração do número de restrições sanadas tendo como data referencial aquelas registradas até 30/06/2023 no Sistema de Gestão da Atualização de Restrições Hidráulicas, acessado por meio do Portal SINTEGRE
+Fonte De Dados Das Variáveis De Cálculo: Operador Nacional do Sistema Elétrico (ONS).
+Forma De Disponibilização: Sistema de Gestão da Atualização de Restrições Hidráulicas, acessado por meio do Portal SINTEGRE do Operador Nacional do Sistema Elétrico (ONS)
+Procedimento De Cálculo: Informação disponibilizada pelo ONS. Apuração do número de restrições sanadas tendo como data referencial aquelas registradas até 30/06/2023 no Sistema do ONS
+Limitações: Eventuais restrições orçamentárias podem comprometer os resultados obtidos.
+Notas Explicativas: As restrições operativas em reservatórios de usinas hidrelétricas podem ter vários impactos significativos, tanto do ponto de vista técnico quanto do ponto de vista socioeconômico e ambiental. Desta forma, é essencial o tratamento das causas que levam à restrição operativa com investimentos e gestão em ações que: 
+Sanem as limitações operacionais que prejudiquem o aproveitamento da capacidade máxima de geração de energia de forma eficiente.
+1.	Garantam a gestão e o uso múltiplo dos recursos hídricos, quando estão relacionadas por exemplo à manutenção do acesso de água para abastecimento humano, agricultura e indústria. 
+2.	Promovam o controle de cheias e minimização dos impactos das secas quando relacionadas à capacidade das usinas de controlar enchentes e regularizar vazões.
+3.	Reduzam impactos ambientais, quando visam contornar ou minimizar impactos no  ecossistemas aquáticos e terrestres ao redor do reservatório.
+4.	Garantam modicidade tarifária e segurança energética ao país. As restrições operativas nas hidrelétricas podem aumentar a dependência de outras fontes de energia, como termelétricas, em períodos de baixa produção hidrelétrica. A gestão das restrições hidráulicas é essencial para melhorar a disponibilidade energética sobretudo para enfrentamento de momentos de stress hídrico.
+5.	Além dos investimentos na melhoria estrutural, a realização de estudos para aperfeiçoamento do monitoramento e análise de impactos das restrições no SIN serão essenciais, para a realização de planejamento adequado ao atendimento do objetivo de manutenção da disponibilidade operacional da capacidade de geração instalada no país.
+MME está interagindo com o ONS para a divulgação do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 80
+Entrega: 147
+Indicador: 8951
+Denominação: Número de unidades consumidoras incluídas no Programa
+Índice De Referência: 1569191.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidades consumidoras
+Descrição: Número de unidades consumidoras incluídas no Programa Tarifa Social de Energia Elétrica
+Período Ou Data A Que Se Refere: Semestre do exercício atual
+Data De Divulgação/Disponibilização: Final de cada semestre
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Famílias atendidas pelo Programa: famílias que fazem jus a TSEE
+Fonte De Dados Das Variáveis De Cálculo: Famílias atendidas pelo Programa: ANEEL
+Forma De Disponibilização: https://www2.aneel.gov.br/aplicacoes_liferay/relatorios_de_qualidade_v2/
+Procedimento De Cálculo: Número de unidades consumidoras incluídas no Programa: Selecione Tarifa Social de Energia Elétrica -> Evolução Mensal TSEE Brasil -> Coluna "Baixa Renda"
+Limitações: Requer estabelecimento de premissas para cálculo do público potencial (MDS, ANEEL)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Entrega: 3374
+Indicador: 12703
+Denominação: Usina Termelétrica construída
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Descrição: Este indicador refere-se às usinas termelétricas construídas integrantes do Novo Programa de Aceleração do Crescimento (PAC), com previsão de entrada em construção  até 2027.
+Período Ou Data A Que Se Refere: mês anterior ao  mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: usina construída no ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar as Usinas Termelétircas ; 2) Somar a quantidade de usinas construídas durante o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 9
+Entrega: 3401
+Indicador: 12742
+Denominação: XXX
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Período Ou Data A Que Se Refere: mês  anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Sim
+
+passage: Programa Número 3101
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Indicador: 8954
+Denominação: Capacidade instalada de geração de energia elétrica no sistema elétrico brasileiro
+Índice De Referência: 189127.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Descrição: A geração de energia elétrica permite explorar diferentes recursos energéticos com a finalidade de prover o suprimento aos consumidores. O objetivo do indicador é auxiliar na avaliação se tal suprimento (com foco na capacidade instalada de geração) está ocorrendo de forma segura e contínua.
+Período Ou Data A Que Se Refere: Semestre do exercício atual
+Data De Divulgação/Disponibilização: Final de cada semestre
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Xi: Soma das capacidades instaladas de geração de energia elétrica em operação comercial no sistema elétrico brasileiro (MW)
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Energia Elétrica - ANEEL
+Forma De Disponibilização: https://app.powerbi.com/view?r=eyJrIjoiNGE3NjVmYjAtNDFkZC00MDY4LTliNTItMTVkZTU4NWYzYzFmIiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9
+Procedimento De Cálculo: Soma das capacidades instaladas de geração de energia elétrica (potência fiscalizada pela ANEEL, de cada usina) em operação comercial no sistema elétrico brasileiro (MW)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Indicador: 8815
+Denominação: Linhas de transmissão de energia elétrica instaladas no sistema elétrico brasileiro
+Índice De Referência: 185224.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: km
+Descrição: As linhas de transmissão permitem a integração e a otimização energética dos recursos localizados em diferentes áreas geográficas. O seu mapeamento reflete o grau de integração do sistema elétrico brasileiro e a expansão da malha, em benefício da segurança do atendimento energético
+Período Ou Data A Que Se Refere: Mensal com defasagem de três meses
+Data De Divulgação/Disponibilização: Até 3 meses após o mês de referência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Linhas de transmissão de energia elétrica instaladas no sistema elétrico brasileiro
+Fonte De Dados Das Variáveis De Cálculo: MME, ANEEL e ONS
+Forma De Disponibilização: Foma de disponibilização: Boletim de Monitoramento do Sistema Elétrico — Ministério de Minas e Energia - https://www.gov.br/mme/pt-br/assuntos/secretarias/secretaria-nacional-energia-eletrica/publicacoes/boletim-de-monitoramento-do-sistema-eletrico
+Procedimento De Cálculo: Soma das extensões das linhas de transmissão de energia elétrica instaladas no sistema elétrico brasileiro
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 9
+Indicador: 8913
+Denominação: Número de unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A Lei nº 14.300/2022 prevê o Programa de Energia Renovável Social (PERS), destinado a investimentos na instalação de sistemas fotovoltaicos e de outras fontes renováveis, na modalidade local ou remota compartilhada, aos consumidores da Subclasse Residencial Baixa Renda
+Período Ou Data A Que Se Refere: Semestre do exercício atual
+Data De Divulgação/Disponibilização: Final de cada semestre
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x: Número de unidades consumidoras da Subclasse Residencial Baixa Renda com acesso à Micro e Mini Geração Distribuída
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Energia Elétrica - ANEEL
+Forma De Disponibilização: Comunicação administrativa e https://app.powerbi.com/view?r=eyJrIjoiY2VmMmUwN2QtYWFiOS00ZDE3LWI3NDMtZDk0NGI4MGU2NTkxIiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9
+Procedimento De Cálculo: A Aneel disponibilizará os dados para o cálculo do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 10
+Indicador: 9100
+Denominação: Percentual de atendimento à demanda de universalização
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A Lei nº 10.438/2002 prevê a universalização do serviço público de energia elétrica e o Programa Luz para Todos foi criado com esse objetivo
+Período Ou Data A Que Se Refere: Semestre do exercício atual
+Data De Divulgação/Disponibilização: Final de cada exercício
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de novas unidades consumidoras atendidas pelo Programa: número de unidades consumidoras que passaram a ter acesso à energia elétrica por meio do programa de universalização 
+Número total de unidades consumidoras previstas para serem atendidas pelo Programa: número de unidades consumidoras sem acesso à energia elétrica e que seja público alvo do programa de universalização
+Fonte De Dados Das Variáveis De Cálculo: Ministério de Minas e Energia - MME
+Forma De Disponibilização: Site MME (seção a ser definida)
+Procedimento De Cálculo: Indicador será divulgado Site MME (seção a ser definida)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 80
+Indicador: 8948
+Denominação: Público total atendido pela Tarifa Social de Energia Elétrica
+Índice De Referência: 17041908.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: A Lei nº 12.212/2010 prevê o público alvo da Tarifa Social de Energia Elétrica (TSEE) e, por meio do indicador, busca-se avaliar a taxa de cobertura da política em relação a esse público alvo.
+Período Ou Data A Que Se Refere: Semestre do exercício atual
+Data De Divulgação/Disponibilização: Final de cada semestre
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X: Famílias atendidas pelo Programa: famílias que fazem jus a TSEE;
+Fonte De Dados Das Variáveis De Cálculo: Famílias atendidas pelo Programa: ANEEL;
+Forma De Disponibilização: Comunicação administrativa e https://www2.aneel.gov.br/aplicacoes_liferay/relatorios_de_qualidade_v2/
+Procedimento De Cálculo: Família atendidas pelo Programa: O quantitativo é apurado mês a mês como valor absoluto no site https://www2.aneel.gov.br/aplicacoes_liferay/relatorios_de_qualidade_v2/ 
+Selecione Tarifa Social de Energia Elétrica -> Acompanhamento Mensal por Estado -> Mês de Referência -> Coluna "Baixa Renda" (Total).
+Limitações: Requer estabelecimento de premissas para cálculo do público potencial (MDS, ANEEL). Não há elementos para prever o crescimento do público atendido. Os beneficiários precisam estar inclusos na base do CadÚnico para fazer jus à TSEE.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3101
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 9
+Enunciado: Viabilizar acesso à geração distribuída pela população de baixa renda
+Descrição: Garantir o acesso pleno e contínuo à energia elétrica às populações em situação de vulnerabilidade por meio do acesso à geração distribuída.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 10
+Enunciado: Universalizar o acesso à energia elétrica - Programa Luz para Todos
+Descrição: Garantir o acesso pleno e contínuo à energia elétrica a populações em situação de vulnerabilidade, especialmente em áreas rurais, isoladas e remotas, promovendo equidade, inclusão social e o desenvolvimento sustentável.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 11
+Enunciado: Expandir a capacidade instalada de geração de energia elétrica
+Descrição: Expandir a capacidade instalada de geração de energia elétrica no Sistema Elétrico Brasileiro - SEB, em MW (sem considerar Micro e Minigeração Distribuída - MMGD), com vistas a garantia da segurança e da continuidade do suprimento eletroenergético em todo o território nacional.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 12
+Enunciado: Expandir o sistema de transmissão de energia elétrica
+Descrição: Expandir o sistema de transmissão de energia elétrica no Sistema Elétrico Brasileiro - SEB, com vistas a garantia da segurança e da continuidade do suprimento eletroenergético em todo o território nacional
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Objetivo Específico: 80
+Enunciado: Reduzir a pobreza energética
+Descrição: Promover a justiça tarifária, por meio da ampliação do acesso à Tarifa Social de Energia Elétrica, garantindo que famílias de baixa renda, povos indígenas e quilombolas usufruam do benefício legal, contribuindo para a redução da pobreza energética.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 3101
+
+Exercício: 2025
+Programa: 3101
+Objetivo: 1262
+Enunciado: Assegurar o suprimento de energia elétrica ao mercado brasileiro com justiça social e sustentabilidade econômica e ambiental.
+Descrição: Garantir o fornecimento contínuo e confiável de energia elétrica em todo o território brasileiro, promovendo a inclusão social, a equidade no acesso aos recursos energéticos com a adoção de práticas sustentáveis equilibrando os aspectos econômicos, ambientais e sociais do desenvolvimento.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3101
+
+Exercício: 2025
+Programa: 3101
+Título: Energia Elétrica
+Tipo: Finalístico
+Órgão: 32000.0
+Público-Alvo: Consumidores de energia elétrica de todos os portes, especialmente os vulneráveis socialmente, e agentes do setor elétrico.
+Descrição Do Problema: Desafio em viabilizar o acesso universal e o uso da energia elétrica em quantidade e qualidade adequadas ao consumidor final, dentro de um contexto de modicidade tarifária e sustentabilidade econômica e socioambiental
+Causa Do Problema: Desafios relativos ao planejamento e à operação de matriz de geração de energia elétrica predominantemente renovável, com a participação cada vez maior de recursos inflexíveis e não despacháveis centralizadamente e de eventos climáticos extremos, bem como os desafios associados aos usos múltiplos da água e ao desequilíbrio de tratamento entre consumidores de energia elétrica.
+Evidências Do Problema: Situações de reduzida confiabilidade de atendimento de energia elétrica e elevação expressiva das tarifas de energia elétrica nos últimos anos.
+Justificativa Para A Intervenção: Energia elétrica é um insumo essencial para a qualidade de vida da população e para o crescimento econômico.
+Relação Com Os Ods: ODS 7
+Agentes Envolvidos: Agentes Envolvidos: Ministério de Minas e Energia, ENBPar(Empresa Brasileira de Participações em Energia Nuclear e Binacional), ANEEL (Agência Nacional de Energia Elétrica), ONS (Operador Nacional do Sistema Elétrico), EPE (Empresa de Pesquisa Energética), CCEE (Câmara de Comercialização de Energia Elétrica),agentes setoriais, órgãos do governo.
+Marco Legal: CF/88, art. 174; Lei nº 10.438, de 26.4.2002; Lei n° 14.300, de 6.1.2022; Decreto n° 7.583, de 13.10.2011;  Decreto n° 11.628, de 4.8.2023; Portarias MME nº 150, de 10 de maio de 1999; nº 485, de 16 de dezembro
+de 1999; nº 323, de 30 de agosto de 2000 e nº 651, de 30 de dezembro de 2002; Resolução Normativa ANEEL nº 1.000, de 7.12.2021  .
+Planos Nacionais, Setoriais E Regionais: Plano Decenal de Expansão de Energia, Plano Nacional de Energia Elétrica e Plano de Recuperação dos Reservatórios de Regularização de Usinas Hidrelétricas do País (PRR).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

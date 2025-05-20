@@ -1,0 +1,629 @@
+passage: Programa Número 4104
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 290
+Entrega: 2093
+Indicador: 11443
+Denominação: Índice de celeridade na celebração acordos de leniência
+Sigla: ICCAL
+Índice De Referência: 25.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Quanto à celebração de acordos de leniência, identifica-se ao menos três benefícios diretamente relacionados ao Programa: a recuperação de valores em si, a necessária adoção de programas de integridade pelas empresas lenientes, e o auxílio às investigações decorrentes da colaboração. Indispensável à obtenção destes três benefícios é a célere resposta da Administração para as solicitações de acordos realizadas, seja para o aumento da confiança no instituto, seja para a rápida obtenção dos benefícios almejados pelo poder público.
+Período Ou Data A Que Se Refere: Ano ou período anterior (com medições parciais trimestrais)
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = total de casos de leniência concluídos no ano, em que entre a data da proposta e o encerramento do caso transcorreram menos de três anos
+y = total de casos de leniência concluídos no ano.
+Fonte De Dados Das Variáveis De Cálculo: SISGRU e os Ofícios declaratórios das empresas
+Forma De Disponibilização: Relatório da atividade em transparência ativa.
+Procedimento De Cálculo: Ao final do exercício são verificados e apurados o total casos de leniência concluídos, em que entre a proposta e a conclusão transcorreram menos de três anos, bem como o total geral de casos concluídos no ano; então divide-se o primeiro quantitativo pelo segundo, subsequentemente multiplicando-se por 100 para se chegar ao resultado do índice de celeridade na celebração acordos de leniência.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 290
+Entrega: 594
+Indicador: 9545
+Denominação: Número de adesões ao sistema
+Sigla: NME
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Número de adesões ao sistema SAMPI por estados e municípios
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NME = Número de adesões ao sistema de avaliação de programas de integridade - SAMPI
+Fonte De Dados Das Variáveis De Cálculo: Ferramenta de controle de adesão de entes federados ao SAMPI.
+Forma De Disponibilização: Relatório da atividade em transparência ativa.
+Procedimento De Cálculo: Ao final de cada ano será apurado, na "Ferramenta de controle de adesões de entes federados ao SAMPI", o nº de entes federados (estados ou municípios) que fizeram adesão ao SAMPI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 290
+Entrega: 2247
+Indicador: 11610
+Denominação: Número de pessoas capacitadas
+Sigla: PesCap
+Índice De Referência: 539.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Número de pessoas capacitadas
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PesCap = número de pessoas capacitadas na aplicação da Lei Anticorrupção - LAC durante o ano ou exercício anterior
+x = número de certificados de aplicação da LAC emitidos pela ENAP no ano ou exercício anterior
+y = número de certificados de aplicação da LAC emitidos pela CGU no ano ou exercício anterior
+Fonte De Dados Das Variáveis De Cálculo: Sistema ENAP e registros internos da CGU de emissão de certificados.
+Forma De Disponibilização: Relatório da atividade em transparência ativa
+Procedimento De Cálculo: Ao final de cada exercicio será aferido, no Sistema da ENAP e nos registros internos da CGU, o nº de certificados emitidos para capacitações relacionadas à aplicação da LAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 288
+Entrega: 583
+Indicador: 9518
+Denominação: Número de políticas priorizadas com implementação da metodologia de avaliação de serviços a partir de manifestações de ouvidoria
+Sigla: MTP
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Número de políticas priorizadas com implementação da metodologia de avaliação de serviços a partir de manifestações de ouvidoria
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MTP = número de políticas priorizadas com implementação da metodologia de avaliação de serviços a partir de manifestações de ouvidoria
+PMI = total de políticas com metodologia implementada
+TPP = total de políticas priorizadas
+Fonte De Dados Das Variáveis De Cálculo: Levantamento anual de políticas públicas nas quais a metodologia tenha sido implementada pela CGU (Fala.BR).
+Forma De Disponibilização: Relatório de Gestão OGU; Relatório Temático de Avaliação de Serviços Públicos, a ser disponibilizado no portal ouvidorias.gov (gov.br/ouvidorias).
+Procedimento De Cálculo: Total de políticas com metodologia implementada (PMI) / Total de políticas priorizadas (TPP) - A CGU priorizará as políticas e os serviços associados a elas a partir de critérios a serem definidos, relacionados à manifestação de usuários junto às ouvidorias federais. A partir dessa priorização das políticas, alguns de seus serviços serão objeto de avaliação por meio da metodologia a ser implementada. O cálculo do indicador é o percentual das políticas priorizadas que efetivamente terão passado pela avaliação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 287
+Entrega: 576
+Indicador: 9509
+Denominação: Número de processos correcionais concluídos
+Sigla: QPI
+Índice De Referência: 49.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de processos correcionais concluídos
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TPC = Total de processos correcionais concluídos;
+PDACON_CGU = Total de processos disciplinares acusatórios concluídos pela CGU; e
+PDITAC_CGU = Total de procedimentos disciplinares investigativos que resultaram em TAC na CGU.
+Fonte De Dados Das Variáveis De Cálculo: E-PAD e CGU-PAD
+Forma De Disponibilização: Painel correição em dados que se encontra no Portal de Corregedorias - link - https://centralpaineis.cgu.gov.br/visualizar/corregedorias.
+Procedimento De Cálculo: Somatório do total de processos disciplinares acusatórios concluídos pela CGU com o total de procedimentos disciplinares investigativos que resultaram em TAC na CGU.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 287
+Entrega: 1546
+Indicador: 10732
+Denominação: Número de processos correcionais concluídos com aplicação de apenação ou celebração de Termo de Ajustamento de Conduta
+Sigla: PPC
+Índice De Referência: 36.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de processos correcionais concluídos com aplicação de apenação.
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TPCA = Total de processos correcionais concluídos com alguma apenação e/ou TAC;
+PDAPENOUTAC_CGU = Total de processos disciplinares acusatórios concluídos pela CGU com alguma apenação e/ou TAC;
+PDITAC_CGU = Total de procedimentos disciplinares investigativos que resultaram em TAC na CGU;
+Fonte De Dados Das Variáveis De Cálculo: E-PAD e CGU-PAD.
+Forma De Disponibilização: Painel Correição em dados que se encontra no Portal de Corregedorias -  https://centralpaineis.cgu.gov.br/visualizar/corregedorias.
+Procedimento De Cálculo: Soma-se o Total de processos disciplinares acusatórios concluídos pela CGU com alguma apenação e/ou TAC (PDAPENOUTAC_CGU) com o  Total de procedimentos disciplinares investigativos que resultaram em TAC na CGU (PDITAC_CGU).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 291
+Entrega: 632
+Indicador: 9578
+Denominação: Percentual de aumento dos órgãos e entidades com Planos de integridade vigentes no SITAI
+Sigla: PUP
+Índice De Referência: 61.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentagem
+Descrição: Total de órgãos e entidades do SITAI com plano de integridade vigente em relação ao total de órgãos e entidades do SITAI. A partir do percentual atual de planos vigentes, calcula-se o incremento com base em 70% das unidades com planos vigentes, dividindo o resultado por 0,7.
+Período Ou Data A Que Se Refere: Data da última autoavaliação
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PUP = percentual de aumento dos órgão e entidades com Planos de integridade vigentes no SITAI;
+UPI = número de unidades com Planos de integridade vigentes no SITAI;
+USITAI = total de unidades do SITAI.
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento da Integridade a ser realizado pela CGU utilizando-se de sistemas/controles internos da CGU.
+Forma De Disponibilização: Painel, disponível em https://www.gov.br/cgu/pt-br/centrais-de-conteudo/paineis.
+Procedimento De Cálculo: Aferir o número de unidades com Planos de integridade vigentes no SITAI, dividir pelo número total de unidades do SITAI e multiplicar por 100. Calcular o aumento percentual em relação a linha de base de 70%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 291
+Entrega: 634
+Indicador: 9579
+Denominação: Percentual de cumprimento de obrigações legais de transparência ativa pela administração pública federal
+Sigla: PCO
+Índice De Referência: 72.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentagem
+Descrição: Percentual de cumprimento de obrigações legais de transparência ativa pela administração pública federal
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCO = percentual de cumprimento de obrigações legais de transparência ativa pela administração pública federal
+OTA = número de cumprimento de obrigações legais de transparência ativa pela administração pública federal
+TOTA = total de Obrigações legais de transparência ativa cumpridas pela Administração Pública federal
+Fonte De Dados Das Variáveis De Cálculo: Painel Lei de Acesso à Informação, com base nas informações do Sistema de Transparência Ativa (STA) módulo da Plataforma Fala.BR.
+Forma De Disponibilização: Painel Lei de Acesso à Informação (https://centralpaineis.cgu.gov.br/visualizar/lai), aba "Transparência Ativa", dados "Avaliados" e "Cumpridos".
+Procedimento De Cálculo: Aferir o número de cumprimento de obrigações legais de transparência ativa pela administração pública federal (OTA), dividir pelo total de obrigações legais de transparência ativa cumpridas pela Administração Pública federal (TOTA) e multiplicar por 100.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 288
+Entrega: 584
+Indicador: 9519
+Denominação: Percentual de implementação do VI Plano de Ação de Governo Aberto
+Sigla: NPP
+Índice De Referência: 72.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: A CGU faz um monitoramento contínuo da execução de cada compromisso do Plano de Ação Brasileiro. A previsão é que o VI Plano contemple 8 compromissos. São realizadas reuniões semestrais com Coordenadores de Compromissos para verificar o grau de implementação dos marcos pactuados. São feitas também reuniões trimestrais de monitoramento com a equipe de cada compromisso para acompanhamento de sua execução, planejamento de estratégia e busca de soluções conjuntas. As informações são registradas nos Relatórios de Status de Execução, produzidos trimestralmente.
+Período Ou Data A Que Se Refere: Trimestralmente
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPP = percentual de implementação do VI Plano de Ação de Governo Aberto
+MI = marcos implementados
+MC = marcos compromissados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de execução elaborados pelos coordenadores de compromissos - os Relatórios de Status de Execução (RSEs) são documentos elaborados trimestralmente pelos coordenadores dos compromissos, com o auxílio de todas as organizações envolvidas. Esses documentos contêm o detalhamento da execução dos marcos (percentual de execução, links de comprovação da entrega, justificativa para atrasos etc). As informações contidas nos RSEs subsidiam as ações de monitoramento do plano e, consequentemente, a avaliação extena relativa ao cumprimento do Compromisso e possíveis necessidades de ajustes na estratégia de execução.
+Forma De Disponibilização: O indicador será disponibilizado no site de governo aberto, na seção específica relativa ao VI Plano de Ação Nacional: https://www.gov.br/cgu/pt-br/governo-aberto/a-ogp/planos-de-acao/6deg-plano-de-acao-brasileiro.
+Procedimento De Cálculo: Marcos implementados (MI) / Marcos compromissados (MC) - os marcos são as ações específicas pactuadas pelos atores responsáveis pela implementação dos compromissos. Diante disso, o cálculo considera o número de marcos que foram realizados em comparação ao número de marcos que foram definidos. Assim é possível medir o progresso de conclusão do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 289
+Entrega: 592
+Indicador: 10068
+Denominação: Quantidade de pessoas capacitadas em LAI
+Sigla: QPC
+Índice De Referência: 1364.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de pessoas capacitadas em LAI
+Período Ou Data A Que Se Refere: Trimestralmente
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Cap = quantidade de pessoas capacitadas em LAI
+Fonte De Dados Das Variáveis De Cálculo: Planilha de Controle da Diretoria de Articulação, Supervisão e Monitoramento do Acesso à Informação.
+Forma De Disponibilização: site - https://www.gov.br/acessoainformacao/pt-br/assuntos
+Procedimento De Cálculo: Somatório (∑) de pessoal capacitadas em LAI por meio de em cursos presenciais, lives e workshops realizados (Cap).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 5
+Entrega: 4
+Indicador: 8772
+Denominação: Quantidade de recomendações implementadas em auditorias sobre políticas públicas
+Sigla: ARI
+Índice De Referência: 110.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de recomendações da CGU implementadas pelo gestor nas políticas públicas, culminando em melhorias nas políticas.
+
+Referência Inicial: 110 auditorias em políticas públicas (PAINT 2023) - Meta: Aumentar 5% ao ano o número de auditorias sobre políticas públicas concluídas. 2024 - 115; 2025 - 121; 2026 - 127; 2027 - 133.
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ARI = quantidade de recomendações implementadas em auditorias sobre políticas públicas
+At = recomentações atendidas totalmente
+Ap = recomendações atendidas parcialmente
+Fonte De Dados Das Variáveis De Cálculo: Sistema e-Aud
+Forma De Disponibilização: Painel dos gestores da Atividade de Auditoria Interna Governamental na CGU - Módulo Resultados -  https://pbi-interno.cgu.gov.br/Reports/powerbi/Auditoria_Interna/SFC/CGPLAM/070_Painel_Resultados?rs:embed=true
+Procedimento De Cálculo: A Controladoria-Geral da União (CGU) realiza auditorias em órgãos públicos federais, estados e municípios para avaliar e recomendar melhorias sobre a aplicação de recursos públicos federais, a execução de programas de governo e a gestão dos administradores públicos. Os gestores públicos federais, ao implementarem as recomendações emitidas pelos auditores internos geram benefícios como, por exemplo, economia de recursos público. A partir desse indicador, busca-se a manutenção, no mínimo, de 2.100 recomendações feitas pela CGU e que sejam atendidas total ou parcialmente no exercício correspondente pelos gestores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4104
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 288
+Indicador: 9513
+Denominação: Avaliação de políticas públicas priorizadas a partir de manifestações de ouvidoria
+Sigla: APPPMO
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Avaliação de políticas públicas priorizadas a partir de manifestações de ouvidoria
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: APPPMO = avaliação de políticas públicas priorizadas a partir de manifestações de ouvidoria
+PMI = total de políticas com metodologia implementada
+TPP = total de políticas priorizadas
+Fonte De Dados Das Variáveis De Cálculo: Levantamento anual de políticas públicas nas quais a metodologia tenha sido implementada pela CGU (Fala.BR).
+Forma De Disponibilização: Relatório de Gestão OGU; Relatório Temático de Avaliação de Serviços Públicos, a ser disponibilizado no portal ouvidorias.gov (gov.br/ouvidorias).
+Procedimento De Cálculo: Total de políticas com metodologia implementada (PMI) / Total de políticas priorizadas (TPP) - A CGU priorizará as políticas e os serviços associados a elas a partir de critérios a serem definidos, relacionados à manifestação de usuários junto às ouvidorias federais. A partir dessa priorização das políticas, alguns de seus serviços serão objeto de avaliação por meio da metodologia a ser implementada. O cálculo do indicador é o percentual das políticas priorizadas que efetivamente terão passado pela avaliação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 287
+Indicador: 9500
+Denominação: Efetividade do juízo de admissibilidade correcional
+Sigla: EJA
+Índice De Referência: 70.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Efetividade do juízo de admissibilidade correcional
+Período Ou Data A Que Se Refere: Quadrimestre
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Quadrimestral
+Polaridade: Não se aplica
+Variáveis De Cálculo: Total de processos disciplinares acusatórios concluídos pela CGU com alguma apenação e/ou TAC = PDAPENOUTAC_CGU;
+Total de procedimentos disciplinares investigativos que resultaram em TAC na CGU = PDITAC_CGU; e
+Total de processos disciplinares acusatórios concluídos pela CGU = PDACON_CGU.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas da CGU
+Forma De Disponibilização: Relatórios, painéis e site.
+Procedimento De Cálculo: ((Total de processos disciplinares acusatórios concluídos pela CGU com alguma apenação e/ou TAC + Total de procedimentos disciplinares investigativos que resultaram em TAC na CGU)/ (Total de processos disciplinares acusatórios concluídos pela CGU +Total de procedimentos disciplinares investigativos que resultaram em TAC na CGU) x 100%)
+Limitações: A fórmula de cálculo informada não abrange processos avocados pela CGU.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 290
+Indicador: 9527
+Denominação: Índice de fomento à integridade privada
+Sigla: IFIP
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Este índice será calculado pela média do percentual do atingimento de cada uma das entregas deste OE.
+Período Ou Data A Que Se Refere: Anualmente
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Percentual de atingimento de cada entrega (adesões ao SAMPI, Índice de celeridade na celebração de acordos de leniência e Número de pessoas capacitadas na LAC)
+Fonte De Dados Das Variáveis De Cálculo: - Ferramenta de controle de adesão de entes federados ao SAMPI
+- Sistema eLeni e Registros internos de adimplemento dos acordos de leniência - consolidado pela CECON/SIPRI
+- Sistema ENAP e Registros internos de emissão de certificados presenciais.
+Forma De Disponibilização: - Painéis em Transparência Ativa no site da CGU
+Procedimento De Cálculo: Média do percentual do atingimento de cada uma das entregas deste OE.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 289
+Indicador: 9524
+Denominação: Percentual de pedidos de acesso à informação com cumprimento do prazo legal de resposta
+Sigla: PPLAI
+Índice De Referência: 96.92
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de pedidos de acesso à informação com cumprimento do prazo legal de resposta, calculado anualmente.
+Período Ou Data A Que Se Refere: Trimestralmente
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PPLAI = percentual de pedidos de acesso à informação com cumprimento do prazo legal de resposta
+PAIC = quantidade de pedidos de acesso à informação com cumprimento do prazo legal de resposta
+TPAI = quantidade total de pedidos de acesso à informação registrados no ano (TPAI)
+Fonte De Dados Das Variáveis De Cálculo: Painel da LAI: https://centralpaineis.cgu.gov.br/visualizar/lai
+Sítio/site: https://www.gov.br/acessoainformacao/pt-br/assuntos
+Forma De Disponibilização: Relatórios, sistema, painéis e site
+Procedimento De Cálculo: Quantidade de pedidos de acesso à informação com cumprimento do prazo legal de resposta” divido pelo “total de pedidos de acesso à informação registrados no ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 291
+Indicador: 9572
+Denominação: Percentual de validação da autoavaliação baseada no Modelo de Maturidade em Integridade Pública
+Sigla: MMIP
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Trata-se do percentual de unidades da administração direta, autárquica e fundacional que preencheram a autoavaliação em integridade pública disponibilizada pela CGU e tiveram suas respostas validadas conforme Modelo de Maturidade em Integridade Pública. O Modelo de Maturidade em Integridade Pública deverá ser implementado pelas unidades do SITAI (Sistema de Integridade, Transparência e Acesso à Informação do Poder Executivo federal) e abarcará itens de avaliação de nível de integridade, incluindo funções constantes nos sistemas de corregedoria, ouvidoria, controle interno, gestão da ética, transparência e outras essenciais ao funcionamento dos programas de integridade.
+Período Ou Data A Que Se Refere: Data da última autoavaliação
+Data De Divulgação/Disponibilização: janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MMIP =  Percentual de unidades com a autoavaliação em integridade pública validada pela CGU  conforme o Modelo de Maturidade em Integridade Pública (MMIP);
+UA = quantidade de órgãos e entidades do SITAI com a autoavaliação em integridade pública validada pela CGU  conforme o Modelo de Maturidade em Integridade Pública (MMIP);
+TU-SITAI = total de unidades do Sistema de Integridade, Transparência e Acesso à Informação do Poder Executivo federal (SITAI) que preencheram a autoavaliação.
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento da Integridade a ser realizado pela CGU utilizando-se de sistemas/controles internos da CGU
+Forma De Disponibilização: Painel, disponível em https://www.gov.br/cgu/pt-br/centrais-de-conteudo/paineis
+Procedimento De Cálculo: A CGU disponibiliza formulário de autoavaliação em integridade pública com base no Modelo de Maturidade Pública – MMIP. Assim, o órgão irá realizar ciclos de validação das respostas enviadas pelas unidades do SITAI. O indicador é resultante da razão entre as unidades da administração direta, autárquica e fundacional com respostas validadas pela CGU conforme Modelo de Maturidade em Integridade Pública e o total de unidades que preencheram a autoavaliação.
+Notas Explicativas: A CGU tem como duas das suas funções primordiais a promoção da integridade e a promoção da transparência na administração pública. A CGU é é órgão central do Sistema de Integridade, Transparência e Acesso à Informação do Poder Executivo federal e órgão de monitoramento da Lei de Acesso à Informação. Para cumprir com o seu papel, a CGU formula, coordena, fomenta e apoia a implementação de planos, programas e projetos voltados à promoção desses temas e articula nacional e internacionalmente nessas matérias.  
+A CGU coordena a gestão da Política de Dados Abertos do Poder Executivo federal e a Política de Transparência e Acesso à Informação do Poder Executivo federal. A CGU também é encarregada de monitorar e avaliar os programas de integridade pública dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 5
+Indicador: 8771
+Denominação: Quantidade de benefícios de grande relevância, alcançados pela administração pública pela implementação de orientação e/ou recomendações da CGU
+Sigla: BGR
+Índice De Referência: 71.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se do somatório da quantidade dos benefícios qualitativos e financeiros de grande relevância aprovados no ano de referência (dos níveis 1 e 2). Os benefícios financeiros e os qualitativos (de grande relevância) são decorrentes de ações de auditoria interna governamental (avaliações, apurações e consultorias) direcionadas à Administração Pública conduzidas no âmbito dos trabalhos demandados pela Secretaria Federal de Controle Interno - SFC, incluindo o exercício das atribuições de órgão central do Sistema de Controle Interno do Poder Executivo Federal.
+Período Ou Data A Que Se Refere: Ano ou exercício anterior
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: BGR = quantidade de benefícios de grande relevância, alcançados pela administração pública pela implementação de orientação e/ou recomendações da CGU
+Q = quantidade dos benefícios qualitativos de grande relevância aprovados no ano de referência (dos níveis 1 e 2)
+F = quantidade dos benefícios financeiros de grande relevância aprovados no ano de referência (dos níveis 1 e 2)
+Fonte De Dados Das Variáveis De Cálculo: Os valores contabilizados para benefícios financeiros e não financeiros são advindos de ações de auditoria interna governamental serão extraídos do sistema e-aud (painel https://pbi-interno.cgu.gov.br/Reports/powerbi/Auditoria_Interna/SFC/CGPLAM/070_Painel_Resultados?rs:embed=true)
+Forma De Disponibilização: Painel dos gestores da Atividade de Auditoria Interna Governamental na CGU - Módulo Resultados -  https://pbi-interno.cgu.gov.br/Reports/powerbi/Auditoria_Interna/SFC/CGPLAM/070_Painel_Resultados?rs:embed=true
+Procedimento De Cálculo: A Controladoria-Geral da União (CGU) realiza auditorias em órgãos públicos federais, estados e municípios para avaliar e recomendar melhorias sobre a aplicação de recursos públicos federais, a execução de programas de governo e a gestão dos administradores públicos. Os gestores públicos federais, ao implementarem as recomendações emitidas pelos auditores internos geram benefícios como, por exemplo, economia de recursos públicos, ganho de eficiência e melhoria da qualidade dos produtos e dos serviços entregues pelo Governo à Sociedade. O cálculo do indicadores será feito anualmente, considerando a metodologia da contabilização da CGU -https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/resultados/novo_resultados,  comparando-se o benefício apurado em relação ao valor de referência. A expectativa é de que, a cada ano, a CGU consiga alcançar um aumento de 5% em relação à meta do ano anterior, o que culminará nos seguintes valores:  2024: 75; 2025: 78; 2026: 82; 2027: 86.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4104
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 5
+Enunciado: Apoiar a gestão pública no ciclo das políticas públicas, promovendo equidade, eficiência no combate à desigualdade social e interregional e desenvolvimento educacional, etnico-racial e econômico-sustentável, levando em conta seu multiculturalismo
+Descrição: No contexto do ciclo das políticas públicas, o apoio aos gestores envolve fornecer suporte técnico, informações e recursos para que possam tomar decisões informadas e eficazes na formulação, implementação e avaliação de políticas. Isso inclui a disponibilização de dados relevantes e recomendações baseadas em evidências. A produção de evidências por meio de avaliações é fundamental para garantir que as políticas públicas sejam efetivas e atinjam seus objetivos. Através de métodos de avaliação, é possível analisar as políticas implementadas, identificar seus pontos fortes e fracos, e propor melhorias com base nos resultados obtidos. O combate à desigualdade social é uma das principais preocupações das políticas públicas, buscando reduzir as disparidades socioeconômicas entre diferentes grupos da população. Nesse sentido, o apoio aos gestores visa desenvolver políticas que promovam a inclusão social, a igualdade de oportunidades e o acesso a serviços essenciais, como saúde, educação, moradia e trabalho. Além disso, o objetivo de promover o desenvolvimento econômico sustentável do país envolve a adoção de medidas que estimulem o crescimento econômico de forma equilibrada e sustentável, considerando os aspectos sociais, ambientais e econômicos. Isso inclui a promoção de investimentos em setores estratégicos, a criação de empregos de qualidade, o estímulo à inovação e o fomento à produção sustentável.
+Órgão: 37000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 287
+Enunciado: Adotar medidas de remediação de ilícitos administrativos
+Descrição: Busca-se o fortalecimento das atividades correcionais e o fomento da cultura de integridade na Administração Pública, por meio da implementação de medidas efetivas para remediar ilícitos administrativos. Envolve a adoção de práticas que visem melhorar a efetividade correcional, buscando garantir a punibilidade dos agentes no decurso dos processos correcionais instaurados.
+Órgão: 37000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 288
+Enunciado: Implementar e aprimorar mecanismos e oportunidades que estimulem e permitam a qualquer pessoa interagir e colaborar com a administração pública federal, contribuindo para a melhoria das políticas e serviços públicos que atendam à demanda da sociedade
+Descrição: Implementar e aprimorar mecanismos e oportunidades que estimulem e permitam a qualquer pessoa interagir e colaborar com a administração pública federal, contribuindo para a melhoria das políticas e serviços públicos que atendam à demanda da sociedade de forma responsiva.​
+Órgão: 37000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 289
+Enunciado: Promover o Acesso à Informação na Administração Pública
+Descrição: Promover o Acesso à Informação na Administração Pública
+Órgão: 37000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 290
+Enunciado: Promover o fomento à integridade privada, contribuindo para a prevenção e o enfrentamento da corrupção​.
+Descrição: Promover o fomento à integridade privada, contribuindo para a prevenção e o enfrentamento da corrupção​.
+Órgão: 37000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Objetivo Específico: 291
+Enunciado: Promover a integridade e a transparência na administração pública
+Descrição: A CGU tem como duas das suas funções primordiais a promoção da integridade e a promoção da transparência na administração pública. A CGU é é órgão central do Sistema de Integridade, Transparência e Acesso à Informação do Poder Executivo federal e órgão de monitoramento da Lei de Acesso à Informação. Para cumprir com o seu papel, a CGU formula, coordena, fomenta e apoia a implementação de planos, programas e projetos voltados à promoção desses temas e articula nacional e internacionalmente nessas matérias. A CGU coordena a gestão da Política de Dados Abertos do Poder Executivo federal e a Política de Transparência e Acesso à Informação do Poder Executivo federal. A CGU também é encarregada de monitorar e avaliar os programas de integridade pública dos órgãos e das entidades da administração pública federal direta, autárquica e fundacional.
+Órgão: 37000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 4104
+
+Exercício: 2025
+Programa: 4104
+Objetivo: 1254
+Enunciado: Promover o aperfeiçoamento contínuo da gestão e da governança ambiental, social e corporativa e fortalecer a transparência, a integridade, o acesso à informação, a participação social e o enfrentamento da corrupção, contribuindo para responsividade e entrega efetiva de bens e serviços públicos de qualidade e para o aumento da confiança nas relações público-privadas.
+Descrição: Promover o aperfeiçoamento contínuo da gestão e da governança ambiental, social e corporativa e fortalecer a transparência, a integridade, o acesso à informação, a participação social e o enfrentamento da corrupção, contribuindo para responsividade e entrega efetiva de bens e serviços públicos de qualidade e para o aumento da confiança nas relações público-privadas.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4104
+
+Exercício: 2025
+Programa: 4104
+Título: Transparência, Integridade e Enfrentamento da Corrupção
+Tipo: Finalístico
+Órgão: 37000.0
+Público-Alvo: Estado, envolvendo os gestores, e sociedade.
+Descrição Do Problema: Existência de disfunções e assimetrias na relação entre sociedade e Estado e entre os próprios entes, devido ao foco reduzido no interesse público e baixa cultura de integridade, prejudicando o exercício de direitos da sociedade, da efetividade na entrega de bens e serviços e da confiança na administração pública.
+Causa Do Problema: 1) Possíveis falhas em processos de gestão das instituições, incluindo falhas na identificação, avaliação e tratamento de riscos; ausência de estratégias; ineficiência dos processos, entre outros;
+2) Possível insuficiência na transparência das ações estatais;
+3) Possível insuficiência da participação e controle sociais;
+4) Possíveis ocorrências de déficits de integridade e/ou atos de corrupção por parte de agentes públicos; 
+5) Possível sensação de impunidade, o que pode gerar estímulos a atos de corrupção; e
+6) Possível insuficiência na utilização de evidências e instrumentos de gestão centrados no cidadão.
+Evidências Do Problema: Entre 2012 e 2022, o Brasil perdeu 5 pontos no Índice de Percepção da Corrupção e caiu 25 posições, saindo da 69ª para a 94ª colocação. Os 38 pontos alcançados pelo país em 2022 representam um desempenho ruim e o coloca abaixo da média global (43 pontos), da média regional para América Latina e Caribe (43 pontos), da média dos BRICS (39 pontos) e ainda mais distante da média dos países do G20 (53 pontos) e da OCDE (66 pontos). Fonte: https://transparenciainternacional.org.br/ipc/
+Uma análise comparativa dos países da América Latina e Caribe sobre a despesa pública revela ineficiências e desperdícios. No caso do Brasil, essas ineficiências podem representar um prejuízo de até US$ 68 bilhões por ano, ou o equivalente a 3,9 por cento do PIB do país. Isso significa que há amplo espaço para a melhorar os serviços oferecidos à população sem implicar em aumento dos gastos públicos. Fonte: https://www.iadb.org/pt/gastos-publicos-ineficientes-no-brasil-chegam-39-do-pib-estudo-do-bid
+Com base nos trabalhos realizados pela Secretaria Federal de Controle Interno em 2022, a Controladoria-Geral da União (CGU) recomendou melhorias sobre a aplicação de recursos públicos federais, a execução de programas de governo e a gestão dos administradores públicos. Como fruto das recomendações dos auditores internos, foi possível apurar uma série de benefícios, financeiros ou não financeiros, como, por exemplo, economia de recursos públicos, ganho de eficiência e melhoria da qualidade dos produtos e dos serviços entregues pelo Governo à Sociedade. Desde 2012 a CGU aprovou benefícios financeiros no total de R$ 112,4 bilhões. Fonte: Relatório de Gestão CGU – 2022
+Quanto ao problema da possível insuficiência da Participação Social, no âmbito do acesso à informação, dados quantitativos revelam que o direito de acesso à informação ainda é utilizado por uma parcela muito baixa da população brasileira e por um grupo muito específico. Os dados do Fala.BR, sistema central de solicitações de acesso à informação do Poder Executivo federal, mostram que, desde 2012, apenas 555.422 pessoas já realizaram um pedido de acesso à Informação por meio da Plataforma. 
+Além da baixa taxa de participação, considerando a população brasileira, os dados revelam que o perfil dos usuários da LAI não é diversificado. Hoje em dia o perfil típico de um solicitante de informações ao governo é de um homem, branco, com nível superior e idade entre 25 e 35 anos. Entendemos que há espaço para se melhorar a efetividade da política de acesso à informação e, por conseguinte, da própria participação social, ao se promover ações com vistas a atingir uma ampliação do alcance desse direito tanto em termos numéricos como para outros extratos populacionais.
+Justificativa Para A Intervenção: A ineficiência é tão maléfica quanto a corrupção, pois ambas implicam em uma má utilização/desvios dos recursos públicos, o que contribui para a baixa efetividade das políticas públicas.
+Falhas nos controles internos da gestão pública aliadas a atos de improbidade administrativa, à inexistente ou insuficiente transparência das ações estatais e participação social, contribuem para um cenário de desperdício de recursos públicos que, por fim, levam à implementação de políticas que não apresentam o efetivo retorno para a sociedade.
+Além disso, as assimetrias existentes nas relações entre sociedade e Estado e entre os próprios entes reduzem a confiança no Poder Estatal e afastam o cidadão dos seus direitos.   
+O Estado deve ter ação ininterrupta no sentido da defesa do patrimônio público e incremento da transparência e da integridade da gestão. Estes propósitos se traduzem em ações de auditoria governamental, Prevenção Acesso à informação, Transparência, Integridade, enfrentamento à Corrupção e Correição. 
+A realização conjunta dessas ações viabiliza e fomenta o contínuo aprimoramento sistêmico da gestão pública, enfrentamento e prevenção da corrupção e a ampliação do exercício de direitos sociais.
+Um governo mais eficiente e efetivo impacta a qualidade de vida das pessoas, a confiança no Estado e, em última análise, a própria democracia.
+Evolução Histórica: No PPA 2020-2023 houve diversas ações do governo federal que combateram as mesmas causas críticas do problema ora apresentado, distribuídas no Programa 4004 - Transparência, Integridade e Combate à Corrupção
+Dentre as ações realizadas, têm-se:
+- a busca pelo aprimoramento da gestão de recursos, o fortalecimento dos controles internos e o aperfeiçoamento da gestão de riscos da Administração Pública;
+- constante monitoramento da implementação da Lei de Acesso à Informação (LAI), Lei nº 12.527/2011;
+- instituição do Sistema de Integridade, Transparência e Acesso à Informação da Administração Pública Federal e a Política de Transparência e Acesso à Informação da Administração Pública Federal, conforme Decreto nº 11.529/2023; 
+- Aperfeiçoamento do Decreto nº 7.724/2012;
+- assinatura de novos acordos de leniência;
+- Crescente adesão e utilização da Plataforma Fala.BR para manifestações de ouvidoria e pedidos de acesso à informação;
+- R$ 19,6 bilhões de benefícios financeiros obtidos e 472 não-financeiros;
+- regulamentação do nepotismo;
+- implementação de plataforma InfoAgendas;
+- disseminação de Programas de Integridade no Poder Executivo Federal;
+- modernização do site da Lei de Acesso à Informação, entre outros.
+Comparações Internacionais: O Índice de Percepção da Corrupção é o principal indicador de corrupção do mundo. Produzido pela Transparência Internacional desde 1995, ele avalia 180 países e territórios. Em 2022, o Brasil ocupa a 94a posição. 
+Em 2022, o Brasil perdeu 5 pontos no Índice de Percepção da Corrupção e caiu 25 posições, saindo da 69ª para a 94ª colocação. Os 38 pontos alcançados pelo país em 2022 representam um desempenho ruim e o coloca abaixo da média global (43 pontos), da média regional para América Latina e Caribe (43 pontos), da média dos BRICS (39 pontos) e ainda mais distante da média dos países do G20 (53 pontos) e da OCDE (66 pontos). 
+E uma análise comparativa dos países da América Latina e Caribe sobre a despesa pública revela ineficiências e desperdícios. No caso do Brasil, essas ineficiências podem representar um prejuízo de até US$ 68 bilhões por ano, ou o equivalente a 3,9 por cento do PIB do país
+Relação Com Os Ods: Identificou-se o alinhamento do Programa com o ODS 16 Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis, especificamente no que concerne a 16.5 Reduzir substancialmente a corrupção e o suborno em todas as suas formas, 16.6 Desenvolver instituições eficazes, responsáveis e transparentes em todos os níveis e 16.10 Assegurar o acesso público à informação e proteger as liberdades fundamentais, em conformidade com a legislação nacional e os acordos internacionais. 
+Além disso, também se identificou pertinência com o ODS 17 Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável, especialmente com relação aos ODS 17.6 Melhorar a cooperação Norte-Sul, Sul-Sul e triangular regional e internacional e o acesso à ciência, tecnologia e inovação, e aumentar o compartilhamento de conhecimentos em termos mutuamente acordados, inclusive por meio de uma melhor coordenação entre os mecanismos existentes, particularmente no nível das Nações Unidas, e por meio de um mecanismo de facilitação de tecnologia global.
+RESULTADOS ESPERADOS: Com a implementação do programa, a expectativa é o aprimoramento da gestão, da governança, da gestão de riscos e dos controles internos da administração pública, gerando processos mais eficientes. Além disso, espera-se aumento do nível de integridade pública, diminuição da corrupção;  aumento da transparência e da participação social; inibição passiva da criminalidade (potencial punição) e diminuição da sensação de impunidade; além da racionalidade da relação entre o que se paga de imposto e o que se recebe de serviços prestados.
+Por fim, espera-se um aumento da efetividade das políticas públicas com entrega de serviços e bens de maior qualidade, o que a longo prazo poderá proporcionar uma maior credibilidade do Estado quanto ao atendimento das demandas da população, um incremento do desenvolvimento educacional, etnico-racial e econômico-sustentável do País e, consequentemente uma equidade e menor desigualdade social e interrregional.
+Agentes Envolvidos: Para a consecução de sua missão, a CGU participa na realização de operações especiais de combate à corrupção em parceria com órgãos de defesa do Estado, dentre eles a Polícia Federal (PF), a Secretaria da Receita Federal (RFB), a Advocacia-Geral da União (AGU), o Conselho de Controle de Atividades Financeiras (COAF), o Ministério Público Federal (MPF) e a Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro (ENCCLA). 
+No âmbito da transparência e do acesso à informação, a CGU tem atuado com a Autoridade Nacional de Proteção de Dados (ANPD). Existe, também, interlocução internacional com o Banco Interamericano de Desenvolvimento (BID), o Banco Internacional para Reconstrução e Desenvolvimento (Bird), o Programa das Nações Unidas para o Desenvolvimento (Pnud), a Parceria para Governo Aberto (Open Government Partnership – OGP), além da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), Organização das Nações Unidas (ONU), Organização dos Estado Americanos (OEA).  
+Além disso, no âmbito da temática de transparência e acesso à informação, a CGU atua, internacionalmente, em parceria com os países membros da Conferência Internacional de Comissários de Informação (International Conference of Information Commissioners - ICIC) e da Rede de Transparência e Acesso à Informação (Red de Transparencia y acceso a la Información - RTA).
+Articulação Federativa: São realizadas ações conjuntas com Ministérios Públicos Estaduais e Tribunais de Contas Estaduais na realização de operações especiais de combate à corrupção e com entes Subnacionais, na orientação para implantação de Ouvidorias, Corregedorias, Portal de Transparência, Governo Aberto, Lei de Acesso à Informação, dentre outras.
+Enfoque Transversal: Tendo em vista as diretrizes às quais o Programa está relacionado pode haver uma articulação de políticas públicas presentes nos programas do Ministério da Justiça, da Fazenda, da Gestão e da Inovação em Serviços Públicos. Essas diretrizes são as seguintes: aprimoramento da governança e da gestão pública federal, com eficiência administrativa, transparência da ação estatal, digitalização dos serviços governamentais e redução do tamanho do Estado; e Intensificação do combate à corrupção, à violência e ao crime organizado.
+Marco Legal: Inciso XXXIII , art. 5º, inciso II do § 3º do art. 37; Art.70, art. 74, inciso II, e art.84; e no § 2º do art. 216  da Constituição Federal; Lei nº 10.180/2001; Decreto nº 5.151/2004; Decreto n° 3.591, de 06 de setembro de 2000; Lei n° 14.600, de 19 de junho de 2023; Decreto n° 11.330, de 1o de janeiro de 2023; Decreto no 11.529, de 16 de maio de 2023; Decreto no 11.528, de 16 de maio de 2023, Lei 13.460/2017; Lei 12.527/2011; Decreto 7724/2012 e o Decreto 11.529/2023.
+Planos Nacionais, Setoriais E Regionais: Não se aplica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

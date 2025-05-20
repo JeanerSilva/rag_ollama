@@ -1,0 +1,1323 @@
+passage: Programa Número 1158
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Entrega: 641
+Indicador: 9585
+Denominação: Áreas suscetíveis ou em processo de desertificação em processo de recuperação na Caatinga
+Sigla: RECUP
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: ha
+Descrição: O indicador considera o número total de áreas suscetíveis à desertificação medido em hectares, que é a medida utilizada para medir o avanço do processo de desertificação.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Área recuperada
+Fonte De Dados Das Variáveis De Cálculo: INPE
+Forma De Disponibilização: INPE, MMA
+Procedimento De Cálculo: Somatório da áreas suscetíveis ou em processo de desertificação em processo de recuperação
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 279
+Entrega: 651
+Indicador: 9591
+Denominação: Número de agentes comunitários populares, gestores, juventude e outros atores formados e atuando nos territórios
+Sigla: FORMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de número de pessoas formadas para atuarem como agentes comunitários, educadores, gestores entre outros, no enfrentamento das emergências climáticas.
+Período Ou Data A Que Se Refere: O indicador irá considerar os processos formativos implementadas anualmente, de 2024 a 2027
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de pessoas formadas em processos formativos desenvolvidos.
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Meio Ambiente e Mudança do Clima
+Forma De Disponibilização: Site do Ministério do Meio Ambiente e Mudança do Clima
+Procedimento De Cálculo: Somatório de número de pessoas formadas em processos formativos desenvolvidos.
+Limitações: O número revela apenas o aspecto quantitativo, não demonstrando a perspectiva qualitativa dos processos educativos ambientais postos em prática em cada um desses espaços educadores.
+Notas Explicativas: Espera-se que o indicador espelhe os arranjos institucionais locais para a implementação da Política Nacional de Educação Ambiental (PNEA) no enfrentamento dos riscos ambientais decorrentes das mudanças do clima.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 1000
+Indicador: 9998
+Denominação: Número de Cenários Desenvolvidos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de cenários de transição à sustentabilidade desenvolvidos e apresentados através de relatórios e/ou publicações científicas
+Período Ou Data A Que Se Refere: 31/12/2023
+Data De Divulgação/Disponibilização: As informações serão disponibilizadas através de dados e imagens no site do INPE (www.gov.br/inpe/pt-br), bem como estarão disponíveis em relatórios e/ou public
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= Número de cenários desenvolvidos anualmente
+Fonte De Dados Das Variáveis De Cálculo: Os dados das variáveis de cálculo poderão ser extraídos do site do INPE (www.gov.br/inpe/pt-br), bem como de publicações científicas e/ou relatórios internos
+Forma De Disponibilização: Portal do INPE - https://www.gov.br/inpe/pt-br bem como de publicações científicas e/ou relatórios.
+Procedimento De Cálculo: Coleta e catalogação dos dados e informações para a produção de relatório.
+Limitações: Não há nenhuma restrição para acesso aos dados.
+Notas Explicativas: A Metodologia e a fonte de dados não sofreram mudanças conceituais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 279
+Entrega: 647
+Indicador: 9590
+Denominação: Número de Centros de Educação Socioambiental, Salas Verdes e outros arranjos territoriais de educação ambiental criados
+Sigla: CENTR
+Índice De Referência: 86.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de número de espaços constituídos
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de centros, espaços e arranjos institucionais.
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Meio Ambiente e Mudança do Clima, unidades federativas (Estados e Municípios) e demais parceiros institucionais.
+Forma De Disponibilização: Site do Ministério do Meio Ambiente e Mudança do Clima
+Procedimento De Cálculo: Somatório do número de centros, espaços e arranjos institucionais.
+Limitações: O número revela apenas o aspecto quantitativo, não demonstrando a perspectiva qualitativa dos processos educativos ambientais postos em prática em cada um desses espaços educadores.
+Notas Explicativas: Espera-se que o indicador espelhe os arranjos institucionais locais para a implementação da Política Nacional de Educação Ambiental (PNEA) no enfrentamento dos riscos ambientais decorrentes das mudanças do clima.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 564
+Indicador: 9503
+Denominação: Número de conjuntos de previsões de tempo, clima e ambientais gerados e disponibilizados à população pelo Centro de Previsão de Tempo e Estudos Climáticos, utilizando o sistema de supercomputador
+Índice De Referência: 377.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Atualmente são gerados 365 conjuntos de previsões numéricas de tempo e ambientais gerados por ano e 12 conjuntos de previsões de clima gerados por ano, para a América do Sul, totalizando 377 previsões por ano. Para os demais anos estão previstos 429 conjuntos de previsões numéricas de tempo, clima e ambientais, sendo 365 de tempo, 52 de subsazonal e 12 de clima, implementados e disponibilizados para as 5 regiões federativas e também para a América do Sul. Totalizando 2574 (429 x 6) conjuntos de previsões
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: As informações serão disponibilizadas através de dados e imagens no site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como estarão d
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= Número de previsões de tempo diária - NPTD  
+Y= Número de Previsões de Clima mensal - NPCM
+W=Número de previsões sub-sazonais semanal (NPSB)
+N= Total de previsões previstas
+Fonte De Dados Das Variáveis De Cálculo: Os dados das variáveis de cálculo poderão ser extraídos do site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como estarão disponíveis em bancos de dados internos do INPE/CPTEC
+Forma De Disponibilização: As informações serão disponibilizadas através de dados e imagens no site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como estarão disponíveis em bancos de dados internos do INPE/CPTEC e em publicações científicas (quando novas versões dos modelos numéricos de previsão forem disponibilizadas).
+Procedimento De Cálculo: Por meio de processo operacional interno disponibilizado diariamente utilizando-se o sistema de supercomputação do INPE
+Limitações: Os dados para inicialização dos modelos são provenientes das estações meteorológicas e de satélites. Assim, uma limitação seria algum problema associado ao sistema de tráfego de dados (internet).
+Não há nenhuma restrição para acesso aos dados e produtos das previsões numéricas de tempo, clima e ambientais. Todas as informações são disponibilizadas publicamente no site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como estarão disponíveis em bancos de dados internos do INPE/CPTEC e em publicações científicas (quando novas versões dos modelos numéricos de previsão forem disponibilizadas).
+Notas Explicativas: A Metodologia e a fonte de dados para a execução dos modelos numéricos de previsões de tempo, clima e ambientais não sofreram mudanças conceituais.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 902
+Indicador: 9889
+Denominação: Número de conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo Centro de Previsão de Tempo e Estudos Climáticos – CPTEC/INPE, utilizando o sistema de supercomputação do INPE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo Centro de Previsão de Tempo e Estudos Climáticos – CPTEC/INPE, utilizando o sistema de supercomputação do INPE. Tais conjuntos são implementados anualmente quando há a implementação de novas funcionalidades nos modelos numéricos desenvolvidos pelo INPE/CPTEC, bem como novas versões desses modelos numéricos e publicações de pesquisas nessa temática.
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: As informações serão disponibilizadas através de dados e imagens no site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como estarão d
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = Número de conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo Centro de Previsão de Tempo e Estudos Climáticos – CPTEC/INPE
+Fonte De Dados Das Variáveis De Cálculo: Os dados das variáveis de cálculo poderão ser extraídos do site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como de publicações científicas e/ou relatórios internos quando houver a implementação de novas funcionalidades nos modelos numéricos desenvolvidos pelo INPE/CPTEC.
+Forma De Disponibilização: Pelo website do INPE: www.gov.br/inpe/pt-br e do CPTEC: www.cptec.inpe.br
+Procedimento De Cálculo: Conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo CPTEC/INPE utilizando o sistema de supercomputação do INPE
+Limitações: A implementação de novos conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo INPE/CPTEC depende da operação contínua do sistema de supercomputação do INPE.
+Não há nenhuma restrição para acesso aos dados e produtos das previsões numéricas de tempo, clima e ambientais. Todas as informações são disponibilizadas publicamente no site do INPE/CPTEC (www.cptec.inpe.br) e do INPE (www.gov.br/inpe/pt-br), bem como em publicações científicas (quando novas versões dos modelos numéricos de previsão forem disponibilizadas).
+Notas Explicativas: A Metodologia e a fonte de dados não sofreram mudanças conceituais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 612
+Indicador: 9541
+Denominação: Número de contratos de empréstimo firmados
+Sigla: FNMC
+Índice De Referência: 1603.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Os recursos reembolsáveis do Fundo Clima são geridos pelo BNDES que contrata empréstimos para pessoas físicas e jurídicas, inclusive por meio de bancos regionais. Portanto, o indicador que mede o resultado desta Ação é o número de empréstimos contratados.
+Período Ou Data A Que Se Refere: 28 de fevereiro
+Data De Divulgação/Disponibilização: 30 de abril
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Contratos de empréstimo firmados
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: O relatório do Fundo Clima BNDES é publicado no portal do MMA após a primeira reunião ordinária do Fundo Nacional sobre Mudança do Clima
+Procedimento De Cálculo: Somatório do número de contratos de empréstimo firmados
+Limitações: Sem limitações
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 274
+Entrega: 1668
+Indicador: 10897
+Denominação: Número de dispositivos de observação do oceano instalados em Unidades de Conservação em ilhas oceânicas
+Sigla: UC's
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: As Unidades de Conservação criadas nas ilhas oceânicas brasileiras carecem de coleta de dados do ambiente marinho de forma contínua e remota para subsidiar o monitoramento de variáveis essenciais do ambiente marinho para a tomada de decisão, em particular referente aos efeitos das mudanças climáticas. Assim, o indicador estabelece a instalação de cinco dispositivos tecnológicos para a coleta de dados essenciais sobre o ambiente marinho.
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: Último dia do ano fiscal, ou seja, 31 de dezembro de cada exercício
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N= Número de dispositivos de observação do oceano instalados em Unidades de Conservação em ilhas oceânicas
+D1=Dispositivo instalado na Ilha 1
+D2=Dispositivo instalado na Ilha 2
+Dn=Dispositivos instalados nas demais ilhas
+Fonte De Dados Das Variáveis De Cálculo: Conforme instalados, estes dispositivos enviarão dados de forma contínua que serão disponibilizados em plataforma ainda a ser criada e disponibilizada na internet, no site http://www.goosbrasil.org/
+Forma De Disponibilização: Por meio de cadastro na plataforma a ser criada no site http://www.goosbrasil.org/
+Procedimento De Cálculo: No dia 31 de dezembro do exercício, acessar o site http://www.goosbrasil.org/ e buscar pelos dispositivos emitentes nas Unidades de Conservação criadas nas ilhas oceânicas brasileiras, como o Arquipélago de São Pedro e São Paulo, as ilhas de Trindade e Martim Vaz, Abrolhos e outras a serem definidas
+Limitações: Disponibilidade de recursos financeiros e de meios operativos para a instalação e operacionalização dos dispositivos de coleta de dados remotos nas Ilhas Oceânicas
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Entrega: 639
+Indicador: 9584
+Denominação: Número de estados apoiados para atualização dos Planos Estaduais de Combate à Desertificação, associado às estratégias de mitigação e adaptação às mudanças climáticas
+Sigla: PLANDES
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Os Planos contemplam as estratégias de implementação das políticas nacional e estaduais de combate à desertificação e a medida de aferição do indicador é dada pelo número de estados da região semiárida que receberam apoio técnico e financeiro do MMA no processo de revisão de seus planos
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estados da região semiárida com planos revisados
+Fonte De Dados Das Variáveis De Cálculo: MMA e Estados
+Forma De Disponibilização: Fontes estaduais
+Procedimento De Cálculo: Somatório do nº de estados com Planos revisados na região do semiárido brasileiro
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Entrega: 1311
+Indicador: 10387
+Denominação: Número de estados com gatilhos de preparação para enfrentamento da seca
+Sigla: NEGS
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador apresenta a quantidade de Estados que implementaram gatilhos de enfrentamento a secas contendo descrição de impactos previstos e ações a serem tomadas para cada gradação de seca
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 30/06/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A =  número de Estados com gatilhos de secas implementados
+Fonte De Dados Das Variáveis De Cálculo: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: Os gatilhos e ações serão construídos em discussão com cada Estado no âmbito do programa Monitor de Secas da ANA. Cada Estado será contabilizado no indicado quando tiver definido os gatilhos, impactos previstos e ações planejadas para cada nível  de seca, para todo o Estado ou para os sistemas hídricos ou regiões considerados mais críticos ou prioritários.
+Limitações: O indicador pode não refletir a implementação em todo o Estado
+Notas Explicativas: O indicador mostrará o avenço na implementação de gatilhos para enfrentamento de secas no País
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 1290
+Indicador: 10374
+Denominação: Número de estimativas anuais de Estoque de Biomassa e Carbono Florestal
+Sigla: ESTIMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: A estimativa é realizada a partir do mapa de florestas naturais do Brasil atualizado anualmente com a aplicação dos fatores de carbono por hectare de cada tipologia florestal presente no Bioma.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estimativas produzidas
+Fonte De Dados Das Variáveis De Cálculo: Mapa de floresta naturais atualizado anualmente com os dados de desmatamento
+Forma De Disponibilização: Portal do SNIF - Sistema Nacional de Informações Florestais
+Procedimento De Cálculo: Somatório número de estimativas produzidas
+Limitações: Depende da atualização dos dados de desmatamento por biomas produzido pelo INPE bem como dos dados do Inventário Florestal Nacional para os fatores de carbono por hectare.
+Notas Explicativas: Para os biomas que ainda não tem medições do Inventário Florestal Nacional serão utilizadas informações bibliográficas, naqueles com medições parciais serão utilizados os dados parciais obtidos até o momento.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 1028
+Indicador: 10032
+Denominação: Número de indicadores entregues
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de Indicadores de Risco de Impacto das Mudanças Climáticas em Ambientes Naturais e Distintos Setores Sociais e Econômicos entregues e apresentados através de relatórios e/ou publicações científicas.
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: As informações serão disponibilizadas através de dados e imagens no site do INPE (www.gov.br/inpe/pt-br), bem como estarão disponíveis em relatórios e/ou public
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= Número de indicadores produzidos anualmente
+Fonte De Dados Das Variáveis De Cálculo: Os dados das variáveis de cálculo poderão ser extraídos do site do INPE (www.gov.br/inpe/pt-br), bem como de publicações científicas e/ou relatórios internos
+Forma De Disponibilização: Portal do INPE - https://www.gov.br/inpe/pt-br bem como de publicações científicas e/ou relatórios.
+Procedimento De Cálculo: Coleta de dados e informações obtidos a partir de sistemas internos do INPE
+Limitações: Uma limitação seria algum problema associado ao sistema de tráfego de dados (internet).
+Não há nenhuma restrição para acesso aos dados.
+Notas Explicativas: A Metodologia e a fonte de dados não sofreram mudanças conceituais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Entrega: 642
+Indicador: 9587
+Denominação: Número de mecanismos de fomento à pesquisa e ampliação de conhecimentos sobre desertificação, seca e degradação da terra implementados
+Sigla: FOMENT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Implementação de mecanismos de fomento à pesquisa e ampliação de conhecimentos sobre desertificação, seca e degradação da terra.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: mecanismos de fomento à pesquisa e ampliação de conhecimentos sobre desertificação, seca e degradação da terra implementados.
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: MMA
+Procedimento De Cálculo: Somatório do número de mecanismos de fomento à pesquisa e ampliação de conhecimentos sobre desertificação, seca e degradação da terra implementados.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Entrega: 1318
+Indicador: 10397
+Denominação: Número de municípios apoiados para o planejamento, projeto, conservação, recuperação ou implantação de áreas verdes urbanas
+Sigla: AVERDES
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é composto pelas parcerias estabelecidas para apoio na implementação de áreas verdes urbanas municipais e pelos beneficiários das ações de qualificação técnica por meio de  soluções baseadas na natureza implementados, pelas áreas verdes urbanas, de forma a contribuir para a mitigação e adaptação à mudança do clima.
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: As variáveis são : iniciativas apoiadas por meio de acordos de cooperação e projetos firmados
+Fonte De Dados Das Variáveis De Cálculo: Instrumentos de acordos e projetos apoiados de soluções baseadas na natureza implementados relacionados a áreas verdes
+Forma De Disponibilização: Em 2024 os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA.
+Procedimento De Cálculo: Extração de quantitativo de iniciativas apoiadas de soluções baseadas na natureza implementados, por meio das áreas verdes urbanas.
+Limitações: Número inteiro. Cuidados para não somar em duplicidade, caso o município ou entidade executora possua mais de uma iniciativa (acordo; projeto -convênio, contrato de repasse; e participação em eventos de qualificação técnica)
+Notas Explicativas: Indicador pode ser utilizado para medição da efetividade das articulações do governo federal voltadas a aprimoramento da gestão de áreas verdes urbana e sua relação com a adaptação às mudanças climáticas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Entrega: 638
+Indicador: 9582
+Denominação: Número de pessoas alcançadas por Campanha de Combate à desertificação e Mitigação dos Efeitos da Seca com foco no agravamento das mudanças do mudanças do clima e conservação da Caatinga na região do S
+Sigla: CAMP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de pessoas que acessaram os materiais da Campanha disponibilizados em aplicativos de rede na Internet, emissoras de rádio e tv.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Ao final de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Público alcançado pela campanha e população total do país.
+Fonte De Dados Das Variáveis De Cálculo: Levantamento dos dados pelo MMA, por meio da solicitação de informações aos veículos de comunicação reesposáveis pela verificação do público
+Forma De Disponibilização: Sítio do MMA
+Procedimento De Cálculo: Somatórios das pessoas alcançadas pela Campanha de Combate à desertificação e Mitigação dos Efeitos da Seca (Rádios, redes sociais, redes de TVs, entre outros veículos de comunicação)
+Limitações: Limitações relativas a inferências do método de pesquisa por amostragem
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 1046
+Indicador: 10898
+Denominação: Número de produtos integrados à base de informações georreferenciadas
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de imagens de satélites e produtos integrados à Base de Informações Georreferenciadas (BIG) e disponibilizadas no site do INPE (www.gov.br/inpe/pt-br).
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: As informações serão disponibilizadas através de imagens de satélite e produtos integrados a BIG e disponibilizados no site do INPE (www.gov.br/inpe/pt-br).
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = Número de produtos integrados à base de informações georreferenciadas
+Fonte De Dados Das Variáveis De Cálculo: Os dados das variáveis de cálculo poderão ser extraídos do site do INPE (www.gov.br/inpe/pt-br), bem como de publicações científicas e/ou relatórios internos
+Forma De Disponibilização: Portal do INPE - https://www.gov.br/inpe/pt-br, Portal de dados do INPE - https://data.inpe.br, bem como de publicações científicas e/ou relatórios.
+Procedimento De Cálculo: Número de conjuntos de imagens de satélites e produtos integrados à base de informações georreferenciadas a partir de bases de dados atualizados pelo INPE (N = X).
+Limitações: Uma limitação seria algum problema associado ao sistema de tráfego de dados (internet).
+Não há nenhuma restrição para acesso aos dados.
+Notas Explicativas: A Metodologia e a fonte de dados não sofreram mudanças conceituais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 616
+Indicador: 9546
+Denominação: Número de Projetos apoiados
+Sigla: FNMCNAO
+Índice De Referência: 62.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O apoio a projetos pelo FNMC se dá por meio de transferências voluntárias a instituições públicas e organizações da sociedade civil que são contratados com o orçamento anual.
+Período Ou Data A Que Se Refere: 01/01 a 31/12
+Data De Divulgação/Disponibilização: 31/03
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Projetos apoiados
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: Site do MMA
+Procedimento De Cálculo: Somatório do Número de Projetos apoiados
+Limitações: Sem limitações
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Entrega: 644
+Indicador: 9589
+Denominação: Número de projetos em execução para intervenção local/regional implementado
+Sigla: PROJ
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O projeto é uma unidade de medida que vai aferir o esforço de implementação e abrangência territorial das ações públicas de combate à desertificação e aos efeitos da seca.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Projetos implementados
+Fonte De Dados Das Variáveis De Cálculo: MMA e governos estaduais
+Forma De Disponibilização: MMA e governos estaduais
+Procedimento De Cálculo: Valor acumulado do número de projetos ao longo dos 4 anos
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 1237
+Indicador: 10299
+Denominação: Número de publicações lançadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Os Relatórios Bienais de Transparência contém os Inventários Nacionais de Emissão de Gases de Efeito Estufa, além de outras informações relacionadas, e serão produzidos e publicados pelo MCTI a cada dois anos, a partir de 2024, em atendimento aos compromissos assumidos pelo país junto à Convenção do Clima.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: As publicações estarão disponíveis ao final dos exercícios de 2024 e 2026.
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = Número de publicações
+Fonte De Dados Das Variáveis De Cálculo: https://www.gov.br/mcti/pt-br
+Forma De Disponibilização: Sistema SIRENE - https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cgcl/paginas/sistema-de-registro-nacional-de-emissoes-sirene
+
+Os dados serão disponibilizados ao final do exercício.
+Procedimento De Cálculo: As publicações dos relatórios poderão ser conferidas acessando o site do Sistema Nacional de Registro de Emissões – SIRENE (https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cgcl/paginas/sistema-de-registro-nacionalde- emissoes-sirene) na aba “Publicações”.
+Limitações: As publicações serão produzidas no âmbito da Coordenação Geral de Ciência do Clima, portanto sob a governança do MCTI.
+Notas Explicativas: Não houve mudança na metodologia ou fórmula de cálculo do indicador.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 601
+Indicador: 9531
+Denominação: Número de servidores capacitados nos temas de mitigação e adaptação às mudanças do clima
+Sigla: CAPSMC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador demonstra o número total de servidores (federais, estaduais e municipais) capacitados na temática climática (políticas de adaptação e mitigação) por meio de iniciativas do próximo PPA ou através de parcerias firmadas. O indicador escolhido é a forma mais objetiva e representativa de se avaliar as construções de capacidades relacionadas ao tema de mudança do clima (políticas de adaptação e mitigação). O indicar selecionado inclui cursos e capacitações virtuais e presenciais dos níveis básicos ao avançado. Além disso, pretende-se articular o desenho e oferta de curso de especialização sobre o tema, o que vai contribuir muito para a construção do pensamento crítico sobre a temática. Ademais serão promovidos ciclos de debates com especialistas sobre o eixos relacionadas ao tema.
+Período Ou Data A Que Se Refere: Tendo em vista que o PPA terá vigência de 2024 a 2027 a data de referência é o último dia de cada ano, a partir de 2024.
+Data De Divulgação/Disponibilização: Última semana de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de servidores capacitados (federais, estaduais e municipais)
+Fonte De Dados Das Variáveis De Cálculo: Fonte própria (MMA) e instituições parceiras (escola de governo, agências de cooperação)
+Forma De Disponibilização: O valor apurado (número total de servidores federais, estaduais e municipais capacitados)
+Procedimento De Cálculo: Somatório do número de servidores capacitados (federais, estaduais e municipais) pelo próprio MMA e instituições parceiras na área de mudança do clima (políticas de adaptação e mitigação)
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 585
+Indicador: 9890
+Denominação: Número de sistemas e bases de informações desenvolvidos, atualizados e disponibilizados
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador representa o número de sistemas de informações sobre mudança do clima desenvolvidos, aperfeiçoados, atualizados e mantidos pelo MCTI e INPE. Os sistemas considerados são Sirene, AdaptaBrasil e Sinapse que serão atualizados e disponibilizados e o sistema DataClima que será desenvolvido e posteriormente atualizado e disponibilizado.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Os dados serão disponibilizados ao final do exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N =Total de sistemas desenvolvidos, atualizados e disponibilizados
+Fonte De Dados Das Variáveis De Cálculo: Página da Coordenação Geral de Ciência do Clima no portal do MCTI na internet - HOME — Ministério da Ciência, Tecnologia e Inovação (www.gov.br)
+Forma De Disponibilização: O indicador estará disponível no link: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cgcl
+Procedimento De Cálculo: O acesso aos sistemas e suas respectivas informações poderão ser alcançadas diretamente pelo link de cada sistema:
+
+1.	Sistema SIRENE - https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cgcl/paginas/sistema-de-registro-nacionalde- emissoes-sirene
+2.	Sistema AdaptaBrasil - https://adaptabrasil.mcti.gov.br/
+3.	Sistema Sinapse - https://brazil.energypolicy.solutions/scenarios/home?locale=pt
+4.	Sistema DataClima – em desenvolvimento.
+Limitações: Os dados poderão ser apurados diretamente a partir da página da Coordenação-Geral de Ciência do Clima, no portal do MCTI, estando completamente sob a governança do MCTI.
+Notas Explicativas: Não houve mudança na metodologia ou fórmula de cálculo do indicador.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Entrega: 1315
+Indicador: 10394
+Denominação: Número de UFs com Salas de Situação integradas à Sala de Situação da ANA para a gestão de risco de eventos hidrológicos críticos
+Sigla: Sint
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador apresenta o número de unidades da federação que tiveram salas de situação integradas com a sala de situação da ANA para gestão de eventos hidrológicos críticos
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 30/062023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de Estados com salas de situação integradas
+Fonte De Dados Das Variáveis De Cálculo: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: A integração das salas de situação será feita em discussão com cada Estado e a medida que os instrumentos e ferramentas de integração forem desenvolvidos. Cada sala será considerada integrada e contabilizada no indicador quando ao menos um dos elementos básicos de integração for implementado e quando o protoloco de ação conjunta for pactuado.
+Limitações: Pode não refletir níveis diferenciados de integração entre as salas de situação
+Notas Explicativas: O indicador mostrará o avanço do processo de integração da salas de situação
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 1298
+Indicador: 11082
+Denominação: Número estudos e projetos de pesquisa apoiados referentes às mudanças do clima
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Somatório dos   estudos e projetos de pesquisa apoiados referentes às mudanças do clima apoiados
+Período Ou Data A Que Se Refere: Janeiro à Dezembro do ano de referencia do indicador
+Data De Divulgação/Disponibilização: Os dados serão disponibilizados ao final do exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número  estudos e projetos de pesquisa apoiados referentes às mudanças do clima
+Fonte De Dados Das Variáveis De Cálculo: Página de Clima do MCTI, SIOP
+Forma De Disponibilização: Página de Clima do MCTI
+Procedimento De Cálculo: Somatório dos  estudos e projetos de pesquisa apoiados referentes às mudanças do clima apoiados no exercício
+Limitações: OO indicador poderá ser apurado a partir dos relatórios de monitoramento da Ação Orçamentária 20VA, sob responsabilidade da Coordenação-Geral de Ciência do Clima, portanto, sob governança do MCTI.
+Notas Explicativas: Não houve mudança na metodologia ou fórmula de cálculo do indicador.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Entrega: 1281
+Indicador: 10346
+Denominação: Percentual de municípios mapeados com índice de segurança hídrica às mudanças climáticas (ISH-MC)
+Sigla: %MunISH-MC
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Município é a unidade da federação onde melhor pode utilizar o indicador para o acompanhamento de políticas públicas para melhoria da segurança hídrica
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: 2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: nMunISHMCEst = número de municípios com ISH_MC estimados 
+nMunTot = número total de municípios
+Fonte De Dados Das Variáveis De Cálculo: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: O cálculo deve ser atualizado sempre que um novo município estiver com seu ISH_MC estimado
+Limitações: A atualização do indicador deve refletir a ordem de prioridade de atualização definida na agenda estratégica da ANA
+Notas Explicativas: O Indicador de ve ser avaliado a luz do ISH do presente, considerando as peculiaridades regionais e aspectos relevantes de segurança hídrica nos municípios
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Entrega: 1288
+Indicador: 10358
+Denominação: Percentual de municipios mapeados com o risco de eventos extremos de precipitação (curvas IDFs) devido as mudanças climáticas
+Sigla: %MunIDF_MC
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Município é a unidade da federação onde os impactos e desastres naturais devido as chuvas ocorrem
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: 2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: nMunIDFEst_MC = número de municípios com IDF estimadas considerando mudanças climáticas   
+nMunTot = número total de municípios"
+Fonte De Dados Das Variáveis De Cálculo: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: O cálculo deve ser atualizado sempre que um novo município estiver com sua curva IDF atualizada
+Limitações: A atualização do indicador deve refletir a ordem de prioridade de atualização definida na agenda estratégica da ANA
+Notas Explicativas: Na medida que a melhor informação disponivel entregando um melhor serviço para sociedade.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 274
+Entrega: 626
+Indicador: 9565
+Denominação: Percentual de produtos intermediários necessários ao Plano de Gestão do Espaço Marinho Brasileiro finalizados para cada uma das regiões do Planejamento Espacial Marinho (PEM): Norte (AP, PA e MA), Nordeste (PI, CE, RN, PB, PE, AL, SE e BA), Sudeste (ES, RJ e SP) e Sul (PR, SC e RS)
+Sigla: MARIN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: O plano de gestão do espaço marinho é um conjunto de ações gerenciais que serão definidas para ordenar os usos e atividades no oceano. A definição destas ações, que estarão organizadas no Plano de Gestão é o melhor indicador.
+
+São 4 (quatro) etapas para cada região: (i) Diagnóstico do Uso (25%), (ii) Prognóstico do Uso (25%), (iii) Cenários de Uso e Serviços Ecossistêmicos (25%) e (iv) Plano de Gestão (25%).
+Período Ou Data A Que Se Refere: Sem referência
+Data De Divulgação/Disponibilização: Deve ser publicado em fevereiro, referente aos dois anos anteriores
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: produtos intermediários necessários ao Plano de Gestão do Espaço Marinho Brasileiro finalizados para cada uma das regiões do Planejamento Espacial Marinho (PEM): Norte (AP, PA e MA), Nordeste (PI, CE, RN, PB, PE, AL, SE e BA), Sudeste (ES, RJ e SP) e Sul (PR, SC e RS).
+Fonte De Dados Das Variáveis De Cálculo: Comissão Interministerial para os Recursos do Mar (CIRM)
+Forma De Disponibilização: Comissão Interministerial para os Recursos do Mar (CIRM)
+Procedimento De Cálculo: Média aritmética do somatório dos percentuais obtidos em cada\ região/4 (dividido por quatro).
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 605
+Indicador: 9532
+Denominação: Percentual de projetos de investimento público federal e parcerias público-privadas que integram mitigação ou adaptação
+Sigla: PROJSMC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: Não existe série histórica relativa ao percentual de projetos de investimento público federal e PPPs direta ou  indiretamente relacionados a mitigação ou adaptação às mudanças climáticas. Portanto, o indicador % dos projetos, embora não seja o ideal, tem metodologia de apuração mais simplificada do que outras alternativas, tais como o (%) do valor total do investimento público federal +  valor total das PPPs (em R$) ou até mesmo a incorporação dos investimentos estaduais e municipais em seu cômputo.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de projetos de investimento público federal/ano
+Número de projetos financiados por PPPs/ano
+Número de projetos direta ou indiretamente relacionados à mitigação/adaptação
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: MMA
+Procedimento De Cálculo: Número de projetos de investimento público federal e PPPs que contribuem direta ou indiretamente para mitigação ou adaptação às mudanças climáticas / Número total de projetos financiados por investimentos públicos federais e PPPs
+Limitações: Não há série histórica para esse indicador.
+Não existe uma definição acordada no âmbito do governo federal para "projetos direta ou indiretamente relacionados à mitigação/adaptação".
+Notas Explicativas: No entanto, os planos setoriais de mitigação e adaptação à mudança do clima, assim como as taxonomias de finanças sustentáveis, possibilitarão a criação de planos de investimento setoriais, pipeline de projetos "climáticos"  e sistemas de indicadores que permitirão classificar cada projeto de acordo com seus impactos ambientais e sociais esperados e monitorar sua performance ao longo do seu ciclo de vida.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 609
+Indicador: 9537
+Denominação: Percentual de redução do consumo de HCFCs
+Sigla: HCFC
+Índice De Referência: 55.0
+Em Apuração: Sim
+Data De Apuração: 2010-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Redução da quantidade de HCFCs consumida pelo Brasil em relação à linha de base (1327,30 t PDO). Esse é o melhor indicador por: i) ser o indicador utilizado para cumprimento de metas de redução de HCFCs no âmbito do Protocolo de Montreal e do FML; ii) haver legislação nacional e metodologia de aferição desse indicador para checagem anual de cumprimento de metas; iii) ter frequência definida de aferição pela necessidade de o Brasil ter de reportar os dados de consumo de substâncias que destroem a camada de ozônio (SDOs) anualmente ao Secretariado de Ozônio, o que inclui os HCFCs. 
+Aferir o indicador em percentual permite comunicar de maneira mais clara o impacto das ações de redução e eliminação dos HCFCs pelo Brasil. As metas estabelecidas estão vinculadas àquelas presentes no Programa Brasileiro de Eliminação dos HCFCs - PBH.
+Linha de Base: 2009 e 2010 - Média do consumo de HCFCs (em toneladas de Potencial de Destruição do Ozônio - t PDO) nos anos de 2009 e de 2010, o que equivale a 1.327,30 t PDO. Corresponde ao marco zero, em que se considera 0% de redução do consumo de HCFCs).
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Maio do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CA/LB*100 (CA: consumo anual de HCFCs em t PDO; LB: linha de base do consumo de HCFCs em tPDO, que equivale a 1.327,30 t PDO)
+Fonte De Dados Das Variáveis De Cálculo: As variáveis são obtidas a partir dos dados (em toneladas métricas) de importação e exportação de HCFCs registrados no Sistema Integrado de Comércio Exterior (SISCOMEX) via Cadastro Técnico Federal do IBAMA. O IBAMA sistematiza os dados do SISCOMEX e, em maio, relata as informações referentes ao ano anterior para a Unidade de Projetos de Ozônio (POZ/DPMA/SMC) do Ministério de Meio Ambiente e Mudanças do Clima, para o repasse anual ao Secretariado do FML e do Protocolo de Montreal e para o cálculo do indicador.
+Forma De Disponibilização: Os dados de referência para cálculo do indicador estão disponíveis no website https://ozone.unep.org/countries/data-table
+Procedimento De Cálculo: Os dados fornecidos pelo IBAMA a partir das informações coletadas no SISCOMEX (em toneladas métricas) devem ser transformados para toneladas de potencial de destruição de ozônio (t PDO), conforme o PDO de cada HCFC que compõe o consumo total de HCFCs do Brasil para o ano de referência. Em seguida, soma-se o consumo de cada HCFC para cálculo do consumo total de HCFCs para o ano de referência, em t PDO. Por fim, aplica-se a fórmula (% de redução de HCFCs = consumo anual de HCFCs em t PDO/1.327,30 t PDO*100) para obtenção do indicador.
+Limitações: Utiliza-se até duas casas decimais após a vírgula.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 607
+Indicador: 9534
+Denominação: Percentual de setores com taxonomias desenvolvidas
+Sigla: TAXSMC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: O indicador selecionado será percentual, usando a Classificação Nacional de Atividades Econômicas (CNAE) como referência para classificação dos setores. Não há série histórica para esse indicador.
+Período Ou Data A Que Se Refere: Julho de 2023
+Data De Divulgação/Disponibilização: Não há série histórica para esse indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Setores prioritários; taxonomia desenvolvida
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: MMA
+Procedimento De Cálculo: A partir da definição dos setores prioritários, cada taxonomia desenvolvida representará uma porcentagem do total. P. ex., definidos 10 setores, cada taxonomia setorial desenvolvida representará 10% do total. O cálculo da meta é feita pela soma simples dos percentuais definidos para cada setor produtivo selecionado como prioritário.
+Limitações: Os setores produtivos prioritários ainda não foram definidos, embora já exista consenso sobre quais deveriam ser trabalhados no período de 2024-2026.
+Notas Explicativas: A proposta de meta se refere não a todas atividades econômicas existentes na CNAE, mas apenas aos setores considerados relevantes em termos de (%)PIB, volume de emissões de GEE e potencial de atração de investimentos diretos estrangeiros. A princípio serão definidos cerca de oito (8) setores produtivos prioritários para desenvolvimento de taxonomias. A Meta está, portanto, relacionada à definição de setores prioritários. P. ex., se forem selecionados 8 setores prioritários, a meta é de que em 2026 todos esses oito setores terão taxonomias próprias desenvolvidas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Entrega: 598
+Indicador: 9530
+Denominação: Percentual do Sistema de Monitoramento dos planos setoriais de mitigação e adaptação implementado
+Sigla: PNA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: Para mensuração do indicador entende-se Sistema de monitoramento como sendo o sistema de informações digitais, uma plataforma disponível para recebimento de informações dos planos setoriais, monitoramento dos dados e atualização das informações disponíveis, permitindo o acompanhamento situacional do andamento dos planos setoriais e divulgação da informação à sociedade civil brasileira.
+Período Ou Data A Que Se Refere: Julho de 2023
+Data De Divulgação/Disponibilização: Não há série histórica para esse indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: % de implementação
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: MMA
+Procedimento De Cálculo: O indicador é calculado ao se registrar, em termos percentuais, o avanço gradual na implementação do Sistema de Monitoramento.
+Limitações: A atribuição de percentuais a cada componente do Sistema de Monitoramento deverá ser definida em futuro próximo pela autoridade competente.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 274
+Entrega: 635
+Indicador: 9577
+Denominação: Percentual dos municípios costeiros com risco avaliado
+Sigla: RISCO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: A quantidade de municípios com vulnerabilidade caracterizada em relação ao conjunto de municípios costeiros permite a adoção de medidas de mitigação e adaptação às mudanças climáticas.
+Período Ou Data A Que Se Refere: 01/07/2023
+Data De Divulgação/Disponibilização: Fevereiro
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numero de municípios com vulnerabilidade e Municípios costeiros definidos na Portaria MMA
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Meio Ambiente
+Forma De Disponibilização: Publicação no DOU
+Procedimento De Cálculo: Realizar levantamento dos municípios com vulnerabilidade caracterizada
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Entrega: 1292
+Indicador: 10376
+Denominação: Percentual dos municípios priorizados com mapas de vulnerabilidade a inundações realizados
+Sigla: MVI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: O indicador apresenta a fração de municípios que tiveram mapa de vulnerabilidade a inundações atualizado e indica o avanço no processo de atualização do atlas de vulnerabildiade a inundações
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 30/06/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MVI: municípios com estudo de vulnerabilidade a inundações
+Nmi: número de municípios com mapa de inundações elaborado
+Nmp: número de municípios priorizados para avaliação do risco a inundações
+Fonte De Dados Das Variáveis De Cálculo: Atlas de vulnerabilidade a inundações / ANA
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: Os municípios priorizados são aqueles que sofreram inundações em áreas urbanas conforme registro no S2iD da SEDEC/MIDR. Para cada município, será avaliada a frequência de inundações e a magnitude dos impactos com base no S2iD, dados hidrológicos e imagens de satélite. Uma vez classificada a vulnerabilidade, serão produzidos mapas regionais dos trechos de rio vulneráveis a inundações. Cada município constante dos mapas regionais será contabilizado no indicador.
+Limitações: Usar sem casas decimais
+Notas Explicativas: O indicador mostrará o avanço no processo de atualização do atlas de vulnerabilidade a inundações, que deve ocorrer regionalmente ou por bacia hidrográfica
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 3369
+Indicador: 12698
+Denominação: Progresso da Implementação do Modelo MONAN
+Índice De Referência: 10.0
+Em Apuração: Sim
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mensura o percentual do avanço do desenvolvimento do sistema de modelagem MONAN avaliando a integração e o acoplamento dos seus principais componentes: Atmosfera, Oceanos, Criosfera, Superfície Continental.
+Período Ou Data A Que Se Refere: 31 de dezembro.
+Data De Divulgação/Disponibilização: Ao final do exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = percentual de avanço no desenvolvimento do sistema de modelagem durante o período do PPA.
+Fonte De Dados Das Variáveis De Cálculo: Processos internos de monitoramento e avaliação do INPE
+Forma De Disponibilização: Relatórios de Gestão do INPE, TCG e Monitoramento da LOA
+Procedimento De Cálculo: Apuração do percentual de avanço no desenvolvimento do sistema de modelagem.
+Notas Explicativas: O avanço percentual é estabelecido a partir das inserções e acoplamentos dos diversos compartimentos do sistema Terrestre no modelo MONAN.
+Metas Qualitativas :
+2024: Estabelecer a versão 1.0 contemplando os compartimentos da Atmosfera e Superfície Continental.
+2025: Definir os sistema de modelagem oceânica e da criosfera e o sistema de assimilação de Dados. Disponibilizar a primeira versão do modelo para previsão de tempo. 
+2026: Acoplar os modelos de oceano e criosfera ao MONAN 1.0. Iniciar o desenvolvimento do sistema de assimilação de dados
+2027: Implementar o sistema de modelagem MONAN para previsões de escalas temporais  longas (meses a estações do ano) e para previsão de curto prazo (até 6 horas).
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Entrega: 2107
+Indicador: 11478
+Denominação: Taxa de Geração de Informações sobre Eventos Extremos
+Sigla: TxEvEx
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Será calculada a taxa de geração de informações sobre eventos climáticos extremos, que ocorrem fora dos níveis considerados normais.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: Primeiro trimestre do exercício subsequente
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: TxMeteoro = Taxa de Execução dos Produtos de Meteorologia;
+TxHidro = Taxa de Execução dos Produtos de Hidrologia; e
+TxEvFogo = Taxa de Execução dos Produtos de Eventos de Fogo.
+Fonte De Dados Das Variáveis De Cálculo: As variáveis serão obtidas com base nas informações extraídas do Acompanhamento Plano Estratégico Institucional do órgão.
+Forma De Disponibilização: O resultado do indicador será disponibilizado em documento interno do sistema eletrônico de informações do Governo Federal e, após atualização no sistema de acompanhamento do Plano Plurianual, o documento gerado será disponibilizado no sítio eletrônico do Censipam.
+Procedimento De Cálculo: No início do ano subsequente ao período de apuração das variáveis de cálculo, o setor de gestão do Censipam irá solicitar à Diretoria Operacional para informar a apuração das respectivas variáveis, as quais serão baseadas no Plano de Ação do órgão. Após recebimento das informações, o setor de gestão irá incluí-las na fórmula de cálculo para a geração do resultado, o qual é obtido pela média do percentual da execução dos produtos.
+Limitações: Visto que haverá ações a serem realizadas ao longo de todo o exercício, estas só poderão ser consolidadas no exercício subsequente.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1158
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Indicador: 9510
+Denominação: Número de estados com Áreas Suscetíveis à Desertificação (ASD) com instrumentos para implementação da Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca
+Sigla: DESERT
+Índice De Referência: 6.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Ações de recuperação de áreas degradas com foco no combate à desertificação tem longo tempo de resposta em temos de áreas recuperadas, que seria o melhor indicador. em razão disso, o número de estados com ações de implementação das políticas é um indicador aferível que só vai ser apurado depois de executados os processos de revisão dos planos estaduais de combate à desertificação.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Ao longo do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estados  com instrumentos para implementação da Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca.
+Fonte De Dados Das Variáveis De Cálculo: Secretarias Estaduais de Meio Ambiente
+Forma De Disponibilização: MMA
+Procedimento De Cálculo: Somatório do número de estados com Áreas Suscetíveis à Desertificação (ASD) com instrumentos para implementação da Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 279
+Indicador: 9477
+Denominação: Número de iniciativas de Educação Ambiental Participativa, Popular e Territorial
+Sigla: EDUC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de número de iniciativas de educação ambiental instituídas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de iniciativas de Educação Ambiental Participativa, Popular e Territorial.
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Meio Ambiente e Mudança do Clima.
+Forma De Disponibilização: Site do Ministério do Meio Ambiente e Mudança do Clima
+Procedimento De Cálculo: Somatório de iniciativas de processos educativos ambientais.
+Limitações: O número revela apenas o aspecto quantitativo, não demonstrando a perspectiva qualitativa dos processos educativos ambientais postos em prática em cada um desses espaços educadores.
+Notas Explicativas: Espera-se que o indicador espelhe os arranjos institucionais locais para a implementação da Política Nacional de Educação Ambiental (PNEA) no enfrentamento dos riscos ambientais decorrentes das mudanças do clima.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Indicador: 11567
+Denominação: Número de instrumentos de informações climáticas disponibilizados
+Índice De Referência: 381.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Entregar à sociedade, em seus diversos segmentos, informações de tempo, clima, mudança climática, eventos extremos, entre outras informações ambientais, que contribuam para a mitigação, a adaptação e aumento da resiliência do país frente às mudanças climáticas observadas. As Informações climáticas serão produzidas, sistematizadas e disponibilizadas para todo o território nacional. Busca-se a integração dos componentes climáticos para viabilizar a formulação de políticas públicas ambientais, econômicas e sociais representando também uma oportunidade para contribuir com a disseminação de informações atualizadas sobre os efeitos e impactos das mudanças climáticas no território brasileiro. As informações produzidas poderão ser consumidas diretamente pela sociedade para uso diário e contínuo, mas também para planejamento no setor produtivo, prevenção e preparação contra riscos e planejamento de políticas e ações.
+Período Ou Data A Que Se Refere: 30/06
+Data De Divulgação/Disponibilização: Ao final do exercício civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = X1 + X2 + X3 + X4 = X5 + X6 + X7, onde Xi representa o valor atingido por cada uma das "i" entregas e N é definido como o "Total de instrumentos de informações climáticas desenvolvidos, atualizados e disponibilizados".
+X1 = Número de conjuntos de previsões de tempo, clima e ambientais gerados e disponibilizados à população pelo Centro de Previsão de Tempo e Estudos Climáticos, utilizando o sistema de supercomputador (Meta para 2024: 2.574)
+X2 = Número de sistemas e bases de informações desenvolvidos, atualizados e disponibilizados (Meta para 2024: 3)
+X3 = Número de conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo Centro de Previsão de Tempo e Estudos Climáticos – CPTEC/INPE, utilizando o sistema de supercomputação do INPE (Meta para 2024: 1)
+X4 = Número de Cenários Desenvolvidos (Meta para 2024: 1)
+X5 = Número de indicadores entregues (Meta para 2024: 20)
+X6 = Número de produtos integrados à base de informações georreferenciadas (Meta para 2024: 3)
+X7 = Número de estimativas anuais de Estoque de Biomassa e Carbono Florestal (Meta para 2024: 1)
+Fonte De Dados Das Variáveis De Cálculo: Página da Coordenação Geral de Ciência do Clima no portal do MCTI na internet - HOME — Ministério da Ciência, Tecnologia e Inovação (www.gov.br)
+Forma De Disponibilização: O indicador estará disponível no link: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cgcl
+Procedimento De Cálculo: O acesso aos instrumentos de informações climáticas poderão ser alcançados por meio do link dos sistemas::
+
+1.	Sistema SIRENE - https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/cgcl/paginas/sistema-de-registro-nacionalde- emissoes-sirene
+2.	Sistema AdaptaBrasil - https://adaptabrasil.mcti.gov.br/
+3.	Sistema Sinapse - https://brazil.energypolicy.solutions/scenarios/home?locale=pt
+4.	Sistema DataClima – em desenvolvimento.
+5.     Sistema de supercomputação do INPE
+6.      Portal de internet do INPe
+Notas Explicativas: O entendimento é que o indicador deste OE (número de instrumentos de informações climáticas disponibilizados) está correto, e deve ser dado pela soma das metas de cada uma das entregas que compõem este OE, com exceção da Entrega 2107 (Informações qualificadas sobre eventos extremos), a cargo do Censipan, que por ser medido em termos percentuais (e não unitários, como se dá com o restante das Entregas) não deve compor a fórmula para o resultado final do OE. Assim, os atributos do OE seriam:
+ Objetivo Específico: 0247 - Produzir, sistematizar e disponibilizar informações, previsões e modelos sobre mudança do clima, contemplando mitigação,
+adaptação e aumento da resiliência a eventos climáticos extremos
+Indicador: 11567 - Número de instrumentos de informações climáticas disponibilizados
+Unidade de Medida: unidade
+Meta: 06N8 - Ampliar o número de instrumentos de informações, previsões e modelos de mudanças climáticas
+Variáveis de cálculo: Número total de sistemas de instrumentos de informações climáticas desenvolvidos, atualizados e disponibilizados
+Procedimento de cálculo: O indicador representa o número absoluto, inteiro, de sistemas instrumentos de informações climáticas desenvolvidos, atualizados e disponibilizados dado por T = N
+Fórmula de cálculo:
+T = N
+N = X1 + X2 + X3 + X4 = X5 + X6 + X7, onde Xi representa o valor atingido por cada uma das "i" entregas e N é definido como o "Total de instrumentos de informações climáticas desenvolvidos, atualizados e disponibilizados".
+X1 = Número de conjuntos de previsões de tempo, clima e ambientais gerados e disponibilizados à população pelo Centro de Previsão de Tempo e Estudos Climáticos, utilizando o sistema de supercomputador (Meta para 2024: 2.574)
+X2 = Número de sistemas e bases de informações desenvolvidos, atualizados e disponibilizados (Meta para 2024: 3)
+X3 = Número de conjuntos de produtos numéricos desenvolvidos e disponibilizados pelo Centro de Previsão de Tempo e Estudos Climáticos – CPTEC/INPE, utilizando o sistema de supercomputação do INPE (Meta para 2024: 1)
+X4 = Número de Cenários Desenvolvidos (Meta para 2024: 1)
+X5 = Número de indicadores entregues (Meta para 2024: 20)
+X6 = Número de produtos integrados à base de informações georreferenciadas (Meta para 2024: 3)
+X7 = Número de estimativas anuais de Estoque de Biomassa e Carbono Florestal (Meta para 2024: 1)
+Assim, para o ano de 2024, a meta seria de 2.574 + 3 + 1 + 1 + 20 + 3 + 1 = 2.603 dados. No Siop a meta para 2024 consta incorretamente como 2.602 dados, provavelmente por um erro de cálculo ou por terem desconsiderado a Entrega 1290 (Cobertura florestal natural e respectivos valores de biomassa e carbono por bioma atualizados anualmente), que não está a cargo do Inpe.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Indicador: 9468
+Denominação: Percentual das emissões de GEE nacionais coberto por planos de mitigação
+Sigla: GEE
+Índice De Referência: 59.8
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: A linha de base de 59.8% foi calculada com base no Relatório das Estimativas Anuais de Emissões de Gases de Efeito Estufa (6ª Edição), ano 2020, métrica GWP-AR5, considerando que o Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal 2023-2027 (PPCDAm) e o Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária 2020-2030 (Plano ABC) são os planos setoriais vinculados ao setores "Uso da Terra, Mudança no Uso da Terra e Florestas" - LULUCF (o Bioma Amazônico correspondeu a 28.8% das emissões nacionais em 2020) e Agropecuário (31% das emissões nacionais em 2020). 
+Em 2024, o plano setorial de Energia estará formulado e aprovado (+21.9%), em 2025 os planos setoriais de Indústria/IPPU (+5.7%) e Resíduos (+5.1%), e em 2026 os planos de LULUCF/Outros Biomas (+7.5%) também, alcançando a meta de 100% das emissões das emissões nacionais de GEE coberto por planos setoriais de mitigação, com a previsão de revisão e renovação dos planos setoriais já existentes nos anos seguintes.
+Período Ou Data A Que Se Refere: Junho de 2023
+Data De Divulgação/Disponibilização: Contínuo
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: O Ano-Base de cálculo de distribuição dos percentuais é 2020, usando a métrica GWP-AR5 de contabilidade de emissões de GEE.
+Fonte De Dados Das Variáveis De Cálculo: A Fonte utilizada para definir os percentuais setoriais foi o relatório produzido em 2022 pelo Ministério da Ciência, Tecnologia e Inovação (MCTI), denominado "Estimativas Anuais de Emissões de Gases de Efeito Estufa no Brasil (6ª edição)", disponível em https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene/publicacoes/estimativas-anuais-de-emissoes-gee
+Forma De Disponibilização: Estimativas Anuais de Emissões de Gases de Efeito Estufa no Brasil (6ª edição), disponível em https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene/publicacoes/estimativas-anuais-de-emissoes-gee
+Procedimento De Cálculo: PPCDAm 2023-2027 (28%) + Plano ABC (31%) + Plano Setorial Energia (21.9%) + Plano Setorial Indústria (5.7%) + Plano Setorial Resíduos (5.1%) + Planos de Ação para Prevenção e Controle do Desmatamento Cerrado/Caatinga/Mata Atlântica/Pantanal/Pampa (7.5%) = 100% das emissões nacionais de GEE coberto por plano setoriais de mitigação.
+Limitações: Os percentuais de emissões de cada setor variam de acordo com o ano de estimativa e a métrica utilizada. Portanto, existe a necessidade de que o monitoramento futuro de alcance das metas tenha como referência o ano 2020 e a métrica GWP-AR5 do relatório "Estimativas Anuais de Emissões de Gases de Efeito Estufa no Brasil (6ª edição)".
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 274
+Indicador: 9507
+Denominação: Percentual da Zona Costeira e Marinha, com importância para mitigação e adaptação, protegida
+Sigla: COSTA
+Índice De Referência: 26.48
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O percentual de áreas costeiras e marinhas protegidas demonstra o aumento da capacidade de regulação do clima realizada pelo oceano, bem como a resiliência da zona costeira frente aos efeitos da mudança do clima
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: Contínuo
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Áreas Protegidas e Área da Zona Econômica Exclusiva Brasileira
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de Unidades de Conservação (CNUC)
+Forma De Disponibilização: No Cadastro Nacional de Unidades de Conservação (CNUC)
+Procedimento De Cálculo: Somatório de Áreas Protegidas afetas a área Marinha / área marinha do Brasil
+Limitações: Algumas unidades de Conservação abrangem tanto áreas terrestres como áreas marinhas, portanto, na contabilização, são consideradas apenas as áreas afetas as marinhas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Indicador: 10298
+Denominação: Percentual de municípios com ações de adaptação a eventos hidrológicos extremos
+Sigla: MAI
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador apresenta a fração de municípios que tiveram medidas de adaptação às mudanças climáticas voltadas a minimizar impactos de secas e cheias implementados, incluindo medidas de gestão e de mapeamento e identificação de riscos.
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: 2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MAI = Percentual de municípios com medidas de adaptação implementadas
+%MunISH-MC = Percentual de municípios com índice de segurança hídrica às mudanças climáticas calculado
+%MunIDF_MC = Percentual de municípios com risco de eventos extremos de precipitação (curvas IDFs) devido as mudanças climáticas calculado
+MVI = Percentual de municípios prioritários com vulnerabilidade a inundações mapeada
+Negs = Número de Estados com gatilhos de secas implementados
+Sint = Número de Estados com salas de situação integradas
+Fonte De Dados Das Variáveis De Cálculo: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Forma De Disponibilização: Portal de Metadados da ANA e SNIRH - Sistema Nacional de Informação de Recursos Hídricos
+Procedimento De Cálculo: O cálculo deve ser atualizado sempre que um novo município estiver com algum sub indicador atualizado
+Notas Explicativas: O Indicador deve ser avaliado considerando as peculiaridades regionais e aspectos relevantes de segurança hídrica nos municípios
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1158
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 247
+Enunciado: Produzir, sistematizar e disponibilizar informações, previsões e modelos sobre mudança do clima, contemplando mitigação, adaptação e aumento da resiliência a eventos climáticos extremos
+Descrição: Produzir, sistematizar e disponibilizar informações, previsões e modelos sobre mudança do clima, contemplando mitigação, adaptação e aumento da resiliência a eventos climáticos extremos
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 272
+Enunciado: Ampliar a adoção de medidas de mitigação e adaptação à mudança do clima
+Descrição: O Brasil possui diversas políticas setoriais que contribuem para redução de emissões de GEEs e alcance das metas definidas para 2025, 2030 e 2050 na última versão da NDC brasileira, as quais devem ser revisadas no futuro próximo com maior ambição. Para que o país alcance efetivamente suas metas, aproveite as oportunidades advindas da descarbonização planejada e estratégica da sua economia e se torne líder no desenvolvimento e exportação de soluções climáticas, é imprescindível que o governo federal disponha de instância de governança robusta e efetiva que defina uma estratégia nacional de médio e longo prazo de mitigação, formulada a partir da articulação, ampliação e criação de políticas setoriais que reduzam emissões de GEE, a ser implementada por instrumentos e mecanismos de financiamento voltados para essa transição econômica e ecológica em benefício da sociedade brasileira.
+O mesmo se aplica às políticas de adaptação. Levando em conta o conceito estabelecido na Política Nacional sobre Mudança do Clima (Lei n° 12.187, de 29 de dezembro de 2009), estas devem ser traduzidas como um conjunto de “iniciativas e medidas para reduzir a vulnerabilidade dos sistemas naturais e humanos frente aos efeitos atuais e esperados da mudança do clima”. Tendo em conta que as medidas adaptativas não devem visar somente os efeitos do aquecimento global, mas também a variabilidade natural e os eventos climáticos extremos e que as populações são afetadas de modo distinto e com intensidades variáveis, a resposta deve ser, portanto, abrangente, sensível às particularidades de cada sistema e extremamente dependentes do contexto onde elas se aplicam, tornando mais complexa a definição de indicadores.
+Diante da necessidade de ainda construir metas mensuráveis (quantificáveis) para as políticas de adaptação e da obrigatoriedade de escolha de apenas um indicador, optou-se por focar, para efeito deste monitoramento, nas metas de mitigação de GEE, ressaltando que o planejamento se dará nas dua
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 274
+Enunciado: Proteger, conservar e restaurar o oceano para contribuir na manutenção da sua capacidade de regular o clima global, bem como aumentar a resiliência da zona costeira brasileira frente à mudança do clima
+Descrição: Contribuir para manutenção da capacidade do oceano de regular o clima global e aumentar a resiliência da zona costeira em relação aos efeitos da mudança do clima
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 275
+Enunciado: Promover processos de recuperação e de prevenção da degradação em Áreas Susceptíveis de Desertificação, reduzindo a vulnerabilidade aos efeitos do clima em territórios rurais
+Descrição: Implementar estratégias integradas e intersetoriais envolvendo união, estados e municípios, visando reduzir e frear o avanço da degradação em Áreas Suscetíveis de Desertificação e núcleos em estágio avançado de desertificação. Essas estratégias envolvem a implementação de planos, projetos que promovam a adoção de tecnologias de manejo adequando do solo, da biodiversidade e da água, bem como de ações de inclusão produtiva focada na transição a sistemas produtivos agroecológicos que reduzam a vulnerabilidade social, ambiental e econômica das comunidades rurais envolvidas, fortalecendo sua capacidade adaptativa aos efeitos das mudanças do clima
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 279
+Enunciado: Incrementar a Educação Ambiental Participativa, Popular e Territorial para a promoção do bem viver e enfrentamento à emergência climática.
+Descrição: O enfrentamento das emergências climáticas requer a construção de estratégias coletivas pautadas em conhecimentos complexos (técnicos, científicos, sociais, culturais, econômicos, entre outros). Tanto para a elaboração quanto para a apropriação pela sociedade desse conjunto de conhecimentos é necessário grande investimento em iniciativas visando processos educativos socioambientais territoriais, pautados na participação ativa da população e de seus diversos setores. Nesse sentido, o fortalecimento de iniciativas de Educação Ambiental visa colaborar com a construção de uma cidadania ambiental, formando sujeitos objetivamente comprometidos com as mudanças culturais voltadas a transição em direção a sociedades sustentáveis e o cumprimento das metas dos ODS.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Objetivo Específico: 416
+Enunciado: Implementar medidas de adaptação às mudanças climáticas voltadas a minimizar os impactos de secas e inundações
+Descrição: Implementar medidas de adaptação às mudanças climáticas voltadas a minimizar os impactos de secas e inundações
+Órgão: 53000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+passage: Programa Número 1158
+
+Exercício: 2025
+Programa: 1158
+Objetivo: 1318
+Enunciado: Fortalecer a ação nacional frente à mudança do clima, enfrentando os desafios da mitigação e adaptação e promovendo a resiliência aos eventos climáticos extremos, viabilizando de forma transversal as oportunidades da transição para a economia de baixo carbono.
+Descrição: O enfrentamento à mudança do clima demanda priorização na agenda do Governo Federal. Trata-se de tema transversal e de ampla repercussão no desenvolvimento socioeconômico do País, o que exige uma ação governamental coordenada e integrada dos diferentes ministérios com competências institucionais atinentes ao tema. 
+A ratificação do Acordo de Paris e as Contribuições Nacionalmente Determinadas (NDC, acrônimo em inglês) previstas no referido Acordo, reforçaram a agenda de mudança do clima como um tema de desenvolvimento, que envolve aspectos ambientais, sociais, econômicos, financeiros e de planejamento de longo prazo. Trata-se de uma agenda que, se coordenada e implementada adequadamente, propiciará ao Brasil um desenvolvimento fundamentado no princípio da sustentabilidade e na consolidação de uma economia de baixa emissão de gases do efeito estufa, também propiciando segurança e bem-estar humano.
+Assim, além do grande desafio de enfrentamento à emergência climática, cabe destacar que a agenda de mudança do clima configura-se uma grande oportunidade para o Brasil. Poucos países no mundo apresentam condições tão favoráveis, especialmente de disponibilidade de recursos naturais e serviços ecossistêmicos, para promover essa mudança no modelo de desenvolvimento e posicionar-se, de maneira altamente competitiva em uma economia global que, crescentemente, é menos intensiva em carbono.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1158
+
+Exercício: 2025
+Programa: 1158
+Título: Enfrentamento da Emergência Climática
+Tipo: Finalístico
+Órgão: 44000.0
+Público-Alvo: A sociedade brasileira, cerca de 210 milhões de pessoas, em especial as populações e comunidades mais vulneráveis, considerando as localizadas na Zona Costeira (aproximadamente 26,6% da população), que sofrem os efeitos da mudança do clima, como o aumento do nível do oceano, eventos extremo, erosão, inundação, deslizamentos; aquelas que se encontram em regiões prioritárias de risco de desastres naturais (especialmente população que vive em periferias de grandes centros urbanos e que é majoritariamente negra) e, no caso do processo de desertificação, as populações da região do semi-árido (cerca de de 28 de milhões de habitantes).
+Descrição Do Problema: O Relatório de Síntese do 6º ciclo de avaliação do Painel Intergovernamental sobre Mudança do Clima (IPCC - AR6) aponta que a emergência climática é evidente, e que há opções para lidar com o fenômeno. Porém, a janela de oportunidade ao enfrentamento climático está se fechando. A mudança do clima causada pelo ser humano está afetando extremos climáticos e meteorológicos em todas as regiões, causando impactos adversos, perdas e danos à natureza e às pessoas.
+Em razão de seu grande volume e da alta capacidade térmica da água, o oceano constitui-se em regulador do sistema climático, reduzindo as diferenças de temperatura e criando as condições necessárias para a existência de um ambiente propício à vida no planeta, destacando-se que grande parcela da economia e da população brasileira habitam as zonas costeiras brasileiras, estando mais suscetíveis aos efeitos da mudança do clima.
+O desmatamento, queimadas, erosão, lixiviação (processo de “lavagem do solo, com perda de nutrientes e outros elementos químicos”), bem como o uso inadequado do solo, são causas do processo de desertificação, sendo que secas severas - ligadas à mudança do clima - contribuem para aceleração desse processo, com destruição de habitats e redução significativa da disponibilidade de recursos hídricos e perda física e química dos solos. A desertificação atinge de forma direta as populações mais vulneráveis, especialmente, as comunidades do semi-árido brasileiro, algo que é potencializado pela ausência de planejamento governamental para combater a desertificação e mitigar os efeitos da seca.
+A ausência de informações disponibilizadas em linguagem acessível, de previsões e modelos sobre mudança do clima contribuem para a baixa conscientização da população brasileira sobre o tema, em especial considerando as deficiências na resiliência aos eventos climáticos extremos, como os de origem hidrólogica (inundações, alagamentos, enchentes e deslizamento); geológicos e geofísicos (processos erosivos, deslizamentos) e climatológicos (estiagem e seca, queimadas e incêndios florestais, chuvas de granizo, geadas e ondas de frio e de calor). Tais previsões e modelos são essenciais para políticas públicas consistentes, processos de educação ambiental e de conscientização da população. Assim, o nivelamento dos dados dos modelos, para melhor acurácia e capacidade de resposta, é essencial. No caso do aumento do nível do mar, as diferenças de medição entre a altimetria e a batimetria, encontradas na zona costeira de algumas regiões, são um exemplo da necessidade deste nivelamento para a previsão dos efeitos desse aumento sobre as comunidades e cidades costeiras.
+Ainda, para promover a redução de emissões de gases de efeito estufa e a adaptação à mudança do clima, é necessária uma ação eficaz, possibilitada por compromisso político, governança multinível bem alinhada, estruturas institucionais, leis, políticas, maior acesso a financiamento e tecnologia e conscientização e engajamento da sociedade. Objetivos claros, coordenação multinível de políticas e processos inclusivos de governança auxiliam uma ação sobre mudança do clima mais eficaz.
+Causa Do Problema: Aumento da concentração de gases de efeito estufa na atmosfera, em decorrência de atividades antrópicas, em escala global. Expansão de áreas urbanas em áreas inadequadas e com infraestrutura inadequada e incremento dos usos e atividades no ambiente marinho sem planejamento são exemplos de processos que contribuem para agravar os contextos de exposição e vulnerabilidade aos impactos da mudança do clima.
+Evidências Do Problema: As anomalias verificadas nos dados do aumento de temperatura ao longo dos anos indicam tendência de aquecimento global devido a razões antrópicas. Esforço que une as nações signatárias da Convenção-Quadro das Nações Unidas sobre Mudança do Clima é o objetivo comum de estabilizar as concentrações de gases de efeito estufa (GEE) na atmosfera em nível que impeça uma interferência da ação humana perigosa no sistema climático global. Os processos de desertificação, por sua vez, afetam mais de 50% da superfície de terras do planeta, atingindo 1 bilhão de pessoas, causando sérios danos ao setor produtivo e à qualidade de vida da população afetada. No Brasil, as áreas correspondem a aproximadamente 40% do território nacional (3.500.000km²), abrangendo os espaços sob os climas árido, semiárido e subúmido seco, com mais da metade da população brasileira direta ou indiretamente afetada.
+Esses impactos afetaram cerca de 100 milhões de pessoas no Brasil e causaram perdas econômicas de mais de R$ 537 bilhões entre os anos de 1991 e 2021 (Atlas Digital de Desastres no Brasil 2022 - MIDR). O Brasil também aparece em estudo do Banco Mundial (Disasters in Numbers 2022) entre os dez países do mundo com maior número de óbitos e perdas econômicas em decorrência de desastres climáticos em 2022. Segundo o último relatório do Painel Intergovernamental sobre Mudança do Clima (IPCC), a mudança do clima intensificará ainda mais estes impactos nas próximas décadas, trazendo a urgência de se desenvolver e implementar políticas e planos para aumentar a resiliência do Brasil. Além das perdas de vidas e demais danos humanos, o problema se evidencia pelas perdas de ecossistemas costeiros e marinhos e pelos conflitos de uso e atividades na zona costeira e marinha.
+Justificativa Para A Intervenção: É necessário e urgente reduzir as vulnerabilidades e aumentar a resiliência aos impactos da mudança climática, diante do processo em curso de intensificação da frequência, intensidade e duração de eventos climáticos extremos. Como esses impactos atingem principalmente as populações e segmentos econômicos mais vulneráveis, a falta ou insuficiência das ações de adaptação à mudança do clima tendem a afetar crescentemente o desenvolvimento social e econômico do país, além de efeitos negativos sobre os ecossistemas que também geram repercussões sobre a sociedade e a economia. É necessário adaptar as cidades para o enfrentamento às mudanças do clima, em especial àquelas situadas na zona costeira, com ênfase em medidas baseada na natureza, restaurando e/ou protegendo os ecossistemas costeiros e marinhos e seus serviços ecossistêmicos de proteção e regulação. A redução das emissões de gases de efeito estufa, alinhada à trajetória de neutralidade em 2050, em linha à Contribuição Nacionalmente Determinada (NDC da sigla em inglês) do Acordo de Paris e à agenda de desenvolvimento sustentável, é necessária para evitar o agravamento do quadro e efetivar a contribuição do país para o esforço global de manter a elevação da temperatura em 1,5oC. Isso irá requerer o planejamento estratégico do país para o desenvolvimento da Economia Azul, aprofundamento da descarbonização da matriz energética e demais medidas voltadas ao cumprimento das metas da NDC. Com isso, o Programa contribuirá com o crescimento econômico ao planejar e monitorar a implementação de medidas voltadas ao desenvolvimento, produção e adoção de novas tecnologias, estimulando ações de eficiência energética, alavancando a produtividade agroflorestal, gerando empregos em setores produtivos e agregando valor à produção nacional pautada na sustentabilidade socioambiental. Numa perspectiva de apoio à agenda de reformas e ao fortalecimento das políticas públicas, o programa visa agregar visão de futuro, responsabilidade climática, transição justa para uma economia neutra em carbono e transparência na atuação governamental diante desse desafio global, contribuindo para a melhoria da qualidade de vida da população.
+Evolução Histórica: Mudança do Clima foi incluído como programa no PPA de 2000-2003, com o objetivo de “desenvolver informações científicas relativas à emissão de gases de efeito estufa para subsidiar a definição da política de atuação em mudanças climáticas”. Ao longo dos anos, evoluiu de forma a chegar ao PPA de 2016-2019 com 3 objetivos: gerar e disseminar informação, conhecimento e tecnologias para mitigação e adaptação aos efeitos das mudanças climáticas; mitigar a mudança do clima e promover a adaptação aos seus efeitos, por meio da implementação da Política Nacional sobre Mudança do
+Clima; desenvolver tecnologias para o monitoramento por sensoriamento remoto do desmatamento, uso da terra e ocorrência de queimadas e incêndios florestais e disseminar as informações geradas. No tocante à desertificação, antes do PPA de 2012-2015, a temática contava com um Programa próprio; a partir de então, o tema passou a compor o Programa de Mudança do Clima. Com relação aos incêndios florestais, as ações do governo se intensificaram nos dois últimos ciclos do PPA e principalmente no PPA 2016-2019 no qual houve a criação do programa Prevfogo, com abordagem direta do tema e envolvimento de diversos setores do governo. O Programa PROCOSTA - Programa Nacional de Conservação e Gestão da linha de Costa esteve presente no PPA 2016-2019 (composto pelos projetos: Alt-Bat; Perigos Costeiros e Projeção da Linha de Costa Futura; Riscos e Vulnerabilidade Costeira; Gestão da Linha de Costa Atual e Oportunidades Futuras) e foi descontinuado no PPA 2020-2023. Nesse PPA, estava estabelecida redução de emissões de gases de efeito estufa, incentivo ao uso de carvão vegetal na siderurgia brasileira, monitoramento do Plano Nacional de Adaptação e mapeamento de necessidades de financiamento para enfrentamento da mudança do clima. Nos últimos anos o Brasil vem integrando a adaptação na agenda nacional de mudança do clima, com iniciativas concentradas na identificação dos impactos, no mapeamento de vulnerabilidades, na estruturação de um sistema de monitoramento e alerta de desastres naturais, trabalho que ganhou relevância após a instituição do Plano Nacional de Adaptação à Mudança do Clima (PNA) e sua inclusão na NDC brasileira, junto à Convenção Quadro das Nações Unidas sobre Mudanças Climáticas.
+Comparações Internacionais: No tocante à agenda de mudança do clima, o Brasil participa ativamente das negociações da UNFCCC, ICAO e IMO, articulando-se com países do BASIC, do GRULAC e do G77. A meta de redução de emissões da NDC do Brasil, no âmbito do Acordo de Paris da UNFCCC, aplica-se ao conjunto da economia e prevê a implementação de medidas nos divesos setores, não estando condicionada ao financiamento internacional. Além de destacar-se na participação de fontes renováveis na sua matriz energética e nas tecnologias de redução e remoções de emissões no setor agropecuário, o paíse diferencia-se por uma alta participação das emissões oriundas para mudanças no uso da terra (desmatamento). Depois de uma forte redução das emissões oriundas do desmatamento no período de 2004 a 2010, verificou-se nos últimos anos uma tendência de novo crescimento dessas emissões devido à redução das ações governamentais de controle do desmatamento e outras atividades ilegais, em especial na Amazônia, o que tornou necessário rearticular e ampliar essas ações, visando retomar a posição do sendo o país como referência em metodologia de pagamento por resultados de REDD+. Neste contexto, a cooperação internacional bi, tri e multilateral propicia a evolução das políticas públicas e a incorporação de boas práticas. 
+Em relação à desertificação, o Brasil exerce relevante e mundialmente reconhecida participação na evolução histórica da UNCCD, como por exemplo na instituição do conceito de Neutralidade da Degradação Terra, atualmente um dos principais eixos de atuação/recomendação da Convenção. O país é referência internacional em termos de boas práticas no combate à desertificação, destacando-se por técnicas nacionalmente desenvolvidas e mundialmnete reconhecidas como Base-zero, Plantio Direto e Sistemas Agroflorestais. Em relação aos oceanos, muitos países tem a linha de costa prevista para as próximas décadas já definida e presentes em modelos de previsão, para poder definir ações de adaptação e mitigação de erosão e/ou inundação costeira. Por outro lado, todos os países da União Europeia desenvolveram processos de Planejamento Espacial Marinho. Alguns países, inclusive Chile, já inseriram nas suas metas de combate às mudanças do clima (NDCs) o oceano como aliado na mitigação e adaptação às mudanças do clima.
+Relação Com Os Ods: Objetivos e Metas ODS relacionadas: 1.b;2.3;2.4;2.5;2.a;8.9;9.4;10.1;10.2;12.2;12.b;14.1;14.7;14.b;15.6;15.9;15.b;15.c;17.14;17.16.
+Agentes Envolvidos: Setor público, setor privado, academia e organizações da sociedade civil.
+Articulação Federativa: Articulação com as 3 esferas de governo.
+Enfoque Transversal: Programa possui sinergias com ações de diversos ministérios e autarquias, a exemplo de: Ministério do Meio Ambiente e Mudança do Clima; Casa Civil da Presidência da República; Ministério da Agricultura e Pecuária; Ministério das Cidades; Ministério da Ciência, Tecnologia e Inovação; Ministério do Desenvolvimento Agrário e Agricultura Familiar; Ministério do Desenvolvimento, Indústria, Comércio e Serviços; Ministério da Fazenda; Ministério da Igualdade Racial; Ministério da Integração e do Desenvolvimento Regional;  Ministério de Minas e Energia; Ministério do Planejamento e Orçamento; Ministério da Gestão e Inovação; Ministério de Povos Indígenas; Ministério das Relações Exteriores; Ministério da Saúde; Ministério do Trabalho e Emprego; Ministério dos Transportes; Ibama; ICMBio; Embrapa; Agência Nacional de Águas; INPE; INMET; BNDES; IBGE; entre outros.
+Marco Legal: Política Nacional de Mudança do Clima – PNMC – Lei nº 12.187/2009; 
+Consolidação de Atos Normativos editados pelo Poder Executivo federal que dispõem sobre o Fundo Nacional sobre Mudança do Clima e a Política Nacional sobre Mudança do Clima – Decreto 9.578/2018; 
+Protocolo de Quioto à Convenção-Quadro das Nações Unidas sobre Mudança do Clima - Decreto nº 5.445/2005; 
+Acordo de Paris sob a Convenção-Quadro das Nações Unidas sobre Mudança do Clima - Decreto nº 9.073/2017; 
+Comitê Interministerial sobre Mudança do Clima (CIM) - Decreto nº 11.550/2023;
+Sistema de Registro Nacional de Emissões - Sirene e instrumentos da Política Nacional sobre Mudança do Clima - Decreto nº 9.172/2017
+Contribuição Nacionalmente Determinada (NDC) do Brasil, de 08 de fevereiro de 2022; 
+Constituição da República Federativa do Brasil de 1988, art.225;
+Convenção das Nações Unidas de Combate a Desertificação – UNCCD; 
+Política Nacional do Meio Ambiente - Lei nº 6.938/81; 
+Convenção Internacional de Combate à Desertificação nos Países afetados por Seca Grave e/ou Desertificação, Particularmente na África - Decreto nº 2.741/1998; 
+Proteção da vegetação nativa / Novo Código Florestal - Lei nº 12.651/2012; 
+Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca e seus instrumentos - Lei nº 13.153/2015;
+Plano Nacional de Adaptação à Mudança do Clima (PNA) - Portaria MMA nº 150/2016 
+DECRETO Nº 5.377 DE 23 DE FEVEREIRO DE 2005, aprova a Política Nacional para os Recursos do Mar - PNRM.
+LEI Nº 7.661, DE 16 DE MAIO DE 1988, institui o Plano Nacional de Gerenciamento Costeiro e dá outras providências.
+Decreto nº 10.544, de 16 de novembro de 2020, aprova o X Plano Setorial para os Recursos do Mar
+Decreto nº 5.300 de 7 de dezembro de 2004, regulamenta a Lei no 7.661, de 16 de maio de 1988, que institui o Plano Nacional de Gerenciamento Costeiro - PNGC, dispõe sobre regras de uso e ocupação da zona costeira e estabelece critérios de gestão da orla marítima, e dá outras providências.
+Portaria MMA nº 34, de 2 de fevereiro de 2021, aprova a listagem atualizada dos municípios abrangidos pela faixa terrestre da zona costeira brasileira.
+Decreto n. 4.339, de 22 de agosto de 2002, institui princípios e diretrizes para a implementação da Política Nacional da Biodiversidade.
+LEI n. 9.985, DE 18 DE JULHO DE 2000, institui o Sistema Nacional de Unidades de Conservação da Natureza e dá outras providências.
+LEI Nº 12.651, DE 25 DE MAIO DE 2012, Novo Código Florestal.
+Planos Nacionais, Setoriais E Regionais: Política Nacional de Mudança do Clima – PNMC – Lei nº 12.187/2009; 
+Consolidação de Atos Normativos editados pelo Poder Executivo federal que dispõem sobre o Fundo Nacional sobre Mudança do Clima e a Política Nacional sobre Mudança do Clima – Decreto 9.578/2018; 
+Contribuição Nacionalmente Determinada (NDC) do Brasil, de 08 de fevereiro de 2022; 
+Política Nacional de Combate à Desertificação e Mitigação dos Efeitos da Seca e seus instrumentos - Lei nº 13.153/2015;
+Plano Nacional de Adaptação à Mudança do Clima (PNA) - Portaria MMA nº 150/2016;
+Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal (PPCDAm);
+Plano de Ação para Prevenção e Controle do Desmatamento e das Queimadas no Cerrado (PPCerrado);
+Plano setorial de mitigação e de adaptação às mudanças climáticas para a consolidação de uma economia de baixa emissão de carbono na agricultura - Plano ABC (Agricultura de Baixa Emissão de Carbono);
+Plano Decenal de Expansão de Energia (PDE)
+Plano Nacional De Gerenciamento Costeiro - (PNGC II)
+Plano de Ação Federal para a Zona Costeira
+Estratégia e Plano de Ação Nacionais para a Biodiversidade – EPANB
+X Plano Setorial para os Recursos do Mar
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

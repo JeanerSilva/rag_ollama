@@ -1,0 +1,1328 @@
+passage: Programa Número 3107
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3212
+Indicador: 12632
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3213
+Indicador: 12636
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3260
+Indicador: 12628
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: m³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3261
+Indicador: 12629
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3262
+Indicador: 12631
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3263
+Indicador: 12633
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3265
+Indicador: 12635
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3210
+Indicador: 12626
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: m³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3211
+Indicador: 12630
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3264
+Indicador: 12634
+Denominação: Descarbonizar a matriz de transportes
+Em Apuração: Sim
+Unidade De Medida: l/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 89
+Entrega: 2574
+Indicador: 11873
+Denominação: Economia de energia elétrica por meio de ações do PROCEL
+Índice De Referência: 22.1
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: TWh
+Descrição: Economia de energia elétrica potencial obtida por meio de medidas implementadas (estudos, projetos, contratos, programas, dentre outras) através do Programa Nacional de Conservação de Energia Elétrica – PROCEL e do impacto do selo PROCEL.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano em curso.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Eiprocel: Somatório anual da economia potencial das ações implementadas pelo PROCEL, incluindo os impactos do selo PROCEL
+Fonte De Dados Das Variáveis De Cálculo: Resultados do PROCEL - Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A (ENBPar)
+Forma De Disponibilização: Resultados do PROCEL - Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A (ENBPar). Site da ENBPar - (https://enbpar.gov.br/areas-de-atuacao/programas-setorias/procel/)
+Procedimento De Cálculo: O cálculo é realizado diretamente pela Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A (ENBPar).
+Limitações: Pode haver revisão da série histórica de dados e da metodologia do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 118
+Entrega: 2568
+Indicador: 11867
+Denominação: Energia contratada no Sistema Interligado Nacional, com base nos critérios de suprimento
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Para atender às necessidades da demanda no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de energia por meio de leilões. 
+Assim, a mensuração de quanto percentualmente está sendo contratado é importante para saber a contribuição desse instrumento para o atendimento aos requisitos de Energia do Sistema Elétrico.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: Até o fim de janeiro, com informações referentes ao ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Energia contratada – Energia contratada em leilões de energia nova e de reserva de capacidade, na forma de Energia, realizados no ano.
+Demanda projetada – Energia projetada para o período de suprimento do leilão.
+Fonte De Dados Das Variáveis De Cálculo: Resultados oficiais dos leilões e documentos – Agência Nacional de Energia Elétrica - ANEEL (https://www.gov.br/aneel/pt-br/centrais-de-conteudos/relatorios-e-indicadores/leiloes), Câmara de Comercialização de Energia Elétrica - CCEE (https://www.ccee.org.br/web/guest/mercado/leilao-mercado) e Empresa de Pesquisa Energética - EPE(https://www.epe.gov.br/pt/leiloes-de-energia/leiloes).
+Forma De Disponibilização: Resultados oficiais dos leilões – ANEEL, CCEE e EPE.
+Procedimento De Cálculo: Para cada leilão, totaliza-se a Energia contratada e a projetada. Divide-se a Energia contratada pela projetada, encontrando assim o valor percentual para aquele leilão. Para saber o indicador anual, soma-se todos os valores percentuais dos leilões realizados no ano e divide-se pelo número de leilões realizados. Quando a energia projetada for zero ou não houver a realização de leilões o indicador será 100%.
+Limitações: O indicador pode ser maior que 100%, mas não menor que 0%. Quando não houver demanda projetada, o indicador será 100%.
+Notas Explicativas: Atentar-se que o indicador é influenciado pela realização de leilões no ano, decisão que pode variar de acordo com as necessidades apontadas pelo planejamento do Setor Elétrico Brasileiro.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3394
+Indicador: 12734
+Denominação: Execução de projetos de produção de combustível coprocessado
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados à produção de combustível coprocessado
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3215
+Indicador: 12637
+Denominação: Expandir a participação das fontes de energia limpa na matriz energética brasileira
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3216
+Indicador: 12638
+Denominação: Expandir a participação das fontes de energia limpa na matriz energética brasileira
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3217
+Indicador: 12639
+Denominação: Expandir a participação das fontes de energia limpa na matriz energética brasileira
+Em Apuração: Sim
+Unidade De Medida: MW
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3267
+Indicador: 12640
+Denominação: Expandir a participação das fontes de energia limpa na matriz energética brasileira
+Em Apuração: Sim
+Unidade De Medida: anos de Captura de CO2
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3277
+Indicador: 12644
+Denominação: Expandir a participação das fontes de energia limpa na matriz energética brasileira
+Em Apuração: Sim
+Unidade De Medida: Nm³/a
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 103
+Entrega: 2599
+Indicador: 11900
+Denominação: Índice de Sucesso nos Leilões de Transmissão - contratação
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Poder Concedente, representado pelo Ministério de Minas e Energia - MME, é o responsável pelo planejamento da expansão do setor elétrico. Dessa forma, o MME elabora o planejamento e o consolida em relatórios e estudos que integram o “Plano de Outorgas de Transmissão de Energia Elétrica – POTEE” e determinam quais as obras e os empreendimentos de transmissão devem ser licitados ou autorizados.
+
+Assim, por delegação e conforme as diretrizes do MME, a ANEEL organiza os leilões para contratar novas concessões para a prestação do serviço público de transmissão de energia elétrica.
+O indicador mede o índice de sucesso dos investimentos ofertados. A efetiva contratação dos empreendimentos de transmissão é essencial para viabilizar a  expansão da malha elétrica nacional, garantindo o escoamento da geração renovável e a integração regional, elementos-chave para o avanço da Transição Energética.
+Período Ou Data A Que Se Refere: ano correte
+Data De Divulgação/Disponibilização: dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Volume de investimento ofertado – quantidade total em R$ de investimento estimado disponibilizado no ano corrente para leilão.
+
+Volume de investimento contratado – quantidade total em R$ de investimento estimado efetivamente contratado após o processo licitatório.
+Fonte De Dados Das Variáveis De Cálculo: Gov.br/aneel - para consultar os resultados de leilões, acesse “Empreendedores”, “Leilões”, “Leilões de Transmissão”
+Forma De Disponibilização: Gov.br/aneel
+Procedimento De Cálculo: Após a divulgação dos resultados dos leilões programados para um mesmo ano, buscar no site da Aneel o valor do volume de investimento efetivamente contratado somados todos os certames, e dividir pelo valor do investimento total disponibilizado para leilão naquele ano.
+Limitações: Condições externas, fora da governança pública, de mercado (nacional e internacional), podem influenciar no interesse agentes para participarem como proponentes nos dos leilões de transmissão e eventualmente impactar negativamente no resultado do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3275
+Indicador: 12641
+Denominação: Investir em biorefinarias
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3276
+Indicador: 12642
+Denominação: Investir em captura de gás carbônico
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3280
+Indicador: 12643
+Denominação: Investir em Fundo para ações para a transição energética na Petrobrás
+Em Apuração: Sim
+Unidade De Medida: unidade
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3274
+Indicador: 12627
+Denominação: Investir no segmento de combustíveis de baixo carbono
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 89
+Entrega: 3214
+Indicador: 12554
+Denominação: Municípios contemplados pelo RELUZ
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: Município Beneficiado
+Descrição: O indicador reflete a quantidade e municípios beneficiados pelas 3ª e 4ª Chamadas do RELUZ (projetos de Eficientização de Iluminação Pública)
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: Primeiro semestre do ano em curso
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: M é a quantidade de municípios beneficiados pelas 3ª e 4ª Chamadas do RELUZ (projetos de Eficientização de Iluminação Pública)
+Fonte De Dados Das Variáveis De Cálculo: Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A (ENBPar)
+Forma De Disponibilização: Site da ENBPar
+Procedimento De Cálculo: ENBPar faz o monitoramento e o cálculo do indicador. Posteriormente, encaminha ao MME.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 89
+Entrega: 3266
+Indicador: 12555
+Denominação: Municípios contemplados pelo RELUZ
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: Município Beneficiado
+Descrição: O indicador reflete a quantidade e municípios beneficiados pelas 3ª e 4ª Chamadas do RELUZ (projetos de Eficientização de Iluminação Pública)
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: Primeiro semestre do ano em curso
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: M é a quantidade de municípios beneficiados pelas 3ª e 4ª Chamadas do RELUZ (projetos de Eficientização de Iluminação Pública)
+Fonte De Dados Das Variáveis De Cálculo: Empresa Brasileira de Participações em Energia Nuclear e Binacional S.A (ENBPar)
+Forma De Disponibilização: Site da ENBPar
+Procedimento De Cálculo: ENBPar faz o monitoramento e o cálculo do indicador. Posteriormente, encaminha ao MME.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 122
+Entrega: 2571
+Indicador: 11871
+Denominação: Número de Estudos para interligação de Sistemas Interligados
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A Conta de Consumo de Combustíveis – CCC reembolsa a diferença entre o custo de geração nos Sistemas Isolados e o custo médio da energia no Ambiente de Contratação Regulada (ACR médio) do Sistema Interligado Nacional (SIN).
+
+A indicação dos sistemas isolados que possuem viabilidade econômica para receberem investimentos em infraestrutura de interligação mostra-se relevante e benéfica à sociedade, trazendo confiabilidade no suprimento de energia às populações beneficiadas e reduzindo os custos com a CCC.
+Período Ou Data A Que Se Refere: Exercício corrente
+Data De Divulgação/Disponibilização: dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: somatório do número de estudos de avaliação de benefício econômico de interligação de Sistemas Isolado realizados no ano
+Fonte De Dados Das Variáveis De Cálculo: Empresa de Pesquisa Energética - EPE (www.epe.gov.br)
+Forma De Disponibilização: Página da EPE - www.epe.gov.br
+Procedimento De Cálculo: Contabilizar os estudos de Avaliação de Benefício Econômicos de Interligações de Sistemas Isolados realizados pela da EPE, em que é possível verificar todas as indicações de sistemas isolados com recomendação econômica para interligação e somar as realizadas no ano
+Limitações: Muitos sistemas isolados apresentam resultado de inviabilidade de interligação. Isso ocorre muitas vezes pela alta complexidade ambiental associada a uma nova linha de energia em região de forte presença de floresta nativa, bem como razões econômicas de investimento necessário frente a uma carga muitas vezes bastante reduzida nessas localidades. Nesses casos, a recomendação dos estudos de planejamento é pela manutenção do suprimento a essas cargas por meio de geração local.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 122
+Indicador: 9439
+Denominação: Participação energética do etanol carburante no mercado de combustíveis do ciclo otto – no ano
+Índice De Referência: 41.7
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O volume total de etanol carburante comercializado, em comparação com o volume total de combustíveis do ciclo Otto (etanol total + gasolina A) comercializado permite calcular a participação desse biocombustível e a intensidade média de carbono no ciclo Otto. A meta é sempre reduzir essa intensidade média de carbono, por meio do aumento da participação do etanol, tendo como referência o ano base. Esse aumento pode ocorrer com a elevação do percentual de mistura do anidro à gasolina A, ou com o aumento do consumo do etanol hidratado. substituição da gasolina C. Como o conteúdo energético do etanol equivale a aproximadamente 70% do conteúdo energético da gasolina C, multiplica-se o volume de etanol por 0,7 para converter em gasolina equivalente
+Período Ou Data A Que Se Refere: exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: 3 meses após a data de fechamento dos volumes de combustíveis líquidos na matriz de transportes pela ANP
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: item 1 - Consumo final de gasolina A
+item 2 - Consumo final de Álcool Etílico total 
+item 3 - multiplicar o item 2 por 0,7
+Fonte De Dados Das Variáveis De Cálculo: Empresa de Pesquisa Energética - EPE
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP
+Forma De Disponibilização: BEN (Balanço Energético Nacional).                                                                                   Tabelas: 
+1) Tabela 2.23 – Gasolina (Consumo Energético Final)
+2) Tabela 2.32 Álcool Etílico Total (Linha Consumo Final Energético) ou 
+3) Tabela 2.33 – Álcool Anidro (Linha Consumo Final Energético) + Tabela 2.34– Álcool Anidro (Linha Consumo Final Energético
+Procedimento De Cálculo: 1)     No link acima (BEN), na tabela referente aos dados da demanda de Gasolina (Tabela 2.23 no ano de 2022), localizar a linha referente ao ano de trabalho e destacar o número; 2)	No link acima BEN, na tabela referente aos dados da demanda de álcool etílico total (Tabela 2.32 no ano de 2022), localizar a linha referente ao ano de trabalho e destacar o número” 3)	Multiplicar o item 2 por 70% (conteúdo energético em relação à gasolina);  4) Dividir o resultado do item (3) pela soma do  item (1) e item (2).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3379
+Indicador: 12714
+Denominação: Pequenas Centrais Hidrelétricas construídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador refere-se à capacidade de geração das Pequenas Centrais Hidrelétricas (PCHs) incluídas no Novo Programa de Aceleração do Crescimento (PAC), com previsão de construção até 2027
+Período Ou Data A Que Se Refere: mês anterior ao  mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: usina construída no ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar as PCH ; 2) Somar a quantidade de usinas construídas durante o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 2591
+Indicador: 11886
+Denominação: Percentual de evolução na capacidade instalada para produção de energia elétrica limpa
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Expressa a variação anual da capacidade instalada total de vetores energéticos limpos (fontes renováveis e nuclear) disponíveis para geração de eletricidade no país. Na prática, indica o ritmo com que a potência instalada limpa está se expandindo, um reflexo direto dos investimentos, da atividade econômica e dos avanços em termos de políticas públicas e regulação para o setor elétrico.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: final do primeiro semestre do ano em curso
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CapEEA1 = Capacidade instalada para produção de energia elétrica limpa no ano de avaliação 
+CapEEA0 = capacidade instalada para produção de energia elétrica limpa do ano anterior ao ano de avaliação
+Fonte De Dados Das Variáveis De Cálculo: Empresa de Pesquisa Energética – EPE.
+Forma De Disponibilização: Balanço Energético Nacional da EPE. Tabela I.2 e I.3 do Documento Final ou Anexo I das Séries Históricas do BEN..
+Procedimento De Cálculo: Cálculo do percentual obtido pela divisão entre a Capacidade instalada para produção de energia elétrica limpa no ano de avaliação e a capacidade instalada para produção de energia elétrica limpa do ano anterior ao ano de avaliação.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 115
+Entrega: 2612
+Indicador: 11944
+Denominação: Percentual de Sistemas Isolados com participação de fontes renováveis de geração de energia
+Índice De Referência: 5.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Identificação, em base anual, da elevação de participação de fontes renováveis na geração de energia elétrica nos sistemas isolados. O Portal de Acompanhamento dos Portal de Acompanhamento e Informações dos Sistemas Isolados (PASI), apresenta as principais informações e dados dos sistemas isolados identificados anualmente pela EPE, com uma compilação das informações da geração anual (MWh), das usinas em operação, alimentados pela Câmara de Comercialização de Energia Elétrica (CCEE) e parceria com os dados do Operador Nacional do Sistema Interligado – ONS apresentados no planejamento anual do orçamento da CCC.
+Período Ou Data A Que Se Refere: exercicio anterior ao corrente
+Data De Divulgação/Disponibilização: até 60 dias após a data de referência considerada para o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 〖Nº SISOL〗_ren = número de Sistemas Isolados com participação de fontes renováveis de geração de energia 
+〖Nº SISOL〗_total = Número total de Sistemas Isolados
+Fonte De Dados Das Variáveis De Cálculo: Planejamento do Atendimento aos Sistemas Isolados, publicado anualmente pela EPE.
+Forma De Disponibilização: Publicação do relatório na página eletrônica da Empresa de Pesquisa Energética – EPE, disponibilizado em: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/sistemas-isolados
+Procedimento De Cálculo: Para o cálculo desse indicador, serão consideradas a indicação das fontes energéticas utilizadas para a geração de energia elétrica no atendimento dos Sistemas Isolados, apresentados no Planejamento do Atendimento aos Sistemas Isolados, publicado anualmente pela EPE, em uma comparação entre no número de sistemas isolados que utilizam fonte renovável em relação ao total de sistemas isolados identificados no ano de análise (imediatamente anterior)
+Limitações: Possíveis restrições podem impactar a continuidade do atendimento da meta, como o impacto de barreiras técnicas e econômicas para inserção de soluções de geração que utilizem fonte renováveis, alterações no perfil da carga para as localidades, e permanência de localidades como sistemas isolados cuja previsão de interligação não sejam atendidas. Uma base de dados foi estruturada e disponiblizada pela EPE em julho/2024, a partir da coordenação do Ministério de Minas e Energia e em atendimento à Portaria MME nº 59, de 26 de dezembro de 2022,  para melhor representar as informações que estão sob a gestão do ONS, da Aneel e da CCEE, concernentes ao suprimento de energia dessas localidades.
+Notas Explicativas: O indicador pode ser afetado positivamente pela realização dos leilões de contratação de novos empreendimentos para atendimento dos Sistemas Isolados, com diretrizes estabelecidas pelo MME de inserção mínima de fontes renováveis, pela conexão de algumas dessas localidades ao Sistema Interligado Nacnional - SIN e pela utilização de outros instrumentos, como a execução de projetos com recursos do Pró-Amazônia Legal (Decreto nº 11.059, de 3 de maio de 2022).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 121
+Indicador: 8941
+Denominação: Percentual obrigatório médio de biodiesel comercializado no diesel B
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A participação média obrigatória de biodiesel no diesel B vigente no ano permite acompanhar se as metas de percentuais de adição obrigatória de biodiesel no diesel, definidas pela Lei do Combustível do Futuro (Lei nº 14.993, de 2024), estão sendo efetivadas em território nacional em prol da descarbonização do setor de transportes.
+Período Ou Data A Que Se Refere: exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: A partir do 2º mês do ano em curso.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Voli:  somatório do teor obrigatório de biodiesel que vigorou em cada mês do ano anterior dividido por 12.
+Fonte De Dados Das Variáveis De Cálculo: Empresa de Pesquisa Energética - EPE
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP
+Forma De Disponibilização: Painel dinâmico da ANP: 
+1) Produtores de Biodiesel -  https://app.powerbi.com/view?r=eyJrIjoiOTlkODYyODctMGJjNS00MGIyLWJmMWItNGJlNDg0ZTg5NjBlIiwidCI6IjQ0OTlmNGZmLTI0YTYtNGI0Mi1iN2VmLTEyNGFmY2FkYzkxMyJ9&pageName=ReportSection8aa0cee5b2b8a941e5e0%22                                              
+2) Mercado Brasileiro de Derivados e Biocombustíves -  https://app.powerbi.com/view?r=eyJrIjoiYmUzMTY0NWYtNmEzYS00ZWVjLWFkMDgtZmI2NzM4ZmYzYzg4IiwidCI6IjQ0OTlmNGZmLTI0YTYtNGI0Mi1iN2VmLTEyNGFmY2FkYzkxMyJ9
+Procedimento De Cálculo: somar o teor obrigatório de biodiesel no diesel B que vigorou efetivamente em cada mês e dividir por 12 ao final.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 118
+Entrega: 2565
+Indicador: 11863
+Denominação: Potência contratada no Sistema Interligado Nacional, com base nos critérios de suprimento
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Para atender às necessidades da demanda, no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de potência por meio de leilões. Desta forma, anualmente é realizado todo o levantamento da necessidade de expansão, podendo ou não ter como resultado a realização de um leilão. A mensuração de quanto percentualmente está sendo contratado é importante para saber a contribuição desse instrumento para o atendimento aos requisitos de potência do Sistema Elétrico.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: até o fim de janeiro, com informações referentes ao ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Potência contratada – potência contratada em leilões de reserva de capacidade, na forma de potência, realizados no ano.
+Demanda projetada – potência projetada para o período de suprimento do leilão
+Fonte De Dados Das Variáveis De Cálculo: Resultados oficiais dos leilões e documentos – Agência Nacional de Energia Elétrica - ANEEL (https://www.gov.br/aneel/pt-br/centrais-de-conteudos/relatorios-e-indicadores/leiloes), Câmara de Comercialização de Energia Elétrica - CCEE (https://www.ccee.org.br/web/guest/mercado/leilao-mercado) e Empresa de Pesquisa Energética - EPE(https://www.epe.gov.br/pt/leiloes-de-energia/leiloes).
+Forma De Disponibilização: Resultados oficiais dos leilões – ANEEL, CCEE e EPE.
+Procedimento De Cálculo: Para cada leilão, totaliza-se a potência contratada e a projetada. Divide-se a potência contratada pela projetada, encontrando assim o valor percentual para aquele leilão. Para saber o indicador anual, soma-se todos os valores percentuais dos leilões realizados no ano e divide-se pelo número de leilões realizados. Quando a potência projetada for zero ou não houver a realização de leilões o indicador será 100%.
+Limitações: O indicador pode ser maior que 100%, mas não menor que 0%. Quando não houver demanda projetada, o indicador será 100%.
+Notas Explicativas: Atentar-se que o indicador é influenciado pela realização de leilões no ano, decisão que pode variar de acordo com as necessidades apontadas pelo planejamento do Setor Elétrico Brasileiro.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 53
+Entrega: 2382
+Indicador: 11745
+Denominação: Produção anual de concentrado de urânio
+Índice De Referência: 106.9
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: tonelada
+Descrição: Mede a Capacidade de Produção do Concentrado de Urânio (U308) anual em toneladas, a partir da produção na Unidade de Concentração de Urânio – URA, realizada pela INB no município de Caetité – BA
+Período Ou Data A Que Se Refere: ano anterior ao ano corrente
+Data De Divulgação/Disponibilização: até o final de abril do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Pc U3O8 – Produção de concentrado de urânio
+Fonte De Dados Das Variáveis De Cálculo: Indústrias Nucleares do Brasil S.A. - INB
+Forma De Disponibilização: Relatório da Administração da INB, caso o relatório não seja publicado, o valor da produção será obtido diretamente com a empresa.
+Procedimento De Cálculo: Atualmente, só existe uma mina de exploração de urânio em operação no país. Assim, não há necessidade de fórmula de cálculo, o valor da meta é a produção de Caetité. A mina de Santa Quitéria não deverá entrar em operação no período do PPA em vigor.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 53
+Entrega: 2378
+Indicador: 11740
+Denominação: Produção beneficiada em metal contido para transição energética
+Índice De Referência: 17430988.99
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: tonelada
+Descrição: O Brasil é um dos principais países com expressiva participação na produção beneficiada em metal contido para transição energética mundial. Com a emergência da transição energética, é fundamental que o País aumente a produção desses minerais.
+
+São considerados minerais para transição energética:
+I – Lítio;
+II – Elementos Terras Raras;
+III – Níquel;
+IV – Cobre;
+V – Nióbio;
+VI – Alumínio;
+VII – Grafita;
+VIII – Manganês;
+IX – Vanádio; 
+X – Silício; e
+XI – Cobalto.
+Período Ou Data A Que Se Refere: dois anos antes do exercício corrente
+Data De Divulgação/Disponibilização: Segundo trimestre do exercício seguinte ao ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PB: Produção Beneficiada em metal contido “n” no exercício atual
+N: Quantidade de minerais considerados
+Serão considerados neste primeiro momento os seguintes minerais: alumínio, cobre, nióbio, níquel e vanádio. Considerando as limitações existentes, não são contabilizados os dados para silício e cobalto.
+Fonte De Dados Das Variáveis De Cálculo: Dados do Anuário Mineral Brasileiro, disponíveis no Portal de Dados Abertos - Produção Beneficiada
+Forma De Disponibilização: Anualmente a ANM publica o Anuário Mineral Brasileiro. As informações são retiradas do Portal de Dados Abertos. Os dados da Produção Beneficiada estão disponíveis em:  https://dados.gov.br/dados/conjuntos-dados/anuario-mineral-brasileiro-amb
+Procedimento De Cálculo: A ANM é responsável pela regulação e fiscalização do setor mineral brasileiro. Dessa forma, a Agência recebe anualmente das empresas de mineração os dados da produção beneficiada, que após consolidados são publicados, por substância, no Anuário Mineral Brasileiro. Os dados de produção beneficiada das substâncias disponíveis são extraídos do Portal de Dados Abertos e aplicados na fórmula de cálculo.
+Limitações: Apesar de receber os dados da produção nacional referente a todos os minerais para transição energética, a ANM só publiciza no Anuário Mineral Brasileiro, os dados dos minerais com produção nacional relevante. Dessa forma, não são contabilizados os dados para silício e cobalto.
+Caso haja alteração nesse cenário, a Secretaria Nacional de Geologia, Mineração e Transformação Mineral (SNGM) irá promover a incorporação dos dados no cálculo do indicador e indicará essa mudança.
+Notas Explicativas: A produção beneficiada em metal contido para transição energética depende de fatores externos como aumento ou queda da demanda, nesse contexto que as empresas montam suas estratégias mercadológicas. Diversos estudos demonstram de forma consistente que a demanda por minerais para transição energética deve aumentar nos próximos anos, o que deve aquecer o mercado e mundial e ampliar a produção nacional para atender o mercado.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3389
+Indicador: 12726
+Denominação: Taxa de execução de projetos de produção de derivados renováveis
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados à produção de derivados renováveis (biorrefino)
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3386
+Indicador: 12723
+Denominação: Unidade de captura e estocagem de gás carbono Implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador monitora s execução de projetos dedicados à captura e armazenamento de dióxido de carbono (CO₂), com o objetivo de mitigar emissões de gases de efeito estufa e combater as mudanças climáticas. Reflete iniciativas que utilizam tecnologias como: Captura direta em fontes industriais, BECCS (Bioenergia com Captura e Armazenamento de Carbono) e Armazenamento geológico subterrâneo.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: A definir
+Polaridade: Não se aplica
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3388
+Indicador: 12725
+Denominação: Usinas de Etanol de 2a. Geração construídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados  às Usinas de etanol previstas para serem construídas até 2027.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Entrega: 3427
+Indicador: 12786
+Denominação: Usinas de Etanol de 2a. Geração construídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados  às Usinas de etanol presvistas para serem construídas até 2027.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3417
+Indicador: 12785
+Denominação: Usinas Eólicas construídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador acompanha a capacidade instalada das usinas eólicas integradas ao Novo Programa de Aceleração do Crescimento (PAC), com previsão de conclusão da construção até 2027. Representa o avanço na expansão de fontes renováveis não hidráulicas na matriz elétrica nacional, fortalecendo a diversificação energética e a sustentabilidade do sistema
+Período Ou Data A Que Se Refere: mês anterior ao mês de referência
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: usina construída no ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar as Usinas Eólicas ; 2) Somar a quantidade de usinas construídas durante o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Entrega: 3384
+Indicador: 12720
+Denominação: Usinas fotovoltaicas construídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador monitora a capacidade de geração das usinas fotovoltaicas integrantes do Novo Programa de Aceleração do Crescimento (PAC), com previsão de constução até 2027.
+Período Ou Data A Que Se Refere: mês anterior ao  mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: usina construída no ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar as Usinas Fotovoltaicas ; 2) Somar a quantidade de usinas construídas durante o ano x
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 3107
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 118
+Indicador: 8992
+Denominação: Contratação da demanda projetada no Sistema Interligado Nacional, com base nos critérios de suprimento
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Para atender às necessidades da demanda no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de energia e potência por meio de leilões. . Desta forma, anualmente é realizado todo o levantamento da necessidade de expansão, podendo ou não ter como resultado a realização de um leilão. 
+Assim, a mensuração de quanto percentualmente está sendo contratado é importante para saber a contribuição desse instrumento para o atendimento aos requisitos de energia e potência do Sistema Elétrico.
+Período Ou Data A Que Se Refere: Exercício anterior ao atual
+Data De Divulgação/Disponibilização: Até o fim de janeiro, com informações referentes ao ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Demanda contratada – potência ou energia contratada em leilões de energia nova, reserva de capacidade, na forma de energia ou potência, realizados no ano.
+Demanda projetada – potência ou energia projetada em leilões de energia nova, reserva de capacidade, na forma de energia ou potência, realizados no ano.
+Fonte De Dados Das Variáveis De Cálculo: Resultados oficiais dos leilões e documentos – Agência Nacional de Energia Elétrica - ANEEL (https://www.gov.br/aneel/pt-br/centrais-de-conteudos/relatorios-e-indicadores/leiloes), Câmara de Comercialização de Energia Elétrica - CCEE (https://www.ccee.org.br/web/guest/mercado/leilao-mercado) e Empresa de Pesquisa Energética - EPE(https://www.epe.gov.br/pt/leiloes-de-energia/leiloes).
+Forma De Disponibilização: Resultados oficiais dos leilões – Agência Nacional de Energia Elétrica - ANEEL, Câmara de Comercialização de Energia Elétrica - CCEE e Empresa de Pesquisa Energética - EPE.
+Procedimento De Cálculo: Para cada leilão, totaliza-se a demanda contratada e a projetada. Divide-se a demanda contratada pela projetada, encontrando assim o valor percentual para aquele leilão. Para saber o indicador anual, soma-se todos os valores percentuais dos leilões realizados no ano e divide-se pelo número de leilões realizados.
+Limitações: O indicador pode ser maior que 100%, mas não menor que 0%. Quando não houver demanda projetada, o indicador será 100%.
+Notas Explicativas: Atentar-se que o indicador é influenciado pela realização de leilões no ano, decisão que pode variar de acordo com as necessidades apontadas pelo planejamento do Setor Elétrico Brasileiro e as projeções futuras de necessidade das distribuidoras.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 103
+Indicador: 8987
+Denominação: Índice de Sucesso nos Leilões de Transmissão
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Índice de Sucesso nos Leilões de Transmissão exprime o seguinte racional:
+(i) no numerador, o valor de investimento dos lotes arrematados; e
+(ii) no denominador, o valor total de investimento dos lotes disponibilizados nos Leilões;
+Em palavras, o indicador avalia o quanto de investimento foi arrematado em relação à quantidade total de investimentos ofertados nos leilões de um determinado ano-calendário. Na ausência de leilões no período, o indicador é nulo, refletindo a inexistência de necessidade adicional por oferta de energia.
+Período Ou Data A Que Se Refere: Ao ano anterior
+Data De Divulgação/Disponibilização: último dia útil do mês de janeiro, para consolidação dos resultado do ano-calendário anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Índice → resultado final expresso em percentual;
+• Numerador → o valor de investimento dos lotes arrematados no ano-calendário; e
+• Denominador → o valor total de investimento dos lotes disponibilizados no ano-calendário;.
+Fonte De Dados Das Variáveis De Cálculo: Resultados dos Leilões no Ano-calendário a serem fornecidos pela Agência Nacional de Energia Elétrica - ANEEL.
+Forma De Disponibilização: Resultados dos Leilões de Transmissão - ANEEL - https://app.powerbi.com/view?r=eyJrIjoiZjJiZjBiOTgtYzcxOS00NzZjLWE4NDItODg4NzkyYTdkNjgyIiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9
+Procedimento De Cálculo: A partir das informações disponibilizadas oficialmente pela ANEEL: somar o investimento dos lotes arrematados no ano-calendário; somar o investimento de todos os lotes ofertados no ano-calendário; analisar resultados, expurgos, excecionalidades; realizar a operação de divisão; definir indicador.
+Limitações: Não há na presente data. Contudo cabe destacar que mudanças bruscas nas condições macroeconômicas e microeconômicas afetam o rol de resultados esperados. Por exemplo, os efeitos decorrentes da pandemia COVID-19, taxas de juros de longo prazo; câmbio, inflação de matéria-prima, produtos e serviços, impactam diretamente no resultado dos leilões do ano-calendário.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 122
+Indicador: 9012
+Denominação: Número de localidades interligadas ao SIN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador expressa a quantidade de sistemas isolados que foram interligados ao Sistema Interligado Nacional - SIN em um determinado ano.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Junho do ano seguinte ao ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Si: número de sistemas isolados interligados nacionalmente em um determinado ano
+Fonte De Dados Das Variáveis De Cálculo: Ministério de Minas e Energia, Empresa de Pesquisa Energética, Operador Nacional do Sistema Elétrico, Agência Nacional de Energia Elétrica.
+Forma De Disponibilização: Relatório de Planejamento do Atendimento aos Sistemas Isolados emitido e publicado anualmente pela Empresa de Pesquisa Energética, no qual são disponibilizadas, dentre outras, projeções de carga e demanda e interligações previstas para os Sistemas Isolados.
+Procedimento De Cálculo: 1) Verificar a quantidade de localidades interligadas ao SIN; e 
+2) Efetuar a Soma
+Limitações: Conclusão das obras de interligação em execução, sob a gestão das distribuidoras, nos prazos previstos e autorizados por dificuldades técnicas e/ou econômicas na execução.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Indicador: 9433
+Denominação: Número em milhões de CBIOS emitidos no país no ano
+Índice De Referência: 31.23
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: milhão
+Descrição: O Crédito de Descarbonização por Biocombustíveis (CBIO) tem como unidade padrão uma tonelada de CO₂ equivalente (tCO₂e), correspondendo a 1 tCO₂ evitada em comparação à emissão que ocorreria com o uso de combustíveis fósseis, com base na análise de ciclo de vida dos biocombustíveis certificados no âmbito do RenovaBio
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: 3 meses após a data de fechamento dos volumes de combustíveis líquidos na matriz de transportes pela ANP
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Resultado do indicador é obtido diretamente por meio do painel dinâmico ANP
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP
+Forma De Disponibilização: Ferramenta interativa (painel dinâmico ANP) - https://app.powerbi.com/view?r=eyJrIjoiZTU5NWY0NGYtNzg2OC00NTk5LWI5OTItMTYxMmYxNGI1OTczIiwidCI6IjQ0OTlmNGZmLTI0YTYtNGI0Mi1iN2VmLTEyNGFmY2FkYzkxMyJ9
+Procedimento De Cálculo: O procedimento de cálculo se refere à obtenção do dado referente ao volume CBIOs emitidos no âmbito do RenovaBio.
+1)	Clicar EM “EMISSÃO DE CBIOS POR PERIODO”; abrirá outra “página”;
+2)	Nela, no canto superior esquerdo, aparecerá  uma coluna com os anos de referência, um a um e uma caixinha ao lado para marcar o ano em que deseja avaliar (ex. 2022, 2023 etc).
+3)	Após marcar o ano que se deseja, na mesma página, à direita, encontre a coluna “CBIOS ACUMULADO de “mês”; e
+4)	Nessa coluna, escolha o mês de dezembro do ano em que se deseja avaliar: o número de CBIOS ACUMULADOS do ano estará na linha de dezembro.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 89
+Indicador: 8931
+Denominação: ODEX BRASIL
+Sigla: ODEX BRASIL
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: -
+Descrição: Índice de evolução da eficiência energética no país. O ODEX é um indicador que apura o progresso da eficiência energética.
+Pode ser agregado por setor (industrial, residencial e transportes) ou para a economia como um todo. O ODEX é utilizado pela União Europeia, no programa ODYSSEE database para monitoramento dos ganhos de eficiência. O ODEX por setor (por exemplo: indústria) é baseado nos índices de consumo unitário por subsetor (cimento, cerâmica, têxtil etc.), ponderado pela participação no consumo total de energia do setor. O consumo unitário por subsetor pode ser expresso em diferentes unidades com objetivo de fornecer a melhor “proxy” de avaliação da eficiência energética, seja o consumo por domicílio, por produção física, número de veículos, por exemplo. Para o Atlas da EPE, considerou‐se 2005 como ano base (valor = 100), em função essencialmente da disponibilidade de dados para a maior parcela dos setores a partir desse ano. O decréscimo no índice de consumo unitário do valor 100 em 2005 para 80, por exemplo, representa um ganho de eficiência energética de 20% ao longo do período analisado. Em contrapartida, caso o ODEX aumente de 100 para 120, terá havido uma piora na eficiência energética ao longo dos anos em questão. No caso do ODEX global, o mesmo método é aplicado com fatores ponderados, baseados nas participações do consumo total de energia final de cada setor.
+Período Ou Data A Que Se Refere: Exercício anterior ao do ano em curso
+Data De Divulgação/Disponibilização: Durante o ano em curso
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Evolução da eficiência energética no país baseada nas participações do consumo total de energia final de cada setor em relação ao total de energia final, considerando todos os setores avaliados (indústria, residencial e transportes).
+Fonte De Dados Das Variáveis De Cálculo: Atlas de Eficiência Energética
+Forma De Disponibilização: Site da Empresa de Pesquisa Energética (https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/atlas-da-eficiencia-energetica-brasil)
+Procedimento De Cálculo: EPE faz o monitoramento e o cálculo do indicador, que  é disponibiliza através do Atlas de Eficiência Energética, tanto em um relatório de indicadores em formato de documento (PDF), quanto como base de dados, em formato editável (.xls).
+Notas Explicativas: Em relação a definição do índice de eficiência energética ODEX, mais especificamente sua fórmula, citamos o seguinte trecho de documento relacionado a base de dados do projeto europeu ODYSSEE-Mure, que visa a concretização de políticas de eficiência energética e monitorização dos seus impactos através de indicadores e bases de dados. (Definition of ODEX indicators in ODYSSEE data base (odysseemure.eu)):
+
+Pode haver revisão de série histórica de dados, em função de novas coletas ou aprimoramentos metodológicos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Indicador: 8935
+Denominação: Oferta de Energia Limpa
+Sigla: OIE Limpa
+Índice De Referência: 46.3
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador expressa o percentual  de energia limpa (renovável) mais a energia nuclear demandada pelo Brasil em um determinado ano, em relação ao total de energia demandada.
+Período Ou Data A Que Se Refere: Exercício anterior ao do ano em curso
+Data De Divulgação/Disponibilização: no primeiro semestre do ano em curso
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Oferta interna de energia (OIE) ou demanda total de energia, representa a energia necessária para movimentar a economia de um país ou região num determinado período de tempo e inclui o consumo final de energia nos setores econômicos, incluindo o residencial, as perdas em transporte e distribuição, as perdas nos processos de transformação de energia e o consumo próprio do setor energético.
+Oferta interna de energia limpa é a parcela da OIE referente a energia renovável mais nuclear.
+Fonte De Dados Das Variáveis De Cálculo: Diversas fontes do setor de energia, e consolidadas pela Empresa de Pesquisa Energética.
+Forma De Disponibilização: Publicação do Balanço Energético Nacional, site do Ministério de Minas e Energia - MME
+www.mme.gov.br
+Procedimento De Cálculo: É calculado em trabalho conjunto da Empresa de Pesquisa Energética - EPE, Ministério de Minas e Energia - MME e diversos agentes públicos e privados do setor de energia, e disponibilizado ao público via planilhas do Balanço Energético Nacional.
+Limitações: Depende de coleta de muitos dados energéticos, sendo algum deles dados primários e de Associações. Pode haver algum pequeno grau de estimativa. Revisão de série histórica pode ocorrer.
+Notas Explicativas: Pode haver revisão de série histórica de dados.
+
+Polaridade: Desejável estar acima do valor da data de referência.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 115
+Indicador: 8986
+Denominação: Percentual da Geração à diesel nos sistemas isolados
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Identificação, em base anual, da participação do óleo diesel como fonte energética para a geração (MWh) de energia elétrica das localidades identificadas como sistemas isolados. O Portal de Acompanhamento dos Portal de Acompanhamento e Informações dos Sistemas Isolados (PASI) apresenta as principais informações e dados dos sistemas isolados identificados anualmente pela EPE, com uma compilação das informações da geração anual (MWh), alimentados pela Câmara de Comercialização de Energia Elétrica (CCEE) e dados do Operador Nacional do Sistema Interligado – ONS no planejamento anual para orçamento da CCC.
+Período Ou Data A Que Se Refere: Exercício anterior ao atual
+Data De Divulgação/Disponibilização: até 60 dias após a data de referência considerada para o indicador.
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Gdiesel_SISOL = Geração de energia elétrica à base de óleo diesel nos Sistemas Isolados (MWh)
+Gtotal_SISOL = Geração total de energia elétrica em nos Sistemas Isolados (MWh
+Fonte De Dados Das Variáveis De Cálculo: Planejamento do Atendimento aos Sistemas Isolados, publicado anualmente pela EPE (Empresa de Pesquisa Energética)
+Forma De Disponibilização: Publicação do relatório na página eletrônica da Empresa de Pesquisa Energática – EPE, disponibilizado em: https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/sistemas-isolados
+Procedimento De Cálculo: Para o cálculo desse indicador, serão considerados os dados de geração anual (MWh), alimentados pela Câmara de Comercialização de Energia Elétrica (CCEE) e considerados pela EPE na consolidação dos dados no Planejamento do Atendimento aos Sistemas Isolados, que também são apresentados no Portal de Acompanhamento dos Portal de Acompanhamento e Informações dos Sistemas Isolados (PASI), disponível em: https://pasi.epe.gov.br/
+Limitações: O indicador poderá se manter constante ao longo do tempo em virtude do perfil de demanda de energia e a geração verificada no ano de análise para as localidades dos Sistemas Isolados. Uma base de dados foi estruturada e disponibilizada pela EPE em julho/2024, a partir da coordenação do Ministério de Minas e Energia e em atendimento à Portaria MME nº 59, de 26 de dezembro de 2022,  para melhor representar as informações que estão sob a gestão do ONS, da Aneel e da CCEE, concernentes ao suprimento de energia elétrica dessas localidades
+Notas Explicativas: O indicador pode ser afetado positivamente pela realização dos leilões de contratação de novos empreendimentos para atendimento dos Sistemas Isolados, a partir de diretrizes estabelecidas pelo MME de inserção mínima de fontes renováveis, pela conexão de algumas dessas localidades ao Sistema Interligado Nacional - SIN e pela utilização de outros instrumentos, como a execução de projetos com recursos do Pró-Amazônia Legal (Decreto nº 11.059, de 3 de maio de 2022).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 53
+Indicador: 8852
+Denominação: Taxa de crescimento da produção de minerais para a transição energética
+Índice De Referência: 16.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Brasil é um dos principais países mineradores com expressiva participação na produção mineral mundial. Com a emergência da transição energética, é fundamental que o País aumente a produção dos minerais para a transição energética.
+
+São considerados minerais para transição energética:
+I – Lítio;
+II – Elementos Terras Raras;
+III – Níquel;
+IV – Cobre;
+V – Nióbio;
+VI – Alumínio;
+VII – Grafita;
+VIII – Manganês;
+IX – Vanádio; 
+X – Silício; e
+XI - Cobalto
+Período Ou Data A Que Se Refere: dois exercícios anteriores ao corrente
+Data De Divulgação/Disponibilização: 2º trimestre do exercício seguinte ao ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PB21: Produção Bruta do Mineral 1 no ano atual 
+PB11: Produção Bruta do Mineral 1 no ano anterior/de referência 
+PB2n: Produção Bruta do Mineral “n” no ano atual 
+PB1n: Produção Bruta do Mineral “n” no ano anterior/de referência
+N: Quantidade de minerais considerados
+Fonte De Dados Das Variáveis De Cálculo: Dados do Anuário Mineral Brasileiro, disponíveis no Portal de Dados Abertos
+Forma De Disponibilização: Anualmente a ANM publica o Anuário Mineral Brasileiro. As informações são retiradas do Portal de Dados Abertos. Os dados da Produção Bruta estão disponíveis em: https://dados.gov.br/dados/conjuntos-dados/anuario-mineral-brasileiro-amb
+Procedimento De Cálculo: A ANM é responsável pela regulação e fiscalização do setor mineral brasileiro. Dessa forma, a Agência recebe anualmente das empresas de mineração os dados da produção mineral, que após consolidados são publicados, por substância, no Anuário Mineral Brasileiro. Os dados de produção bruta das substâncias disponíveis são extraídos do Portal de Dados Abertos e aplicados na fórmula de cálculo.
+Limitações: Apesar de receber os dados da produção nacional referente a todos os minerais para transição energética, a ANM somente publica no Anuário Mineral Brasileiro, os dados dos minerais com produção nacional relevante. Dessa forma, não são contabilizados os dados para silício e cobalto.
+Caso haja alteração nesse cenário, a Secretaria Nacional de Geologia, Mineração e Transformação Mineral (SNGM) irá promover a incorporação dos dados no cálculo do indicador e indicará essa mudança.
+Notas Explicativas: A produção mineral depende de fatores externos como aumento ou queda da demanda, nesse contexto que as empresas montam suas estratégias mercadológicas. Diversos estudos demonstram de forma consistente que a demanda por minerais para transição energética deve aumentar nos próximos anos, o que deve aquecer o mercado e mundial e ampliar a produção nacional para atender o mercado.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3107
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 52
+Enunciado: Descarbonizar a matriz de transportes, via biocombustíveis
+Descrição: O uso de biocombustíveis reduz as emissões da matriz de transportes. Essa redução pode ser medida em créditos de descarbonização.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 53
+Enunciado: Ampliar o suprimento de minerais estratégicos para a transição energética
+Descrição: No contexto da transição global para uma economia de baixo carbono, é fundamental ampliar o suprimento de minerais estratégicos com aplicação em tecnologias de produção de energias renováveis e limpas. A disponibilidade desses insumos é condição essencial para que a transição energética se efetive, em uma escala global. O Brasil possui importantes reservas desses recursos e potencial para expandi-las e poderá ocupar um papel de destaque nesse cenário.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 89
+Enunciado: Promover a eficiência energética no uso final de energia.
+Descrição: Promover da eficiência energética no uso final de energia a partir do desenvolvimento e implementação de ações, programas e iniciativas voltados ao uso racional da energia, garantindo a manutenção da disponibilidade de serviços energéticos, porém com menor consumo e impacto ambiental..
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 92
+Enunciado: Aumentar a participação das fontes de energia limpa na matriz energética brasileira
+Descrição: Ampliar a participação e oferta de fontes limpas na matriz energética brasileira, garantindo o uso oportuno e racional dos recursos energéticos disponível no país, com vistas a apoiar o processo de transição energética e ampliar a segurança energética nacional. O termo “fontes limpas” abrangeria os vetores que produzem energia com baixo nível de emissão de carbono e gases do efeito estufa, tanto em seu uso direto ou em processos de conversão, englobando assim tanto as fontes renováveis tradicionais, como biomassas, energia hidráulica, solar e eólica, mas adicionalmente a geração termonuclear
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 103
+Enunciado: Viabilizar a expansão da rede básica de transmissão de energia, com ênfase em Transição Energética
+Descrição: Viabilizar instalações para a expansão da rede básica de transmissão de energia, que incrementem o atendimento de recursos para a Transição Energética. Grande parte dos estudos para expansão do sistema têm por objetivo a ampliação de atendimento a fontes renováveis. Portanto, há uma relação direta entre a expansão da transmissão da rede básica de energia e a Transição Energética.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 115
+Enunciado: Reduzir a participação da geração de energia a diesel nos sistemas isolados
+Descrição: Denomina-se Sistema Isolado o sistema elétrico, que em sua configuração normal, não esteja conectado ao Sistema Interligado Nacional - SIN. Em 2012 foram identificadas 212 localidades como sistemas isolados no Brasil, conforme consta do Planejamento do Atendimento aos Sistemas Isolados - Ciclo 2023, publicado pela EPE (https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/planejamento-do-atendimento-aos-sistemas-isolados-ciclo-2023). Os sistemas isolados estão concentrados na região Norte e atendem à cerca de 3 milhões de habitantes. A geração de energia elétrica paras essas localidades é em grande parte fornecida por geração térmica à óleo diesel que, além de haver elevada incidência de perdas no fornecimento de energia, representa um elevado custo para o consumidor brasileiro, uma vez que o custeio é rateado por todos na tarifa de energia, a partir da Conta de Consumo de Combustível (CCC) que está incluída na Conta de Desenvolvimento Energético – CDE, que é um encargo setorial destinado à promoção do desenvolvimento energético do Brasil. A Conta de Desenvolvimento Energético dentre outras finalidades custea a geração de energia nos sistemas isolados por meio da Conta de Consumo de Combustíveis (CCC) (https://www.ccee.org.br/mercado/contas-setoriais/conta-de-desenvolvimento-energetico-cde).
+Em 2023 foi instituído pelo Decreto nº 11.648, de 16 de agosto de 2023, o Programa Energias da Amazônia com o objetivo de reduzir a geração de energia elétrica por meio de combustíveis fósseis e, consequentemente, as emissões de gases de efeito estufa; contribuir para a qualidade e a segurança do suprimento de energia elétrica; e reduzir estruturalmente os dispêndios da Conta de Consumo de Combustíveis – CCC. A redução da participação do óleo diesel como principal fonte para o fornecimento de energia elétrica nos sistemas isolados contribui significativamente para a redução dos custos totais da geração e, consequentemente, o total a ser reembolsado pela CCC por meio da
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 118
+Enunciado: Assegurar o atendimento de energia e potência do sistema interligado nacional
+Descrição: O Sistema Interligado Nacional (SIN) é a rede integrada de geração e transmissão de energia elétrica operada pelo Operador Nacional do Sistema Elétrico - ONS e que conecta as operações das usinas geradoras e redes de transmissão das diferentes regiões brasileiras, permitindo a transferência otimizada de energia elétrica entre elas. Para atender às necessidades da demanda no Sistema Interligado Nacional, um dos instrumentos mais importantes utilizados é a contratação de energia e potência por meio de leilões. Desta forma, anualmente é realizado todo o levantamento da necessidade de expansão, podendo ou não ter como resultado a realização de um leilão. Assim, esse objetivo considera ações como a realização de leilões periódicos para contratação de nova capacidade de geração e reserva de energia e potência.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Objetivo Específico: 122
+Enunciado: Interligar sistemas isolados
+Descrição: O indicador expressa a quantidade de sistemas isolados que foram interligados ao Sistema Interligado Nacional - SIN em um determinado ano e contribui para a transição energética na medida em que reduz a dependência de fontes fósseis e aumenta confiabilidade e segurança no suprimento de energia elétrica, atraindo investimentos em usos produtivos de energia, notadamente em localidades com potencial de desenvolvimento econômico com demanda reprimida de consumo em nível comercial e industrial.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 3107
+
+Exercício: 2025
+Programa: 3107
+Objetivo: 1294
+Enunciado: Coordenar, planejar e promover a redução do conteúdo de carbono da matriz energética brasileira, promovendo a manutenção da alta participação da oferta de energia limpas e renováveis e o aumento da eficiência energética, tanto na oferta quanto na logística de distribuição e no uso final de energia.
+Descrição: Coordenar, planejar e promover a redução do conteúdo de carbono da matriz energética brasileira, promovendo a manutenção da alta
+participação da oferta de energia limpas e renováveis e o aumento da eficiência energética, tanto na oferta quanto na logística de distribuição e
+no uso final de energia.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3107
+
+Exercício: 2025
+Programa: 3107
+Título: Transição Energética
+Tipo: Finalístico
+Órgão: 32000.0
+Público-Alvo: Consumidores de energia de todos os portes, agentes do setor energético e mineração, e a sociedade em geral
+Descrição Do Problema: O Governo da República Federativa do Brasil comunicou ao Secretariado da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (UNFCCC) sua Contribuição Nacionalmente Determinada (Nationally Determined Contribution - NDC) atualizada, à luz do
+conteúdo acordado entre as Partes da UNFCCC e de seu Acordo de Paris sob o Pacto Climático
+de Glasgow.
+Por meio desta comunicação, o Brasil confirmou o compromisso apresentado em sua NDC
+revisada, submetida ao Secretariado da UNFCCC em 9 de dezembro de 2020, de reduzir as
+emissões de gases de efeito estufa em 37% abaixo dos níveis de referência de 2005, em 2025.
+Adicionalmente, o país assumiu o compromisso de reduzir as emissões de gases de efeito estufa em 50% abaixo dos níveis de 2005, em 2030. A NDC revisada do Brasil antecipa para 2050, ainda, objetivo indicativo de longo prazo de alcançar a neutralidade climática. O escopo da NDC brasileira é amplo, prevendo-se a implementação de ações de mitigação e adaptação à mudança do clima ao conjunto da economia brasileira, assim como considerações sobre meios de implementação.
+Em 2020, o Brasil emitiu 2,16 bilhões de toneladas de CO2 equivalente (tCO2eq), figurando entre os principais emissores globais anuais. Contudo, em termos per capita, o Brasil é considerado um país de baixa intensidade de emissões com cada brasileiro emitindo, em média, 1,9 tCO2eq. Isso representa cerca de 1/7 das emissões de um norte-americano e 1/3 de um cidadão europeu ou de um chinês.
+Dada a relevante participação de energia renovável na matriz energética brasileira (47% em 2022), em relação ao mundo, as emissões de Gases de Efeito Estufa (GEE) no setor energético são baixas em relação à energia demandada, no entanto, as emissões de GEE tem aumentado no setor de energia, crescendo mais de 40% em vinte anos. Dessa maneira, o setor energético deve procurar contribuir para os compromissos assumidos do país para a redução dos GEE. O setor energético brasileiro ainda é muito dependente de combustíveis fósseis. É essencial ampliar a diversificação de fontes energéticas para a matriz, focando em fontes de baixo carbono. Além disso, ainda há muito espaço para avanços no aumento da eficiência na transmissão, distribuição, logística e uso de energia, tanto por meio de redução de consumo, quanto por meio da adoção de novas tecnologias para uso mais eficiente e gestão energética aprimorada.
+Ademais, a questão da Transição Energética se insere em um contexto global onde se busca soluções para ao menos estes quatro problemas:
+1) Mudança Climática: As mudanças climáticas provocadas, em parte, pela atividade humana, decorrentes inclusive pela maior geração de gases de efeito estufa, podem causar eventos extremos e perigosos. Uma matriz energética mais limpa e renovável é necessária para a sustentabilidade ambiental.
+2) Diversificação de Recursos: Os recursos não renováveis, como o petróleo e o gás natural, são finitos e limitados, no entanto somos muito dependentes deles. A transição para fontes de energia limpas e sustentáveis é necessária para garantir a segurança energética.
+3) Saúde Pública: A queima de combustíveis fósseis também causa a poluição do ar, que é um grande problema de saúde pública em muitas partes do mundo. A transição para fontes de energia limpa e renovável pode melhorar a qualidade do ar e reduzir os impactos negativos na saúde das pessoas.
+4) Custos: A energia renovável está se tornando cada vez mais acessível e competitiva em relação aos combustíveis fósseis. A transição para fontes de energia renováveis pode reduzir os custos de energia e oferecer oportunidades para investimentos em tecnologias e infraestrutura relacionadas às energias renováveis.
+O programa visa contribuir ao desafio de fazer da energia um elemento propulsor do desenvolvimento sustentável do país e de posicionamento estratégico nacional, levando em consideração o trilema energético: Segurança Energética; Sustentabilidade; e Equidade Energética.
+Causa Do Problema: Tais problemas estão associados principalmente a:
+Reduzir a dependência de combustíveis fósseis mais poluentes, como uma maneira de aumentar a diversificação da matriz energética, com segurança energética, e contribuir para que o Brasil cumpra seus compromissos internacionais de desenvolvimento sustentável, como o de reduzir as emissões de gases de efeito estufa em 50% abaixo dos níveis de 2005, em 2030, e o Acordo de Paris em que se busca medidas para limitar o avanço da temperatura média global a 1,5 ºC acima dos níveis pré-industriais.
+Ademais, com a evolução tecnológica e limitação de recursos, se faz necessária a modernização do setor energético, com descentralização e digitalização.
+Evidências Do Problema: O país assumiu o compromisso de reduzir as emissões de gases de efeito estufa em 50% abaixo dos níveis de 2005, em 2030. A NDC revisada do Brasil antecipa para 2050, ainda, objetivo indicativo de longo prazo de alcançar a neutralidade climática.
+De acordo com o Plano Decenal de Energia 2031, é previsto um crescimento na demanda por energia de 2,5% ao ano, sendo que há uma tendência de maior eletrificação da matriz energética. Também é previsto um aumento na emissão de GEE no setor energético, pois, apesar do crescimento de fontes renováveis, as fontes não-renováveis e mais poluentes também crescem ao longo dos anos.
+Justificativa Para A Intervenção: O setor energético está em transformação, para uma tendência de eletrificação e descentralização, onde além de novas fontes de energia serem necessárias, é preciso avançar na eficiência energética, digitalização e modernização.
+Evolução Histórica: Consumo final de energia aumentou em mais de 50% em vinte anos, segundo dados do Balanço Energético Nacional. Em 2002 foi de 177.681 mil tep. Em 2022 foi de 271.317 mil tep. No entanto, no mesmo período, a OIEE aumentou mais de 80%, demonstrando a tendência de maior eletrificação da matriz. Em 2002 foi de 382 TWh e em 2022 foi de 690 TWh.
+Essa tendência de eletrificação implica em modernização do setor energético e se insere no contexto da transição energética.
+Apesar da matriz energética do Brasil ter sido cerca de 47% renovável em 2022, índice superior a três vezes o do mundo, as emissões de GEE tem aumentado no setor de energia, crescendo mais de 40% em vinte anos, o que também deve ser tratado no âmbito da transição energética.
+Comparações Internacionais: O Brasil é um país que está avançado em sua transição energética. Com uma matriz energética com aproximadamente metade da sua energia primária oriunda de fontes renováveis (47% em 2022), se caracteriza como uma das matrizes mais convergentes com uma economia de baixo carbono, com uma renovabilidade três vezes acima da média mundial (14% em 2019). Não obstante, as trajetórias de descarbonização para os próximos 30 anos apresentadas nos cenários mostram dinâmicas para a matriz energética distintas das observadas dos últimos 30 anos, desdobrando-se na necessidade de novas políticas públicas, instrumentos e vetores energéticos a fim de alcançar a ambição climática de neutralidade em carbono.
+Relação Com Os Ods: O Programa é alinhado aos ODS
+7- Energia limpa e acessível,
+9 – Indústria, inovação e infraestrutura,
+11- Cidades e comunidades sustentáveis,
+12 – Consumo e produção conscientes e
+13 – Ação global contra a mudança do clima.
+Agentes Envolvidos: Ministério de Minas e Energia; Ministério do Meio Ambiente e Mudança do Clima; Ministério da Ciência, Tecnologia e Inovação; Ministério da Fazenda; Órgãos vinculados aos Ministérios citados; Presidência da República; Consumidores de energia de todos os portes e setores econômicos; agentes dos setores elétrico, de petróleo, gás natural e mineração.
+Articulação Federativa: Ministério de Minas e Energia; Ministério do Meio Ambiente e Mudança do Clima; Ministério da Ciência, Tecnologia e Inovação; Ministério da Fazenda; Órgãos vinculados aos Ministérios citados e Presidência da República.
+Enfoque Transversal: Ministério de Minas e Energia; Ministério do Meio Ambiente e Mudança do Clima; Ministério da Ciência, Tecnologia e Inovação; Ministério da Fazenda; Órgãos vinculados aos Ministérios citados e Presidência da República.
+Marco Legal: Lei nº 14.993, DE 8 DE OUTUBRO DE 2024; Lei No 10.295, DE 17 DE OUTUBRO DE 2001. LEI Nº 14.990, DE 27 DE SETEMBRO DE 2024; LEI Nº 15.097, DE 10 DE JANEIRO DE 2025; LEI Nº 15.042, DE 11 DE DEZEMBRO DE 2024.
+Planos Nacionais, Setoriais E Regionais: Política Nacional de Transição energética, Plano Decenal de Energia 2031;  Plano Nacional de energia 2050 ; e Mercado de Carbono.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

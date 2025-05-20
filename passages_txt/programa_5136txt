@@ -1,0 +1,1289 @@
+passage: Programa Número 5136
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1167
+Indicador: 10192
+Denominação: Áreas rurais georreferenciadas
+Sigla: Argeo
+Índice De Referência: 1550543.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Quantitativo de áreas georreferenciadas pelo Incra
+Período Ou Data A Que Se Refere: 2018 a 2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ARGeo = áreas rurais georreferenciadas
+Fonte De Dados Das Variáveis De Cálculo: SIGEF
+Forma De Disponibilização: DFG/Incra
+Procedimento De Cálculo: Somatório das áreas rurais georreferenciados disponíveis nos sistemas oficiais do INCRA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1566
+Indicador: 10968
+Denominação: Hectares de áreas públicas certificadas
+Sigla: ArCert
+Índice De Referência: 4992262.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: A certificação do imóvel rural, criada pela Lei 10.267 de 2001 e realizada exclusivamente pelo Incra, é a garantia de que os limites de determinado imóvel não se sobrepõem a outros e que a realização do georreferenciamento obedeceu especificações técnicas legais.
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: hectare de área pública
+Fonte De Dados Das Variáveis De Cálculo: SIGEF
+Forma De Disponibilização: Comunicação administrativa com a Diretoria de Ordenamento da Estrutura Fundiária do INCRA
+Procedimento De Cálculo: Somatório dos hectares de áreas públicas certificadas disponibilizadas nos sistemas oficiais do INCRA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 345
+Entrega: 1433
+Indicador: 10594
+Denominação: Informa o número de benefíciários ingressantes em cursos de alfabetização e escolarização para jovens e adultos nas áreas de Reforma Argária
+Sigla: ProneraEJA
+Índice De Referência: 178877.0
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Informa o número de benefíciários ingressantes em cursos de alfabetização e escolarização para jovens e adultos nas áreas de Reforma Argária.
+Período Ou Data A Que Se Refere: 1998 - 2022
+Data De Divulgação/Disponibilização: 1ª quinzena de julho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Beneficiários ingressos
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: Relatórios de execução de objeto por meio de termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria. Processos administrativos constantes no SEI e referentes termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria
+Procedimento De Cálculo: Somatório dos beneficiários ingressos, por curso, através dos relatórios de execução física parciais e finais apresentados pelas instituições parceiras
+Limitações: Depende de encaminhamento periódico de relatórios de execução de instrumentos de parceria
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 345
+Entrega: 1385
+Indicador: 10582
+Denominação: Número de beneficiados formados
+Sigla: ProneraForm
+Índice De Referência: 191234.0
+Em Apuração: Não
+Data De Apuração: 2023-02-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Informa o número de benefíciários que concluíram o curso de formação oferecido pelo PRONERA, em nível técnico-profissionalizante e superior
+Período Ou Data A Que Se Refere: 1998 a 2022
+Data De Divulgação/Disponibilização: 1ª quinzena de julho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Beneficiários formados
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: Relatórios de execução de objeto por meio de termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria. Processos administrativos constantes no SEI e referentes termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria
+Procedimento De Cálculo: Somatório dos beneficiários formados, através dos relatórios de execução física parciais e finais apresentados pelas instituições parceiras
+Limitações: Depende de encaminhamento periódico de relatórios de execução de instrumentos de parceria
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 345
+Entrega: 1400
+Indicador: 10589
+Denominação: Número de beneficiários atendidos
+Sigla: ProneraResid
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Informa o número de benefíciários atendidos por cursos de formação oferecidos pelo Pronera pós-graduação no âmbito do Programa Residência Agrária.
+Período Ou Data A Que Se Refere: semestre anterior
+Data De Divulgação/Disponibilização: 1ª quinzena de julho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Beneficiários atendidos
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: Relatórios de execução de objeto por meio de termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria. Processos administrativos constantes no SEI e referentes termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria
+Procedimento De Cálculo: Somatório dos beneficiários atendidos por cursos de formação, através dos relatórios de execução física parciais e finais apresentados pelas instituições parceiras
+Limitações: Necessidade de melhoria na disponibilidade dos relatórios para que sua apresentação se concentre ainda no mês subsequente ao fim do semestre, de forma não prejudicar a realização do cálculo do índice
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 2710
+Indicador: 12070
+Denominação: Número de Contratos de Concessão de Uso - CCU emitidos
+Sigla: CCU
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Número de Contratos de Concessão de Uso concedidos aos beneficiários da Reforma Agrária (CCU)
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Contratos de Concessão de Uso - CCU
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: DDA/INCRA/Sistema Titula Brasil/SIPRA
+Procedimento De Cálculo: Somatório do número de Contratos de Concessão de Uso - CCU emitidos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Entrega: 1467
+Indicador: 10614
+Denominação: Número de contratos de financiamento do PNCF assinados/efetivados pelos beneficiários
+Sigla: NCPNCF
+Índice De Referência: 1015.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem do número de contratos de financiamento do PNCF assinados/efetivados pelos beneficiários
+Período Ou Data A Que Se Refere: 2019-2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Contratos efetivados para o Programa Nacional do Crédito Fundiário
+Fonte De Dados Das Variáveis De Cálculo: SFDT/Painel de Contratações do PNCF
+Forma De Disponibilização: Painel de Contratações  do PNCF, no linK: https://lookerstudio.google.com/u/0/reporting/e5942fb3-3295-4af6-8a81-8c04a4a90375/page/GtvtC?s=gaZY4xYQJ3Y
+Procedimento De Cálculo: Somatório de contratos efetivados.
+Análise de operações ativas será realizada pela avaliação dos relatórios de prestações de contas financeiras da carteira ativa de operações de crédito.
+Na análise das operações ativas, serão considerados os seguintes componentes: I- o estoque do número de contratações; e II- o volume de recursos liberados para a aquisição de imóveis rurais. Tal análise gerará o quantitativo de contratos efetivados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1184
+Indicador: 10215
+Denominação: Número de cooperativas/associações quilombolas, indígenas e povos e comunidades tradicionais que venderam para compras públicas (PAA)
+Sigla: PCTMI
+Índice De Referência: 88.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador relaciona as cooperativas/associações indígenas, quilombolas e de povos e comunidades tradicionais que efetivamente fornecem para os mercados institucionais (PAA).
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DAPs ou CAFs quilombolas, indígenas e de povos e comunidades tradicionais que forneceram para os mercados institucionais (PAA)
+Fonte De Dados Das Variáveis De Cálculo: SEAB / CONAB / SAF
+Forma De Disponibilização: SEAB - planilha
+Procedimento De Cálculo: Somatório de cooperativas/associações quilombolas, indígenas e de povos e comunidades tradicionais fornecendo para os mercados institucionais (PAA)
+Notas Explicativas: meta acumulativa
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1174
+Indicador: 10203
+Denominação: Número de decretos declaratórios de Interesse Social para Territórios Quilombolas publicados
+Sigla: NDISTQ
+Índice De Referência: 89.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de decretos declaratórios de Interesse Social para Territórios Quilombolas publicados
+Período Ou Data A Que Se Refere: 2006 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Decretos declaratórios de Interesse Social para Territórios Quilombolas publicados
+Fonte De Dados Das Variáveis De Cálculo: DFQ/Incra
+Forma De Disponibilização: DFQ/Incra
+Diário Oficial da União
+Procedimento De Cálculo: Somatório dos decretos declaratórios de Interesse Social para Territórios Quilombolas publicados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Entrega: 1485
+Indicador: 10643
+Denominação: Número de documentos de titulação definitivos emitidos
+Sigla: TitEmit
+Índice De Referência: 6751.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Informa o número de títulos definitivos de regularização fundiária emitidos
+Período Ou Data A Que Se Refere: 2019-2022
+Data De Divulgação/Disponibilização: 30 de junho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Títulos definitivos emitidos para regularização fundiária
+Fonte De Dados Das Variáveis De Cálculo: DFR/Incra
+Forma De Disponibilização: SIGEF/PGT
+Procedimento De Cálculo: Somatório dos títulos definitivos emitidos para regularização fundiária
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Entrega: 1503
+Indicador: 10671
+Denominação: Número de documentos de titulação emitidos por meio de convênio
+Sigla: TitEmit
+Índice De Referência: 31028.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Informa o número de titulos emitidos por meio de convênios
+Período Ou Data A Que Se Refere: 2019-2022
+Data De Divulgação/Disponibilização: 30 de junho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: titulo definitivo emitido
+Fonte De Dados Das Variáveis De Cálculo: DFR/Incra/PGT
+Forma De Disponibilização: DFR/Incra/Relatório Gerencial
+Procedimento De Cálculo: Número de títulos definitivos emitidos por meio de convênio com os estados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 1163
+Indicador: 10186
+Denominação: Número de documentos titulatórios emitidos
+Sigla: NDTD
+Índice De Referência: 46512.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de documentos titulatórios emitidos aos beneficiários da Reforma Agrária (Títulos de Dominío - TD e Concessão
+de Direito Real de Uso - CDRU).
+Período Ou Data A Que Se Refere: 2019/2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Títulos de Domínio -TD
+Concessão de Direito Real de Uso - CDRU
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: DDA/INCRA/Sistema Titula Brasil/SIPRA
+Procedimento De Cálculo: Somatório do número Títulos de Dominío -TD e Concessão de Direito Real de Uso - CDRU emitidos aos beneficiários da Reforma Agrária
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 342
+Entrega: 1105
+Indicador: 10115
+Denominação: Número de famílias assentadas em novos projetos de assentamento
+Sigla: FASSENT
+Índice De Referência: 16022.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: famílias atendidas
+Descrição: Número de famílias homologadas
+Período Ou Data A Que Se Refere: 2020-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: família homologada
+Fonte De Dados Das Variáveis De Cálculo: DDI/Incra
+Forma De Disponibilização: DDI/Incra/Relatórios SIPRA
+Procedimento De Cálculo: Somatório de famílias homologadas
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 1125
+Indicador: 10139
+Denominação: Número de famílias atendidas
+Sigla: IBPA
+Índice De Referência: 70147.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de famílias atendidas com, ao menos, uma ação de implantação e/ou recuperação de infraestrutura básica
+Período Ou Data A Que Se Refere: 2018 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: famílias atendidas
+Fonte De Dados Das Variáveis De Cálculo: DDC/Incra
+Forma De Disponibilização: Relatórios INCRA
+Procedimento De Cálculo: Somatório de famílias em Projetos de Assentamento atendidas com ações de implantação e recuperação de infraestrutura básica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 1154
+Indicador: 10175
+Denominação: Número de famílias atendidas
+Sigla: NFSO
+Índice De Referência: 195132.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de famílias atendidas com supervisão ocupacional
+Período Ou Data A Que Se Refere: 2018 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Família atendida
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: DDA/INCRA/Sistema Titula Brasil
+Procedimento De Cálculo: Contagem do número de famílias atendidas com supervisão ocupacional
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 1132
+Indicador: 10149
+Denominação: Número de famílias atendidas
+Sigla: TSOL
+Índice De Referência: 11847.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de famílias atendidas com ações e empreendimentos de beneficiamento, agroindustrialização e comercialização da produção primária - Terra Sol
+Período Ou Data A Que Se Refere: 2018 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Família atendida
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: Relatórios de execução por meio de termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria. Processos administrativos constantes no SEI e outros instrumentos de parceria
+Procedimento De Cálculo: Somatório de famílias atendidas (i) com projetos de beneficiamento, agroindustrialização e comercialização da produção primária e (ii) participantes de feiras
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 1159
+Indicador: 10181
+Denominação: Número de famílias atendidas
+Sigla: NFR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de famílias regularizadas no Programa Nacional de Reforma Agrária - PNRA
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Família regularizada
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: DDA/INCRA/Sistema Titula Brasil/SIPRA
+Procedimento De Cálculo: Somatório das famílias regularizadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 342
+Entrega: 1113
+Indicador: 10125
+Denominação: Número de famílias atendidas
+Sigla: NFAtend
+Índice De Referência: 894.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de famílias atendidas com ações de gestão ambiental e com cadastro de regularização ambiental
+Período Ou Data A Que Se Refere: 2019-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: FAtend - família atendida
+Fonte De Dados Das Variáveis De Cálculo: DDI/Incra
+Forma De Disponibilização: DDI/Incra/Lote CAR
+Procedimento De Cálculo: Somatório de famílias atendidas com ações de gestão ambiental e com cadastro de regularização ambiental
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Entrega: 1512
+Indicador: 10688
+Denominação: Número de famílias beneficiadas com documentos de regularização fundiária emitidos
+Sigla: FDRFE
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: O indicador referencia o número de famílias beneficiadas com documentos de regularização fundiária emitidos através de parcerias com os estados
+Data De Divulgação/Disponibilização: 31 de Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: família beneficiada
+Fonte De Dados Das Variáveis De Cálculo: SFDT/órgãos de Terra responsáveis nos estados
+Forma De Disponibilização: Relatório dos estados
+Procedimento De Cálculo: Somatório de famílias beneficiadas com a emissão de documentos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Entrega: 1551
+Indicador: 10735
+Denominação: Número de famílias beneficiadas com projetos de investimentos comunitários
+Sigla: NSIC
+Índice De Referência: 600.0
+Em Apuração: Não
+Data De Apuração: 2023-01-10 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador referencia as familias beneficiárias por meio de contratos celebrados entre as assoçiações e os agentes financeiros do Programa (Banco do Brasil, o Banco do Nordeste), que atuam como mandatárias da União para a contratação dos Subprojetos de Investimentos Comunitários – SIC
+Período Ou Data A Que Se Refere: 2009 - 2021
+Data De Divulgação/Disponibilização: 31/Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: famílias beneficiadas pelo Subprograma de Investimentos Comunitários -SIC
+Fonte De Dados Das Variáveis De Cálculo: SFDT/Planilha de Pagamento aos agentes financeiros
+Forma De Disponibilização: Painel de Contratações  do SIC, no linK: https://lookerstudio.google.com/u/0/reporting/e5942fb3-3295-4af6-8a81-8c04a4a90375/page/GtvtC?s=gaZY4xYQJ3Y
+Procedimento De Cálculo: Somatório famílias beneficiadas pelo Subprograma de Investimentos Comunitários -SIC
+Análise das operações contratadas será realizada pela avaliação dos relatórios de prestações de contas financeiras da carteira ativa de operações do SIC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1191
+Indicador: 10222
+Denominação: Número de famílias Quilombolas, Indígenas e de Povos e Comunidades Tradicionais atendidos por ações de inclusão produtiva
+Sigla: InclPCT
+Índice De Referência: 37469.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador relaciona as famílias quilombolas, indígenas e de povos e comunidades tradicionais que receberam ações de inclusão produtiva, de acordo com suas especificidades.
+Período Ou Data A Que Se Refere: 2011 a 2021
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: famílias quilombolas, indígenas e PCTs atendidas por ações de inclusão produtiva
+Fonte De Dados Das Variáveis De Cálculo: SAF / SETEQ
+Forma De Disponibilização: Resultado da projetos para execução de ações de inclusão produtiva
+Procedimento De Cálculo: Somatório de famílias quilombolas, indígenas e de PCTs atendidos por ações de inclusão produtiva
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1587
+Indicador: 10783
+Denominação: Número de hectares de terras arrecadadas
+Sigla: TerArrec
+Índice De Referência: 2365415.0926
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Quantitativo de áreas em hectares de terras devolutas arrecadadas pelo Incra
+Período Ou Data A Que Se Refere: 2020-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: hectare arrecadados
+Fonte De Dados Das Variáveis De Cálculo: SIGEF
+Forma De Disponibilização: Comunicação administrativa com a Diretoria de Ordenamento da Estrutura Fundiária do INCRA
+Procedimento De Cálculo: O cálculo do indicador será realizado com a soma das áreas de terras devolutas da União arrecadadas, conforme informações em Sistemas oficiais do INCRA.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 342
+Entrega: 1100
+Indicador: 10108
+Denominação: Número de hectares obtidos para a Reforma Agrária
+Sigla: HECOB
+Índice De Referência: 171658.78
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Número de hectares de imóveis rurais obtidos para a reforma agrária
+Período Ou Data A Que Se Refere: 2018-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: hectares obtidos
+Fonte De Dados Das Variáveis De Cálculo: DDI/Incra
+Forma De Disponibilização: DDI/Incra/Relatórios gerenciais
+Procedimento De Cálculo: Somatório dos hectares obtidos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1179
+Indicador: 10208
+Denominação: Número de hectares titulados
+Sigla: NHET
+Índice De Referência: 95638.3637
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Áreas tituladas para comunidades quilombolas
+Período Ou Data A Que Se Refere: 1996 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Áreas tituladas para comunidades quilombolas
+Fonte De Dados Das Variáveis De Cálculo: DFQ/Incra
+Forma De Disponibilização: DFQ/Incra
+Procedimento De Cálculo: Somatório áreas tituladas para comunidades quilombolas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 342
+Entrega: 1085
+Indicador: 10092
+Denominação: Número de hectares vistoriados e avaliados
+Sigla: HECVA
+Índice De Referência: 55240.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Número de hectares de imóveis rurais vistoriados e avaliados
+Período Ou Data A Que Se Refere: 2018-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: hectares vistoriados
+Fonte De Dados Das Variáveis De Cálculo: DDI/Incra
+Forma De Disponibilização: DDI/Incra/Relatórios Agronômicos de Fiscalização
+Procedimento De Cálculo: Somatório dos hectares vistoriados nos Relatórios Agronômicos de Fiscalização
+Limitações: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1585
+Indicador: 10971
+Denominação: Número de imóveis analisados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Verificação de imóveis em sistema oficial do INCRA (SNCR/SISNATE)
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: imóvel analisado
+Fonte De Dados Das Variáveis De Cálculo: SNCR
+Forma De Disponibilização: DFC/Incra
+Procedimento De Cálculo: Somatório de imóveis verificados em sistema oficial do INCRA (SNCR/SISNATE)
+Limitações: Complexidade da análise de determinados processos que ultrapassam a governabilidade do INCRA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1581
+Indicador: 10969
+Denominação: Número de imóveis rurais cadastrados com informações literais e espaciais
+Sigla: IRI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Imóveis rurais cadastrados no novo sistema de Cadastro Rural, incorporando os dados literais e geográficos no mesmo sistema e integrando com outras bases do Governo Federal
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: imóvel rural
+Fonte De Dados Das Variáveis De Cálculo: SIGEF
+SNCR
+Forma De Disponibilização: Comunicação administrativa com a Diretoria de Ordenamento da Estrutura Fundiária do INCRA
+Procedimento De Cálculo: Somatório dos imóveis rurais cadastrados nos sistemas SIGEF e SNCR
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Entrega: 1142
+Indicador: 10159
+Denominação: Número de operações de crédito concedidas
+Sigla: NFCI
+Índice De Referência: 93130.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de  operações de crédito concedida a famílias no âmbito do Crédito Instalação
+Período Ou Data A Que Se Refere: 2019-2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Operações de crédito no ano
+Fonte De Dados Das Variáveis De Cálculo: DDC/Incra
+Forma De Disponibilização: DDC/Incra/
+Sistema Nacional de Concessão de Crédito Instalação - SNCCI
+Procedimento De Cálculo: Contagem do número de operações de crédito concedidas no período
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1591
+Indicador: 10767
+Denominação: Número de parcelas georreferenciadas em parceria com os Estados
+Sigla: GEOE
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: O indicador consiste em informar a quantidade de imóveis georreferenciados pelos governos estaduais
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de parcelas georreferenciadas em parceria com os Estados
+Fonte De Dados Das Variáveis De Cálculo: SFDT
+Forma De Disponibilização: Sigef
+Procedimento De Cálculo: Número simples de parcelas georreferenciadas em parceria com os Estados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1171
+Indicador: 10198
+Denominação: Número de Portarias de Reconhecimento de Territórios Quilombolas publicadas
+Sigla: NPRTQ
+Índice De Referência: 164.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de Portarias de Reconhecimento de Territórios Quilombolas publicadas
+Período Ou Data A Que Se Refere: 2005 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Portarias de Reconhecimento de Territórios Quilombolas publicadas
+Fonte De Dados Das Variáveis De Cálculo: DFQ/Incra
+Forma De Disponibilização: DFQ/Incra
+Diário Oficial da União
+Procedimento De Cálculo: Somatório de Portarias de Reconhecimento de Territórios Quilombolas publicadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1195
+Indicador: 10229
+Denominação: Número de registros do CAF para quilombolas, indígenas e povos e comunidades tradicionais
+Sigla: CAFPCT
+Índice De Referência: 160756.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador relaciona as famílias quilombolas e indígenas que possuem CAF/DAP específica para os públicos
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de famílias quilombolas, indígenas e de povos e comunidades tradicionais que possuem CAF/DAP específica para os públicos
+Fonte De Dados Das Variáveis De Cálculo: Cadastro do CAF
+Forma De Disponibilização: Extração do Sistema do CAF
+Procedimento De Cálculo: Cálculo direto
+Notas Explicativas: meta acumulativa
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1168
+Indicador: 10195
+Denominação: Número de Relatórios Técnicos de Identificação e Delimitação (RTID) publicados
+Sigla: NRTID
+Índice De Referência: 307.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de Relatórios Técnicos de Identificação e Delimitação (RTID) publicados
+Período Ou Data A Que Se Refere: 2005 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Relatórios Técnicos de Identificação e Delimitação (RTID) publicados
+Fonte De Dados Das Variáveis De Cálculo: DFQ/Incra
+Forma De Disponibilização: DFQ/Incra
+Diário Oficial da União
+Procedimento De Cálculo: Somatório dos Relatórios Técnicos de Identificação e Delimitação (RTID) publicados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Entrega: 1201
+Indicador: 10237
+Denominação: Número de selos de origem ativos
+Sigla: SOPCT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador relaciona o número de selos ativos por produto
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de selos de origem ativos
+Fonte De Dados Das Variáveis De Cálculo: SETEQ
+Forma De Disponibilização: Planilha SETEQ
+Procedimento De Cálculo: Cálculo direto
+Notas Explicativas: Meta cumulativa
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Entrega: 1589
+Indicador: 10774
+Denominação: Terras com destinação definida (ha)
+Sigla: ADCTD
+Índice De Referência: 516000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-02 00:00:00
+Unidade De Medida: ha
+Descrição: O indicador se refere à área total das terras com destinação definida (ha)
+Período Ou Data A Que Se Refere: 08/2018
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: áreas das terras públicas
+Fonte De Dados Das Variáveis De Cálculo: SFDT
+Forma De Disponibilização: SIGEF
+Procedimento De Cálculo: Somatório de áreas (em hectares) com destinação definida
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5136
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Indicador: 10144
+Denominação: Área titulada para comunidades quilombolas
+Sigla: AQUILOMBO
+Índice De Referência: 95638.3637
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Área titulada para comunidades quilombolas, em hectares.
+Período Ou Data A Que Se Refere: 1996 a 2022
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AQT = Áreas tituladas para comunidades quilombolas
+Fonte De Dados Das Variáveis De Cálculo: DFQ/Incra
+Forma De Disponibilização: DFQ/Incra
+Procedimento De Cálculo: Somatório de áreas tituladas para comunidades quilombolas
+Limitações: não se aplica
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Indicador: 10168
+Denominação: Número de beneficiários com acesso à terra
+Sigla: NFamTerra
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de famílias beneficiadas com acesso à terra, seja por meio do Programa Nacional de Crédito Fundiário, pela emissão de documentos de regularização fundiária e títulos definitivos
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: 31 dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NBPNCF - Número de famílias beneficiadas com acesso à terra por meio do Programa Nacional de Crédito Fundiário
+NBTD - Número de famílias beneficiadas com emissão de títulos definitivos pelo Incra
+Fonte De Dados Das Variáveis De Cálculo: DGFUND/Incra
+DFR/Incra
+SFDT
+Procedimento De Cálculo: Somatório do Número de famílias beneficiadas com acesso à terra por meio do Programa Nacional de Crédito Fundiário e com emissão de títulos definitivos pelo Incra
+Limitações: Não se aplica
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 345
+Indicador: 9769
+Denominação: Número de estudantes matriculados
+Sigla: EstudAtend
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de estudantes matriculados em ações do Programa Nacional de Educação na Reforma Agrária - Pronera.
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: Março do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NBTPS - nº  de estudantes matriculados para formação em nível técnico-profissionalizante e superior
+NBRA - nº  estudantes matriculados em capacitações no âmbito da Educação do Campo e formação de pós-graduação (Residência Agrária)
+NBEJA - nº  estudantes matriculados  na Educação de Jovens e Adultos (EJA)
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra
+Forma De Disponibilização: Processos administrativos constantes no SEI e referentes termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria. Relatórios de execução de objeto por meio de termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos de parceria. Consulta aos relatórios de execução física parciais e finais apresentados pelas instituições parceiras por meio dos termos de execução descentralizados, convênios, fomentos, colaboração, acordos de cooperação técnica e outros instrumentos. Os dados são atualizados a cada análise dos planos de trabalho e propostas de ajustes.
+Procedimento De Cálculo: Somatório de estudantes matriculados no Pronera para formação em nível técnico-profissionalizante e superior, no âmbito da Educação do Campo e formação de pós-graduação (Residência Agrária) e Educação de Jovens e Adultos (EJA)
+Limitações: Necessidade de melhoria na disponibilidade dos relatórios parciais e finais para que sua apresentação se concentre antes de fevereiro do ano seguinte a fim de não prejudicar a realização do cálculo do índice. Em decorrência, por exemplo, dos efeitos da pandemia, os cursos ofertados pelo Pronera tiveram alterações significativas em seus calendários, o que provocou o não cumprimento de apresentação dos relatórios no tempo esperado
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 342
+Indicador: 9661
+Denominação: Número de novas famílias assentadas
+Sigla: NFARA
+Índice De Referência: 16022.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de novas famílias assentadas em Projetos de Assentamento
+Período Ou Data A Que Se Refere: 2018-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: FAss = família assentada
+Fonte De Dados Das Variáveis De Cálculo: DDI/Incra/SIPRA
+Forma De Disponibilização: Relatórios SIPRA
+Procedimento De Cálculo: Somatório das novas famílias assentadas
+Limitações: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Indicador: 9687
+Denominação: Número de operações do crédito instalação beneficiando assentados da reforma agrária
+Sigla: NCredInst
+Índice De Referência: 175124.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de operações de crédito instalação concedidos
+Período Ou Data A Que Se Refere: 2018-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CredInst - número de operações do crédito instalação concedidas a assentados da reforma agrária
+Fonte De Dados Das Variáveis De Cálculo: DDI/DDA/Incra
+Forma De Disponibilização: Relatórios gerencias
+Procedimento De Cálculo: Somatório de operações do crédito instalação
+Limitações: não se aplica
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Indicador: 10177
+Denominação: Total de Hectares com ações de gerenciamento da malha fundiária
+Sigla: GMFUND
+Índice De Referência: 4992262.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: O indicador referencia a quantidade em hectares de áreas georeferenciadas pelo Incra, no período
+Período Ou Data A Que Se Refere: 2018-2022
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: HAG - Hectare de Área Georeferenciada
+Fonte De Dados Das Variáveis De Cálculo: DFC/Incra
+DFG/Incra
+DFR/Incra
+SFDT
+Forma De Disponibilização: SIGEF
+SNCR
+Comunicação administrativa com a Diretoria de Ordenamento da Estrutura Fundiária do INCRA
+Procedimento De Cálculo: Somatório dos hectares de áreas públicas georeferenciadas disponibilizadas nos sistemas oficiais do INCRA
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5136
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 342
+Enunciado: Assentar famílias de forma sustentável, promovendo a equidade de gênero e a sucessão rural
+Descrição: Promoção da Reforma Agrária, através da inscrição, inclusão no sistema, seleção, legitimação e homologação de famílias beneficiárias, de forma sustentável, contribuindo para a equidade de gênero, a sucessão rural e a garantia de direitos no campo
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 343
+Enunciado: Estruturar assentamentos, promovendo a qualificação da produção e a melhoria da qualidade de vida das famílias
+Descrição: Viabilizar a infraestrutura básica dos projetos de assentamento, com implantação e recuperação de estradas, habitação, fornecimento de água, energia elétrica, conectividade e armazenamento da produção, de forma direta ou em parceria com outros entes governamentais e outras obras consideradas indispensáveis para a estruturação e sustentabilidade previstas nos planos de desenvolvimento dos assentamentos, visando proporcionar as condições físicas necessárias para o seu desenvolvimento. Apoiar implantação e recuperação de agroindústrias, por meio de atividades socioeconômicas sustentáveis, valorizando as características regionais, as experiências e as potencialidades locais. Conceder crédito, em suas diversas modalidades para unidades familiares.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 344
+Enunciado: Promover acesso a territórios e sistemas produtivos para Quilombolas
+Descrição: Garantia do direito à terra, ao respeito ao vínculo com a cultura e ancestralidade, através da titulação de áreas para comunidades quilombolas
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 345
+Enunciado: Promover o acesso à Educação do Campo para o público da Reforma Agrária, Quilombolas e Povos e Comunidades Tradicionais
+Descrição: Formação, escolarização e capacitação de jovens e adultos, desde a alfabetização e ensino básico, a cursos de nível médio, superior, pós-graduação e treinamento de qualificação técnica, promovendo o diálogo e a pesquisa científica entre as comunidades assentadas e as instituições de ensino ofertantes dos cursos, inclusive nas áreas de Reforma Agrária e do Crédito Fundiário, além da articulação para apoio à melhoria de infraestrutura das escolas dos assentamentos e da formação de educadores e técnicos, com a finalidade de contribuir para o desenvolvimento rural e sustentável dos assentamentos.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 346
+Enunciado: Promover o acesso democratizado à terra
+Descrição: Ampliar o acesso democratizado à terra e territórios, à agricultura familiar, quilombolas, povos e comunidades tradicionais e ocupantes de terras públicas, visando garantir direitos e fomentar o desenvolvimento socioeconômico dessas populações. Esse processo envolve ações do Programa Nacional de Crédito Fundiário - PNCF, a regularização fundiária e emissão de títulos definitivos, bem como projetos de investimentos comunitários
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Objetivo Específico: 347
+Enunciado: Aprimorar o gerenciamento da malha fundiária
+Descrição: Promover e manter ações de governança fundiária, tais como o georreferencimento de imóveis rurais, a certificação de áreas públicas, o cadastro de imóveis rurais, a verificação dos imóveis rurais adquiridos por estrangeiros, a arrecadação de terras devolutas da União e a destinação de terras públicas.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5136
+
+Exercício: 2025
+Programa: 5136
+Objetivo: 1327
+Enunciado: Promover a governança fundiária, a reforma agrária, a regularização fundiária e o acesso à terra para agricultoras e agricultores familiares, assentadas e assentados da reforma agrária, quilombolas, indígenas e povos e comunidades tradicionais, assegurando a função social da terra, a inclusão produtiva e o bem viver dessas populações
+Descrição: Não há produção de alimentos sem a terra, não há pertencimento e identidade sem o território. Garantir o acesso a terra, respeitando e viabilizando seus modelos de vida e produtivos é garantir a função social da terra, a inclusão produtiva e o bem viver. Nesse sentido, as ações dentro do programa retomarão as políticas territoriais, via ampliação e consolidação de assentamentos, reconhecimento de territórios e destinação de terras devolutas. Dando a todos o direito sobre seus territórios de forma assegurada pelo Estado como preconiza a Constituição Federal.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5136
+
+Exercício: 2025
+Programa: 5136
+Título: Governança Fundiária, Reforma Agrária e Regularização de Territórios Quilombolas e de Povos e Comunidades Tradicionais
+Tipo: Finalístico
+Órgão: 49000.0
+Público-Alvo: - Agricultores e agricultoras familiares que buscam acesso à terra e a políticas de inclusão produtiva;
+- Detentores de imóveis a qualquer título demandantes de acesso à terra;
+- Mulheres e Jovens rurais;
+- Comunidades Quilombolas, Indígenas e Povos e Comunidades Tradicionais.
+Descrição Do Problema: Distribuição desigual no acesso à terra, desfavorecendo trabalhadores e trabalhadoras rurais e povos e comunidades tradicionais, reforçando desigualdades e situações de vulnerabilidade social; necessidade de reparação histórica às comunidades quilombolas; ocupação, uso e domínio da terra não regularizados ou em situação de conflito, insuficiência de infraestrutura básica e insumo às atividades econômicas sustentáveis, desmatamento e incêndios descontrolados em diferentes biomas do país, especialmente na Amazônia Legal, Cerrado e em terras devolutas da União, redução da área de produção de alimentos básicos, como o arroz e o feijão e redução do investimento na produção dos demais alimentos saudáveis para consumo interno.
+Causa Do Problema: - Alta concentração de terras no país;
+- Agricultores e agricultoras familiares sem acesso à terra;
+- Agricultores e agricultoras sem acesso à Assistência Técnica, Social e Ambiental;
+- Agricultores e agricultoras com baixa escolarização e baixo acesso ao ensino de qualidade;
+- Violação histórica dos direitos das comunidades quilombolas, indígenas e povos e comunidades tradicionais;
+- Infraestrutura básica insuficiente em projetos de assentamento;
+- Dificuldade na integração dos diferentes cadastros de terra e sua vinculação com os registros de imóveis para gestão da malha fundiária;
+- Sobreposição de políticas públicas fundiárias entre órgãos federais e entre diferentes entes federativos.
+Evidências Do Problema: De acordo com informações do Cadastro Único para Programas Sociais do Governo Federal – CAD-Único, existem atualmente no Brasil 55 mil famílias acampadas, público prioritário do Programa Nacional de Reforma Agrária - PNRA.
+Para regularização de famílias no PNRA, estima-se um público de 200.000 beneficiários, que podem ser regularizados nos diversos Projetos de Assentamento Federais em todo o país. 
+Em relação à regularização de Territórios Quilombolas existem hoje, no INCRA, 1.802 processos abertos e pouco mais de 300 já tiveram as primeiras fases iniciadas (relatórios técnicos publicados).
+Ainda de acordo com o Incra, aproximadamente 16% dos imóveis cadastrados na base do Sistema Nacional de Cadastro Rural – SNCR estão sob o domínio de posse por simples ocupação. Estima-se que um milhão de famílias demandam regularização da terra mediante expedição do título de domínio.
+ Somente na região da Amazônia Legal existem 120 milhões de hectares de terras públicas federais, dos quais 43 milhões ainda não foram destinadas para nenhuma finalidade. “Cerca de 25% do desmatamento na Amazônia acontece nessas terras federais não destinadas”. 
+Por fim, em 2022, foram registradas 2.018 ocorrências de conflitos no campo, que envolveram 909.450 pessoas. Do total de ocorrências neste ano, 1.946, ou seja, 96,4%, são de ações violentas contra essas comunidades e seus integrantes. Mais uma vez, temos um número estarrecedor de assassinatos em conflitos: 47 pessoas perderam a vida.
+Justificativa Para A Intervenção: A promoção da reforma agrária e a titulação de territórios quilombolas são políticas públicas constitucionais que dialogam com a democratização do acesso à terra, inclusão produtiva, reparação histórica e sucessão rural.
+
+A governança fundiária é relevante e necessária para o Estado Brasileiro, uma vez que sua efetividade está associada à melhoria dos indicadores regionais de desenvolvimento econômico, social e ambiental. Além disso, a reforma agrária, a regularização de territórios quilombolas e a governança fundiária tem efeito direto na redução dos conflitos agrários ao garantir o acesso à terra. 
+Em outro aspecto, o acesso à terra se traduz em soberania alimentar, redução da fome, aumento de emprego, aumento de práticas agroecológicas, contribuindo com a economia local e com a produção de alimentos saudáveis.
+
+No tocante aos fatores econômicos, o maior ou o menor grau de desenvolvimento econômico de uma região, também está associado à maior ou menor garantia do direito de propriedade da terra. Estudos recentes apontam que o acesso à terra regularizada promove a inclusão produtiva dos trabalhadores rurais, pois aumenta sua confiança frente aos agentes econômicos, facilitando o acesso a crédito e alavancando investimentos.
+
+Do ponto de vista social, é sabido que a fragilidade do direito de propriedade da terra vem contribuindo para intensificar os conflitos agrários e as mortes no campo. São conflitos que, em sua maioria, apresentam como principal fato gerador, a luta pelo domínio do imóvel. Nesse sentido, a regularização fundiária tem efeito direto na redução desses conflitos agrários, pois exerce papel fundamental no reconhecimento do direito de propriedade, garantindo maior segurança jurídica aos cidadãos.
+
+Sob a perspectiva ambiental, novos estudos demonstraram que houve redução do desmatamento nos imóveis rurais que foram regularizados pelo governo federal. Esse fato sugere que os cidadãos que tiveram suas ocupações regularizadas estão mais atentos ao cumprimento das cláusulas ambientais, uma vez que o não cumprimento levaria a penas administrativas, civis ou penais.
+
+Por fim, padrões bem definidos de direito de propriedade são observados como fatores impulsores para o desenvolvimento nas nações desenvolvidas. O acesso à terra regularizada é fundamental para o desenvolvimento socioeconômico, para o cumprimento da função social da propriedade e contribui para a governança da terra.
+
+Democratizar o acesso à terra possibilita, ainda, às mulheres condições mais adequadas e segura de promover o seu sustento e de suas famílias, considerando que é maior o número de mulheres chefes de família.
+
+Em contraposição a tal relevância, durante toda a história brasileira foram elaborados apenas dois Planos Nacionais de Reforma Agrária (PNRA), nos anos de 1985 e 2003, respectivamente. O Brasil necessita responder a algumas questões para diminuir os conflitos e a pobreza rural, além de aumentar a soberania nacional e a produção de alimentos saudáveis, sendo um passo importante a construção de um terceiro PNRA, com diagnóstico, demandas e soluções atualizadas, para oferecer uma melhor resposta à sociedade quanto a tais pautas.
+Evolução Histórica: A dinâmica do acesso à terra no Brasil é complexa e tem orientado a atuação do Estado desde o período colonial. A formação econômica do Brasil está diretamente ligada às políticas de acesso à terra. Entre 1500 a 1822, a única forma de acesso à terra e obtenção do título de propriedade no Brasil se dava por meio da Lei Sesmarias, instituída desde o ano de 1375, sob concessão coroa portuguesa.
+ 
+No período entre 1822 a 1850, com a independência do brasil, houve uma lacuna normativa até 1850, fato que ocasionou uma série de conflitos agrários com grande violência pela posse das terras.
+
+No ano de 1850 foi publicada a Lei de Terras (Lei nº 601), a qual estabelecia que as posses das terras devolutas somente poderiam ser adquiridas por meio da compra. No entanto, essa lei acabou reforçando o poder dos latifundiários, pois tornava ilegais as posses de pequenos produtores. Essa medida deixou de fora a população negra que, com a abolição de 1888, continuou à margem da sociedade brasileira.
+
+A partir da década de 1930, em razão dos desgastes sociais relacionados à estrutura fundiária, acentuaram-se os debates que posteriormente viriam a vincular o direito de propriedade ao conceito de função social. No final dos anos 1950, com a industrialização, a questão fundiária começou a ser debatida pela sociedade brasileira. Surgiram no Nordeste as Ligas Camponesas e, em 1962, o Governo Federal criou a Superintendência de Reforma Agrária (Supra), primeiro órgão público a tratar do tema. 
+
+Com a publicação do Estatuto da Terra, Lei nº 4.504/1964, o Estado procurou os meios para regular direitos e obrigações relativos aos bens imóveis rurais para fins de execução da Reforma Agrária, buscando estimular a Política Agrícola. Para isso foram criados o Instituto Brasileiro de Reforma Agrária (IBRA) e o Instituto Nacional de Desenvolvimento Agrário (INDA). Em 1966, o Decreto nº 59.566 instituiu o primeiro Plano Nacional de Reforma Agrária e, em 1970, o Decreto-Lei nº 1.110 criou o Instituto Nacional de Colonização e Reforma Agrária (Incra), resultado da fusão do Ibra e o Inda. Desde então, o Incra é responsável por colocar em prática as ações que assegurem a oportunidade de acesso à propriedade de terra, condicionada à função social.
+
+Na década de 1980, junto com a promulgação da Constituição Federal de 1988, novos arranjos institucionais foram implementados, podendo citar o Plano Nacional de Reforma Agrária (PNRA), alterado e novamente publicado em 2003. A Constituição Federal de 1988 (capítulo III, artigo 188) vinculou o conceito de política fundiária tanto à reforma agrária como à política agrícola, quando estabelece que “a destinação de terras públicas e devolutas será compatibilizada com a política agrícola e com o plano nacional de reforma agrária”.
+
+Outro dispositivo constitucional, o artigo 68 do ADCT, prevê a titulação de comunidades quilombolas. O Incra, até 1999, atuou nessa pauta de forma dispersa, sem uma norma específica, e titulou os primeiros quilombos do país em 1995. Em 2003, com a edição do Decreto nº 4.887, o MDA, por meio do Incra, passa a ser o responsável a realizar a regularização fundiária de territórios quilombolas. A titulação de quilombos, além de direito constitucional, é uma demanda histórica das comunidades quilombolas, cujos territórios são condição fundamental para a reprodução física, social, econômica e cultural desses grupos étnicos.
+Comparações Internacionais: O tema Governança Fundiária tem sido amplamente discutido nos fóruns internacionais, principalmente por ser uma realidade não alcançada pela maioria dos países que, em maior ou menor grau, compartilham problemas semelhantes como a ineficiência na gestão e ordenamento quanto ao uso do solo e dos recursos naturais; a indefinição de procedimentos padrões relacionados; e a falta de integração com outras políticas para melhorar o acesso dos beneficiários dos títulos emitidos a um conjunto de programas sociais e ambientais.
+Esses fatos, comuns em tantos países, levaram a Organização das Nações Unidas para Agricultura e Alimentação (FAO), a promulgar, com base no consenso dos países membros, as Diretrizes Voluntárias para a Gestão Responsável da Posse da Terra e de Uso do Solo, Pescas e Florestas (VGGT), que representam o principal documento normativo sobre questões relacionadas à gestão da terra, e que o Brasil foi um dos signatários. Esse documento afirma a importância de promover o acesso à terra aos agricultores e agricultoras familiares e aos povos indígenas e comunidades tradicionais. Além disso, o Brasil é signatário da Convenção 169 da Organização Internacional do Trabalho, que trata da consulta livre, prévia e informada, da autoatribuição de povos indígenas e tradicionais, além dos direitos territoriais.
+Apesar dos avanços nesse debate, as comparações internacionais apresentam distorções, considerando os processos históricos específicos de ocupação e colonização, bem como as diferentes legislações que regem a questão agrária.
+Relação Com Os Ods: ODS 1 - Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 4 – Assegurar a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.
+ODS 5 - Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.
+ODS 6 - Assegurar a disponibilidade e gestão sustentável da água e saneamento para todos.
+ODS 7 - Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos.
+ODS 8 - Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
+ODS 10 - Reduzir a desigualdade dentro dos países e entre eles.
+ODS 11 – Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.
+ODS 12 - Assegurar padrões de produção e de consumo sustentáveis.
+ODS 13 - Tomar medidas urgentes para combater a mudança climática e seus impactos,
+ODS 15 - Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a
+desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+ODS 16 - Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir
+instituições eficazes, responsáveis e inclusivas em todos os níveis.
+ODS 17 - Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+Agentes Envolvidos: O arranjo institucional definido a partir da Lei 14.600/2023, conversão da Medida Provisória nº 1.154, de 2023, devolveu ao Ministério do Desenvolvimento Agrário e Agricultura Familiar a competência sobre: [...] art. 25, I - reforma agrária e regularização fundiária em áreas rurais da União e do Incra; II - acesso à terra e ao território por povos e comunidades tradicionais, observadas as competências do Ministério da Igualdade Racial; III - cadastros de imóveis rurais e governança fundiária; IV - identificação, reconhecimento, delimitação, demarcação e titulação de terras de comunidades quilombolas, observadas as competências do Ministério da Igualdade Racial.
+Para tanto, a competência dessas ações ficou distribuída entre o Ministério do Desenvolvimento Agrário e Agricultura Familiar (MDA), por meio da Secretaria de Governança Fundiária, Desenvolvimento Territorial e Socioambiental (SFDT) e da Secretaria de Territórios e Sistemas Produtivos Quilombolas e Tradicionais (SETEQ), em conjunto com o Instituto Nacional de Colonização e Reforma Agrária (INCRA), por meio de suas Diretorias de Governança Fundiária (DF) e de Desenvolvimento de Projetos de Assentamento (DD).
+Articulação Federativa: A governança fundiária, a reforma agrária e o acesso a territórios quilombolas promove a inclusão social, produtiva, a segurança alimentar e nutricional, a produção de alimentos saudáveis e a preservação do meio ambiente. Para alcançar esses objetivos, MDA e Incra dialogam com os demais órgãos vinculados do MDA, a CONAB e a ANATER, e suas instâncias presentes nos Estados e territórios, assim como demais órgãos e entidades da Administração Pública que tem competência nestes temas.
+
+Uma eficiente articulação federativa entre a União e os governos estaduais e municipais, com a participação dos três poderes nos diferentes níveis é necessária à plena execução das ações deste Programa, por envolver o território, estados e municípios, e estes serem também detentores desse componente, cabendo à União a responsabilidade de coordenar e articular as políticas públicas, visando a gestão integrada do território.
+Enfoque Transversal: A gestão territorial contribui para a melhoria das condições socioeconômicas do país, pois torna o ambiente de negócios seguro, atraindo investimentos, e valoriza os ativos imobiliários. Além disso, contribui para o uso racional dos recursos naturais (exemplo: combate ao desmatamento ilegal), garante acesso do homem a terra e a pacificação no campo. Logo, entender essas relações no sentido amplo, no âmbito da governança fundiária, pressupõe que os esforços empreendidos pelos diferentes órgãos, fundiários e ambientais, sejam coordenados.
+Assim, no sentido amplo, para que haja maior transparência e coordenação na gestão territorial, é fundamental a harmonia das ações entre os seguintes órgãos federais: Secretaria de Governança Fundiária, Desenvolvimento Territorial e Socioambiental (SFDT), Secretaria de Territórios e Sistemas Produtivos Quilombolas e Tradicionais: Departamento de Reconhecimento, Proteção de Territórios Tradicionais e Etnodesenvolvimento (SETEQ) e Instituto Nacional de Colonização e Reforma Agrária (INCRA); Ministério da Igualdade Racial (MIR); Secretaria de Patrimônio da União (SPU); Ministério do Meio Ambiente (MMA); Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), o Serviço Florestal Brasileiro (SFB); a Fundação Nacional do Índio (Funai); Conselho de Defesa Nacional (CDN); o Ministério de Minas e Energia (MME); o Ministério Público Federal (MP); e Centro Gestor do Sistema de Proteção da Amazônia (Censipam). 
+Ações integradas demandam a articulação e a mobilização dos órgãos fundiários e ambientais, estaduais e municipais, por meio de diagnóstico prévio de glebas, parcelas e do Cadastro Ambiental Rural (CAR). Outras ações conciliam a política de regularização fundiária com política de Assistência Técnica Rural.
+Marco Legal: Lei nº 4.504/1964, o Estatuto da Terra; 
+Decreto nº 59.566/1966, regulamenta seções do Estatuto da Terra;
+Lei nº 4.947/66, trata das normas do direito agrário;
+Lei nº 5.868/1972: Institui o Sistema Nacional de Cadastro Rural (SNCR);
+Lei nº 6.015/1973, dispõe sobre o registro público; 
+ADCT/CF1988, Art. 68 trata do direito à titulação de quilombos; 
+Lei nº 8.629/1993, regulamentação dos dispositivos constitucionais relativos à reforma agrária; 
+Lei nº 10.267/2001, cria o Cadastro Nacional de Imóvel Rural (CNIR);
+Decreto nº 4.887/2003 apresenta os procedimentos para a regularização fundiária de Quilombos;
+Decreto nº 5.758/2003, trata do Plano Estratégico Nacional de Áreas Protegidas - PNAP; 
+Decreto nº 6.040/2007, institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais;
+Lei nº 11.952/2009, regularização fundiária na Amazônia Legal; 
+Decreto nº 9.309/2017, regulamenta a regularização fundiária na Amazônia Legal; 
+Lei nº 13.465/2017, dispõe sobre regularização fundiária rural e urbana;
+Decreto nº 9.311/2018, dispõe sobre o processo de seleção, permanência e titulação das famílias beneficiárias do Programa Nacional de Reforma Agrária;
+Decreto n° 11.585/2023, institui o Fundo de Terras e da Reforma Agrária; 
+Decreto n° 11.586/2023, regulamenta a concessão de créditos de instalação aos beneficiários do PNRA.
+Planos Nacionais, Setoriais E Regionais: - II Plano Nacional de Reforma Agrária; 
+- Plano Nacional de desenvolvimento rural sustentável e solidário;
+- Programa Nacional de regularização fundiária;
+- Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia. 
+- Programa Aquilomba Brasil 
+- Plano Nacional de Políticas para Mulheres
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

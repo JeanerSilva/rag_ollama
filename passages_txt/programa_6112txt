@@ -1,0 +1,2058 @@
+passage: Programa Número 6112
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 134
+Indicador: 9014
+Denominação: Índice de apoio logístico atendido
+Sigla: ALOpS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Medir o atendimento de solicitações de apoio logístico em missões subsidiárias
+Período Ou Data A Que Se Refere: 2024-2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Apoios solicitados e apoios realizados
+Fonte De Dados Das Variáveis De Cálculo: Documentos solicitando apoio logístico em missões subsidiárias e relatórios das missões subsidiárias realizadas
+Forma De Disponibilização: no Ministério da Defesa
+Procedimento De Cálculo: Somatório das solicitações de apoio logístico em missões subsidiárias dividido pelo somatório dos apoios logísticos realizados em missões subsidiárias, multiplicado por 100
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 131
+Indicador: 10161
+Denominação: Índice de Implementação de Sistemas
+Sigla: IIS
+Índice De Referência: 77.55
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Aprimorar o índice de desenvolvimento de sistemas de comando e controle do EMCFA. Cabe destacar que todos os projetos (SIPLOM, Link BR2, IFF Módulo 4, MDLP e RDS-Defesa têm o mesmo peso.
+Período Ou Data A Que Se Refere: Início ao fim de cada trimestre.
+Data De Divulgação/Disponibilização: Primeira quinzena do trimestre subsequente.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Relatórios e feedback, dos Técnicos desenvolvedores e Gerentes dos Projetos afetos ao Sistema de Comando e Controle, realizados trimestralmente.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios trimestrais dos Gerentes dos Projetos.
+Forma De Disponibilização: www.defesa.gov.br
+Procedimento De Cálculo: Soma-se as tarefas de desenvolvimento dos projetos de interesse do Sistema de Comando e Controle do EMCFA até o último dia do trimestre da referência, divide-se pelo número dos sistemas implementados previstos para o último dia do ano. Por fim, multiplica-se o resultado por 100 para obter o índice.
+Limitações: Não há.
+Notas Explicativas: Não há.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 129
+Indicador: 10150
+Denominação: Índice de Operações, Adestramento e Exercícios Planejados
+Sigla: IOAP
+Índice De Referência: 12.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador é constituído pela média ponderada de Operações e Exercícios realizados anualmente, sobre o total planejado.
+Período Ou Data A Que Se Refere: Início ao fim de cada trimestre.
+Data De Divulgação/Disponibilização: Primeira quinzena do trimestre subsequente.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Operações AGATA realizadas, Adestramentos e Exercícios Conjuntos
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de missão na Subchefia de Operações
+Forma De Disponibilização: www.defesa.gov.br
+Procedimento De Cálculo: Soma-se as operações AGATA, os adestramentos e Exercícios Conjuntos realizados, até o último dia do trimestre de referência, divide-se pelo número de operações, exercícios e adestramentos conjuntos constantes do Programa de Trabalho da CHOC. Por fim, multiplica-se o resultado por 100.
+Limitações: Não há.
+Notas Explicativas: Não há.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 2008
+Indicador: 11335
+Denominação: Índice de operações de fiscalização naval realizadas
+Sigla: OpFN-MB
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Contabilização periódica do número de operações de fiscalização naval realizadas nas Águas Jurisdicionais Brasileiras (AJB). O objeto das operações pode incluir embarcações de transporte de pessoal e material, pesqueiras e recreativas, que trafegam nas AJB
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: operações de fiscalização realizadas. 
+
+Variável dependente: operações de fiscalização planejadas.
+
+Vistoria e Inspeção Naval consistem em realização de perícias de fiscalização, verificação e regularização em embarcações civis; operação e manutenção da rede de comunicações e controle do tráfego marítimo; desenvolvimento, atualização, manutenção e operação do Sistema de Monitoramento das Atividades do Petróleo (SIMAP) nas bacias petrolíferas brasileiras."
+Fonte De Dados Das Variáveis De Cálculo: Diretoria-Geral de Navegação
+Forma De Disponibilização: Site da Marinha do Brasil
+Procedimento De Cálculo: 1. Realizar o levantamento das operações de fiscalização naval previstas para o período de apuração.
+
+2. Realizar o levantamento das operações de fiscalização naval realizadas no período de apuração.
+
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 925
+Indicador: 9900
+Denominação: NApAnt disponibilizado para a Marinha do Brasil
+Sigla: NApAnt
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: O índice busca apurar o percentual de disponibilidade do navio para a MB, ou seja, a partir do término da construção, prevista para setembro de 2025, e da efetiva disponibilização do navio, a meta é de que o navio esteja "pronto para operar" em apoio ao Programa Antártico Brasileiro (PROANTAR).
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: Navio de Apoio Antártico (NApAnt) disponibilizado para a Marinha do Brasil
+Fonte De Dados Das Variáveis De Cálculo: Secretaria da Comissão Interministerial para os Recursos do Mar (SECIRM) - Subsecretaria para o Programa Antártico Brasileiro (PROANTAR)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento da disponibilizada do Navio de Apoio Antártico (NApAnt) para o PROANTAR, da Marinha do Brasil, considerando o período de janeiro a dezembro.
+
+Disponibilidade da meta (NApAnt) = 100%
+Não disponibilidade da meta (NApAnt) = 0%
+Notas Explicativas: Reforçar o fato de que a 1ª medição do NApAnt ocorrerá ao final do ano de 2025 (mantendo-se a previsão de entrega do NApAnt "Almirante Saldanha" no mês de setembro de 2025).
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 473
+Indicador: 9369
+Denominação: Número de equipamentos obtidos
+Sigla: EODAAE
+Índice De Referência: 375.0
+Em Apuração: Não
+Data De Apuração: 2023-06-29 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de Sistemas e Material de Emprego Militar (SMEM) de artilharia antiaérea, tais como: sistemas de armas, de controle e alerta, de comunicações e de logística, simuladores de artilharia, mockup, equipamentos e acessórios de uso em artilharia antiaérea, softwares, hardwares e ferramentas de TI, para obtenção de sistemas de navegação e simulação. Abrange, ainda, obras militares e aquisição de viaturas.
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: EODAAE = Número de equipamentos obtidos.
+EODAAEANO = Equipamentos de defesa antiaérea entregues no ano.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a soma dos equipamentos entregues em um determinado ano, é necessário ter os valores individuais de cada entrega.
+
+Passo a passo para calcular a soma dos equipamentos entregues no ano:
+
+Passo 1. Obter a lista de quantidades de equipamentos entregues em cada mês do ano. 
+Passo 2. Somar todos os valores da lista.
+Limitações: Não há.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 3282
+Indicador: 12548
+Denominação: Número de Fragatas Classe Tamandaré entregues à EMGEPRON
+Sigla: N.FCT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador da entrega referencia o número de Fragatas Classe Tamandaré (FCT) entregues à ENGEPRON, anualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: quantidade de  Fragatas Classe Tamandaré entregues.
+Fonte De Dados Das Variáveis De Cálculo: Empresa Gerencial de Projetos Navais (EMGEPRON)
+Forma De Disponibilização: site da EMGEPRON
+Procedimento De Cálculo: 1. Realizar o levantamento do número de Fragatas Classe Tamandaré (FCT) entregues à EMGEPRON, considerando o período de janeiro a dezembro.
+
+2. Realizar o somatório do quantitativo apurado.
+Notas Explicativas: Conforme discutido na Oficina de elaboração do PPA 2024-2027 (dia 30 de maio; Programa Defesa Nacional) e constante da descrição da entrega, as 4 (quatro) Fragatas Classe Tamandaré (FCT), em construção, não serão "entregues" à Marinha do Brasil, mas sim "disponibilizadas" à Esquadra (setor operativo), uma vez que a EMGEPRON manterá a posse do navio durante todo o seu ciclo de vida.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 924
+Indicador: 9899
+Denominação: Número de Fragatas disponibilizadas para a MB
+Sigla: FCT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A partir do término da construção da 1ª FCT, prevista para dezembro de 2025, e da efetiva disponibilidade do navio para a MB, em janeiro de 2026, a meta é de que o navio esteja "pronto para operar" junto ao setor operativo da MB.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: quantidade de Fragatas Classe "Tamandaré" disponibilizadas
+Fonte De Dados Das Variáveis De Cálculo: Marinha do Brasil - Programa Fragatas Classe "Tamandaré"
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento do número de Fragatas Classe "Tamandaré" disponibilizadas para a Marinha do Brasil, considerando o período de janeiro a dezembro.
+
+2. Realizar o somatório do quantitativo apurado.
+Limitações: 1ª medição ocorrerá  a partir do ano de 2026, sendo este o momento previsto de disponibilidade da 1ª Fragata Classe "Tamandaré" para a MB.
+Notas Explicativas: Reforçar o fato de que a 1ª medição do InDFCT ocorrerá em 2026, mantendo-se a previsão de entrega da 1ª Fragata Classe "Tamandaré" ao setor operativo da MB em dezembro de 2025, ou seja, não havendo qualquer medição do indicador nos anos de 2024 e 2025 em termos de disponibilidade de navio.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 213
+Indicador: 9022
+Denominação: Número de helicópteros da Aviação do Exército modernizados/adquiridos para o Exército Brasileiro
+Sigla: HAV-EB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a entrega de aeronaves para a Aviação do Exército.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: HAVEB = Número de helicópteros da Aviação do Exército modernizados ou adquiridos para o Exército Brasileiro.
+HAVEBANO = Helicópteros entregues no ano
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto
+Forma De Disponibilização: Relatório Anual de Gestão do Comandante do Exército.
+Procedimento De Cálculo: Para calcular a soma dos helicópteros entregues em um determinado ano, é necessário ter os valores individuais de cada entrega.
+
+Passo a passo para calcular a soma dos helicópteros entregues no ano:
+
+Passo 1. Obter a lista de quantidades de helicópteros entregues em cada mês do ano. 
+Passo 2. Somar todos os valores da lista.
+Limitações: Não há.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 144
+Indicador: 8947
+Denominação: Número de Instrumentos de Cooperação bilaterais e multilaterais relacionados ao desenvolvimento das capacidades conjuntas das Forças Armadas
+Sigla: NIC
+Índice De Referência: 9.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: uniddade
+Descrição: O Número de Instrumentos de Cooperação bilaterais e multilaterais relacionados ao desenvolvimento das capacidades conjuntas das Forças Armadas (NIC) indica a principal entrega da Chefia de Assuntos Estratégicos do Estado-Maior Conjunto das Forças Armadas à sociedade brasileira: o estabelecimento de Instrumentos de cooperação bilaterais e multilaterais relacionados ao desenvolvimento das capacidades conjuntas das Forças Armadas (Acordos, Ajustes Complementares, Protocolos, Memorandos de Entendimento e Cartas de Intenções).
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Quinto dia útil do mês de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AA: Acordos Assinados
+ACA: Ajustes Complementares Assinados
+PA: Protocolos Assinados
+MEA: Memorandos de Entendimentos Assinados
+CIA: Cartas de Intenções Assinadas
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de participação do Ministério da Defesa, por meio da Chefia de Assuntos Estratégicos, em reuniões e atividades congêneres bilaterais e multilaterais e Atas das Reuniões de Monitoramento e Controle da Chefia de Assuntos Estratégicos.
+Forma De Disponibilização: Ferramentas de monitoramento dos Planos Estratégicos e Setoriais do Ministério da Defesa.
+Procedimento De Cálculo: O cálculo da fórmula é realizado por meio da soma do número de Acordos Assinados, de Ajustes Complementares Assinados, de Protocolos Assinados, de Memorandos de Entendimentos Assinados e de Cartas de Intenções Assinadas.
+Limitações: Não há.
+Notas Explicativas: Não há.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 553
+Indicador: 9479
+Denominação: Número de militares com preparo operacional
+Sigla: NuMiPreOpFAB
+Índice De Referência: 21819.0
+Em Apuração: Não
+Data De Apuração: 2023-07-24 00:00:00
+Unidade De Medida: unidade
+Descrição: Medir a quantidade de militares com preparo operacional para atuar nas áreas finalísticas da Força Aérea Brasileira (FAB)
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NuMiPreOpFAB = Número de militares com preparo operacional;
+CapcExist = Quantidade de militares com a referida capacitação homologada por conselho operacional.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronaútica - Comando de Preparo (COMPREP)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER)
+Procedimento De Cálculo: Quantidade de militares preparados com capacitação homologada em um conselho operacional, no ano.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 2007
+Indicador: 11334
+Denominação: Número de militares e servidores civis da Marinha do Brasil formados e preparados
+Sigla: Cap-MB
+Índice De Referência: 71633.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Aferição periódica, com base nos registros do Sistema de Ensino Naval, da relação entre as captações e capacitações realizadas e a planejadas, no período de 1 ano, referente a cursos, treinamentos específicos, operações e exercícios singulares realizados pela Marinha do Brasil, no país e no exterior.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável dependente: nº de formações e preparações planejadas de militares e servidores civis da MB; 
+
+Variável independente: nº de formações e preparações realizadas de militares e servidores civis da MB
+
+As formações e capacitações planejadas devem estar de acordo com o previsto nos documentos internos  da Força afetos ao assunto.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria-Geral do Pessoal da Marinha
+Forma De Disponibilização: Site da Marinha
+Procedimento De Cálculo: 1. Realizar o levantamento do número de formações e preparações planejados para o período de apuração.
+
+2. Realizar o levantamento do número de formações e preparações realizadas no período de apuração.
+
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 1988
+Indicador: 11310
+Denominação: Número de militares formados e preparados
+Sigla: MFPEB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de militares envolvidos em cursos, treinamentos específicos, operações, estágios, certificações de prontidão e exercícios singulares realizados pelo Exército, no país e exterior.
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MFPEB = Número de militares formados e preparados.
+MFPEBANO = Número de militares formados e preparados no ano.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Estado-Maior do Exército
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a soma dos militares formados e preparados  em um determinado ano, é necessário ter os valores individuais de cada entrega.
+
+Passo a passo para calcular a soma dos militares formados e preparados no ano:
+
+Passo 1. Obter a lista de quantidades de militares formados e preparados em cada mês do ano. 
+Passo 2. Somar todos os valores da lista.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 927
+Indicador: 9902
+Denominação: Número de Navios-Patrulha entregues à Marinha do Brasil
+Sigla: NPa
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador da entrega referencia o número de Navios-Patrulha (NPa) de 500 toneladas e de Navios-Patrulha de 500 toneladas configurados para Navios de Contramedidas de Minagem (NCMM)entregues à Marinha do Brasil, anualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: quantidade de  navios-patrulha entregues.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria-Geral do Material da Marinha (DGMM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento do número de Navios-Patrulha (NPa) entregues à Marinha do Brasil, considerando o período de janeiro a dezembro.
+
+2. Realizar o somatório do quantitativo apurado.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 292
+Entrega: 591
+Indicador: 9525
+Denominação: Número de pessoas capacitadas
+Sigla: NuPeCap
+Índice De Referência: 7700.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a quantidade de pessoas capacitadas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NuPeCap = Valor absoluto de pessoas capacitadas.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Controle do Espaço Aéreo (DECEA).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER)
+Procedimento De Cálculo: Quantidade de pessoas capacitadas no ano.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 299
+Entrega: 624
+Indicador: 9562
+Denominação: Número de pessoas capacitadas
+Sigla: NPCAP
+Índice De Referência: 5015.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de pessoas capacitadas para atuar na prevenção e investigação de acidentes aeronáuticos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPCAP =  Número de Pessoas Capacitadas.
+Fonte De Dados Das Variáveis De Cálculo: Centro de Investigação e Prevenção de Acidentes Aeronáuticos - CENIPA
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do EMAER
+Procedimento De Cálculo: Quantidade de pessoas capacitadas por ano.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 566
+Indicador: 9497
+Denominação: Número de pessoas formadas/capacitadas na área de C&T
+Sigla: NuPesForCap
+Índice De Referência: 2028.0
+Em Apuração: Não
+Data De Apuração: 2023-07-24 00:00:00
+Unidade De Medida: unidade
+Descrição: Medir a quantidade de pessoas formada/capacitada para  atuar na área de Ciência, Tecnologia e Inovação (CT&I) em relação ao planejado.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NuPesPrep = Número de pessoas formadas/capacitadas na área de CT&I
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronaútica -Instituto Tecnológico da Aeronáutica (ITA)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER)
+Procedimento De Cálculo: Quantidade de pessoas formadas/capacitadas no ano.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 1987
+Indicador: 11309
+Denominação: Número de subunidades com capacidade operacional plena
+Sigla: DCPSCF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de subunidades com capacidade plena de operacionalidade.
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DCPSCF = Número de subunidades com capacidade plena de operacionalidade.
+DCPSCFANO= Número de subunidades com capacidade plena de operacionalidade entregues no ano.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto.
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército - RGCE.
+Procedimento De Cálculo: Para calcular a soma das subunidades entregues em um determinado ano, é necessário ter os valores individuais de cada entrega.
+
+Passo a passo para calcular a soma das subunidades entregues no ano:
+
+Passo 1. Obter a lista de quantidades de subunidades entregues em cada mês do ano. 
+Passo 2. Somar todos os valores da lista.
+Limitações: Não se aplica.
+Notas Explicativas: A operacionalidade está diretamente ligada ao recebimento e distribuição do material.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 157
+Indicador: 8968
+Denominação: Número de viaturas do Programa Forças Blindadas entregues ao Exército Brasileiro
+Sigla: VBAEB
+Índice De Referência: 705.0
+Em Apuração: Não
+Data De Apuração: 2024-01-29 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a quantidade de viaturas blindadas adquiridas/modernizadas entregues ao Exército Brasileiro.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VBAEB = Número de viaturas do Programa Forças Blindadas entregues ao Exército Brasileiro.
+VBAEBANO = Número de viaturas do Programa Forças Blindadas entregues ao Exército Brasileiro no ano.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a soma das viaturas entregues em um determinado ano, é necessário ter os valores individuais de cada entrega.
+
+Passo a passo para calcular a soma das viaturas entregues no ano:
+
+Passo 1. Obter a lista de quantidades de viaturas entregues em cada mês do ano. 
+Passo 2. Somar todos os valores da lista.
+Limitações: Não se aplica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 887
+Indicador: 9861
+Denominação: Percentual da manutenção dos meios operativos da Marinha do Brasil
+Sigla: PROGEM
+Índice De Referência: 55.09
+Em Apuração: Sim
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Indicador descreve a média dos Índices de Desempenho de Prazo (IDP) dos Projetos de Manutenção constantes do Programa Geral de Manutenção (PROGEM).
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: ∑ (Valor Agregado (VA) / Valor Planejado dos projetos de manutenção (VP)
+
+Variável dependente: Quantidade de projetos de manutenção 
+
+Por Valor Agregado, entende-se como o valor do projeto realizado.
+Fonte De Dados Das Variáveis De Cálculo: Órgãos de Direção Setorial da Marinha do Brasil
+Forma De Disponibilização: Indicadores serão disponibilizados nos órgãos colegiados voltados para a manutenção (CTGeMan e CoGeMan).
+Procedimento De Cálculo: A relação entre os Valores Agregado (VA) e Planejado (VP) é definida a partir do monitoramento real do cronograma em relação com o planejado nos documentos condicionantes do PROGEM, considerando-se as metas anuais e a linha base estabelecida para este Programa.
+
+1. Utilizando a Linha Base do Projeto, realizar o levantamento do Valor Planejado para o período de apuração.
+
+2. Com base nos critérios de medição, realizar o levantamento do Valor Agregado.
+
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+
+4. Somar o resultado dos projetos e dividir pela quantidade de projetos (média aritmética).
+Limitações: O indicador está limitado às manutenções programadas e constantes do Programa Geral de Manutenção (PROGEM), não incorporando as atividades de manutenção correntes e extraordinárias.
+Notas Explicativas: Definições:
+
+a) CTGeMan - Comitê Técnico de Gestão da Manutenção: órgão de supervisão e coordenação dos processos de manutenção dos meios operativos, no que se refere ao planejamento, execução, monitoramento e controle do PROGEM, no nivel operacional da Força Naval.
+
+b) CoGeMan - Comissão de Gestão de Manutenção:  órgão de assessoramento no trato de assuntos afetos à gestão dos processos de manutenção dos meios operativos, no que se refere ao planejamento e execução do PROGEM, no nível estratégico da Força naval.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 292
+Entrega: 587
+Indicador: 9523
+Denominação: Percentual de aderência aos padrões internacionais de eficiência do controle do espaço aéreo
+Sigla: PerAPICEA
+Índice De Referência: 94.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Abordam questões como a Aderência às Normas de Tráfego Aéreo da ICAO (International Civil Aviation Organization), a Segurança Operacional, a Comunicação ATC (Controle de Tráfego Aéreo) e a Vigilância ATS (Serviço de Tráfego Aéreo).
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerAPICEA = Percentual de aderência aos padrões internacionais de controle do espaço aéreo;
+ANICAO = Aderência às Normas de Tráfego Aéreo da ICAO;
+CapComATC = Capacidade de Comunicação ATC;
+CapViigATS = Capacidade de Vigilância ATS; e
+INDSegOp =  Indicador de Desempenho da Segurança Operacional.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Controle do Espaço Aéreo (DECEA).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER)
+Procedimento De Cálculo: É o somatório das variáveis ANICAO, CapComATC, CapViigATS e INDSegOp multiplicado pelo seus respectivos índices.
+Nesse sentido, o cálculo é aplicado da seguinte forma: soma-se o resultado da multiplicação de cada variável pelo seu respectivo índice; e multiplica-se o resultado da soma por 100.
+Notas Explicativas: O indicador "PerAPICEA" guarda relação com o indicador "CEAB" disponível no "Painel do Panorama da Força" do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER).
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 504
+Indicador: 9410
+Denominação: Percentual de aeronaves A-29 modernizadas entregues à Força Aérea Brasileira
+Sigla: PerAerEntA29
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a quantidade de aeronaves A-29 modernizadas adquiridas mais a linha de base acumulada entregues à Força Aérea Brasileira em relação à quantidade prevista contratualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerAerEntA29 = Percentual de aeronaves A29 modernizadas entregues à Força Aérea Brasileira;
+LBA = Linha de Base Acumulada;
+QAE = Quantidade de Aeronaves A-29 modernizadas Entregue;
+QAPC = Quantidade de Aeronaves A-29 modernizadas Prevista Contratualmente.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com o valor da Quantidade de Aeronaves A-29 modernizadas Entregue (QAE) sobre a Quantidade de Aeronaves A-29 modernizadas Prevista Contratualmente (QAPC). 
+A LBA é a quantidade de aeronaves entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da QAE; divide-se o resultado pelo valor da QAPC e multiplica por 100.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 2017
+Indicador: 11346
+Denominação: Percentual de aeronaves AIRBUS 330 (KC-30) convertidas entregues à Força Aérea Brasileira
+Sigla: PerAerEntA330
+Em Apuração: Sim
+Data De Apuração: 2023-07-18 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a quantidade de aeronaves AIRBUS 330 convertidas mais a linha de base acumulada entregues à Força Aérea Brasileira em relação à quantidade  prevista contratualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerAerEntA330 = Percentual de aeronaves AIRBUS 330 (KC-30)  entregues à Força Aérea Brasileira;
+LBA = Linha de Base Acumulada;
+QAE = Quantidade de Aeronaves AIRBUS 330 Entregue; e
+QAPC = Quantidade de Aeronaves AIRBUS 330  Prevista Contratualmente.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER).
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com o valor da Quantidade de Aeronaves AIRBUS 330 Entregues (QAE) sobre a Quantidade de Aeronaves AIRBUS 330  Prevista Contratualmente (QAPC). 
+A LBA é a quantidade de aeronaves entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da QAE; divide-se o resultado pelo valor da QAPC e multiplica por 100.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 501
+Indicador: 9397
+Denominação: Percentual de aeronaves F-39 entregues à Força Aérea Brasileira
+Sigla: PerAerEntF39
+Índice De Referência: 22.22
+Em Apuração: Não
+Data De Apuração: 2023-07-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura o percentual de execução dos programas e projetos da Aeronáutica.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerAerEntF39 = Percentual de aeronaves F-39 entregues à Força Aérea Brasileira;
+LBA = Linha de Base Acumulada;
+QAE = Quantidade de Aeronaves F-39 Entregue; e
+QAPC = Quantidade de Aeronaves F-39  Prevista Contratualmente.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com o valor da Quantidade de Aeronaves F-39 Entregue (QAE) sobre a Quantidade de Aeronaves F-39  Prevista Contratualmente (QAPC). 
+A LBA é a quantidade de aeronaves entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da QAE; divide-se o resultado pelo valor da QAPC e multiplica por 100.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 502
+Indicador: 9400
+Denominação: Percentual de aeronaves KC-390 entregues à Força Aérea Brasileira
+Sigla: PerAerEntKC390
+Índice De Referência: 36.84
+Em Apuração: Não
+Data De Apuração: 2023-07-19 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a quantidade de aeronaves KC-390 adquiridas mais a linha de base acumulada entregues à Força Aérea Brasileira em relação à quantidade de aeronaves KC-390 prevista contratualmente
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerAerEntKC390 = Percentual de aeronaves KC-390 entregues entregues à Força Aérea Brasileira;
+LBA = Linha de Base Acumulada;
+QAE = Quantidade de Aeronaves KC-390 Entregue; e
+QAPC = Quantidade de Aeronaves KC-390  Prevista Contratualmente.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com o valor da Quantidade de Aeronaves KC-390 Entregue (QAE) sobre a Quantidade de Aeronaves KC-390  Prevista Contratualmente (QAPC). 
+A LBA é a quantidade de aeronaves entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da QAE; divide-se o resultado pelo valor da QAPC e multiplica por 100.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 825
+Indicador: 9786
+Denominação: Percentual de construção de quatro submarinos convencionais diesel elétricos
+Sigla: S-Br
+Índice De Referência: 50.0
+Em Apuração: Não
+Data De Apuração: 2024-01-29 00:00:00
+Unidade De Medida: percentual
+Descrição: Referencia o número de S-Br entregues à Marinha do Brasil, anualmente, após o lançamento de armas e a transferência para o Setor Operativo da Força.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: etapas contratuais entregues no ano
+Variável dependente: etapas contratuais previstas para o ano.
+Considerar como etapas (ou marcos) contratuais as metas a serem cumpridas, dentro do cronograma estabelecido.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Geral de Desenvolvimento Nuclear e Tecnológico da Marinha (DGDNTM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos marcos contratuais previstos para o período de apuração.
+2. Realizar o levantamento dos marcos contratuais entregues (ou cumpridos) no período de apuração.
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Limitações: A entrega será concretizada após a transferência para o Setor Operativo da Força. Para efeito de cálculo, não será considerada a data de lançamento do meio ao mar.
+Notas Explicativas: Gestão Ambiental:
+O Plano Básico Ambiental (PBA) do PROSUB abrange as áreas de influência direta e indireta do empreendimento, promovendo monitoramentos e controles da qualidade do ar, da água, da fauna terrestre e marinha, da poluição sonora, dos resíduos e efluentes do empreendimento, entre outros.
+O Plano Básico Ambiental (PBA) decorrente do Estudo de Impacto Ambiental (EIA) estabelece 46 projetos, subprojetos e ações, correspondentes a programas de  monitoramentos ambientais, medidas de controle, ações mitigadoras, bem como contrapartidas socioeconômicas relativas aos impactos gerados pela implantação deste complexo industrial na região.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 885
+Indicador: 9856
+Denominação: Percentual de construção do Estaleiro e da Base Naval (EBN)
+Sigla: EBN
+Índice De Referência: 79.92
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador EBN tem por finalidade acompanhar o comissionamento do Estaleiro e da Base Naval, partes integrantes do Programa de Submarinos (PROSUB), incluindo todas as etapas do programa, considerando o previsto nos contratos firmados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: etapas contratuais entregues no ano. Variável dependente: etapas contratuais previstas para o ano.
+Considerar como etapas (ou marcos) contratuais as metas a serem cumpridas, dentro do cronograma estabelecido.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Geral de Desenvolvimento Nuclear e Tecnológico da Marinha (DGDNTM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos marcos contratuais previstos para o período de apuração.
+2. Realizar o levantamento dos marcos contratuais entregues (ou cumpridos) no período de apuração.
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Notas Explicativas: Gestão Ambiental:
+O Plano Básico Ambiental (PBA) do PROSUB abrange as áreas de influência direta e indireta do empreendimento, promovendo monitoramentos e controles da qualidade do ar, da água, da fauna terrestre e marinha, da poluição sonora, dos resíduos e efluentes do empreendimento, entre outros.
+O Plano Básico Ambiental (PBA) decorrente do Estudo de Impacto Ambiental (EIA) estabelece 46 projetos, subprojetos e ações, correspondentes a programas de  monitoramentos ambientais, medidas de controle, ações mitigadoras, bem como contrapartidas socioeconômicas relativas aos impactos gerados pela implantação deste complexo industrial na região.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 2212
+Indicador: 11550
+Denominação: Percentual de desenvolvimento das aeronaves Cargueiro Tático Militar de 10 a 20 Toneladas desenvolvida (Projeto KC-X) e entregues à Força Aérea Brasileira
+Sigla: PerDesAerEntKC-X
+Índice De Referência: 99.86
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura o percentual de desenvolvimento das aeronaves  Cargueiro Tático Militar de 10 a 20 Toneladas desenvolvida (Projeto KC-X) e entregues à Força Aérea Brasileira.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerDesAerEntKC-X =  Percentual de desenvolvimento das aeronaves  Cargueiro Tático Militar de 10 a 20 Toneladas desenvolvida (Projeto KC-X) e entregues à Força Aérea Brasileira;
+LBA = Linha de Base Acumulada;
+PDAE= Percentual de Desenvolvimento de Aeronaves Entregues.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER).
+Procedimento De Cálculo: Soma do valor da Linha de Base Acumulada (LBA) com o valor do Percentual de Desenvolvimento de Aeronaves Entregues (PDAE). 
+A LBA é a quantidade de aeronaves entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor LBA com o valor PDAE.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 8
+Entrega: 2018
+Indicador: 11347
+Denominação: Percentual de desenvolvimento de Produção científica e tecnológica
+Sigla: PerDICT-FAB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador busca apurar o percentual de atendimento dos projetos de pesquisa científica e tecnológica planejados, que compõem a Carteira de Projetos de Ciência e Tecnologia da Aeronáutica, conforme orientações do Sistema de Inovação da Aeronáutica - SINAER.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: QTecTransf = Quantidade de Tecnologias do SINAER Transferidas para a Indústria.
+QTecPort= Quantidade de Tecnologias Disponíveis no Portfólio do SINAER.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Departamento de Ciência e Tecnologia Aeroespacial (DCTA)
+Forma De Disponibilização: Relatório proveniente do Órgão Central do Sistema de Inovação da Aeronáutica - SINAER (Departamento de Ciência e Tecnologia Aeroespacial - DCTA) .
+Procedimento De Cálculo: É a razão QTecTransf e QTecPort multiplicado por 100 em porcentagem.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 8
+Entrega: 736
+Indicador: 10419
+Denominação: Percentual de desenvolvimento de Produção científica e tecnológica
+Sigla: PerDICT-MB
+Índice De Referência: 75.0
+Em Apuração: Não
+Data De Apuração: 2023-06-20 00:00:00
+Unidade De Medida: %
+Descrição: O índice busca apurar o percentual de atendimento dos projetos de pesquisa científica e tecnológicos planejados, conforme orientações do Sistema de Ciência e Tecnologia da Marinha (SCTMB) e que compõe a Carteira de Projetos de Ciência e Tecnologia da Marinha, em apoio à Estratégia de Ciência, Tecnologia e Inovação da Marinha do Brasil
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: variável dependente: número de projetos executados; e
+variável independente: número de projetos planejados na carteira de CT&I da MB
+Fonte De Dados Das Variáveis De Cálculo: Diretoria-Geral de Desenvolvimento Nuclear e Tecnológico da Marinha (DGDNTM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos projetos de pesquisas científicas e tecnológicas previstos para o período de apuração.
+2. Realizar o levantamento dos projetos de pesquisas científicas e tecnológicas executadas no período de apuração.
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Notas Explicativas: As Instituições Científicas, Tecnológicas e de Inovação (ICT) no âmbito da Marinha do Brasil são Organizações Militares assim qualificadas conforme preconizado no inciso V, dos art. 2º, da Lei nº 10.973, de 2 de dezembro de 2004, e do Decreto nº 9.283 de 7 de fevereiro de 2018. Na MB, as atividades de CT&I são alinhadas a documentos de alto nível, orientando a coordenação e desenvolvimento para o atendimento da Marinha do amanhã e do futuro, conforme consta da Estratégia de Ciência, Tecnologia e Inovação da Marinha do Brasil.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 8
+Entrega: 1989
+Indicador: 11311
+Denominação: Percentual de Desenvolvimento de Produção Científica e Tecnológica
+Sigla: InDPCT - EB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Apurar o percentual de atendimento dos projetos de pesquisa científica e tecnológicos planejados, conforme orientações do Departamento de Ciência e Tecnologia  (DCT) e que compõe a Carteira de Projetos de Ciência e Tecnologia do Exército, em apoio à Estratégia de Ciência, Tecnologia e Inovação do EB.
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PDPCT = Percentual de Desenvolvimento de Produção Científica e Tecnológica do Exército Brasileiro.
+PPCTE = soma dos Projetos de Pesquisas Científicas e Tecnológicas em Execução.
+QPPCTPlnj = Quantidade de Projetos de Pesquisas Científicas e Tecnológicos Planejados.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Ciência e Tecnologia (DCT), Departamento-Geral do Pessoal (DGP) e Departamento de Educação e Cultura do do Exército (DECEx).
+Forma De Disponibilização: Relatórios  e Site do Exército Brasileiro
+Procedimento De Cálculo: Para calcular a razão entre a soma Projetos de Pesquisas Científicas e Tecnológicas em Execução  e a Quantidade de Projetos de Pesquisas Científicas e Tecnoógicos planejados, siga os passos a seguir:
+
+Passo 1. Realizar o levantamento dos projetos de pesquisas científicas e tecnológicas previstos para o período de apuração.
+Passo 2. Realizar o levantamento dos projetos de pesquisas científicas e tecnológicas executadas no período de apuração. 
+Passo 3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.                                                          
+Passo 4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Limitações: Não se aplica.
+Notas Explicativas: As Instituições Científicas, Tecnológicas e de Inovação (ICT) no âmbito do Comando do Exército  são Organizações Militares assim qualificadas conforme preconizado no inciso V, dos art. 2º, da Lei nº 10.973, de 2 de dezembro de 2004, e do Decreto nº 9.283 de 7 de fevereiro de 2018. No EB, as atividades de CT&I são alinhadas a documentos de alto nível, orientando a coordenação e desenvolvimento para o atendimento do Exército Brasileiro do amanhã e do futuro, conforme consta da Estratégia de Ciência, Tecnologia e Inovação do Exército Brasileiro.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 888
+Indicador: 9863
+Denominação: Percentual de desenvolvimento do Projeto MANSUP
+Sigla: MANSUP
+Índice De Referência: 74.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador MANSUP tem por finalidade acompanhar e avaliar a evolução do desenvolvimento do Míssil Antinavio Nacional de Superfície (MANSUP), incluindo todas as etapas dos projetos vigentes do Programa, considerando o previsto nos contratos firmados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: etapas contratuais entregues no ano. 
+
+Variável dependente: etapas contratuais previstas para o ano. 
+
+Considerar como etapas (ou marcos) contratuais as metas a serem cumpridas, dentro do cronograma estabelecido.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Geral do Material da Marinha (DGMM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos marcos contratuais previstos para o período de apuração.
+
+2. Realizar o levantamento dos marcos contratuais entregues (ou cumpridos) no período de apuração.
+
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 881
+Indicador: 9852
+Denominação: Percentual de desenvolvimento do Submarino Nuclear Convencionalmente Armado (SNCA)
+Sigla: SCPN-Br
+Índice De Referência: 28.8
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador SNCA tem por finalidade acompanhar o desenvolvimento do Submarino Nuclear Convencionalmente Armado (SNCA), incluindo todas as etapas do programa, considerando o previsto nos contratos firmados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: etapas contratuais entregues no ano. 
+Variável dependente: etapas contratuais previstas para o ano. 
+Considerar como etapas (ou marcos) contratuais as metas a serem cumpridas, dentro do cronograma estabelecido.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Geral de Desenvolvimento Nuclear e Tecnológico da Marinha (DGDNTM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos marcos contratuais previstos para o período de apuração.
+2. Realizar o levantamento dos marcos contratuais entregues (ou cumpridos) no período de apuração.
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Notas Explicativas: Gestão Ambiental:
+O Plano Básico Ambiental (PBA) do PROSUB abrange as áreas de influência direta e indireta do empreendimento, promovendo monitoramentos e controles da qualidade do ar, da água, da fauna terrestre e marinha, da poluição sonora, dos resíduos e efluentes do empreendimento, entre outros.
+O Plano Básico Ambiental (PBA) decorrente do Estudo de Impacto Ambiental (EIA) estabelece 46 projetos, subprojetos e ações, correspondentes a programas de  monitoramentos ambientais, medidas de controle, ações mitigadoras, bem como contrapartidas socioeconômicas relativas aos impactos gerados pela implantação deste complexo industrial na região.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 506
+Indicador: 9414
+Denominação: Percentual de helicópteros do Projeto HX-BR entregues às Forças Armadas
+Sigla: PerHeliEnHXBRFAA
+Índice De Referência: 91.49
+Em Apuração: Não
+Data De Apuração: 2023-07-19 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a quantidade helicópteros do Projeto HX-BR adquiridas mais a linha de base acumulada entregues às Força Armadas em relação à quantidade prevista contratualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerHeliEnHXBRFAA = Percentual de helicópteros do Projeto HX-BR  entregues às  Forças Armadas;
+LBA = Linha de Base Acumulada;
+QHE = Quantidade de Helicópteros do Projeto HX-BR Entregue;
+QHPC = Quantidade de Helicópteros do Projeto HX-BR Prevista Contratualmente.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com o valor da Quantidade de Helicópteros do Projeto HX-BR Entregue (QHE) sobre a Quantidade de Helicópteros do Projeto HX-BR Prevista Contratualmente (QHPC). 
+A LBA é a quantidade de helicópteros entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da QHE; divide-se o resultado pelo valor da QHPC e multiplica por 100.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 513
+Indicador: 9427
+Denominação: Percentual de helicópteros do Projeto TH-X entregues às Forças Armadas
+Sigla: PerHeliEntTHXFAA
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a quantidade helicópteros do Projeto TH-X adquiridas mais a linha de base acumulada entregues às  Forças Armadas em relação à quantidade prevista contratualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerHeliEntTHXFAA = Percentual de helicópteros do Projeto TH-X entregues às  Forças Armadas;
+LBA = Linha de Base Acumulada;
+QHE = Quantidade de Helicópteros do Projeto TH-X Entregue;
+QHPC = Quantidade de Helicópteros do Projeto TH-X Prevista contratualmente.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com o valor da Quantidade de Helicópteros do Projeto TH-X Entregue (QHE) sobre a Quantidade de Helicópteros do Projeto TH-X Prevista Contratualmente (QHPC). 
+A LBA é a quantidade de helicópteros entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da QHE; divide-se o resultado pelo valor da QHPC e multiplica por 100.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 170
+Indicador: 8984
+Denominação: Percentual de implantação do Programa Astros
+Sigla: SISAIMP
+Índice De Referência: 61.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: percentual
+Descrição: O Índice contempla o Desenvolvimento, manutenção e aquisição do Sistema de Defesa Estratégico de Mísseis e Foguetes ASTROS,  aquisição de mísseis táticos e foguetes guiados, construção, recuperação e adequação de instalações para abrigar as novas estruturas operacionais e de apoio ao pessoal, desenvolvimento e aquisição de sistemas de aeronaves remotamente pilotadas (SARP).
+Período Ou Data A Que Se Refere: 01 Janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SISAIMP = Percentual de implantação do Programa Astros.
+ESISAIMP = Execução Física do Escopo do Programa Astros no ano.
+TSISAIMP = Escopo Total do Programa Astros.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a execução física do escopo do projeto em um determinado ano em relação ao escopo total do projeto, é necessário ter informações sobre o progresso alcançado e o escopo total definido para o projeto.
+
+Passo a passo para calcular a execução física do escopo do projeto no ano em relação ao escopo total do projeto:
+
+Passo 1. Obter o escopo total do projeto. 
+Passo 2. Determinar o progresso realizado no escopo do projeto até o final do ano em questão.
+Passo 3. Dividir o progresso alcançado pelo escopo total do projeto.
+Limitações: Não se aplica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 886
+Indicador: 9858
+Denominação: Percentual de implantação do Programa Nuclear da Marinha (PNM)
+Sigla: PNM
+Índice De Referência: 63.6
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador PNM tem por finalidade acompanhar e avaliar a implantação do Programa Nuclear da Marinha (PNM), incluindo todas as etapas dos projetos vigentes do Programa, considerando o previsto nos contratos firmados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: etapas contratuais entregues no ano. 
+
+Variável dependente: etapas contratuais previstas para o ano. 
+
+Considerar como etapas (ou marcos) contratuais as metas a serem cumpridas, dentro do cronograma estabelecido.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Geral de Desenvolvimento Nuclear e Tecnológico da Marinha (DGDNTM)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos marcos contratuais previstos para o período de apuração.
+
+2. Realizar o levantamento dos marcos contratuais entregues (ou cumpridos) no período de apuração.
+
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Notas Explicativas: A Marinha do Brasil, no compromisso em manter a qualidade do meio ambiente para as gerações atual e futura, assegura o atendimento à legislação e normas ambientais vigentes, aplicando sempre a melhoria contínua dos processos para prevenir a poluição e minimizar os impactos das atividades nucleares e industriais ao meio ambiente.
+Por meio do Sistema de Gestão Ambiental, promove a atualização dos objetivos, o controle e o monitoramento do meio ambiente e a conscientização e treinamento dos colaboradores militares e civis.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 212
+Indicador: 9017
+Denominação: Percentual de implantação do SISFRON
+Sigla: SISFIMP
+Índice De Referência: 22.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: percentual
+Descrição: O índice contempla as aquisições e serviços do sistema integrado de sensoriamento, apoio à decisão e apoio às operações, composto, entre outros meios, de: sistemas de sensoriamento fixos, portáteis ou instalados em plataformas de superfície, aéreas e orbitais; sistemas de comunicações; sistemas de tecnologia da informação; simuladores; sistemas operacionais de defesa; organizações e instalações militares adequadas às necessidades do sistema a ser implantado; bem como das infraestruturas necessárias de: logística; administrativa; obras; segurança da informação e comunicações e defesa cibernética; e capacitação, simulação e treinamento.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SISFIMP = Percentual de implantação do SISFRON.
+ESISFIMP = Execução Física do Escopo do Programa SISFRON no ano.
+TSISFIMP = Escopo Total do Programa SISFRON.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a execução física do escopo do projeto em um determinado ano em relação ao escopo total do projeto, é necessário ter informações sobre o progresso alcançado e o escopo total definido para o projeto.
+
+Passo a passo para calcular a execução física do escopo do projeto no ano em relação ao escopo total do projeto:
+
+Passo 1. Obter o escopo total do projeto. 
+Passo 2. Determinar o progresso realizado no escopo do projeto até o final do ano em questão.
+Passo 3. Dividir o progresso alcançado pelo escopo total do projeto.
+Limitações: Não se aplica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Entrega: 926
+Indicador: 9901
+Denominação: Percentual de implantação do SisGAAz
+Sigla: SisGAAz
+Índice De Referência: 0.95
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador SisGAAz tem por finalidade acompanhar e avaliar a implantação do Sistema de Gerenciamento da Amazônia Azul (SisGAAz), incluindo todas as etapas do projeto, considerando o previsto nos contratos firmados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variável independente: etapas contratuais entregues no ano. 
+
+Variável dependente: etapas contratuais previstas para o ano. 
+
+Considerar como etapas (ou marcos) contratuais as metas a serem cumpridas, dentro do cronograma estabelecido.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria-Geral do Material da Marinha
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento dos marcos contratuais previstos para o período de apuração.
+
+2. Realizar o levantamento dos marcos contratuais entregues (ou cumpridos) no período de apuração.
+
+3. Dividir o resultado apurado no item 2 pelo resultado apurado no item 1.
+
+4. Multiplicar o resultado do item 3 por 100, calculando-se, por fim, o percentual descrito pelo indicador.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 464
+Indicador: 9340
+Denominação: Percentual de implantação do Sistema de Defesa Cibernética
+Sigla: IDEFCIBER
+Índice De Referência: 17.0
+Em Apuração: Não
+Data De Apuração: 2023-06-29 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede o progresso da implantação do Sistema de Defesa Cibernética sob responsabilidade do Comando do Exército.
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IDEFCIBER = Percentual de implantação do Sistema de Defesa Cibernética.
+IDEFCIBEREB = Valor das entregas da Cibernética Exército Brasileiro no ano.
+IDEFCIBERDN = Valor das entregas da Cibernética Defesa Nacional no ano.
+TIDEFCIBER = Valor total do Projeto Cibernética.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Projeto
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a execução física do escopo do projeto Cibernética, considerando as entregas feitas pelo Exército Brasileiro e pela Defesa Nacional em um determinado ano, é necessário ter as informações sobre o valor das entregas de cada entidade e o valor total do projeto Cibernética. 
+
+Passo a passo para calcular a execução física do escopo do projeto Cibernética no ano em relação ao valor total do projeto:
+
+Passo 1. Somar o valor das entregas da Cibernética Exército Brasileiro no ano. 
+Passo 2. Somar o valor das entregas da Cibernética Defesa Nacional no ano. 
+Passo 3. Somar os valores das entregas do Exército Brasileiro e da Defesa Nacional obtidos nos passos 1 e 2. 
+Passo 4. Obter o valor total do projeto Cibernética.
+Passo 5. Dividir a soma dos valores das entregas pelo valor total do projeto e multiplique por 100 para obter a execução física em termos percentuais.
+Limitações: Não há.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Entrega: 491
+Indicador: 9370
+Denominação: Percentual de manutenção dos meios operativos do Exército Brasileiro
+Sigla: MMO-EB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede o percentual de manutenção dos meios operativos do Exército Brasileiro, abrangendo despesas com concessionárias de serviço público, contratos administrativos, suprimentos de diversas classes de materiais, disponibilidade de materiais de emprego militar e transporte estratégico.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MMOEB = Percentual de manutenção dos meios operativos do Exército Brasileiro.
+EMMOEB = Valor executado de manutenção dos meios operativos do Exército Brasileiro no período.
+TMMOEB = Demanda total para manutenção dos meios operativos do Exército Brasileiro no período.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Estado-Maior do Exército
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: Para calcular a execução física da manutenção dos meios operativos do Exército Brasileiro em um determinado período em relação à demanda total para essa manutenção, é necessário ter informações sobre o valor executado de manutenção e a demanda total para a manutenção dos meios operativos nesse período. 
+
+Passo a passo para calcular a execução física da manutenção dos meios operativos do Exército Brasileiro no período em relação à demanda total:
+
+Passo 1. Obter o valor executado de manutenção dos meios operativos do Exército Brasileiro no período em questão.
+Passo 2. Obter a a demanda total para a manutenção dos meios operativos do Exército Brasileiro no mesmo período. 
+Passo 3. Dividir o valor executado pelo valor da demanda total e multiplique por 100 para obter a execução física em termos percentuais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 518
+Indicador: 9438
+Denominação: Percentual de meios operativos da Força Aérea Brasileira manutenidos
+Sigla: PerMeiosOpeFAB
+Índice De Referência: 63.96
+Em Apuração: Não
+Data De Apuração: 2023-07-25 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura o percentual de disponibilidade da frota da FAB.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerMeiosOpeFAB = Percentual de meios operativos da Força Aérea Brasileira manutenidos;
+QOADisp = Quantidade de Aeronaves Disponíveis; e
+QADist =  Quantidade de Aeronaves Distribuídas da FAB.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Quarta Subchefia (4SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o valor da Quantidade de Aeronaves Disponíveis (QOADisp) sobre o valor da Quantidade de Aeronaves Distribuídas da FAB (QADist). 
+Nesse sentido, o cálculo é aplicado da seguinte forma: Divide-se o valor da QOADisp pelo valor da QADist e multiplica o resultado por 100.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Entrega: 517
+Indicador: 9435
+Denominação: Percentual de sistemas satelitais entregues às Forças Armadas
+Sigla: PerSiSatEntFAA
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a quantidade de sistemas satelitais adquiridos mais a linha de base acumulada entregues às Forças Armadas Brasileiras em relação à quantidade planejada/contratada para ser entregue às Forças Armadas Brasileiras.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PerSiSatEntFAA = Percentual de sistemas satelitais entregues às Forças Armadas Brasileiras;
+QSiSaE = Quantidade de Sistemas Satelitais Entregues às Forças Armadas Brasileiras;
+LBA = Linha de Base Acumulada;
+QSiSaP = Quantidade de Sistemas Satelitais Planejada para ser entregue às Forças Armadas Brasileiras.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Terceira Subchefia (3SC) do Estado-Maior da Aeronáutica (EMAER)
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Mairo da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre o somatório do valor da Linha de Base Acumulada (LBA) com a quantidade de Sistemas Satelitais Entregues às Forças Armadas Brasileiras (QSiSaE) sobre a Quantidade de Sistemas Satelitais Planejada para ser entregue às Forças Armadas Brasileiras (QSiSaP). 
+A LBA é a quantidade de sistemas satelitais entregues cumulativamente até o exercício anterior ao exercício de apuração do indicador.
+Nesse sentido, o cálculo é aplicado da seguinte forma: realiza-se a soma do valor da LBA com o valor da LBAQSiSaE; divide-se o resultado pelo valor da QSiSaP e multiplica o resultado por 100.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 8
+Entrega: 724
+Indicador: 9650
+Denominação: Percentual de tecnologias de interesse da Defesa em pesquisa e desenvolvimento
+Sigla: TIDP&D
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Percentual de tecnologias de interesse em pesquisas e em desenvolvimento.
+Período Ou Data A Que Se Refere: janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PIDP = Projetos  de interesse de Defesa em fase de pesquisa.
+PIDD =  Projetos de interesse de Defesa em fase de desenvolvimento.
+TPID = Total de tecnologias definidas como de interesse da Defesa.
+Fonte De Dados Das Variáveis De Cálculo: Carteira de projetos do Departamento de Ciência, Tecnologia e Informação (DECTI) - Relatórios de análise de projetos do DECTI.
+Forma De Disponibilização: Sistema de Gestão do Conhecimento do Ministério da Defesa.
+Procedimento De Cálculo: Apurar o número de tecnologias de interesse da Defesa em fase de pesquisa;
+Apurar o número de tecnologias de interesse da Defesa que estejam em de desenvolvimento;
+Somar o número de tecnologias de interesse da Defesa em fase de pesquisa e em desenvolvimento e dividir pelo Total de tecnologias definidas como de de interesse da Defesa. Multiplicar o  resultado por 100.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 137
+Indicador: 9985
+Denominação: Produção científica e acadêmica realizadas
+Sigla: NRPC
+Índice De Referência: 100.0
+Em Apuração: Sim
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Agregado dos índices informados pelas Escolas (ESG e ESD) e do Pró-Defesa.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de cada ano.
+Data De Divulgação/Disponibilização: Quinto dia útil do mês de janeiro, do ano subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ". nº de pesquisas científicas realizadas: número de pesquisa científicas em nível de pós-graduação (CAED e CAEPE) realizadas pelos alunos da Escola Superior de Guerra (CAEPE e PPGSID) e da Escola Superior de Defesa (CAED), bem como pelos pesquisadores do Programa Pró-Defesa.
+. nº de pesquisas científicas previstas: número de pesquisa científicas em nível de pós-graduação previstas para os alunos da Escola Superior de Guerra (CAEPE e PPGSID) e da Escola Superior de Defesa (CAED), bem como para os pesquisadores do Programa Pró-Defesa.
+"
+Fonte De Dados Das Variáveis De Cálculo: Bases de dados das Escolas (ESG e ESD) e do Pró-Defesa.
+Forma De Disponibilização: www.gov.br/defesa/pt-br, www.gov.br/esg/pt-br e www.gov.br/esd/pt-br
+Procedimento De Cálculo: Cálculo do índice relativo a cada Escola: divisão do número de pesquisas realizadas pelo número de pesquisas previstas multiplicado por cem. Soma do total agregado de cada Escola e do Pró-Defesa.
+Notas Explicativas: Entende-se por "pesquisa científica": artigos científicos, dissertações de mestrado e teses de doutorado.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 132
+Indicador: 9007
+Denominação: Taxa anual de participação em operações conjuntas das Forças Armadas e do Sistema Nacional de Mobilização (SINAMOB)
+Sigla: TPO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador é a média ponderada entre a razão do número de Órgãos de Direção Setorial do que efetivamente participaram do exercício proposto e os dez subsistemas que compõem o SINAMOB e a razão entre o número de planejamentos/exercícios/operações conjuntas com a participação da CHELOG e o número de planejamentos/exercícios/operações conjuntas realizadas pelo EMCFA. Entende-se que é a melhor maneira de medir, com simplicidade,  a evolução da interação entre os diversos órgãos componentes do SINAMOB e o aprimoramento dos setores de Logística e mobilização do EMCFA. Os recursos necessários serão provenientes da ação 20X3.
+Cabe salientar que o SINAMOB, criado pela Lei nº 11.632/2007, consiste em um conjunto de órgãos (civis e militares) que atuam de modo ordenado e integrado, a fim de planejar e realizar todas as fases da Mobilização e da Desmobilização Nacionais.
+Período Ou Data A Que Se Refere: JAN-DEZ
+Data De Divulgação/Disponibilização: Décimo dia útil dos meses de ABR/JUL/OUT/JAN
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IPO -  Índice de Participação em Operações
+PEC - Número de planejamentos, exercícios e operações conjuntas com a particpação da CHELOG
+PEE - número de planejamentos, exercícios e operações conjuntas realizados pelo EMCFA
+NPE - Número de ODS do SINAMOB participantes do exercício
+Fonte De Dados Das Variáveis De Cálculo: Planos de Trabalho, Caledários de atividades, Notas de Serviço, etc
+Procedimento De Cálculo: Soma-se os planejamentos, adestramentos e operações conjuntas conduzidas pela CHOC que tiveram a participação da CHELOG até o último 
+dia do trimestre da referência, divide-se pelo número total de planejamentos, adestramentos e operações conjuntas conduzidas pela CHOC 
+no mesmo período. Multiplica-se esse resultado por 4 para obtenção do valor 4X(PEC/PEE).
+
+Da mesma forma, soma-se o número de ODS do SINAMOB participantes do exercício de mobilização dividindo-o por 10 para aobtenção do valor NPE/10.
+
+Soma-se os 2 resultados acima, ou seja, 4X(PEC/PEE)+NPE/10, dividindo-os por 5 para obtenção do Índice de Participação em Operações
+Limitações: O indicador deve ser limitado em duas casas decimais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Entrega: 135
+Indicador: 9016
+Denominação: Taxa de reservistas cadastrados
+Sigla: TPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador mensura o percentual de pessoas alistadas durante o ano em comparação à média histórica de alistamento. O Ministério da Defesa (MD) é responsável pelo planejamento e coordenação das atividades de serviço militar, por intermédio da Subchefia de Mobilização, inclusive do processo de alistamento para o serviço militar obrigatório e da administração dos recursos. Nesse contexto, o indicador possibilitará mensurar a entrega do MD em relação aos recursos orçamentários empregados.
+Período Ou Data A Que Se Refere: JAN-DEZ
+Data De Divulgação/Disponibilização: 10º dia útil de Julho; 10º dia útil de Janeiro (A+)
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: São considerados no cálculo os alistados no prazo de até 30 de junho e os fora do prazo, até a data limite de 31 de dezembro.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Recrutamento de Mobilização Militar (SERMILMOB)
+Forma De Disponibilização: Portal de dados abertos
+Procedimento De Cálculo: As informações do quantitativo de pessoas alistadas são consultadas no banco de dados do SERMILMOB pelos operadores do referido Sistema e repassadas à Subchefia de Mobilização do Ministério da Defesa. Esse quantitativo é dividido por 1,5 milhões, que é a média histórica de alistamento atualmente, e depois multiplicado por 100, para obter o percentual de alistados durante o ano.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 299
+Entrega: 614
+Indicador: 9544
+Denominação: Tempo médio de resposta das investigações de acidentes aeronáuticos
+Sigla: TMIA
+Índice De Referência: 593.0
+Em Apuração: Não
+Data De Apuração: 2023-07-19 00:00:00
+Unidade De Medida: dias
+Descrição: Mensura o tempo médio de resposta das investigação de acidentes aeronáuticos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: TMIA = Tempo Médio de Resposta das Investigações de Acidentes Aeronáuticos;
+ToTeInvAeAt = Total do Tempo de Todas as Investigações de Acidentes Aeronáuticos Ativas em dias;
+ToInvAeAt = Total de Investigações de Acidentes Aeronáuticos Ativas.
+Fonte De Dados Das Variáveis De Cálculo: Centro de Investigação e Prevenção de Acidentes Aeronáuticos - CENIPA
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER)
+Procedimento De Cálculo: É a razão entre a soma do tempo total de todas as investigações de acidentes aeronáuticos ativas em dias, contadas a partir do dia da ocorrência, sobre o total das investigações de acidentes aeronáuticos ativas, entendedo-se investigações ativas por abertas e não encerradas.
+Nesse sentido, o cálculo é aplicado da seguinte forma: divide-se o valor do total do tempo de todas as investigações ativas em dias (ToTeInvAeAt) pelo valor total das investigações ativas (ToInvAeAt).
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6112
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Indicador: 8848
+Denominação: Índice de Entregas Realizadas
+Sigla: IER
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: As capacidades conjuntas das Forças Armadas e as condições logísticas necessárias à promoção da soberania e dos interesses nacionais passam por um conjunto de projetos e atividades que acercam-se de várias entregas, algumas com maior relevância, as quais estão retratadas, em termos referencias do Estado-Maior Conjunto das Forças Armadas, neste Plano Plurianual. Neste contexto, a média ponderada destas principais entregas, com um grau de relevância lógico para a entrega intitulada: "Operações, adestramentos e exercícios conjuntos realizados", por se tratar do mote finalístico do emprego conjunto das Forças, nos traz a certeza de uma mensuração efetiva do objetivo específico.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Quinto dia útil do mês de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IOAP – Índice de Operações, Adestramento e exercícios planejados
+IIS – Índice de Implementação de Sistemas
+IPO –  Índice de Participação em Operações
+ALOpS – Apoio Logístico Operacional às Missões Subsidiárias
+IPA – Índice de Pessoas Alistadas
+IRPC – Índice de Realização de Pesquisas Científicas e Acadêmicas
+TIC – Taxa de Instrumentos de Cooperação bilaterais e multilaterais relacionados aos interesses da Defesa Nacional
+Fonte De Dados Das Variáveis De Cálculo: As Fontes de dados das variáveis de cálculo são as mesmas dos Indicadores das Entregas deste Objetivo Específico.
+Forma De Disponibilização: Ferramentas de monitoramento dos Planos Estratégicos e Setoriais do Ministério da Defesa.
+Procedimento De Cálculo: 1. Levantar os dados, a fim de efetivar o cálculo de cada indicador (IOAP, IIS, IPO, ALOpS, IPA, IRCP,  TIC), obtendo os resultados relacionados a cada uma das 7 entregas deste objetivo específico;
+2. Multiplicar por três o resultado obtido na entrega referente a operações, adestramentos e exercícios conjuntos realizados (IOAP);
+3. Multiplicar por dois o resultado obtido na entrega referente a Apoio Logístico Operacional às Missões Subsidiárias (ALOpS);
+4. Multiplicar por dois o resultado obtido na entrega referente à Taxa de Instrumentos de Cooperação bilaterais e multilaterais relacionados aos interesses da Defesa Nacional (TIC); e
+5. Os Valores obtidos nos itens acima (2, 3 e 4 ) devem ser somados;
+6. O valor obtido no item 5 deve ser somado com os resultados das demais entregas (IIS, IPO, IPA, IRPC); e
+7. Dividir o valor obtido no item anterior por 11.
+Limitações: Não há.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Indicador: 9718
+Denominação: Índice de execução dos programas e projetos da Marinha do Brasil
+Sigla: IEPP-MB
+Índice De Referência: 60.32
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O índice busca apurar o percentual de implantação de programas e projetos estratégicos, de formação e preparação de recursos humanos, de manutenção dos meios operativos da Marinha do Brasil e de controle e fiscalização das Águas Jurisdicionais Brasileiras (AJB), considerando a média dos marcos de construção, desenvolvimento, implementação e manutenção, conforme a entrega.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: S.Br - Percentual de desenvolvimento de Submarinos Convencionais entregues à Marinha do Brasil.
+
+SCPN.Br - Percentual de desenvolvimento do Submarino Convencionalmente Armado com Propulsão Nuclear.
+
+EBN - Percentual de construção do Estaleiro e da Base Naval.
+
+PNM - Percentual de implantação do Programa Nuclear da Marinha.
+
+NPa - Número de Navios-Patrulha entregues à Marinha do Brasil.
+
+FCT - Número de Fragatas Classe Tamandaré disponibilizadas para a Marinha do Brasil.
+
+NApAnt - Navio de Apoio Antártico disponibilizado para a Marinha do Brasil.
+
+SisGAAz - Percentual de implantação do Sistema de Gerenciamento da Amazônia Azul.
+
+MANSUP - Percentual de desenvolvimento do Míssil Antinavio Nacional de Superfície.
+
+PROGEM - Percentual da manutenção dos meios operativos da Marinha do Brasil.
+
+CapMB - Percentual de formação e preparação de militares e servidores civis da Marinha do Brasil.
+
+OpFN.MB - Índice de operações de fiscalização naval realizadas.
+Fonte De Dados Das Variáveis De Cálculo: As fontes de dados das variáveis de cálculo são as mesmas dos indicadores das Entregas deste Objetivo Específico.
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Levantar os dados, a fim de identificar o resultado apurado em cada indicador relacionado, correspondentes aos indicadores de cada uma das Entregas deste Objetivo Específico;
+
+2. Realizar o somatório dos valores apurados em cada indicador listado; e
+
+3. Dividir o valor obtido no item anterior por 12 (número de Entregas que compõem o Objetivo Específico).
+Notas Explicativas: Os indicadores FCT e NApAnt, em função de sua apuração só ocorrer a partir da disponibilidade dos navios para a Marinha do Brasil, não serão computados nos exercícios anteriores, reduzindo o valor do denominador do IEPP-MB.
+Disponibilidade da meta = 100%
+Não disponibilidade da meta = 0%
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Indicador: 8959
+Denominação: Índice de execução dos Programas e Projetos do Exército Brasileiro
+Sigla: IEPEB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede a implantação de programas, projetos e sistemas estratégicos e de manutenção de meios operativos do Exército Brasileiro.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IIMEB = Índice de implantação de programas, projetos e sistemas estratégicos e de manutenção de meios operativos do Exército Brasileiro.
+VBAEB = Número de viaturas do Programa Forças Blindadas entregues ao Exército Brasileiro.
+TVBAEB = Total de viaturas do Programa Forças Blindadas previstas para entregues ao Exército Brasileiro.
+SISAIMP = Percentual de implantação do Programa Astros.
+SISFIMP = Percentual de implantação do SISFRON.
+HAVEB = Número de helicópteros da Aviação do Exército modernizados ou adquiridos para o Exército Brasileiro.
+THAVEB = Total de helicópteros da Aviação do Exército previstos para modernização ou aquisição para o Exército Brasileiro.
+IDEFCIBER = Percentual de implantação do Sistema de Defesa Cibernética.
+EODAAE = Número de equipamentos obtidos.
+MMOEB = Percentual de manutenção dos meios operativos do Exército Brasileiro.
+DCPSCF = Número de subunidades com capacidade plena de operacionalidade.
+TDCPSCF = Total de subunidades com capacidade plena de operacionalidade.
+MFPEB = Número de militares formados e  preparados.
+EFEB = Efetivo do Exército Brasileiro.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios do Estado-Maior do Exército
+Forma De Disponibilização: Relatório de Gestão do Comando do Exército  (https://www.eb.mil.br/)
+Procedimento De Cálculo: A fórmula é uma expressão matemática composta por vários termos. Os passos para calcular o valor dessa expressão são:
+
+Passo 1: Obter os valores necessários para cada variável na fórmula:
+
+"Número de viaturas entregues no período" é a quantidade de viaturas que foram entregues durante um determinado período.
+"Total previsto de entrega de viaturas" é o número total de viaturas que deveriam ser entregues durante o mesmo período.
+"Percentual de implantação do Programa ASTROS no período" é a porcentagem de implementação ou avanço do programa ASTROS em relação ao seu objetivo durante o período.
+"Percentual de implantação do SISFRON no período" é a porcentagem de implementação ou avanço do programa SISFRON em relação ao seu objetivo durante o período.
+"Número de aeronaves adquiridas/modernizadas no período" é a quantidade de aeronaves que foram adquiridas ou modernizadas durante o período.
+"Total previsto de entrega de aeronaves adquiridas/modernizadas" é o número total de aeronaves que deveriam ser adquiridas ou modernizadas durante o mesmo período.
+"Percentual de implantação do Sistema de Defesa Cibernética no período" é a porcentagem de implementação ou avanço do sistema de defesa cibernética em relação ao seu objetivo durante o período.
+"Número de equipamentos de Defesa Antiaérea entregues no período" é a quantidade de equipamentos de defesa antiaérea que foram entregues durante o período.
+"Total previsto de entrega de equipamentos de Defesa Antiaérea" é o número total de equipamentos de defesa antiaérea que deveriam ser entregues durante o mesmo período.
+"Percentual de manutenção dos meios operativos do Exército Brasileiro no período" é a porcentagem de manutenção dos meios operativos (como veículos, aeronaves, etc.) em relação ao necessário durante o período.
+"Número de subunidades com capacidade plena de operacionalidade"  é  a soma do número de subunidades com capacidade plena de operacionalidade no período.                                                                                    
+"Número de militares formados ou capacitados" é a soma do número de militares formados e  preparados no período.
+
+Passo 2: Calcular os valores parciais para cada termo da fórmula, multiplicando cada termo pelo valor correspondente e somando todos os resultados.
+Por exemplo, para o primeiro termo: 0,29 * (número de viaturas entregues no período / total previsto de entrega de viaturas).
+Faça o cálculo dentro do parêntese primeiro (divisão).
+Em seguida, multiplique o resultado pela taxa correspondente (0,29).
+Repita esse processo para cada termo na fórmula.
+
+Passo 3: Somar todos os valores parciais obtidos no passo anterior. O resultado será o valor da expressão matemática completa.
+Limitações: Não se aplica.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 8
+Indicador: 10201
+Denominação: Índice de implementação de ações de estímulo ao desenvolvimento científico e tecnológico de interesse da defesa nacional
+Sigla: IIAEDCT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O índice visa mensurar as ações de estímulo ao desenvolvimento científico e tecnológico de interesse da defesa nacional, tais como o apoio aos projetos de pesquisa  do setor, com a finalidade de contribuir com autossuficiëncia do Brasil nessas tecnologias.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do exercício subsequente ao de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TIDP&D = Percentual de tecnologias de interesse da Defesa em pesquisa e desenvolvimento
+PerDICTMB = Percentual de desenvolvimento de Produção científica e tecnológica
+InDPCTEB = Percentual de Desenvolvimento de Produção Científica e Tecnológica
+PerDICTFAB = Percentual de desenvolvimento de Produção científica e tecnológica
+Fonte De Dados Das Variáveis De Cálculo: Carteira de projetos do Departamento de Ciência, Tecnologia e Inovação da Secretaria de Produtos de Defesa do Ministério da Defesa e Comandos Militares.
+Forma De Disponibilização: Site do MD, junto ao SGC-MD https://www.gov.br/defesa/pt-br/assuntos/seprod/ciencia-e-tecnologia/ciencia-tecnologia-e-inovacao e Relatórios dos Comandos Militares.
+Procedimento De Cálculo: Média aritmética dos percentuais de: tecnologias de interesse da Defesa em pesquisa e desenvolvimento;
+desenvolvimento de Produção científica e tecnológica do Comando da Manha; desenvolvimento de Produção Científica do Comando do Exército e Tecnológica e desenvolvimento de Produção científica e tecnológica do Comando da Aeronáutica.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 292
+Indicador: 9502
+Denominação: Percentual de controle do espaço aéreo
+Sigla: PCEA
+Índice De Referência: 94.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura o percentual de controle do espaço aéreo.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: janeiro do exercíciosubsequente ao que se refere.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCEA = Percentual de controle do espaço aéreo;
+PerAPICEA (9523) = Percentual de Aderência aos padrões internacionais de controle do espaço aéreo; e
+NuPeCap = Número de pessoas capacitadas; e
+NuVaDisp = Número de Vagas Disponibilizadas.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Controle do Espaço Aéreo (DECEA).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER).
+Procedimento De Cálculo: Média ponderada entre o indicador PerAPICEA e o resultado da divisão entre  NuPeCap e NuVaDisp (Índice de capacitação), em termos percentuais. Para a variável PerAPICEA é atribuído peso 3.
+Aplica-se o cálculo da seguinte forma: 
+1 - Multiplica-se o valor do PerAPICEA  por 3; 
+2 - Dividi-se o NuPeCap por NuVaDisp;
+3 - Multiplica-se o resultado do item 2 por 100;
+4 -Efetua-se o somatório dos resultados dos itens 1 e 3;
+5 - Divide-se o resultado do item 4 por 4.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 299
+Indicador: 9536
+Denominação: Percentual de eficiência do Sistema de Investigação e Prevenção de Acidentes Aeronáuticos (SIPAER)
+Sigla: PerEfSIPAER
+Índice De Referência: 85.0
+Em Apuração: Não
+Data De Apuração: 2023-07-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura o percentual de eficiência do Sistema de Investigação e Prevenção de Acidentes Aeronáuticos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao de apuração
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TMIA = Tempo Médio de Resposta das Investigações de Acidentes Aeronáuticos;
+MTMPrev = Meta do Tempo Médio de Resposta das Investigações de Acidentes Aeronáuticos Previsto para último ano do PPA;
+
+NPCAP = Número de Pessoas Capacitadas;
+MNPCAPPrev = Meta do Número de Pessoas Capacitadas Previsto para o último ano do PPA.
+Fonte De Dados Das Variáveis De Cálculo: Comando da Aeronáutica - Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER)
+Procedimento De Cálculo: Média ponderada entre a divisão MTMPrev por TMIA (variável 1) e a divisão  NPCAP por MNPCAPPrev (variável 2). Para a variável 1 é atribuído peso 2 (dois).
+Aplica-se o cálculo da seguinte forma: 
+1 - Divide-se o MTMPrev pelo TMIA, obtendo-se a variável 1;
+2 -Multiplica-se a variável 1 por 2; 
+3 - Dividi-se o NPCAP por MNPCAPPrev, obtendo-se a variável 2;
+4 - Soma-se o resultado do item 2 com do item 3;
+5 - divide-se o resultado do item 4 por 3;
+6 - Multiplica-se o resultado do item 5 por 100.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Indicador: 9348
+Denominação: Percentual de execução dos programas e projetos da Aeronáutica
+Sigla: PerExProAer
+Índice De Referência: 0.5026
+Em Apuração: Não
+Data De Apuração: 2023-07-25 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura o percentual de execução dos programas e projetos da Aeronáutica.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Janeiro do exercício subsequente ao que se refere.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: InExProAer = Índice de execução dos programas e projetos da Aeronáutica.
+PerProEst = Percentual dos Projetos Estratégicos.
+Considera-se o PerProEst a soma das variáveis abaixo:
+PerAerEntF39(9397) = Percentual de aeronaves F-39 entregues à Força Aérea Brasileira;
+PerAerEntKC390(9400) = Percentual de aeronaves KC-390 entregues entregues à Força Aérea Brasileira;
+PerAerEntA29(9410) = Percentual de aeronaves A-29 modernizadas entregues à Força Aérea Brasileira;
+PerHeliEnHXBRFAA(9414) =  Percentual de helicópteros do Projeto HX-BR  entregues às  Forças Armadas;
+PerHeliEnTHXFAA(9427) = Percentual de helicópteros do Projeto TH-X entregues às Forças Armadas;
+PerSiSatEntFAA(9435) = Percentual de sistemas satelitais entregues às Forças Armadas Brasileiras;
+PerDesAerEntKC-X (11550)=  Percentual de desenvolvimento das aeronaves  Cargueiro Tático Militar de 10 a 20 Toneladas desenvolvida (Projeto KC-X) e entregues à Força Aérea Brasileira.
+A variável abaixo é pertinente a logística:
+PerMeiosOpeFAB(9438) = Percentual de meios operativos da Força Aérea Brasileira manutenidos
+As variáveis abaixos são pertinentes a formações, preparo e capacitações de Recursos Humanos:
+CapcExist = Quantidade de militares com a referida capacitação homologada por conselho operacional;
+CapcNec = Quantidade necessária de militares com a referida capacitação, conforme previsto no Programa de Especialização Operacional (PESOP), bem como no Programa de Elevação Operacional (PEVOP);
+NuPesForCap= Número de pessoas formadas/capacitadas na área de C&T;
+QNPForCap= Quantidade necessária de pessoas com a referida formação/capacitação.
+Fonte De Dados Das Variáveis De Cálculo: Terceira Subchefia (3SC), Quarta Subchefia (4SC) e Sétima Subchefia (7SC) do Estado-Maior da Aeronáutica (EMAER), Comando de Preparo (COMPREP) e Instituto Tecnológico da Aeronáutica (ITA).
+Forma De Disponibilização: Painel do Panorama da Força do Escritório de Governança Executiva (EGE) do Estado-Maior da Aeronáutica (EMAER).
+Procedimento De Cálculo: Média aritmética entre o resultado da soma do PerProEst mais o PerMeiosOpeFAB dividido por 100 (variável 1), o resultado da divisão entre  CapcExist e CapcNec (variável 2) e o resultado da divisão entre NuPesForCap e QNPForCap (variável 3), multiplicando o valor resutante por 100, conforme relacionados no campo "Variáveis do cálculo.
+Aplica-se o cálculo da seguinte forma: 
+1 - Soma-se o valor do CapcExist com valor do PerMeiosOpeFAB;
+2 - Dividi-se o resultado do item 1 por 100, obtendo-se a variável 1;
+3 - Divide-se  o valor do PrepcExist por CapcNec, obtendo-se a variável 2;
+4 - Divide-se o valor do NuPesForCap por QNPForCap, obtendo-se a variável 3;
+5 - Efetua-se o somatório das variáveis 1, 2 e 3;
+6 - Divide-se o resultado do item 5 por 10.
+7 - O resultado do item anterior multiplica por 100.
+Notas Explicativas: O teclado do SIOP não permite digitar a fórmula do indicador de maneira correta, que é a que segue:
+{[(PerProEst+PerMeiosOpeFAB)÷100+(CapcExist÷CapcNec)+(NuPesForCap÷QNPForCap)]÷10}x100
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6112
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 8
+Enunciado: Fortalecer o setor de ciência, tecnologia e inovação de interesse da defesa nacional.
+Descrição: Para obter a autossuficiência na fabricação de produtos de defesa, o Brasil deve priorizar o desenvolvimento e a fabricação de produtos nacionais, visando à redução da dependência tecnológica e à superação das restrições de acesso a tecnologias sensíveis. Nesse sentido, o fomento da Indústria de Defesa é fator relevante para o impulsionar o desenvolvimento de produtos de defesa nacionais e, consequentemente, para ampliar a participação desse setor no Produto Interno Bruto (PIB).
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 50
+Enunciado: Desenvolver as capacidades conjuntas e condições logísticas das Forças Armadas.
+Descrição: Desenvolver as capacidades conjuntas das Forças Armadas e condições logísticas necessárias para sustentar um conjunto de medidas e ações do Estado, com ênfase na expressão militar, para a defesa do território, da soberania e dos interesses nacionais contra ameaças preponderantemente externas, potenciais ou manifestas. Além de contribuir para condição que permite ao País a preservação da soberania e da integridade territorial, a realização dos seus interesses nacionais, livre de pressões e ameaças de qualquer natureza, e a garantia aos cidadãos do exercício dos direitos e deveres constitucionais.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 100
+Enunciado: Fortalecer as capacidades militares do Exército Brasileiro para a defesa do território.
+Descrição: Implementar os programas, projetos e sistemas estratégicos, bem como a logística de meios operativos que contribuem para a construção de capacidades militares do Exército Brasileiro.
+As entregas realizadas pelos Projetos Forças Blindadas, Astros, SISFRON, Defesa Cibernética, Defesa Antiaérea permitirão aumentar o poder de combate da Força Terrestre, permitindo um avanço tecnológico e de sistemas de monitoramento que ampliará a capacidade operacional do Exército Brasileiro.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 236
+Enunciado: Fortalecer as capacidades militares da Aeronáutica para defender o espaço aéreo brasileiro.
+Descrição: Fortalecer as capacidades militares da Aeronáutica para atuar na defesa do espaço aéreo brasileiro, de modo a viabilizar pronta resposta frente a situações de conflito e ameaças, visando a defesa e a preservação da soberania nacional.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 292
+Enunciado: Assegurar o controle do espaço aéreo Brasileiro.
+Descrição: Assegurar o controle do espaço aéreo brasileiro, por meio da vigilância, defesa aérea, gerenciamento e controle integrado do espaço aéreo, bem como pela capacitação de recursos humanos altamente especializados para execução de complexos procedimentos atinentes ao Sistema de Controle do Espaço Aéreo Brasileiro (SISCEAB), aprimorando a infraestrutura e a qualidade dos serviços de vigilância, defesa aérea, controle de tráfego aéreo (civil e militar), informações aeronáuticas, telecomunicações aeronáuticas, cartografia aeronáutica, busca e salvamento, meteorologia aeronáutica, navegação aérea, inspeção de voo e comando e controle.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 299
+Enunciado: Contribuir para a Segurança de Voo, por meio do Sistema de Investigação e Prevenção de Acidentes Aeronáuticos (SIPAER).
+Descrição: Contribuir com a segurança de voo de todas as aeronaves que trafegam no espaço aéreo brasileiro, nos moldes da Lei nº 7.565/1986 e do Decreto nº 9.540/2018, mediante a realização de atividades de investigação de acidentes aeronáuticos, gestão dos sistemas de reportes voluntários, bem como a capacitação de profissionais da comunidade aeronáutica brasileira.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Objetivo Específico: 363
+Enunciado: Fortalecer as capacidades militares da Marinha do Brasil para controlar e defender as Águas Jurisdicionais Brasileiras (AJB)
+Descrição: Representa o detalhamento do projeto da Força para a recomposição do núcleo do Poder Naval que, por seu caráter estratégico, é indispensável para a manutenção do nível de prontidão operacional da MB. Inclui a obtenção, o desenvolvimento, a manutenção e a renovação dos meios navais, aeronavais e de fuzileiros navais, assim como de seus equipamentos e sistemas operativos integrados e de apoio, incluídas todas as demandas logísticas necessárias à opeacionalização. A implementação se dará por meio da aquisição, manutenção, modernização e/ou desenvolvimento, abrangendo os estudos prévios necessários, de novos meios navais, aeronavais, de fuzileiros navais e sistemas instalados nesses meios ou de emprego operativo, bem como a obtenção de embarcações, materiais e equipamentos também de emprego operativo. Inclui ainda a realização de serviços, visando sempre manter o nível de operacionalidade da Força Naval, dotando os meios operativos da Marinha de tecnologias atualizadas, a fim de assegurar sua capacidade de defesa contra ameaças à soberania nacional, bem como o funcionamento de seus meios dentro dos necessários parâmetros de desempenho e segurança, para emprego nas operações de defesa de plataformas de petróleo no mar; a fiscalização contra a pesca predatória e à prevenção da poluição hídrica nas Águas Jurisdicionais Brasileiras (AJB); as missões para a Garantia da Lei e da Ordem (GLO) e o transporte de pessoal e material em proveito das Ações de Defesa Civil, estes em apoio às ações previstas no Programa de Cooperação da Defesa para o Desenvolvimento Nacional.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 6112
+
+Exercício: 2025
+Programa: 6112
+Objetivo: 1261
+Enunciado: Preparar as Forças Armadas, desenvolvendo as capacidades militares e as condições necessárias, para que possam ser prontamente empregadas na defesa do território, da soberania e dos interesses nacionais.
+Descrição: Construir as capacidades militares das Forças Armadas significa dotá-las de meios operativos, recursos logísticos e recursos humanos devidamente adestrados e capacitados, a fim de que possam ser empregadas para cumprir sua destinação constitucional.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6112
+
+Exercício: 2025
+Programa: 6112
+Título: Defesa Nacional
+Tipo: Finalístico
+Órgão: 52000.0
+Público-Alvo: - Sociedade Brasileira;
+- Usuários do Sistema do Espaço Aéreo Brasileiro (SISCEAB);
+- Organizações voltadas para o comércio marítimo;
+- Empresas públicas e privadas de petróleo e gás;
+- Organizações de defesa e proteção ambiental
+- Militares e civis das Forças Armadas;
+- Acadêmicos e pesquisadores da área de defesa nacional;
+- Pesquisadores e cientistas da área de Ciência e Tecnologia;
+- Alunos dos Institutos Militares de ensino;
+- Institutos de pesquisas na área de inteligência artificial.
+Descrição Do Problema: A existência de conflito de interesses entre os Estados, potenciais ameaças e riscos globais que atentem contra a soberania e a integridade territorial.
+Causa Do Problema: 1. Possibilidade da ocorrência de tensões e crises no entorno estratégico.
+2. Acirramento da competição entre as grandes potências, com transbordamentos para os ambientes regionais.
+3. As ameaças que implicam em campos de atuação do poder militar (narcotráfico; terrorismo; riscos ambientais; organizações criminosas transnacionais; crimes cibernéticos; guerras informacionais e híbridas).
+4. Deficiências em sistemas e infraestruturas de defesa.
+5. Dimensões continentais do país, com enormes extensões de fronteiras terrestres e de águas jurisdicionais e de zona econômica exclusiva, bem como de espaço aéreo a ser controlado.
+6. Dependência e defasagem tecnológica.
+7. Possibilidades de ameaças às infraestruturas críticas.
+8. Vazios demográficos e baixos níveis de atividades econômicas em algumas regiões do País, o que as deixam vulneráveis.
+9. Insuficiência dos sistemas de vigilância nas áreas de interesse e de controle sobre o território nacional, nas águas jurisdicionais brasileiras, no espaço aéreo sobrejacente e no espaço exterior e outras áreas de interesse.
+10. A atual configuração internacional, caracterizada por assimetrias de poder, gera instabilidades, propiciando o surgimento de ameaças híbridas contrárias aos interesses nacionais.
+11. Intensificação de disputas por fontes de água doce e energia, alimentos, recursos minerais, biodiversidade, áreas marítimas e domínio espacial, que podem levar a ingerências em assuntos internos ou a controvérsias por interesses sobre espaços sujeitos à soberania dos Estados.
+12. Impactos provocados por mudanças climáticas ou por pandemias poderão acarretar graves consequências ambientais, sociais, econômicas e políticas, exigindo pronta resposta dos Estados.
+13. Os fluxos migratórios se intensificarão no contexto da globalização inacabada, das guerras e conflitos e das crises econômicas e políticas e isso traz desafios para a defesa.
+Evidências Do Problema: 1. Aumento dos delitos transnacionais na faixa de fronteira terrestre, no mar, no espaço aéreo e nas águas interiores.
+2. Aumento dos delitos ambientais.
+3. Os efeitos visíveis das mudanças climáticas – associadas à ação humana ou a causas naturais – como a maior incidência de incêndios, secas, inundações e elevação dos níveis dos oceanos, dentre outros, acarretando em desgaste e prejuízos ambientais, sociais e econômicos, têm imposto desafios constantes à segurança nacional e à defesa.
+4. Demanda constante pelo aumento da segurança da navegação aquaviária e da segurança dos voos.
+5. Ameaças constantes à segurança e a defesa do espaço cibernético, que são essenciais para garantir a proteção dos sistemas de informações, de gerenciamento e de comunicações de interesse nacional.
+6. Aumento acentuado de organizações criminosas internacionais, de narcotráfico internacional, de terrorismo que requerem atuação do poder militar e demandam novas capacidades de defesa.
+7. Constantes crises internacionais, com conflitos entre países.
+8. Questões relacionadas ao aumento populacional e ao incremento das atividades econômicas têm resultado na ampliação da demanda por recursos naturais, energia e alimentos.
+9. Ambiente internacional caracterizado por uma multipolaridade crescente e assimétrica, marcado pelo incremento de disputas por espaços estratégicos, resultando em maior número de conflitos e insegurança.
+10. Atual conflito entre a Rússia e a Ucrânia, com consequências econômicas e políticas para a grande maioria dos países.
+11. Interesse de organizações, inclusive estrangeiras, sobre a Região Amazônica que podem representar riscos à soberania nacional.
+Justificativa Para A Intervenção: A Defesa Nacional, além de ser importante vetor para a garantia da soberania nacional, também possibilita a manutenção da integridade territorial, a preservação dos interesses nacionais, a consecução dos objetivos nacionais, a proteção à população e a garantia da não ingerência externa no território nacional e em suas águas jurisdicionais e no espaço aéreo sobrejacente. Por isso, faz-se necessário investimentos na construção e na manutenção de capacidades militares de defesa que propiciem efetividade ao instrumento militar. Nesse viés, é necessário que as Forças Armadas estejam adequadamente preparadas e mantidas em permanente estado de prontidão para serem empregadas para cumprir sua destinação constitucional.
+Evolução Histórica: O Programa 2058 – “Política de Defesa Nacional” foi incluído, pela primeira vez, como uma política pública no Plano Plurianual 2012-2015.  Esse Programa era composto por vinte objetivos, sendo os principais voltados para a adequação de meios operativos e atuação combinada e conjunta das Forças Armadas. Além daqueles voltados para a cooperação da Defesa para o desenvolvimento nacional.
+No ciclo 2016-2019, o Programa 2058 passou a se denominar “Defesa Nacional”, tendo sido composto por dez objetivos, com destaque para a capacidade operativa das Forças Armadas, incluindo-se neste a capacitação profissional, o adestramento e a prontidão logística; adequação da infraestrutura das organizações militares; o aparelhamento das Forças Armadas e o desenvolvimento da Base Industrial de Defesa. 
+No PPA 2020-2023, o Programa Defesa Nacional continuou com a mesma denominação, contudo, por restrições metodológicas passou a ter um único objetivo, um indicador e uma meta. Essa metodologia de construção do Plano culminou na dificuldade de mensuração dos resultados, uma vez que a meta e o indicador foram estabelecidos de forma muito ampla.
+O novo método de formulação do 2024-2027 propiciou um avanço no desenho do Programa, com possibilidades de mensuração do objetivo geral, objetivos específicos, metas e indicadores, assim como do desempenho do programa de forma geral.
+Comparações Internacionais: As informações sobre preparo e capacidade operacional das Forças Armadas, além de difícil mensuração, envolvem sigilo e, por isso, não são divulgadas pelos países, sob pena de colocar em risco a segurança desses. Entretanto, O Banco Mundial, anualmente, divulga dados sobre os gastos dos países com a Defesa. Essas informações têm por finalidade mostrar o ranking dos países que mais investem no Setor.
+Em 2022 o gasto total dos países com o Setor de Defesa foi de 2,21 trilhões de dólares. Na classificação dos 25 países com maiores volumes despendidos nesse Setor (Estados Unidos, China, Rússia, Índia, Arábia Saudita, Reino Unido, Alemanha, França, Coreia do Sul, Japão, Ucrânia, Itália, Austrália, Canadá, Israel, Espanha, Brasil, Polônia, Países Baixos, Catar, Taiwan, Singapura Turquia, Paquistão e Colômbia), o Brasil ocupou a 17ª colocação, com um gasto de US$ 20,2 bilhões.
+É importante destacar que em 2022 os gastos do Brasil em Defesa corresponderam a 0,92% do total desse setor em todo o mundo. Ressalta-se, também, que mais de um terço dos investimentos globais em Defesa são efetuados pelos Estados Unidos da América.
+Relação Com Os Ods: O Programa Defesa Nacional guarda consonância com os Objetivos de Desenvolvimento Sustentável: 
+8 - Trabalho Decente e Desenvolvimento Econômico; 
+9 - Indústria, Inovação e Infraestrutura; 
+12 - Consumo e Produções Responsáveis; e 
+17 - Parcerias e Meios de Implementação. 
+Indiretamente, o Programa Defesa Nacional contribui para os ODS 1 - Erradicação da Pobreza; e 
+10 - Redução das Desigualdades.
+Agentes Envolvidos: Ministério da Defesa e Comandos das Forças Singulares.
+Ministério do Meio Ambiente e Mudança no Clima (MMA).
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA). 
+Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). 
+Polícia Federal (PF).
+Universidades Públicas e privadas.
+Ministério da Pesca e Aquicultura (MPA).
+Ministério de Minas e Energia (MME).
+Ministério de Ciência, Tecnologia e Inovação (MCTI).
+Ministério de Desenvolvimento, Indústria, Comércio e Serviços (MDIC).
+Ministério dos Portos e Aeroportos (MPA). 
+Ministério das Relações Exteriores (MRE).
+Articulação Federativa: Não há.
+Enfoque Transversal: No que tange ao Eixo Estratégico de Desenvolvimento Econômico e Sustentabilidade Socioambiental e Climática, destacam-se: a conservação e o uso de forma sustentável da Amazônia Azul, por meio da vigilância e fiscalização de nossas águas contra crimes ambientais; promovem a industrialização em novas bases tecnológicas, sobretudo na área de Inteligência Artificial e construção naval (projetos de construção de navios e de vigilância da Amazônia Azul); e ampliam as capacidades de prevenção, gestão de riscos e respostas a desastres ambientais, por meio do efetivo gerenciamento de nossas águas. 
+Já com relação ao Eixo Estratégico Desenvolvimento Social e garantia de Direitos, as ações do Programa de Defesa visam fortalecer o combate à Pesca Ilegal, não regulamentada e não autorizada, cabendo o esclarecimento à sociedade quanto a importância dessa atividade em proveito das Comunidades Pesqueiras (com público majoritariamente menos favorecido e com dificuldade de gozarem de inserção produtiva), que muitas das vezes se veem expostas a hostilidades de embarcações não autorizadas estrangeiras ou nacionais. Ainda sob tal aspecto, reforça-se que algumas modalidades de pesca dessas embarcações ilegais causam danos ao meio ambiente que comprometem a biodiversidade marinha com impactos tanto na atividade econômica das Comunidades Pesqueiras regulares quanto na segurança alimentar nacional, pois os danos causados se refletem na redução de peixes e outros animais marinhos. Em resumo, a pesca possui grande potencial econômico para o Brasil e representa uma oportunidade para ampliação da relevância nacional no Mercado Internacional. Dessa forma, esse programa fortalece a segurança alimentar, sobretudo na facilitação ao acesso a fontes de proteína, sendo um importante passo em proveito das pessoas em situação de pobreza com vistas a retirar o Brasil do mapa da fome.
+Marco Legal: Constituição Federal de 1988.
+Lei Complementar nº 97/99.
+Planos Nacionais, Setoriais E Regionais: Política Nacional de Defesa.
+Estratégia Nacional de Defesa.
+Planejamento Estratégico Setorial de Defesa (2020-2031).
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não

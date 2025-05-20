@@ -1,0 +1,2799 @@
+passage: Programa Número 2308
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 1187
+Indicador: 10217
+Denominação: Apoio a projetos não-reembolsável a ICts contratados, voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D)
+Índice De Referência: 314.0
+Em Apuração: Não
+Data De Apuração: 2025-04-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de convênios  firmados pela Finep, voltados para apoio à infraestrutura de pesquisa e desenvolvimento de ICTs em todo o país
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NC = Número de convênios de apoio não-reembolsável a ICTs firmados pela Finep por ano, excluindo convênios destinados a programas de subvenção
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Nacional de Infraestrutura de Pesquisa
+Relatórios Finep
+Forma De Disponibilização: Site do MCTI
+Procedimento De Cálculo: Como descrito na fórmula apresentada
+Limitações: O número de convênios firmados está sujetio à dinâmica orçamentária do FNDCT. Além disso, o resultado deve ser ponderado pelo valor das contratações. Ou seja, um aumento ou diminuição do indicador deve ser analisada no contexto de um eventual aumento ou diminuição dos valores dos contratos a que se referem
+Notas Explicativas: Linha de base: 3929 laboratórios e 21.658 Equipamentos
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 3382
+Indicador: 12717
+Denominação: Avanço na Ampliação e implantação dos Enlaces
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Porcentagem total de execução da Infovia Nacional baseada na implantação dos enlaces.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: ao final do exercício
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AV = percentual relativo de implantação de cada enlace da Infovia Nacional;
+%Ei = percentual de implantação do enlace i;
+pi = peso ou valor relativo do enlace i;
+i = vai de 1 a 32 (número total de enlaces);
+Fonte De Dados Das Variáveis De Cálculo: Ferramenta de gestão de projetos
+Forma De Disponibilização: Relatório de Gestão da RNP
+Procedimento De Cálculo: Média TOTAL ponderada do percentual relativo de implantação de cada enlace da Infovia Nacional
+Notas Explicativas: Ampliação da rede Ipê com 32 enlaces de 100G
+2024: 3 enlaces entregues e início da implantação de 11 enlaces.
+2025: 11 enlaces entregues e início da implantação de 14 anlaces.
+2026: 18 enlaces entregues.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 3381
+Indicador: 12718
+Denominação: Avanço na implantação das Infovias Estaduais
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: km
+Descrição: Extensão de km implantados para as infovias estaduais. 30.000 km implantados até 2026.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Ao final do exercício
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Km implantados
+Fonte De Dados Das Variáveis De Cálculo: Ferramenta de inventário de redes ópticas
+Forma De Disponibilização: Relatório de Gestão da RNP para os respectivos anos
+Procedimento De Cálculo: somatório da extensão de km implantados para as infovias estaduais
+Notas Explicativas: O indicador com base em Km implantados corresponde à extensão de km incorporados à rede acadêmica sob diferentes modelos de compartilhamento de infraestrutura (construção e iluminação conjunta, e permutas).
+Origem: PPA
+Momento: 8400
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Entrega: 1235
+Indicador: 10296
+Denominação: % de beneficiários/ano de bolsas de Produtividade em Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, negros e indígenas em relação ao total de beneficiários/ano de bolsas PQ e DT
+Índice De Referência: 43.1
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de beneficiários/ano de bolsas de Produtividade em Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, negros e indígenas em relação ao total de beneficiários/ano de bolsas PQ e DT
+Período Ou Data A Que Se Refere: semestre
+Data De Divulgação/Disponibilização: Ao final de cda semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: a) Número de beneficiários de bolsas de Produtividade e Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, negros e indígenas;
+
+b) Número total de beneficiários de bolsas de PQ e DT/ano
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do CNPq (PICC)
+Forma De Disponibilização: Relatório gerencial
+Procedimento De Cálculo: (Razão entre o número de beneficiários de bolsas de Produtividade de Pesquisa (PQ) e de Desenvolvimento Tecnológico (DT) para mulheres, indígenas, negros e indígenas e o total de beneficiários de bolsas de PQ e DT / ano) * 100
+Limitações: Restrições e/ou contigenciamento orçamentário
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Entrega: 1236
+Indicador: 10297
+Denominação: Índice de Orientação de Teses e Diessertações no ano
+Sigla: IODT
+Índice De Referência: 1.3
+Em Apuração: Não
+Data De Apuração: 2023-05-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de Teses, Dissertações e Monografias defendidas no ano pelo número de pesquisadores habilitados a orientar, ou seja, somente os doutores.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30/04
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NTD = Nº de Teses de Doutorado defendidas (peso 3)
+
+NDM = Nº de Dissertações de Mestrado defendidas (peso 2)
+
+NME = Nº de Monografias de Especialização defendidas (peso 1)
+
+TNSEo = considerar apenas os pesquisadores habilitados a orientar, ou seja, somente os doutores. Considerar também, a orientação das dissertações e teses por pesquisadores em outras instituições que não o INPA que possuem parceria nos programas de pós-graduação.
+Fonte De Dados Das Variáveis De Cálculo: • Termo de compromisso de Gestão pactuado entre o MCTI e cada UP;
+• Secretarias dos Programas de Pós-Graduação de cada UP
+Forma De Disponibilização: • Relatório anual do TCG de cada UP, os quais são disponibilizados no sítio eletrônico de cada UP, bem como sítio eletrônico do MCTI
+Procedimento De Cálculo: 1° Levantamento do quantitativo de teses, dissertações e monografias de especialização defendidas no ano;
+2° Multiplicação de cada trabalho pelos respectivos pesos;
+3° Somatório do produto da multiplicação anterior e, em seguida, divisão pelo total de orientadores.
+Limitações: • Flutuação no TNSE
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Entrega: 1234
+Indicador: 10294
+Denominação: Número de beneficiários/ano de bolsas de Desenvolvimento Científico Regional (DCR)
+Índice De Referência: 209.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de beneficiários/ano de bolsas de Desenvolvimento Científico Regional (DCR)
+Período Ou Data A Que Se Refere: semestre
+Data De Divulgação/Disponibilização: Ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Beneficiários/ano de bolsas de DCR
+Fonte De Dados Das Variáveis De Cálculo: Painel de Fomento do CNPq
+Forma De Disponibilização: Dados abertos a partir do link do painel de fomento disponível na página do CNPq
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Entrega: 1231
+Indicador: 10291
+Denominação: Número de beneficiários/ano de bolsas de fixação
+Índice De Referência: 2445.0
+Em Apuração: Não
+Data De Apuração: 2025-04-15 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de beneficiários/ano de bolsas de fixação.
+Período Ou Data A Que Se Refere: semestre
+Data De Divulgação/Disponibilização: Ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Beneficiários de bolsas de pós-doutorado (sênior, júnior e empresarial); Beneficiários de bolsas de Desenvolvimento Científico e Tecnológico (DCR)
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do CNPq
+Forma De Disponibilização: Relatório gerencial
+Procedimento De Cálculo: Somatório do número de beneficiários de fixação a partir da emissão de relatório gerencial pro meio do Painel de Fomento do CNPq. As bolsas incluídas nesta entrega são as de pós-doutorado sênior, júnior e empresarial + beneficiários de bolsas de Desenvolvimento Científico e Tecnológico (DCR).
+Limitações: Restrições e/ou contigenciamento orçamentário
+Notas Explicativas: As bolsas incluídas nesta entrega são as de pós-doutorado sênior, júnior e empresarial + beneficiários de bolsas de Desenvolvimento Científico e Tecnológico (DCR).
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Entrega: 1229
+Indicador: 10287
+Denominação: Número de beneficiários/ano de bolsas de formação (iniciação, mestrado e doutorado)
+Índice De Referência: 113000.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de beneficiários/ano de bolsas de formação (iniciação, mestrado e doutorado).
+Período Ou Data A Que Se Refere: semestre
+Data De Divulgação/Disponibilização: Ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: a) Beneficiários/ano de bolsas de iniciação científica IC;
+b) Beneficiários/ano de bolsas de mestrado GM;
+c) Beneficiários/ano de bolsas de doutorado GD.
+Fonte De Dados Das Variáveis De Cálculo: Basse de dados do CNPq (PICC)
+Forma De Disponibilização: Relatório gerencial
+Procedimento De Cálculo: Somatório do número de beneficiários de bolsas de formação a partir da emissão de relatório gerencial emitido por meio do Painel de Fomento do CNPq.
+As bolsas incluídas nesta entrega são "Iniciação Científica (IC)", "Mestrado (GM)" e "Doutorado (GD)".
+Limitações: Restrições e/ou contigenciamento orçamentário
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 428
+Entrega: 1339
+Indicador: 10428
+Denominação: Número de bolsas concedidas em projetos de desenvolvimento da Infraestrutura Brasileira da Qualidade
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de bolsas concedidas em projetos de desenvolvimento da Infraestrutura Brasileira da Qualidade
+Período Ou Data A Que Se Refere: semestre
+Data De Divulgação/Disponibilização: ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Bolsas concedidas
+Fonte De Dados Das Variáveis De Cálculo: Painel de Fomento do CNPq
+Forma De Disponibilização: Dados a abertos a partir do link do painel de fomento disponível na página do CNPq
+Procedimento De Cálculo: somatório
+Limitações: Restrições e/ou contigenciamento orçamentário
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1299
+Indicador: 10411
+Denominação: Número de empresas e órgãos com capacidades industriais ou institucionais apoiadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Ciberinfraestrutura nacional para educação, pesquisa e inovação: comunicação, computação e armazenamento de alta disponibilidade, segurança e desempenho.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 28/02/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: INFRA_CIBER
+Fonte De Dados Das Variáveis De Cálculo: Relatório MCTI, FNDCT e SIOP
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: Somatório das iniciativas apoiadas
+Limitações: Disponibilidade orçamentária.
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1331
+Indicador: 10417
+Denominação: Número de eventos promovidos na área de segurança cibernética
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Promoção de seminários, workshop, hackathon ou eventos.
+Período Ou Data A Que Se Refere: 31/03/2023
+Data De Divulgação/Disponibilização: 30/04/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: EVENTOS_CIBER
+Fonte De Dados Das Variáveis De Cálculo: Relatório atividades SETAD
+Forma De Disponibilização: Sistema SEI; 
+Relatórios SETAD
+Procedimento De Cálculo: Somatório dos eventos apoiados
+Limitações: Disponibilidade orçamentária.
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 1194
+Indicador: 10227
+Denominação: Número de infraestruturas de Pesquisa & Desenvolvimento aptas ao compartilhamento
+Índice De Referência: 136.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: unidade
+Descrição: Ao monitorar o número de infraestruturas de Pesquisa & Desenvolvimento aptas ao compartilhamento é possível verificar o tamanho deste universo em relação ao total de infraestrutura cadastrada na PNIPE. Ações de aprimoramento da PNIPE são necessárias a fim de acompanhar a quantidade de infraestrutura que, de fato, foi compartilhada entre instituições.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de infraestruturas de Pesquisa & Desenvolvimento registradas na PNIPE MCTI aptas ao compartilhamento
+Fonte De Dados Das Variáveis De Cálculo: PNIPE MCTI
+Forma De Disponibilização: Verificação do número de infraestruturas registradas na PNIPE MCTI aptas ao compartilhamento
+Procedimento De Cálculo: somatório dos Registros identificados na PNIPE  do número de infraestruturas de Pesquisa & Desenvolvimento registradas na PNIPE MCTI aptas ao compartilhamento
+Notas Explicativas: Ao monitorar o número de infraestruturas de Pesquisa & Desenvolvimento aptas ao compartilhamento é possível verificar o tamanho deste universo em relação ao total de infraestrutura cadastrada na PNIPE. Ações de aprimoramento da PNIPE são necessárias a fim de acompanhar a quantidade de infraestrutura que, de fato, foi compartilhada entre instituições.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 1193
+Indicador: 10225
+Denominação: Número de Infraestruturas de Pesquisa & Desenvolvimento (P&D) disponibilizadas pelas Unidades de Pesquisa do MCTI
+Sigla: INFRA_UP
+Índice De Referência: 230.0
+Em Apuração: Não
+Data De Apuração: 2023-05-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de infraestruturas de pesquisa e desenvolvimento disponibilizadas pelas Unidades de Pesquisa, incluindo laboratórios, equipamentos multiusuários (supercomputadores e outros), centrais analíticas, usinas, biofábricas, coleções científicas, entre outras.
+Período Ou Data A Que Se Refere: 01/05/2023
+Data De Divulgação/Disponibilização: até 30 de abril de cada exercício
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de infraestruturas de Pesquisa & Desenvolvimento (P&D) disponibilizadas pelas Unidades de Pesquisa do MCTI informados no TCG
+Fonte De Dados Das Variáveis De Cálculo: TCG
+Forma De Disponibilização: Homepage das UP  e TCG
+Procedimento De Cálculo: Somatório de infraestrutura de P&D disponibilizadas pelas UP
+Limitações: • Ausência de recursos financeiros para implementação, modernização ou ampliação de infraestruturas de P&D;
+• Ausência de recursos financeiros para manutenção das infraestruturas de P&D existentes.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Entrega: 1251
+Indicador: 10312
+Denominação: Número de instrumentos de Cooperação Internacional firmados
+Índice De Referência: 85.0
+Em Apuração: Não
+Data De Apuração: 2023-02-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Entende-se por instrumentos de cooperação: (i) Preparação e/ou negociação de Atos Internacionais (Acordos, Memorandos de  Entendimento, Declarações de Intenções, Planos de Ação, Programas de Trabalho e Projetos de Cooperação); (ii) Preparação e/ou negociação de Atos Internacionais (Acordos, Memorandos de Entendimento, Declarações de Intenções, Planos de Ação, Programas de Trabalho e Projetos de Cooperação).
+Período Ou Data A Que Se Refere: 1 de março a 28 de fevereiro de 2023
+Data De Divulgação/Disponibilização: Março do ano seguinte a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N= total de Instrumentos
+IC= Instrumentos de Cooperação
+Fonte De Dados Das Variáveis De Cálculo: Não se aplica.
+Forma De Disponibilização: Avaliação de desempenho institucional, conforme portaria MCTI.
+Procedimento De Cálculo: Não se aplica.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Entrega: 1247
+Indicador: 10310
+Denominação: Número de instrumentos de cooperação nacional firmados pelas Unidades de Pesquisa do MCTI
+Sigla: PPCN
+Índice De Referência: 400.0
+Em Apuração: Não
+Data De Apuração: 2023-05-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de programas e projetos em CT&I vigentes em parceria formal com instituições nacionais no ano.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30/04
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPPCN: Número de programas e projetos vigentes em parceria formal com instituições nacionais no ano.
+Fonte De Dados Das Variáveis De Cálculo: • Termo de compromisso de Gestão pactuado entre o MCTI e cada UP;
+• Banco de Dados de cooperação nacional e internacional SPEO
+Forma De Disponibilização: • Relatório anual do TCG de cada UP, os quais são disponibilizados no sítio eletrônico de cada UP, bem como sítio eletrônico do MCTI
+Procedimento De Cálculo: Somatório do número de cooperações nacionais vigentes, a partir daquilo que for informado por cada UP
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 428
+Entrega: 1341
+Indicador: 10431
+Denominação: Número de laboratórios recuperados e modernizados
+Sigla: NLRM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de projetos apoiados para a recuperação e modernização de equipamentos.
+Período Ou Data A Que Se Refere: 14/07/2023
+Data De Divulgação/Disponibilização: 14/07/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de projetos apoiados
+Projetos apoiados para a recuperação e modernização de equipamentos
+Fonte De Dados Das Variáveis De Cálculo: Agências de fomento
+Forma De Disponibilização: Relatório gerenciais e páginas na Internet geridas pelas CGIA/SEXEC/MCTI
+Procedimento De Cálculo: Somatório do número de projetos apoiados para a recuperaçãoe modernização de equipamentos.
+Limitações: Disponibilização de acesso aos dados
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 428
+Entrega: 1337
+Indicador: 10425
+Denominação: Número de novos laboratórios
+Sigla: NNLA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de novos laboratórios apoiados para o atendimento de lacunas ou gargalos no Sistema Brasileiro de Avaliação da Conformidade - SBAC.
+Período Ou Data A Que Se Refere: 14/07/2023
+Data De Divulgação/Disponibilização: 14/07/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Somatório do número de projetos apoiados .
+Projetos apoiados para o atendimento de lacunas ou gargalos no SBAC
+Fonte De Dados Das Variáveis De Cálculo: Agências de fomento
+Forma De Disponibilização: Relatório gerenciais e páginas na Internet geridas pelas CGIA/SEXEC/MCTI
+Procedimento De Cálculo: Somatório do número de projetos apoiados para atendimento de lacunas ou gargalos no SBAC.
+Limitações: Disponibilização de acesso aos dados
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Entrega: 2243
+Indicador: 11606
+Denominação: Número de participações do Brasil em grandes colaborações científicas internacionais
+Sigla: IPFI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: percentual %
+Descrição: Participação ativa do Brasil em iniciativas globais de pesquisa, tais como grandes projetos científicos, consórcios e redes internacionais. Participação de pesquisadores brasileiros em grandes colaborações científicas e infraestruturas de pesquisa internacionais como o LHC (Large Hadron Collider), ALICE (A Large Ion Collider Experiment), ATLAS (A Toroidal LHC ApparatuS), LSST (Large Synoptic Survey Telescope), Auger (Pierre Auger Observatory), Fermilab (ermi National Accelerator Laboratory), entre outros.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1. Número de projetos científicos internacionais financiados que contêm a participação de pesquisadores ou instituições brasileiras. Essas informações podem ser obtidas a partir de bancos de dados de agências de fomento, instituições de pesquisa ou relatórios de projetos científicos internacionais.
+
+2. Número total de projetos científicos financiados no Brasil em um período específico. Essa informação pode ser coletada a partir de relatórios de agências de fomento ou órgãos governamentais responsáveis pelo financiamento à pesquisa.
+Fonte De Dados Das Variáveis De Cálculo: CNPq
+Notas Explicativas: O IPFI proporciona uma visão sobre o grau de envolvimento do Brasil em programas de financiamento de projetos científicos internacionais. Quanto maior o valor do indicador, maior a participação brasileira em colaborações internacionais de pesquisa financiadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1328
+Indicador: 10412
+Denominação: Número de profissionais qualificados em tecnologias críticas para o setor de segurança cibernética
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O projeto do Programa Hackers do Bem no Domínio Cibernético tem como objeto a criação de um programa multi-institucional para formação de recursos humanos qualificados com foco em segurança cibernética e privacidade.
+Período Ou Data A Que Se Refere: 31/03/2023
+Data De Divulgação/Disponibilização: 30/04/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: HACKER_DO_BEM_CERTIFICADOS
+Fonte De Dados Das Variáveis De Cálculo: Sistema SIGPPI
+Forma De Disponibilização: https://ppi.facti.com.br
+Procedimento De Cálculo: Realizar a consulta no sistema SIGPPI, consultar o programa relacionado e verificar o quantitativo de certificados emitidos no decorrer do Programa.
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Entrega: 1242
+Indicador: 10304
+Denominação: Número de programas e atividades de cooperação internacional em Ciência, Tecnologia & Inovação (CT&I) apoiados
+Índice De Referência: 11.0
+Em Apuração: Não
+Data De Apuração: 2023-02-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Entende-se por programas e atividades de cooperação: Apoio financeiro à atividades de cooperação internacional e contribuição voluntária a instituições internacionais.
+Período Ou Data A Que Se Refere: 1 de março a 28 de fevereiro
+Data De Divulgação/Disponibilização: Março do ano seguinte a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N= Número absoluto
+P= Programas e atividades de Cooperação
+Fonte De Dados Das Variáveis De Cálculo: Não se aplica.
+Forma De Disponibilização: Avaliação de desempenho institucional, conforme portaria MCTI.
+Procedimento De Cálculo: Não se aplica.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Entrega: 1254
+Indicador: 10314
+Denominação: Número de programas e projetos vigentes em parceria formal com instituições internacionais
+Sigla: PPCI
+Índice De Referência: 200.0
+Em Apuração: Não
+Data De Apuração: 2023-05-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de programas e projetos em CT&I vigentes em parceria formal com instituições estrangeiras no ano.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30/04
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPPCI: Número de programas e projetos vigentes em parceria formal com instituições estrangeiras no ano.
+Fonte De Dados Das Variáveis De Cálculo: • Termo de compromisso de Gestão pactuado entre o MCTI e cada UP;
+• Banco de Dados de cooperação nacional e internacional SPEO
+Forma De Disponibilização: • Relatório anual do TCG de cada UP, os quais são disponibilizados no sítio eletrônico de cada UP, bem como sítio eletrônico do MCTI
+Procedimento De Cálculo: Somatório do número de cooperações internacionais vigentes, a partir daquilo que for informado por cada UP
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Entrega: 1232
+Indicador: 10293
+Denominação: Número de projetos contratados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de projetos contratados
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ações de repatriação realizadas
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do CNPq (PICC)
+Forma De Disponibilização: Relatório gerencial
+Procedimento De Cálculo: Soma do número de ações de repatriação de pesquisadores brasileiros para projetos de Ciência, Tecnologia e Inovação (CT&I) no Brasil, a partir de relatório gerencial da  Plataforma Lattes/PICC
+Limitações: Restrições e/ou contigenciamento orçamentário
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 428
+Entrega: 1342
+Indicador: 10432
+Denominação: Número de provedores de ensaios de proficiência capacitados em áreas estratégicas
+Sigla: NPEC
+Índice De Referência: 20.0
+Em Apuração: Não
+Data De Apuração: 2023-07-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Provedores de Ensaios de Proficiência acreditados pela Cgcre/Inmetro .
+Período Ou Data A Que Se Refere: 14/07/2023
+Data De Divulgação/Disponibilização: 14/07/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade dos provedores acreditados
+Lista dos provedores de ensaios de proficiência acreditados no Cgcre/Inmetro
+Fonte De Dados Das Variáveis De Cálculo: https://www.gov.br/inmetro/pt-br/assuntos/acreditacao/organismos-acreditados/provedores-de-ensaios-de-proficiencia
+Forma De Disponibilização: Relatório gerenciais e páginas na Internet geridas pelas CGIA/SEXEC/MCTI
+Procedimento De Cálculo: Somatório do número de provedores de ensaios de proficiência acreditados no Cgcre/Inmetro.
+Limitações: Disponibilização de acesso aos dados
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 412
+Entrega: 1198
+Indicador: 10233
+Denominação: Número de publicações das Unidades de Pesquisa / TNSE
+Sigla: IGPUB
+Índice De Referência: 1.8
+Em Apuração: Não
+Data De Apuração: 2023-05-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Relação entre o número de artigos científicos indexados no período, considerando artigos publicados em revista de divulgação científica nacional ou internacional, artigos completos publicados em evento técnico-cientifico nacional ou internacional, livros ou capítulos de livros (NGPB), pelo número de técnicos de nível superior vinculados diretamente à pesquisa científica e ao desenvolvimento tecnológico (Pesquisadores, Tecnologistas e Bolsistas) TNSE, com no mínimo doze meses de atuação completos ou a completar na vigência do TCG.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30/04
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NGPB:  (Nº de artigos científicos indexados) + (Nº de artigos publicados em revista de divulgação cientifica nacional ou internacional) + (Nº de artigos completos publicados em evento técnico-cientifico nacional ou internacional) + (Nº de livros ou participações em livros), no ano. 
+
+TNSE: Número de técnicos de nível superior vinculados diretamente à pesquisa científica e ao desenvolvimento tecnológico (Pesquisadores, Tecnologistas e Bolsistas), com doze meses de atuação completados ou a completar na vigência do TCG.
+Fonte De Dados Das Variáveis De Cálculo: • Termo de compromisso de Gestão pactuado entre o MCTI e cada UP;
+• Sistemas estruturantes para obtenção do TNSE (SIAPE e outros) bem como plataforma lattes (para obtenção do NGPUB)
+Forma De Disponibilização: • Sítio eletrônico de cada UP, bem como sítio eletrônico do MCTI
+Procedimento De Cálculo: Somatório de artigos científicos indexados) + (Nº de artigos publicados em revista de divulgação cientifica nacional ou internacional) + (Nº de artigos completos publicados em evento técnico-cientifico nacional ou internacional) + (Nº de livros ou participações em livros), no ano, a partir dos relatórios anuais dos TCG, bem como dados do TNSE disponíveis em cada TCG
+Limitações: • Flutuação no TNSE;
+• Dificuldades em obtenção de todas as publicações realizadas no ano (as bibliotecas das UP é quem geralmente extraem esse dado, a partir dos currículos lattes dos pesquisadores da instituição; portanto, se houver alguma falha neste processo, como a não atualização do currículo - por exemplo -, pode haver distorções nos valores apurados
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1297
+Indicador: 10368
+Denominação: Número de startups fomentadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Programa de apoio à startups de base tecnológica no desenvolvimento de soluções relacionadas à cibersegurança. Chamada Pública realizada pela Softex para seleção de 50 startups.
+Período Ou Data A Que Se Refere: 31/03/2023
+Data De Divulgação/Disponibilização: 30/04/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: STARTUP_CIBER
+Fonte De Dados Das Variáveis De Cálculo: Sistema SIGPPI
+Forma De Disponibilização: https://ppi.facti.com.br
+Procedimento De Cálculo: Realizar a consulta no sistema SIGPPI, consultar o programa relacionado e verificar o quantitativo de startup selecionadas nas duas rodadas do Programa.
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1335
+Indicador: 11341
+Denominação: Percentual da elaboração de estudos prospectivos sobre potencialidades à serem implementadas nos laboratórios existentes
+Sigla: PEIAL
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-27 00:00:00
+Unidade De Medida: %
+Descrição: O indicador visa averiguar o nível da elaboração de estudos prospectivos sobre potencialidades à serem implementadas nos laboratórios existentes.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano anterior a que se refere
+Data De Divulgação/Disponibilização: Janeiro do exercício seguinte ao ano a que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = Percentual de execução do estudo prospectivo;
+Fonte De Dados Das Variáveis De Cálculo: relatório de execução do estudo
+Forma De Disponibilização: Relatório do MD.
+Procedimento De Cálculo: Não se aplica
+Limitações: Contingenciamentos relativos ao desembolso podem inviabilizar o atingimento das metas.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2833
+Indicador: 12200
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 1.000 km, no Estado de Alagoas
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS.
+"
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2945
+Indicador: 12308
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Dois enlaces implementados nos Estados do Amazonas e Roraima
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2979
+Indicador: 12333
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado - Distrito Federal/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2981
+Indicador: 12335
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Goiás/Mato Grosso
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2982
+Indicador: 12336
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Goiás/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2983
+Indicador: 12337
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Maranhão/Tocantins
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2987
+Indicador: 12341
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado no estado da Paraíba
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2988
+Indicador: 12342
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado no Paraná/Mato Grosso do Sul
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2897
+Indicador: 12264
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 3.266 km, no Estado do Paraná
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º  trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2930
+Indicador: 12297
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Dois enlaces implementados nos Estados do Amazonas e do Acre
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2974
+Indicador: 12327
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Bahia/Tocantins
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2834
+Indicador: 12201
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 1.000 km, no Estado do Amapá
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS.
+"
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2835
+Indicador: 12202
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 2.500 km, no Estado da Bahia
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2836
+Indicador: 12203
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 1.500 km, no Estado de Goiás
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2837
+Indicador: 12204
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 6.000 km, no Estado do Maranhão
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2935
+Indicador: 12301
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Dois enlaces implementados Amazonas/Pará/Amapá
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2898
+Indicador: 12265
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 900 km, no Estado do Rio Grande do Norte
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1° trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2899
+Indicador: 12267
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-14 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 1.100 km, no Estado de Rondônia
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2929
+Indicador: 12295
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Alagoas/Sergipe 
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2950
+Indicador: 12310
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Amapá/Pará
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2973
+Indicador: 12326
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Bahia/Sergipe
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2975
+Indicador: 12328
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Ceará/Pernambuco
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2977
+Indicador: 12331
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Distrito Federal/Piauí
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2980
+Indicador: 12334
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Espirito Santo/Bahia
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2984
+Indicador: 12338
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Mato Grosso do Sul/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2986
+Indicador: 12340
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado no Estado do Pará
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2989
+Indicador: 12343
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Rio Grande do Sul/Santa Catarina
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2990
+Indicador: 12344
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Santa Catarina/São Paulo
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2033
+Indicador: 11367
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 78.0
+Em Apuração: Não
+Data De Apuração: 2023-07-27 00:00:00
+Unidade De Medida: %
+Descrição: Mede o avanço físico do projeto
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = percentual de avanço físico do projeto no período em relação ao projeto 100% concluído.
+Fonte De Dados Das Variáveis De Cálculo: MCTI/SPEO
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2034
+Indicador: 11368
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-07-27 00:00:00
+Unidade De Medida: percentual %
+Descrição: Mede o avanço físico do projeto
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: MCTI/SPEO
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2035
+Indicador: 11369
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 62.0
+Em Apuração: Não
+Data De Apuração: 2023-07-27 00:00:00
+Unidade De Medida: %
+Descrição: Mede o avanço físico do projeto
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: MCTI/SPEO
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2036
+Indicador: 11370
+Denominação: Percentual de avanço do projeto
+Sigla: MINSA
+Índice De Referência: 90.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de avanço do projeto
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = percentual de avanço do projeto.
+Fonte De Dados Das Variáveis De Cálculo: MCTI/SPEO
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2037
+Indicador: 11371
+Denominação: Percentual de avanço do projeto
+Sigla: MINSA
+Índice De Referência: 82.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de avanço do projeto
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = Percentual de avanço do projeto
+Fonte De Dados Das Variáveis De Cálculo: MCTI//SPEO
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2257
+Indicador: 11621
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: percentual %
+Descrição: Número de centros de pesquisas conectados à Rede de e-Ciência
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2703
+Indicador: 12063
+Denominação: Percentual de avanço do projeto
+Sigla: PAP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-10 00:00:00
+Unidade De Medida: %
+Descrição: O indicador PAP se refere à porcentagem de execucao da ampliação da rede de monitoramento ambiental por sensores instalados in situ e da infraestrutura de tecnologia da informação e de comunicação de dados.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P=Percentual de execução do projeto
+Fonte De Dados Das Variáveis De Cálculo: CEMADEN
+Forma De Disponibilização: Relatório anual enviado à SEPLAN e divulgados no website do Cemaden em: www.cemaden.gov.br
+Procedimento De Cálculo: Quantificar o percentual total de execução do projeto, levando em consideração equipamentos e infraestrutura de TIC
+Limitações: Disponibilidade de orçamento durante a execução da entrega; Entraves logísticos relacionados à instalação de equipamentos, especialmente aqueles que serão instalados em campo.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2832
+Indicador: 12199
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Infovia Estadual do Acre
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS.
+"
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2841
+Indicador: 12208
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 5.000 km, no Estado do Mato Grosso
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2849
+Indicador: 12216
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 3.700 km, no Estado do Pará
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2850
+Indicador: 12217
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 2.000 km, no Estado da Paraíba
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2864
+Indicador: 12262
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 800 km, no Estado do Pernambuco
+
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1o. Trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2896
+Indicador: 12263
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 1.300 km, no Estado do Piauí
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1° trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2902
+Indicador: 12285
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 1.500 km, no Estado de Roraima
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2903
+Indicador: 12289
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 4.000 km, no Estado do Rio Grande do Sul
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2905
+Indicador: 12292
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 3.000 km, no Estado de Santa Catarina
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2906
+Indicador: 12293
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Construção de infovia estadual com 950 km, no Estado de Tocantins
+
+"Extensão total das infovias implantadas no período
+
+Ao final do período (2026) planeja-se ter 18 infovias estaduais, sendo 8 completadas (AC, AL, AP, MA, MT, PB,RN e RO, totalizando 20.000 km) e 10 infovias estaduais em implantação (BA, GO, PA, PE, PI, PR, RR, RS, SC e TO, totalizando mais 20.000 km) em um total de 40.000 km de extensão de fibra óptica interligando polos do interior com as capitais.
+
+Este investimento complementa investimentos já feitos anteriormente pelo MCTI e MCOM de R$70M, ampliando as infovias de PE, RO, RR, e RS."
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Forma De Disponibilização: Relatório de Gestão da RNP/OS
+Procedimento De Cálculo: não se aplica
+Limitações: Dificuldades nas parcerias com os estados ou iniciativa privada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2912
+Indicador: 12275
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado no Estado do Acre
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2942
+Indicador: 12306
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Dois enlaces implementados nos Estados do Amazonas e Rondônia 
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2928
+Indicador: 12294
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Dois enlaces implementados nos Estados do Acre e de Rondônia
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2971
+Indicador: 12325
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Bahia/Pernambuco
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2978
+Indicador: 12332
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Distrito Federal/Rio de Janeiro 
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2991
+Indicador: 12345
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado São Paulo/Paraná
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2985
+Indicador: 12339
+Denominação: Percentual de avanço do projeto
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: %
+Descrição: Um enlace implementado Mato Grosso/Pará
+
+Ampliação e construção de novos enlaces para o backbone acadêmico em todas as unidades da federação, interiorizando a alta velocidade aos campi (n x 100Gb/s) de organizações usuárias do Sistema RNP
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: não se aplica
+Fonte De Dados Das Variáveis De Cálculo: não se aplica
+Procedimento De Cálculo: não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Entrega: 2461
+Indicador: 11771
+Denominação: Percentual de Crescimento do número de projetos apoiados
+Índice De Referência: 1500.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: percentual %
+Descrição: Crescimento do número de projetos vigentes no ambito de acordos de cooperação, acordos de parcerias, termos de fomento e TED's para a cooperação nacional e internacional, considerando taxas anuais de 5%, 7,5%, 10% e 12,5%, respectivamente, em relação à linha de base.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = Nº de projetos  vigentes no ano de referência (X), obtido a partir do relatório da Plataforma Lattes/PICC.
+
+Y = Nº de projetos em 2024: Total de ações de projetos vigentes em 2024 (ano base para comparação).
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do CNPq (Lattes e PICC)
+Forma De Disponibilização: Dados a abertos a partir do link do painel de fomento disponível na página do CNPq
+Procedimento De Cálculo: Total  de projetos vigentes em parcerias — incluindo acordos de cooperação, acordos de parceria, convênios, termos de fomento e TEDs — voltadas à cooperação nacional e internacional, conforme dados extraídos de relatório gerencial da Plataforma Lattes/PICC no ano de referência, sendo calculado o percentual de crescimento em relação ao número de projetos apoiados em 2024.
+Limitações: Restrições e/ou contigenciamento orçamentário
+Notas Explicativas: Os valores apresentados nas metas anuais se referem aos incrementos anuais de 5%, 7,5%, 10% e 12,5%, sobre o valor da linha de base de 267
+ Crescimento (%)= ( Nº de projetos em X) − (Nº de projetos em 2024) /​ ( Nº de projetos em 2024) ×100
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 3027
+Indicador: 12389
+Denominação: Percentual de equipamentos novos, recuperados e/ou modernizados nas regiões N, NE e CO
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-09-18 00:00:00
+Unidade De Medida: %
+Descrição: Percentual de equipamentos novos, recuperados e/ou modernizados nas regiões N, NE e CO
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Percentual de equipamentos
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Nacional de Infraestrutura de Pesquisa
+Forma De Disponibilização: Site MCTI
+Limitações: Possíveis falhas de acompanhamento
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 2795
+Indicador: 12160
+Denominação: Percentual de implementação do GraNioTer-MCTI
+Sigla: LMA (GRANIOTER)
+Índice De Referência: 45.0
+Em Apuração: Não
+Data De Apuração: 2023-12-30 00:00:00
+Unidade De Medida: percentual %
+Descrição: O Laboratório de Materiais Avançados e Minerais Estratégicos (GraNioTer) em implantação no CDTN/CNEN tem como missão contribuir para a pesquisa e o desenvolvimento tecnológico do País, atuando em conjunto com as ICTs nacionais visando o adensamento tecnológico das cadeias produtivas baseadas em materiais avançados e minerais estratégicos com grande demanda global para as próximas décadas, a exemplo do Grafeno, Nióbio e Terras Raras.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 31/12 do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: P = percentual de avanço do projeto
+Fonte De Dados Das Variáveis De Cálculo: CDTN/CNEN/MCTI
+Forma De Disponibilização: Comunicações administrativas
+Procedimento De Cálculo: Verificação das atividades realizadas e o quanto elas representam percentualmente na execução do projeto,
+Limitações: Disponibilização de acesso aos dados
+Notas Explicativas: Alteração em razão de sugestão da SEPLAN: Em resposta à sugestão de rever o indicador para percentual de avanço do projeto ao invés de valor dispendido, salientamos que o tema "trocar valor investido por percentual de avanço de um projeto" é pertinente e recorrentemente aventado. Contudo, atualmente não é trivial realizar essa associação entre atividades realizadas e o quanto elas representam percentualmente na execução do projeto, em especial, para projetos de ciência, tecnologia e inovação, cuja entregas não são simplesmente mensuradas. Exemplo: Em um projeto de infraestrutura tradicional, sabe-se que a entrega de 10 metros quadrados de um projeto de 100 metros quadrados equivale à 10% do projeto. Em um projeto de ciência, tecnologia e inovação, o desenvolvimento de uma nova metodologia interna para acelerar a transformação de um novo material em um produto equivaleria a quantos porcentos do projeto?
+Diante dessas considerações, e mantendo as ressalvas apresentadas, procedemos com a conversão dos valores em percentuais:
+Linha base 45%  
+Meta prevista para 2024: 10.000.000 (70 %)
+Meta prevista para 2025: 6.000.000 (85 %)
+Meta prevista para 2026: 6.000.000 (100 %)
+Meta prevista para 2027: 0
+
+O valor da meta para 2024 apresenta discrepância em relação aos exercícios seguintes devido à alteração do indicador, que passou de “Valor do laboratório instalado e em operação em suas áreas temáticas” (medido em reais) para “Percentual de implementação do GraNioTer-MCTI” (medido em percentual). No entanto, essa mudança será aplicada apenas a partir de 2025, uma vez que o exercício de 2024 já foi monitorado com base no indicador anterior.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 412
+Entrega: 1202
+Indicador: 10279
+Denominação: Percentual de publicações brasileiras na base Scopus com colaboração internacional
+Sigla: PCCINT
+Índice De Referência: 36.45
+Em Apuração: Não
+Data De Apuração: 2023-02-14 00:00:00
+Unidade De Medida: percentual %
+Descrição: Participação da produção científica nacional em colaboração com parceiros estrangeiros. Acessível em:  https://www.scimagojr.com/countryrank.php
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: BRAINT - número de publicações brasileiras com colaboração internacional
+BRA - número de publicações brasileiras
+Fonte De Dados Das Variáveis De Cálculo: Base Scopus / Portal Scimago
+Quadro “% International Collaboration"
+https://www.scimagojr.com/countrysearch.php?country=BR
+Forma De Disponibilização: Página de Indicadores do MCTI
+Procedimento De Cálculo: BRAINT dividido por BRA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Entrega: 1190
+Indicador: 10220
+Denominação: Percentual de recursos de apoio não-reembolsável destinado às regiões Norte, Nordeste e Centro-oeste , voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D)
+Índice De Referência: 23.0
+Em Apuração: Não
+Data De Apuração: 2024-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de recursos de apoio não-reembolsável destinado  às regiões Norte, Nordeste e Centro-oeste , voltados à manutenção, recuperação e modernização das infraestruturas de Pesquisa & Desenvolvimento (P&D)
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = Valor de convênios de apoio não-reembolsável a ICTs das regiões Norte, Nordeste e Centro-Oeste firmados pela Finep no ano, excluindo convênios destinados a programas de subvenção como Tecnova e Centelha
+Y =Valor total convênios de apoio não-reembolsável a ICTs firmados pela Finep por ano, excluindo convênios destinados a programas de subvenção como Tecnova e Centelha
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Finep
+Forma De Disponibilização: Site MCTI
+Site do MCTI/FINEP
+Procedimento De Cálculo: (Valor de convênios de apoio não-reembolsável a ICTs das regiões Norte, Nordeste e Cetro-Oeste firmados pela Finep no ano, excluindo convênios destinados a programas de subvenção como Tecnova e Centelha) / (Valor total convênios de apoio não-reembolsável a ICTs firmados pela Finep por ano, excluindo convênios destinados a programas de subvenção como Tecnova e Centelha)
+Limitações: O número de convênios firmados está sujetio à dinâmica orçamentária do FNDCT. Além disso, o resultado deve ser ponderado pelo valor das contratações. Ou seja, um aumento ou diminuição do indicador deve ser analisada no contexto de um eventual aumento ou diminuição dos valores dos contratos a que se referem e dos valores totais do anos, bem como pela existência de projetos envolvendo  “big-science research infrastructures” que, devido ao alto valor concetrado em um único convênio, podem impactar o resultado final.
+Notas Explicativas: O número de convênios firmados está sujetio à dinâmica orçamentária do FNDCT. Além disso, o resultado deve ser ponderado pelo valor das contratações. Ou seja, um aumento ou diminuição do indicador deve ser analisada no contexto de um eventual aumento ou diminuição dos valores dos contratos a que se referem e dos valores totais do anos, bem como pela existência de projetos envolvendo  “big-science research infrastructures” que, devido ao alto valor concetrado em um único convênio, podem impactar o resultado final.
+
+Dentro da metodologia de cálculo, as regiões N, NE e CO responderam por 29% do total de convênios firmados , enquanto que em 2024 essa pariticpação caiu para 23%. Por outro lado, deve se ponderar que, em termos absolutos, os convênios dessas regiões em 2023 tiveram o valor de R$ 1, 3 bilhão, enquanto que em 2024 o montante total contratado foi de R$ 3,6 bilhões. Ou seja, um aumento de mais de 100% no total de recursos destinado a ICTs destas regiões. Além disso, quando desconsideramos do cálculo os valores referentes a convênios oriundos de encomendas, na verdade há um aumento da participação dos convênios das regiões N. NE e CO,  de 31,5% em 2023 para 35,4% em 2024.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1351
+Indicador: 10447
+Denominação: Profissionais capacitados no Curso de Conscientização em Segurança Cibernética
+Sigla: ENaDCiber
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: percentual
+Descrição: Avaliar quantos alunos matriculados efetivamente concluíram o Curso com aproveitamento.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Janeiro do exercício seguinte ao ano a que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Prossionais concludentes com aproveitamento
+Prossionais matriculados 
+Profissionais matriculados sem aproveitamento ou que desistiram
+Fonte De Dados Das Variáveis De Cálculo: Acompanhamento Pedagógico na Plataforma de Ensino
+Forma De Disponibilização: Relatório Pedagógico
+Procedimento De Cálculo: Considera-se concludente com aproveitamento o profissional que obtiver nota final igual ou superior a 5.0 (cinco)
+Limitações: Falta de engajamento e evasão do curso
+Notas Explicativas: 1. Curso a ser desenvolvido no formato de Ensino a Distância (EaD) com oferta inicial de 40 (quarenta) vagas;
+
+2. Responsável pela gestão e condução do Curso: ENaDCiber.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 412
+Entrega: 1196
+Indicador: 10231
+Denominação: Publicações técnico-científicas com patrocínio do CNPq
+Índice De Referência: 27905.0
+Em Apuração: Não
+Data De Apuração: 2023-08-04 00:00:00
+Unidade De Medida: unidade
+Descrição: Número total de publicações técnicas e científicas financiadas pelo CNPq e registradas na Base Scopus
+Período Ou Data A Que Se Refere: semestre
+Data De Divulgação/Disponibilização: Ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: somatório das publicações técnicas e científicas financiadas pelo CNPq e registradas na Base Scopus
+Fonte De Dados Das Variáveis De Cálculo: Base Scopus
+Forma De Disponibilização: Relatório gerencial
+Procedimento De Cálculo: Somatório das publicações técnicas e científicas financiadas pelo CNPq e registradas na Base Scopus
+Limitações: Restrições e/ou contigenciamento orçamentário
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1291
+Indicador: 10363
+Denominação: Valor de investimento para o estabelecimento do centro de excelência em tecnologias críticas para o setor de segurança cibernética nacional
+Sigla: CENTRO_COMPETENC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: R$
+Descrição: Tem como objeto principal a realização de uma Chamada Pública para seleção de projetos de pesquisa, desenvolvimento e inovação a serem executados nas áreas 5G e 6G, Open RAN, Tecnologias Quânticas, Segurança Cibernética eTecnologias imersivas aplicadas a Mundos virtuais.
+Período Ou Data A Que Se Refere: 31/03/2023
+Data De Divulgação/Disponibilização: 30/04/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: RECURSO_PPI_CENTRO_COMPET; 
+CENTRO_COMPET_MEMBERSHIP
+Fonte De Dados Das Variáveis De Cálculo: Sistema SIGPPI; e
+Relatório Embrapii.
+Forma De Disponibilização: https://ppi.facti.com.br
+Procedimento De Cálculo: a) realizar a consulta no sistema SIGPPI, somando o total de recursos destinados ao investimento no Centro de Competência em Cibersegurança no ano calendário;
+b) solicitar à Embrapii o relatório anual de participação das empresas membership que aportaram recursos no Centro de Competência em Cibersegurança; e
+c) somar os valores obtidos de "a" e "b".
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Entrega: 1294
+Indicador: 10366
+Denominação: Valor do dispêndio orçamentário em programas de PD&I relacionados a tecnologias críticas e emergentes para o setor de segurança cibernética
+Sigla: PDI_CIBER
+Índice De Referência: 3000000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: R$
+Descrição: Valor investido nos projetos de pesquisa, desenvolvimento e inovação com foco em segurança e defesa cibernética.
+Período Ou Data A Que Se Refere: 31/03/2023
+Data De Divulgação/Disponibilização: 30/04/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DISPENDIO_PDI_CIBER (Dispêndios de projetos de PD&I)
+Fonte De Dados Das Variáveis De Cálculo: Sistema SIGPPI; e
+Relatório MCTI do FNDCT CT-INFO.
+Forma De Disponibilização: https://ppi.facti.com.br
+Procedimento De Cálculo: a) realizar a consulta no sistema SIGPPI, somando o total de recursos destinados investimentos em projetos de PD&I no ano calendário;
+b) solicitar à SEXEC/MCTI o relatório de cartas propostas aprovadas que envolvam projetos de PD&I na área de cibersegurança; e
+c) somar os valores obtidos de "a" e "b".
+Limitações: não se aplica
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2308
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Indicador: 10214
+Denominação: Evolução anual da disponibilização de infraestrutura de P&D
+Sigla: INFPD
+Índice De Referência: 3756.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de laboratórios ativos cadastrados na Plataforma Nacional de Infraestrutura de Pesquisa - PNIPE
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de laboratórios ativos cadastrados na PNIPE MCTI
+Fonte De Dados Das Variáveis De Cálculo: PNIPE MCTI
+Procedimento De Cálculo: Verificação do número de compartilhamentos registrados na PNIPE MCTI
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Indicador: 10286
+Denominação: Número de beneficiários atendidos com bolsas do CNPq por 100 mil habitantes
+Índice De Referência: 1.06
+Em Apuração: Não
+Data De Apuração: 2023-07-03 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de beneficiários atendidos com bolsas do CNPq por 100 mil habitantes
+
+A unidade de medida considera o número de beneficiários atendidos e não a quantidade de bolsas concedidas. A razão para essa escolha está no fato de que uma bolsa pode atender mais que um beneficiário, no caso de substituição de bolsista por motivos previstos em norma. Entende-se que esta medida é mais realista em termos de impacto da ação na formação de recursos humanos. Linha de base = LOA 2022 (janeiro a dezembro).
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A - Número de beneficiários atendidos com bolsas do CNPq;
+
+B - Para o denominador da relação será considerado o número de 100 mil habitantes.
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do CNPq (Lattes e PICC)
+Forma De Disponibilização: Relatório gerencial
+Procedimento De Cálculo: Do relatório gerencial sobre beneficiários atendidos, se faz a relação com 100 mil habitantes (razão beneficiários atendidos/100 mil habitantes) para se medir a proporção do investimento na formação de recursos humanos por grupo de habitantes. Esse índice permite medir o ritmo que deve ser implementado ao investimento do CNPq para esta ação.
+Limitações: Não se aplica
+Notas Explicativas: 1) A indicação de 100 mil habitantes no denominador da relação do indicador é padrão e qualquer alteração neste número apenas aumentará ou diminuirá a relação, mantendo-se, porém, a mesma proporcionalidade.
+
+
+2) Para o estabelecimento das metas anuais está se considerando um crescimento médio de 10% ao ano, levando-se em conta a perspectiva de reforço da dotação orçamentária do CNPq para os próximos anos.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 428
+Indicador: 10423
+Denominação: Número de laboratórios voltados à padronização, metrologia, acreditação e avaliação da conformidade fomentados
+Sigla: NLACF
+Índice De Referência: 1333.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Somatório da quantidade de laboratórios fomentados.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de laboratórios fomentados.
+Fonte De Dados Das Variáveis De Cálculo: CGIA/SEXEC/MCTI
+Forma De Disponibilização: Relatório gerenciais, Relatório FormICT e páginas na Internet geridas pelas CGIA/SEXEC/MCTI
+Procedimento De Cálculo: Somatório dos valores do investimento privado realizado em P,D&I, associado aos incentivos fiscais acompanhados pelo MCTI.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Indicador: 10301
+Denominação: Número de programas, atividades, instrumentos e projetos resultantes de parcerias formais com instituições nacionais e internacionais
+Índice De Referência: 652.0
+Em Apuração: Não
+Data De Apuração: 2025-02-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Entende-se por programas e instrumentos: (i) Preparação e/ou negociação de Atos Nacionais e Internacionais (Acordos, Memorandos de Entendimento, Declarações de Intenções, Planos de Ação, Programas de Trabalho e Projetos de Cooperação); ; ii) acordos de cooperação, acordos de parceria, convênios, termos de fomento, TEDs; (iii) Apoio financeiro a atividades de cooperação nacional e internacional e contribuição voluntária a instituições nacionais e internacionais.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1º trimestre do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A - programas e atividades de cooperação internacional
+B - instrumentos de cooperação nacional firmados em parceria com instituições nacionais
+C - instrumentos de Cooperação Internacional firmados
+D - programas e projetos vigentes em parceria formal com instituições internacionais
+E - parcerias para cooperação nacional e internacional
+Fonte De Dados Das Variáveis De Cálculo: Unidades responsáveis pelas entregas
+Forma De Disponibilização: Site MCTI
+Procedimento De Cálculo: Somatório
+Limitações: Não se aplica.
+Notas Explicativas: 1) O indicador do objetivo específico é uma composição das metas das entregas 1242, 1247, 1251, 1254 e 2461, que envolvem diretamente a ASSIN, a SPEO e o CNPq.    
+
+2) O indicador busca capturar os programas e atividades de cooperação internacional, os instrumentos de cooperação nacional firmados em parceria com instituições nacionais, os instrumentos de cooperação internacional firmados, os programas e projetos vigentes em parceria formal com instituições internacionais e as parcerias para cooperação nacional e internacional.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 412
+Indicador: 10230
+Denominação: Proporção entre as citações das publicações brasileiras e o total mundial de citações
+Sigla: MEDCIT
+Índice De Referência: 0.76
+Em Apuração: Não
+Data De Apuração: 2023-02-14 00:00:00
+Unidade De Medida: decimal
+Descrição: Computo de citações médias dos artigos indexados do Brasil em relação ao observado no mundo
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: - número total de citações recebidas pelos artigos brasileiros
+- número total de artigos brasileiros
+- número total de citações recebidas pelos artigos do mundo todo
+- número total de artigos do mundo todo
+Fonte De Dados Das Variáveis De Cálculo: https://www.scimagojr.com/countryrank.php
+Forma De Disponibilização: Site MCTI
+Procedimento De Cálculo: Divisão da Citação Média dos artigos brasileiros pela Citação Média dos artigos do mundo para obter a relação entre as duas médias
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Indicador: 10360
+Denominação: Volume de Recursos Aplicados em Projetos de Pesquisa, Desenvolvimento, Inovação e Capacitação em Segurança Cibernética
+Sigla: MCTI_CIBER
+Índice De Referência: 9570679.69
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: R$
+Descrição: Recursos alocados em projetos de pesquisa, desenvolvimento, inovação e capacitação em segurança cibernética no âmbito do Programa e Projeto Prioritário de Interesse Nacional (PPI) da Lei de TICs
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: investimentos em ações de segurança cibernética no PPI
+Fonte De Dados Das Variáveis De Cálculo: Sistema SIGPPI; e
+Relatório de Controle de FNDCT.
+Forma De Disponibilização: site MCTI
+Procedimento De Cálculo: Obter dados do Sistema SIGPPI; Somar investimentos em projetos de PD&I
+Somatório dos investimentos em ações de segurança cibernética no PPI
+Limitações: Disponibilidade de recursos FNDCT.
+Notas Explicativas: Não aplicável
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2308
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 411
+Enunciado: Recuperar, expandir e modernizar a infraestrutura nacional de Pesquisa & Desenvolvimento (P&D)
+Descrição: Recuperar, expandir e modernizar a infraestrutura nacional de Pesquisa & Desenvolvimento (P&D)
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 412
+Enunciado: Ampliar o impacto da Ciência & Tecnologia (C&T) nacional, fomentando a geração de conhecimento através do apoio a projetos
+Descrição: Computo de Citações Médias dos artigos indexados do Brasil em relação ao observado no mundo
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 415
+Enunciado: Promover a formação, capacitação, atração, fixação e ampliação de recursos humanos em projetos de CT&I com atenção à correção de assimetrias
+Descrição: Este objetivo específico que tem o CNPq como o responsável, está assentado especificamente na ação orçamentária para a formação de recursos humanos (bolsas) e faz parte de um rol de ações que têm como responsáveis outras unidades do MCTI. Dentro do escopo do Programa, a formação de recursos humanos qualificados vai complementar o esforço nacional de crescimento do SNCTI, a partir da realização da pesquisa científica, a outra vertente de atuação do CNPq.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 417
+Enunciado: Expandir as parcerias estratégicas de cooperação nacional e internacional em CT&I
+Descrição: Aqui serão verificadas a quantidade de parcerias realizadas, bem como a quantidade de programas e instrumentos realizados no âmbito de cada parceria.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 425
+Enunciado: Ampliar a capacidade de pesquisa, desenvolvimento e inovação do ecossistema de segurança cibernética nacional
+Descrição: Trata-se das ações de apoio e fomento à realização de PD&I e investimetnos em capacitação relacionados com as tecnologias críticas para o setor de segurança cibernética nacional.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Objetivo Específico: 428
+Enunciado: Contribuir com fomento à Infraestrutura Nacional da Qualidade
+Descrição: "A infraestrutura laboratorial é imprescindível para o suporte às atividades de P,D&I. Nesse sentido, 3 frentes de ação foram definidas:
+- Fomento à infraestrutura laboratorial no país para continuidade e melhoria da oferta de serviços existentes no país.
+- Diversificação dos setores atendidos e alavancagem do setor produtivo nacional.
+- A qualidade dos laboratórios de ensaios e calibração que prestam serviços de avaliação da conformidade, necessários para a certificação de produtos, pode ser comprovada por meio de ensaios de proficiência. Trata-se de uma ferramenta para avaliar o do desempenho dos laboratórios, por meio de comparações interlaboratoriais. A participação do laboratório em Ensaios de Proficiência é um mecanismo indispensável para avaliar a sua competência técnica e aumentar a credibilidade dos resultados de suas medições. Em um contexto geral, o ensaio de proficiência propicia aos laboratórios participantes: avaliação do desempenho e monitoração contínua; evidência de obtenção de resultados confiáveis; identificação de problemas relacionados com a sistemática de ensaios; possibilidade de tomada de ações corretivas e/ou preventivas; avaliação da eficiência de controles internos; determinação das características de desempenho, validação de métodos, tecnologias e reconhecimento de resultados de ensaios, em nível nacional e internacional. Entretanto, a falta de provedores de ensaios de proficiência dificulta a qualificação dos laboratórios e a comprovação da sua competência técnica. Nesse contexto, a capacitação de provedores de ensaios de proficiência é fundamental para a promoção da cultura da qualidade no SNCTI. "
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2308
+
+Exercício: 2025
+Programa: 2308
+Objetivo: 1309
+Enunciado: Recuperar, expandir, modernizar, consolidar e integrar o Sistema Nacional de Ciência, Tecnologia e Inovação, promovendo a articulação com a sociedade civil e os governos estaduais e municipais, a difusão de capacidades e a redução de assimetrias
+Descrição: Recuperar, expandir, modernizar, consolidar e integrar o Sistema Nacional de Ciência, Tecnologia e Inovação, promovendo a articulação com a sociedade civil e os governos estaduais e municipais, a difusão de capacidades e a redução de assimetrias
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2308
+
+Exercício: 2025
+Programa: 2308
+Título: Consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação – SNCTI
+Tipo: Finalístico
+Órgão: 24000.0
+Público-Alvo: comunidade acadêmica, científica e tecnológica; Instituição Científica, Tecnológica e de Inovação (ICT), Unidades de Pesquisa (UP), estudantes, empresas
+Descrição Do Problema: A capacidade científica nacional nas suas dimensões de capital humano, infraestrutura e recursos financeiros continuam insuficientes para enfrentar os desafios sociais e econômicos contemporâneos brasileiros
+Causa Do Problema: A insuficiência da capacidade científica nacional é um problema complexo e multicausal e, tendo com base a dimensão humana, financeira e de infraestrutura, são sinalizados os pontos principais:
+1) Investimento insuficiente em pesquisa: O financiamento insuficiente para instituições de pesquisa e projetos científicos limita o desenvolvimento de pesquisas avançadas e a capacidade de atrair e reter talentos científicos.
+2) Escassez de recursos humanos qualificados: A falta de capacidade e estímulo  para a formação de cientistas, pesquisadores e professores altamente qualificados.
+3) Fuga de cérebros: A falta de oportunidades e reconhecimento na carreira científica evar a uma "fuga de cérebros", quando os pesquisadores talentosos buscam oportunidades no exterior.
+4) Condições de trabalho e salários inadequados: Salários pouco competitivos e condições de trabalho desfavoráveis podem desmotivar os profissionais e tornar a carreira científica menos atraente.
+5) Distribuição regional desigual  da infraestrutura, que reforça a reprodução das desigualdades e afeta os serviços prestados à sociedade.
+6) Desigualdade de gênero reproduzida nas estruturas científicas: as mulheres perdem espaço nas progressões da carreira científica em razão do seu papel social; também são minorias em certas áreas do saber, que historicamente, são ocupadas por homens.
+7) Falta de alinhamento das prioridades de desenvolvimento do país com as capacidades já existentes e exploração dos potenciais locais.
+Evidências Do Problema: 1) Investimento insuficiente em pesquisa: Segundo dados de 2020, os dispêndios nacionais em pesquisa e desenvolvimento (P&D) (Em bilhões de US$ correntes de PPC) é de 36,8 bi (muito longe dos 144,4 da Alemanha, 720,9 dos EUA); o percentual desse dispêndio em relação ao PIB é de 1,14% (sendo 0,62% oriundo do governo) (longe dos percentuiais da Alemanha de 3,13% e 3,45% dos EUA); No período entre 2013 e 2019, os países membros da OCDE investiram, em média, 2,4% do PIB em P&D. No mesmo período, o Brasil destinou para P&D uma média de 1,2% do PIB. Embora o crescimento do dispêndio nacional tenha mostrado evolução nas últimas décadas, ele não foi suficiente para reduzir a defasagem em relação aos países centrais e propiciar as ações exigida por um país nas dimensões do Brasil. Nesse período, enquanto outras economias emergentes, como China e Coreia do Sul, mudaram sua estrutura de C&T, o Brasil manteve sua posição relativa em termos de participação na matriz mundial. Na comparação de dispêndios em P&D per capta entre países selecionados, o Brasil só supera a África do Sul e a Índia, ficando atrás de Rússia e China e mais distante ainda da Alemanha, Coreia e Estados Unidos. Em 2015, em termos de dispêndios nacionais em C&T, em valores correntes, o Brasil chegou a 103,7 bilhões de reais, equivalente a 1,7% do PIB. Com o advento da crise fiscal, os investimentos vêm decaindo sucessivamente, passando a pouco mais de 97 bi em 2016 e, conforme dados preliminares, 90,6 bi em 2017, 99,1 bi em 2018, 106,6 bi em 2019 e 102,1 bi em 2020.
+2) Escassez e má distribuição regional e por setor de recursos humanos qualificados: necessidade de investimento no capital humano e na sua qualificação para promover descobertas científicas e gerar respostas aos desafios sócio-econômicos.Segundo dados de 2014, o Brasil apresentava 180 mil  pesquisadores envolvidos em P&D em tempo integral (longe dos 1.340,3 mil dos EUA, 1.524,3 mil da China, 345,5 mil da Coreia, 351,9 mil da Alemanha). O sistema também deve ser capaz de atrair e capacitar jovens para atuar nas carreiras científicas. Em 2014, tanto o CNPq quanto a CAPES ultrapassaram o patamar de 100.000 bolsas concedidas no ano, no país e no exterior, sendo este último correspondente a 10% do total. Em função da redução nos investimentos, houve redução no número de bolsas concedidas pelo CNPq em mais de 20% até 2017. As bolsas concedidas pelo CNPq saltaram de 43.564 em 2000 para 102.022 em 2014, reduzindo-se para 79.703 em 2017; sendo que os valores das bolsas ficaram congeladas por quase dez anos (2013 a 2022). A distribuição do capital humano deve atender as demadas na busca pelo equilíbro regional. Conforme dados do Diretório dos Grupos de Pesquisa do CNPq por unidade da federação, em 2010, 66,4% dos pesquisadores estavam concentrados na região Sul (21,2%) e Sudeste (45,2%), enquanto Nordeste seguia com 19,5%, Centro-Oeste com 8,2% e Norte com 5,9%. Ademais, há diferenças da distribuição do percentual dos pesquisadores envolvidos em P&D em tempo integral por setor. Dados de 2014 apontam que 26,1% estão em empresas (na Alemanha são 56,3%, na China são 62,1%, na Coreia, 79,5%), 3,3% no governo (na Alemanha 15%, na China 19,4%, na Coreia 7,2%), 69,9% no ensino superior (18,5% na China,  28,7% na Alemanha, 12,1% na Coreia) e 0,7% em entidades privadas sem fins lucrativos (1,2% da Coreia, 1,3% do Japão). 
+3) Fuga de cérebros: o Brasil é um dos países com a maior taxa de imigrantes altamente qualificados vivendo na região da OCDE (28,9% dos imigrantes brasileiros).
+4) Inequidade de gênero: Estudo da Uerj, entre 2004 e 2020, apontou um aumento discreto na participação feminina nos cursos de mestrado e doutorado, bem como na docência, mas que apenas cerca de 42% das mulheres alcançam equidade ou são maioria entre docentes da pós-graduação. Há também desigualdade nas áreas historicamente ocupadas por homens, como Física, Matemática e Engenharias, em comparação com aquelas áreas do conhecimento rotuladas pela sociedade como femininas, tais como Nutrição, Enfermagem e Serviço Social. A compreensão do fenômeno da desigualdade de gênero perpassa pelo papel social que as mulheres desempenham na sociedade, a partir da maternidade e a sua compatibilização com a carreira acadêmica.
+5) Desigualdade de oportunidades nas carreiras científicas para a poulação preta. De acordo com levantamento realizado pela Liga de Ciência Preta Brasileira, em 2020, dentre os alunos de pós-graduação, 2,7% são pretos, 12,7% são pardos, 2% são amarelos, menos de 0,5% é indígena e 82,7% são brancos. 
+6) Distribuição regional desigual  da infraestrutura: regiões menos desenvolvidas têm uma base científica menor e contam com mecanismos precários de C&T.  Segundo De Negri e Squeff (2016), a localização das instalações e a área física revela a concentração expressiva nas regiões Sudeste (57%) e Sul (23%).
+7) Falta de alinhamento das prioridades de desenvolvimento do país com as capacidades já existentes e exploração dos potenciais locais.Nascimento (2016) constata que o país é relevante player global em quatro das cinco áreas de maior especialização: medicina tropical, parasitologia, odontologia, cirurgia e saúde oral, e agricultura. Porém, para novos saltos, fa-se necessária mudança nos padrões de organização e de gestão da produção científica e tecnológica, perpassando pela implementação de políticas de otimização da infraestrutura científica instalada, fomentando redes de visibilidade internacional e incentivando o desenvolvimento de novos produtos, processos e tecnologias. Além do aproveitamento dos potenciais, seja em infraestrutura existente, como em recursos naturais a serem explorados, como a biodiversidade, há que se investir no desenvolvimento de tecnologias disruptivas e portadoras de futuro em distintas áreas, como a biotecnologia, nanotecnologia e inteligência artificial pelo potencial transformador social.
+8) Posição do Brasil em 54ª IGG (Global Innovation Index), sendo que o Brasil ocupa posição intermediária em termos de capital humano (50ª posição), estando à frente da África do Sul (81ª posição) e atrás da Índia (43ª posição), Rússia (27ª posição) e China (20ª posição). Por outro lado, ocupa a 55ª posição em termos de produtos de conhecimento e tecnologia, muito próximo de Rússia (51ª posição) e África do Sul (56ª posição), porém bastante atrás de Índia (34ª posição) e China (6ª posição). 
+9) Baixa evolução de números de artigos publicados em periódicos indexados pela Scopus: Daodos de 2020, apontam 89.263 artigos, contra 123.440 da Rússia, 751.978 da China, 175.034 da Alemanha e 91.546 da Coreia.
+Justificativa Para A Intervenção: Apesar de alguns avanços nas últimas décadas para a consolidação do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI), a capacidade da ciência e tecnologia brasileira em gerar conhecimento e trazer soluções para a sociedade ainda está muito aquém de seu potencial. Ademais, o crescimento populacional e as demandas socioeconômicas impõem desafios adicionais. No cenário internacional, o Brasil ainda busca fortalecer sua posição e reconhecimento. A falta de políticas públicas nesta área tem contribuído para  o descrédito da sociedade na ciência e tecnologia, a vulnerabilidade em questões de soberania do país, a dependência tecnológica externa, as dificuldades na formação de novos cientistas e pesquisadores, o baixo nível de desenvolvimento social e econômico do país, a fuga de cérebros, a manutenção do modelo econômico atual centrado na indústria primária e na exportação de commodities, bem como a baixa oportunidade competitiva em setores estratégicos. É fundamental que sejam implementadas políticas e investimentos mais robustos na ciência, tecnologia e inovação, visando potencializar a capacidade científica do Brasil e promover o desenvolvimento sustentável, a diversificação econômica e a melhoria da qualidade de vida da população brasileira.   	.
+Evolução Histórica: O sistema nacional de ciência, tecnologia e inovação (SNCTI) passou por uma série de transformações ao longo das últimas décadas. Segundo o historiador Paulinyi (1986), a evolução do Sistema Nacional de Ciência, Tecnologia e Inovação (SNCTI) pode ser classificada em quatro fases:1)“nucleação aleatória de competências” (até 1950) - caracterizada pela ausência de políticas e estratégias governamentais em C&; as instituições foram criadas sem uma visão sistêmica, mas para atender peculiaridades nacionais e emergências conjunturais e são poucos os pesquisadores formados no país e no exterior e, geralmente, ocorre por iniciativa própria dos indivíduos; 2)“nucleação programada” (1951 – 1980) - criação de uma base de apoio estatal a C&T, em especial pela criação do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), da Financiadora de Estudos e Projetos (FINEP) que passou a atuar como Secretaria Executiva do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT); 3)“crescimento e interação mútua” (anos 80 até a virada do século) - maior interação entre os diversos atores do cenário científico e tecnológico brasileiro, marcada pela criação, em 1985, do Ministério da Ciência e Tecnologia (MCT), que absorveu em sua estrutura a FINEP, o CNPq e suas unidades de pesquisa; contou com a inserção de dois artigos referentes à C&T na Constituição Federal (inciso IX do art. 5º e art. 218 da CF); também houve a aprovação da  Lei n.9.478/1977 que destinou um percentual dos royalties sobre a produção de petróleo para o MCT, originando os Fundos Setoriais que incrementariam os recursos do FNDCT; pela Lei da Inovação (Lei 10.973/2004); e, pela  “Lei do Bem ” (Lei 11.196/2005), que fundamentaram uma nova modalidade de subvenção econômica, prevendo o financiamento não reembolsável às empresas; e, 4) a atual fase de “amadurecimento” (Século XXI) - arcabouço institucional e regulatório robusto e completo na área de CT&I, permitindo que estratégias sejam formuladas para o aperfeiçoamento contínuo do sistema, tendo como foco a produção científica que avança a fronteira do conhecimento e a geração de inovações de produtos, processos e serviços, intensificando-se o relacionamento internacional. Estas estratégias são expressas nos Plano de Ação para a Ciência, Tecnologia e Inovação 2007-2010 (PACTI 2007-2010) e nas duas edições da Estratégia Nacional de Ciência, Tecnologia e Inovação (2012-2015 e 2016-2022). Mais recentemente, o Marco Legal de CT&I (Decreto nº 9.283/2018) foi sancionado para atender dispositivos da Lei nº 13.243/2016 que necessitavam de regulamentação, alterando nove leis para criar um ambiente mais favorável à pesquisa, desenvolvimento e inovação nas universidades, nos institutos públicos e nas empresas: Lei de Inovação, Lei das Fundações de Apoio, Lei de Licitações, Regime Diferenciado de Contratações Públicas, Lei do Magistério Federal, Lei do Estrangeiro, Lei de Importações de Bens para Pesquisa, Lei de Isenções de Importações e Lei das Contratações Temporárias.
+Comparações Internacionais: No ranking do Índice de Inovação Global, o Brasil se situa na 54ª posição na edição de 2022. Apenas como comparação os dez países mais bem colocados em 2022 são: Suíça, Estados Unidos, Suécia, Reino Unido, Holanda, Coreia do Sul, Singapura, Alemanha, Finlândia e Dinamarca. Importa notar que a China já se aproxima deste seleto grupo, estando atualmente na 11ª posição. Com relação ao percentual do dispêndio nacional em P&D, em valores correntes, em relação ao PIB, o Brasil, em 2020, investe 1,14%, pouco se comparado aos 2,40% da China; 3,13% da Alemanha e 4,81% da Coreia do Sul. No período entre 2013 e 2019, os países membros da OCDE investiram, em média, 2,4% do PIB em P&D. No mesmo período, o Brasil destinou para P&D uma média de 1,2% do PIB, sendo que a diferença aumenta quando comparado a países que investem acima dessa média, como é o caso de Alemanha, Coreia e  Suécia (MCTI, 2022). O Brasil ainda está distante dos países mais avançados, tanto no dispêndio em P&D como nos recursos humanos envolvidos, sendo imprescindíveis investimentos crescentes para que esse quadro seja alterado nos próximos anos.
+Relação Com Os Ods: Os Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela Organização das Nações Unidas (ONU) em 2015, são um conjunto de metas globais para alcançar um futuro sustentável até 2030. A ciência, tecnologia e inovação desempenham um papel fundamental no atingimento dos ODS, pois são instrumentos essenciais para impulsionar o progresso em direção a essas metas.
+A Ciência, tecnologia e inovação podem contribui para os ODS de várias maneiras; a pesquisa científica e a inovação tecnológica são fundamentais para o avanço do conhecimento e para o desenvolvimento de soluções inovadoras para os desafios sociais, econômicos e ambientais enfrentados pelo mundo. A ciência fornece evidências e dados sólidos para a formulação de políticas públicas e para os tomadores de decisão.
+Além disso, a tecnologia e a inovação são cruciais para o desenvolvimento de soluções que poderão colaborar para a implementação dos ODS, como por exempo tecnologias limpas e sustentáveis, energias renováveis, tecnologias da informação e comunicação, soluções ambientais, agricultura de baixo carbono, avanços na saúde, dentre outros.
+A Ciência e tecnologia também desempenha um papel importante na capacitação da população, fornecendo oportunidades de educação, formação e emprego qualificado. Ademais, a colaboração internacional em C,T&I é fundamental para enfrentar os desafios globais e promover a transferência de conhecimento e tecnologias entre países que se encontram em diferentes níveis de desenvolvimento.
+Em resumo, a ciência, tecnologia e inovação são  essenciais para a implementação exitosa dos ODS fornecendo as ferramentas e os meios para impulsionar o desenvolvimento sustentável e inclusivo alinhados à Agenda da ONU para 2030.
+Agentes Envolvidos: Secretarias e Instituições vinculadas ao MCTIC / Universidades / ICTs / Fundações Estaduais de Amparo à Pesquisa (FAPs) / Conselho Nacional das Fundações Estaduais de Amparo à Pesquisa (CONFAP) / Secretarias Estaduais de Ciência, Tecnologia e Inovação / Conselho Nacional de Secretários para Assuntos de Ciência Tecnologia e Inovação / Associações Cientificas.
+Enfoque Transversal: 1) Mulheres;
+2) Crianças e adolescentes; 
+3) Igualdade racial; 
+4) Povos indígenas; 
+5) Povos e Comunidades Tradicionais; 
+6) Verde.
+Marco Legal: Constituição Federal: O termo "ciência", enquanto atividade individual, faz parte do catálogo dos direitos fundamentais da pessoa humana (inciso IX do art. 5º da CF). Além de um autonomizado capítulo que prestigia a Ciência (Cap. IV, Título VIII), Art. 218: O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa, a capacitação científica e tecnológica e a inovação.
+Decreto nº 9.283/2018: Este Decreto foi sancionado para atender dispositivos da Lei nº 13.243 que necessitavam de regulamentação. O Marco Legal altera 9 Leis para criar um ambiente mais favorável à pesquisa, desenvolvimento e inovação nas universidades, nos institutos públicos e nas empresas: Lei de Inovação, Lei das Fundações de Apoio, Lei de Licitações, Regime Diferenciado de Contratações Públicas, Lei do Magistério Federal, Lei do Estrangeiro, Lei de Importações de Bens para Pesquisa, Lei de Isenções de Importações e Lei das Contratações Temporárias.
+Planos Nacionais, Setoriais E Regionais: Estratégia Nacional de CT&I 2016-2022 (ENCTI) e Planos de Ação em CT&I derivados da ENCTI
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não

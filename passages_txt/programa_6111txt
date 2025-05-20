@@ -1,0 +1,574 @@
+passage: Programa Número 6111
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 516
+Indicador: 9404
+Denominação: Número de beneficiados atendidos pelo Programa Forças no Esporte/Projeto João do Pulo
+Sigla: BAPROFESP/PJP
+Índice De Referência: 19.5
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O PROFESP é destinado ao atendimento de crianças e adolescentes de ambos os sexos, a partir de 6 (seis) até os 18 (dezoito) anos de idade, em situação de vulnerabilidade social e tem por finalidades promover a valorização da pessoa, reduzir riscos sociais, fortalecendo a cidadania, a inclusão, e a integração social dos beneficiados, por meio do acesso à prática de atividades esportivas e físicas saudáveis, de atividades socialmente inclusivas, realizadas no contraturno escolar, utilizando-se de infraestruturas existentes nas Organizações Militares (OM). Já o PJP é uma extensão do PROFESP e possui as mesmas finalidades, porém seu público alvo são as pessoas com deficiência (PcD), com núcleos de inclusão social, equoterapia e atividades paradesportivas.
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do exercício subsequente ao de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de beneficiados atendidos.
+Fonte De Dados Das Variáveis De Cálculo: Organizações Militares Hospedeiras do PROFESP/PJP.
+Forma De Disponibilização: Plano de Gestão do Ministério da Defesa (Site do MD).
+Procedimento De Cálculo: Medição do número de beneficiados atendidos..
+Notas Explicativas: O Projeto depende do recurso aprovado na LOA, complementado por Termo de Execução Descentralizado (TED) e emendas parlamentares , ambos nem sempre disponibilizados.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 1598
+Indicador: 10958
+Denominação: Número de Cidadãos beneficiados diretos e multiplicadores de conhecimentos alcançados pelo Projeto Rondon
+Sigla: RONDONbd
+Índice De Referência: 15000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é representado pelo número de Cidadãos beneficiados diretos e multiplicadores de conhecimentos do Projeto Rondon que participam das oficinas ministradas pelos Rondonistas, de forma a contribuir com o desenvolvimento da cidadania, empregando soluções sustentáveis para a inclusão social e a redução de desigualdades regionais e visando ao fortalecimento da Soberania Nacional.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do ano subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de cidadãos beneficiados diretos e multiplicadores de conhecimentos do Projeto Rondon
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Internos da SEPESD
+Forma De Disponibilização: Plano de Gestão do Ministério da Defesa (Site do MD)
+Procedimento De Cálculo: Apurar número  beneficiados diretos e multiplicadores de conhecimentos do Projeto Rondon.
+Notas Explicativas: O Projeto depende do recurso aprovado na LOA, complementado por Termo de Execução Descentralizado (TED) e emendas parlamentares , ambos nem sempre disponibilizados.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 531
+Indicador: 9428
+Denominação: Número de Desportistas Apoiados pelo PAAR
+Sigla: Nu DAPAAR
+Índice De Referência: 550.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de Desportistas Apoiados pelo PAAR.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do exercício subsequente ao de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Números Absolutos.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de controle das Missões da Comissão Desportiva Militar do Brasil (CDMB).
+Forma De Disponibilização: Relatórios internos da  Secretaria de Pessoal, Saúde, Desporto e Projetos Sociais (SEPESD).
+Procedimento De Cálculo: Número de Desportistas Apoiados pelo PAAR (Números Absolutos).
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 544
+Indicador: 9458
+Denominação: Número de jovens do ensino médio formados pela Fundação Osório em administração e meio ambiente
+Sigla: TFAM-FO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede o percentual de alunos concludentes do Ensino Médio com capacitação em no Curso Técnico de Administração ou no Curso de Técnico de  Meio Ambiente, do ensino profissionalizante.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: Até 15 de janeiro do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NFAMFO = Número de jovens do ensino médio formados pela Fundação Osório em administração e meio ambiente.
+TECADM = Técnicos capacitados em administração.
+TECMA = Técnicos capacitados em meio ambiente.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios da Fundação Osório.
+Forma De Disponibilização: Relatórios.
+Procedimento De Cálculo: Para calcular a soma dos técnicos capacitados em administração e meio ambiente em um determinado ano e o total de jovens previstos na formação profissional, siga os passos a seguir:
+
+Passo 1. Some o número de técnicos capacitados em administração e o número de técnicos capacitados em meio ambiente durante o ano em questão.
+Limitações: Não se aplica.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 1476
+Indicador: 10630
+Denominação: Número de Jovens vinculados ao Serviço Militar qualificados profissionalmente pelo Projeto Soldado Cidadão
+Sigla: QPSOLD
+Índice De Referência: 5500.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é representado por jovens brasileiros incorporados às fileiras das Forças Armadas e que sejam voluntários para realizarem cursos profissionalizantes que proporcionem qualificação profissional, de modo a complementar sua formação cívica e facilitar seu ingresso no mercado de trabalho em melhores condições, após o término do Serviço Militar.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do ano posterior aos eventos
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de jovens qualificados profissionalmente pelo Projeto Soldado Cidadão.
+Fonte De Dados Das Variáveis De Cálculo: Organizações Militares Hospedeiras do Projeto Soldado Cidadão
+Forma De Disponibilização: Plano de Gestão do Ministério da Defesa (Site do MD).
+Procedimento De Cálculo: Identifica-se o nr de soldados que obtiveram êxito em suas capacitações, junto as Organizações Militares Hospedeiras do Projeto Soldado Cidadão.
+Notas Explicativas: O Projeto depende do recurso aprovado na LOA, complementado por Termo de Execução Descentralizado (TED) e emendas parlamentares , ambos nem sempre disponibilizados.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 784
+Indicador: 9735
+Denominação: Número de profissionais alcançados pelo Programa do Ensino Profissional Marítimo (EPM)
+Sigla: EPM
+Índice De Referência: 15516.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: número de alunos
+Descrição: Número de alunos capacitados anualmente para exercerem as atividades referentes à Marinha Mercante e atividades correlacionadas em relação ao planejado. As categorias profissionais beneficiárias do Ensino Profissional Marítimo (EPM) são os aquaviários (marítimos, fluviários, pescadores, mergulhadores, práticos e agentes de manobra e docagem), os portuários e capacitação de funcionários das empresas que contribuem para o Ensino Profissional Marítimo (segmento denominado atividades correlatas). Serão utilizados os registros da coordenação do EPM na MB.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do exercício subsequente ao período de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de profissionais marítimos capacitados pelo EPM
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Geral de Navegação (DGN)
+Forma De Disponibilização: Site da Marinha do Brasil.
+Procedimento De Cálculo: 1. Realizar o levantamento do número de profissionais marítimos capacitados pelo EPM previstas para o período de apuração (números absolutos).
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Entrega: 1484
+Indicador: 10640
+Denominação: Número de Rondonistas capacitados pelo Projeto Rondon
+Sigla: RONDONrfo
+Índice De Referência: 501.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O Projeto Rondon é uma ação interministerial de cunho estratégico do Governo Federal, coordenada pelo Ministério da Defesa, destinada a contribuir com o desenvolvimento da cidadania nos estudantes universitários, empregando soluções sustentáveis para a inclusão social e a redução de desigualdades regionais e visando ao fortalecimento da Soberania Nacional. As ações priorizam o desenvolvimento sustentável e a capacitação para o atendimento às necessidades sociais, ambientais e econômicas da população, em consonância com as políticas públicas e os planos governamentais em execução.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Rondonistas capacitados pelo Projeto Rondon.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Internos da SEPESD
+Forma De Disponibilização: Plano de Gestão do Ministério da Defesa (Site do MD)
+Procedimento De Cálculo: Medição do número de Rondonistas Capacitados
+Notas Explicativas: O Projeto depende do recurso aprovado na LOA, complementado por Termo de Execução Descentralizado (TED) e emendas parlamentares , ambos nem sempre disponibilizados.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 413
+Entrega: 1217
+Indicador: 10265
+Denominação: Taxa de Disponibilidade Operacional da Infraestrutura Tecnológica
+Sigla: TxInfra
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Será calculada a taxa de disponibilização da infraestrutura tecnológica do Sistema de Proteção da Amazônia (Sipam)
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: primeiro trimestre do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: As variáveis representam a quantidade de tempo em que a infraestrutura tecnológica do Censipam ficou disponível, em horas, durante o exercício.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria Técnica (DITEC)
+Forma De Disponibilização: O resultado do indicador será disponibilizado em documento interno do sistema eletrônico de informações do Governo Federal e, após atualização no sistema de acompanhamento do Plano Plurianual, o documento gerado será disponibilizado no sítio eletrônico do Censipam.
+Procedimento De Cálculo: No início do ano subsequente ao período de apuração das variáveis de cálculo, o setor de gestão do Censipam irá solicitar à Diretoria Técnica para informar o tempo em que a infraestrutura deveria estar disponível e o tempo em que ela realmente ficou disponível. Após recebimento das informações, o setor de gestão irá incluir as informações na fórmula de cálculo para a geração do resultado, o qual é obtido pela razão do tempo em que a infraestrutura ficou disponível pelo tempo em que ela deveria ter ficado disponível, sendo este multiplicado por 100 para que seja gerado o resultado em percentual.
+Limitações: Visto que haverá ações a serem realizadas ao longo de todo o exercício, estas só poderão ser consolidadas no exercício subsequente.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 413
+Entrega: 1215
+Indicador: 10263
+Denominação: Taxa de Disponibilização de Pessoal Especializado
+Sigla: TxGeo
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Será calculada a taxa de disponibilização de pessoal especializado em geointeligência para Missões de Campo em apoio às Instituições Públicas
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: primeiro trimestre do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A variável “Quantitativo de Demandas” baseia-se na solicitação dos órgãos governamentais para que o Censipam disponibilize pessoal especializado em geointeligência para missões de campo.
+Fonte De Dados Das Variáveis De Cálculo: Coordenação-Geral de Inteligência (CGINT)
+Forma De Disponibilização: O resultado do indicador será disponibilizado em documento interno do sistema eletrônico de informações do Governo Federal e, após atualização no sistema de acompanhamento do Plano Plurianual, o documento gerado será disponibilizado no sítio eletrônico do Censipam.
+Procedimento De Cálculo: No início do ano subsequente ao período de apuração das variáveis de cálculo, o setor de gestão do Censipam irá solicitar à Diretoria Operacional para informar o quantitativo de demandas de pessoal solicitado e o quantitativo atingido. Após recebimento das informações, o setor de gestão irá incluir as informações na fórmula de cálculo para a geração do resultado, o qual é obtido pela razão da quantidade de demandas de pessoal atendida pela quantidade de demanda de pessoal solicitada, sendo este multiplicado por 100 para que seja gerado o resultado em percentual.
+Limitações: Visto que haverá ações a serem realizadas ao longo de todo o exercício, estas só poderão ser consolidadas no exercício subsequente.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 420
+Entrega: 1408
+Indicador: 10535
+Denominação: Taxa de entrega de Bens Permanentes
+Sigla: TxEBP
+Em Apuração: Sim
+Unidade De Medida: %
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: Março do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: QEBPR =  Quantidade de entrega de bens permanentes realizada
+QEPBPP = Quantidade de entrega de bens permanentes prevista
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados do DPCN, com base nos relatórios situacionais de cada coordenação geral.
+Forma De Disponibilização: Portal Transferências Discricionárias e Legais - Transferegov.
+Procedimento De Cálculo: Dividir a quantidade de bens entregues pela quantidade de bens prevista e multiplicar por 100.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 420
+Entrega: 1364
+Indicador: 10487
+Denominação: Taxa de entrega de Obra
+Sigla: TxEO
+Em Apuração: Sim
+Unidade De Medida: %
+Período Ou Data A Que Se Refere: 01 de Janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: Março do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: QEOR = Quantidade de entregas de obras realizadas
+QEOP = Quantidade de entregas de obras previstas
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados do DPCN, com base nos relatórios situacionais de cada coordenação geral.
+Forma De Disponibilização: Portal Transferências Discricionárias e Legais - Transferegov.
+Procedimento De Cálculo: Dividir a quantidade de obras realizadas pela quantidade de obras previstas e multiplicar por 100.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 413
+Entrega: 1212
+Indicador: 10257
+Denominação: Taxa de Geração de Informações sobre Ilícitos
+Sigla: TxIlícitos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Será calculada a taxa de geração de informações sobre ilícitos ambientais decorrentes do desmatamento, garimpo, tráfego aéreo, pista de pouso, dentre outros.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: primeiro trimestre do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TxDesmatamento = Taxa de Execução dos Produtos de Desmatamento;
+TxLOGAR = Taxa de Execução dos Produtos de Localização de Garimpos Ilegais;
+TxGPIS = Taxa de Execução dos Produtos de Gestão de Pistas; e
+TxLOPIS = Taxa de Execução dos Produtos de Localização de Pistas de Pouso.
+Fonte De Dados Das Variáveis De Cálculo: As variáveis serão obtidas com base nas informações extraídas do Acompanhamento Plano Estratégico Institucional do órgão.
+Forma De Disponibilização: O resultado do indicador será disponibilizado em documento interno do sistema eletrônico de informações do Governo Federal e, após atualização no sistema de acompanhamento do Plano Plurianual, o documento gerado será disponibilizado no sítio eletrônico do Censipam.
+Procedimento De Cálculo: No início do ano subsequente ao período de apuração das variáveis de cálculo, o setor de gestão do Censipam irá solicitar à Diretoria Operacional para informar a apuração das respectivas variáveis, as quais serão baseadas no Plano de Ação do órgão. Após recebimento das informações, o setor de gestão irá incluí-las na fórmula de cálculo para a geração do resultado, o qual é obtido pela média do percentual da execução dos produtos.
+Limitações: Visto que haverá ações a serem realizadas ao longo de todo o exercício, estas só poderão ser consolidadas no exercício subsequente.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6111
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 420
+Indicador: 10349
+Denominação: Índice de atendimento das demandas de execução de obras de engenharia e aquisições de bens permanentes
+Sigla: IAEOBP
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Índice de execução das obras previstas e de aquisição de bens permanentes é obtido pela média ponderada das taxas de entrega de obras e de aquisição de bens permanentes entregues aos estados/ municípios abrangidos pelo Programa Calha Norte. O processo de realização de obras e de aquisição de bens destinados aos Estados e munícios abrangidos pelo PCN envolve etapas como: licitação, acompanhamento da execução dos projetos aprovados e a verificação da correta aplicação dos recursos, bem como a prestação de contas que, conforme a complexidade da obra, poderá ser concluída (entregue) em períodos diferentes.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TxEO = Taxa de entrega de Obras (Obras realizadas e entregues nos municípios por meio de convênios do Programa Calha Norte)
+TxEBP =Taxa de entrega de Bens Permanentes (Bens permanentes adquiridos pelos municípios, por meio de convênios do Programa Calha Norte)
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados do DPCN, com base nos relatórios situacionais de cada coordenação geral.
+Forma De Disponibilização: Portal Transferências Discricionárias e Legais - Transferegov.
+Procedimento De Cálculo: Dividir o valor dos objetos de convênios entregues nos anos considerados do PPA 2024/2027, pelo valor de objetos previstos a serem entregues nos anos considerados do PPA2024/2027 e multiplicar por 100.
+Notas Explicativas: A quantidade de obras e de aquisições de bens permanentes previstos é calculado com base na média de convênios celebrados e entregues nos últimos 4 anos (2020 a 2023).
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Indicador: 9383
+Denominação: Taxa de execução de ações de Cooperação com a Sociedade Brasileira
+Sigla: TaxCSB
+Índice De Referência: 70.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Média Ponderada das taxas de entrega. Sendo as seguintes entregas:
+1) Beneficiados atendidos pelo Programa Forças no Esporte e Projeto João do Pulo (PROFESP/PJP);
+2) Desportistas apoiados pelo Programa de Incorporação de Atletas de Alto Rendimento (PAAR);
+3) Jovens vinculados ao serviço militar qualificados profissionalmente pelo Projeto Soldado-Cidadão;
+4) Rondonistas capacitados pela projeto Rondon;
+5) Cidadãos beneficiados diretos e multiplicadores de conhecimento do Projeto Rondon;
+6) Profissionais aquaviários e trabalhadores portuários avulsos formados e capacitados; e
+7) Técnicos capacitados em administração e meio ambiente.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Março do exercício subsequente ao de apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TaxPROFESP: Taxa de Atendidos pelo Programa Forças no Esporte/Projeto João do Pulo.
+TaxPAAR: Taxa de Desportistas Apoiados pelo PAAR.
+TaxSOLD: Taxa de Profissionais Capacitados pelo Projeto Soldado Cidadão.
+TaxRONDONrfo: Taxa de Rondonistas formadores de opinião.
+TaxRONDONbd: Taxa de Beneficiados diretos e multiplicadores de conhecimento alcançados pelo Projeto Rondon
+TaxEPM: Taxa de profissionais qualificados pelo Programa do Ensino Profissional Marítimo (EPM)
+TaxFundOsório: Taxa de jovens formados pela Fundação Osório em administração e meio ambiente.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Internos de Gestão;
+Relatórios da Marinha do Brasil, encaminhado à SEPESD;
+Relatórios da Fundação Osório, do Comando do Exército, encaminhados à SEPESD.
+Forma De Disponibilização: Relatórios Internos de Gestão e PESD.
+Procedimento De Cálculo: A TaxCSB é calculada pela média ponderada das taxas: 
+TaxPROFESP: Taxa de Atendidos pelo Programa Forças no Esporte/ Projeto João do Pulo, 
+TaxPAAR: Taxa de Desportistas Apoiados pelo PAAR com peso 2, 
+TaxSOLD: Taxa de Profissionais Capacitados pelo Projeto Soldado Cidadão com peso 2, 
+TaxRONDONrfo: Taxa de Rondonistas formadores de opinião com peso 2, 
+TaxRONDONbd: Taxa de Beneficiados diretos e multiplicadores de conhecimento alcançados pelo Projeto Rondon,
+TaxEPM: Taxa de profissionais qualificados pelo Programa do Ensino Profissional Marítimo (EPM) e 
+TaxFundOsório: Taxa de jovens formados pela Fundação Osório em administração e meio ambiente, em termos percentuais.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 413
+Indicador: 10243
+Denominação: Taxa de geração de informações e de ações de apoio do Sistema de Proteção da Amazônia (SIPAM)
+Sigla: TxSipam
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A Taxa de Operacionalização do Sipam é medida com base nas entregas do Centro Gestor e Operacional do Sistema de Proteção da Amazônia (Censipam), órgão do Ministério da Defesa que possui a incumbência de gerir e operacionalizar o referido Sistema para subsidiar a atuação governamental mediante ações de apoio e geração de informações integradas e qualificadas.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro de cada exercício
+Data De Divulgação/Disponibilização: primeiro trimestre do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TxIlícitos = Taxa de Geração de Informações sobre Ilícitos;
+TxGeo = Taxa de Disponibilização de Pessoal Especializado; e
+TxInfra = Taxa de Disponibilização da Infraestrutura Tecnológica.
+Fonte De Dados Das Variáveis De Cálculo: Indicadores das Entregas do Censipam, obtidas com base nas informações extraídas do Acompanhamento do Plano Estratégico Institucional do órgão.
+Forma De Disponibilização: O resultado do indicador será disponibilizado em documento interno do sistema eletrônico de informações do Governo Federal e, após atualização no sistema de acompanhamento do Plano Plurianual, o documento gerado será disponibilizado no sítio eletrônico do Censipam.
+Procedimento De Cálculo: No início do ano subsequente ao período de apuração das variáveis de cálculo, o setor de gestão do Censipam irá solicitar às Diretorias para informarem a apuração das respectivas variáveis, as quais serão baseadas nas entregas do órgão. Após recebimento das informações, o setor de gestão irá incluí-las na fórmula de cálculo para a geração do resultado, o qual é obtido pela média do percentual das entregas.
+Limitações: Visto que haverá ações a serem realizadas ao longo de todo o exercício, estas só poderão ser consolidadas no exercício subsequente.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6111
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 241
+Enunciado: Contribuir com Políticas Públicas que promovam inclusão social, cidadania, desporto, profissionalização e desenvolvimento sustentável em comunidades menos assistidas, promovendo interação com a sociedade brasileira e cooperando com o desenvolvimento nacional.
+Descrição: A cooperação do Ministério da Defesa – MD com as políticas públicas governamentais e com o desenvolvimento nacional se dá por meio da execução de programas e projetos sociais, tais como: o Projeto Rondon, Programa Forças no Esporte, Projeto João do Pulo, Programa de Incorporação de Atletas de Alto Rendimento das Forças Armadas, Projeto Soldado Cidadão, Ensino Profissional Marítimo e a profissionalização de jovens pela Fundação Osório. Os Programas e Projetos são desenvolvidos no âmbito do MD por meio do Departamento de Projetos Sociais – DPS e o Desporto pelo Departamento Desporto Militar – DDM da Secretaria de Pessoal, Saúde e Desporto e Projetos Sociais – SEPESD. O Ensino Profissional Marítimo pela Marinha do Brasil e a profissionalização de jovens na Fundação Osório pelo Exército Brasileiro
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 413
+Enunciado: Contribuir com a proteção, o desenvolvimento sustentável e o incremento da qualidade de vida na Amazônia Legal e em outras áreas consideradas de interesse, por meio de ações de apoio e geração de informações integradas do Sistema de Proteção da Amazônia.
+Descrição: O Ministério da Defesa, conforme inciso XXVI, Art. 24, seção VII da Lei nº 14.600, de 19 de junho de 2023, possui a competência para operacionalizar o Sistema de Proteção da Amazônia (Sipam), a qual é de responsabilidade do Centro Gestor e Operacional do Sistema de Proteção da Amazônia. A referida competência subsidia a atuação governamental mediante ações de apoio e geração de informações integradas e qualificadas, a fim de contribuir com a proteção, o desenvolvimento sustentável e o incremento da qualidade de vida na Amazônia Legal e em outras áreas consideradas de interesse.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Objetivo Específico: 420
+Enunciado: Contribuir com a implementação da infraestrutura básica e o desenvolvimento sustentável nos municípios abrangidos pelo Programa Calha Norte.
+Descrição: O Programa Calha Norte (PCN), tem a importante missão de Coordenação da execução de projetos de obras de infraestrutura básica e aquisições de bens permanentes, com prioridade para as políticas públicas de desenvolvimento social na região de atuação PCN.
+Órgão: 52000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 6111
+
+Exercício: 2025
+Programa: 6111
+Objetivo: 1288
+Enunciado: Contribuir para incrementar os resultados e o alcance de políticas públicas e ações governamentais, por meio da atuação sinérgica do Ministério da Defesa com outras instituições públicas, cooperando para o desenvolvimento nacional.
+Descrição: A cooperação do Ministério da Defesa com as políticas públicas governamentais e com o desenvolvimento nacional se dá por meio da execução de programas e projetos sociais, tais como: o Projeto Rondon, Programa Forças no Esporte, Projeto João do Pulo, Programa de Incorporação de Atletas de Alto Rendimento das Forças Armadas, Projeto Soldado Cidadão, Ensino Profissional Marítimo e a profissionalização de jovens pela Fundação Osório. Além disso, o Ministério colabora com órgãos governamentais na proteção, na integração, no desenvolvimento sustentável e no incremento da qualidade de vida na Amazônia Legal e em outras áreas consideradas de interesse, por meio da operacionalização do Sistema de Proteção da Amazônia (Sipam).
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6111
+
+Exercício: 2025
+Programa: 6111
+Título: Cooperação da Defesa para o Desenvolvimento Nacional
+Tipo: Finalístico
+Órgão: 52000.0
+Público-Alvo: - Profissionais da Marinha Mercante ou de embarcações de pesca (fluviários, pescadores, mergulhadores, práticos, agentes de manobra e docagem, portuários, trabalhadores avulsos da orla portuária e outros grupos correlatos).
+- Jovens de 6 a 18 anos (Projeto Forças no Esporte);
+- Pessoas com deficiência, acima de 6 anos de idade (Projeto João do Pulo);
+- Jovens egressos do Serviço Militar (Projeto Soldado-Cidadão);
+- Estudantes universitários (Projeto Rondon);
+- População residente em municípios onde é realizado o Projeto Rondon;
+- Atletas de Alto Rendimento com ou sem vulnerabilidade social (Projeto Atleta de Alto Rendimento)
+- População da Região abrangida pelo Programa Calha Norte (783 municípios, em dez Estados da Federação (Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Rondônia, Roraima e Tocantins. Sociedade brasileira.
+
+O Projeto Soldado Cidadão − jovens que prestam o Serviço Militar.
+O Projeto Rondon – estudantes universitários diretamente e parcela da sociedade em situação de vulnerabilidade que receberá o conhecimento constituído pela atuação dos estudantes.
+O Programa de Incorporação de Atletas de Alto Rendimento das Forças Armadas – Atletas de alto rendimento com ou sem vulnerabilidade social.
+População da Região abrangida pelo Programa Calha Norte (783 municípios, em dez Estados da Federação (Acre, Amapá, Amazonas, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Rondônia, Roraima e Tocantins.
+Sociedade brasileira.
+Descrição Do Problema: Necessidade de apoio à políticas e ações governamentais, principalmente em regiões mais carentes e afastadas, para ampliar o alcance e a abrangência da atuação governamental, com redução dos custos, em áreas tais como: qualificação profissional; inclusão social de crianças, adolescentes e jovens em situação de vulnerabilidade social; proteção e desenvolvimento da Amazônia; contribuição com a construção da infraestrutura nacional; ações de saúde; desenvolvimento do desporto nacional de alto rendimento; entre outras.
+Causa Do Problema: 1. Desigualdades regionais e sociais.
+2. Ocorrência de calamidades e desastres naturais.
+3. Existência de grandes vazios demográficos, em especial, na Região Norte.
+4. Dificuldade de acesso a regiões afastadas pelos órgãos governamentais. 
+5. Dificuldades logísticas e de infraestrutura dos órgãos governamentais.
+6. Necessidade de o Estado fortalecer as políticas públicas e ações governamentais, voltadas: 
+a. à inclusão social de crianças, adolescentes e jovens em situação de vulnerabilidade social;
+b. ao desenvolvimento e fortalecimento da cidadania nos estudantes universitários;
+c. ao desenvolvimento do desporto nacional de alto rendimento;
+d. à formação de aquaviários e portuários com vistas a mitigar os riscos de acidente com embarcações;
+e. aos sistemas de monitoramento, de alerta e de informações para contribuir com a proteção e o desenvolvimento da Região Amazônica;
+f. à disponibilização de informações sobre incêndios e queimadas no País;
+g. ao monitoramento de ilícitos (garimpo ilegal, pistas de pouso irregulares, movimento aéreo desconhecido, cultivo de ilícitos;
+h. ao monitoramento do desmatamento na Amazônia; e
+i. à construção da infraestrutura nacional.
+Evidências Do Problema: 1. Falta de acesso a bens e serviços pelas populações de áreas mais remotas;
+2. Baixo índice de desenvolvimento humano nas regiões mais remotas;
+3. Ilícitos ambientais e transfronteiriços; 
+4. Ausência do conhecimento, da capacitação técnica, de senso de cidadania, de amparo ao esporte, e
+5. Mudanças climáticas.
+Justificativa Para A Intervenção: 1. Necessidade de ampliar o alcance e a abrangência da atuação governamental, com redução dos custos, principalmente em regiões mais carentes e afastadas;
+2. Necessidade de integração nacional e diminuição das desigualdades regionais e sociais; 
+3. Necessidade de provimento de bens e serviços à população, principalmente, onde a atuação dos órgãos governamentais é insuficiente; e
+4. Necessidade de prover o conhecimento, a capacitação técnica, a cidadania, o amparo ao esporte, visando à redução do risco social.
+Evolução Histórica: O Programa Cooperação da Defesa para o Desenvolvimento Nacional foi incluído pela primeira vez no Plano Plurianual no quadriênio de 2020-2023. A criação do Programa teve como pano de fundo a necessidade de segregação dessa Política de Cooperação da Política Nacional de Defesa. Antes do ciclo 2020-2023 as ações desse Programa eram consubstanciadas em objetivos do Programa de Defesa Nacional, contudo, não corroboravam, diretamente, para os resultados dessa política, mas, sim com os de outras políticas públicas mais afetas à construção do desenvolvimento nacional e de atendimento à população nas áreas de inclusão social, cidadania, desporto, profissionalização e desenvolvimento sustentável.
+Comparações Internacionais: Não há.
+Relação Com Os Ods: O Programa Cooperação da Defesa para o Desenvolvimento Nacional contribui para o alcance dos seguintes Objetivos de Desenvolvimento Sustentável:  
+1 - Erradicação da Pobreza; 
+2 - Fome Zero e Agricultura Sustentável; 
+3 - Saúde e Bem-Estar; 
+4 - Educação de Qualidade; 
+8 - Trabalho Decente e Crescimento Econômico; 
+10 - Redução das Desigualdades; 
+11 - Cidades e Comunidades Sustentáveis; 
+13 - Ação Contra Mudança Global do Clima; e 
+17 - Parcerias e Meios de Implementação.
+Agentes Envolvidos: Câmara dos Deputados.
+Senado Federal.
+Ministérios Parceiros (Ministérios da Educação; da Justiça e da Segurança Pública; da Saúde; dos Direitos Humanos e da Cidadania; do Desenvolvimento e Assistência Social, Família e Combate à Fome; do Esporte; da Integração e do Desenvolvimento Regional; do Meio Ambiente e Mudança do Clima; da Agricultura e Pecuária; do Trabalho e Emprego; do Desenvolvimento Agrário e Agricultura Familiar; da Cultura; e da Secretaria-Geral da Presidência da República).
+Governos Estaduais e Municipais.
+Ministério da Defesa e Forças Armadas.
+Articulação Federativa: Necessidade de articulação entre o Ministério da Defesa e os Comandos das Forças com a Câmara dos Deputados e Senado Federal, em razão das emendas parlamentares que financiam algumas iniciativas do MD voltadas à Cooperação para o Desenvolvimento Nacional (Calha Norte, PROFESP, PJP, Soldado Cidadão, Rondon). 
+O PROFESP/PJP depende exclusivamente do aporte orçamentário de outros Ministérios, guardadas as disponibilidades existentes, bem como a celebração de protocolos de intenções/acordos de cooperação com as entidades parceiras.
+No Projeto Rondon, além dos Ministérios integrantes do Comitê de Orientação e Supervisão do Projeto Rondon (COS), outros Ministérios poderão contribuir com complementos à respectiva ação orçamentária a fim de viabilizar as atividades do projeto.
+Enfoque Transversal: Sim. O desenvolvimento das ações do Programa exige a interlocução com agentes públicos federais, estaduais e municipais e envolvem vários Ministérios (Justiça e Segurança Pública; Educação; Cultura; Saúde; Direitos Humanos e da Cidadania; Esporte; Desenvolvimento e Assistência Social, Família e Combate à Fome; Trabalho e Emprego; Integração e do Desenvolvimento Regional; Meio Ambiente e Mudança do Clima; Agricultura e Pecuária; Desenvolvimento Agrário e Agricultura Familiar; e Secretaria-Geral da Presidência da República.
+Marco Legal: Constituição Federal, art. 142;
+Lei Complementar nº 97/1999, art. 16.
+Planos Nacionais, Setoriais E Regionais: Política Nacional de Defesa.
+Estratégia Nacional de Defesa.
+Planejamento Estratégico Setorial de Defesa 2020-2031.
+Portfólio dos Projetos Estratégicos de Defesa 2020-2031.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não

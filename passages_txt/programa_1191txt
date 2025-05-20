@@ -1,0 +1,1451 @@
+passage: Programa Número 1191
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Entrega: 917
+Indicador: 10361
+Denominação: Contratos de crédito no âmbito do Pronaf celebrados por mulheres
+Sigla: Pronaf_Mulher
+Índice De Referência: 452394.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de contratos de crédito, custeio e investimento, no âmbito do Pronaf, celebrados por mulheres, que utilizam fonte de recursos equalizadas pelo Tesouro, bem como Fundos Constitucionais e OGU
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-MULHER = Número de contratos do Pronaf celebrados por mulheres, custeio e investimento, utilizando fontes equalizáveis, Fundos Constitucionais e OGU.
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 333
+Entrega: 910
+Indicador: 10275
+Denominação: Famílias beneficiadas em projetos de mecanização e modernização
+Sigla: PNRA-MAQ
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: famílias
+Descrição: Beneficiar projetos de assentamento/comunidade quilombola/comunidade tradicional com mecanização e modernização das áreas
+Período Ou Data A Que Se Refere: 30 de janeiro
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PNRA-MAQ = Número de famílias beneficiadas em projetos de mecanização e modernização
+Fonte De Dados Das Variáveis De Cálculo: DDA/DFQ/Incra/Relatórios Gerenciais
+Forma De Disponibilização: DDA/Incra
+Procedimento De Cálculo: Levantamento dos resultados do ano nas respectivas fontes, consolidação das informações em formulário específico no SEi, aplicação da fórmula e registro do resultado no referido formulário SEI, contendo assinatura do técnico responsável pela apuração, a Diretora da área responsável
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 331
+Entrega: 909
+Indicador: 9891
+Denominação: N° de famílias com CAFs ativos
+Sigla: NCaf
+Índice De Referência: 2800000.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Extração do sistema CAF o número de CAFs Ativos
+Período Ou Data A Que Se Refere: Junho de 2023
+Data De Divulgação/Disponibilização: 1º dia do mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CAFS-ATIVOS = somatório de cadastros da agricultura familiar ativos extraídos do sistema
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do CAF
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração do número de registros ativos na base de dados do CAF
+Limitações: - Indisponibilidade do sistema
+- Diminuição do orçamento para as políticas de incentivo a Agriculturas Familiares
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 326
+Entrega: 727
+Indicador: 10202
+Denominação: Nº de agentes de ATER formados
+Sigla: FORM-A
+Índice De Referência: 1300.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Pessoas formadas
+Descrição: Somatórios de agentes de ATER formados
+Período Ou Data A Que Se Refere: jan a dez 2022
+Data De Divulgação/Disponibilização: fevereiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: FORM-A = somatório do número de agente de ATER formados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de Gestão e relatórios de execução das parceiras
+Forma De Disponibilização: Relatórios semestrais
+Procedimento De Cálculo: Análise dos relatórios de execução.
+Limitações: Falta de painel de monitoramento das ações com informações prontamente disponíveis para consulta imediata e acesso limitado às informações contidas no sistema SGA por parte do MDA.
+Notas Explicativas: Conforme estabelecido no Contrato de Gestão da ANATER e nos normativos que regem os instrumentos de parceria DATER, todas as executoras devem apresentar relatórios semestrais e anuais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 325
+Entrega: 720
+Indicador: 10187
+Denominação: Nº de agricultores/as familiares atendidos com Assistência Técnica e Extensão Rural
+Sigla: ATER-GERAL
+Índice De Referência: 15000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Somatório do número de agricultores familiares atendidos pelo serviço de ATER: Anater + PronafA/C+ Selo Biocombustível Social+SIATER (Sistema Nacional de Assistência Técnica e Extensão Rural)+Crédito fundiário+ProforExt (rograma Nacional de Formação em ATER para Assentamentos de Reforma Agrária)
+Período Ou Data A Que Se Refere: jan a dez 2022
+Data De Divulgação/Disponibilização: fevereiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ATER-GERAL = somatório do número de agricultores familiares atendidos por serviços de ATER (Anater + PronafA/C+ Selo Biocombustível Social+SIATER+Crédito fundiário+ProforExt)
+Fonte De Dados Das Variáveis De Cálculo: SGA, SIATER, SICOR (Pronaf AC e Crédito Fundiário), SBS, ProforExt
+Forma De Disponibilização: Relatórios semestrais
+Procedimento De Cálculo: Análise dos relatórios de execução.
+Limitações: Falta de painel de monitoramento das ações com informações prontamente disponíveis para consulta imediata e acesso limitado às informações contidas no sistema SGA por parte do MDA.
+Notas Explicativas: Conforme estabelecido no Contrato de Gestão a ANATER deve apresentar relatórios de execução semestrais e anuais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Entrega: 903
+Indicador: 10343
+Denominação: Nº de agricultores familiares beneficiados por projetos de apoio à inclusão e qualificação produtiva para os arranjos produtivos de plantas medicinais, aromáticas, condimentares e fitoterápicos
+Sigla: MEDSOCIOBIO
+Índice De Referência: 5120.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de agricultores e agricultoras familiares, povos e comunidades tradicionais beneficiados por projetos de apoio à inclusão e qualificação produtiva para os arranjos produtivos de plantas medicinais, aromáticas, condimentares e fitoterápicos.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AF-MEDSOCIOBIO = Agricultores e agricultoras familiares, povos e comunidades tradicionais que atuam nos arranjos produtivos de plantas medicinais aromáticas, condimentares e fitoterápicos
+Fonte De Dados Das Variáveis De Cálculo: Transferegov e SEI
+Forma De Disponibilização: Dados sistematizados pela Coordenação-Geral de Acesso e Conservação dos Biomas, Sociobiodiversidade e Bens Comuns - CGSOCIOBIO 
+
+Os dados podem ser acessados na plataforma Transferegov.
+Procedimento De Cálculo: Soma de todos os beneficiários contemplados pelos instrumentos pactuados
+Notas Explicativas: Os números do índice de referência não representam os beneficiários apenas do ano de apuração, uma vez que as variáveis representam instrumentos celebrados com ações continuadas por mais de um ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Entrega: 740
+Indicador: 10325
+Denominação: Nº de agricultores familiares beneficiados por projetos de estruturação socioprodutiva de cadeias da sociobiodiversidade
+Sigla: PROJSOCIOBIO
+Índice De Referência: 14208.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de agricultores e agricultoras familiares, povos e comunidades tradicionais beneficiados por projetos voltados à estruturação socioprodutiva no âmbito da bioeconomia e da sociobiodiversidade.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AF-SOCIOBIO = Agricultores e agricultoras familiares, povos e comunidades tradicionais que atuam nas cadeias da sociobiodiversidade
+Fonte De Dados Das Variáveis De Cálculo: Transferegov e SEI
+Dados de execução de Projetos de Cooperação Técnica nos temas bioeconomia - SFDT/MDA
+Forma De Disponibilização: Dados sistematizados pela Coordenação-Geral de Acesso e Conservação dos Biomas, Sociobiodiversidade e Bens Comuns - CGSOCIOBIO 
+
+Parte dos dados relacionados aos projetos de bioeconomia pode ser acessada na plataforma Transferegov, quando se tratar de execução da LOA, parte pode ser disponibilizada pela equipe da SFDT/MDA quando solicitado, quando se tratar de projetos de cooperação internacional.
+Procedimento De Cálculo: Soma de todos os beneficiários contemplados pelos instrumentos pactuados
+Notas Explicativas: Os números do índice de referência não representam os beneficiários apenas do ano de apuração, uma vez que as variáveis representam instrumentos celebrados com ações continuadas por mais de um ano. 
+
+Outra informaçao importante diz respeito ao fato de 100% do público relacionado a essa entrega ser de povos e comunidades tradicionais, não fazendo sentido apontar desagregação relacionada ao público de povos e comunidades tradicionais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Entrega: 906
+Indicador: 10413
+Denominação: Nº de contratos de custeio e investimento firmados no âmbito do Pronaf para as cadeias da sociobiodiversidade
+Sigla: Pronaf Sociobio
+Índice De Referência: 2157.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Esse indicador se refere ao número de contratos de custeio firmados no âmbito do Pronaf voltados para os produtos da sociobiodiversidade.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CRÉDITO-SOCIOBIO = somatório dos número de contratos do Pronaf
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Financiamento, Proteção e Apoio à Inclusão Produtiva Familiar/ Matriz de Dados do Crédito Rural do Banco Central
+Forma De Disponibilização: Dados sistematizados pela Coordenação-Geral de Acesso e Conservação dos Biomas, Sociobiodiversidade e Bens Comuns - CGSOCIOBIO.
+
+Os dados referentes aos contratos de crédito Pronaf podem ser aessados na Matriz de Dados do Crédito Rural do Banco Central a qualquer tempo.
+Procedimento De Cálculo: Soma de todos os contratos pronaf voltados para sociobiodiversidade
+Limitações: Não há como garantir que o número de contratos para os produtos da sociobiodiversidade se amplie, porém o objetivo é realizar ações que promovam a divulgação das linhas de crédito Pronaf para o público da sociobiodiversidade, além de realizar ações de formação e apoio que visem destravar o acesso por esse público.
+Notas Explicativas: Os dados para composição deste indicador são extraídos de todas as linhas do Pronaf, com especial atenção às linhas Pronaf ABC + Floresta, ABC+ Semiárido, ABC + Agroecologia, e ABC + Bioeconomia, que são as linhas que possuem foco no dsenvolvimento sustentável.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 3368
+Indicador: 12696
+Denominação: Nº de contratos de firmados no âmbito do Pronaf A/C
+Sigla: PRONAF-AC
+Índice De Referência: 14182.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Operações de crédito voltadas especificamente para assentados da reforma agrária ou beneficiários do Programa Naciona de Crédito Fundiário
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-A/C= Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 3371
+Indicador: 12699
+Denominação: Nº de contratos de firmados no âmbito do Pronaf V
+Sigla: PRONAF V
+Índice De Referência: 775905.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de operações de crédito de agricultores familiares com perfil de renda variável
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF V= Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)	XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 2261
+Indicador: 11626
+Denominação: Nº de contratos de investimento firmados linha específica "pronaf agroecologia" somado aos microdados sobre demais operações vinculadas ao tipo de produção agroecológica ou produção de orgânicos
+Sigla: PRONAF-AGROECOLO
+Índice De Referência: 61.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: nº de contratos de investimento firmados no âmbito do Pronaf Agroecologia, que fomentam o desenvolvimento sustentável
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-AGROECOLOGIA = Número absoluto de contratos do Pronaf celebrados + microdados de demais operações com tipo de produção agroecológica ou orgância
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 2262
+Indicador: 11627
+Denominação: Nº de contratos de investimento firmados no âmbito do Pronaf Bioeconomia, que fomentam o desenvolvimento sustentável
+Sigla: PRONAF-BIOECONOM
+Índice De Referência: 15079.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: nº de contratos de investimento firmados no âmbito do Pronaf Bioeconomia, que fomentam o desenvolvimento sustentável
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-BIOECONOMIA = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 710
+Indicador: 10154
+Denominação: Nº de contratos de investimento firmados no âmbito do Pronaf Floresta, que fomentam o desenvolvimento sustentável
+Sigla: PRONAF-FLORESTA
+Índice De Referência: 4044.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: nº de contratos de investimento firmados no âmbito do Pronaf  Floresta, que fomentam o desenvolvimento sustentável
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-FLORESTA = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Entrega: 916
+Indicador: 10350
+Denominação: Nº de documentos emitidos
+Sigla: NDE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: unidade
+Descrição: número de documentos emitidos ou iniciados em mutirões
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte aos mutirões
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DOC = Documentos emitidos ou iniciados nos mutirões
+Fonte De Dados Das Variáveis De Cálculo: Relatórios dos mutirões, sob responsabilidade do Incra
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: somatório dos resultados  dos mutirões no exercício
+Limitações: Política descontinuada desde 2016.
+Política que ainda está sendo (re)estruturada. 
+Sem orçamento em 2023.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Entrega: 904
+Indicador: 10355
+Denominação: Nº de extrativistas beneficiados pela subvenção da PGPM-Bio
+Sigla: PGPM-Bio
+Índice De Referência: 9972.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de extrativistas beneficiários que receberam apoio financeiro por meio da PGPM-Bio, e busca aprofundar a compreensão da sua execução e desenvolvimento, levando em consideração o seu significativo potencial de expansão.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: EXTRATIVISTAS = extrativistas
+Fonte De Dados Das Variáveis De Cálculo: Companhia Nacional de Abastecimento/ Conab em números
+Forma De Disponibilização: O dados de acesso à PGPM-Bio estão disponibilizados para consulta pública na plantaforma Conab em Números a qualquer tempo.
+
+Os dados serão sistematizados pela Coordenação-Geral de Acesso e Conservação dos Biomas, Sociobiodiversidade e Bens Comuns - CGSOCIOBIO para compor este indicador.
+Procedimento De Cálculo: Soma de todos os beneficiários: Extrativistas da PGPM-bio.
+Limitações: Para ampliar o alcance e os benefícios da PGPMBio, é necessário superar alguns entraves.Entre eles: dificuldade de alcançar o público-alvo; falta de informações e cadastramento eficiente; informalidade na emissão de notas fiscais; e a necessidade de recursos regulares para a operacionalização da política pela Conab.
+Notas Explicativas: O histórico das informações sobre a execução da política e, também, a prévia das informações sobre o ano corrente, podem ser obtidas por meio da página 'Conab em Números': https://conabemnumeros.conab.gov.br/sisbio.html
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Entrega: 905
+Indicador: 10380
+Denominação: Nº de famílias atendidas por ATER específica voltada às cadeias da sociobiodiversidade
+Sigla: ATERSociobio
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: família
+Descrição: O indicador se refere ao número de famílias de agricultores familiares que receberam ATER específica para as cadeias da sociobioodiversidade.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ATER-SOCIOBIO = número de famílias beneficiadas por Ater específica para cadeias da sociobiodiversidade
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Assistência Técnica e Extensão Rural-SAF-MDA / Sistema Informatizado de ATER - SIATER
+Forma De Disponibilização: Dados sistematizados pela Coordenação-Geral de Acesso e Conservação dos Biomas, Sociobiodiversidade e Bens Comuns - CGSOCIOBIO.
+
+Os dados de ATER estão disponibilizados  para consulta pública no sistema SIATER a qualquer tempo.
+Procedimento De Cálculo: Soma de todos as famílias beneficiadas por ATER específica para as cadeias da sociobiodiversidade.
+Limitações: "Para compor o Índice de Referência, não há dados disponíveis de assistência técnica e extensão rural específica para as cadeias da sociobiodiversidade referentes ao ano de 2022, que foi considerado o ano de base. 
+
+Mesmo se considerarmos a única chamada de ATER específica para o público da sociobiodiversidade (Chamada Pública para a Seleção de Entidas Executoras de Assistência Técnnica e Extensão Rural em Unidades de Conservação de Uso Sustentável e Projetos de Assentamentos Agroextrativistas em Situação de Extrema Pobresa - Plano Brasil Sem Miséria nº 01/2013), não temos informações suficientes sobre a sua execução para tomarmos como base para este indicador."
+Notas Explicativas: Compete ao DATER formular e coordenar as políticas de assistência técnica e extensão rural para os agricultores familiares. Nesse caso específico a construção será realizada de forma conjunta com a CGSOCIOBIO
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 324
+Entrega: 718
+Indicador: 10176
+Denominação: Nº de famílias que tiveram o benefício Garantia-Safra autorizado, na respectiva safra
+Sigla: BGS
+Em Apuração: Sim
+Unidade De Medida: famílias atendidas
+Descrição: Número de famílias aderidas ao Garantia Safra, que tiveram seu benefício autorizado
+Período Ou Data A Que Se Refere: Ao final do pagamento dos benefícios Garantia-Safra
+Data De Divulgação/Disponibilização: Final do pagamento dos benefícios Garantia-Safra da safra implementada
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: BGS = Somatório do número de famílias aderidas que tiveram o benefício Garantia-Safra autorizado
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Gerenciais da Coordenação-Geral de Gestão de Riscos, Garantia-Safra e Seguro Rural
+Forma De Disponibilização: Relatório Gerencial Anual
+Procedimento De Cálculo: Somatório de todas famílias aderidas na safra implementada que tiverem o benefício Garantia-Safra autorizado, posterior análise de verificação de perdas - conforme regulamentação vigente.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Entrega: 915
+Indicador: 10340
+Denominação: Nº de mulheres atendidas pela Ater específica
+Sigla: NMAter
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Número de mulheres atendidas por ATER
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MULHERES-ATER = mulheres atendidas por ater específica
+Fonte De Dados Das Variáveis De Cálculo: SIATER
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: somatório do número de mulheres atendidas por ATER específica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Entrega: 2252
+Indicador: 11616
+Denominação: Nº de mulheres beneficiárias de projetos de estruturação de apoio a organização produtiva
+Sigla: Organiz_Mulher
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Número de mulheres beneficiárias de projetos apoiado com recursos da União por meio de parceria com ógãos públicos, e/ou colaboração com organizações da sociedade civil visando a organização produtiva.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: fevereiro do ano seguite a formalização de acordos de parcerias
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ORGANIZAÇÕES-MULHER = somatório de mulheres atendidas por instrumentos de parceria formalizados com órgãos públicos e/ou organizações da sociedade civil
+Fonte De Dados Das Variáveis De Cálculo: Relatórios dos projetos apoiados
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: somatório do número de mulheres beneficiárias nos projetos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Entrega: 2251
+Indicador: 11615
+Denominação: Nº de mulheres beneficiárias de projetos de estruturação de quintais apoiados
+Sigla: Quintais_Mulher
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Número de mulheres beneficiárias de projetos apoiado com recursos da União por meio de parceria com ógãos públicos, e/ou colaboração com organizações da sociedade civil visando a estruturação de quintais produtivos.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: fevereiro do ano seguite a formalização de acordos de parcerias
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: QUINTAIS-MULHER = somatório de mulheres atendidas por instrumentos de parceria formalizados com órgãos públicos e/ou organizações da sociedade civil
+Fonte De Dados Das Variáveis De Cálculo: Relatórios dos projetos apoiados
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: somatório do número de mulheres beneficiárias nos projetos
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 327
+Entrega: 733
+Indicador: 10313
+Denominação: Nº de projetos apoiados por ações de ensino, pesquisa, extensão, ciência e inovação para a transição agroecológica
+Sigla: INOVA-AÇÃO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Refere-se ao número de projetos de ensino, pesquisa, extensão, ciência e inovação apoiados com recursos do MDA.
+Período Ou Data A Que Se Refere: Ano/Exercício anterior
+Data De Divulgação/Disponibilização: Até 1º de março de cada ano
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: INOVA-AÇÃO = Projetos de iniciativas de extensão universitária apoiadas pelo MDA
+Fonte De Dados Das Variáveis De Cálculo: Transferegov
+Forma De Disponibilização: Painel MDA
+Procedimento De Cálculo: Consultar os dados no Transferegov, tratar os dados, consolidar os resultados e aplicar a fórmula.
+Limitações: Dependência externa (responsáveis pela execução dos projetos) para informação atualizada dos dados de execução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 330
+Entrega: 907
+Indicador: 10544
+Denominação: Número de agricultores e agricultoras familiares atendidos por instrumentos de inclusão sócio produtiva
+Sigla: Inova-Inclusão
+Índice De Referência: 20000.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Somatório de agricultores e agricultoras familiares atendidos por instrumentos de inclusão sócio produtiva rural
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Até 31 de janeiro de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: INCLUSÃO = Somatório de agricultores e agricultoras familiares atendidos por instrumentos de de inclusão sócio produtiva
+Fonte De Dados Das Variáveis De Cálculo: PDHC + Famílias atendidas no Edital Da Terra à Mesa Semiárido
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: Consultar o bases de dados do PDHC, relatórios dos Editais Da Terra à Mesa Semiárido, tratar os dados, aplicar a fórmula e consolidar os resultados.
+Limitações: Considerando o alto volume de demanda, há que se avaliar a capacidade e disponibilidade de técnicos em quantidade suficiente para prover os serviços de ATER previstos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 333
+Entrega: 913
+Indicador: 10318
+Denominação: Número de agricultores e agricultoras familiares beneficiados com aquisição destes investimentos
+Sigla: MAQ-ENTREGUE
+Índice De Referência: 7000.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: soma dos beneficiários que serão favorecidos com a aquisição dos investimentos.
+Período Ou Data A Que Se Refere: ano
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MAQ-ENTREGUE = soma dos beneficiários que serão favorecidos com a aquisição de equipamentos, maquinas agricolas de pequeno porte, insumos,entre outros (com origem em recursos de emendas parlamentares e ações discricionárias (Termo de Execução Descentralizada - TED e Convênios)
+Fonte De Dados Das Variáveis De Cálculo: SFDT/MDA
+Forma De Disponibilização: resultados dos instrumentos celebrados para realizar cada variável
+Procedimento De Cálculo: somatório do resultado das variáveis: Máquinas adaptadas com origem em recursos de Emendas Parlamentares+Ações Discricionárias (TED, Convênio)
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 333
+Entrega: 912
+Indicador: 10311
+Denominação: Número de agricultores e agricultoras familiares beneficiados com tecnologias sociais
+Sigla: TECSOC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: soma dos beneficiários das tecnologias adquiridas e implementadas
+Período Ou Data A Que Se Refere: ano
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TECSOC = soma dos beneficiários das tecnologias adquiridas e implementadas (EX: biodigestores, fogões agroecológicos, Sisteminha Embrapa, SARA/Insa, Sistemas de filtragem de água, entre outros.)
+Fonte De Dados Das Variáveis De Cálculo: SFDT/MDA
+Forma De Disponibilização: resultados dos instrumentos celebrados para realizar cada variável
+Procedimento De Cálculo: somatório do resultado das variáveis
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 715
+Indicador: 10160
+Denominação: Número de contratos de crédito de custeio no âmbito do Pronaf para a produção de alimentos
+Sigla: Pronaf_cust
+Índice De Referência: 75749.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de contratos de crédito de custeio no âmbito do Pronaf para a produção de alimentos.
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-CUST = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 330
+Entrega: 908
+Indicador: 10752
+Denominação: Número de contratos de crédito no âmbito do Pronaf de Microcrédito Produtivo Rural (Grupo "B")
+Sigla: Pronaf_b
+Índice De Referência: 692702.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de contratos de crédito no âmbito do Pronaf de Microcrédito Produtivo Rural (Grupo "B")
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-B = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: PRONAF-B = Número absoluto de contratos do Pronaf celebrados
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Entrega: 2260
+Indicador: 11625
+Denominação: Número de contratos de crédito no âmbito do Pronaf Semiárido, que fomentam o desenvolvimento sustentável
+Sigla: PRONAF-SEMIÁRIDO
+Índice De Referência: 21532.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: nº de contratos de investimento firmados no âmbito do Pronaf  Semiárido, que fomentam o desenvolvimento sustentável
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-SEMIÁRIDO = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 333
+Entrega: 911
+Indicador: 10283
+Denominação: Número de contratos no âmbito do Pronaf Mais Alimentos
+Sigla: Pronaf_MAQ
+Índice De Referência: 61033.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Somatório do número de contratos no âmbito do Pronaf Mais Alimentos
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF-MAQ = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Número de contratos de crédito no âmbito do Pronaf que permitem a aquisição de veículos de carga, máquinas, equipamentos e implementos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 327
+Entrega: 735
+Indicador: 10267
+Denominação: Número de famílias apoiadas em projetos e ações de inovação, capacitação e formação na área de agroecologia e transição agroecológica
+Sigla: INOVA-ALIMENTOS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Refere-se ao número de famílias apoiadas em projetos e iniciativas de transição agroecológica que envolvam atividades de capacitação, práticas de transição agroecológica, comercialização de alimentos e produtos agroecológicos, atividades de promoção da agricultura familiar e transição agroecológica, entre outros, apoiadas com recursos do MDA.
+Período Ou Data A Que Se Refere: Ano/Exercício anterior
+Data De Divulgação/Disponibilização: Até 1º de março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AGROECO-FAMÍLIAS= famílias apoiadas em projetos de iniciativas metodológicas de transição agroecológica apoiados pelo MDA
+Fonte De Dados Das Variáveis De Cálculo: Transferegov e cadastros específicos
+Forma De Disponibilização: Relatórios anuais
+Procedimento De Cálculo: Consultar os dados no Transferegov e cadastros específicos, tratar os dados, consolidar os resultados e aplicar a fórmula.
+Limitações: Dependência externa (responsáveis pela execução dos projetos) para informação atualizada dos dados de execução.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 325
+Entrega: 726
+Indicador: 10193
+Denominação: Número de famílias do Programa Nacional de Reforma Agrária - PNRA atendidos por assistência técnica e extensão rural específica
+Sigla: ATER-PNRA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: famílias atendidas
+Descrição: Somatório do número de famílias atendidas pelo serviço de ATER
+Período Ou Data A Que Se Refere: 31 de dezembro
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ATER-PNRA = Somatório de famílias atendidas
+Fonte De Dados Das Variáveis De Cálculo: DDA/Incra/Relatórios Gerenciais
+Forma De Disponibilização: Relatórios Anuais do incra
+Procedimento De Cálculo: Consultar dados dos relatórios gerenciais e  consolidar  os resultados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Entrega: 914
+Indicador: 10330
+Denominação: Número de mulheres comercializando no PAA
+Sigla: PMPaa
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Número de mulheres comercializando no PAA
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAA-M - Mulheres que vendem pro PAA
+Fonte De Dados Das Variáveis De Cálculo: Conab e MDS
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: somatório de mulheres que venderam para o PAA em todas as modalidades.
+Limitações: Política descontinuada desde 2016.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1191
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 331
+Indicador: 10050
+Denominação: % de CAF no total de estabelecimentos rurais
+Sigla: ICcaf
+Índice De Referência: 0.725
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual %
+Descrição: Proporção de estabelecimentos agropecuários da agricultura familiar identificados pelo censo agropecuário 2017 e do número de Unidades familiares de produção agrária com registro ativo no CAF.
+Período Ou Data A Que Se Refere: junho de 2023
+Data De Divulgação/Disponibilização: 1º dia do mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "ICCaf = índice de cobertura do CAF
+
+NCaf = Nº de Unidades Familiares de Produção Agrária (UFPAs) com CAF Ativos  
+
+Naf = Nº de estabelecimentos da agricultura familiar conforme o Censo Agropecuário 2017"
+Fonte De Dados Das Variáveis De Cálculo: "NCaf - MDA/SAF, Base de dados do CAF
+
+NAf - IBGE, Censo Agropecuário 2017"
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Indicador obtido através da divisão do número de unidades familiares de produção agrária com CAF ativo e o número de estabelecimentos agropecuários da agricultura familiar, conforme o Censo Agropecuário 2017.
+Limitações: Fonte de dados do denominador é externa ao MDA. 
+Novo censo pode alterar as Metas para os próximos anos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 326
+Indicador: 10197
+Denominação: Nº de agentes de ATER formados
+Sigla: FORMAÇÃO
+Índice De Referência: 1300.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: Pessoas formadas
+Descrição: Refere-se ao número de agentes de ATER que participaram de atividades de formação ou capacitação técnica e/ou profissional
+Período Ou Data A Que Se Refere: Exercício anterior
+Data De Divulgação/Disponibilização: Até 1º de março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: FORMAÇÃO = Somatório do número de agentes de ATER que participaram de atividades de formação ou capacitação técnica e/ou profissional
+Fonte De Dados Das Variáveis De Cálculo: Atividades de formação e capacitação realizadas nos instrumentos celebrados: Convênios, TEDs e Contrato de Gestão
+Forma De Disponibilização: Relatório Semestral e Anual.
+Procedimento De Cálculo: Levantamento de informações junto aos instrumentos de formação e capacitação executados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Indicador: 10086
+Denominação: Nº de agricultores(as) familiares, povos e comunidades tradicionais beneficiados por estruturação socioprodutiva de cadeias da sociobiodiversidade e de plantas medicinais, aromáticas e condimentares
+Sigla: Bioeconomia
+Índice De Referência: 29300.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Este indicador se refere ao número de agricultores e agricultoras familiares, povos e comunidades tradicionais beneficiados por ações e projetos de estruturação socioprodutiva de cadeias da sociobiodiversidade e de plantas medicinais, aromáticas e condimentares, considerando os que receberam ATER específica para as cadeias da sociobiodiversidade, mais os beneficiados pela Política de Garantia de Preços Mínimos para Produtos da Sociobiodiversidade - PGPM-Bio, mais os beneficiados por projetos de Bioeconomia.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ATER-CS = nº de agricultores e agricultoras familiares, povos e comunidades tradicionais beneficiados por ATER específica para cadeias da sociobiodiversidade
+
+PGPM-BIO = nº de agricultores e agricultoras familiares, povos e comunidades tradicionais beneficiados pela PGPM-Bio
+
+PROJ-BIOECONOMIA = nº de agricultores e agricultoras familiares, povos e comunidades tradicionais beneficiados por projetos de Bioeconomia
+Fonte De Dados Das Variáveis De Cálculo: Sistema Informatizado de ATER - SIATER
+
+Conab em Números - https://conabemnumeros.conab.gov.br/sisbio.html
+
+Transferegov e SEI - SFDT/MDA
+
+Dados de execução de Projetos de Cooperação Técnica nos temas bioeconomia - SFDT/MDA
+Forma De Disponibilização: Os dados de ATER estão disponibilizados  para consulta pública no sistema SIATER a qualquer tempo.
+
+O dados de acesso à PGPM-Bio estão disponibilizados para consulta pública na plataforma Conab em Números a qualquer tempo.
+
+Parte dos dados relacionados aos projetos de bioeconomia pode ser acessada na plataforma Transferegov, quando se tratar de execução da LOA, parte pode ser disponibilizada pela equipe da SFDT/MDA quando solicitado, quando se tratar de projetos de cooperação internacional.
+Procedimento De Cálculo: Soma de todos os beneficiários que receberam ATER específica para cadeias da sociobiodiversidade, mais os que acessaram PGPM-Bio, mais os que foram atendidos pelos projetos de Bioeconomia.
+Limitações: Para compor o Índice de Referência, não há dados disponíveis de assistência técnica e extensão rural específica para as cadeias da sociobiodiversidade para o ano de 2022, que foi considerado o ano de base. Considerou-se então que o valor é 0 para essa variável. As demais variáveis possuem dados referentes ao ano de 2022.
+Notas Explicativas: Os números do índice de referência não representam os beneficiários apenas do ano de apuração, uma vez que as variáveis representam instrumentos celebrados com ações continuadas por mais de um ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 330
+Indicador: 10532
+Denominação: Nº de agricultores e agricultoras familiares em situação de extrema pobreza e pobreza beneficiados por projetos de estruturação produtiva
+Sigla: INCLUSÃO
+Índice De Referência: 712702.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: Somatório dos agricultores e agricultoras familiares beneficiados pelos instrumentos de inclusão produtiva celebrados.
+Período Ou Data A Que Se Refere: 2019-2022
+Data De Divulgação/Disponibilização: fevereiro/23
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: INCLUSÃO-PRODUTIVA = somatório dos agricultores/as beneficiados com:
+• Quintais produtivos - 
+• Transferência de tecnologia - 
+• Sementes e Mudas - 
+• Capacitação e assistência técnica
+• Projetos produtivos com fomento
+• Estruturação da cadeia curta de comercialização
+• Unidades de referência técnológicas
+• Campos de multiplicação de Palma Forrageira e outras culturas
+• crédito no âmbito do Pronaf de Microcrédito Produtivo Rural (Grupo B)
+• Outros (a serem descritos oportunamente)
+Fonte De Dados Das Variáveis De Cálculo: SFDT/MDA, Sistema SGA ANATER, Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: resultados dos TEDs celebrados para realizar cada variável
+Procedimento De Cálculo: somatório do resultado das variáveis
+Notas Explicativas: Os números do índice de referência não representam os beneficiários apenas do ano de apuração, uma vez que as variáveis representam instrumentos celebrados com ações continuadas por mais de um ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 333
+Indicador: 10805
+Denominação: Nº de contratos no âmbito do Pronaf Mais Alimentos
+Sigla: MÁQUINAS
+Índice De Referência: 61033.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Somatório do número de contratos no âmbito do Pronaf Mais Alimentos
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MÁQUINAS = Número absoluto de contratos do Pronaf celebrados
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Número de contratos de crédito no âmbito do Pronaf que permitem a aquisição de veículos de carga, máquinas, equipamentos e implementos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 325
+Indicador: 10182
+Denominação: Nº de famílias de agricultores (as) familiares beneficiadas com assistência técnica e extensão rural
+Sigla: ATER
+Índice De Referência: 15000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: famílias atendidas
+Descrição: Refere-se ao número de famílias que receberam Assistência Técnica e Extensão Rural (ATER), a partir dos projetos contratados pela Anater, por meio de chamadas públicas ou instrumento específico de parceria junto aos órgãos oficiais de ATER em 2022.
+Período Ou Data A Que Se Refere: ano anterior ou corrente
+Data De Divulgação/Disponibilização: janeiro e julho
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ATER = somatório do número de agricultores/as familiares atendidos por serviços de ATER (Anater + PronafA/C+ SBS + SIATER + Crédito fundiário + ProforExt
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de ATER da ANATER (SGA). SIATER. SICOR
+Forma De Disponibilização: Relatório Semestral e Anual.
+Procedimento De Cálculo: Soma dos beneficiários que recebram ATER: Anater + PronafA+ SBS+SIATER+Crédito fundiário+ProforExt
+Limitações: Falta de painel de monitoramento das ações com informações prontamente disponíveis para consulta imediata e acesso limitado às informações contidas no sistema SGA por parte do MDA.
+Notas Explicativas: Conforme estabelecido no Contrato de Gestão a ANATER deve apresentar relatórios de execução semestrais e anuais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Indicador: 10322
+Denominação: Nº de mulheres rurais beneficiadas por políticas públicas para fortalecimento da autonomia econômica e produtiva
+Sigla: MPP
+Índice De Referência: 452394.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: somatório de mulheres rurais beneficiadas por políticas públicas para fortalecimento da autonomia econômica e produtiva
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao da realizações das ações
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PMPaa = Mulheres que vendem pro PAA 
+
+NMAter = mulheres atendidas por ater específica
+
+NDE = Documentos emitidos ou iniciados nos mutirões
+
+Pronaf_Mulher = Número de contratos do Pronaf celebrados por mulheres, custeio e investimento, utilizando fontes equalizáveis, Fundos Constitucionais e OGU.
+
+Quintais_Mulher = somatório de mulheres atendidas por instrumentos de parceria formalizados com órgãos públicos e/ou organizações da sociedade civil
+
+Organiz_Mulher = somatório de mulheres atendidas por instrumentos de parceria formalizados com órgãos públicos e/ou organizações da sociedade civil
+Fonte De Dados Das Variáveis De Cálculo: SIATER
+
+Relatórios dos Mutirões
+
+MDS e Conab
+
+Agências financeiras
+
+Relatórios gerenciais
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: somatório de mulheres rurais beneficiadas por políticas públicas para fortalecimento da autonomia econômica e produtiva descritas nas varíáveis
+Limitações: Necessidade de atualização dos dados dos territórios em decorrência da descontinuidade das políticas públicas específicas para mulheres desde 2016.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 327
+Indicador: 10241
+Denominação: Número de famílias beneficiadas em ações de inovação para a produção familiar e transição agroecológica
+Sigla: Inova Agroecolog
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: famílias atendidas
+Descrição: Refere-se ao número de famílias apoiadas em projetos e iniciativas congêneres de transição agroecológica que envolvam atividades de capacitação, práticas de transição agroecológica, comercialização de alimentos e produtos agroecológicos, atividades de promoção da agricultura familiar e transição agroecológica, extensão universitária, entre outras.
+Período Ou Data A Que Se Refere: Exercício anterior
+Data De Divulgação/Disponibilização: Até 1º de março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Famílias apoiadas em ações de inovação para produção familiar e transição agroecológica
+Fonte De Dados Das Variáveis De Cálculo: Transferegov; Cadastros específicos.
+Forma De Disponibilização: Painel MDA
+Procedimento De Cálculo: Levantamento de dados nas fontes correspondentes; tratamento e organização dos dados; consolidação dos resultados, aplicação da fórmula e registro dos resultados do Indicador em formulário próprio no sistema eletrônico de informações - SEI .
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Indicador: 10136
+Denominação: Número total de contratos celebrados no âmbito do Pronaf
+Sigla: Contratos
+Índice De Referência: 1570352.0
+Em Apuração: Não
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: unidade
+Descrição: número total de contratos do PRONAF registrados pelos agentes financeiros no sistema SICOR e disponibilzado para consulta na Matriz de Dados do Crédito Rural do Banco Central do Brasil
+Período Ou Data A Que Se Refere: Ano Civil
+Data De Divulgação/Disponibilização: Primeiros 5 dias úteis do ano civil
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRONAF total = Número absoluto de contratos do Pronaf celebrados no ano
+Fonte De Dados Das Variáveis De Cálculo: Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro)
+Forma De Disponibilização: XLS/CSV
+Procedimento De Cálculo: Extração de Dados em consulta à Matriz de Dados do Crédito Rural do Banco Central do Brasil (1° de janeiro a 31 de dezembro) na Olinda - Plataforma Ágil de Serviços de Dados
+Limitações: Não é possível extrair o número de exato de mutuários ou famílias beneficiadas, pois cada mutuário pode obter mais de um contrato por safra.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 324
+Indicador: 10172
+Denominação: Proporção de famílias aderidas em relação a cotas disponibilizadas
+Sigla: AFGS
+Índice De Referência: 0.8
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Relação entre a quantidade de famílias aderidas ao Garantia-Safra e as cotas disponibilizadas pelo MDA para viabilizar a execução desta política pública
+Período Ou Data A Que Se Refere: Período da Safra Implementada (Novembro de um ano a junho do ano subsequente)
+Data De Divulgação/Disponibilização: Final da safra (normalmente no mês de junho de cada ano)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFGS = percentual entre a quantidade de famílias aderidas ao Garantia-Safra e as cotas disponibilizadas pelo MDA para viabilizar a execução desta política pública
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de Gestão encaminhados pela Caixa Econômica Federal e relatórios internos
+Forma De Disponibilização: Relatório Anual
+Procedimento De Cálculo: Percentual entre a quantidade de famílias aderidas ao Garantia-Safra e as cotas disponibilizadas pelo MDA para viabilizar a execução desta política pública
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1191
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 321
+Enunciado: Aperfeiçoar o crédito rural, com foco na produção de alimentos, agroecologia e sociobiodiversidade.
+Descrição: É papel do MDA contribuir para o aperfeiçoamento e adequação do crédito rural Pronaf para suprir as necessidades e anseios dos Agricultores Familiares contemplados pela Lei Federal n.º 11.326, de 24 de julho de 2006.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 324
+Enunciado: Garantia-Safra - Assegurar aos agricultores familiares garantia de proteção da produção em decorrência de perda de safra
+Descrição: Promover a garantia de condições mínimas de sobrevivência aos agricultores familiares de Municípios sistematicamente sujeitos a perda de safra por razão do fenômeno da estiagem ou excesso hídrico.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 325
+Enunciado: Promover o acesso a serviços de ATER para agricultores familiares em consonância com os princípios da PNATER e em conformidade com as demandas prioritárias e as políticas estratégicas para Agricultura Familiar, como inclusão produtiva, agroecologia, autonomia econômica e de produção, pecuária familiar e outras
+Descrição: Viabilizar o acesso dos agricultores familiares aos serviços de ATER em consonância com os princípios da PNATER e em conformidade com as demandas prioritárias e as políticas estratégicas para Agricultura Familiar.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 326
+Enunciado: Promover a formação de agentes de ATER, proporcionando atualização de conhecimentos e aprimoramento das diferentes abordagens, métodos e metodologias, para qualificar os serviços ofertados em conformidade com os princípios e diretrizes da Pnater.
+Descrição: Realizar a formação e capacitação técnica e profissional de agentes de Ater visando ampliar, atualizar e aprofundar conhecimentos em políticas públicas, inovações tecnológicas, metodologias e abordagens de ATER.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 327
+Enunciado: Promover ações de inovação destinadas à agroecologia e à transição agroecológica
+Descrição: Este objetivo propõe-se ao estímulo a projetos, ações e outras iniciativas destinadas ao fortalecimento da agroecologia e de processos de transição agroecológica, incluindo a redução do uso de agrotóxicos e adubos químicos solúveis, ampliação do uso de bioinsumos, complexificação do agroecossistema voltados para a comercialização em circuitos curtos, através de associações, cooperativas e mercados institucionais.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 328
+Enunciado: Promover a bioeconomia na agricultura familiar de forma inclusiva, com ênfase no uso sustentável dos recursos da sociobiodiversidade
+Descrição: Este objetivo tem como foco a promoção de um modelo econômico sustentável, a partir do apoio à estruturação de arranjos produtivos baseados no uso da sociobiodiversidade, de plantas medicinais, aromáticas e condimentares, a partir de processos transformadores e inovadores que visam o acesso aos mercados, a geração de renda e a melhoria da qualidade para agricultores familiares, povo e comunidades tradicionais.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 330
+Enunciado: Fomentar a inclusão produtiva de agricultores e agricultoras familiares em situação de pobreza e extrema pobreza
+Descrição: Este objetivo tem como foco fomentar e implementar ações e projetos de inclusão produtiva e outros voltados à superação da pobreza rural e da insegurança alimentar e nutricional na agricultura familiar, bem como das desigualdades de gênero, geração e étnico-raciais.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 331
+Enunciado: Promover a inclusão do público no Cadastro da Agricultura Familiar - CAF
+Descrição: O Cadastro Nacional da Agricultura Familiar (CAF) é o instrumento utilizado para identificar e qualificar o público beneficiário previsto na Lei nº 11.326/2006. Com a inscrição ativa no CAF, o público beneficário tem acesso qualificado a programas e ações destinados ao fortalecimento da agricultura familiar.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 333
+Enunciado: Ampliar o acesso dos agricultores e agricultoras familiares a máquinas, equipamentos e implementos agrícolas e agroindustriais
+Descrição: Este objetivo trata das ações para apoiar o público da agricultura familiar a acessar ou fazer uso de máquinas, equipamentos e implementos agrícolas e agroindustriais
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Objetivo Específico: 334
+Enunciado: Fortalecer a autonomia econômica e produtiva de mulheres rurais
+Descrição: Este objetivo refere-se a uma série de ações estratégicas destinadas a garantir que as mulheres rurais tenham dignidade, habilidades, recursos, oportunidades e poder de decisão necessário para se tornarem economicamente independentes e produtivas.
+Órgão: 49000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 1191
+
+Exercício: 2025
+Programa: 1191
+Objetivo: 1328
+Enunciado: Fortalecer a agricultura familiar em sua diversidade e a agroecologia, promovendo a produção de alimentos, a inclusão socioeconômica, a redução das desigualdades, a segurança alimentar e nutricional e a mitigação e adaptação às mudanças climáticas
+Descrição: Para fortalecer a agricultura familiar em sua diversidade e promover a agroecologia, será adotada uma abordagem abrangente que englobe diversas ações, como a implementação de políticas públicas integradas, o que envolve a criação de programas e ações que abordem simultaneamente a produção de alimentos saudáveis, a inclusão socioeconômica dos/as agricultores/as familiares, a redução das desigualdades no campo, a segurança alimentar e nutricional da população e a adaptação às mudanças climáticas. 
+
+Serão promovidas ações de acesso a recursos  essenciais, como terra, água, sementes crioulas, insumos agroecológicos e crédito adequado, especialmente para agricultores/as familiares de baixa renda e grupos vulneráveis. Além disso, objetiva-se promover a Assistência técnica e extensão rural para capacitação, essencial para fortalecer suas práticas agroecológicas. Nesse sentido, serão feitos investimentos na formação de agentes e extensionistas, na disseminação de conhecimentos e tecnologias agroecológicas e no estabelecimento de canais de comunicação efetivos entre especialistas e agricultores/as. Outra ação importante é a de pesquisa e inovação, necessárias para o desenvolvimento de técnicas, práticas e tecnologias apropriadas à agricultura familiar. É importante promover a colaboração entre instituições de pesquisa, agricultores familiares e organizações da sociedade civil para impulsionar a geração e a disseminação de conhecimentos agroecológicos e de tecnologias adaptadas.
+
+A concessão de incentivos fiscais e financeiros específicos como isenções fiscais, linhas de crédito com juros subsidiados, programas de financiamento e seguro agrícola são exemplos de medidas que serão adotadas para apoiar os/as agricultores/as familiares.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1191
+
+Exercício: 2025
+Programa: 1191
+Título: Agricultura Familiar e Agroecologia
+Tipo: Finalístico
+Órgão: 49000.0
+Público-Alvo: - Agricultor familiar, pescador e aquicultor;
+- Extrativistas, assentados da reforma agrária, irrigantes, povos e comunidades tradicionais e população ribeirinha;
+- Centros de pesquisa, universidades;
+- Secretarias Estaduais e municipais de agricultura, organizações sociais, sindicatos, associações e cooperativas;
+- Mulheres rurais.
+Descrição Do Problema: - Pobreza rural;
+- Inflação de alimentos;
+- Uso intensivo de agrotóxicos na produção de alimentos;
+- Baixa capacidade de produção;
+- Insuficiência de instrumentos de financiamento e proteção da produção;
+- Necessidade de conhecimento técnico;
+- Ausência de documentação para acesso a políticas públicas;
+- Necessidade de máquinas e equipamentos para aumento da produtividade;
+- Desigualdades econômicas e sociais que dificultam o desenvolvimento produtivo das mulheres.
+Causa Do Problema: - Necessidade de instrumentos de financiamento e proteção da produção
+- Insuficiência de acesso a Ater (Assistência Técnica e Extensão Rural);
+- Uso intensivo de agrotóxicos na produção de alimentos;
+- Alta vulnerabilidade da produção à mudança do clima;
+- Perda de recursos naturais produtivos, biodiversidade e de recursos genéticos para a alimentação e agricultura;
+- Insuficiência da capacidade produtiva da agricultura familiar 
+- a concentração do trabalho domestico e de cuidados e as desigualdades no acesso às políticas limitam a capacidade produtiva e econômica das mulheres
+Evidências Do Problema: Historicamente, no Brasil, a agricultura familiar contou com uma oferta escassa de políticas públicas diferenciadas para atender às suas especificidades. Mesmo quando no âmbito da ação pública a agricultura familiar era considerada, não se tomavam em conta as desigualdades existentes no interior das unidades de produção familiar e coletiva. O potencial econômico do setor não era devidamente reconhecido, apesar do seu papel relevante para o desenvolvimento sustentável do País.
+A modernização tecnológica decorrente da “revolução verde” iniciada na década de 1960 não significou, necessariamente, melhoria nas condições de trabalho e de renda das populações rurais brasileiras.
+
+O modelo econômico e agrícola preconizado pela “revolução verde” resultou em um quadro de:
+• Preços agrícolas em queda;
+• Concentração da produção em poucos produtos, principalmente commodities para exportação;
+• Endividamento crescente de praticamente todos os segmentos produtivos do setor agropecuário;
+• Depreciação patrimonial e crise de setores importantes da agricultura;
+• Internacionalização dos setores a jusante e a montante da agricultura brasileira, aumentando a vulnerabilidade externa do País;
+• Agravamento da concentração fundiária;
+• Empobrecimento dos agricultores, especialmente no setor da agricultura familiar;
+• Masculinização do mundo rural, gestão econômica e acesso aos recursos naturais centradas na figura do “chefe da família”, em um cenário marcado pela forte segmentação de atividades econômicas e concentração das mulheres em atividades não remuneradas, persistência da distribuição desigual do trabalho de reprodução e manutenção da vida; manutenção das condições de dependêcia econômica e ampliação da violência contra as mulheres;
+• Migração da juventude rural para a cidade; e
+• Aprofundamento da exclusão dos povos e comunidades tradicionais, com perda da identidade rural.
+
+Tornou-se necessário atuar no sentido de promover um modelo de desenvolvimento rural que oferecesse melhores condições de vida à população rural e, ao mesmo tempo, qualificasse a produção de modo a permitir um ciclo sustentável de desenvolvimento do País.
+Justificativa Para A Intervenção: Iniciativas de fortalecimento da capacidade produtiva da agricultura familiar e aumento da produção de alimentos saudáveis enfrenta os problemas da fome, insegurança alimentar e nutricional e pobreza rural, promovendo o aumento de renda e qualidade de vida de agricultores familiares e da sociedade brasileira, ao consumir produtos advindos de uma produção mais sustentável
+Evolução Histórica: O Censo Agropecuário de 2017 mostrou que a Agricultura familiar está presente em cerca de 3,9 milhões de estabelecimentos, representando 77% dos estabelecimentos totais. O número de estabelecimentos familiares teve aumento continuado em sua participação no total dos estabelecimentos desde 1996, passando de 85,17% do total para 91,42%, em 2017. A participação no valor bruto da produção (VBP) pelos agricultores familiares, entretanto, vem caindo paulatinamente desde 1996, com uma forte queda experimentada entre 2006 e 2017, que viu sua importância reduzida a 28,24% do total produzido no Brasil. Houve, entre 2006 e 2017,  aumento da participação percentual na pecuária de corte por parte dos agricultores familiares; Involução na participação da agricultura familiar nos produtos típicos desse setor: feijão e arroz. A diminuição da produção tem como determinante a inserção do Brasil nas cadeias globais de commodities com produtos de maior segurança para o produtor como soja e milho, enquanto feijão é dependente do mercado interno. Em 2006, a participação dos estabelecimentos agropecuários de Agricultura Familiar com maquinários representava 12%. Esse percentual chegou a apenas 18% em 2017. Já os estabelecimentos da agricultura não familiar chegaram a 49%.
+Comparações Internacionais: Apesar dos importantes avanços na redução da pobreza lograda nas décadas recentes, estima-se que parte das mulheres e homens que vivem nas zonas rurais da América Latina e do Caribe continua vivendo na pobreza e cerca de 30% em pobreza extrema. A maior parte da população rural da região depende economicamente da agricultura (cultivos, animais, bosques, pesca e acuicultura) e normalmente trabalha em unidades familiares. Por isso, a agricultura familiar ocupa um papel fundamental na economia e no emprego rural, contribuindo também para a segurança alimentar e nutricional dos países, o seu desenvolvimento territorial e os esforços regionais para erradicar a fome. 
+
+O papel da agricultura familiar para a segurança alimentar e nutricional e para a erradicação da pobreza no mundo tem sido reconhecido internacionalmente. Existem vários fóruns, congressos e espaços de discussão internacional que abordam a agricultura familiar. Esses eventos reúnem especialistas, pesquisadores, representantes governamentais, organizações não governamentais e agricultores familiares de diferentes países para compartilhar conhecimentos, experiências e discutir políticas e práticas relacionadas à agricultura familiar. Por exemplo a Reunião Especializada de Agricultura Familiar (REAF) é um espaço de diálogo e cooperação entre os países da América Latina e do Caribe para discutir questões relacionadas à agricultura familiar na região. Foi criada em 2004, no âmbito do Instituto Interamericano de Cooperação para a Agricultura (IICA), com o objetivo de promover o desenvolvimento e a sustentabilidade da agricultura familiar.
+
+O principal documento normativo relacionado à agricultura familiar é a Declaração das Nações Unidas sobre os Direitos dos Agricultores e das Trabalhadoras e Trabalhadores Rurais, adotada pela Assembleia Geral das Nações Unidas em 2018. Essa declaração reconhece os direitos específicos dos agricultores familiares, incluindo o direito à terra, à água, a recursos naturais, à segurança alimentar, ao desenvolvimento rural sustentável, à participação política e à preservação de conhecimentos tradicionais.
+
+A agroecologia é uma abordagem sustentável da agricultura que se baseia nos princípios ecológicos e sociais para promover a produção de alimentos saudáveis, a conservação dos recursos naturais e a equidade social. A Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) desenvolveu diretrizes para a agroecologia que fornecem orientações para políticas públicas, programas e práticas agrícolas. Essas diretrizes promovem a transição agroecológica, destacando a importância da biodiversidade, do manejo sustentável do solo, do uso eficiente da água e da diversificação de culturas.
+
+No Brasil, existe uma diversidade de iniciativas, políticas e programas voltados para promover a agroecologia, como a Política Nacional de Agroecologia e Produção Orgânica (PNAPO), o Programa Nacional de Agroecologia e Produção Orgânica (PRONARA), a Certificação Orgânica. Alguns países tiveram iniciativas similares, criando ações para promoção da agroecologia, como México, Equador, Argentina, França, Alemanha, Noruega. Em nível internacional, vale citar a Iniciativa Global de Agroecologia (GIA) e o Fórum Global sobre Agroecologia e Alimentação Sustentável.
+
+A PNAPO tem sido fundamental no fortalecimento da agricultura familiar no Brasil, oferecendo financiamento e assistência técnica e extensão rural para projetos agroecológicos, promovendo a transição para práticas sustentáveis de agricultura e pecuária. Isso tem contribuído para aumentar a renda e a qualidade de vida de agricultores/as familiares.
+Relação Com Os Ods: ODS 1 - Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 4 – Assegurar a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.
+ODS 5 - Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.
+ODS 6 - Assegurar a disponibilidade e gestão sustentável da água e saneamento para todos.
+ODS 7 - Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos.
+ODS 8 - Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
+ODS 10 - Reduzir a desigualdade dentro dos países e entre eles.
+ODS 11 – Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.
+ODS 12 - Assegurar padrões de produção e de consumo sustentáveis.
+ODS 13 - Tomar medidas urgentes para combater a mudança climática e seus impactos,
+ODS 15 - Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a
+desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+ODS 16 - Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir
+instituições eficazes, responsáveis e inclusivas em todos os níveis.
+ODS 17 - Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+Agentes Envolvidos: Ministério do Desenvolvimento Agrário e Agricultura Familiar - MDA, Ministério da Fazenda, Associações de Produtores, Associações de pescadores, Escritórios Estaduais do MDA, Instituto Nacional de Colonização e Reforma Agrária - INCRA, Superintendências de Agricultura Familiar e Regionais da Conab (Suregs), Secretarias Municipais de Agricultura Familiar, Secretarias Estaduais e Municipais de agricultura, Codevasf, agricultores familiares, assentados da reforma agrária, silvicultores, aquicultores, extrativistas, pescadores profissionais, povos indígenas, comunidades quilombolas e demais povos e comunidades tradicionais. Instituições de pesquisa e ensino, cooperativas, ONG’s, Organizações Estaduais de Pesquisa Agropecuária, Grupo Gestor do Plano ABC, bancos oficiais e agentes financeiros, Federação de Agricultura, ANATER, Emateres Estaduais, Extensionistas, , Prefeituras, Cooperativas, Associações, Sindicatos, Confederação Nacional dos Municípios - CNM, SEBRAE, Serviço Nacional de Aprendizagem Rural (SENAR), FAO, IICA, Conselhos Municipais ou Câmaras Técnicas Municipais de Ater, Conselhos Municipais de Desenvolvimento Sustentável, Conselhos Municipais ou Câmaras Técnicas Municipais de SAN, Ministério do Desenvolvimetno Social, Família e Combate à Fome - MDS, Ministério do Meio Ambiente - MMA, Embrapa, ASBRAER, Conselho Nacional de Povos e Comunidades Tradicionais
+Articulação Federativa: A articulação federativa das políticas de agricultura familiar é importante para garantir a implementação efetiva das políticas e programas voltados para a agricultura familiar e para agroecologia em todo o país. Ela ocorre por meio de um processo de cooperação e coordenação entre os diferentes níveis de governo: federal, estadual e municipal.
+
+A estrutura de articulação federativa envolve diferentes órgãos e instâncias de governo das três esferas de governo - federal, estadual e municipal. Além do Ministério do Desenvolvimento Agrário e Agricultura Familiar, órgão responsável pela formulação e implementação das políticas nacionais voltadas para a agricultura familiar em nível federal, coordenando ações e programas como o Pronaf e a PNAPO, que beneficiam os agricultores familiares em todo o país, os Governos Estaduais possuem órgãos responsáveis por questões agrícolas, como secretarias de agricultura, instituições de assistência técnica e empresas de pesquisa agropecuária. Os escritórios estaduais atuam em consonância com as diretrizes nacionais, adaptando e implementando programas e políticas para atender às demandas específicas de cada estado. Já os Governos Municipais têm um papel fundamental na implementação das políticas de agricultura familiar, uma vez que estão mais próximos dos agricultores e conhecem suas realidades locais. Os municípios podem criar programas e ações voltados para a agricultura familiar, oferecer assistência técnica, promover feiras e mercados locais, entre outras iniciativas.
+
+Além disso, existem instâncias de diálogo e participação, como os Conselhos Nacional, Estaduais e Municipais de Desenvolvimento Rural Sustentável, nos quais representantes dos governos e da sociedade civil se reúnem para discutir e propor ações para o desenvolvimento da agricultura familiar. A articulação federativa é fundamental para garantir a convergência de esforços, a troca de experiências e a cooperação entre os diferentes níveis de governo. Isso permite uma abordagem mais integrada e eficiente no apoio à agricultura familiar, considerando as particularidades locais e promovendo o desenvolvimento sustentável do setor em todo o país.
+Enfoque Transversal: É fundamental adotar uma abordagem transversal nas políticas da agricultura familiar e da agroecologia para promover uma visão mais abrangente e integrada do desenvolvimento rural e da agrosociobiodiversidade. Ao reconhecer a interdependência entre diferentes áreas, é possível fortalecer a agricultura familiar de maneira mais eficiente e eficaz, abordando suas múltiplas necessidades e promovendo seu papel crucial na segurança alimentar e nutricional, na produção de alimentos saudáveis, na qualidade de vida no meio rural, no desenvolvimento sustentável e na erradicação da pobreza e na promoção da igualdade de gênero. 
+
+No contexto da agricultura familiar, a transversalidade pode ser promovida por meio de diferentes estratégias como a integração de políticas, buscando integrar as políticas de agricultura familiar com outras áreas, como educação, saúde, meio ambiente, desenvolvimento social e infraestrutura; o diálogo e participação, envolvendo os/as agricultores/as familiares, organizações da sociedade civil e outros atores relevantes na formulação e implementação das políticas transversais; a cooperação interinstitucional entre diferentes instituições governamentais, como ministérios, secretarias e órgãos responsáveis por áreas específicas, permitindo o compartilhamento de recursos, conhecimentos e experiências para uma abordagem mais integrada e eficaz; e o planejamento territorial, envolvendo a identificação das potencialidades e limitações de cada região, promovendo o desenvolvimento de políticas específicas adaptadas às características locais.
+
+Dentre os órgãos fundamentais para a implementação do objetivo proposto, além das Secretarias do MDA, destacam-se o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS), o Ministério da Agricultura e Pecuária (MAPA), Ministério do Meio Ambiente e Mudança do Clima (MMA), o Ministério da Educação (MEC), Ministério dos Povos Indígenas (MPI), Ministério dos Direitos Humanos e da Cidadania, Ministério das Mulheres, a Fundação Nacional dos Povos Indígenas (FUNAI), Fundação Cultural Palmares, o Fundo Nacional de Desenvolvimento da Educação (FNDE),  Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), entre outros atores relevantes.
+Marco Legal: Lei nº 11.326/2006 - Lei da Agricultura Familiar: Essa lei define a agricultura familiar, estabelecendo critérios como o tamanho da área, a mão de obra familiar e a gestão da unidade produtiva familiar. Ela reconhece a importância da agricultura familiar para a segurança alimentar, o desenvolvimento sustentável e a promoção da igualdade social no meio rural.
+Lei Nº 12.188, de 11 de janeiro de 2010. Institui a Política Nacional de Assistência Técnica e Extensão Rural para a Agricultura Familiar e Reforma Agrária - PNATER e o Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária - PRONATER, altera a Lei no 8.666, de 21 de junho de 1993, e dá outras providências. 
+Decreto Nº 7.794, de 20 de agosto de 2012. Institui a Política Nacional de Agroecologia e Produção Orgânica.
+Decreto nº 3.991, de 30 de outubro de 2001. Dispõe sobre o Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências. 
+Decreto nº 6.040, de 7 de fevereiro de 2007. Institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais. 
+Decreto nº 6.323, de 27 de dezembro de 2007. Regulamenta a lei no 10.831, de 23 de dezembro de 2003, que dispõe sobre a agricultura orgânica, e dá outras providências. 
+Decreto nº 9.064, de 31 de maio de 2017. Dispõe sobre a unidade familiar de produção agrária, institui o cadastro nacional da agricultura familiar e regulamenta a lei nº 11.326, de 24 de julho de 2006 , que estabelece as diretrizes para a formulação da política nacional da agricultura familiar e empreendimentos familiares rurais. 
+Lei Nº 12.512, de 14 de outubro de 2011. Institui o Programa de Apoio à Conservação Ambiental e o Programa de Fomento às Atividades Produtivas Rurais; altera as Leis nºs 10.696, de 2 de julho de 2003, 10.836, de 9 de janeiro de 2004, e 11.326, de 24 de julho de 2006.
+Decreto nº 9.221, de 6 de dezembro de 2017. Regulamenta a lei nº 12.512, de 14 de outubro de 2011, que institui o programa de fomento às atividades produtivas rurais. 
+LEI Nº 10.696, DE 2 DE JULHO DE 2003. Dispõe sobre a repactuação e o alongamento de dívidas oriundas de operações de crédito rural, e dá outras providências.
+Portaria Interministerial MDA e MDS e MMA nº 239, de 21 de julho de 2009.
+Lei nº 10.831, de 23 de dezembro de 2003 Dispõe sobre a agricultura orgânica e dá outras providências.
+Decreto nº 6.323, de 27 de dezembro de 2007 Regulamenta a Lei n  10.831/2003.
+Decreto  nº 6.913, de 23 de julho de 2009 Estabelece os procedimentos para o registro dos produtos fitossanitários com uso aprovado para a agricultura orgânica.
+Lei nº 10.696, de 2 de julho de 2003 O art. 19 cria o PAA.
+Decreto nº 4.739, de 13 de junho de 2003 Transfere competências relativas à Ater do Mapa para o MDA.
+Lei nº 1.346, de 15 de setembro de 2006 Estabelece a Losan, que instituiu o Sisan
+Lei nº 11.947, de 16 de junho de 2009. Regulamenta a alimentação escolar, ampliando o acesso a todos os alunos matriculados na rede pública e destinando 30% do valor para a compra da produção da agricultura familiar.
+Decreto nº  7.215, de 15 de junho de 2010. Além de realizar mudanças nos procedimentos de contratação dos serviços de Ater, houve uma alteração importante: a substituição do termo “agroecologia” por formulação que orienta os serviços de Ater pela “adoção dos princípios da
+agricultura de base ecológica como enfoque preferencial para o desenvolvimento de sistemas de produção sustentável”.
+Lei nº  11.775/2008 Cria a PGPM-Bio, que garante um atendimento específico para os extrativistas.
+Lei nº  12.187, de 29 de dezembro de 2009 Institui a Política Nacional sobre Mudança do Clima.
+Decreto nº  6.476, de 5 de junho de 2009 Promulga o TIRFAA.
+Decreto nº  7.390/2010. Institui o Programa Agricultura de Baixo Carbono (ABC), entre outros. Estabelece formas e fontes de financiamento. Cria o Plano Setorial de Mitigação e de Adaptação às Mudanças Climáticas para a Consolidação de uma Economia de Baixa Emissão de Carbono na Agricultura (Plano ABC).
+Decreto nº 7.572, de 8 de setembro de 2011 Regulamenta o Programa Bolsa Verde. Esse programa relaciona-se com duas iniciativas do Plano Nacional de Agroecologia e Produção Orgânica (Planapo) - Decreto n 11.452, de 22 de março de 2023 que institui o Programa de Organização Produtiva e Econômica de Mulheres Rurais e o seu Comitê Gestor.
+Planos Nacionais, Setoriais E Regionais: - Plano Nacional de desenvolvimento rural sustentável e solidário;
+- Plano Nacional de Agroecologia e Produção Orgânica 
+- Plano Nacional de Segurança Alimentar e Nutricional
+- Plano Nacional de Promoção das Cadeias de Produtos da Sociobiodiversidade; 
+- Plano nacional de Políticas para Mulheres
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

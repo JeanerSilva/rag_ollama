@@ -1,0 +1,423 @@
+passage: Programa Número 5662
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Entrega: 178
+Indicador: 10392
+Denominação: Aumento de Atendimentos Humanizados Realizados
+Sigla: NAHR
+Em Apuração: Sim
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: %
+Descrição: Acesso rápido à informações, acolhimento adequado e diminuição do tempo de espera do atendimento.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A) número de atendimento no período atual
+(B) número de atendimento total do mesmo período no exercício anterior
+Fonte De Dados Das Variáveis De Cálculo: O número de atendimento serão verificadas por meio de relatórios produzidos pela empresa prestadora a ser licitada.
+Forma De Disponibilização: Relatório disponibilizado no site do Ministério das Mulheres.
+Procedimento De Cálculo: Número de Atendimento Humanizado Realizado é igual ao "número de atendimento no período atual" (A) dividido pelo "número de atendimento total do mesmo período no exercício anterior" (B)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Entrega: 1330
+Indicador: 10415
+Denominação: Número de Ações da Ouvidoria do Ministério das Mulheres nos Territórios
+Sigla: NAOMMT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de ações da Ouvidoria do Ministério das Mulheres nos territórios.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A) somatório dos atendimentos
+(B) número das atuações nas resoluções de conflitos
+(C) número de capacitações de agentes públicos e lideranças civis
+(D) número de campanhas de divulgação da Ouvidoria
+Fonte De Dados Das Variáveis De Cálculo: .Processos referentes aos serviços da Ouvidoria inseridos no Sistema Eletrônico de Informações - SEI.
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres.
+Procedimento De Cálculo: NAOMMTI é igual ao(A) somatório dos atendimentos mais  o (B) número das atuações nas resoluções de conflitos, mais o (C) número de capacitações de agentes públicos e lideranças civis, mais o (D) número de campanhas de divulgação da Ouvidoria.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Entrega: 181
+Indicador: 10401
+Denominação: Número de Ações de Qualificação
+Sigla: NAQ
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Ações de qualificação de profissionais para identificação de situações de violência e acolhimento das mulheres em situação de violência e encaminhamento aos serviços necessários.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (a) Rodas de conversas;
+(b) cursos;
+(c) debates ;
+(d) palestras.
+Fonte De Dados Das Variáveis De Cálculo: Processos inseridos no Sistema Eletrônico de Informação - SEI sobre oficinas de formação para profissionais da Rede de Atendimento e Enfrentamento a Violência contra as Mulheres em todas as Unidades Federativas.
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres.
+Procedimento De Cálculo: NAQ é igual ao (a) Rodas de conversas, mais (b) cursos, mais (c) debates e (d) palestras para os profissionais dos serviços da Rede de Enfrentamento a Violência contra as Mulheres .
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 26
+Entrega: 116
+Indicador: 10327
+Denominação: Número de Campanhas
+Sigla: NCMISOGINIA
+Em Apuração: Sim
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Promover a mudança cultural sobre misoginia e discriminação contra as mulheres na sua diversidade e pluralidade.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (a) criação de vídeos explicativos
+(b) cards para Redes Sociais
+(c) spots para rádio
+(d) podcasts a serem divulgados em meios de comunicação e veículos institucionais
+Fonte De Dados Das Variáveis De Cálculo: Processos de campanhas publicitárias para enfrentamento da misoginia inseridos no Sistema Eletrônico de Informações - SEI.
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres.
+Procedimento De Cálculo: Número de campanhas para enfrentamento à misoginia (NCMISOGENIA) é igual ao somatório do número das variáveis: (a) criação de vídeos explicativos mais (b) cards para Redes Sociais mais (c) spots para rádio mais (d) podcasts a serem divulgados em meios de comunicação e veículos institucionais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Entrega: 101
+Indicador: 10354
+Denominação: Número de Casas da Mulher Brasileira Entregues
+Sigla: NCMBE
+Índice De Referência: 7.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Construção e equipagem da Casa da Mulher Brasileira com serviços especializados de atendimento às mulheres em situação de violência nas cinco regiões do país.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A) Número de Casas da Mulher Brasileira construída;
+B) Número de Casas da Mulher Brasileira equipada.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informações - SEI.
+Forma De Disponibilização: Relatório disponibilizado no Site do Ministério das Mulheres.
+Procedimento De Cálculo: O número de Casas da Mulher Brasileira entregue é igual ao número de (A) Casas da Mulher Brasileira construído somado ao (B) número de Casas da Mulher Brasileira equipada.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Entrega: 171
+Indicador: 10356
+Denominação: Número de Centros Referência da Mulher Brasileira Construídos
+Sigla: NCRMBC
+Em Apuração: Sim
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Criação de unidades de Centros de Referência da Mulher Brasileira com serviços especializados de atendimento às mulheres em situação de violência nas cinco regiões do país.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A)Número de Centros Referência da Mulher construído;
+
+(B)Número de Centros Referência da Mulher equipado.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informações - SEI.
+Forma De Disponibilização: Relatórios disponibilizados no Site do Ministério das Mulheres.
+Procedimento De Cálculo: O número de Centros Referência da Mulher Entregues é igual ao número de (A) Número de Centros Referência da Mulher construído somado ao (B) Número de Centros Referência da Mulher equipado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 26
+Entrega: 166
+Indicador: 10337
+Denominação: Número de Materiais Informativos
+Sigla: NMIVIOLÊNCIA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Promover a mudança cultural sobre misoginia e todas as formas de discriminação contra as mulheres na sua diversidade e pluralidade.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (a) cartilhas
+(b) guias
+(c) vídeos para subsidiar as ações de formação na prevenção de todas as formas de violência contra as mulheres
+Fonte De Dados Das Variáveis De Cálculo: Processos de produção de materiais informativos sobre as diretrizes, estratégias e ações de prevenção e enfrentamento à violência inseridos no Sistema eletrônico de Informações - SEI.
+Forma De Disponibilização: Disponibilização de relatório no site do Ministério das Mulheres.
+Procedimento De Cálculo: NMIVIOLÊNCIA (número de materiais informativos sobre as diretrizes, estratégias e ações de prevenção e enfrentamento à violência) é o somatório das variáveis: (a) cartilhas mais (b) guias mais (c) vídeos para subsidiar as ações de formação na prevenção de todas as formas de violência contra as mulheres.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 26
+Entrega: 32
+Indicador: 10333
+Denominação: Números de Eventos de Formação
+Sigla: NEF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Eventos de formação para a sociedade (debates, seminários, palestras, entre outros) com o objetivo de direcionar as ações para os territórios com maiores índices de violências contra as mulheres, em toda a sua diversidade e pluralidade.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A)debates
+(B) seminários
+(C) palestras
+(D) outros
+Fonte De Dados Das Variáveis De Cálculo: Processos referente aos eventos de formação inseridos no Sistema Eletrônico de Informações - SEI.
+Forma De Disponibilização: Publicação de relatórios no Site do Ministério das Mulheres .
+Procedimento De Cálculo: Número de eventos de formação é igual ao somatório do número de eventos de formação para a sociedade realizados sendo:  (A)debates, (B) seminários, (C) palestras, e  (D) outros.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Entrega: 182
+Indicador: 10403
+Denominação: Números de Unidades de Atendimentos Móveis
+Sigla: NUAM
+Índice De Referência: 54.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Números de atendimentos qualificados às mulheres do campo, floresta, águas, quilombolas, indígenas e ciganas  pelas unidades móveis.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: FEVEREIRO
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A) número de unidades móveis entregues
+Fonte De Dados Das Variáveis De Cálculo: Processo inseridos no Sistema Eletrônico de Informação - SEI.
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres.
+Procedimento De Cálculo: NUAM é igual a (A) número de unidades móveis entregues
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 26
+Entrega: 167
+Indicador: 10338
+Denominação: Publicação de Relatórios
+Sigla: PR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Publicação de relatórios com análises sobre a pesquisa de prevalência da violência
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (A) relatório produzido e publicado
+Fonte De Dados Das Variáveis De Cálculo: Processos inseridos no Sistema eletrônico de Informações - SEI.
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres.
+Procedimento De Cálculo: Publicação de Relatórios é igual a (A) relatório produzido e publicado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5662
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 26
+Indicador: 11374
+Denominação: Número de ações de prevenção
+Sigla: NAP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de ações de formação e produção de materiais informativos visando prevenir a violência contra as mulheres.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: MARÇO
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A) número de ações de formação
+B) número de campanhas
+C) número de materiais produzidos 
+D) pesquisas realizadas
+Fonte De Dados Das Variáveis De Cálculo: Processos referente à licitações inseridos no Sistema Eletrônico de Informações - SEI
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres
+Procedimento De Cálculo: NAP: Número de ações de prevenção é igual ao número de ações de formação mais o número de campanhas, mais o número de materiais produzidos, mais pesquisas realizadas, sendo que (a) é número de ações de formação, (b) número de campanhas, (c) número de materiais produzidos  e (d) pesquisas realizadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Indicador: 11499
+Denominação: Unidades de Atendimentos às Mulheres Vítimas de Violência criadas
+Sigla: ARDMVV
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Ampliação das unidades de atendimentos de mulheres vitimas de violência (Casa da Mulher Brasileira; Centros de Referência da Mulher e unidades móveis).
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: FEVEREIRO
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (a) número de Casas da Mulher Brasileira
+( b) número de Centros de Referência da Mulher
+(c) número de Unidades Móveis
+Fonte De Dados Das Variáveis De Cálculo: Processos inseridos no Sistema Eletrônico de Informações SEI.
+Forma De Disponibilização: Disponibilização de relatório no Site do Ministério das Mulheres.
+Procedimento De Cálculo: ARDMVV  é igual a  (a) número de Casas da Mulher Brasileira mais ( b) número de Centros de Referência da Mulher; mais  (c) número de Unidades Móveis.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5662
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 26
+Enunciado: Promover ações de prevenção primária, secundária e terciária para proteger as mulheres, em sua diversidade e pluralidade, contra todas as formas de violência.
+Descrição: Entende-se por prevenção primária ações que para evitar a ocorrência de violências, como também a mudança de atitudes, crenças e comportamentos para eliminar os estereótipos de gênero, promover uma cultura de respeito e não tolerância às discriminações, misoginia e violência com base no gênero; prevenção secundária a intervenção precoce qualificada para evitar que as violências se repitam e seus efeitos se agravem, e a terciária para mitigar os efeitos das violências, promover a garantia de direitos.
+Órgão: 65000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Objetivo Específico: 27
+Enunciado: Ampliar a rede de atendimento destinado às mulheres em situação de violência, promovendo o atendimento humanizado e o acesso aos serviços especializados no âmbito da saúde, da segurança pública, da justiça e da rede socioassistencial.
+Descrição: Rede de atendimento às mulheres em situação de violência com serviços especializados implementados em todo o território nacional.
+Órgão: 65000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5662
+
+Exercício: 2025
+Programa: 5662
+Objetivo: 1268
+Enunciado: Enfrentar todas as formas de violência contra as mulheres, baseada em gênero, classe, raça e etnia, em toda a sua diversidade, nas esferas publica e privadas, por meio da formulação, articulação, monitoramento, coordenação, governança interfederativa e avaliação de políticas transversais, intersetoriais, visando o pleno exercício da cidadania, livres de violência e ameaças.
+Descrição: Elaboração e execução de políticas públicas para enfrentamento à violência contra as mulheres, nas esferas pública e privada.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5662
+
+Exercício: 2025
+Programa: 5662
+Título: Mulher Viver sem Violência
+Tipo: Finalístico
+Órgão: 65000.0
+Público-Alvo: Mulheres efetiva ou potencialmente sujeitas a situações de violência.
+Descrição Do Problema: A violência contra as mulheres é uma das principais formas de violação de Direitos Humanos. No primeiro semestre de 2022, segundo o mais recente Anuário Brasileiro de Segurança Pública, o Brasil bateu recorde de feminicídios, registrando cerca de 700 casos no período. Em 2021, mais de 66 mil mulheres foram vítimas de estupro; mais de 230 mil brasileiras sofreram agressões físicas por violência doméstica. Embora todas as mulheres estejam expostas a essas violências, fica evidente o racismo: as mulheres negras são 67% das vítimas de feminicídios e 89% das vítimas de violência sexual.
+
+Paradoxalmente ao aumento substantivo de todas as formas de violência contra às mulheres há o desmantelamento das políticas públicas para elas.
+
+“O Programa Mulher Viver sem Violência teve os principais eixos que garantiam a capacidade de execução retirados da legislação, desobrigando o Estado de cumpri-los. O orçamento do programa foi desidratado em 90% e a construção de Casas da Mulher Brasileira paralisada” (Relatório Final de Transição Governamental/2022).
+Causa Do Problema: Há várias causas relacionadas aos problemas da violência contra as mulheres. As mais frequentes estão relacionadas ao machismo e a estrutura patriarcal da sociedade. Compreender as causas e discutir sobre a questão é essencial para desconstruir esses comportamentos e combater a violência, bem como oferecer serviços de qualidade e de forma integral para que as mulheres saiam das situações de violência.
+Evidências Do Problema: Segundo informações constantes do RASEAM (2021), baseados nos atendimentos realizados pelo Ligue 180, temos que as denúncias de violência física são as mais expressivas, em geral praticadas por companheiros ou ex-companheiros, atingindo todas as cores/raças, mas mais fortemente as negras. E os casos de violência sexual são mais denunciadas por mulheres brancas e pardas. As denúncias são feitas por mulheres de todas as idades, com concentração entre 18 a 40 anos ( ANEXOS)
+Justificativa Para A Intervenção: A violência contra a mulher é um problema sistêmico com causas múltiplas que exigem articulação interfederativa bem como multissetorial. Atinge todas as classes sociais, níveis educacionais, idades, regiões do país, cor/raças.
+Evolução Histórica: Em 2003, o então Presidente Lula, criou a Secretaria de Políticas para Mulheres, vinculada a Presidência da República, com o objetivo de promover políticas de enfrentamento de todas as formas de violência contra às Mulheres.   
+
+Assim, políticas de enfrentamento à violência contra as Mulheres foram incluídas nos nos PPAs vigentes dos anos de 2004 a 2019, sendo brutalmente interrompidas no PPA 2020-2023.
+Comparações Internacionais: Na maior parte dos países da OCDE, as taxas de homicídios entre os homens são em geral mais elevadas do que as taxas relativas às mulheres, com índices de 4,4 por 100.000 entre os homens, e de 0,9 por 100.000 entre as mulheres em média, segundo os dados mais recentes. No entanto, enquanto há maior probabilidade de que os homens sejam vítimas de homicídio, as mulheres são as principais vítimas da violência doméstica e de seus parceiros. Os dados da UE baseados em crimes registrados na polícia indicam que 86% das vítimas de violência sexual são mulheres. Considerando-se toda a OCDE, 82% dos homens e 66% das mulheres se sentem seguros quando andam sozinhos à noite na área onde vivem.
+Relação Com Os Ods: O Programa está ligado fundamentalmente ao Objetivo do Desenvolvimento Sustentável número 5, qual seja, Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas, com destaque aos seguintes itens:  
+
+5.1 Acabar com todas as formas de discriminação contra todas as mulheres e meninas em toda parte 
+
+5.2 Eliminar todas as formas de violência contra todas as mulheres e meninas nas esferas públicas e privadas, incluindo o tráfico e exploração sexual e de outros tipos 
+
+5.3 Eliminar todas as práticas nocivas, como os casamentos prematuros, forçados e de crianças e mutilações genitais femininas
+Agentes Envolvidos: Ministério da Justiça, Ministério da Saúde, Ministério do Desenvolvimento e Assistencial Social, Estados, Municípios
+Articulação Federativa: Uma das características essenciais do Programa Mulher Viver sem Violência é estabelecer um pacto de enfrentamento à Violência contra as Mulheres envolvendo entes públicos, federais, estaduais e municipais, fortalecendo a rede e articulando todos os Organismos de Políticas para as Mulheres do país.
+Enfoque Transversal: O Programa é caracterizado como política transversal e multissetorial, uma vez que há ações executadas por órgãos das áreas da saúde, segurança pública, justiça, assistência social, etc
+Marco Legal: Constituição Federal Brasileira/1988; 
+
+Lei nº 11.340/2006. Cria mecanismos para coibir a violência doméstica e familiar contra a mulher, nos termos do § 8º do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas as Formas de Discriminação contra as Mulheres e da Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher; dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a Mulher; altera o Código de Processo Penal, o Código Penal e a Lei de Execução Penal; e dá outras providências.   
+
+ 
+
+Lei nº 13.104/2015. Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para prever o feminicídio como circunstância qualificadora do crime de homicídio, e o art. 1º da Lei nº 8.072, de 25 de julho de 1990, para incluir o feminicídio no rol dos crimes hediondos. 
+
+ 
+
+Lei nº 14.192/2021 - Estabelece normas para prevenir, reprimir e combater a violência política contra a mulher; e altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para dispor sobre os crimes de divulgação de fato ou vídeo com conteúdo inverídico no período de campanha eleitoral, para criminalizar a violência política contra a mulher e para assegurar a participação de mulheres em debates eleitorais proporcionalmente ao número de candidatas às eleições proporcionais. 
+
+Decreto nº 11.431/2023 – Institui o Programa Mulher Viver sem Violência
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

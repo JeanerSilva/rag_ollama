@@ -1,0 +1,590 @@
+passage: Programa Número 4102
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Entrega: 1355
+Indicador: 10452
+Denominação: Índice das Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas perante as solicitadas
+Sigla: IGeo
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Desenvolver serviços de tecnologia da informação e geoprocessamento em atendimento as demandas de interesse estratégico.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas e Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico solicitadas
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %IGeo = NSTIGR / NSTIGS * 100
+
+Onde:
+%IGeo = Índice das Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas perante as solicitadas/ano
+NSTIGR = Nº de Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas
+NSTIGS = Nº de Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico solicitadas
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Entrega: 1302
+Indicador: 10382
+Denominação: Índice de implantação do Sistema de Proteção das Instalações Presidenciais (ProPR)
+Sigla: ProPR
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Implantação de um sistema integrado que compreende aquisição de equipamentos com hardware, software, ferramentas de apoio e toda infraestrutura necessária para garantir a interoperabilidade de seus subsistemas, necessários ao seu funcionamento ininterrupto.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Percentual implantado do Sistema de Proteção das Instalações Presidenciais (ProPR), Percentual projetado da implantação do Sistema de Proteção das Instalações Presidenciais (ProPR)
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %ProPR = %I / %P
+
+Onde:
+%ProPR = Percentual de implantação do Sistema de Proteção das Instalações Presidenciais (ProPR)
+%I = Percentual implantado do Sistema de Proteção das Instalações Presidenciais (ProPR)
+%P = Percentual projetado da implantação do Sistema de Proteção das Instalações Presidenciais (ProPR)
+Notas Explicativas: Esta entrega não se confunde com o apresentado no PEI do GSI por se tratar de uma forma diferente de medição e controle.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Entrega: 1350
+Indicador: 10450
+Denominação: Índice de incidentes e vulnerabilidades cibernéticos tratados perante aos identificados
+Sigla: IIV
+Índice De Referência: 89.74
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Executar ações necessárias para a segurança da informação e cibersegurança do Estado e da Sociedade
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Incidentes e vulnerabilidades cibernéticos tratados e Incidentes e vulnerabilidades cibernéticos recebidos e detectados
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %IIV = NICVT * 100 / NICVRD
+
+Onde:
+%IIV = Índice de incidentes e vulnerabilidades cibernéticos tratados
+NICVT = Nº de incidentes cibernéticos e vulnerabilidades cibernéticos tratados
+NICVRD = Nº de incidentes e vulnerabilidades cibernéticos recebidos e detectados
+Limitações: Não aplicável
+Notas Explicativas: O Índice de referência de 89,74% se refere somente a incidentes, as vulnerabilidades serão incluídas neste PPA
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Entrega: 1362
+Indicador: 10461
+Denominação: Índice de Notas Técnicas de Assentimento-Anuência Produzidas perante o Número de Requerimentos
+Sigla: NTA
+Índice De Referência: 78.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Subsidiar técnica e juridicamente as autorizações prévias do CDN no que se refere à avaliação do uso e à ocupação de áreas indispensáveis à segurança do território nacional, especialmente na faixa de fronteira e em áreas relacionadas à preservação e à exploração dos recursos naturais de qualquer tipo e ao controle dos materiais relevantes à defesa e segurança nacional
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº de Notas Técnicas de Assentimento-Anuência Produzidas e Nº de Requerimentos de Assentimento-Anuência Recebidos
+Fonte De Dados Das Variáveis De Cálculo: Acervo Institucional e Diário Oficial da União (com ato publicado DOU)
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %NTA = NTP / NTR * 100
+
+Onde:
+%NTA = Índice de Notas Técnicas de Assentimento-Anuência Produzidas perante o Número de Requerimentos
+NTP = Nº de Notas Técnicas de Assentimento-Anuência Produzidas
+NTR = Nº de Requerimentos de Assentimento-Anuência Recebidos
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Entrega: 1367
+Indicador: 10465
+Denominação: Índice de qualificação e designação de Gestores de Segurança da Informação ou de Cibersegurança perante o número de órgãos da APF
+Sigla: GSC
+Índice De Referência: 87.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Acompanhar e avaliar a gestão e governança da segurança da informação e da cibersegurança.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº Gestores de Segurança da Informação ou de Cibersegurança Qualificados e Designados e Nº de Órgãos da APF
+Fonte De Dados Das Variáveis De Cálculo: Verificação sobre a Qualificação e Designação de Gestores de Segurança da Informação ou de Cibersegurança nos Órgãos da APF
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %GSC = NDG / NOA * 100
+
+Onde:
+%GSC = Índice de qualificação e designação de Gestores de Segurança da Informação ou de Cibersegurança perante o número de órgãos da APF
+NDG = Nº de Gestores de Segurança da Informação ou de Cibersegurança Qualificados e Designados
+NOA = Nº de Órgãos da APF
+Notas Explicativas: O Índice de referência de 87% se refere somente a Gestores de Segurança da Informação, os gestores de Cibersegurança serão incluídos neste PPA
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Entrega: 1357
+Indicador: 10455
+Denominação: Índice de riscos emergentes identificados e tratados
+Sigla: NRE
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Tratar os Riscos emergentes identificados evitando que se tornem crises que afetem a segurança institucional
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Riscos tratados e Riscos identificados
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %NRE = NRT / NRI * 100
+
+Onde:
+%NRE = Índice de riscos tratados perante aos riscos identificados
+NRT = Nº de Riscos tratados
+NRI = Nº de Riscos identificados
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Entrega: 1293
+Indicador: 10370
+Denominação: Índice de tratamento de Incidentes de Segurança das Instalações Presidenciais
+Sigla: TIS
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Manter em segurança os palácios e residências oficiais.
+Período Ou Data A Que Se Refere: Não Aplicável
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Fator de Criticidade, Número de missões e Número de missões com concretização de ameaças
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: TIS = FC – ((SI – si) / SI)
+
+Onde:
+TIS = Tratamento de Incidentes de Segurança das Instalações Presidenciais
+FC = Fator de Criticidade (matriz de ameaça x impacto)
+SI = Número total de missões de Segurança de Instalações
+si = Número total de missões de Segurança de Instalações com incidentes com concretização de ameaças
+Notas Explicativas: Como esta entrega apresenta Polaridade “Quanto menor melhor”, seu cálculo para a composição do resultado do Objetivo específico é adaptado para conversão em percentual de Polaridade “Quanto maior melhor”.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Entrega: 1284
+Indicador: 10342
+Denominação: Número de campanhas realizadas
+Sigla: NCR
+Índice De Referência: 7.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Esclarecer o público alvo quanto aos objetivos da Segurança Institucional e os benefícios decorrentes para todos.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas realizadas anualmente
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: Somatório simples
+Notas Explicativas: O Índice de referência de 7 se refere ao ano de 2022 que teve um resultado atípico, bem acima da média de 2 campanhas anuais. O resultado desta entrega é convertido em percentual para a composição do resultado do objetivo específico.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Entrega: 1289
+Indicador: 10362
+Denominação: Número de eventos sobre segurança institucional realizados (seminários, workshops, palestras e cursos)
+Sigla: NSI
+Índice De Referência: 43.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Realizar eventos sobre segurança institucional realizados (seminários, workshops, palestras e cursos).
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Eventos realizadas anualmente
+Fonte De Dados Das Variáveis De Cálculo: Controle interno
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: Somatório simples
+Notas Explicativas: O Índice de referência de 43 se refere ao ano de 2022 que teve um resultado acima da média de 40 eventos anuais. O resultado desta entrega é convertido em percentual para a composição do resultado do objetivo específico..
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Entrega: 1286
+Indicador: 10352
+Denominação: Percentual de eventos de emergência e proteção física nuclear realizados do Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON)
+Sigla: APN
+Índice De Referência: 131.65
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Planejar e coordenar as atividades de emergência e de proteção física nuclear previstos no Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON).
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº de eventos realizados e Nº de eventos previstos no PGA-SIPRON
+Fonte De Dados Das Variáveis De Cálculo: Calendário de Atividades, Atas de Reuniões e Relatório de Exercícios
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %APN = NER / NEP * 100
+
+Onde:
+%APN = Percentual de eventos de emergência e proteção física nuclear realizados do Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON)
+NER = Nº de eventos realizados
+NEP = Nº de eventos previstos
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Entrega: 1358
+Indicador: 10458
+Denominação: Porcentagem de execução das ações do Programa de Proteção Integrada de Fronteiras (PPIF)
+Sigla: PPIF
+Índice De Referência: 79.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Aprimorar a atuação do Estado no combate aos delitos transfronteiriços.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº de Planos de Ação executados e Nº total de Planos de Ação previstos
+Fonte De Dados Das Variáveis De Cálculo: Órgãos corresponsáveis pelas Informações a serem coletadas
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %PPIF = NPE / NPP * 100
+
+Onde:
+%PPIF = Porcentagem de execução das ações do Programa de Proteção Integrada de Fronteiras (PPIF)
+NPE = Nº de Planos de Ação executados
+NPP = Nº total de Planos de Ação previstos
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4102
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Indicador: 11316
+Denominação: Indíce de contribuição para garantia da soberania e dos interesses nacionais e da segurança do estado e da proteção das áreas estratégicas
+Sigla: GSIPA
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador do objetivo específico é composto pela média aritmética dos resultados percentuais das entregas que compõem o objetivo específico e visa a medição da contribuição para a Garantia da Soberania, dos Interesses Nacionais, da Segurança do Estado e da Sociedade e da Proteção de Áreas Estratégicas, por meio de instrumentos que permitam tratar a segurança como premissa, desenvolvendo competências humanas, tecnológicas e processuais efetivas que contribuam para o desenvolvimento da maturidade e a excelência em Segurança Institucional; mapeando e aprimorando os mecanismos de proteção, identificando vulnerabilidades, ameaças e oportunidades à segurança do Estado Brasileiro e aos interesses nacionais; acompanhando continuamente as tendências e fatos relacionados a temas estratégicos; analisando cenários alternativos; identificando variáveis determinantes; produzindo documentos conclusivos; provendo assessoramento superior; articulando com diversos órgãos que detenham potencial e responsabilidade de ação, de maneira que as tendências indesejáveis possam ser evitadas, no que tange aos temas acompanhados.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IIV, IGeo, NRE, PPIF, NTA, GSC
+Fonte De Dados Das Variáveis De Cálculo: Resultados de cada uma das entregas
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %GSIPA = ((%IIV) + (%IGeo) + (%NRE) + (%PPIF) + (%NTA) + (%GSC)) / 6
+
+Onde
+%IIV = Índice de incidentes e vulnerabilidades cibernéticos tratados perante aos identificados
+%IGeo = Índice das Demandas de Serviços de Tecnologia da Informação relacionadas com Produção de Geoinformação de interesse estratégico realizadas perante as solicitadas/ano
+%NRE = Índice de riscos tratados perante aos riscos identificados
+%PPIF = Porcentagem de execução das ações do Programa de Proteção Integrada de Fronteiras (PPIF)
+%NTA = Índice de Notas Técnicas de Assentimento-Anuência Produzidas perante o Número de Requerimentos
+%GSC = Índice de qualificação e designação de Gestores de Segurança da Informação ou de Cibersegurança perante o número de órgãos da APF
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Indicador: 11314
+Denominação: Índice de fortalecimento da cultura integrada de segurança, das instituições do estado e da sociedade
+Sigla: FCSES
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador do objetivo específico é composto pela média aritmética dos resultados percentuais das entregas que compõem o objetivo específico e visa a medição do fortalecimento da Cultura Integrada de Segurança das Instituições, do Estado e da Sociedade, por meio do desenvolvimento de normas, conhecimentos e atitudes, além de mecanismos e modelos de acompanhamento, avaliação, conformidade e compliance e estimulando as práticas para que se incorporem como hábitos individuais e valores institucionais.
+Período Ou Data A Que Se Refere: 01/01/2022 a 31/12/2022
+Data De Divulgação/Disponibilização: Segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NCR, APN, NSI, TIS, ProPR
+Fonte De Dados Das Variáveis De Cálculo: Resultados de cada uma das entregas
+Forma De Disponibilização: Relatório anual do GSI
+Procedimento De Cálculo: %FCSES = ((NCR / 2 * 100) + (%APN) + (NSI / 40 * 100) + (10 – (TIS * 2) * 10) + (%ProPR)) / 5
+
+Onde:
+%FCSES = Índice de fortalecimento da cultura integrada de segurança, das instituições do estado e da sociedade
+NCR = Número de campanhas realizadas
+%APN = Percentual de eventos de emergência e proteção física nuclear realizados do Plano Geral de Atividades do Sistema de Proteção ao Programa Nuclear Brasileiro (PGA-SIPRON)
+NSI = Nº de eventos sobre segurança institucional realizados (seminários, workshops, palestras e cursos)
+TIS = Índice de tratamento de Incidentes de Segurança das Instalações Presidenciais
+%ProPR = Índice de implantação do Sistema de Proteção das Instalações Presidenciais (ProPR)
+Notas Explicativas: O resultado das entregas NCR, NSI e TIS são convertidos em percentual para a composição do resultado do objetivo específico.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4102
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 395
+Enunciado: Fortalecer a Cultura Integrada de Segurança das Instituições, do Estado e da Sociedade
+Descrição: Trata de desenvolver normas, conhecimentos e atitudes, além de mecanismos e modelos de acompanhamento, avaliação, conformidade e compliance e estimular as práticas para que se incorporem como hábitos individuais e valores institucionais
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Objetivo Específico: 396
+Enunciado: Contribuir para a Garantia da Soberania, dos Interesses Nacionais, da Segurança do Estado e da Sociedade e da Proteção de Áreas Estratégicas
+Descrição: Prover instrumentos que permitam tratar a segurança como premissa, desenvolvendo competências humanas, tecnológicas e processuais efetivas que contribuam para o desenvolvimento da maturidade e a excelência em Segurança Institucional. Mapear e aprimorar os mecanismos de proteção, identificar vulnerabilidades, ameaças e oportunidades à segurança do Estado Brasileiro e aos interesses nacionais. Acompanhar continuamente as tendências e fatos relacionados a temas estratégicos. Analisar cenários alternativos. Identificar variáveis determinantes. Produzir documentos conclusivos. Prover assessoramento superior. Articular com diversos órgãos que detenham potencial e responsabilidade de ação, de maneira que as tendências indesejáveis possam ser evitadas, no que tange aos temas acompanhados.
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 4102
+
+Exercício: 2025
+Programa: 4102
+Objetivo: 1335
+Enunciado: Elevar o nível de segurança do Estado e da sociedade por meio de ações de articulação e assessoramento político e estratégico
+Descrição: O GSI executa uma atividade única, que não se confunde com as outras importantes atividades realizadas pelos mais diversos órgãos do Estado. A Segurança Institucional promovida pelo GSI fortalece a confiança da sociedade na estabilidade institucional e assiste o Presidente da República, garantindo a sua liberdade de ação como Chefe de Estado e de Governo, para agir em proveito da sociedade. O Programa “Segurança Institucional” é uma atividade de articulação e de assessoramento político/estratégico com os mais diversos órgãos, a qual se poderia chamar de Sistema de Segurança Institucional do Estado, cujo principal resultado é garantir a estabilidade institucional do país, elevando o nível de segurança do Estado e da sociedade por meio de ações de articulação e assessoramento político e estratégico. Ela inclui ações como: a segurança do Presidente e de seus familiares; o assessoramento ao Presidente da República quanto a assuntos militares e de segurança; o monitoramento de assuntos com potencial de risco e gerenciamento de crises; a coordenação da segurança da informação e da cibersegurança; a coordenação do sistema de proteção nuclear brasileiro; o Comitê de Desenvolvimento do Programa Espacial Brasileiro; o Programa de Proteção Integrada de Fronteiras (PPIF); e a resiliência das infraestruturas críticas. Também serão abordadas as atividades permanentes necessárias ao exercício da competência do Conselho de Defesa Nacional (CDN)
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4102
+
+Exercício: 2025
+Programa: 4102
+Título: Segurança Institucional
+Tipo: Finalístico
+Órgão: 20000.0
+Público-Alvo: Presidente
+Presidência da República
+Administração Pública
+Toda Sociedade brasileira
+Descrição Do Problema: Necessidade de aprimoramento da articulação e do assessoramento político/estratégico nas questões relacionadas à soberania, aos interesses nacionais e à segurança do Estado e da sociedade.
+Causa Do Problema: Presença de ameaças que colocam em risco a soberania, os interesses nacionais e a segurança do Estado e da sociedade, tais como: ações contra a soberania nacional; ações contrárias ao estado democrático de direito; Interferência externa; ataques cibernéticos; criminalidade organizada; espionagem; terrorismo; corrupção; sabotagem; atividades ilegais envolvendo bens de uso dual e tecnologias sensíveis; armas de destruição em massa; ameaça física ou à imagem institucional do Presidente, Vice-Presidente, individual ou em grupo.
+Evidências Do Problema: A insuficiente articulação da ação do Estado em eventos de grande impacto para a sociedade, tais como:
+Incidente na base de Alcântara (2003)
+Elementos identificados pela CPI da Espionagem (2014)
+Manifestações (2013)
+Desarticulação de célula terrorista - Hashtag (2016)
+Ataques cibernéticos nos sistemas governamentais (2017)
+Greve dos caminhoneiros (2018)
+Migração venezuelana em Pacaraima (2018/19)
+Intervenções federais (2018)
+Rompimento das barragens de Mariana (2015) e Brumadinho (2019)
+Possível interferência externa e do crime organizado nas Eleições (2018)
+Atentado a candidato à Presidência (2018)
+Tentativa de invasão do Palácio do Planalto (2013 e 2018)
+Pandemia Covid-19 (2020-2022)
+Invasão do Palácio do Planalto (2023)
+Falsa denúncia de bomba nas usinas nucleares de Angra dos Reis (2023)
+Justificativa Para A Intervenção: Previsão Constitucional e legal para ações relacionadas à soberania, aos interesses nacionais e à segurança do Estado e da sociedade. Crescente intensidade de fenômenos como: violência, em larga medida financiada por organizações criminosas ligadas ao narcotráfico; crimes financeiros internacionais; violações dos direitos humanos; terrorismo e seu financiamento; e atividades ilegais envolvendo o comércio de bens de uso dual e de tecnologias sensíveis, que desafiam os Estados democráticos. Ameaças à segurança da sociedade e do Estado demandam ações preventivas concertadas entre os órgãos. Esse universo acentua a importância do compartilhamento de informações e do trabalho coordenado e integrado, de forma a evitar a deflagração de crises em áreas de interesse estratégico para o Estado ou, quando inevitável, a oferecer às autoridades o assessoramento capaz de permitir o seu adequado gerenciamento.
+Evolução Histórica: Extinção do GSI e criação da Casa Militar pelo Decreto nº 8.577, de 26 de novembro de 2015, gerando impactos extremamente negativos na articulação e no assessoramento nas questões relacionadas à soberania, aos interesses nacionais e à segurança do Estado e da sociedade.
+Comparações Internacionais: Todos os países têm algum tipo de estrutura que administra a sua segurança institucional, seja de maneira integrada como no Brasil ou com órgãos independentes como nos EUA.
+Especificamente, a Segurança Presidencial realiza intercâmbios junto a Espanha, Rússia, França e EUA onde todos atuam nos moldes similares ao brasileiro para administrar sua Segurança Institucional.
+Evidências Internacionais:
+11 de Setembro (2001)
+Ataques cibernéticos na Estônia (2007)
+Ataque cibernético Stuxnet no Irã (2010)
+Operação Neptune Spear - Bin-Laden (2011)
+Fukushima (2011)
+Primavera Árabe (2011)
+Wikileaks/Snowden (2013)
+Suposta Interferência Russa nas Eleições Americanas (2015)
+Ataque cibernético NotPetya (2017)
+Ataque cibernético WannaCry (2017)
+Migração Síria para Europa (2016-2018)
+Ataque cibernético Solarwinds (2020)
+Ataque cibernético Colonial Pipeline (2021)
+Relação Com Os Ods: Não aplicável.
+Agentes Envolvidos: Gabinete de Segurança Institucional da Presidência da República
+Agência Brasileira de Inteligência (ABIN)
+Casa Civil da Presidência da República
+Ministério da Agricultura e Pecuária
+Ministério da Ciência, Tecnologia e Inovação
+Ministério das Comunicações
+Ministério da Defesa
+Ministério da Fazenda
+Ministério da Integração e do Desenvolvimento Regional
+Ministério da Justiça e Segurança Pública 
+Ministério da Saúde
+Ministério das Minas e Energia
+Ministério das Relações Exteriores
+Ministério de Portos e Aeroportos
+Ministério do Meio Ambiente e Mudança do Clima 
+Ministério do Planejamento e Orçamento
+Ministério dos Povos Indígenas
+Ministério dos Transportes
+Marinha (MB)
+Exército (EB)
+Aeronáutica (FAB)
+Gabinete Pessoal do Presidente da República
+Polícia Rodoviária Federal (PRF)
+Polícia Federal (PF)
+Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio)
+Instituto Nacional de Colonização e Reforma Agrária (INCRA)
+Serviço Florestal Brasileiro (SFB/MAPA)
+Advocacia Geral da União (AGU)
+Departamento Nacional de Registro Empresarial e Integração (DREI/MiDIC)
+Secretaria Especial da Receita Federal (SRF/MF)
+Secretaria de Coordenação e Governança do Patrimônio da União (SPU/MGI)
+Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
+Secretarias Estaduais e Municipais de Segurança Pública, de Saúde, de Agricultura, dentre outras Órgãos e Agências congêneres nos países do entorno estratégico do Brasil.
+Articulação Federativa: As ações previstas no Programa Segurança Institucional perpassam diversos ministérios e têm implicações nos estados e nos municípios. A interação entre os entes federais com as demais esferas do pacto federativo é fator fundamental para o alcance efetivo do efeito desejado, qual seja, a estabilidade nacional, consubstanciada na garantia da soberania, e dos interesses nacionais, da segurança do Estado e da sociedade brasileira.
+Essa interação se dá por meio da implementação das políticas, dos programas e dos planos nacionais, setoriais e regionais abrangidos, que vão muito além da segurança pública e da defesa.
+Um exemplo claro onde as instituições de todos os matizes devem articular-se e interagir é na faixa de fronteira, parcela sensível do Território Nacional, não apenas pela complexidade natural da área que caracteriza a divisa entre países com diferentes arcabouços jurídicos, mas também pela extensão territorial que representam e pelo número de vizinhos que o Brasil possui.
+Enfoque Transversal: Possíveis articulações com outras políticas:
+Segurança Pública e Combate ao Crime Organizado
+Gestão de Riscos e Desastres
+Defesa
+Política Nuclear
+Política Espacial
+Ciência, Tecnologia e Inovação
+Transparência e Combate à Corrupção
+Desenvolvimento Regional, Territorial e Urbano
+Melhoria do Ambiente de Negócios
+Política Externa
+Comunicações para o Crescimento do Conhecimento.
+Marco Legal: Art. 91 da Constituição - Conselho de Defesa Nacional;
+LEI Nº 12.731, DE 21 DE NOVEMBRO DE 2012 (Sistema de Proteção ao Programa Nuclear Brasileiro – SIPRON);
+LEI Nº 13.260, DE 16 DE MARÇO DE 2016 (Regulamenta a Constituição Federal, disciplinando o terrorismo);
+LEI Nº 13.810, DE 8 DE MARÇO DE 2019 (Cumprimento de sanções impostas por resoluções do Conselho de Segurança das Nações Unidas sobre terrorismo);
+LEI Nº 14.478, DE 21 DE DEZEMBRO DE 2022 (Diretrizes a serem observadas na prestação de serviços de ativos virtuais e sobre lavagem de dinheiro)
+LEI Nº 14.600, DE 19 DE JUNHO DE 2023 (Organização básica dos órgãos da Presidência da República e dos Ministérios);
+LEI Nº 6.634, DE 2 DE MAIO DE 1979 (Dispõe sobre a Faixa de Fronteira);
+LEI Nº 8.183, DE 11 DE ABRIL DE 1991 (Organização e o funcionamento do Conselho de Defesa Nacional);
+LEI Nº 9.613, DE 3 DE MARÇO DE 1998 (Crimes de lavagem ou ocultação de bens, direitos e valores e criação do Conselho de Controle de Atividades Financeiras – COAF);
+LEI Nº 9.883, DE 7 DE DEZEMBRO DE 1999 (Institui o Sistema Brasileiro de Inteligência e cria a Agência Brasileira de Inteligência – ABIN);
+Art. 37 da LEI Nº 12.527, DE 18 DE NOVEMBRO DE 2011 (Núcleo de Segurança e Credenciamento - NSC);
+DECRETO LEGISLATIVO Nº 267, DE 2009 (Convenção Internacional para a Supressão de Atos de Terrorismo Nuclear);
+DECRETO Nº 10.569, DE 9 DE DEZEMBRO DE 2020 (Estratégia Nacional de Segurança de Infraestruturas Críticas – ENSIC)
+DECRETO Nº 10.748, DE 16 DE JULHO DE 2021(Rede Federal de Gestão de Incidentes Cibernéticos);
+DECRETO Nº 11.200, DE 15 DE SETEMBRO DE 2022 (Plano Nacional de Segurança de Infraestruturas Críticas – PLANSIC);
+DECRETO Nº 11.331, DE 1º DE JANEIRO DE 2023 (Estrutura Gabinete de Segurança Institucional da Presidência da República)
+DECRETO Nº 2.210, DE 22 DE ABRIL DE 1997 (Sistema de Proteção ao Programa Nuclear Brasileiro - SEPRON);
+DECRETO Nº 3.018, DE 6 DE ABRIL DE 1999 (Convenção para Prevenir e Punir os Atos de Terrorismo);
+DECRETO Nº 3.897, DE 24 DE AGOSTO 2001 (Diretrizes para o emprego das Forças Armadas na garantia da lei e da ordem);
+DECRETO Nº 4.332, DE 12 DE AGOSTO DE 2002 (Normas para medidas de segurança durante as viagens presidenciais em território nacional);
+DECRETO Nº 4.376, DE 13 DE SETEMBRO DE 2002 (Organização e o funcionamento do Sistema Brasileiro de Inteligência);
+DECRETO Nº 5.639, DE 26 DE DEZEMBRO DE 2005 (Convenção Interamericana contra o Terrorismo);
+DECRETO Nº 5.640, DE 26 DE DEZEMBRO DE 2005 (Convenção Internacional para Supressão do Financiamento do Terrorismo);
+DECRETO Nº 7.724, DE 16 DE MAIO DE 2012 (Procedimentos para a garantia do acesso à informação e para a classificação de informações sob restrição de acesso);
+DECRETO Nº 7.845, DE 14 DE NOVEMBRO DE 2012 (Procedimentos para credenciamento de segurança e tratamento de informação classificada);
+DECRETO Nº 8.903, DE 16 DE NOVEMBRO DE 2016 (Programa de Proteção Integrada de Fronteiras); 
+DECRETO Nº 893, DE 12 DE AGOSTO DE 1993 (Regulamento do Conselho de Defesa Nacional);
+DECRETO Nº 9.573, DE 22 DE NOVEMBRO DE 2018 (Política Nacional de Segurança de Infraestruturas Críticas);
+DECRETO Nº 9.637, DE 26 DE DEZEMBRO DE 2018 (Política Nacional de Segurança da Informação);
+DECRETO Nº 9.663, DE 1º DE JANEIRO DE 2019 (Estatuto do Conselho de Controle de Atividades Financeiras);
+DECRETO Nº 9.819, DE 3 DE JUNHO DE 2019 (Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo);
+DECRETO Nº 9.828, DE 10 DE JUNHO DE 2019 (Comitê de Desenvolvimento do Programa Nuclear Brasileiro);
+Planos Nacionais, Setoriais E Regionais: DECRETO Nº 9.637, DE 26 DE DEZEMBRO DE 2018 (Política Nacional de Segurança da Informação)
+DECRETO Nº 9.573, DE 22 DE NOVEMBRO DE 2018 (Política Nacional de Segurança de Infraestruturas Críticas)
+DECRETO Nº 11.200, DE 15 DE SETEMBRO DE 2022 (Plano Nacional de Segurança de Infraestruturas Críticas – PLANSIC)
+DECRETO Nº 8.903, DE 16 DE NOVEMBRO DE 2016 (Programa de Proteção Integrada de Fronteiras); 
+DECRETO Nº 2.210, DE 22 DE ABRIL DE 1997 (Sistema de Proteção ao Programa Nuclear Brasileiro - SEPRON);
+DECRETO Nº 10.748, DE 16 DE JULHO DE 2021(Rede Federal de Gestão de Incidentes Cibernéticos);
+DECRETO Nº 10.569, DE 9 DE DEZEMBRO DE 2020 (Estratégia Nacional de Segurança de Infraestruturas Críticas – ENSIC)
+PORTARIA SCS/GSI/PR Nº 112, DE 13 DE SETEMBRO DE 2022 (Plano Nacional para Situações de Emergência Nuclear)
+PORTARIA Nº 75-GSI/PR, DE 28 DE OUTUBRO DE 2020 (Plano Nacional de Resposta Integrada a Evento de Segurança Física Nuclear)
+
+Em Elaboração:
+Comitê Gestor da Segurança da Informação
+Estratégia Nacional de Segurança da Informação - Módulo Segurança Cibernética
+Plano Nacional de Respostas a Incidentes Computacionais - PNTIR
+Política Nacional de Fronteiras - PNF
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não

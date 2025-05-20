@@ -1,0 +1,770 @@
+passage: Programa Número 5801
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1096
+Indicador: 10102
+Denominação: Número de agentes públicos e profissionais envolvidos com o setor capacitados e atualizados técnico-cientificamente
+Sigla: CAAPP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoas capacitadas
+Descrição: Capacitar e atualizar os agentes públicos e profissionais envolvidos com o setor criando multiplicadores que promovem o desenvolvimento do setor aquícola
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: junho do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: APP = Agentes públicos e profissionais envolvidos no setor capacitados
+Fonte De Dados Das Variáveis De Cálculo: Dados do projeto Multiplicadores da Secretaria Nacional de Aquicultura (SNA), do Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicações da Secretaria Nacional de Aquicultura (SNA), do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Contagem do número de agentes públicos e profissionais envolvidos no setor capacitados
+Limitações: Falta de indicações de servidores públicos municipais ou estaduais para realizar as capacitações
+Desistência dos cursistas/alunos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1090
+Indicador: 10098
+Denominação: Número de aquicultores capacitados incluídos no Cadastro Nacional da Agricultura Familiar (CAF)
+Sigla: ATERAqui
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Fornecer serviços de Assistência Técnica e Extensão Rural  (ATER) para os aquicultores inscritos no Cadastro Nacional da Agricultura Familiar (CAF)
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: junho do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AC = Aquicultores capacitados incluídos no Cadastro Nacional da Agricultura Familiar (CAF)
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional da Agricultura Familiar (CAF) do Ministério do Desenvolvimento Agrário e Agricultura Familiar (MDA)
+Forma De Disponibilização: publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Contagem do número de aquicultores capacitados
+Limitações: Disponibilidade de recursos públicos
+Notas Explicativas: Enquanto Secretaria de Aquicultura e Pesca - SAP, antes da recriação do Ministério da Pesca e Aquicultura - MPA, os recursos orçamentários eram insuficientes para realizar a Assistência Técnica e Extensão Rural - TER para a aquicultura.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Entrega: 1111
+Indicador: 10119
+Denominação: Número de boletins estatísticos da atividade pesqueira e aquícola disponibilizados para a sociedade
+Sigla: ESTPA
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2011-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Publicação de boletins estatísticos da atividade pesqueira e aquícola disponibilizados para a sociedade.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: janeiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NBP = Número de Boletins publicados
+Fonte De Dados Das Variáveis De Cálculo: Número de boletins publicados
+Forma De Disponibilização: Publicação dos boletins
+Procedimento De Cálculo: Soma do número de boletins publicados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1098
+Indicador: 10106
+Denominação: Número de bolsas de residência (AgroResidência) fornecidas
+Sigla: AgroResidP&A
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: bolsas concedidas
+Descrição: Fomentar com recursos do Ministério da Pesca e Aquicultura (MPA) o Programa de Residência Profissional Agrícola (AgroResidência), destinado à qualificação de jovens estudantes e recém-egressos dos cursos de ciências agrárias de aquicultura e pesca
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: junho do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: BReP = Bolsas de residência (AgroResidência) concedidas a Pesca
+BReA = Bolsas de residência (AgroResidência) concedidas a Aquicultura
+Fonte De Dados Das Variáveis De Cálculo: Dados do Programa de Residência Profissional Agrícola (AgroResidência)
+Forma De Disponibilização: Publicações do Ministério da Pesca e Aquicultura
+Procedimento De Cálculo: Contagem da bolsas de residência (AgroResidência) concedidas, financiadas pelo Ministério da Pesca e Aquicultura (MPA) para Aquicultura e Pesca
+Limitações: Alterações no Programa do AgroResidência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1076
+Indicador: 10079
+Denominação: Número de contratos celebrados anualmente
+Sigla: TCANCC
+Índice De Referência: 221.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: uniddade
+Descrição: Número de contratos de cessões de uso de águas da União para fins de aquicultura, celebrados anualmente.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: dezembro do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CC = Contratos celebrados
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Aquicultura (SNA)
+Forma De Disponibilização: Publicação dos Contratos no Diário Oficial da União
+Procedimento De Cálculo: Contagem total de contratos celebrados
+Limitações: Falta de implementação da plataforma do Sistema Nacional da Autorização de Uso de Águas da União para fins de aquicultura.
+SINAU;
+Necessidade de atualização da normativa de procedimentos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1013
+Indicador: 10003
+Denominação: Número de contratos concedidos para a pesca artesanal e para a aquicultura
+Sigla: NCC
+Índice De Referência: 13648.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: uniddade
+Descrição: Número de contratos de financiamento efetivados para o pescador artesanal  e o aquicultor, no Programa Nacional da Agricultura Familiar - PRONAF e em outras linhas de concessões de crédito.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: junho do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CP = Contratos concedidos para a pesca artesanal
+CA = Contratos concedidos para a aquicultura
+Fonte De Dados Das Variáveis De Cálculo: Banco Central do Brasil
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Somatório de contratos concedidos para a pesca artesanal e para a aquicultura
+Limitações: Dados disponíveis apenas para PRONAF, não contemplando linhas de crédito regionais, para a pesca artesanal.
+Falta de uma compreensão mais adequada pelos agentes financeiros na análise de crédito para a pesca e aquicultura.
+Notas Explicativas: Foi utilizado o dado referente ao ano de 2020, pois foi o ano com maior número de contratos e volume concedido nos últimos 10 anos, para a atividade de pesca.
+Informa-se que o número de referência é composto por 8.788 contratos relativos a atividade pesqueira e 4.860 contratos para a aquicultura.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Entrega: 1123
+Indicador: 10860
+Denominação: Número de contratos de cessão de uso em Águas da União para fins de aquicultura fiscalizados
+Sigla: FCCAU
+Índice De Referência: 400.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Fiscalização de Contratos: Conjunto de atividades exercidas pela Administração para controle, acompanhamento e monitoramento das obrigações estabelecidas no contrato de cessão de uso de águas da União para fins de aquicultura. Além disso, acompanhar a efetividade da política pública.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: novembro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CCA = Contratos de cessão de uso em Águas da União para fins de aquicultura fiscalizados
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Aquicultura (SNA) do Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicação do boletim anual que consolida os dados do Relatório Anual de Produção (RAP) da aquicultura em águas da União.
+Procedimento De Cálculo: Contagem do número de contratos de cessão de uso em Águas da União para fins de aquicultura fiscalizados
+Limitações: Falta de recursos humanos da Sede e nas Superintendências do Ministério da Pesca e Aquicultura (MPA).
+Notas Explicativas: A fiscalização dos contratos de cessão de uso de águas da União é o conjunto de atividades exercidas pela Administração para controle, acompanhamento e monitoramento do cumprimento das obrigações estabelecidas em contrato, com o fim de assegurar a execução do objeto contratado e o respeito às normas vigentes. 
+DECRETO Nº 11.624, DE 1º DE AGOSTO DE 2023, art. 14.  Ao Departamento de Aquicultura em Águas da União compete IX - fiscalizar as cessões de uso de espaços físicos em águas de domínio da União para fins de aquicultura.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Entrega: 1115
+Indicador: 10134
+Denominação: Número de pescadores amadores e esportivos licenciados
+Sigla: NPAEL
+Índice De Referência: 251583.0
+Em Apuração: Não
+Data De Apuração: 2022-07-12 00:00:00
+Unidade De Medida: Pessoas
+Descrição: Somatório do número de pescadores amadores e esportivos com licença para a prática desta atividade até o momento.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: janeiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PL = Pescadores Licenciados
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Número de Pescadores Licenciados = Somatório do Número de Pescadores Amadores e Esportivos licenciados
+Limitações: Necessidade de atualização de sistemas e o valor da taxa de licença.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1011
+Indicador: 10853
+Denominação: Número de Pescadores atendidos com equipamentos, infraestruturas pesqueiras e inovações tecnológicas
+Sigla: CAPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Pessoas Atendidas
+Descrição: Quantidade de pescadores e pescadoras artesanais beneficiados por equipamentos, infraestruturas pesqueiras e inovações tecnológicas
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PescAtend = Número de pescadores e pescadoras artesanais beneficiados por equipamentos, infraestruturas pesqueiras e inovações tecnológicas.
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Somatório de pescadores e pescadoras artesanais beneficiados por equipamentos, infraestruturas pesqueiras e inovações tecnológicas.
+Limitações: Dados estimados a partir da indicação de público beneficiado pelos convenentes.
+Notas Explicativas: Não há dados disponíveis sobre ações de apoio a cadeia produtiva e público beneficiado específico para a pesca artesanal. Trata-se de ação nova, por isso o índice de referência é 0 (zero).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1081
+Indicador: 10084
+Denominação: Número de pescadores atendidos por ações de assistência técnica e extensão pesqueira
+Sigla: EXTPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Pessoas Atendidas
+Descrição: Quantidade de pescadores e pescadoras artesanais atendidos por ações de
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PA = Pescadores Atendidos
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca a Aquicultura (MPA)
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Somatório de Pescadores Atendidos
+Limitações: Limitações de recursos para execução da Assistência técnica e extensão pesqueira (ATEP) e dados dependem dos convenentes
+Notas Explicativas: Não há dados disponíveis sobre extensão pesqueira, por isso o índice de referência é zero. As ações serão monitoradas a partir de 2023.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Entrega: 1109
+Indicador: 10117
+Denominação: Número de pescadores e aquicultores registrados no Registro Geral das atividades de pesca e aquicultura
+Sigla: PAREG
+Índice De Referência: 881333.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: ocorrências registradas
+Descrição: Número total de pescadores e aquicultores registrados no sistema de Registro Geral das atividades de pesca e aquicultura
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: dezembro do ano a que se refere o índice
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NRP=Número de registro de pescadores
+NRA=número de registro de aquicultores
+Fonte De Dados Das Variáveis De Cálculo: Registro Geral das Atividades do Ministério da Pesca e Aquicultura
+Forma De Disponibilização: Painel de monitoramento de registro profissional dos pescadores e aquicultores
+Procedimento De Cálculo: Soma do número de registro dos pescadores e aquicultores registrados no Registro Geral das atividades da pesca e aquicultura
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1088
+Indicador: 10094
+Denominação: Número de pescadores e pescadoras matriculados em programas de educação contextualizada
+Sigla: EDUPART
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Número de matrículas
+Descrição: Pescadores e pescadoras artesanais matriculados em cursos da educação básica, educação de jovens e adultos e educação profissional com construção curricular e metodológica adequada a realidade das comunidades pesqueiras.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PM = Pescador matriculado em programa de educação contextualizada
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Educação (MEC) e Secretaria Estaduais e Municipais de Educação
+Forma De Disponibilização: Publicação do Ministério da Pesca a Aquicultura (MPA)
+Procedimento De Cálculo: Contagem de estudantes (Pescador matriculado em programa de educação contextualizada)
+Limitações: Execução descentralizada. 
+Atividade de indução por parte do Ministério da Pesca a Aquicultura.
+Notas Explicativas: Trata-se de iniciativa que visa adequar currículos e metodologias educacionais ao universo das comunidades pesqueiras, que ainda não possui informações disponíveis.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1084
+Indicador: 10090
+Denominação: Número de profissionais envolvidos com o setor atualizados técnico-cientificamente
+Sigla: QPPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoas capacitadas
+Descrição: Quantidade de profissionais envolvidos com a extensão pesqueira qualificados
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano a que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAA = Profissionais atendidos envolvidos com a extensão pesqueira
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca a Aquicultura (MPA)
+Forma De Disponibilização: Publicações do Ministério da Pesca e Aquicultura
+Procedimento De Cálculo: Somatório de profissionais atendidos envolvidos com a extensão pesqueira
+Limitações: Ação nova, não há dados anteriores.
+Notas Explicativas: Como se trata de uma ação ainda não realizada, o índice de referência é 0.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Entrega: 1112
+Indicador: 10121
+Denominação: Número de projetos de pesquisa executados
+Sigla: PPE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: projetos
+Descrição: Número de projetos de pesquisa executados com o objetivo de promover desenvolvimento e inovação nas cadeias produtivas da pesca e da aquicultura.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: dezembro do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPE = Número de projetos executados
+Fonte De Dados Das Variáveis De Cálculo: Ministério da pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicação em Diário Oficial
+Procedimento De Cálculo: Soma do número de projetos publicados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1010
+Indicador: 10849
+Denominação: Número de técnicos responsáveis por embarcações de pesca em boas práticas higiênico-sanitárias qualificados
+Sigla: QualiTR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: profissional capacitado
+Descrição: O indicador busca registrar o total de técnicos responsáveis pelas embarcações de pesca de produção primária aprovados em cursos e treinamentos sobre medidas higiênico-sanitárias oferecidos pelo Ministério da Pesca e Aquicultura (MPA), com objetivo de qualificar os profissionais que atuam na gestão dos programas de autocontrole.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TRC = Técnicos responsáveis por embarcações de pesca, aprovados em curso sobre medidas higiênico-sanitárias na produção primária do pescado oferecidos pelo Ministério da Pesca e Aquicultura (MPA)
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Relatório
+Procedimento De Cálculo: Somatório do total de participantes (técnicos responsáveis por embarcações de pesca) em curso sobre medidas higiênicos-sanitárias na produção primária do pescado oferecido pelo Ministério da Pesca a Aquicultura (MPA), que obtiveram certificado de aprovação.
+Notas Explicativas: Trata-se de ação nova, por isso o índice de referência é 0 (zero).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1007
+Indicador: 10114
+Denominação: Percentual de embarcações pesqueiras com certificação higiênico-sanitária
+Sigla: PCHS
+Índice De Referência: 0.6
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Total de embarcações de pescas com certificação higiênico-sanitária em relação ao total de embarcações registradas no Registro Geral da Atividade Pesqueira (RGP) e obrigadas a certificação. O indicador busca medir o nível de adoção das ações higiênicos-sanitárias nas embarcações de pesca de produção primária visando melhorar a qualidade da matéria prima destinada às indústrias de beneficiamento.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: EPC = Embarcações de pesca com certificação higiênico-sanitária; 
+EPR = Embarcações de pesca registradas no sistema de Registro Geral da Atividade Pesqueira (RGP) com status “ativa” e obrigadas a certificação.
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca a Aquicultura (MPA)
+Forma De Disponibilização: Relatório
+Procedimento De Cálculo: Total de embarcações pesqueiras que receberam certificação higiênico-sanitária dividido pelo total de embarcações pesqueiras com status de "ativa"  e obrigadas a certiificação, na base de dados do sistema de Registro Geral da Atividade Pesqueira (RGP)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Entrega: 1108
+Indicador: 10857
+Denominação: Percentual de embarcações pesqueiras monitoradas
+Sigla: PEPM
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: %
+Descrição: Total de embarcações pesqueiras monitoradas em relação ao número total de embarcações registradas
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: dezembro do ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NM = Número de embarcações monitoradas através do Programa Nacional de Rastreamento de Embarcações Pesqueiras por Satélite (PREPS) 
+NR = número de embarcações registradas no Ministério da Pesca e Aquicultura (MPA)
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Paineis de monitoramento de embarcações
+Procedimento De Cálculo: O número de embarcações monitoradas através do Programa Nacional de Rastreamento de Embarcações Pesqueiras por Satélite (PREPS) será dividido pelo número de embarcações registradas no Ministério da Pesca e Aquicultura (MPA) para obter a porcentagem de embarcações monitoradas
+Limitações: Serão utilizados para o cálculo do índice apenas as embarcações monitoradas pelo Programa Nacional de Rastreamento de Embarcações Pesqueiras por Satélite - PREPS, uma vez que ainda não é possível o cruzamento de dados com outros sistemas para acompanhamento de todos os instrumentos de monitoramento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1050
+Indicador: 10045
+Denominação: Percentual de Pescado de captura exportado com certificação de origem legal
+Sigla: PCO
+Índice De Referência: 11.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Total anual de pescado de captura exportado com certificação de origem legal em relação ao total anual de pescado de captura exportado.  O indicador tem como objetivo medir a adoção dos procedimentos de certificação da origem do pescado de captura, em atenção aos compromissos do país para atendimento ao mercado externo e aos acordos firmados nos fóruns internacionais, visando combater a pesca ilegal, não declarada e não regulamentada.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: março do ano seguinte ao ano a que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PECO = Pescado de captura exportado com certificação de origem legal; e
+PE = Pescado de captura exportado
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA) - Total de pescado de captura exportado com certificação de origem legal
+Embrapa Pesca e Aquicultura - Total de pescado da piscicultura exportado (dados obtidos junto ao Comex Stat)
+Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Comex Stat) - Total de pescado de captura exportado
+Forma De Disponibilização: Relatório
+Procedimento De Cálculo: Total de pescado de captura exportado com emissão de Certificação de Origem legal em um ano, obtido na base de dados do MPA, dividido pelo total de pescado de captura exportado no mesmo ano, obtido na base de dados Comex Stat, utilizando-se o agregador “Classificação Uniforme para Comércio Internacional” (CUCI); categoria “Grupo”, códigos: 034a, 034c, 035, 036a, 036c e 037, multiplicado por 100.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1040
+Indicador: 10035
+Denominação: Quantidade de pescado adquirido nas compras institucionais e na merenda escolar
+Sigla: AAPCI
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de pescado oriundo da pesca e da aquicultura adquirido nas compras institucionais na merenda escolar
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: junho do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Pescado adquirido nas compras institucionais e na merenda escolar
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Somatório da quantidade de pescado adquirido nas compras institucionais e na merenda escolar
+Limitações: Os sistemas de controle e gestão dos programas de compras institucionais de alimentos estão em reformulação e os dados relativos ao índice de referência não estão disponíveis no momento.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1043
+Indicador: 10038
+Denominação: Quantidade de protocolos de certificação implementados
+Sigla: CERTPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Protocolos de certificação de produtos da pesca artesanal elaborados e implementados, com o objetivo de ampliar os canais de comercialização da pesca artesanal.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ProC = Protocolo de Certificação implementado
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Pesca e Aquicultura (MPA)
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura (MPA)
+Procedimento De Cálculo: Somatório de Protocolos de Certificação Implementados
+Notas Explicativas: Trata-se de ação nova, sem dados prévios disponíveis, por isso o índice de referência é 0 (zero).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Entrega: 1051
+Indicador: 10048
+Denominação: Valor exportado (valor FOB)
+Sigla: PEX
+Índice De Referência: 374984984.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: tonelada
+Descrição: Valor FOB do total de pescado exportado ao final do ano
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Valor FOB do total de pescado exportado ao final do ano
+Índice esperado de crescimento
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC): Comex Stat
+Forma De Disponibilização: Plataforma Comex Stat
+Procedimento De Cálculo: A extração de dados no ComexStat considera como agregador a “Classificação Uniforme para Comércio Internacional”   (CUCI) na categoria “Grupo”, utilizando os códigos: 034a, 034c, 035, 036a, 036c e 037.
+Comparação entre o Valor FOB do ano atual em relação ao ano anterior.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5801
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Indicador: 11162
+Denominação: Índice de Ordenamento Pesqueiro e Aquícola
+Sigla: IOPA
+Índice De Referência: 24.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Acompanhamento e monitoramento dos níveis de exploração dos estoques pesqueiros e aumento da quantidade de aquicultores licenciados em relação aos registrados no Registro Geral da Atividade Pesqueira - RGP.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: julho do ano seguinte ao ano que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Índice =([1-(EstSobr/(EstAval)]+ (AquiLicen/AquiRegis)/2)*100
+
+Onde:
+EstSobr é a quantidade de estoques sobrepescados
+EstAval é a quantidade de estoques avaliados
+AquiLicen é a quantidade de aquicultores licenciados
+AquiRegis é a quantidade de aquicultores registrados no RGP
+Fonte De Dados Das Variáveis De Cálculo: Registro Geral da Atividade Pesqueira - RGP
+Ministério da Pesca e Aquicultura - MPA
+Forma De Disponibilização: Publicação do Ministério da Pesca e Aquicultura
+Procedimento De Cálculo: A quantidade de aquicultores licenciados e registrados serão extraídos do sistema do Registro Geral da Atividade Pesqueira - RGP. A quantidade de estoques avaliados e sobrepescados  serão analisados pelo Ministério de Pesca e Aquicultura - MPA.
+Limitações: Necessidade de desenvolvimento de sistema para o monitoramento dos dados da atividade aquícola.
+Notas Explicativas: Trata-se de nova metodologia de apuração, tendo em vista a necessidade de criação de um indicador único para as atividades de pesca e aquicultura. Por oportuno, informo sobre a necessidade de desenvolvimento de sistema para o monitoramento dos dados da atividade aquícola.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Indicador: 11156
+Denominação: Produção de Pescado
+Sigla: PP
+Índice De Referência: 1300000.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: tonelada/ano
+Descrição: Produção de Pescado: produção anual de pescado
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: julho do exercício seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ProdEsp = produção anual de cada pescado com importância comercial
+Fonte De Dados Das Variáveis De Cálculo: FAO, IBGE, MPA, MCR do BACEN
+Forma De Disponibilização: Publicação do Ministério da Pesca e da Aquicultura - MPA
+Procedimento De Cálculo: Somatório da produção anual de cada pescado
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5801
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 389
+Enunciado: Promover a valorização do pescado nacional e aumento de produção da aquicultura.
+Descrição: Promover o aumento da produção sustentável da aquicultura e aumentar a valorização do produto oriundo da pesca, agregando valor à cadeia produtiva.
+Órgão: 58000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 397
+Enunciado: Fortalecer o ordenamento e monitoramento da atividade pesqueira e aquícola.
+Descrição: Fortalecer o ordenamento e monitoramento da atividade pesqueira e aquícola, através de acompanhamento dos níveis de exploração dos estoques e modernização de sistemas e facilitação do acesso dos pescadores e aquicultores à regularização, no âmbito do Ministério da Pesca e Aquicultura.
+Órgão: 58000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 552
+Enunciado: Contemplar comunidades tradicionais e a sustentabilidade de sua cadeira produtiva para garantir segurança alimentar e sustentabilidade duradoura.
+Descrição: Monitorar a conservação das área e técnicas que garantam a durabilidade da cadeira produtiva para as populações que dependem diretamente da aquicultura.
+Órgão: 58000
+Tipo Do Órgão: O
+Origem: Avaliação PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Objetivo Específico: 553
+Enunciado: Difundir conhecimentos científicos oriundos da academia para garantir que a produtividade da aquicultura ocorra da forma mais maximizada e sustentável possível, garantindo também a preservação do meio ambiente.
+Descrição: Garantir que a pesca e aquicultura sejam realizadas com respaldo científico, em consonância com a academia e ciência, garantindo a sustentabilidade e o desenvolvimento contínuo da área, juntamente com a maximização da produção.
+Órgão: 58000
+Tipo Do Órgão: O
+Origem: Avaliação PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Sim
+
+passage: Programa Número 5801
+
+Exercício: 2025
+Programa: 5801
+Objetivo: 1336
+Enunciado: Desenvolver a Pesca e Aquicultura de forma sustentável, por meio do fortalecimento das cadeias produtivas e considerando as dimensões ecológica, econômica, social e cultural dessas atividades, para gerar trabalho e renda, contribuir para a segurança alimentar e melhorar a produtividade e competitividade do setor
+Descrição: Desenvolver a Pesca e Aquicultura
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5801
+
+Exercício: 2025
+Programa: 5801
+Título: Pesca e Aquicultura Sustentáveis
+Tipo: Finalístico
+Órgão: 58000.0
+Público-Alvo: Pescadores(as), Aquicultores(as), Armadores(as) de pesca, empresas pesqueiras e outros agentes que compõem a cadeia de valor da pesca e aquicultura.
+Descrição Do Problema: Insuficiência na adoção e continuidade de práticas sustentáveis nas cadeias produtivas da pesca e aquicultura.
+Causa Do Problema: As principais causas do problema são a instabilidade institucional, o arcabouço normativo desatualizado, a descontinuidade de políticas públicas, a baixa participação social, informações técnico-científicas insuficientes, carência de alternativas para financiamento e fortalecimento da cadeia produtiva,  descontinuidade das políticas de registro e monitoramento dos pescadores e aquicultores.
+Evidências Do Problema: O  problema e suas causas geram incertezas, dificuldades e impactos significativos nas atividades de pesca e aquicultura, como: 
+ 
+Insegurança jurídica: As mudanças frequentes na estrutura e nas políticas públicas levaram a uma falta de clareza sobre as regras em vigor, tornando difícil para os pescadores e aquicultores se adaptarem e planejarem suas atividades a longo prazo. 
+ 
+Dificuldade de acesso a recursos e apoio: A falta de continuidade das políticas públicas resultou em atrasos ou interrupções na concessão de licenças, autorizações e financiamentos destinados aos pescadores e aquicultores. Essa situação dificulta o acesso a recursos e apoio necessários para a melhoria das práticas, investimentos em equipamentos adequados e a adoção de técnicas mais sustentáveis. 
+ 
+Insegurança econômica: As mudanças repentinas nas políticas e nas condições do mercado impactam negativamente os preços do pescado, as oportunidades de comercialização e a viabilidade financeira dessas atividades. 
+ 
+Impactos ambientais: A ausência de uma abordagem consistente de conservação e manejo sustentável levou a práticas irregulares das atividades, sobrepesca e danos aos ecossistemas aquáticos.
+Justificativa Para A Intervenção: As evidências apontadas demonstram a necessidade de uma maior estabilidade institucional e continuidade nas políticas públicas para a pesca e a aquicultura no Brasil.
+Evolução Histórica: Ao longo dos anos, as políticas públicas voltadas para a pesca e aquicultura no Brasil passaram por diversas transformações e estiveram associadas a diferentes órgãos governamentais. Inicialmente, a pesca e a aquicultura eram tratadas em conjunto com outros setores relacionados à agricultura, e não havia uma estrutura específica para lidar com as questões pesqueiras e aquícolas. 
+ 
+Em 1962, foi criada a Superintendência do Desenvolvimento da Pesca (Sudepe), vinculada ao Ministério da Agricultura, responsável pela execução das políticas de pesca no país. A Sudepe tinha como objetivo promover o desenvolvimento da pesca e da aquicultura, além de regular a exploração dos recursos pesqueiros. 
+ 
+Em 2009, foi estabelecido o Ministério da Pesca e Aquicultura (MPA), com o intuito de concentrar esforços e recursos na gestão e no desenvolvimento dessas atividades. O MPA tinha como responsabilidade formular políticas públicas, promover a sustentabilidade da pesca e da aquicultura, além de fiscalizar e regulamentar as atividades pesqueiras e aquícolas. 
+
+Neste mesmo ano, foi publicada a Lei nº 11.959, de 29 de junho de 2009, que dispõe sobre a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca. Esta Lei estabelece definições, responsabilidades e diretrizes fundamentais para a formulação de políticas relacionadas à pesca e à aquicultura.
+ 
+Posteriormente, em 2015, o MPA foi extinto e suas atribuições foram transferidas para o Ministério da Agricultura, Pecuária e Abastecimento (MAPA), com a criação da Secretaria de Aquicultura e Pesca (SAP). A pasta ainda transitou pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) e pela Presidência da República, estruturada na Secretaria Especial de Aquicultura e Pesca (SEAP). Em 2019, a SEAP foi extinta e as competências relacionadas à gestão da pasta foram incorporadas novamente ao MAPA, na Secretaria de Aquicultura e Pesca. 
+
+Atualmente, a reestruturação do Ministério da Pesca e Aquicultura tem evidenciado a discussão sobre a necessidade de fortalecimento institucional e sua importância na reformulação de políticas de desenvolvimento da pesca e da aquicultura no país, para garantir a sustentabilidade e a conservação dos recursos pesqueiros, bem como uma abordagem integrada e participativa envolvendo pescadores(as), aquicultores(as), cientistas, sociedade civil e demais partes interessadas.
+Comparações Internacionais: Apesar das dimensões continentais do Brasil, da rica biodiversidade, do potencial hídrico, e a forte presença da pesca artesanal, o país apresenta produção pesqueira e aquícola (1.339 mil ton) aquém de seu potencial, quando comparados com outros países da América do Sul, como Chile (3.259 mil ton) e Peru (5.770 mil ton), com pouca representatividade no cenário internacional relacionado à pesca extrativa e com melhor posição quanto à aquicultura (SOFIA, 2022 - The State of World Fisheries and Aquaculture 2022 (fao.org)).  
+
+Alguns países têm implementado abordagens eficientes para a gestão pesqueira e aquícola, como a adoção de sistemas de cotas, o estabelecimento de áreas marinhas protegidas e a promoção da pesca e aquicultura sustentável, como por exemplo Estados Unidos e Chile. Embora a aplicação destas medidas estejam sendo implementadas no Brasil, como a delimitação de áreas marinhas protegidas, os sistemas de cotas para alguns recursos e a implementação de inovações tecnológicas para aquicultura, algumas dessas medidas precisam ser aprimoradas e aprofundadas levando em consideração as peculiaridades da pesca e aquicultura no país.
+ 
+No entanto, em muitos países, incluindo o Brasil, ainda há desafios a serem superados. Estes incluem a falta de recursos financeiros e técnicos para implementar medidas de manejo eficazes, a falta de monitoramento adequado das atividades pesqueiras e aquícolas, a pesca ilegal não regulamentada e a falta de coordenação entre os diferentes atores envolvidos na gestão pesqueira e aquícola.
+Relação Com Os Ods: Objetivo 1. Acabar com a pobreza em todas as suas formas, em todos os lugares 
+ 
+Objetivo 2. Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+
+Objetivo 5. Igualdade de Gênero.
+
+Objetivo 10. Redução das desigualdades.
+
+Objetivo 14. Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável.
+Agentes Envolvidos: Ministério da Agricultura e Pecuária (MAPA), o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), Ministério do Meio Ambiente e Mudança do Clima (MMA), Ministério do Desenvolvimento Agrário e da Agricultura Familiar (MDA), Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS),  Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), a Agência Nacional de Águas (ANA), Instituto Nacional do Seguro Social (INSS), Secretaria de Patrimônio da União (SPU), organizações não governamentais (ONGs), instituições estaduais de meio ambiente e de sanidade agropecuária, a Marinha do Brasil, Instituições de pesquisa e entidades de classe do setor produtivo.
+Articulação Federativa: A coordenação e cooperação entre os diferentes níveis de governo (federal, estadual e municipal) na gestão e regulamentação da pesca e aquicultura é essencial para garantir uma abordagem integrada e eficiente na gestão dos recursos pesqueiros e aquícolas, considerando as especificidades regionais e as responsabilidades de cada ente federado. A articulação federativa é imprescindível para implementação de programas e políticas de apoio aos pescadores, como incentivos financeiros, capacitação, assistência técnica, formação de comitês e fóruns de discussão com representantes dos diferentes níveis de governo, da sociedade civil e do setor pesqueiro e aquícola para promover o diálogo e a tomada de decisões conjuntas.
+Enfoque Transversal: A abordagem transversal na pesca e na aquicultura no Brasil envolve a cooperação entre diferentes ministérios e órgãos de todas as esferas para a gestão sustentável dos recursos pesqueiros e aquícolas. O Ministério do Meio Ambiente e Mudança do Clima (MMA) desempenha um papel fundamental na gestão compartilhada desses recursos, promovendo a conservação dos ecossistemas aquáticos e estabelecendo diretrizes para a pesca responsável. O Ministério da Agricultura e Pecuária (MAPA), por sua vez, coordena as ações relacionadas à sanidade dos animais aquáticos e inspeção sanitária da produção pesqueira. O Instituto Nacional do Seguro Social (INSS) está envolvido na concessão do seguro defeso e outros direitos previdenciários destinados aos pescadores, garantindo a proteção social desses trabalhadores. A Agência Nacional de Águas (ANA) desempenha um papel importante ao estabelecer normas e fiscalizar o uso dos recursos hídricos da União, que são essenciais para a aquicultura. Por fim, os órgãos estaduais e municipais, como, por exemplo, os órgãos executores de sanidade agropecuária nos estados (OESAS), contribuem na operacionalização das políticas públicas. Essa abordagem transversal busca integrar as diferentes esferas de atuação, promovendo a conservação ambiental, a saúde dos estoques pesqueiros, a proteção social dos pescadores e o uso responsável dos recursos hídricos, garantindo assim uma pesca e aquicultura sustentável.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

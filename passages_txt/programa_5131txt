@@ -1,0 +1,571 @@
+passage: Programa Número 5131
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 341
+Entrega: 754
+Indicador: 9680
+Denominação: Municípios cujos Conselhos de Assistência Social apresentam proporcionalidade entre os segmentos da sociedade civil (trabalhadores, usuários e entidades) adequada à Resolução CNAS Nº 100/202
+Índice De Referência: 373.0
+Em Apuração: Não
+Data De Apuração: 2023-05-15 00:00:00
+Unidade De Medida: município
+Descrição: Quantidade de municípios cuja proporção de conselheiros de Assistência Social, representantes dos segmentos da sociedade civil, mostra-se adequada à Resolução CNAS/MDS nº 100/2023
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de municípios com conselhos de assistência social com proporcionalidade entre a sociedade civil.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas REDE SUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: Coletar informações da REDE SUAS sobre composição dos conselhos de assistência social, verificar a proporcionalidade entre os segmentos da sociedade civil e em seguida calcular o somatório de conselhos proporcionais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Entrega: 561
+Indicador: 9487
+Denominação: Número de municípios com cobertura de CREAS
+Índice De Referência: 2590.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: município
+Descrição: O indicador mensura a evolução da cobertura de CREAS nos municípios
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: municípios com cobertura de CREAS municipal ou regional
+Fonte De Dados Das Variáveis De Cálculo: Censo SUAS / CadSUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento, pelos municípios, dos sistemas da Rede SUAS
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Entrega: 652
+Indicador: 9593
+Denominação: Número de municípios com cofinanciamento federal para ações estratégicas do PETI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: município
+Descrição: O indicador utilizado demonstra a evolução do número de municípios com cofinanciamento federal para ações estratégicas do PETI
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios com cofinanciamento federal para ações estratégicas do PETI
+Fonte De Dados Das Variáveis De Cálculo: Sistemas da Rede Suas
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento dos repasses do cofinanciamento federal
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Entrega: 627
+Indicador: 9569
+Denominação: Número de municípios ofertando o Serviço de Acolhimento em Família Acolhedora para crianças e adolescentes
+Índice De Referência: 515.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: município
+Descrição: O indicador demonstra a quantidade de municípios que implantaram o Serviço de Acolhimento em Família Acolhedora para crianças e adolescentes
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios que implantaram o Serviço de Acolhimento em Família Acolhedora para crianças e adolescentes.
+Fonte De Dados Das Variáveis De Cálculo: Censo SUAS / CadSUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento, pelos municípios, dos sistemas da Rede SUAS
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Entrega: 568
+Indicador: 9496
+Denominação: Número de unidades Centro Pop em funcionamento
+Índice De Referência: 237.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mensura a magnitude da rede de unidades Centro Pop, no País
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Centro Pop
+Fonte De Dados Das Variáveis De Cálculo: Censo SUAS / CadSUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento, pelos municípios, dos sistemas da Rede SUAS
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Entrega: 636
+Indicador: 9581
+Denominação: Número de vagas ofertadas pelos serviços de acolhimento
+Índice De Referência: 203176.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: Vagas em cursos de formação ofertadas
+Descrição: O indicador demonstra a evolução das vagas ofertadas pelos serviços de acolhimento
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de vagas ofertadas pelos serviços de acolhimento do SUAS
+Fonte De Dados Das Variáveis De Cálculo: Censo SUAS / CadSUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento, pelos municípios, dos sistemas da Rede SUAS
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 309
+Entrega: 679
+Indicador: 9607
+Denominação: Percentual de crianças de 0 a 3 anos inscritas no Cadastro Único, atendidas pelo Programa Primeira Infância no SUAS / Criança Feliz
+Índice De Referência: 11.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: %
+Descrição: Considerando que o público do Programa deverá estar inscrito no Cadastro Único, o percentual de crianças registradas no CadÚnico e atendidas pelo Programa é o melhor indicador de cobertura/acesso.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Crianças atendidas Programa Primeira Infância no SUAS; Crianças de 0 a 3 inscritas no Cadastro Único
+Fonte De Dados Das Variáveis De Cálculo: ePCF e Cadastro Único
+Forma De Disponibilização: CadÚnico e sistemas eletrônicos de monitoramento
+Procedimento De Cálculo: Consulta ao CadÚnico e sistemas eletrônicos para verificação do percentual de crianças atendidas pelo Programa Primeira Infância no SUAS, em relação ao total de crianças de 0 a 3 inscritas no Cadastro Único
+Limitações: Considerando que o público da ação deverá estar inscrito no Cadastro Único, verificar o percentual de crianças atendidas pelo Programa é o melhor indicador de cobertura/acesso
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 253
+Entrega: 527
+Indicador: 9421
+Denominação: Percentual de famílias com renda de até 1/2 salário-mínimo inscritas no Cadastro Único referenciadas por CRAS cofinanciados pelo Governo Federal
+Índice De Referência: 62.1
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: percentagem
+Descrição: Descrição: O CRAS é a unidade principal do SUAS, sendo a mais capilar e referência para os serviços e programas da Proteção Social Básica, sendo quase todos ofertados dentro da unidade CRAS ou referenciados a ela, o que, portanto, torna esta unidade um bom indicador de cobertura dos serviços e programas da Proteção Social Básica no território. O público da Proteção Social Básica não se limita ao recorte de baixa renda, porém, este é um bom indicador de demanda dos serviços e programas de Proteção Social Básica nos territórios. O Governo Federal repassa recursos para que os entes federados mantenham o funcionamento das unidades para a oferta dos serviços e programas, porém, nem todas as unidades implantadas recebem repasses para manutenção, portanto o indicador visa identificar a taxa de famílias cobertas por unidades que recebem recursos federais para cofinanciamento de sua manutenção.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Famílias com renda de até ½ salário-mínimo inscritas no CadÚnico
+Total de famílias cobertas por unidades CRAS Cofinanciadas pelo Governo Federal
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Único/MDS; Rede de Cofinanciamento da Proteção Social Básica/MDS
+Forma De Disponibilização: Forma de Disponibilização do Indicador ou Dados: Disponibilização interna entre os órgãos do Governo
+Procedimento De Cálculo: Divisão entre o total de famílias com renda de até ½ salário-mínimo inscritas no CadÚnico referenciadas por unidades CRAS Cofinanciadas pelo Governo Federal e o Total de famílias com renda de até ½ salário-mínimo inscritas no CadÚnico.
+Notas Explicativas: O público atendido pelo CRAS não é apenas a população de baixa renda, porém as famílias com renda de até ½ salário-mínimo inscritas no Cadastro Único são um bom parâmetro de aproximação da demanda dos serviços e programas da Proteção Social Básica nos territórios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 341
+Entrega: 747
+Indicador: 9676
+Denominação: Percentual de municípios com preenchimento do Prontuário Eletrônico do SUAS
+Índice De Referência: 35.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: %
+Descrição: O Prontuário Eletrônico é uma ferramenta que auxilia o trabalho dos profissionais dos CRAS, CREAS e Unidades de Acolhimento para Crianças e Adolescentes no registro dos atendimentos realizados às famílias e indivíduos, e que permite qualificar o atendimento social e analisar de forma sistematizada as informações sobre o território e a população atendida
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: municípios utilizando o sistema prontuário eletrônico
+
+total de municípios brasileiros
+Fonte De Dados Das Variáveis De Cálculo: REDE SUAS
+Forma De Disponibilização: site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento, pelos municípios, do prontuário eletrônico
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 322
+Entrega: 709
+Indicador: 9634
+Denominação: Tempo Médio de Concessão (TMC) do BPC para as pessoas com deficiência (PcD)
+Sigla: TMC – BPC – PcD
+Índice De Referência: 248.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: dia
+Descrição: O indicador apresenta o tempo, em dias, em que o beneficiário aguarda desde o requerimento até o reconhecimento do direito. O TMC representa numericamente a capacidade e qualidade do atendimento ao beneficiário.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: 1) Data de Despacho do Benefício – DDB e 
+2) Data de Entrada do Requerimento – DER)
+Fonte De Dados Das Variáveis De Cálculo: DATAPREV/INSS
+Forma De Disponibilização: painel de indicadores da SAGICAD/MDS
+Procedimento De Cálculo: Somatório dos tempos (em dias) de concessão dos benefícios BPC-PcD (diferença entre as variáveis Data de Despacho do Benefício -DDB e Data de Entrada de Requerimento - DER)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 322
+Entrega: 730
+Indicador: 9657
+Denominação: Tempo Médio de Concessão (TMC) do BPC para as pessoas idosas
+Sigla: TMC – BPC – Id
+Índice De Referência: 99.0
+Em Apuração: Não
+Data De Apuração: 2023-02-15 00:00:00
+Unidade De Medida: dia
+Descrição: O indicador apresenta o tempo em que o beneficiário aguarda desde o requerimento até o reconhecimento do direito. O TMC representa numericamente a capacidade e qualidade do atendimento ao beneficiário.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: 1) Data de Despacho do Benefício – DDB ]
+2) Data de Entrada do Requerimento – DER) da espécie BPC Idoso
+Fonte De Dados Das Variáveis De Cálculo: DATAPREV/INSS
+Forma De Disponibilização: painel de indicadores da SAGICAD/MDS
+Procedimento De Cálculo: diferença entre a variável Data de Despacho do Benefício -DDB e a variável Data de Entrada de Requerimento - DER)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5131
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 253
+Indicador: 9417
+Denominação: Percentual de famílias com renda de até ½ salário-mínimo inscritas no Cadastro Único, cobertas por unidades CRAS
+Índice De Referência: 68.2
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: percentual
+Descrição: O CRAS é a unidade principal do SUAS, sendo a mais capilar e referência para os serviços e programas da Proteção Social Básica, sendo quase todos ofertados dentro da unidade CRAS ou referenciados a ela, o que, portanto, torna esta unidade um bom indicador de cobertura dos serviços e programas da Proteção Social Básica no território. O público da Proteção Social Básica não se limita ao recorte de baixa renda, porém, esta é uma boa proxy de público-alvo/demanda dos serviços e programas de Proteção Social Básica nos territórios.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N cad = Número de famílias cadastradas no CadÚnico com renda até ½ salário mínimo
+N cobertas = Número de famílias cobertas pelo referenciamento de CRAS
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Único/MDS; Rede de Cofinanciamento da Proteção Social Básica/MDS
+Forma De Disponibilização: Disponibilização interna entre os órgãos do Governo
+Procedimento De Cálculo: Divisão entre o número de famílias com cobertura pelo referenciamento de CRAS e o total de famílias com renda de até ½ salário-mínimo inscritas no CadÚnico ,  e se multiplica por 100.
+Limitações: Apesar das unidades CRAS não representarem a totalidade da Proteção Social Básica, ele é utilizado como parâmetro principal da situação da Proteção Social Básica nos territórios, por sua capilaridade e pelos serviços e programas da Proteção Social Básica estarem, em sua grande maioria, dentro das unidades CRAS ou a estas referenciadas. O público atendido pelo CRAS não é apenas a população de baixa renda, porém as famílias com renda de até ½ salário-mínimo inscritas no Cadastro Único são um bom parâmetro de aproximação da demanda dos serviços e programas da Proteção Social Básica nos territórios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 309
+Indicador: 9597
+Denominação: Percentual de municípios com adesão ao Programa Primeira Infância no SUAS/Criança Feliz, em relação ao quantitativo de municípios elegíveis ao Programa
+Índice De Referência: 68.0
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: percentual
+Descrição: Municípios com adesão ao Programa Primeira Infância no SUAS/Criança Feliz, para realização das visitas domiciliares realizadas no âmbito do Serviço de Proteção Básica e Cuidado no Domicílio às crianças, gestantes, pessoas com deficiência e idosos.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: 15 de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (Quantidade de municípios aderidos ao Programa Primeira Infância no SUAS / número total de municípios elegíveis ao Programa) x 100
+Fonte De Dados Das Variáveis De Cálculo: Rede de municípios aderidos do Programa Primeira Infância no SUAS / Criança Feliz
+Forma De Disponibilização: Dados disponíveis em sistema eletrônico de informações.
+Procedimento De Cálculo: Quantidade de municípios aderidos ao Programa Primeira Infância no SUAS / número total de municípios elegíveis ao Programa x 100
+Limitações: Exceções e cuidados no uso do Indicador, por exemplo, quantidade de casas decimais.
+Notas Explicativas: O indicador refere-se ao quantitativo de municípios que aderiram ao Programa em relação ao quantitativo de municípios que atendam o critério de elegibilidade
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 341
+Indicador: 9668
+Denominação: Percentual de municípios com preenchimento dos sistemas de registro e monitoramento dos requisitos do Art. 30 da LOAS (Conselho, Fundo e Plano de Assistência Social)
+Índice De Referência: 40.0
+Em Apuração: Sim
+Data De Apuração: 2023-08-11 00:00:00
+Unidade De Medida: %
+Descrição: O indicador utilizado demonstra o cumprimento, pelos municípios, de critérios essenciais para o pleno funcionamento da política de Assistência Social, quais sejam: possuir conselho de assistência social instituído e em funcionamento, garantindo a participação e controle social; realizar planejamento de médio prazo para execução da política de assistência, organizado no plano de assistência social; e possuir o fundo de assistência social, garantindo a execução e continuidade dos serviços e programas do SUAS.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios com preenchimento dos sistemas de registro e monitoramento dos requisitos do artigo 30 da LOAS
+Fonte De Dados Das Variáveis De Cálculo: Sistemas REDE SUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento dos sistemas do registro e monitoramento do artigo 30 da LOAS.
+Notas Explicativas: O indicador apresenta o percentual de municípios que preencheram os sistemas de registro e monitoramento do artigo 30 da LOAS. A partir desse preenchimento, é possível observar o cumprimento desses requisitos legais com relação à organização do SUAS nos municípios
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Indicador: 9478
+Denominação: Percentual de municípios com presença de serviços e unidades de Proteção Social Especial (PSE) de Média ou Alta Complexidades
+Índice De Referência: 65.51
+Em Apuração: Não
+Data De Apuração: 2023-01-15 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador demonstra a oferta da Proteção Social Especial no País, considerando o percentual de municípios que possuem ao menos uma unidade ou equipe de PSE em funcionamento.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: meados de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: municípios com CREAS municipal ou regional; municípios com Centros Pop; municípios com Centro Dia/Similar, municípios com unidade de acolhimento; e municípios com equipe de PSE no órgão gestor
+Fonte De Dados Das Variáveis De Cálculo: Censo SUAS / CadSUAS
+Forma De Disponibilização: Site do MDS
+Procedimento De Cálculo: O indicador será calculado a partir do acompanhamento do preenchimento, pelos demais entes, dos sistemas da Rede SUAS
+Limitações: Exceções e cuidados no uso do Indicador, por exemplo, quantidade de casas decimais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 322
+Indicador: 9621
+Denominação: Tempo Médio de Concessão (TMC) para o BPC (PcD e Idoso)
+Sigla: TCM – BPC
+Índice De Referência: 164.0
+Em Apuração: Não
+Data De Apuração: 2023-02-15 00:00:00
+Unidade De Medida: dias
+Descrição: Tempo, em dias, entre a entrada do requerimento do benefício no INSS e a decisão, por aquele órgão, da concessão do direito.
+Período Ou Data A Que Se Refere: jan-dez
+Data De Divulgação/Disponibilização: segunda quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: 1 Data de Despacho do Benefício – DDB e 
+2 Data de Entrada do Requerimento – DER
+Fonte De Dados Das Variáveis De Cálculo: DATAPREV/INSS
+Forma De Disponibilização: Painel de indicadores da SAGICAD/MDS
+Procedimento De Cálculo: : Utiliza-se o somatório dos tempos (em dias) de concessão dos benefícios BPC PcD e BPC Idoso (diferença entre as variáveis Data de Despacho do Benefício -DDB e Data de Entrada de Requerimento - DER)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5131
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 253
+Enunciado: Manter, qualificar e ampliar os serviços e programas de Proteção Social Básica ofertados às famílias e pessoas em situações de vulnerabilidade social.
+Descrição: Oferecer suporte à rede de Proteção Social Básica para que os serviços sejam ofertados e que a qualidade dos mesmos seja aprimorada, buscando prover as seguranças socioassistenciais à população em situação de vulnerabilidade social e a ampliação da rede de oferta dos serviços e programas.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 276
+Enunciado: Manter, qualificar e ampliar os serviços e programas de Proteção Social Especial ofertados às famílias e pessoas em situações de risco social, violência e violação de direitos
+Descrição: A Proteção Social Especial (PSE) do SUAS é a modalidade de atendimento assistencial destinada a famílias e indivíduos que vivenciam situações de risco social, violência e outras violações de direitos, como violência intrafamiliar, violência sexual, trabalho infantil, situação de rua, afastamento/rompimento do convívio familiar, dentre outras. A Constituição Federal preconiza que a assistência social será prestada a quem dela necessitar, entretanto a cobertura dos serviços de PSE ainda é um desafio, principalmente nos municípios de pequeno porte, sendo que mais de 1.900 municípios não possuem nenhuma unidade de PSE. Assim, é necessária a ampliação da rede e o aprimoramento dos serviços existentes, garantindo proteção social nas situações de violência e violações de direitos.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 309
+Enunciado: Promover a proteção e o desenvolvimento integral das crianças na primeira infância, considerando sua família e seu contexto de vida
+Descrição: Promover a proteção, cuidados e desenvolvimento integral às gestantes e crianças na primeira infância, por meio de ações articuladas voltadas ao fortalecimento de vínculos e complementariedade entre serviços, programas e benefícios socioassistenciais
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 322
+Enunciado: Aprimorar a gestão do BPC para reduzir o tempo de concessão dos benefícios, agilizando o acesso dos requerentes
+Descrição: Com a pandemia (Covid-19), ocorreu um significativo aumento do estoque de requerimentos de benefícios (BPC) pendentes de análise pelo INSS. Em razão disso, uma das questões que ganharam relevância em relação ao benefício foi a redução do tempo em que o beneficiário aguarda, desde o requerimento até o reconhecimento do seu direito.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Objetivo Específico: 341
+Enunciado: Fortalecer e qualificar a gestão do Sistema Único de Assistência Social (SUAS) e os mecanismos democráticos de participação e controle social
+Descrição: O Sistema Único de Assistência Social está constituído como um sistema descentralizado e participativo, organizado a partir de uma lógica tripartite de gestão compartilhada entre União, Estados, DF e Municípios, na qual cada ente possui suas competências na garantia de oferta dos serviços, programas e benefícios socioassistenciais. Além disso, a Constituição de 1988 prevê a implementação de políticas públicas com ampla participação social. Nesse sentido, fortalecer a gestão do SUAS e seus mecanismos democráticos de participação e controle social constitui um compromisso com a sociedade, que possui o direito de acessar a política de assistência social sempre que dela necessitar e participar de sua implementação, com garantia do exercício do controle social.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5131
+
+Exercício: 2025
+Programa: 5131
+Objetivo: 1322
+Enunciado: Fortalecer e ampliar o acesso aos serviços e benefícios socioassistenciais às famílias e pessoas em situações de vulnerabilidade, riscos pessoais e sociais e violações de direitos, contribuindo para a redução das desigualdades e a inclusão socioeconômica.
+Descrição: Até o presente, o Brasil ainda apresenta significativa parcela da população excluída dos benefícios do desenvolvimento, permanecendo em situações típicas de países muito pobres. Problemas que persistem aqui (exemplos: trabalho infantil, abuso e exploração sexual de crianças) já foram superados há muitas décadas pelos países desenvolvidos ou têm sua incidência quase restrita a países extremamente pobres.
+Manter e ampliar a cobertura do público alvo pelas ações do SUAS visando contribuir para a redução da(e): pobreza e extrema pobreza; trabalho infantil; abuso/exploração sexual de crianças e adolescentes; mortalidade infantil; violência intrafamiliar; fragilização e rompimento de vínculos familiares; número de pessoas em situação de rua; baixo desempenho escolar (evasão, abandono, repetência); situações de isolamento social e violação de direitos; demanda por acolhimento institucional (“abrigos”).
+Indiretamente, esses resultados contribuem para a redução de desigualdades sociais, de índices de violência, da pressão por aumento de gastos públicos em saúde e segurança pública, por exemplo. Em outros termos, a inclusão socioeconômica de expressiva parcela da população contribui não apenas para a melhoria da qualidade de vida, mas também para o desenvolvimento econômico e social do País.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5131
+
+Exercício: 2025
+Programa: 5131
+Título: Proteção Social pelo Sistema Único de Assistência Social (SUAS)
+Tipo: Finalístico
+Órgão: 55000.0
+Público-Alvo: Famílias e indivíduos em situações de vulnerabilidade, riscos pessoais e sociais e violações de direitos.
+Descrição Do Problema: Situações diversas de vulnerabilidade e risco afetam o desenvolvimento de crianças e adolescentes, a capacidade de proteção de famílias e superação de situações pelos indivíduos, gerando problemas como evasão e baixo desempenho escolar, gravidez precoce, trabalho infantil, exploração sexual e drogadição, minando a convivência familiar e comunitária, a saúde e qualificação educacional, resultando em inserção precária no trabalho, isolamento e exclusão social.
+O Cadastro Único (abril/2023) registra a existência de 22 milhões de famílias em situação de extrema pobreza (eram 13 milhões, em nov/2018) e outras 3,9 milhões de famílias em situação de pobreza (eram 3,2 milhões, em nov/2018). Esse volume corresponde a 50,7 milhões de pessoas em situação de extrema pobreza e outros 10,4 milhões em situação de pobreza.
+Mais da metade (56%) das pessoas registradas no CadÚnico são do sexo feminino e de cor/raça parda ou preta (69%). Aproximadamente 20% das pessoas e famílias residem na zona rural. Quase 1,5 milhão de pessoas são indígenas ou quilombolas. Quase 7 milhões de pessoas (7%) apresentam algum grau de deficiência, aproximadamente 4 milhões de pessoas demandam/recebem ajuda de alguém da família ou cuidador especializado. São quase 8 milhões de crianças na faixa 0-4 anos, em mais de 7 milhões de famílias. Mais de 150 mil dessas crianças apresentam algum grau de deficiência. Por fim, mais de 200 mil pessoas vivem em situação de rua e mais de 42 milhões de pessoas (45% das registradas no CadÚnico) não tiveram trabalho remunerado nos 12 meses anteriores à atualização do cadastro.
+Causa Do Problema: Em larga medida, as situações de vulnerabilidade e risco social decorrem da combinação de causas estruturais (como a baixa escolaridade, insegurança alimentar e vínculos precários ao trabalho) e condições pessoais (ciclo de vida, deficiência congênita ou adquirida,  vítimas de violência, abuso/exploração sexual, situação de rua, trabalho infantil, drogadição etc) que comprometem a capacidade de proteção de famílias e superação de situações pelos indivíduos.
+A magnitude e a dispersão territorial dessas situações constituem grandes desafios que exigem do SUAS, simultaneamente, capilaridade para viabilizar o acesso, integração das ações, inclusive com outras políticas setoriais, e qualificação dos serviços e da gestão nas três esferas federativas.
+Nesse sentido, os déficits de cobertura e qualidade dos serviços e benefícios ofertados pelo SUAS se constituem em causas críticas para sua efetividade no enfrentamento da pobreza, desigualdades, vulnerabilidades e riscos sociais.
+Evidências Do Problema: Os CRAS e CREAS são as principais unidades de serviços do SUAS. São 8,5 mil CRAS, cobrindo, em 2022, aproximadamente 68% da população registrada no CadÚnico (em 2018, a cobertura atingia 82%. Essa redução decorreu do aumento da pobreza e quantidade de pessoas no CadÚnico, com estagnação da rede de serviços). Em 2022, foram mais de 40 milhões de atendimentos (26,5 milhões em 2019, o que representa um aumento de 50%) e 1,1 milhão de famílias/mês acompanhadas. Também são ofertados serviços em grupos (por faixa etária), para socialização e convivência familiar e comunitária, com 2 milhões de usuários (800 mil em situações prioritárias).
+Criado a partir do Marco Legal da Primeira Infância (Lei Nº 13.257, de 8 de março de 2016), o Programa Primeira Infância no SUAS/Criança Feliz busca promover o desenvolvimento integral de crianças durante a primeira infância e interromper o ciclo intergeracional de reprodução da pobreza. Desde sua criação, o programa atendeu mais de 1,9 milhão de crianças, em aproximadamente 3 mil municípios, e está passando, em 2023, por um processo de aperfeiçoamento.
+Existem 2,6 mil CREAS (cobrindo 2,5 mil municípios). Em 2022, foram 3,6 milhões de atendimentos especializados (2,6 milhões em 2019, o que representa um aumento de quase 40%) e 290 mil casos (pessoas/famílias) em acompanhamento/mês. Outros 28 mil adolescentes em Medidas Socioeducativas foram acompanhados. As 228 unidades Centro Pop, para população em situação de rua, realizaram mais de 3 milhões de atendimentos (2 milhões em 2019, o que representa um aumento de 50%), a mais de 600 mil pessoas. Existem 6,9 mil unidades de acolhimento (antigamente conhecidos como “abrigos”), com capacidade para atender 219 mil pessoas, em 2,2 mil municípios.
+Em 2022, o Benefício de Prestação Continuada - BPC atendeu 5,1 milhões de beneficiários, sendo 2,75 milhões de pessoas com deficiência e 2,34 milhões de pessoas idosas, transferindo-lhes mensalmente 1 (um) salário-mínimo.
+Justificativa Para A Intervenção: Até o presente, o Brasil ainda apresenta significativa parcela da população excluída dos benefícios do desenvolvimento, permanecendo em situações típicas de países muito pobres, há muito superadas por diversos países.
+As respostas baseadas em iniciativas filantrópicas e ações estatais isoladas, fragmentadas e dispersas desconsideram a distribuição das demandas pelo território para a estruturação de suas ofertas, o que limita sua efetividade.
+Nesse sentido, o SUAS se reveste em instrumento fundamental para a redução dessas situações indesejadas, ofertando bens meritórios (de elevada relevância social) que acarretam externalidades positivas (ganhos sociais superiores aos ganhos privados), que contribuem para o desenvolvimento econômico e social, a estabilidade política e a própria legitimação do papel do Estado.
+Evolução Histórica: Com o SUAS, a Assistência Social evoluiu de um agregado de fragmentadas e dispersas ações filantrópicas e benemerentes para uma política pública alinhada à determinação constitucional que conceituou suas ações como bens meritórios, que devem ser prestados a quem deles necessitar, independente de outra qualquer condição ou contribuição. A institucionalização do SUAS tem sido fundamental para o enfrentamento da pobreza e da vulnerabilidade social.
+No PPA 2012-2015, suas ações foram concentradas no programa temático 2037 – Fortalecimento do SUAS, integralmente implementado sob a responsabilidade da SNAS, que também respondia por ações de enfrentamento do trabalho infantil, vinculadas ao programa 2062 - Promoção dos Direitos de Crianças e Adolescentes, da SDH/PR.
+No PPA 2016-2019, o programa foi renomeado como 2037 – Consolidação do SUAS. Posteriormente, passou a  compreender intervenções da assistência social relativas ao Programa Criança Feliz, de responsabilidade da SNPDH/MC. Essa questão entrou na agenda a partir de 2012, com a aprovação do Plano Nacional pela Primeira Infância, materializado na Lei Nº 12.722/2012, mesmo ano em que foi criado o programa Brasil Carinhoso, no âmbito do Plano Brasil sem Miséria (BSM). Em 2016, foi promulgada a Lei Nº 13.527/2016, considerada o Marco Legal da Primeira Infância.
+No PPA 2020-2023, as ações compuseram o programa temático 5031 – Proteção Social no âmbito do SUAS, implementado sob a responsabilidade da SNAS, excetuando-se ações específicas que compuseram o programa 5024 -Atenção Integral à Primeira Infância, executadas pela Secretaria Nacional de Atenção à Primeira Infância (SNAPI/MC).
+Comparações Internacionais: Comparado a outros países, o Brasil se encontra em uma situação intermediária de desenvolvimento econômico e social. Problemas que persistem aqui (exemplos: trabalho infantil, abuso e exploração sexual de crianças) já foram superados há muitas décadas pelos países desenvolvidos ou têm sua incidência quase restrita a países extremamente pobres.
+Em razão da inexpressiva magnitude das situações em alguns países (desenvolvidos) e da ausência de sistemas robustos de informação no polo oposto, os indicadores internacionais tendem a limitar essas demandas à insuficiência de renda, seu componente mensurável, incorporando variáveis genéricas de outros fatores, como a saúde e educação (caso do Índice de Desenvolvimento Humano – IDH). 
+Observa-se que os países mais pobres não possuem ou possuem estruturas incipientes de proteção social aos riscos e vulnerabilidades sociais, distantes ainda da capacidade de resposta ofertada pelo SUAS.
+Relação Com Os Ods: A proteção social ofertada pelo Sistema Único de Assistência Social (SUAS) está alinhada, dentre outros, com os seguintes Objetivos e Metas da Agenda 2030 (ODS):
+ODS 1 – Erradicação da Pobreza (Metas: 1.2 e 1.3)
+ODS 3 – Saúde de Qualidade (Meta: 3.5)
+ODS 4 – Educação de Qualidade (Metas: 4.1 e 4.5)
+ODS 8 – Trabalho Decente e Crescimento Econômico (Meta: 8.7)
+ODS 10 – Redução das Desigualdades (Meta: 10.2)
+ODS 16 – Sociedades pacíficas e inclusivas (Metas: 16.2 e 16.7)
+Agentes Envolvidos: A implementação das ações do SUAS demanda o envolvimento de diversos agentes. Além de outras áreas do Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) e da parceria estratégica com o INSS e Dataprev para a operacionalização dos benefícios (BPC/RMV/AI), a descentralização dos recursos federais do Fundo Nacional de Assistência Social (FNAS) para os fundos de Assistência Social dos demais entes (FMAS, FEAS) ocorre por meio do Banco do Brasil e CAIXA, não havendo transferências diretas para entidades privadas.
+Quanto à  articulação - na esfera federal ou local/regional - com outras políticas e órgãos, destacam-se as áreas de Previdência Social, Saúde, Trabalho, Educação, Direitos Humanos, Defesa Civil, Segurança Alimentar, Justiça, Segurança Pública, além do Ministério Público e Judiciário.
+Para ações de capacitação/formação e produção de estudos e pesquisas, a SNAS/MDS tem contado com parcerias com a ENAP, IBGE, IPEA, Fundação Oswaldo Cruz (Fiocruz) e universidades (UnB, UFMG e UFSC, por exemplo).
+Além disso, para o tratamento de questões específicas ou pontuais também são estabelecidas parcerias com organismos internacionais e entidades não governamentais.
+Articulação Federativa: O SUAS é o sistema público que organiza as ações de Assistência Social no País, segundo as diretrizes de descentralização político-administrativa e gestão compartilhada entre as três esferas federadas e a primazia da responsabilidade do Estado, sendo integrado pelos entes federativos, entidades e organizações de assistência social.
+O MDS desempenha o papel de coordenação federativa, regulamentação e financiamento dos benefícios (BPC/RMV/AI) e cofinanciamento dos serviços/programas. O SUAS conta atualmente com a adesão de todos os estados, o DF e quase a totalidade dos municípios. As unidades de prestação de serviços são governamentais, sob gestão dos entes parceiros, ou entidades não governamentais, que atuam em parceria com os entes públicos. Em cada ente, a sociedade civil conta com o Conselho de Assistência Social como importante mecanismo de participação e controle social. Comissões representativas de gestores, em âmbito regional (CIBs) e nacional (CIT) constituem instâncias de negociação e pactuação dos aspectos operacionais.
+Enfoque Transversal: A articulação com outras políticas é uma característica central da Assistência Social: em aproximadamente 95% dos municípios, é a gestão local do SUAS que responde pelo Cadastro Único e Bolsa Família.
+O SUAS atua junto a diversos órgãos/Ministérios, dentre os quais:
+. a Defesa, no abrigamento e interiorização de migrantes (venezuelanos e haitianos);
+. a Saúde, a exemplo da COVID-19 e acompanhamento das crianças com microcefalia, associada ao Zika Vírus;
+. a Educação, visando o acesso e permanência na escola dos beneficiários do BPC com deficiência (até 18 anos);
+. a Defesa Civil/Integração e Desenvolvimento Regional, no abrigo e acompanhamento das vítimas, em situações de calamidades e emergências;
+. o Trabalho e Emprego, visando a inclusão econômica dos usuários de serviços e benefícios do SUAS;
+. diversas agendas e temáticas envolvendo os Direitos Humanos e Cidadania.
+Marco Legal: A Constituição Federal de 1988 definiu a Assistência Social como um direito de todos os cidadãos que dela necessitarem, independentemente de contribuições à Seguridade Social, a qual integra juntamente com as políticas de Saúde e de Previdência Social.
+Sua regulamentação ocorreu na Lei Orgânica da Assistência Social - LOAS (Lei Nº 8.742/1993), alterada pela Lei Nº 12.435/2011, que institucionalizou o SUAS. Outros importantes dispositivos são:
+. Lei Nº 9.604/1998, que introduziu o repasse regular e automático na modalidade fundo a fundo;
+. Lei Nº 12.101/2009 e Lei Complementar Nº 187/2021, que disciplinam a certificação de entidades beneficentes de assistência social (CEBAS); 
+. Lei Nº 13.527/2016, conhecida como Marco Legal da Primeira Infância; e
+. Decreto nº 8.805/2016, que alterou o regulamento do BPC.
+Uma característica central da gestão do SUAS é que as proposições estratégicas (como portarias normativas) são pactuadas com representantes dos gestores das demais esferas e deliberadas pelo Conselho Nacional de Assistência Social-CNAS, que conta com a representação governamental (incluindo as demais esferas) e da sociedade civil.
+Planos Nacionais, Setoriais E Regionais: Em estreita vinculação com a Lei Orgânica da Assistência Social - LOAS (Lei Nº 8.742/1993) e as competências definidas para a SNAS no regimento do MDS, o SUAS se orienta pelo II Plano Decenal da Assistência Social (2016-2026). Além disso, a implementação do SUAS demanda a articulação de ações junto aos órgãos responsáveis por outras políticas e planos nacionais, como:
+. Política Nacional para a População em Situação de Rua;
+. Plano Nacional de Promoção, Proteção e Defesa do Direito de Crianças e Adolescentes à Convivência Familiar e Comunitária;
+. Política Nacional de Proteção e Defesa Civil;
+. Plano Nacional de Enfrentamento da Violência Sexual contra Crianças e Adolescentes;
+. Plano Nacional de Atendimento Socioeducativo (SINASE);
+. Plano Nacional de Prevenção e Erradicação do Trabalho Infantil e Proteção ao Adolescente Trabalhador;
+. Plano Nacional dos Direitos da Pessoa com Deficiência; e
+. Política Nacional do Idoso (PNI).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

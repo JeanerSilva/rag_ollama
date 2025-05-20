@@ -60,7 +60,7 @@ def create_vectorstore():
         sidebar_progress.progress((i + 1) / total)
 
     # Resultado final
-    sidebar_progress.markdown(f"✅ Arquivos processados com sucesso: {sucesso}")
+    sidebar_progress.markdown(f"✅ Arquivos para embedding: {sucesso}")
     if falha > 0:
         sidebar_progress.markdown(f"❌ Arquivos com erro: {falha}")
 

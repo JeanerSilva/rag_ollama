@@ -1,0 +1,824 @@
+passage: Programa Número 2306
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 204
+Entrega: 770
+Indicador: 9717
+Denominação: Capacidade de Produção de EC (Elementos Combustíveis)
+Sigla: CpProd EC
+Índice De Referência: 96.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a Capacidade de Produção de Elementos Combústiveis , na Fábrica de Elementos Combustíveis da INB, localizada em Resende - RJ, destinados a atender a demanda das Usinas Nucleares em operação no país.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: EC = número de elementos combustíveis produzidos.
+Apuração pela área técnica da Diretoria de Produção do Combustível Nuclear
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Atividade Anual da Diretoria de Recursos Minerais da INB, Relatório da Administração e Relatório Integrado da INB
+Forma De Disponibilização: Intranet da Companhia e Publicação no Site da INB
+Procedimento De Cálculo: Apuração realizada pelo corpo técnico da diretoria responsável, com a indicação da capacidade operacional efetiva da planta industrial no exercício.
+Notas Explicativas: Variação em função da sazonalizade de entregas das Recargas para as Usinas de Angra 1 e 2. O ciclo de produção do elemento Combustivel supera o exercicio fiscal, portanto, a variação no numero de recargas a serem entregues é previsto em instrumento contratutal celebrado com a Eletronuclear.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 204
+Entrega: 767
+Indicador: 9711
+Denominação: Capacidade Operacional Efetiva de produção de U3O8
+Sigla: CpProd U308
+Índice De Referência: 105.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: tonelada
+Descrição: Mede a Capacidade de Produção do Concentrado de Urânio (U308) em toneladas, na Unidade de Concentração de Urânio da INB em Caetité - BA.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: C = Capacidade de Produção do Concentrado de Urânio (U308) em toneladas. 
+Apuração pela área técnica da Diretoria de Recursos Minerais.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Atividade Anual da Diretoria de Recursos Minerais da INB, Relatório da Administração e Relatório Integrado da INB.
+Forma De Disponibilização: Intranet da Companhia e Publicação no Site da INB
+Procedimento De Cálculo: Apuração realizada pelo corpo técnico da diretoria responsável, com a indicação da capacidade operacional efetiva da planta industrial no exercício.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 204
+Entrega: 769
+Indicador: 9715
+Denominação: Capacidade Operacional Efetiva em Kg UF6
+Sigla: CpProd UF6
+Índice De Referência: 9700.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: kg
+Descrição: Mede a Capacidade de Produção de Urânio Enriquecido, em Kg UF6 (Hexafluoreto de Urânio ), na Usina de Enriquecimento de Urânio da INB, localizada em Resende - RJ
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 31/12/2022
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: C_UF6 = Capacidade Operacional Efetiva em Kg UF6
+Apuração pela área técnica da Diretoria Técnica de Enriquecimento
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Atividade Anual da Diretoria Técnica de Enriquecimento de Urânio, Relatório da Administração e Relatório Integrado da INB
+Forma De Disponibilização: Intranet da Companhia e Publicação no Site da INB
+Procedimento De Cálculo: Apuração realizada pelo corpo técnico da diretoria responsável, com a indicação da capacidade operacional efetiva da planta industrial no exercício.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 205
+Entrega: 771
+Indicador: 9719
+Denominação: Indicador de produção fabril
+Sigla: IPF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-03 00:00:00
+Unidade De Medida: percentual %
+Descrição: Quantidade produzida no ano.
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = Percentual de produção 
+Pe = Produção Efetiva do Projeto
+Pp = Produção Possível do Projeto
+r = % de relevância do projeto no portfólio de obras*. 
+*A relevância é um dado qualitativo, cuja classificação dar-se-á a critério da gestão, em linha com o definido em Planejamento Estratégico da companhia "
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão disponibilizados pela Nuclep através dos seus canais oficiais e das demonstrações contábeis.
+Forma De Disponibilização: Sítio eletrônico da NUCLEP e Demonstrações Contábeis.
+Procedimento De Cálculo: Anual.
+Limitações: A atualização do portfólio, seja por aditamento fruto do protagonismo do governo em realocar recursos para outras areas  ou por incremento, pode acarretar em distorção na percepção de cumprimento das metas.
+Notas Explicativas: A meta estabelecida contempla a integralidade (100%) da produção contratada dentro da moldura temporal de 04 anos ( 2024 a 2027), compaíivel com a periodicidade do PPA.
+
+Contratos assinados entre a NUCLEP,  a ETN, dentre outros.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 182
+Entrega: 762
+Indicador: 9696
+Denominação: Número de alunos de pós-graduação (lato e scricto sensu) formados nos cursos da CNEN
+Índice De Referência: 107.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: (1) Mede a quantidade total de alunos (Mestrado e Doutorado) que terminam seu trabalho acadêmico (defesa de monografia de Mestrado e Tese de Doutorado) nos programas de Pós-Graduação (Área de Tecnologia Nuclear, Engenharia Nuclear e de Aplicações das Radiações Ionizantes) nas UTCs vinculadas à DPD/CNEN ; (2) Não estão incluidos os alunos formados pelas universidades externas à CNEN, e que podem ter recebido, ou não, bolsas de estudo da CNEN.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: [(a) Alunos Bolsistas de Mestrado e Doutorado da CNEN ; (b) Alunos Bolsistas de Mestrado e Doutorado com Outras Fontes de Financiamento (CNPQ, CAPES, FAPESP, etc) ; (c) Alunos de Mestrado e Doutorado sem bolsa de fomento] inscritos nos Programas de Pós-Graduação das UTCs da CNEN
+Fonte De Dados Das Variáveis De Cálculo: SEFESP / DPD / CNEN
+Forma De Disponibilização: Relatório de  Gestão e SIOP
+Procedimento De Cálculo: Anualmente é realizado o levantamento dos alunos formados nos programas de pós-graduação das UTCs da CNEN.
+Limitações: As limitações que podem ser potencialmente identificadas estão diretamente direcionadas os recursos orçamentários efetivamente disponibilizados na Ação 2B32, como também a uma variação maior ou menor anual vinculada ao interesse do aluno em cursar os programas oferecidos pelas pós-graduaçõesdas UTCs da CNEN. Outro fator que pode limitar a manutenção (ou aumento) de alunos nos programas de pós-graduação está relacionado à potencial aposentadoria dos professores orientadores ou ao seu descredenciamento por não manter os indicadores de produtividade exigidos por cada programa de pós-graduação da UTC.
+Notas Explicativas: (1) o número de bolsistas CNEN apresentado no Relatório de Gestão é menor do que o número de alunos que concluiram seus projetos acadêmicos, pois o total de alunos formados inclui alunos que obtiveram fomento de outros orgão de fomento (CNPq, CAPES, FAPESP, etc), ou mesmo alunos que não tinham direito à bolsa de estudo por serem servidores ou terem carteira assinada e (2) O número de bolsistas que concluem os seus programas acadêmicos pode vaiar ano a ano em função da modalidade que a UTC privilegiou no decorrer do período 2024-2027. Como as UTCs da CNEN tem o objetivo a patir de 2024 de priorizar as bolsas de doutorado e de pós-doutorado o número de alunos formados poderá ser reduzido nos anos iniciais do PPA e apresentarem um número maior a partir de 2026-2027 devido ao maior período de conclusão dos programas de doutorado.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 180
+Entrega: 625
+Indicador: 9563
+Denominação: Número de artigos da CNEN publicados, no ano, em revistas indexadas na base de dados Web of Science
+Índice De Referência: 265.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de artigos da CNEN publicados, no ano, em revistas indexadas na base de dados Web of Science.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Somatório do número das publicações da CNEN no intervalo de um ano civil.
+Artigos da CNEN publicados em revistas indexadas na base de dados Web of Science.
+Fonte De Dados Das Variáveis De Cálculo: Base de dados Web of Science.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Anualmente realizar o levantamento individualizado de publicações técnico cientificas em cada UTC da CNEN.
+Limitações: Os valores anualizados da produção técnico-científicas estão diretamente relacionados à disponibilidade orçamentária para a manutenção dos laboratórios e instalações de pesquisa, à disponibilidade de bolsas de pesquisa (Mestrado e Doutorado) e ao aceite para publicação (após revisão avalizada) das revistas referenciadas dos trabalhos submetidos.
+Notas Explicativas: A CNEN identifica anualmente a produção técnico-científica a partir dos levantamentos realizados pelas UTCs e que são disponibilizados nos relatórios de gestão de cada unidade.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 181
+Entrega: 758
+Indicador: 12794
+Denominação: Número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano
+Sigla: mCi
+Índice De Referência: 20000000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: mCi - milicurie
+Descrição: Mede o número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma da quantidade de atividade (mCi) gerada no ano, na produção de radiofármacos.
+Quantidade de atividade (mCi) gerada
+Fonte De Dados Das Variáveis De Cálculo: Institutos da CNEN que produzem e comercializam radiofármacos e radioisótopos
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Somatório da quantidade de atividade (mCi) gerada no ano, na produção de radiofármacos.
+Notas Explicativas: Trata-se de capacidade potencial disponibilizada de realização de tratamentos médicos, não havendo garantia de que, de fato, todos serão realizados pelos operadores da medicina nuclear no país.
+Origem: PPA
+Momento: 8400
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 181
+Entrega: 758
+Indicador: 9689
+Denominação: Número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano
+Sigla: mCi
+Índice De Referência: 20000000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: mCi - milicurie
+Descrição: Mede o número de atividade (mCi) gerada pela CNEN na produção de radiofármacos no ano
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma da quantidade de atividade (mCi) gerada no ano, na produção de radiofármacos.
+Quantidade de atividade (mCi) gerada
+Fonte De Dados Das Variáveis De Cálculo: Institutos da CNEN que produzem e comercializam radiofármacos e radioisótopos.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Somatório da quantidade de atividade (mCi) gerada no ano, na produção de radiofármacos.
+Notas Explicativas: Trata-se de capacidade potencial disponibilizada de realização de tratamentos médicos, não havendo garantia de que, de fato, todos serão realizados pelos operadores da medicina nuclear no país.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 182
+Entrega: 759
+Indicador: 9692
+Denominação: Número de bolsas concedidas no por ano pela CNEN
+Índice De Referência: 60.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a quantidade total de bolsas (Iniciação Científica. Mestrado, Doutorado e Pós-Doutorado) que são ofertadas através da Ação 2B32 para os Programas de Ensino e Pós-Graduação das UTCs da DPD/CNEN e para as universidades externas à CNEN
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: [(a) Alunos Bolsistas de Mestrado e Doutorado da CNEN ; (b) Alunos Bolsistas de Mestrado e Doutorado com Outras Fontes de Financiamento (CNPQ, CAPES, FAPESP, etc) ; (c) Alunos de Mestrado e Doutorado sem bolsa de fomento] inscritos nos Programas de Pós-Graduação das UTCs da CNEN
+
+(a), (b), (c), (d), (e) e (f)
+Fonte De Dados Das Variáveis De Cálculo: SEFESP / DPD / CNEN
+Forma De Disponibilização: Relatório de Gestão e SIOP
+Procedimento De Cálculo: Anualmente é realizado o levantamento de bolsas ofertadas para as UTCs da CNEN e para as entidades externas em cada uma das modalidades (IC, Mestrado, Doutorado e Pós-Doutorado).
+Limitações: As limitações que podem ser potencialmente identificadas estão diretamente direcionadas os recursos orçamentários efetivamente disponibilizados na Ação 2B32. Cabe ressaltar que no ano de 2023, não foram implementadas novas bolsas, uma vez que, houve a necessidade de cobrir o aumento médio de 30% nas bolsas de IC, M, D e PD concedido pelo CNPq e CAPES, sem que a CNEN tenha recebido aporte de recursos orçamentários equivalentes para repassar para os seus bolssitas já ativos em 2022.
+Notas Explicativas: (1) O número de bolsas apoiada pela Ação 2B32 pode ser variável ano a ano em função das demandas apresentadas por cada UTC da DPD/CNEN que tem autonomia para definir o número de bolsas de IC, Mestrado, Doutorado e Pós-Doutorado no ano vigente. (2) O número de bolsas para entidades externas à CNEN tende a se reduzir e ser nula a partir de 2026 com a conclusão dos trabalhos acadêmicos externos projetados até o final de 2025.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 183
+Entrega: 765
+Indicador: 9707
+Denominação: Número de instalações com material nuclear controlado
+Índice De Referência: 32.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de instalações com material nuclear controlado
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Instalações que operam com material nuclear.
+Fonte De Dados Das Variáveis De Cálculo: Coordenações Técnicas da Diretoria de Radioproteção e Segurança Nuclear da CNEN.
+Forma De Disponibilização: Relatório de Gestão.
+Procedimento De Cálculo: Somatório das instalações que operam com material nuclear.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 183
+Entrega: 764
+Indicador: 9705
+Denominação: Número de instalações radiativas e nucleares controladas
+Índice De Referência: 7000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Identifica a quantidade total de instalações radiativas e nucleares controladas pela CNEN
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: INSTALAÇÕES RADIATIVAS;
+INSTALAÇÕES NUCLEARES
+Fonte De Dados Das Variáveis De Cálculo: Coordenações Técnicas da Diretoria de Radioproteção e Segurança Nuclear da CNEN.
+Forma De Disponibilização: Relatório de Gestão.
+Procedimento De Cálculo: Somatório das instalações controladas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 180
+Entrega: 628
+Indicador: 9571
+Denominação: Número de Itens tecnológicos desenvolvidos
+Índice De Referência: 17.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de Itens tecnológicos desenvolvidos (patentes, programas de computador, know-how e outros ativos de propriedade intelectual)
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Somatório do número total de itens tecnológicos desenvolvidos no período
+Tecnologias descritas em relatórios técnicos das UTCs
+Fonte De Dados Das Variáveis De Cálculo: Relatórios anuais de gestão das UTCs da CNEN.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Anualmente realizar o levantamento individualizado de tecnologias identificadas em relatório técnico ou publicação científica em cada UTC da CNEN.
+Limitações: Os valores anualizados do desenvolvimento tecnológico está diretamente relacionados à disponibilidade orçamentária para a manutenção dos
+laboratórios e instalações de pesquisa, à disponibilidade de bolsas de pesquisa (Mestrado e Doutorado), ao efetivo desenvolvimento dos Projetos
+Institucionais e da celebração dos acordos de parceria tecnológica entre as UTCs da CNEN e empresas públicas ou privadas.
+Notas Explicativas: A CNEN identifica anualmente a produção dos itens tecnológicos a partir dos levantamentos realizados pelas UTCs e que são disponibilizados nos relatórios de gestão de cada unidade.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 181
+Entrega: 757
+Indicador: 9685
+Denominação: Número de Radioisótopos e Radiofármacos que fazem parte do Portfólio da CNEN
+Índice De Referência: 41.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede a diversificação de produtos ofertados pela CNEN.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Qtde tipos de radiofármacos comercializados; e
+Qtde tipos de radioisótopos comercializados.
+Fonte De Dados Das Variáveis De Cálculo: Institutos da CNEN que produzem e comercializam radiofármacos e radioisótopos.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Somatório das quantidades de diferentes tipos de radiofármacos e radioisótopos comercializados.
+Limitações: Depende de liberação e licenças dos órgãos reguladores e de contratação de novos servidores, além de novos investimentos de recursos financeiros.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 183
+Entrega: 2032
+Indicador: 11366
+Denominação: Percentual de avanço do projeto
+Sigla: CENTENA
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de avanço do projeto
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Não há.
+Fonte De Dados Das Variáveis De Cálculo: Coordenação do projeto.
+Forma De Disponibilização: Relatório de Gestão.
+Procedimento De Cálculo: Somatório do avanço físico- financeiro do projeto ao longo dos anos conforme EAP.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 180
+Entrega: 2030
+Indicador: 11364
+Denominação: Percentual de Avanço do Projeto
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de avanço do projeto de Instalação do Projeto LFN.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: (a) % realizada do Projeto Básico, (b) % realizada do Projeto Executivo, (c) % realizada da Constituição da Equipe Técnica, (d) % realizada dos recursos orçamentários para a construção, (e) % realizada dos recursos aportados para as bolsas de pesquisa, (f) % realizada da contrução física do empreendimento no sítio do RMB, (g) % realizada do comissionamento para operação do empreendimento.
+Fonte De Dados Das Variáveis De Cálculo: Relatório anual de prestação de contas enviado para a FINEP e recursos orçamentários da CNEN na ação 215N.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Anualmente é realizado o levantamento individualizado da % de realização de cada etapa programada para o Projeto LFN da CNEN.
+Limitações: Os valores anualizados da realização de cada etapa está diretamente relacionados à disponibilidade orçamentária para a execução dos projetos de construção, à disponibilidade de bolsas de pesquisa (Mestrado e Doutorado) e ao efetivo compromisso do desenvolvimento do Projeto Institucional como ação do governo federal.
+Notas Explicativas: A CNEN identifica anualmente o andamento do Projeto Institucional do LFN a partir do relatório de gestão da CNEN.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 181
+Entrega: 2031
+Indicador: 11365
+Denominação: Percentual de Avanço do Projeto
+Sigla: RMB
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: % de execução física
+Descrição: Percentual de avanço do projeto.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Não há.
+Fonte De Dados Das Variáveis De Cálculo: Coordenação do projeto.
+Forma De Disponibilização: Relatório de Gestão.
+Procedimento De Cálculo: Somatório do avanço físico- financeiro do projeto ao longo dos anos conforme EAP
+Notas Explicativas: Trata-se do avanço previsto na EAP do projeto, que neste momento encontra-se em revisão pela coordenação do RMB.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 180
+Entrega: 755
+Indicador: 9684
+Denominação: Percentual de Instalações Radiativas e Nucleares Existentes na CNEN Licenciadas
+Índice De Referência: 43.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Indica o percentual de instalações radiativas e nucleares existentes na CNEN controladas, por meio do resultado entre o número de instalações licenciadas sobre o total das existentes.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Instalações da CNEN licenciadas; total de Instalações da CNEN sujeitas a licenciamento.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria de Pesquisa e Desenvolvimento.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Anualmente realizar o levantamento individualizado das instalações da CNEN que se encontram licenciadas perante o órgão regulador e dividir pelo total das instalações da CNEN sujeitas ao processo de licenciamento pelo órgão regulador.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2306
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 205
+Indicador: 9720
+Denominação: Indicador de produção fabril
+Sigla: IPF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-03 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual dos produtos em fabricação no ano.
+Período Ou Data A Que Se Refere: 2023
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = Percentual de produção 
+Pe = Produção Efetiva do Projeto
+Pp = Produção Possível do Projeto
+r = % de relevância do projeto no portfólio de obras*. 
+*A relevância é um dado qualitativo, cuja classificação dar-se-á a critério da gestão, em linha com o definido em Planejamento Estratégico da companhia "
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão disponibilizados pela Nuclep através dos seus canais oficiais e das demonstrações contábeis.
+Forma De Disponibilização: Sítio eletrônico da NUCLEP e Demonstrações Contábeis
+Procedimento De Cálculo: Anual.
+Limitações: A atualização do portfólio, seja por aditamento fruto do protagonismo do governo em realocar recursos para outras áreas  ou por incremento, pode acarretar em distorção na percepção de cumprimento das metas.
+Notas Explicativas: 1. A meta estabelecida contempla a integralidade (100%) da produção contratada dentro da moldura temporal de 04 anos ( 2024 a 2027), compativel com a periodicidade do PPA. 
+
+2. O critério utilizado para o "Índice de Referência" como sendo ZERO é decorrente do início do ciclo na moldura temporal 2024 a 2027. As metas estabelecidas para o período (2024 a 2027) são CUMULATIVAS COMO MENCIONADO NAS NOTAS EXPLICATIVAS e totalizam 100%
+
+3. Contratos assinados entre a NUCLEP,  a ETN, dentre outros.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 182
+Indicador: 9690
+Denominação: Número de Profissionais Formados
+Índice De Referência: 207.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de profissionais formados nos cursos de pós-graduação em UTCs da CNEN (com ou sem bolsa de estudo de qualquer origem, inclusive da CNEN) e os alunos formados em outras instituições superior com bolsas de estudo concedidas pela CNEN.
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 31/03/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Profissionais formados nos cursos da CNEN;
+Alulnos formados em outras instituições com bolsas de estudos da CNEN
+Fonte De Dados Das Variáveis De Cálculo: Diretoria de Pesquisa e Desenvolvimento
+Forma De Disponibilização: Relatório de Gestão da CNEN
+Procedimento De Cálculo: Levantamento da quantidade de profissionais formados nos cursos de pós-graduação em UTC da CNEN e dos formados em outras instituições com bolsas de estudo concedidas pela CNEN.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 183
+Indicador: 9702
+Denominação: Percentual de instalações controladas
+Sigla: PIC
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede  o percentual de instalações radiativas e nucleares controladas, por meio de análise documental e fiscalizações/inspeções.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de instalações radiativas existentes;
+Número de instalações nucleares existentes.
+Fonte De Dados Das Variáveis De Cálculo: Diretoria de Radioproteção e Segurança Nuclear
+Forma De Disponibilização: Relatório de Gestão da CNEN
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 180
+Indicador: 9566
+Denominação: Produção de Itens tecnológicos desenvolvidos para a Área Nuclear e Afins
+Sigla: PTN
+Índice De Referência: 17.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mede o número de Itens tecnológicos desenvolvidos (patentes, programas de computador, know-how e outros ativos de propriedade intelectual)
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/03 do ano seguinte ao que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Somatório do número total de itens tecnológicos desenvolvidos no período
+Tecnologias descritas em relatórios técnicos das UTCs
+Fonte De Dados Das Variáveis De Cálculo: Relatórios anuais de gestão das UTCs da CNEN.
+Forma De Disponibilização: Relatório de Gestão da CNEN
+Procedimento De Cálculo: Anualmente realizar o levantamento individualizado de tecnologias identificadas em relatório técnico ou publicação científica em cada UTC da CNEN.
+Limitações: Os valores anualizados do desenvolvimento tecnológico está diretamente relacionados à disponibilidade orçamentária para a manutenção dos
+laboratórios e instalações de pesquisa, à disponibilidade de bolsas de pesquisa (Mestrado e Doutorado), ao efetivo desenvolvimento dos Projetos
+Institucionais e da celebração dos acordos de parceria tecnológica entre as UTCs da CNEN e empresas públicas ou privadas.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 181
+Indicador: 9851
+Denominação: Produção de Radioisótopos e Radiofármacos Fornecida aos Centros de Medicina Nuclear no país
+Sigla: PFRA
+Índice De Referência: 21174000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: mCi - milicurie
+Descrição: Mede a quantidade de atividade gerada na produção de radioisótopos e radiofármacos fornecidos aos centros de medicina nuclear, medida em mCi/.
+Período Ou Data A Que Se Refere: 2022
+Data De Divulgação/Disponibilização: 10/02/2023
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Radiofármacos produzidos;
+Radioisótopos produzidos
+Fonte De Dados Das Variáveis De Cálculo: Diretoria de Pesquisa e Desenvolvimento
+Forma De Disponibilização: Relatório de Gestão da CNEN
+Procedimento De Cálculo: As UTCs da CNEN que produzem radiofármacos reportam os dados para a Diretoria de Pesquisa e Desenvolvimento, que fará a consolidação dos dados e apuração do valor final;
+Limitações: Indicador extremamente dependente dos recursos orçamentários a serem disponibilizados para a produção.
+Notas Explicativas: Tendo em vista a quebra do monopólio da produção de radiofármacos, tando de meia-vida curta quanto longa, a atuação da CNEN deverá ser na garantia de atendimento da demanda nacional, sem concorrer com o mercado privado. À medida que novos entrantes ampliarem sua parcela de atendimento das demandas nacionais, a CNEN deverá atuar na falha de mercado.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 204
+Indicador: 9710
+Denominação: Taxa de Nacionalização do Ciclo de Combustível Nuclear
+Sigla: TNCCN
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual %
+Descrição: O indicador é apurado a partir da relação entre a capacidade de produção nacional de insumos e processos frente o total demandado pelo ciclo de produção do combustível nuclear no país.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P UF6 Enr: Capacidade Operacional Efetiva em Kg UF6 Enriquecido Ano / Demanda Anual em KG UF6 Enriquecido; 
+P U308 = Capacidade Operacional Efetiva de U308/Demanda anual nacional para Angra 1 e 2  de U308                                                                                                          P UF6= Capacidade Operacional Efetiva de UF6/Demanda anual nacional para Angra 1 e 2  de UF6                                                                                                                  P EC=Capacidade Operacional Efetiva de Produção de Elementos Combustíveis/Demanda anual nacional para Angra 1 e 2  de ECs'
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Atividade Anual das Diretorias, Relatório da Administração e Relatório Integrado da INB.
+Forma De Disponibilização: Intranet da Companhia e Publicação no Site da INB.
+Procedimento De Cálculo: Apuração realizada pelo corpo técnico de cada diretoria,  com a indicação da capacidade operacional efetiva da planta industrial no exercício.
+Notas Explicativas: Para o ciclo do PPA 2024-2027, percebe-se estabilidade na apuração do Indicador. O Projeto de Implantação da Usina de Enriquecimento atualmente encontra-se em fase de revitalização de 2 das 10 Cascatas já instaladas. A partir de 2028 será observado incremento na capacidade  produtiva da planta, devido a entrada em operação das cascatas 2 e 3. Quanto a produção de Concentrado de Urânio, esta tambem manterá estabilidade no ciclo do PPA 2024-2027, devido a fase atual de exploração da Mina do Engenho, na Unidade de Concetração de Urânio em localizada em Caetité-BA. Atualmente, encontra-se em fase de desenvolvimento a lavra subterranea na Mina da Cachoeira, e a prospecção de novas jazidas na região de Lagoa Real, contudo, devido a etapa dos projetos, ainda não há perspectivas de entregas dentro do Ciclo deste PPA. Quanto ao processo de Conversão do Urânio, sua progressão está vinculada a retomada do Projeto de Implantação da Planta Industrial na Unidade de Resende, ora em curso, mas tambem com perspectiva de entregas para além do ciclo deste PPA. Finalmente, quanto a a Capacidade de Producao de Elementos Combustiveis, esta atende plenamente a demanda atual das Usinas de Angra 1 e 2. Para este ciclo do PPA ainda não consideramos a demanda gerada pela entrada em operação da Usina de Angra 3, ainda sem data definida.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2306
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 180
+Enunciado: Desenvolver a ciência e a tecnologia nucleares e suas aplicações de forma segura, para atender aos diversos usos pela sociedade
+Descrição: Identifica a produção de itens tecnológicos desenvolvidos, como depósitos de pedido de patente e de modelo de utilidade e registros de desenho industrial, programa de computador, cultivar e topografia de circuito integrado efetuados pela UTC/CNEN, rastreados nos órgãos competentes de proteção da propriedade intelectual (bases do INPI e MAPA) e comparados com os dados da DICOM/CGPA para confirmação; registros de propriedade intelectual efetuados por outras ICT, rastreados em procurações e/ou acordos de cotitularidade com a UTC/CNEN (dados dos NIT); e know-how rastreado em instrumentos de inovação firmados pela UTC/CNEN.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 181
+Enunciado: Produzir e fornecer radiofármacos e radioisótopos para atendimento à sociedade
+Descrição: Produção de radioisótopos em reatores de pesquisa ou aceleradores cíclotrons nas unidades de radiofarmácia existentes na CNEN, além da aquisição no mercado internacional, destinados ao fornecimento de radiofármacos e de fontes radioativas aos mais de 400 serviços de medicina nuclear existentes no País.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 182
+Enunciado: Ampliar a formação especializada de recursos humanos para o setor nuclear
+Descrição: Promoção da formação de pessoal especializado para o atendimento das necessidades do Setor Nuclear. A formação técnica especializada para o setor nuclear brasileiro engloba os cursos de pós-graduação, de mestrado e doutorado, oferecidos pelas unidades técnico-científicas da Diretoria de Pesquisa e Desenvolvimento da CNEN e um programa de concessão de bolsas de mestrado e doutorado oferecidas através de edital público.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 183
+Enunciado: Garantir a proteção radiológica das instalações radiativas e nucleares, a segurança física e nuclear e o controle de materiais nucleares
+Descrição: Regulação, licenciamento, controle e fiscalização de atividades que envolvam material nuclear e radiações ionizantes no País, incluindo as instalações, procedimentos, materiais, equipamentos e o pessoal relacionado com essas atividades. Emissão de atos de acordo com o nível de complexidade da instalação, como: aprovação de local; licença de construção; autorização para a utilização de material nuclear; autorização para a operação inicial; autorização para operação permanente; pareceres técnicos; inspeções; auditorias e licenciamento de operadores e supervisores de proteção radiológica. Implementação para assegurar o cumprimento dos acordos internacionais assumidos pelo Brasil na área de salvaguardas: Aplicação de critérios e procedimentos para a contabilidade e controle de material nuclear; verificação física independente dos inventários de materiais nucleares existentes em instalações nucleares em território nacional; assessoria técnica às autoridades brasileiras nas fases de negociação e/ou implementação de Acordos Internacionais de Salvaguardas. Garantir aplicação da tecnologia e do uso dos materiais nucleares para fins pacíficos e devidamente autorizados; garantir que as instalações que utilizam materiais nucleares e radioativos operem de acordo com a norma nacional de proteção física, que estabelece mecanismos contra atos de roubo, furto, sabotagem e atos terroristas; coordenar as atividades de detecção, identificação e registro de tráfico não autorizado de materiais nucleares e radioativos e de bens sensíveis; análise, aprovação e avaliação permanente de Planos de Proteção Física de instalações nucleares e radiativas; interação com órgãos governamentais para detecção, identificação e registro de tráfico não autorizado de materiais nucleares e radioativos e de bens sensíveis. Representação da CNEN em nível nacional, regional e internacional nos assuntos relativos à segurança, controle, proteção física e regulação do setor nuclear no país.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 204
+Enunciado: Expandir, implantar e operar o ciclo completo para produção do combustível nuclear em escala capaz de atender a demanda dos reatores nucleares brasileiros e ampliar as oportunidades para exportação de insumos e serviços
+Descrição: O Brasil possui o domínio completo do ciclo do combustível nuclear, contudo sem possuir plena capacidade industrial instalada para atender a demanda das usinas nucleares em operação no País. Portanto, o Objetivo Específico compreende a busca pela autossuficiência no processo de produção do Combustível Nuclear, eliminando a dependência de importação de Insumos e Serviços.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos legais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 205
+Enunciado: Ampliar a produção de equipamentos pesados para as indústrias nuclear e de alta tecnologia, aumentando a capacidade nacional no setor
+Descrição: Fomento do setor nuclear e de alta tecnologia, através do desenvolvimento e execução de projetos de produção de bens de capital sob encomenda, tais quais condensadores e trocadores de calor para Usina Nuclear de Angra III.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos legais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Objetivo Específico: 551
+Enunciado: Fortalecer as atividades proteção radiológica, gerenciamento de rejeitos e gestão ambiental e resposta a situações de emergência
+Descrição: Incrementar o planejamento e as ações que garantam a segurança nuclear e proteção radiológica, de modo a minimizar os riscos associados ao emprego das radiações ionizantes para fins pacíficos, contribuindo, assim, para a proteção da saúde dos trabalhadores do setor nuclear, da população em geral e do meio ambiente, com o envolvimento das demais instituições que cooperam/atuam no setor nuclear e em conformidade com os instrumentos e padrões internacionais.
+Órgão: 24000
+Tipo Do Órgão: O
+Origem: Avaliação PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Sim
+
+passage: Programa Número 2306
+
+Exercício: 2025
+Programa: 2306
+Objetivo: 1308
+Enunciado: Promover o desenvolvimento da tecnologia nuclear e suas aplicações para ampliar a capacidade de oferta de produtos e serviços, para atender a demanda e os benefícios dos usos pacíficos da energia nuclear e das radiações ionizantes, de forma segura e sustentada.
+Descrição: Promover o desenvolvimento da tecnologia nuclear e suas aplicações para ampliar a capacidade de oferta de produtos e serviços, para atender a demanda e os benefícios dos usos pacíficos da energia nuclear e das radiações ionizantes, de forma segura e sustentada.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2306
+
+Exercício: 2025
+Programa: 2306
+Título: Política Nuclear
+Tipo: Finalístico
+Órgão: 24000.0
+Público-Alvo: Sociedade Brasileira.
+Descrição Do Problema: Insuficiência de infraestrutura, recursos humanos especializados e instrumentos normativos para atender as demandas por tecnologias e aplicações na área nuclear, assim como registra-se baixo aproveitamento do potencial nuclear, resultando em oferta insuficiente de produtos e serviços derivados da tecnologia nuclear.
+Causa Do Problema: Destacam-se como as principais causas de problema central:
+•	A redução crítica no quadro técnico especializado na área nuclear e insuficiência de recursos humanos. 
+•	Insuficiência e inadequação de instrumentos normativos para tecnologias nucleares específicas e inadequação de marco regulatório 
+•	Insuficiência de ações de coordenação do Sistema de Proteção ao Programa Nuclear Brasileiro (Sipron) 
+•	Baixo conhecimento dos recursos nucleares do território nacional e descontinuidade do mapeamento. 
+•	Dependência externa de insumos radioativos. 
+•	Oferta insuficiente de serviços de medicina nuclear para atender a população. 
+•	Infraestrutura de pesquisa insuficiente para o desenvolvimento de tecnologia estratégica na área nuclear. 
+•	Infraestrutura de produção insuficiente para atender as demandas da área nuclear. 
+•	Desconhecimento dos benefícios do setor nuclear pela sociedade e baixo conhecimento sobre a atividade nuclear.
+Evidências Do Problema: Existe uma evidente insuficiência de infraestrutura, recursos humanos especializados e instrumentos normativos para atender as demandas por tecnologias e aplicações na área nuclear.
+Neste sentido, o problema se materializa com a crescente a falta de investimento em infraestrutura básica e tecnológica para produção, pesquisa, proteção radiológica, licenciamento e fiscalização na área nuclear. Soma-se a isso, o envelhecimento da força de trabalho do setor que, no caso da CNEN, apresenta 50% dos servidores em condições de se aposentar.  Este problema vem se agravando dado a impossibilidade de efetivar um planejamento para a reposição de quadros já reduzidos.
+Justificativa Para A Intervenção: Em todo o mundo apenas doze países dominam a tecnologia do ciclo de combustível nuclear, incluindo o Brasil. Entre esses países apenas três dispõem de reservas de uranio para exploração comercial, o Brasil entre eles. Dentro desse cenário, o Brasil teria todas as condições para exercer um papel de destaque na cadeia produtiva internacional, de alto valor agregado, no âmbito do setor nuclear, além de garantir sua autonomia em escala industrial.
+
+A intervenção com o Programa específico se justifica visto que as principais deficiências da área nuclear no Brasil devem ser solucionadas por intermédio de uma ação de Governo a fim de proporcionar condições para expansão  das atividades do setor no país , fomentando a participação da iniciativa privada e a inserção  do País  nos mercados internacionais, tornando-o atrativo para novos investimentos com a garantia da segurança quanto à utilização da energia nuclear para o bem-estar da sociedade.
+Evolução Histórica: O programa nuclear brasileiro teve início na década de 50, com a criação da CNEN, com o objetivo de desenvolver no país as competências tecnológicas voltadas para utilização da energia nuclear em seus vários campos de aplicação.
+Na década de 70 o Brasil deu início a um programa nuclear destinado a explorar o potencial uranífero existente no território nacional, preservando suas reservas estratégicas, a partir do desenvolvimento e implantação de todo ciclo de combustível nuclear juntamente com a introdução de centrais núcleo-elétricas em sua matriz energética.  
+Apesar do impulso inicial proporcionado pelo programa as usinas termonucleares são responsáveis por menos de 3% da produção de energia consumida no país. Por outro lado, existe um grande potencial para ampliar essa participação, uma vez que o Brasil é detentor da sexta maior reserva de urânio do planeta, além de dominar o processo de enriquecimento de urânio e de fabricação de elementos combustíveis para usinas nucleares.
+Além disso, o país investiu no desenvolvimento de capacitação própria para promover o uso das radiações ionizantes dos mais diversos campos de aplicação, tais como: medicina, agricultura, meio ambiente, indústria alimentícia e outras aplicações industriais.
+Entretanto, constata-se que esse investimento não foi suficiente para atender a crescente demanda da sociedade por produtos e serviços proporcionados pela tecnologia nuclear.
+
+Essa situação vem sendo reportada no âmbito dos sucessivos ciclos de planejamento do governo federal, por intermédio do PPA, sem, no entanto, atingir o nível de intervenção necessário para o atendimento da sociedade.
+Comparações Internacionais: A título de exemplificação, pode-se destacar a situação referente a área médica. Nesse campo, o Brasil está muito aquém de outros países em desenvolvimento como por exemplo a Argentina, que proporciona um atendimento à sua população em torno de 4   vezes maior do que ocorre no Brasil.
+Em termos de pesquisa e desenvolvimento o Brasil está entre os primeiros colocados no que se refere à produção científica, medida pelo número artigos indexados em publicações internacionais. No entanto, em termos de produção tecnológica, ocupamos as últimas posições no ranking mundial.
+
+Quanto a área de segurança nuclear observa-se, em vários países a existência de uma autoridade regulatória independente, tais como: Estados Unidos, França, Finlândia, Espanha, Argentina e Paraguai, o que não ocorre no Brasil. Esses órgãos são responsáveis pela regulamentação e pelo licenciamento e fiscalização das atividades nucleares. Essas instituições, não realizam atividades nucleares operacionais e não são responsáveis pela formulação da política nuclear de seus países, conforme preconizado pela Convenção de Segurança Nuclear, da qual o Brasil é signatário.
+Relação Com Os Ods: Com relação aos Objetivos de Desenvolvimento Sustentável, segundo a Agência Internacional de Energia Atômica-AIEA o setor nuclear contribui diretamente para nove entre os dezessete   ODS formulados, a saber:
+ODS 02 - Fome zero e agricultura sustentável: acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 03 - Saúde e bem-estar: assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 06 – Assegurar a disponibilidade e gestão sustentável de água e saneamento para todas e todos.
+ODS 07 - Energia limpa e acessível: garantir acesso à energia barata, confiável, sustentável e renovável para todos.
+ODS 09 - Inovação infraestrutura: construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação.
+ODS 13 – Tomar medidas urgentes para combater a mudança climática e seus impactos.
+ODS14 – Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável 
+ODS15- Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.  
+ODS17- Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+Agentes Envolvidos: Mistério da Ciência, Tecnologia e Inovação, Comissão Nacional de Energia Nuclear-CNEN, Autoridade Nacional de Segurança Nuclera - ANSN; Empresa de Pesquisa Energética-EPE, Companhia de Pesquisa e Recursos Minerais-CPRM, Gabinete de Segurança Institucional-.GSI, Ministério de Minas e Energia-MME, Industria Nucleares do Brasil-INB, Ministério da Saúde-MS, Ministério da Economia-ME, Nuclebrás Equipamentos Pesados-NUCLEP, Secretaria de Orçamento Federal-SOF.
+Articulação Federativa: Não há
+Enfoque Transversal: Agenda Transversal:
+6) Verde.
+Marco Legal: Comissão Nacional de Energia Nuclear - CNEN, autarquia federal, criada pela Lei nº 4.118/62, de 27 de agosto de 1962, vinculada ao Ministério da Ciência, Tecnologia, Inovações e Comunicações, com autonomia administrativa e financeira, dotada de personalidade jurídica de direito público, com sede e foro na cidade do Rio de Janeiro, tem como competências, de acordo com as Leis nos6.189/74, de 16 de dezembro de 1974, e 7.781/89, de 27 de junho de 1989: colaborar na formulação da Política Nacional de Energia Nuclear; executar as ações de pesquisa, desenvolvimento e promoção da utilização da energia nuclear para fins pacíficos; formar recursos humanos para o setor nuclear; efetuar o gerenciamento dos rejeitos radioativos; realizar ações de radioproteção; produzir radioisótopos; disponibilizar produtos e serviços; e, regular, licenciar, autorizar, controlar e fiscalizar todas as atividades nucleares.
+Planos Nacionais, Setoriais E Regionais: Estrategia Nacional de Ciência, Tecnologia e Inovação (ENCTI) - 2023-2030.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não

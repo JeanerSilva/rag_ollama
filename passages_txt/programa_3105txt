@@ -1,0 +1,4022 @@
+passage: Programa Número 3105
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 226
+Indicador: 9046
+Denominação: Índice de disponibilidade de operação de eclusas
+Sigla: IOPE
+Índice De Referência: 88.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: EOP = Eclusas em operação
+EC = Total de Eclusas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Dividir a quantidade de eclusas em operação pelo nº total de eclusas.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Para determinar o percentual de operação anual será considerado o valor da média mensal registrada no ano referente à apuração.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2549
+Indicador: 11943
+Denominação: Índice de disponibilidade de operação de eclusas em SP
+Sigla: IOPESP
+Índice De Referência: 50.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: EOP = Eclusas em operação; EC = Total de Eclusas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Dividir a quantidade de eclusas em operação pelo nº total de eclusas.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Para determinar o percentual de operação anual será considerado o valor da média mensal registrada no ano referente à apuração.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2547
+Indicador: 11940
+Denominação: Índice de disponibilidade de operação de eclusas na BA
+Sigla: IOPEBA
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: EOP = Eclusas em operação; EC = Total de Eclusas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Dividir a quantidade de eclusas em operação pelo nº total de eclusas.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Para determinar o percentual de operação anual será considerado o valor da média mensal registrada no ano referente à apuração.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2548
+Indicador: 11942
+Denominação: Índice de disponibilidade de operação de eclusas no PA
+Sigla: IOPEPA
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: EOP = Eclusas em operação; EC = Total de Eclusas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Dividir a quantidade de eclusas em operação pelo nº total de eclusas.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Para determinar o percentual de operação anual será considerado o valor da média mensal registrada no ano referente à apuração.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2550
+Indicador: 11948
+Denominação: Índice de disponibilidade de operação de eclusas no RS
+Sigla: IOPERS
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador apresenta o percentual de eclusas, sob responsabilidade do DNIT, em operação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: EOP = Eclusas em operação; EC = Total de Eclusas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Dividir a quantidade de eclusas em operação pelo nº total de eclusas.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Para determinar o percentual de operação anual será considerado o valor da média mensal registrada no ano referente à apuração.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 230
+Indicador: 9049
+Denominação: Número de canais de navegação ampliados
+Sigla: IMPCA
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Realização de derrocamentos e dragagem de aprofundamento que permitam maior calado e por maior tempo.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Número de canais de navegação ampliados
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some do número de canais de navegação ampliados
+Limitações: Considerar as obras previstas antes do início da execução do Plano
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2472
+Indicador: 11790
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2465
+Indicador: 11781
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2473
+Indicador: 11791
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2469
+Indicador: 11785
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2467
+Indicador: 11783
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2468
+Indicador: 11784
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2480
+Indicador: 11798
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2478
+Indicador: 11796
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2475
+Indicador: 11793
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2474
+Indicador: 11792
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2477
+Indicador: 11795
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2464
+Indicador: 11779
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: uniddade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2463
+Indicador: 11772
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2479
+Indicador: 11797
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2471
+Indicador: 11788
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2470
+Indicador: 11786
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2466
+Indicador: 11782
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2476
+Indicador: 11794
+Denominação: Número de contratos assinados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NA: Número de contrato assinado
+NP: Número de contrato previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o contrato previsto foi assinado
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 288
+Indicador: 9122
+Denominação: Número de contratos de concessão de terminais portuários ou de portos organizados assinados
+Índice De Referência: 50.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador visa a demonstrar o número de contratos de concessão/arrendamentos portuários assinados no respectivo ano.
+Período Ou Data A Que Se Refere: As informações do indicador referem-se a cada um dos exercícios.
+Data De Divulgação/Disponibilização: Mês de janeiro de cada ano.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Contrato de concessão/arrendamentos assinados
+Fonte De Dados Das Variáveis De Cálculo: SNPTA
+Forma De Disponibilização: Após a assinatura do contrato, há publicação do extrato no Diário Oficial da União.
+Procedimento De Cálculo: Soma dos contratos de concessão/arrendamento assinados no respectivo ano.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 114
+Entrega: 586
+Indicador: 9522
+Denominação: Número de embarcações financiadas entregues
+Sigla: NEFE
+Índice De Referência: 96.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário.
+Período Ou Data A Que Se Refere: 01/01 a 31/12 do ano aferido
+Data De Divulgação/Disponibilização: 120 dias após o ano de aferição
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de embarcações entregues.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas de controle de entregas da CGNA/DNHI.
+Forma De Disponibilização: Anualmente no monitoramento do programa transporte aquaviário ou a qualquer momento, sob demanda.
+Procedimento De Cálculo: Somatório das obras de construção de embarcações + manutenção/reparo/modernização de embarcações entregues e financiadas com recursos do FMM
+Limitações: Não distingue obras por tipo de intervenção e valor.
+Notas Explicativas: Obras de pequeno vulto equivalem a obras de grande vulto. Atribui-se a mesma quantidade em uma obra de manutenção de embarcação, feita em poucos dias e uma obra de construção de embarcação que pode levar anos para ser concluída.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 114
+Entrega: 593
+Indicador: 9528
+Denominação: Número de estaleiros financiados entregues
+Sigla: NEFE
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Descrição: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário.
+Período Ou Data A Que Se Refere: 01/01 a 31/12 do ano aferido
+Data De Divulgação/Disponibilização: 120 dias após o ano de aferição
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de estaleiros entregues e financiados com recursos do FMM.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas de controle de entregas da CGNA/DNHI.
+Forma De Disponibilização: Anualmente no monitoramento do programa transporte aquaviário ou a qualquer momento, sob demanda.
+Procedimento De Cálculo: Somatória das obras de construção/expansão/modernização de estaleiros entregues e financiados com recursos do FMM.
+Limitações: Não distingue obras por tipo de intervenção e valor.
+Notas Explicativas: Obras de pequeno vulto equivalem a obras de grande vulto. Atribui-se a mesma quantidade em uma obra de modernização de um estaleiro, feita em poucos dias e uma obra de construção de estaleiro que pode levar anos para ser concluída
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2481
+Indicador: 11803
+Denominação: Número de estudos concluídos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o estudo previsto foi concluído.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NE: Número de estudo concluído
+NP: Número de estudo previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o estudo previsto foi concluído.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2482
+Indicador: 11804
+Denominação: Número de estudos concluídos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta efetivamente se o estudo previsto foi concluído.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: NE: Número de estudo concluído
+NP: Número de estudo previsto
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: O indicador apresenta efetivamente se o estudo previsto foi concluído.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 3180
+Indicador: 12545
+Denominação: Número de estudos entregues
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de EVTEA entregue.
+Período Ou Data A Que Se Refere: 01/01/2024 a 31/01/2025
+Data De Divulgação/Disponibilização: 31/01/2025
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IRM = quantidade de EVTEA entregue
+Fonte De Dados Das Variáveis De Cálculo: ANTAQ
+Forma De Disponibilização: Site da ANTAQ
+Procedimento De Cálculo: Quantidade de EVTEA entregue
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 3177
+Indicador: 12544
+Denominação: Número de estudos entregues
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de EVTEA entregue.
+Período Ou Data A Que Se Refere: Jan/2023-dez/2024
+Data De Divulgação/Disponibilização: 1ª quinzena de jan/2025
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ILM = quantidade de EVTEA entregue
+Fonte De Dados Das Variáveis De Cálculo: ANTAQ
+Forma De Disponibilização: Por processo SEI, ou no site da ANTAQ na internet
+Procedimento De Cálculo: Quantidade de EVTEA entregue
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2445
+Indicador: 12007
+Denominação: Número de estudos entregues
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estudo\ entregue
+Fonte De Dados Das Variáveis De Cálculo: DGMP/SNPTA
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Estudo efetivamente entregue.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 3178
+Indicador: 12547
+Denominação: Número de estudos entregues
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de EVTEA entregue
+Período Ou Data A Que Se Refere: 01/01/2024 a 31/01/2025
+Data De Divulgação/Disponibilização: 31/01/2025
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IRT = quantidade de EVTEA entregue
+Fonte De Dados Das Variáveis De Cálculo: ANTAQ
+Forma De Disponibilização: Site da Antaq
+Procedimento De Cálculo: Quantidade de EVTEA entregue
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 3179
+Indicador: 12546
+Denominação: Número de estudos entregues
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de EVTEA entregue
+Período Ou Data A Que Se Refere: 01/01/2024 a 31/01/2025
+Data De Divulgação/Disponibilização: 31/01/2025
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IRP = quantidade de EVTEA entregue
+Fonte De Dados Das Variáveis De Cálculo: ANTAQ
+Forma De Disponibilização: Site da ANTAQ
+Procedimento De Cálculo: Quantidade de EVTEA entregue
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2636
+Indicador: 11992
+Denominação: Número de Estudos realizados
+Sigla: NUESTHID
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de Estudos realizados anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Estudos das Hidrovias
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Estudos a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 114
+Entrega: 610
+Indicador: 9540
+Denominação: Número de infraestruturas portuárias financiadas entregues
+Sigla: NIPAFE
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário.
+Período Ou Data A Que Se Refere: 01/01 a 31/12 do ano aferido
+Data De Divulgação/Disponibilização: 120 dias após o ano de aferição
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de obras portuárias e aquaviárias entregues e financiadas com recursos do FMM
+Fonte De Dados Das Variáveis De Cálculo: Planilhas de controle de entregas da CGNA/DNHI.
+Forma De Disponibilização: Anualmente no monitoramento do programa transporte aquaviário ou a qualquer momento, sob demanda.
+Procedimento De Cálculo: Anualmente no monitoramento do programa transporte aquaviário ou a qualquer momento, sob demanda.
+Limitações: Não distingue obras por tipo de intervenção e valor.
+Notas Explicativas: Não distingue obras por tipo de intervenção e valor.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 216
+Indicador: 9040
+Denominação: Número de instalações portuárias em operação
+Sigla: ICCIP
+Índice De Referência: 69.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra o número de instalações portuárias (IP4) em operação sob responsabilidade do DNIT.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de instalações portuárias (IP4) com cobertura contratual.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Soma de todas as instalações portuárias que constam com cobertura contratual.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2592
+Indicador: 11927
+Denominação: Número de instalações portuárias (IP4) mantidas e em operação no AM, RO e RR
+Sigla: ICCIPAM
+Índice De Referência: 48.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra o número de instalações portuárias (IP4) mantidas e em operação sob responsabilidade do DNIT
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de instalações portuárias (IP4) com cobertura contratual.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as instalações portuárias (IP4) que constam com cobertura contratual.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2595
+Indicador: 11931
+Denominação: Número de instalações portuárias (IP4) mantidas e em operação no MA e PI
+Sigla: ICCIPMAPI
+Índice De Referência: 22.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra o número de instalações portuárias (IP4) mantidas e em operação sob responsabilidade do DNIT
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de instalações portuárias (IP4) com cobertura contratual.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as instalações portuárias (IP4) que constam com cobertura contratual.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2593
+Indicador: 11929
+Denominação: Número de instalações portuárias (IP4) mantidas e em operação no PA e AP
+Sigla: ICCIPPA
+Índice De Referência: 8.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra o número de instalações portuárias (IP4) mantidas e em operação sob responsabilidade do DNIT
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de instalações portuárias (IP4) com cobertura contratual.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as instalações portuárias (IP4) que constam com cobertura contratual.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 465
+Indicador: 9343
+Denominação: Número de novas funcionalidades implementadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Soma do total de funcionalidades entregues anualmente.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 223
+Indicador: 9042
+Denominação: Número de obras de modernização de eclusas implantadas
+Sigla: NUMEI
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra a quantidade de obras de modernização concluídas nas Eclusas sob responsabilidade do DNIT
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Obras de Modernização concluídas
+Fonte De Dados Das Variáveis De Cálculo: DNIT/DAQ
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Limitações: Não há Limitações
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 580
+Indicador: 9514
+Denominação: Número de portos organizados com estudos climáticos elaborados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantitativo anual de estudos realizados.
+Fonte De Dados Das Variáveis De Cálculo: SNPTA-MPOR
+Forma De Disponibilização: Sítio do Ministério
+Procedimento De Cálculo: Aferição do quantitativo de estudos realizados anualmente.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 579
+Indicador: 9511
+Denominação: Número de portos organizados que implantaram o PCS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Fonte De Dados Das Variáveis De Cálculo: SNPTA-MPOR
+Forma De Disponibilização: Sítio do Ministério
+Procedimento De Cálculo: Aferição do quantitativo de portos com PCS implantado anualmente.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 3017
+Indicador: 12379
+Denominação: Número de relatórios entregues - PMH Lagoa Mirim
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-15 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório da quantidade de relatórios contendo as informações consolidadas dos levantamentos e monitoramentos hidroviários realizados nas hidrovias
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Relatórios a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2632
+Indicador: 11988
+Denominação: Número de relatórios entregues - PMH Madeira
+Sigla: NUREPAR
+Índice De Referência: 115.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Relatórios a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2631
+Indicador: 11987
+Denominação: Número de relatórios entregues - PMH Paraguai
+Sigla: NUREPAR
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Relatórios a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2633
+Indicador: 11989
+Denominação: Número de relatórios entregues - PMH São Francisco
+Sigla: NURESFR
+Índice De Referência: 40.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Fonte De Dados Das Variáveis De Cálculo: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Forma De Disponibilização: DAQ/DNIT
+Procedimento De Cálculo: Somatório
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Relatórios a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2634
+Indicador: 11990
+Denominação: Número de relatórios entregues - PMH Tapajós
+Sigla: NURETAP
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Relatórios a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2635
+Indicador: 11991
+Denominação: Número de relatórios entregues - PMH Tocantins
+Sigla: NURETOC
+Índice De Referência: 34.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Relatórios de levantamento e monitoramento
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Relatórios a serem entregues por Hidrovia
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 3016
+Indicador: 12378
+Denominação: Número de serviços /campanhas de desobstrução/destocamento realizados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-15 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas desobstrução/destocamento realizados anualmente
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Campanhas de desobstrução/destocamento realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: Campanhas de desobstrução/destocamento realizadas no ano.
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatória do número de campanhas de desobstrução/destocamento realizadas no ano.
+Limitações: Some todas as campanhas de desobstrução/destocamento realizadas no ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2554
+Indicador: 11957
+Denominação: Número de serviços/campanhas de dragagem realizados
+Sigla: NUDRAGPRG
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de dragagens realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de dragagem realizadas no ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2553
+Indicador: 11954
+Denominação: Número de serviços/campanhas de dragagem realizados
+Sigla: NUDRAGSFR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de dragagens realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Dividir a quantidade de eclusas em operação pelo nº total de eclusas.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Para determinar o percentual de operação anual será considerado o valor da média mensal registrada no ano referente à apuração.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2551
+Indicador: 11951
+Denominação: Número de serviços/campanhas de dragagem realizados
+Sigla: NUDRAGMAD
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de dragagens realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de dragagem realizadas no ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 229
+Indicador: 9048
+Denominação: Número de serviços/campanhas de dragagem realizados
+Sigla: NUDRAG
+Índice De Referência: 4.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: ano
+Descrição: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de dragagens realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de dragagem realizadas no ano
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2555
+Indicador: 11958
+Denominação: Número de serviços/campanhas de dragagem realizados
+Sigla: NUDRAGTAQ
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de dragagens realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de dragagem realizadas no ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2552
+Indicador: 11953
+Denominação: Número de serviços/campanhas de dragagem realizados
+Sigla: NUDRAGPNB
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas dragagens realizadas anualmente
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de dragagens realizadas no ano.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de dragagem realizadas no ano
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2532
+Indicador: 11982
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINMEA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2527
+Indicador: 11977
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINSFR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2516
+Indicador: 11972
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINMAD
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2523
+Indicador: 11975
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINPRG
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2525
+Indicador: 11976
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINTAQ
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2520
+Indicador: 11974
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINPRN
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2529
+Indicador: 11979
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINSOL
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2530
+Indicador: 11980
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINTAP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2531
+Indicador: 11981
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINPNB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2518
+Indicador: 11973
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINTOC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2528
+Indicador: 11978
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINAMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2630
+Indicador: 11983
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASINPIN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Trienal
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 617
+Indicador: 9551
+Denominação: Número de serviços/campanhas de sinalização realizados por ano
+Sigla: CASIN
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra a quantidade de campanhas de manutenção de sinalização realizadas anualmente.
+Período Ou Data A Que Se Refere: junho/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas de sinalização de manutenção.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as campanhas de sinalização de manutenção realizadas no ano.
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 467
+Indicador: 9346
+Denominação: Número de TUPs que operam com PSP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Fonte de Dados das Variáveis de Cálculo SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Quantitativo de terminais com sistema implantado.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2388
+Indicador: 11774
+Denominação: Percentual da Execução Física da Obra
+Em Apuração: Não
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=percentual
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2387
+Indicador: 11765
+Denominação: Percentual da Execução Física da Obra
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: percentual
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Anual, com apuração até janeiro do ano subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: Autoridade Portuária
+Forma De Disponibilização: Relatório de acompanhamento da obra
+Procedimento De Cálculo: Avanço físico da obra
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 460
+Indicador: 9336
+Denominação: Percentual das áreas dos portos organizados regularizados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Site do Ministério e/ou SIOP
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 2588
+Indicador: 11920
+Denominação: Percentual de execução física da adequação do retroporto instalação portuária de São Raimundo/AM
+Sigla: PEXIPASR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2543
+Indicador: 11935
+Denominação: Percentual de execução física da da Modernização da Eclusa de Amarópolis
+Sigla: NUMEIAMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Obras de Modernização concluídas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2542
+Indicador: 11933
+Denominação: Percentual de execução física da da Modernização da Eclusa de Anel de Dom Marco
+Sigla: NUMEIADM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 0203-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Obras de Modernização concluídas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2544
+Indicador: 11938
+Denominação: Percentual de execução física da da Modernização da Eclusa de Bom Retiro do Sul
+Sigla: NUMEIBRS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Obras de Modernização concluídas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2534
+Indicador: 11932
+Denominação: Percentual de execução física da da Modernização da Eclusa de Fandango
+Sigla: NUMEIFAN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada Modernização de Eclusa sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Obras de Modernização concluídas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somatório de todas as variáveis de cálculo
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 155
+Indicador: 8972
+Denominação: Percentual de execução física da instalação portuária de Barcelos/AM
+Sigla: PEXIPBA
+Índice De Referência: 36.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico das obras
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2582
+Indicador: 11908
+Denominação: Percentual de execução física da instalação portuária de Borba/AM
+Sigla: PEXIPBO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 3014
+Indicador: 12376
+Denominação: Percentual de execução física da instalação portuária de Caburé/MA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-09-15 00:00:00
+Unidade De Medida: percentual %
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 3015
+Indicador: 12377
+Denominação: Percentual de execução física da instalação portuária de Cai N'água
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-31 00:00:00
+Unidade De Medida: porcentagem (%)
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar números inteiros (sem casas decimais)
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2575
+Indicador: 11892
+Denominação: Percentual de execução física da instalação portuária de Canutama/AM
+Sigla: PEXIPCAN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da referida obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2577
+Indicador: 11896
+Denominação: Percentual de execução física da instalação portuária de Careira da Várzea e Tefé/AM
+Sigla: PEXIPCVT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2583
+Indicador: 11911
+Denominação: Percentual de execução física da instalação portuária de Eirunepé/AM
+Sigla: PEXIPEIR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2579
+Indicador: 11899
+Denominação: Percentual de execução física da instalação portuária de Humaitá/AM
+Sigla: PEXIPHU
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2586
+Indicador: 11914
+Denominação: Percentual de execução física da instalação portuária de Itacoatiara/AM
+Sigla: PEXIPITA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 97
+Indicador: 8966
+Denominação: Percentual de execução física da instalação portuária de Jutaí/AM
+Sigla: PEXIPJU
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço físico da referida obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 207
+Indicador: 9010
+Denominação: Percentual de execução física da instalação portuária de Lábrea/AM
+Sigla: PEXIPLA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico das obras
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 2587
+Indicador: 11918
+Denominação: Percentual de execução física da instalação portuária de Manaus Moderna/AM
+Sigla: PEXIPMMA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2580
+Indicador: 11902
+Denominação: Percentual de execução física da instalação portuária de Manicoré/AM
+Sigla: PEXIPMAN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Entrega: 2581
+Indicador: 11905
+Denominação: Percentual de execução física da instalação portuária de Santa Isabel do Rio Negro/AM
+Sigla: PEXIPSIRN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Avanço físico da referida obra
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 210
+Indicador: 9019
+Denominação: Percentual de execução física da instalação portuária de Santana/AP
+Sigla: PEXIPSA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico das obras
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 214
+Indicador: 9023
+Denominação: Percentual de execução física da instalação portuária de Santo Antônio do Içá/AM
+Sigla: PEXIPSAI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico das obras
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 218
+Indicador: 9028
+Denominação: Percentual de execução física da instalação portuária de São Gabriel da Cachoeira/AM
+Sigla: PEXIPGA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico das obras
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 219
+Indicador: 9032
+Denominação: Percentual de execução física da instalação portuária de São Paulo de Olivença/AM
+Sigla: PEXIPSPO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AFOC: Avanço físico das obras
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 2589
+Indicador: 11921
+Denominação: Percentual de execução física da instalação portuária de São Raimundo/AM
+Sigla: PEXIPCSR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Como será dividida por IP4 o procedimento de cálculo será individual. Avanço físico de cada obra.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Entrega: 2590
+Indicador: 11924
+Denominação: Percentual de execução física de instalação portuária
+Sigla: PEXIPPM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador mostra o percentual de execução física de cada instalação sob responsabilidade do DNIT, em relação ao que ele tem planejado executar.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: AFOC: Avanço físico da obra
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: O cálculo será individualizado por Porto a ser ampliado/modernizado, considerando o avanço físico de cada obra, tendo como fórmula de cálculo Σ Obras de Ampliação/Modernização = Somatório das obras de modernização concluídas.
+Inicialmente os indicadores a serem considerados como marcos de entregas, podem ser:
+- Data de Início: Assinatura de Ordem de Serviços para início do % a ser considerado.
+- Data de Encerramento: Entrega definitiva da obra como conclusivo para alcance da meta indicada.
+Demais indicadores intermediários estão sendo definidos e elaborados com as áreas técnicas responsáveis a fim de serem definidos marcos gerais às obras, considerando que por tratarem de obras de ampliação e/ou modernização possuem característica as peculiares de escopo de contrato e encontram-se em fase de confirmação.
+Limitações: Considerar até 2 casas decimais
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2563
+Indicador: 11968
+Denominação: Percentual de implantação do canal de navegação da Lagoa Mirim/RS
+Sigla: IMPCALGM
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador calcula o percentual médio do avanço físico das obras de ampliação de canais de navegação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Avanço físico das obras. Quantidade de obras previstas.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some os avanços físicos de cada obra e divida pelo número de obras previstas
+Limitações: Considerar as obras previstas antes do início da execução do Plano
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2557
+Indicador: 11967
+Denominação: Percentual de implantação do canal de navegação do Rio Tietê
+Sigla: IMPCATIE
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador calcula o percentual médio do avanço físico das obras de ampliação de canais de navegação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Avanço físico das obras. Quantidade de obras previstas.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some os avanços físicos de cada obra e divida pelo número de obras previstas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Entrega: 2556
+Indicador: 11965
+Denominação: Percentual de implantação do canal de navegação do rio Tocantins
+Sigla: IMPCATOC
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador calcula o percentual médio do avanço físico das obras de ampliação de canais de navegação.
+Período Ou Data A Que Se Refere: 01/06/2023
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Avanço físico das obras. Quantidade de obras previstas.
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some os avanços físicos de cada obra e divida pelo número de obras previstas
+Limitações: Considerar as obras previstas antes do início da execução do Plano
+Notas Explicativas: Considerar o avanço físico das obras não iniciadas igual a 0%
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 479
+Indicador: 9359
+Denominação: Percentual de portos organizados com declaração de cumprimento do ISPS Code válida
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Justiça e Segurança Pública - MJSP
+Forma De Disponibilização: Site do MJSP
+Procedimento De Cálculo: Quantitativo de portos públicos com Declaração de Cumprimento.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 577
+Indicador: 9506
+Denominação: Percentual de trabalhadores capacitados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Considerando a ausência de indicador disponível, a metodologia adotada permite aferir o andamento da entrega proposta.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Mês de janeiro de cada exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Portos e Costas – DPC/MB-MD; FENOP
+Forma De Disponibilização: Sítio do MD
+Procedimento De Cálculo: Percentual de trabalhadores capacitados em relação.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2433
+Indicador: 12010
+Denominação: Porcentagem da Execução do Empreendimento
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=executado
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2439
+Indicador: 12001
+Denominação: Porcentagem da Execução do Empreendimento
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=executado
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2438
+Indicador: 12000
+Denominação: Porcentagem da Execução do Empreendimento
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Data De Divulgação/Disponibilização: Anual, com apuração até janeiro do ano subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=executado
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2421
+Indicador: 11915
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2420
+Indicador: 11913
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2426
+Indicador: 11923
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2401
+Indicador: 11883
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2398
+Indicador: 11881
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2440
+Indicador: 12002
+Denominação: Porcentagem da Execução Física
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=executado
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2441
+Indicador: 12003
+Denominação: Porcentagem da Execução Física
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=execução
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2444
+Indicador: 12006
+Denominação: Porcentagem da Execução Física
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=executado
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2443
+Indicador: 12005
+Denominação: Porcentagem da Execução Física
+Em Apuração: Sim
+Data De Apuração: 2023-08-08 00:00:00
+Unidade De Medida: percentual
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=percentual
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Entrega: 2415
+Indicador: 11904
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2411
+Indicador: 11895
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2418
+Indicador: 11909
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2403
+Indicador: 11887
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2402
+Indicador: 11884
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2389
+Indicador: 11864
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: p=percentual
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2416
+Indicador: 11906
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2407
+Indicador: 11889
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2406
+Indicador: 11888
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2423
+Indicador: 11922
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2400
+Indicador: 11882
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2429
+Indicador: 11926
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2395
+Indicador: 11872
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2427
+Indicador: 11925
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2397
+Indicador: 11880
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2422
+Indicador: 11917
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2425
+Indicador: 12190
+Denominação: Porcentagem da Execução Física
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-21 00:00:00
+Unidade De Medida: percentual
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico
+Quant. Executada
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2409
+Indicador: 11891
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2413
+Indicador: 11901
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2410
+Indicador: 11894
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2393
+Indicador: 11870
+Denominação: Porcentagem da Execução Física
+Sigla: PEXP
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2390
+Indicador: 11865
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Entrega: 2419
+Indicador: 11910
+Denominação: Porcentagem da Execução Física
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: %
+Descrição: Enquanto indicador operacional, a métrica facilita a gestão do gerente de projeto, em detrimento da adoção de outros mais complexos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Ao final do mês de janeiro ao ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Avanço Físico da Obra
+Quant. Executada 
+Quant. Total
+Fonte De Dados Das Variáveis De Cálculo: Obtenção pela SNPTA nas execuções diretas ou junto às autoridades nas execuções descentralizadas.
+Forma De Disponibilização: Site do Ministério e/ou SIOP
+Procedimento De Cálculo: Razão decimal da execução em relação ao total previsto.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3105
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Indicador: 8982
+Denominação: Adequação do nível de saturação dos complexos portuários
+Sigla: SAT
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: O indicador de Saturação é calculado pelo quociente entre a demanda manifesta ou estimada para o ano de referência, e a capacidade potencial ou operacional no mesmo ano. Assim, ele possui grande capacidade descritiva, pois combina num único indicador as duas principais medidas operacionais de um terminal (demanda movimentada e capacidade ofertada). É uma medida internacionalmente adotada, mas que possui mais de uma forma de aferição, e para a qual o Brasil ainda não possui uma metodologia padronizada.
+Neste ciclo de planejamento, será adotada a metodologia em desenvolvimento no âmbito do Plano Setorial Portuário, que busca evoluir os conceitos já anteriormente praticados em planos portuários anteriores, mas agora compatibilizando os dados de movimentação portuária reais atualmente disponibilizados pela Antaq com dados de projeção de demanda portuária futura advindos do Plano Nacional de Logística (PNL 2035). O Objetivo é que todos os complexos portuários do Brasil estejam com nível de saturação menor ou igual a 75% até o ano de 2035
+Período Ou Data A Que Se Refere: 2035 (dados projetados por simulação)
+Data De Divulgação/Disponibilização: Até 30/06 do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Sat = Saturação do terminal
+Dem = Demanda (projetada ou aferida) para um dado produto ou grupo de carga
+Cap Op = Capacidade Operacional do terminal para movimentação daquele produto ou grupo de carga
+Fonte De Dados Das Variáveis De Cálculo: Dem (Demanda):
+• para o diagnóstico inicial: demandas projetadas obtidas pelas projeções do Plano Setorial Portuário
+• para os acompanhamentos anuais: movimentações efetivas informadas pela Antaq a partir de dados das administrações portuárias
+Cap Op (Capacidade Operacional)
+diagnóstico e acompanhamento: modelo estimativa de capacidade operacional adotado no Plano Setorial Portuário
+Forma De Disponibilização: O indicador pode ser calculado anualmente, sempre que a Antaq divulgar o relatório do Anuário Estatístico Portuário.
+Procedimento De Cálculo: Aplicar a fórmula de cálculo indicada acima, para os dados que venham a ser disponibilizados.
+Limitações: Não existe metodologia padronizada única para a definição de Capacidade Operacional, havendo divergências metodológicas entre as capacidades divulgadas por diferentes autoridades portuárias públicas e por operadores privados.
+A adoção desse indicador representa um avanço na proposta de padronização deste aspecto, mas irá ensejar um esforço de padronização metodológica por parte do Ministério de Portos e Aeroportos junto ao setor portuário, que, uma vez obtido, trará um significativo avanço na governança do setor.
+Notas Explicativas: O índice de referência de 75% adotado busca permitir ações preventivas quanto à saturação portuária, antes de ela se tornar um problema operacional significativo, em geral assim considerado quanto a saturação atinge valores acima de 100% (o que na maioria das vezes significa a formação de filas em alguma das etapas de operação portuária, em geral incorrendo em aumentos diretos nos custos de movimentação). Para melhor acompanhamento desse objetivo específico, as metas regionalizadas indicadas correspondem a metas de ampliação da capacidade operacional que – conforme evidenciado na Fórmula de Cálculo - impactam na aferição da Saturação de cada complexo portuário monitorado.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Indicador: 8975
+Denominação: Extensão (em km) das hidrovias economicamente navegadas
+Sigla: VEN
+Índice De Referência: 19167.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: km
+Descrição: O Indicador apura a extensão das vias interiores economicamente navegadas, constituindo-se em um proxy da utilização do modal hidroviário no país.
+Período Ou Data A Que Se Refere: Ano de 2020
+Data De Divulgação/Disponibilização: Novembro a cada 2 anos
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Percurso hidroviário (em km) entres pares de Origem e Destino que tiveram navegação comercial no ano da apuração
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Desempenho Portuário – SDP, de gestão da Antaq; sistema Mercante, de gestão do Ministério da Fazenda; dados da Agência de Regulação e Controle de Serviços Públicos do Estado do Pará (ARCON-PA); dados fornecidos pela Administração da Hidroviária do Paraná–AHRANA; linhas de navegação outorgadas pela ANTAQ.
+Forma De Disponibilização: Relatório disponibilizado no site da Antaq (Estudos e Pesquisas da ANTAQ — Agência Nacional de Transportes Aquaviários (ANTAQ) (www.gov.br)
+Procedimento De Cálculo: A ferramenta de caminhos mínimos do SIGTAQ – Sistema de Informações Geográficas da ANTAQ identifica e calcula, em quilômetros, o percurso hidroviário entre um par O/D. Supondo-se que este seja o caminho percorrido pela embarcação e subtraindo-se eventuais sobreposições de trechos para os vários pares O/D, encontra-se a extensão total das vias economicamente navegadas.
+Limitações: É importante destacar que a extensão apurada tratar-se de uma estimativa, pois a escala de precisão utilizada no sistema, para este tipo de análise, é a de planejamento, ou seja, 1: 1.000.000, mas com trechos também na escala 1: 250.000 em vários rios federais.
+Notas Explicativas: Apura a extensão das vias interiores economicamente navegadas em km em um determinado ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Indicador: 8985
+Denominação: Média global do Índice de Gestão das Autoridades Portuárias - IGAP
+Sigla: IGAP
+Índice De Referência: 7.2
+Em Apuração: Não
+Data De Apuração: 2022-06-23 00:00:00
+Unidade De Medida: pontos
+Descrição: Conforme disciplina a Portaria 574/2018, o Índice de Gestão das Autoridades Portuárias – IGAP é composto por diversos indicadores que abrangem vários aspectos da gestão e eficiência portuária, incluindo: 
+I - retorno sobre o capital;
+II - eficiência operacional;
+III - eficiência administrativa;
+IV - nível de execução orçamentária para fins de investimento;
+V - índice de notificações da ANTAQ;
+VI - desempenho ambiental;
+VII - manutenção dos acessos aquaviários;
+VIII - aderência do regulamento de exploração do porto às orientações estabelecidas pelo poder concedente;
+IX - regularidade fiscal com a União, Estado e Município;
+X - regularidade trabalhista;
+XI - divulgação do regulamento de exploração do porto vigente;
+XII - divulgação das pautas e das atas das reuniões do CONSAD e do CAP;
+XIII - divulgação das tabelas tarifárias do porto organizado;
+XIV - divulgação da relação atualizada de operadores portuários pré-qualificados; e
+XV - divulgação dos contratos de exploração de áreas e instalações portuárias e respectivos aditivos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do exercício anterior.
+Data De Divulgação/Disponibilização: Segundo semestre do ano subsequente à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ms: média aritmética simples
+x1, x2, x3,...,xn: valores dos dados
+n: número de dados
+Fonte De Dados Das Variáveis De Cálculo: SNPTA/MPOR
+Forma De Disponibilização: Site do Ministério
+Procedimento De Cálculo: Média aritmética obtida das notas individuais de cada unidade portuária.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 114
+Indicador: 9050
+Denominação: Número de empreendimentos entregues
+Sigla: NEE
+Índice De Referência: 46.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Este índice busca avaliar os resultados e impactos da política de transporte aquaviário. Para isso, aborda as seguintes dimensões do Planejamento Estratégico Institucional: Competitividade e Satisfação do Usuário.
+Período Ou Data A Que Se Refere: 01/01 a 31/12 do ano aferido
+Data De Divulgação/Disponibilização: 120 dias após o ano de aferição
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimentos navais, portuários e aquaviários entregues que receberam recursos do FMM.
+Fonte De Dados Das Variáveis De Cálculo: Planilhas de controle de entregas da CGNA/DNHI.
+Forma De Disponibilização: Anualmente no monitoramento do programa transporte aquaviário ou a qualquer momento, sob demanda.
+Procedimento De Cálculo: Somatório das obras de construção de embarcações + manutenção/reparo/modernização de embarcações + construção/reparo/manutenção de estaleiros + obras portuárias + obras aquaviárias entregues e financiadas com recursos do FMM.
+Limitações: Não distingue obras por tipo de intervenção e valor.
+Notas Explicativas: Obras de pequeno vulto equivalem a obras de grande vulto. Atribui-se a mesma quantidade em uma obra de manutenção de embarcação, feita em poucos dias e uma obra portuária que leva anos para ser concluída.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Indicador: 8876
+Denominação: Número de instalações portuárias (IP4) implantadas
+Sigla: DISPIP
+Índice De Referência: 76.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mostra o número de instalações portuárias públicas de pequeno porte concluídas sob responsabilidade do DNIT. Novas instalações portuárias previstas (7 instalações portuárias): Jutaí/AM, Barcelos/AM, Lábrea/AM, Santana/AP, Santo Antônio do Içá/AM, São Gabriel da Cachoeira/AM e São Paulo de Olivença/AM.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de instalações portuárias concluídas e entregues.
+Fonte De Dados Das Variáveis De Cálculo: DAQ-DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Somar todas as instalações portuárias (concluídas e entregues).
+Notas Explicativas: Novas instalações portuárias previstas (7 instalações portuárias): Jutaí/AM, Barcelos/AM, Lábrea/AM, Santana/AP, Santo Antônio do Içá/AM, São Gabriel da Cachoeira/AM e São Paulo de Olivença/AM.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Indicador: 8969
+Denominação: Percentual de instalações portuárias (IP4) em operação
+Sigla: PIPOP
+Índice De Referência: 91.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador mostra o percentual de instalações portuárias (IP4) em operação sob responsabilidade do DNIT, em relação ao total implantado.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Final do mês de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IPO: Total de Instalações portuárias operando
+TIPI: Total de instalações portuárias implantadas
+Fonte De Dados Das Variáveis De Cálculo: DAQ/DNIT
+Forma De Disponibilização: Relatório de Gestão DNIT disponibilizado no Site Oficial do Departamento no início de cada ano.
+Procedimento De Cálculo: Some todas as instalações portuárias em operação e divida pelo total de instalações portuárias implantadas (Construídas, entregues e com possibilidade de operação)
+Limitações: Considerar números inteiros (sem casas decimais)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3105
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 75
+Enunciado: Aumentar a disponibilidade de instalações portuárias (IP4) nos municípios localizados às margens dos rios navegáveis.
+Descrição: Fornecer utilização segura e confiável das hidrovias, para fins de navegação, nas operações de embarque e desembarque de passageiros e insumos como medicamentos, gêneros alimentícios, vestuários, entre outros, aos municípios localizados às margens dos rios, que dependem exclusivamente do transporte hidroviário.
+Órgão: 68000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 107
+Enunciado: Promover o adequado embarque e desembarque de cargas e passageiros, garantindo a disponibilidade, a acessibilidade e a perenidade das instalações portuárias (IP4).
+Descrição: Proporcionar maior segurança e eficiência aos usuários, com gestão e operação dos equipamentos, a fim de realizar cargas e descargas das embarcações, mercadorias e dos passageiros, satisfazendo os requisitos de eficiência, atendimento ao interesse público, generalidade, conforto, cortesia na prestação dos serviços, além de manter a preservação do meio ambiente.
+Órgão: 68000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 108
+Enunciado: Ofertar vias em condições adequadas para a navegação.
+Descrição: Manter as vias navegáveis interiores com trafegabilidade, segurança e previsibilidade dos níveis d'agua, propiciando confiabilidade ao usuário.
+Órgão: 68000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 111
+Enunciado: Adequar a capacidade portuária à demanda de cargas e passageiros existente e futura.
+Descrição: Realização de intervenções de infraestrutura e estudos para a ampliação da capacidade dos portos públicos brasileiros, incluindo:
+• Investimentos em sistemas de atracação, dragagens e acessos terrestres.
+• Desburocratização das operações portuárias.
+• Incentivo aos investimentos privados.
+• Aprimoramento da segurança operacional e da navegação nos portos e instalações portuárias.
+• Melhoria da eficiência operacional e logística do sistema portuário,
+• considerando a relação porto-cidade.
+• Promoção dos investimentos e as iniciativas voltadas ao desenvolvimento da inovação nos portos e instalações portuárias.
+• Iniciativas para promover a sustentabilidade ambiental dos portos organizados, mitigação e adaptação às mudanças climáticas.
+Demais ações visando à redução de custos das atividades e dos serviços do setor portuário.
+Órgão: 68000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 113
+Enunciado: Tornar o sistema portuário mais competitivo, seguro, sustentável, inclusivo e com acessibilidade.
+Descrição: Realização de iniciativas e a atividades em caráter transversal para a o fomento da segurança (safety e security), eficiência das instalações portuárias, bem como medidas voltadas às melhores práticas nas dimensões ambientais, sociais e de governança, utilizando da inovação e novas tecnologias do setor.
+Órgão: 68000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Objetivo Específico: 114
+Enunciado: Financiar a construção ou manutenção de embarcações, estaleiros e infraestruturas portuárias com recursos do Fundo da Marinha Mercante - FMM.
+Descrição: Ampliação e manutenção da frota mercante, indústria naval e infraestrutura portuária e aquaviária visando tornar o sistema aquaviário brasileiro mais competitivo frente ao mercado internacional e sustentável ambientalmente.
+Órgão: 68000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 3105
+
+Exercício: 2025
+Programa: 3105
+Objetivo: 1297
+Enunciado: Promover o desenvolvimento, a eficiência, a qualidade, a competitividade e a segurança dos portos e transporte aquaviário, priorizando iniciativas que tenham foco no serviço adequado e que sejam inovadoras e baseadas na sustentabilidade socioambiental.
+Descrição: O Ministério de Portos e Aeroportos vem promovendo diversas ações relevantes para a modernização da gestão portuária nacional, enfatizando medidas como o acompanhamento melhoria de indicadores de desempenho e a realização do Prêmio Portos + Brasil, seminários e eventos de fomento à inovação no setor portuário, a modernização e o desenvolvimento de sistemas de informação para a promoção da eficiência portuária, estruturação do planejamento setorial, a desburocratização, além de medidas estruturantes para a promoção da qualificação do trabalho portuário, dentre outras. Com maior ênfase, pretende-se promover a melhoria da infraestrutura e a readequação da capacidade dos portos públicos brasileiros.
+O DNIT vem atuando desde 2005 na construção de instalações portuárias, com o objetivo de desenvolver a infraestrutura de transporte hidroviário com qualidade e equipamentos modernos, que permitam um serviço adequado à demanda de cargas e passageiros, com segurança de tráfego, embarque e desembarque nas regiões ribeirinhas, a fim de elevar o nível de serviço das vias de transporte, contribuir para a segurança dos usuários, assegurar a manutenção das vias de transporte e aprimorar o planejamento integrado promovendo a ampliação da disponibilidade e confiabilidade das infraestruturas aquaviárias na matriz de transporte.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3105
+
+Exercício: 2025
+Programa: 3105
+Título: Portos e Transporte Aquaviário
+Tipo: Finalístico
+Órgão: 68000.0
+Público-Alvo: Comunidade dos setores portuário e de transportes marítimo e hidroviário, tais como: usuários, operadores logísticos, agronegócio, indústria, armadores, autoridades portuárias, embarcadores e indústria da construção naval.
+Descrição Do Problema: Insuficiências e/ou ineficiências dos sistemas portuário e de transportes marítimo e hidroviário.
+Causa Do Problema: Baixo nível de investimentos públicos e baixa integração entre os modais de transporte; não realização de investimentos na ampliação da infraestrutura portuária, que impede o aumento da capacidade, reduz a eficiência operacional, bem como pode acarretar maiores custos aos usuários; ociosidade de áreas em portos organizados, impactando a sustentabilidade financeira das respectivas administrações portuárias, assim como na carência de oferta de infraestrutura para movimentação de cargas e consequente aumento do custo logístico brasileiro; legislação difusa e complexa; gestão portuária pública ineficiente; falta de flexibilidade na contratação de obras e serviços pelas autoridades portuárias públicas; pouca coordenação dos agentes públicos.
+Evidências Do Problema: Paralisação da navegação nas hidrovias federais por falta de condições adequadas de navegabilidade, como falta de calado para embarcações, saturação em pontos específicos, paralisação de funcionamento de eclusas e de instalações portuárias do DNIT. Conforme o Acórdão nº 2.711/2020 – Plenário, de 07/10/2020, no âmbito do processo TC 022.534/2019-9, o Tribunal de Contas da União – TCU, no relatório de auditoria, demonstrou a tendência de aumento da participação de Terminais de Uso Privado (TUP) no setor portuário brasileiro. 
+Alguns portos públicos estão apresentando significativo percentual de áreas sem ocupação ou com contratos precários que impedem a realização de investimentos de longo prazo. Segundo o relatório, a taxa média de ociosidade de áreas portuárias foi de 56%. Aumento da carga, porém a oferta de capacidade não acompanha esse crescimento. Desbalanceamento da matriz, sendo o aquaviário representando aproximadamente 18% dessa matriz.
+Justificativa Para A Intervenção: A movimentação portuária brasileira é condicionada por questões relacionadas à conjuntura internacional e doméstica. O contexto externo expressa oportunidades de demanda pelos bens brasileiros e de fornecimento de insumos e produtos em condições mais eficientes. Nesse contexto, há a prevalência de uma situação de incertezas devido às tensões comerciais entre os dois maiores players mundiais - Estados Unidos e China - e à proliferação de acordos preferenciais em âmbitos restritos (especialmente os bilaterais).
+Segundo a United Nations Conference on Trade and Development (Unctad), em 2022, é recomendado que haja um maior investimento nas cadeias de abastecimento marítimo, sob a perspectiva de que os portos, as frotas marítimas e as conexões com o interior devem estar mais bem preparados para futuras crises globais, mudanças climáticas e a transição para energia de baixo carbono. O relatório aponta, ainda, a crise da cadeia de suprimentos dos últimos dois anos como tendo exposto a incompatibilidade entre a demanda e oferta de capacidade de logística marítima.
+A ausência de investimentos adequados no setor contribui de forma crucial para o desbalanceamento da matriz de transportes brasileira e para os problemas na intermodalidade do país. Obras como dragagem, transposição de trechos não navegáveis por meio de eclusas e canais artificiais, derrocagem de obstáculos naturais, balizamento e sinalização são necessárias para o desenvolvimento da malha hidroviária, que também necessita de investimentos na modernização, ampliação e obras de melhorias em portos, alguns em completo defasamento, e em terminais fluviais intermodais. O incentivo massivo à cabotagem também é de suma importância, que aborda questões como a frota inadequada, o equilíbrio no fluxo de cargas e os planos de incentivo.
+O Departamento Nacional de Infraestrutura de Transportes - DNIT é responsável pela manutenção das hidrovias federais, das eclusas e de instalações portuárias por ele construídas e, assim, é fundamental garantir a conservação do patrimônio público com estas ações. 
+Conforme previsto na art. 3º da Lei n.º 12.815/2012, a exploração dos portos organizados e de instalações portuárias, com o objetivo de aumentar a competitividade e o desenvolvimento do país, deve seguir diretrizes que denotam estratégias para a alavancagem de investimentos na ampliação da infraestrutura portuária, proporcionando maior eficiência operacional ao setor e reduzindo custos aos usuários.
+Com vistas a assegurar a realização de investimentos em infraestrutura portuária, necessários a garantir a expansão da capacidade para fazer frente ao crescimento do setor, foram previstos na Lei nº 12.815, de 2013, mecanismos de implementação das políticas públicas estabelecidas pelo Governo, dentre os quais está a de realização de novos arrendamentos e concessões, mediante a realização de procedimentos licitatórios.
+Assim, com vistas a reduzir a ociosidade de áreas dentro de Portos Organizados, bem como aumentar a capacidade de movimentação de cargas no setor portuário, é proposto em objetivo específico a realização de novos arrendamentos portuários ou concessões de parte das funções da administração portuária, que denotam estratégias para a alavancagem de investimentos na ampliação da infraestrutura portuária, proporcionando maior eficiência operacional ao setor e redução de custos aos usuários.
+Evolução Histórica: A partir de 1990, com a promulgação da Lei da Modernização dos Portos, houve a abertura à iniciativa privada das atividades portuárias, o que propiciou as condições necessárias para reformas, contribuiu para a evolução do setor e para a solução dos problemas da falta de investimento, excesso de mão-de-obra, ausência de competitividade e elevados custos operacionais. A Lei, dessa forma, incentivou a competição e a parceria público-privada que resultaram no aumento da quantidade de investimentos, na melhor gestão operacional portuária, no ganho de produtividade e na redução de tarifas. 
+Essa redução de custos contribuiu para o desenvolvimento de novas tecnologias, com a aquisição de novos equipamentos, e na especialização das cargas com o uso de contêineres e mão-de-obra mais especializada. 
+Outras modificações institucionais foram implementadas com a criação do Conselho Nacional de Integração de Políticas de Transportes - CONIT, da Agência Nacional de Transportes Aquaviários - ANTAQ e do DNIT. A partir de então, o País experimentou a criação de polos concentradores e distribuidores de cargas (hub ports), a cabotagem e o comércio exterior. 
+Em  2016, a Secretaria Nacional de Portos passou a integrar o Ministério da Infraestrutura - MInfra, com o incremento de investimentos privados, notadamente observados entre 2019 e 2022. 
+Em razão do Decreto nº 11.354/2023, a Secretaria Nacional de Portos e Transportes Aquaviários - SNPTA teve sua estrutura alterada, passando a integrar o Ministério de Portos e Aeroportos, como sinalização de um novo reforço na política pública portuária, com ênfase na atuação vocacional dos portos públicos para o desenvolvimento regional.
+Comparações Internacionais: O Brasil possui a maior a hidrográfica do planeta e é o quarto maior potencial hidroviário do mundo, com 50 mil quilômetros de rios navegáveis, sem além da costa de 7,5 mil km de extensão com mais de 30 portos instalados. 
+Segundo dados do Banco Mundial, o potencial hidroviário do Brasil é menor somente que o da China e Rússia, os dois maiores países do mundo, e da União Europeia. No entanto, o país utiliza apenas 28% deste potencial, com 14 mil quilômetros de hidrovias. Os Estados Unidos têm um potencial menor, de 41 mil quilômetros, porém usam toda sua capacidade regularmente.  O transporte hidroviário representa apenas 1,8% do transporte no aquaviário no país, o de cabotagem 9,6% e o dutoviário 3,4%. 
+O transporte lacustre é o menos utilizado, tanto no Brasil quanto no mundo. As maiores vias lacustres brasileiras são a Lagoa dos Patos, em Porto Alegre, com 10.145 km², e a Lagoa Mirim, que liga o sul do país ao Uruguai, com aproximadamente 3.750 km². Dentre os principais lagos navegáveis do mundo destacam-se os Lagos Superior, Michigan, Huron, Erie e Ontário, que formam a região dos Grandes Lagos e cobrem uma área de 245 mil Km2 localizados na fronteira entre os Estados Unidos e o Canadá, e o Lago Titicaca, localizado na Cordilheira dos Andes. O transporte marítimo responde por aproximadamente 75% do comércio internacional do Brasil.
+Relação Com Os Ods: ODS 6 - Há parcerias porto-gestão pública local para complementação de redes de esgoto onde não há o atendimento da rede pública - VPorts . Há mutirão de limpeza do rio e programas de conscientização sobre o descarte irregular do lixo nos rios e oceanos – Porto de Itajaí. Os Portos de Paranaguá e Antonina obrigam que todas as operações que possam causar poluição da água. 
+ODS 7 - Estão em início de desenvolvimento estudos associados ao carbono zero "Projeto Codeba Carbono Zero", no Porto de Salvador, e um estudo de construção de planta de desenvolvimento de energia renovável, numa parceria SENAI-CITATEC, no Porto de Aratu. Os Portos de Paranaguá e Antonina disponibilizaram energia solar às comunidades indígenas da Ilha da Cotinga e contrataram um estudo de viabilidade técnica econômica e ambiental para a implementação de uma usina biodigestora para a produção de energia elétrica de forma sustentável a partir dos resíduos oriundos da atividade portuária e utilização da mesma pelos equipamentos da infraestrutura dos Portos do Paraná.
+ODS 9 - Facilitar o desenvolvimento de infraestrutura sustentável e resiliente em países em desenvolvimento, por meio de apoio financeiro, tecnológico e técnico.
+ODS 11 - Estão em desenvolvimento programas de educação ambiental e comunicação social em parceria porto-gestão pública local, incluindo o aproveitamento de espaços públicos, como parques – Vports, Porto do Itaqui, dentre outros. Os Portos de Paranaguá e Antonina monitoram a emissão de fumaça preta dos veículos movidos a diesel e realocaram famílias que haviam invadido a área portuária.
+ODS 17 - Há participação dos portos nos Movimentos Nacionais/Estaduais ODS – Porto de Itajaí – e a busca de convênios/parcerias de troca de conhecimento com portos de países europeus – Portos de Paranaguá e Antonina.
+Além disso, a ANTAQ relaciona os projetos e ações da Agenda Ambiental com os ODS; desenvolve, ainda, iniciativas que serão realizadas, algumas concluídas e outras que são contínuas. Coordenam, também, o Índice de Desempenho Ambiental, a partir do qual fazem uma associação preliminar dos indicadores com os ODS e podem avaliar para cada um como tem sido a evolução dos portos desde 2012. Uma possibilidade que pode ser discutida é de que o IDA vire um indicador associado especificamente com os portos brasileiros.
+Agentes Envolvidos: Ministério de Portos e Aeroportos; Secretaria Nacional de Portos e Transportes Aquaviários - SNPTA; Departamento Nacional de Infraestrutura de Transportes - DNIT; Agência Nacional de Transportes Aquaviários - ANTAQ; PPI; Autoridades Portuárias; Banco Nacional de Desenvolvimento Econômico e Social - BNDES; Infra S.A.; Órgãos de controle; Operadores Portuários; Possíveis investidores.
+Articulação Federativa: União, Estados e Municípios.
+Sistema Nacional de Viação - SNV é composto pelo Sistema Federal de Viação - SFV e pelos sistemas de viação dos Estados, do Distrito Federal e dos Municípios. Quanto aos modos de transporte, o SNV compreende os subsistemas rodoviário, ferroviário, aquaviário e aeroviário. 
+Compete à União, nos termos da legislação vigente, a administração do Sistema Federal de Viação, que compreende o planejamento, a construção, a manutenção, a operação e a exploração dos respectivos componentes.
+Durante a condução dos processos de arrendamento/concessão há a constante interação com as prefeituras e os governos estaduais onde os portos estão localizados.
+Enfoque Transversal: Ministério da Marinha; Ministério da Ciência, Tecnologia e Inovação; Ministério da Defesa; Ministério da Fazenda; Ministério da Gestão e da Inovação em Serviços Públicos; Ministério da Justiça e Segurança Pública; Ministério do Meio Ambiente e Mudança do Clima; Ministério de Minas e Energia; Ministério das Relações Exteriores; Ministério do Trabalho e Emprego; Ministério dos Transportes; Receita Federal.
+Marco Legal: Lei 10.233 - Dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes, e dá outras providências.
+Lei 9.432 – Dispõe sobre a ordenação do transporte aquaviário e dá outras providências.
+Lei 9.537 – Dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional (LESTA).
+Lei 9.611 – Dispõe sobre o transporte multimodal de cargas.
+Lei 9.966 – Dispõe sobre a prevenção, o controle e a fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional e dá outras providências.
+Lei 10.893 – Dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante – AFRMM e o Fundo da Marinha Mercante – FMM, e dá outras providências.
+Decreto-Lei 37 – Dispõe sobre o imposto de importação, reorganiza os serviços aduaneiros e dá outras providências.
+Decreto 666 – Institui a obrigatoriedade de transporte em navio de bandeira brasileira e dá outras providências.
+Decreto 2.256 – Regulamenta o Registro Especial Brasileiro-REB para embarcações de que trata a Lei nº 9.432, de 8 de janeiro de 1997.
+Decreto 2.596 – Regulamenta a Lei nº 9.537, de 10/09/97, que dispõe sobre LESTA.
+Decreto 3.411 – Regulamenta a Lei nº 9.611, de 19/02/98, que dispõe sobre o Transporte Multimodal de Cargas.
+Decreto 4.136 – Dispõe sobre a especificação das sanções aplicáveis às infrações às regras de prevenção, controle e fiscalização da poluição causada por lançamento de óleo e outras substâncias nocivas ou perigosas em águas sob jurisdição nacional, prevista na Lei n o 9.966, de 28 de abril de 2000, e dá outras providências.
+Decreto 10.950/2022 - Dispõe sobre o Plano Nacional de Contingência para Incidentes de Poluição por Óleo em Águas sob Jurisdição Nacional.
+Decreto 4.543 – Regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior (Artigos 210 e 211 – Proteção à bandeira brasileira).
+Decreto 25.403 – Desonera do ICMS os insumos para indústria naval.
+Lei 9.074 – Dispõe sobre outorgas de concessão e permissão de serviços públicos.
+Lei 9.611 – Dispõe sobre o transporte multimodal de cargas.
+Decreto 3.411 – Regulamenta a Lei nº 9.611, de 19/02/98, que dispõe sobre o Transporte Multimodal de Cargas.
+Decreto 5.276 – Altera os art. 2º e 3º do Decreto nº 3.411/2000.
+Decreto 5.296 – Regulamenta as Leis 10.048/2000 e 10.098/2000.
+Decreto 5.934 – Dispõe sobre mecanismos e critérios para aplicação do art. 40 da Lei 10.741/03 (Estatuto do Idoso, inciso III – os serviços de transporte aquaviário interestadual, abertos ao público, realizados nos rios, lagos, lagoas e baías, que operam linhas regulares, inclusive travessias).
+85/DPC – Aprova as Normas da Autoridade Marítima para Embarcações Empregadas na Navegação Interior – NORMAM 02.
+Decreto 9.861/2019 - Dispõe sobre a Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis e sobre as Comissões Estaduais de Segurança Pública nos Portos, Terminais e Vias Navegáveis.
+Decreto 10.703/2021 - Institui a Comissão Nacional das Autoridades Aeroportuárias, a Comissão Nacional das Autoridades nos Portos e a Comissão Nacional das Autoridades de Transportes Terrestres.
+Decreto 9.048 – Altera o Decreto nº 8.033, de 27 de junho de 2013, que regulamenta o disposto na Lei nº 12.815, de 5 de junho de 2013, e as demais disposições legais que regulam a exploração de portos organizados e de instalações portuárias.
+Decreto 8.033 – Regulamenta o disposto na Lei nº 12.815, de 5 de junho de 2013, e as demais disposições legais que regulam a exploração de portos organizados e de instalações portuárias.
+Lei 12.815 – Dispõe sobre a exploração direta e indireta pela União de portos e instalações portuárias e sobre as atividades desempenhadas pelos operadores portuários; altera as Leis nºs 5.025, de 10 de junho de 1966, 10.233, de 5 de junho de 2001, 10.683, de 28 de maio de 2003, 9.719, de 27 de novembro de 1998, e 8.213, de 24 de julho de 1991; revoga as Leis nos 8.630, de 25 de fevereiro de 1993, e 11.610, de 12 de dezembro de 2007, e dispositivos das Leis nºs 11.314, de 3 de julho de 2006, e 11.518, de 5 de setembro de 2007; e dá outras providências.
+Lei 11.314 – Altera a Lei no 8.112, de 11 de dezembro de 1990, que dispõe sobre o regime jurídico dos servidores públicos civis da União, das autarquias e das fundações públicas federais, a Lei no 10.233, de 5 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes (Lei dos Portos).
+Lei 11.518 – Acresce e altera dispositivos das Leis nos 10.683, de 28 de maio de 2003, 10.233, de 5 de junho de 2001, 10.893, de 13 de julho de 2004, 5.917, de 10 de setembro de 1973, 11.457, de 16 de março de 2007, e 8.630, de 25 de fevereiro de 1993, para criar a Secretaria Especial de Portos, e dá outras providências (Lei dos Portos).
+Lei 10.233 – Dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infraestrutura de Transportes, e dá outras providências.
+Lei 14.301 - Institui o Programa de Estímulo ao Transporte por Cabotagem (BR do Mar) e otimiza o emprego dos recursos oriundos da arrecadação do AFRMM.
+Regimento Interno – Resolução nº 3.585-ANTAQ, de 18 de agosto de 2014. Aprova o novo Regimento Interno da Agência Nacional de Transportes Aquaviários – ANTAQ.
+Norma da Resolução – 124 – ANTAQ – Norma sobre a fiscalização e o processo administrativo relativos à prestação de serviços de transporte aquaviário, de apoio marítimo e de apoio portuário e à exploração da infraestrutura aquaviária e portuária.
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Logística; Plano Setorial Portuário; Plano Setorial Hidroviário; Plano Geral de Parcerias; Planos Mestres Portuários; Planos de Desenvolvimento e Zoneamento; Plano Hidroviário Estratégico; Planejamento Estratégico do Ministério de Portos e Aeroportos. Durante a elaboração dos estudos destinados à realização do processo licitatório para a ocupação e desenvolvimento de área no Porto Organizado, são considerados alguns documentos, dentre os quais estão: Plano Nacional Logístico, Plano de Desenvolvimento de Zoneamento e Planos Mestres do respectivo porto, bem como Planos Setoriais da carga a ser movimentada na área e demais políticas públicas setoriais vigentes.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

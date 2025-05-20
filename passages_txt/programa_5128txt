@@ -1,0 +1,388 @@
+passage: Programa Número 5128
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 296
+Entrega: 588
+Indicador: 9526
+Denominação: IGDM-PBF
+Índice De Referência: 0.7572
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: -
+Descrição: O indicador será o valor médio do Índice de Gestão Descentralizada do PBF
+Período Ou Data A Que Se Refere: Dezembro do ano apurado
+Data De Divulgação/Disponibilização: A apuração se dará até o dia 30 de março,  referente ao mês de dezembro do ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: a) Fator I corresponde à média aritmética simples da Taxa de Acompanhamento da Frequência Escolar e da TAAS - Taxa de Acompanhamento da Agenda de Saúde 
+b) Fator II é o Requisitos Sistema Único de Assistência Social - SUAS, referente ao cumprimento do art. 30 da Lei nº 8.742, de 7 de dezembro de 1993 
+c) Fator III é o Fator de informação da apresentação da comprovação de gastos dos recursos do IGD-M 
+d) Fator IV é o Fator de informação da aprovação total da comprovação de gastos dos recursos do IGD-M pelo CMAS
+Fonte De Dados Das Variáveis De Cálculo: DEOP/SENARC
+Forma De Disponibilização: Dados disponibilizados no site do MDS pela SENARC e SAGICAD.
+Procedimento De Cálculo: O Fator de operação do Índice de Gestão Descentralizada do PBF é composto pelo resultado de taxas de desempenho municipal na gestão do cadastro único e na gestão do acompanhamento de condicionalidades do Programa Bolsa Família.
+Limitações: Não aplicável.
+Notas Explicativas: Não aplicável.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 244
+Entrega: 530
+Indicador: 9424
+Denominação: Quantidade média anual de famílias beneficiadas com transferência de renda
+Índice De Referência: 19200000.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: A cada mês pode-se tirar a média de famílias atendidas nos últimos 12 meses. O monitoramento da média será anual
+Período Ou Data A Que Se Refere: Ano
+Data De Divulgação/Disponibilização: Primeira quinzena de janeiro
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Famílias atendidas na folha de pagamento.
+Fonte De Dados Das Variáveis De Cálculo: Envio de bases de dados.
+Forma De Disponibilização: Famílias atendidas conforme consta no VISDATA ( VIS DATA 3 beta - cidadania.gov.br).
+Procedimento De Cálculo: Somam-se os totais de famílias contempladas nos 12 meses do ano e divide-se por 12, para obter a média.
+Limitações: Mão se aplica
+Notas Explicativas: Mão se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 261
+Entrega: 569
+Indicador: 9498
+Denominação: Taxa de acompanhamento da saúde de crianças de 0 a 7 anos incompletos beneficiárias do PBF
+Sigla: -TACS 0-7
+Índice De Referência: 54.45
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador relaciona a quantidade de crianças de 0 a 7 anos incompletos acompanhadas e a quantidade de crianças nessa faixa etária que são beneficiárias do PBF.
+Período Ou Data A Que Se Refere: Fevereiro/março 2023
+Data De Divulgação/Disponibilização: Última  semana de abril
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) quantidade de crianças de 0 a 7 anos incompletos e 2) quantidade de crianças nessa faixa etária que são beneficiárias do PBF.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão das Condicionalidades - SICON.
+Forma De Disponibilização: Sistemas informacionais da SAGICAD/MDS: VISDATA, Bolsa Família no seu munícipio e SICON.
+Procedimento De Cálculo: Após a obtenção dos dados, realiza-se a razão entre as variáveis de cálculo e se multiplica por 100.
+Limitações: Devem ser usadas 2 casas decimais após a vírgula.
+Notas Explicativas: O indicador será utilizado para identificar municípios com menores taxas de acompanhamento na educação, permitindo aferir a necessidade da realização de ações intersetoriais com as gestões municipais do PBF, assistência social e da saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 261
+Entrega: 575
+Indicador: 9512
+Denominação: Taxa de acompanhamento das mulheres, especialmente gestantes e puérperas beneficiárias do PBF na saúde
+Sigla: TAMS
+Índice De Referência: 86.84
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador relaciona a quantidade de mulheres acompanhadas e a quantidade de mulheres que são beneficiárias do PBF que fazem parte do público a ser acompanhado nas condicionalidades da saúde.
+Período Ou Data A Que Se Refere: Fevereiro/março 2023
+Data De Divulgação/Disponibilização: Última  semana de abril
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) Quantidade de mulheres acompanhadas e;
+2) Quantidade de mulheres que são beneficiárias do PBF que fazem parte do público a ser acompanhado nas condicionalidades da saúde.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão das Condicionalidades - SICON.
+Forma De Disponibilização: Sistemas informacionais da SAGICAD/MDS: VISDATA, Bolsa Família no seu munícipio e SICON.
+Procedimento De Cálculo: Após a obtenção dos dados, realiza-se a razão entre as variáveis de cálculo e se multiplica por 100.
+Limitações: Devem ser usadas 2 casas decimais após a vírgula.
+Notas Explicativas: O indicador será utilizado para identificar munícipios com menores taxas de acompanhamento na educação, permitindo aferir a necessidade da realização de ações intersetoriais com as gestões municipais do PBF, assistência social e da saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 257
+Entrega: 534
+Indicador: 9443
+Denominação: Taxa de acompanhamento educacional de crianças de 4 e 5 anos beneficiárias do PBF
+Sigla: TACE 4-5
+Índice De Referência: 51.3
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador relaciona a quantidade de crianças de 4 a 5 anos acompanhadas e a quantidade de crianças nessa faixa etária que são beneficiárias do PBF.
+Período Ou Data A Que Se Refere: Fevereiro/março 2023
+Data De Divulgação/Disponibilização: Última semana de abril
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) quantidade de crianças de 4 a 5 anos acompanhadas e;
+2) quantidade de crianças nessa faixa etária que são beneficiárias do PBF.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão das Condicionalidades - SICON.
+Forma De Disponibilização: Sistemas informacionais da SAGICAD/MDS: VISDATA, Bolsa Família no seu munícipio e SICON.
+Procedimento De Cálculo: Após a obtenção dos dados, realiza-se a razão entre as variáveis de cálculo e se multiplica por 100.
+Limitações: Devem ser usadas 2 casas decimais após a vírgula.
+Notas Explicativas: O indicador será utilizado para identificar munícipios com menores taxas de acompanhamento na educação, permitindo aferir a necessidade da realização de ações intersetoriais com as gestões municipais do PBF, assistência social e da educação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 257
+Entrega: 540
+Indicador: 9451
+Denominação: Taxa de acompanhamento educacional de crianças e adolescentes de 6 a 17 anos beneficiárias do PBF
+Sigla: TACE 6-17
+Índice De Referência: 73.37
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador relaciona a quantidade de crianças e adolescentes de 6 a 17 anos acompanhadas e a quantidade de crianças nessa faixa etária que são beneficiárias do PBF.
+Período Ou Data A Que Se Refere: Fevereiro/março 2023
+Data De Divulgação/Disponibilização: Última semana de abril
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) quantidade de crianças e adolescentes de 6 a 17 anos acompanhadas e;
+2) quantidade de crianças e e adolescentes nessa faixa etária beneficiárias do PBF.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão das Condicionalidades - SICON.
+Forma De Disponibilização: Sistemas informacionais da SAGICAD/MDS: VISDATA, Bolsa Família no seu munícipio e SICON.
+Procedimento De Cálculo: Após a obtenção dos dados, realiza-se a razão entre as variáveis de cálculo e se multiplica por 100.
+Limitações: Devem ser usadas 2 casas decimais após a vírgula.
+Notas Explicativas: O indicador será utilizado para identificar munícipios com menores taxas de acompanhamento na educação, permitindo aferir a necessidade da realização de ações intersetoriais com as gestões municipais do PBF, assistência social e da educação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5128
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 244
+Indicador: 9409
+Denominação: Percentual de atendimento das famílias com perfil do PBF (razão entre o número de famílias beneficiárias do PBF e a estimativa de famílias com perfil de permanência do PBF, calculada com base na PNADC
+Índice De Referência: 102.2
+Em Apuração: Não
+Data De Apuração: 2023-03-01 00:00:00
+Unidade De Medida: percentagem %
+Descrição: Percentual de famílias beneficiadas pelo PBF em relação ao número de famílias estimadas com renda dentro dos critérios de permanência no PBF até meio s.m. per capita e margem de erro de 5% (com rendimento domiciliar per capita habitual líquido das transferências do PBF, totalizando 21.034.098 família), calculado com base na PNADC ANUAL 2022 acumulado de quintas visitas (dado atualizado em 11 de agosto de 2023), com redução de 300 mil famílias, conforme o suposto de que o resultado da primeira incorporação dos dados do CNIS, verificado em julho de 2023, se efetivará também em 2024 (303 mil famílias acima dos critérios de permanência do Programa), resultando numa estimativa de 20.734.098 famílias.
+Período Ou Data A Que Se Refere: Março de 2023, mês de lançamento do Bolsa Família
+Data De Divulgação/Disponibilização: Atualização do indicador conforme a divulgação dos dados da PNADC pelo IBGE
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numerador é a quantidade de famílias beneficiárias do PBF; e o denominador é a quantidade estimada de famílias com perfil de permanência no PBF, segundo PNAD Contínua e aplicação de resultados da incorporação do CNIS ao Cadastro Único.
+Fonte De Dados Das Variáveis De Cálculo: Folha de Pagamento do PBF e PNAD Continua
+Forma De Disponibilização: Quantidade de famílias beneficiárias disponível no Visdata/MDS; e dados da PNADC disponibilizadas pelo IBGE e trabalhados pelo IPEA
+Procedimento De Cálculo: Obter a informação do número de famílias atendidas pelo PBF; calcular a média anual de famílias atendidas; estimar o número de famílias com perfil de permanência no PBF, até meio s.m. per capita (com rendimento domiciliar per capita habitual líquido das transferências do PBF), calculado com base na PNADC ANUAL e margem de erro de 5% (acumulado quinta visita, PNADC atualizada em 11 de agosto de 2023). Aplicar redução considerando número de desligamentos verificados pelo resultado da incorporação do CNIS feita ao Cadastro Único em 2023.
+Limitações: Indisponibilidade dos dados do Censo de 2022 no momento de elaboração do indicador, impossibilitando a atualização das estimativas de pobreza municipais baseadas no censo anterior, bem como a ausência de estimativas e projeções corrigidas da população brasileira, que deverão ser disponibilizadas em 2024. Indisponibilidade de metodologia que permita harmonizar o conceito de domicílio particular permanente na PNADC ao de família utilizado pelo Bolsa Família. Indisponibilidade de metodologia que permita avaliar, na PNADC, as famílias que podem permanecer no PBF por 24 meses. Estas limitações exigem a redefinição do denominador e o recálculo do indicador tão logo as informações necessárias estejam disponíveis.
+Notas Explicativas: O indicador de referência foi calculado com base na folha de pagamentos do PBF de março de 2023 e nos dados da PNAD Contínua 2022, com metodologia desenvolvida pelo MDS e IPEA. A estimativa é temporária, em consequência das limitações acima expostas, e deverá ser revista com os dados da próxima Pnad Contínua e do Censo Demográfico 2022 ainda no ano de 2024. Também por esse caráter temporário, considera-se inadequada a fixação de metas regionalizadas, as quais poderão ser definidas quando da revisão do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 296
+Indicador: 9520
+Denominação: Percentual de municípios que recebem recursos do IGDM-PBF
+Sigla: IGD-PBF
+Índice De Referência: 93.41
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador será utilizado como parâmetro para identificar os potenciais municípios e razões para o não recebimento de recursos financeiros do Ministério oriundos do IGDM-PBF, assim como estabelecer mecanismo de apoio técnicos a estes entes federados com vistas a sanear seus eventuais problemas relacionados aos indicadores mínimos de que trata a normatização do Programa Bolsa Família.
+Período Ou Data A Que Se Refere: O indicador será calculado anualmente, usando como referência o mês de dezembro, a partir de dados extraídos do cálculo do IGDM-PBF.
+Data De Divulgação/Disponibilização: O indicador será divulgado até a primeira semana de abril, usando como referência o mês de dezembro do ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: São considerados inaptos para o recebimento de recursos oriundos do IGDM-PBF os municípios que não alcançarem os critérios estabelecidos na portaria 769 de 29 abril de 2022. Será considerado, para efeito de cálculo, somente a referência da competência de dezembro de cada ano
+Fonte De Dados Das Variáveis De Cálculo: Cálculo do Índice de Gestão Descentralizada Municipal do Programa Bolsa Família, referente a competência de dezembro de cada ano, apurados pelo DEOP/SENARC.
+Forma De Disponibilização: Dados disponibilizados no site do MDS pela SENARC e SAGICAD.
+Procedimento De Cálculo: Os municípios aptos a receberem os recursos do IGDM-PBF serão definidos de acordo com os critérios estabelecidos na portaria 769 de 29 abril de 2022, em planilha calculada pelo DEOP/SENARC. 
+
+Deste total, será apurada a quantidade de municípios que estão aptos a receber valores de repasses referente ao mês de dezembro do ano corrente e calculado o seu percentual em relação ao total de 5.570 municípios.
+Limitações: Não aplicável.
+Notas Explicativas: Não aplicável.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 261
+Indicador: 9459
+Denominação: Taxa de acompanhamento de saúde de crianças de 0 a 7 anos incompletos e mulheres beneficiárias do PBF
+Sigla: TACS 0-7
+Índice De Referência: 78.79
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador relaciona a quantidade de crianças e mulheres acompanhadas e a quantidade de crianças e mulheres a serem acompanhadas.
+Período Ou Data A Que Se Refere: 2º semestre - junho a dezembro
+Data De Divulgação/Disponibilização: Última semana de abril
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) Quantidade de crianças de até 7 anos incompletos e mulheres acompanhadas e;
+2) quantidade de crianças de até 7 anos incompletos e mulheres beneficiárias do PBF.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Condicionalidades – SICON
+Forma De Disponibilização: Sistemas informacionais da SAGICAD/MDS: VISDATA, Bolsa Família no seu munícipio e SICON.
+Procedimento De Cálculo: Após a obtenção dos dados, realiza-se a razão entre as variáveis de cálculo e se multiplica por 100.
+Limitações: Devem ser usadas 2 casas decimais após a vírgula.
+Notas Explicativas: O indicador será utilizado para identificar munícipios com menores taxas de acompanhamento na saúde, permitindo aferir a necessidade da realização de ações intersetoriais com as gestões municipais do PBF, assistência social e da saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 257
+Indicador: 9432
+Denominação: Taxa de acompanhamento educacional de crianças e adolescentes de 4 a 17 anos beneficiárias do PBF
+Sigla: TACE 4-17
+Índice De Referência: 70.01
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador em questão afere a quantidade de crianças e adolescentes com frequência monitorada em relação ao total de crianças e adolescentes beneficiárias na faixa etária considerada – 4 a 17 anos.
+Período Ou Data A Que Se Refere: Fevereiro/março 2023.
+Data De Divulgação/Disponibilização: Última semana de abril
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Quantidade de crianças e adolescentes de 4 a 17 anos acompanhadas (com frequência escolar registrada) e quantidade de crianças e adolescentes de 4 a 17 anos beneficiárias.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão de Condicionalidades – SICON.
+Forma De Disponibilização: Sistemas informacionais da SAGICAD/MDS: VISDATA, Bolsa Família no seu munícipio e SICON.
+Procedimento De Cálculo: Após a obtenção dos dados, realiza-se a razão entre as variáveis de cálculo e se multiplica por 100.
+Limitações: Devem ser usadas 2 casas decimais após a vírgula.
+Notas Explicativas: O indicador será utilizado para identificar munícipios com menores taxas de acompanhamento na educação, permitindo aferir a necessidade da realização de ações intersetoriais com as gestões municipais do PBF, assistência social e da educação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5128
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 244
+Enunciado: Contribuir com a redução da pobreza de famílias em situação de vulnerabilidade por meio de transferência direta de renda.
+Descrição: A transferência de renda para as pessoas com renda abaixo da linha contribui diretamente na capacidade de consumo das famílias e reduz de maneira direta e indireta a pobreza monetária. Diretamente com as famílias que passam a receber mais. Indiretamente ao gerar demanda por bens e serviços locais.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 257
+Enunciado: Contribuir para ampliar o acesso à educação e permanência na escola de crianças e adolescentes de 4 a 17 anos beneficiárias do Programa Bolsa Família- PBF
+Descrição: Por meio do aumento da taxa de acompanhamento das crianças e adolescentes beneficiários, pretende-se ampliar e incentivar o acesso e a permanência na escola das crianças e adolescentes, rompendo assim o ciclo intergeracional da pobreza e, provendo, desse modo, melhoras condições de inserção social.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 261
+Enunciado: Contribuir para ampliar o acesso à saúde de crianças de 0 a 7 anos incompletos e de mulheres beneficiárias do Programa Bolsa Família- PBF
+Descrição: Por meio do aumento da taxa de acompanhamento das crianças de 0 a 7 anos incompletos e mulheres beneficiários do PBF, pretende-se ampliar o seu acesso aos serviços de saúde, em particular, a vacinação e acompanhamento nutricional das crianças e a realização dos exames de pré-natal para as mulheres identificadas como gestantes.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Objetivo Específico: 296
+Enunciado: Ampliar o número de municípios brasileiros recebendo os recursos do Índice de Gestão Descentralizada do PBF (IGDM-PBF)
+Descrição: O Índice de Gestão Descentralizada Municipal (IGDM) busca estimular o aperfeiçoamento da gestão e operacionalização local do PBF e do Cadastro Único para Programas Sociais do Governo Federal, por meio de transferência de recursos aos municípios. Do total de 5.570 municípios brasileiros, cerca de 367 (6,59%) não receberam recursos em dezembro de 2022, motivados pelos critérios adotados na portaria 769 de 29 abril de 2022. O propósito deste objetivo é aumentar a quantidade de municípios que recebem recursos, possibilitando o aperfeiçoamento da Gestão do PBF e do Cadastro Único, com a execução de ações que tenham qualidade e eficiência para as famílias beneficiárias.
+Órgão: 55000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5128
+
+Exercício: 2025
+Programa: 5128
+Objetivo: 1321
+Enunciado: Reduzir a pobreza por meio da transferência de renda e do fortalecimento de acessos a serviços de educação, saúde, assistência social.
+Descrição: O programa Bolsa Família possui como objetivos principais: combater a fome, por meio da transferência direta de renda às famílias beneficiárias; contribuir para a interrupção do ciclo de reprodução da pobreza entre as gerações; e promover o desenvolvimento e a proteção social das famílias, especialmente das crianças, dos adolescentes e dos jovens em situação de pobreza. Esses objetivos serão obtidos por meio de: articulação entre o Programa e as ações de saúde, de educação, de assistência social e de outras áreas que atendam o público beneficiário, executadas pelos governos federal, estaduais, municipais e distrital; vinculação ao Sistema Único de Assistência Social (Suas), de que trata a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), permitida a utilização de sua rede de serviços socioassistenciais; coordenação e compartilhamento da gestão e da execução com os entes federativos que venham a aderir ao Programa; participação social; utilização do Cadastro Único para Programas Sociais do Governo Federal (CadÚnico), instituído pelo art. 6º-F da Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), e sua promoção como plataforma de integração do Programa a ações executadas pelos governos federal, estaduais, municipais e distrital; respeito à privacidade das famílias beneficiárias, na forma estabelecida nas Leis nºs 12.527, de 18 de novembro de 2011, e 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5128
+
+Exercício: 2025
+Programa: 5128
+Título: Bolsa Família: Proteção Social por meio da Transferência de Renda e da Articulação de Políticas Públicas
+Tipo: Finalístico
+Órgão: 55000.0
+Público-Alvo: Famílias em situação de pobreza de todo o território brasileiro.
+Descrição Do Problema: Famílias em situação de pobreza sem acesso aos direitos sociais básicos.
+Causa Do Problema: Baixa renda familiar decorrente da desigualdade social, da baixa escolaridade, da saúde precária, do desemprego ou do subemprego, e com dificuldade de acesso a políticas públicas.
+Evidências Do Problema: A taxa de pobreza, que até 2014 vinha registrando queda, apresentou aumento nos três anos subsequentes. Em 2021, cerca de 29,4% da população brasileira estava em condição de pobreza. A insegurança alimentar severa também aumentou nos últimos anos, de 1,9% da população total em 2014-2016 para 7,3% em 2019-2021, sendo o país que teve maior crescimento entre os da América do Sul. 
+O parágrafo único do art. 6º da Constituição Federal determina que “Todo brasileiro em situação de vulnerabilidade social terá direito a uma renda básica familiar, garantida pelo poder público em programa permanente de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária”. 
+A Lei nº 10.835, de 8 de janeiro de 2004, prevê que a renda básica de cidadania “deverá ser alcançada em etapas, a critério do Poder Executivo, priorizando-se as camadas mais necessitadas da população” (§ 1º do art. 1º). 
+Os dois dispositivos acima citados, um de natureza constitucional, e outro de caráter legal, deixam claro que a transferência de renda a ser realizada pelo Poder Público aos cidadãos mais pobres é um imperativo da ordem jurídica brasileira. 
+Assim, reduzir a pobreza e eliminar a fome são prioridades do governo. A partir destas premissas o Programa Bolsa Família (PBF) foi reformulado, por intermédio da Lei n.º 14.601, de 2023, e já no primeiro mês de sua implementação, o programa atendia 21,2 milhões de famílias, com um benefício médio da ordem de R$ 670,33. Assim, o programa se caracteriza pela transferência direta de renda, vinculando o recebimento dos benefícios ao cumprimento de condicionalidades, visando ampliar o acesso a mais direitos sociais, em particular, o direito à Educação, Saúde e Assistência Social. 
+O PBF busca dar especial atenção às crianças de até 6 anos de idade, em consonância com diversos estudos que argumentam ser fundamental o amplo desenvolvimento cognitivo e emocional na primeira infância para a plena formação do cidadão, com nítidos reflexos na juventude e na vida adulta. 
+A partir desta perspectiva, o PBF possui em sua composição o Benefício Primeira Infância, que objetiva atender criança de 0 a 7 anos incompletos, além do Benefício Variável Familiar, destinados às mulheres, mulheres gestante, crianças e adolescentes de 7 a 18 anos incompletos, que assume relevante papel no combate à pobreza, que atinge sobretudo mulheres, população infantil e infanto-juvenil. Tudo isso, de forma articulada e em sintonia com as condicionalidades de educação e saúde e do acompanhamento familiar pela rede do Sistema Único de Assistência Social.
+Justificativa Para A Intervenção: Atenuar a severa falta de recursos de grande parcela da população brasileira, notadamente de crianças e jovens, necessários para prover uma subsistência minimamente digna. Ao mesmo tempo em que o programa mitiga a falta de recursos mínimos para que uma família possa dispor de recursos necessários para prover sua subsistência, cria as condições para que as gerações futuras tenham melhores condições de saúde e de educação e, assim, maiores chances de superar a situação de pobreza de suas famílias originárias.
+Evolução Histórica: Em março de 2023, no momento de sua implementação, o Programa de Bolsa Família atendeu 21,2 milhões de famílias. Isso resulta na cobertura pelo Programa de 54,3 milhões de pessoas, tendo garantida a transferência direta de renda e sendo estimuladas, por meio das condicionalidades, a acessarem a rede de serviços públicos, como saúde e educação..
+Comparações Internacionais: O primeiro Programa Bolsa Família, vigorou no período entre outubro de 2003 e 2020 foi uma das políticas sociais mais avaliadas nacional e internacionalmente, trazendo aos gestores importantes reflexões para aperfeiçoamentos no desenho e na gestão do Programa, de forma a garantir o alcance eficiente da transferência de recursos aos cidadãos mais vulneráveis no território nacional. A FAO se refere ao Programa Bolsa Família como “um programa de transferência de renda condicionada que exige que os pais assegurem seus filhos frequentem a escola e façam exames regulares de saúde o torna uma referência em países em desenvolvimento em todo o mundo”. (FAO, Commodities and Development Report 2017 Commodity Markets, Economic Growth and Development, 2017 p. 73). A recriação do programa Bolsa Família, a partir de publicação da Medida Provisória n.º 1.064, de 2023, busca superar o modelo anterior de transferência direta. O novo modelo, busca dentre outros aspectos, restabelecer a equidade nos valores recebidos pelas famílias; eliminar o incentivo à proliferação de registros familiares unipessoais; melhorar o custo-efetividade do gasto com a política pública; restabelecer instrumentos de controle sobre a gestão e a operação da ação; e aperfeiçoar mecanismos de controle da elegibilidade aos benefícios. Assim, a partir da vigência do PPA 2024-2027 poderão ocorrer outros estudos de impacto visando trazer comparativos entres outros programas assistenciais executados no mundo.
+Relação Com Os Ods: O programa é alinhado aos ODS 1 - Erradicação da pobreza, ODS 10 - Redução das desigualdades e à Estratégia Nacional de Desenvolvimento Econômico e Social (Endes).
+Agentes Envolvidos: A gestão do Programa se dá de forma descentralizada e compartilhada entre a União, os estados, o Distrito Federal e os municípios.
+Articulação Federativa: Os entes federados trabalham em conjunto para aperfeiçoar, ampliar a execução do Programa. O controle e a participação social do Programa Bolsa Família são realizados, em âmbito local, pelo Conselho Municipal de Assistência Social. O funcionamento do Programa depende também da atuação de gestores e técnicos de diferentes políticas, em especial as áreas de Assistência Social, Saúde e Educação.
+Enfoque Transversal: Atuação conjunta das áreas de Assistência Social, da saúde e da educação nas 3 esferas da Federação.
+Marco Legal: Lei n.º 14.601, de 2023.
+Planos Nacionais, Setoriais E Regionais: O programa é central para a realização das diretrizes e eixos sociais da Estratégia Nacional de Desenvolvimento Econômico e Social (ENDES).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

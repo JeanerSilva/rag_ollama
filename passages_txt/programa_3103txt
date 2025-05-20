@@ -1,0 +1,998 @@
+passage: Programa Número 3103
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Entrega: 36
+Indicador: 9287
+Denominação: Capacidade de refino de petróleo
+Índice De Referência: 2.4
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: milhão de barris de petróleo por dia
+Descrição: Apesar do Brasil ter consolidado sua posição entre os 10 maiores produtores de petróleo bruto, o País ainda importa parcela relevante dos principais derivados de petróleo consumidos. No ano de 2022, 26% do óleo diesel, 28% do gás liquefeito de petróleo e 12% da gasolina foram importados. O mercado de querosene de aviação também é deficitário, em que pese o segmento da aviação civil ter sido o último a se recuperar dos impactos da pandemia da Covid-19. 
+Um dos caminhos na direção dessa autossuficiência é aumentar a produção doméstica, seja com maior fator de utilização, seja ampliando e modernizando o parque de refino existente.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Capacidade autorizada de refino de petróleo.
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis.
+Forma De Disponibilização: Painel Dinâmico ANP: Autorizações de refinarias . Disponível em: https://app.powerbi.com/view?r=eyJrIjoiMjUyZDAwNDctMjU2Ni00OTI5LWFkM2QtN2IyYWI4ZWFhYjUxIiwidCI6IjQ0OTlmNGZmLTI0YTYtNGI0Mi1iN2VmLTEyNGFmY2FkYzkxMyJ9
+Procedimento De Cálculo: Indicador acompanhamento regularmente pela ANP. 1) Acessar o painel dinâmico da ANP; e 2) Verificar o total da capacidade  autorizada (bpd)
+Origem: PPA
+Momento: 8200
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Entrega: 3400
+Indicador: 12740
+Denominação: % de ampliação de logística dutoviária
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Descrição: O indicador monitora a execução de projetos relacionados à adequadação ou ampliação da logística dutoviária
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3431
+Indicador: 12787
+Denominação: % de execução do projeto de desenvolvimento da produção de petróleo e gás natura
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador é relevante para acompanhar o aumento da produção de petróleo e gás natural no país.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3405
+Indicador: 12747
+Denominação: % de execução do projeto de desenvolvimento da produção de petróleo e gás natural
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador é relevante para acompanhar o aumento da produção de petróleo e gás natural no país.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3437
+Indicador: 12793
+Denominação: Execução de projeto de construção de estação de compressão de gás natural
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador está relacionado a nova estação de compressão de gás natural em Itajuípe​
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3434
+Indicador: 12789
+Denominação: Execução de projeto de construção de estação redutora de pressão de gás natural
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: o indicador está com a Construção de uma Estação Redutora de Pressão de gás natural em São José dos Campos​
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PLOA
+Momento: 3000
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3404
+Indicador: 12745
+Denominação: Execução de projetos de construção de gasodutos que fazem parte do Programa de Aceleração de Crescimento
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Indicador se refere à execução dos projetos de construção de gasodutos do Corredor Pré-Sal Sul e Bragança Paulista.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Entrega: 3395
+Indicador: 12738
+Denominação: Execução de projetos de produção de derivados não renováveis
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados à produção de combustíveis derivados de petróleo
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3436
+Indicador: 12791
+Denominação: Execução física do projeto de desenvolvimento da produção de petróleo e gás natural
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador é relevante para acompanhar o aumento da produção de petróleo e gás natural no país.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PLOA
+Momento: 3000
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3255
+Indicador: 12621
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3254
+Indicador: 12620
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3257
+Indicador: 12623
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3203
+Indicador: 12617
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: km
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3204
+Indicador: 12618
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3253
+Indicador: 12619
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3259
+Indicador: 12625
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3258
+Indicador: 12624
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3256
+Indicador: 12622
+Denominação: Expandir atividades de exploração de gás natural
+Em Apuração: Sim
+Unidade De Medida: MMm³/d
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3207
+Indicador: 12611
+Denominação: Expandir atividades de exploração e produção de petróleo e gás natural
+Em Apuração: Sim
+Unidade De Medida: mil bbl/d para óleo e milhões m3/d para gás natural
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3206
+Indicador: 12612
+Denominação: Expandir atividades de exploração e produção de petróleo e gás natural
+Em Apuração: Sim
+Unidade De Medida: mil bbl/d para óleo e milhões m3/d para gás natural
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3209
+Indicador: 12609
+Denominação: Expandir atividades de exploração e produção de petróleo e gás natural
+Em Apuração: Sim
+Unidade De Medida: milhões m³/d de Escoamento e processamento de gás natural
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Entrega: 3202
+Indicador: 12614
+Denominação: Expandir atividades de exploração e produção de petróleo e gás natural
+Em Apuração: Sim
+Unidade De Medida: mbpd
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3205
+Indicador: 12613
+Denominação: Expandir atividades de exploração e produção de petróleo e gás natural
+Em Apuração: Sim
+Unidade De Medida: mil bbl/d para óleo e milhões m3/d para gás natural
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3208
+Indicador: 12610
+Denominação: Expandir atividades de exploração e produção de petróleo e gás natural
+Em Apuração: Sim
+Unidade De Medida: poços
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3272
+Indicador: 12608
+Denominação: Investir no segmento de Descomissionamento Verde de plataformas em estaleiros brasileiros
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3279
+Indicador: 12606
+Denominação: Investir no segmento de fertilizantes e gasquímica
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3278
+Indicador: 12605
+Denominação: Investir no segmento de petroquímicos
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Entrega: 3271
+Indicador: 12615
+Denominação: Investir para converter uma refinaria tradicional em biorefinaria totalmente renovável
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Entrega: 3252
+Indicador: 12616
+Denominação: Investir para implantar biorrefino em refinaria de Mataripe
+Em Apuração: Sim
+Unidade De Medida: Biocombustíveis em m3/ano, Óleo e coprodutos: ton/ano
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3273
+Indicador: 12607
+Denominação: Investir para renovar e aumentar frota própria (Transpetro) em estaleiros nacionais
+Em Apuração: Sim
+Unidade De Medida: Estudo e pesquisa realizada
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3387
+Indicador: 12724
+Denominação: Número de poços exploratórios perfurados na Margem Equatorial
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados  ao número de poços perfurados na Margem Equatorial
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3398
+Indicador: 12737
+Denominação: Percentual de execução de projetos de campos maduros e de economicidade marginal
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador monitora a execução de projetos relacionados à produção de campos maduros e de econominada de marginal
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 35
+Indicador: 9449
+Denominação: Percentual de variação da Produção de Petróleo e Gás Natural nos campos maduros e de economicidade marginal
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Campos maduros e de economicidade marginal são naturalmente sujeitos a uma tendência de declínio da produção ao longo do tempo. Este indicador visa monitorar a produção desses campos, cuja manutenção ou mitigação do declínio é estratégica para o país. O acompanhamento contínuo permite orientar políticas públicas voltadas à maximização da recuperação dos recursos disponíveis, conforme diretriz estabelecida pela Resolução CNPE nº 17/2017. A manutenção da produção desses campos contribui para a geração de emprego e renda, especialmente em regiões de menor Índice de Desenvolvimento Humano (IDH), e fortalece a segurança energética nacional. O valor de referência é de 1,29 milhão de barris de óleo equivalente por dia (boe/d), conforme o Plano Anual de Produção (PAP) da ANP para 2023.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: 2 meses após a efetiva produção.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MPrx - Média da produção de petróleo e gás natural realizada no ano X, em barris de óleo equivalente/d
+MPpb - Média da produção de petróleo e gás natural prevista no PAP ANP para o ano 2023, em barris de óleo equivalente/d
+Y - Percentual da produção realizada, em relação ao valor de referência, que são aqueles para o ano de 2023, contidos no PAP/ANP.
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP
+Forma De Disponibilização: Boletim de Exploração e Produção de Petróleo e Gás Natural – DEPG/SNPGB/MME, disponíveis em https://www.gov.br/mme/pt-br/assuntos/secretarias/petroleo-gas-natural-e-biocombustiveis/publicacoes-1/boletim-de-exploracao-e-producao-de-petroleo-e-gas-natural
+Procedimento De Cálculo: Os dados consolidados estarão no Boletim de Exploração e Produção de Petróleo e Gás. Os dados realizados, por campo, podem ser acessados através do Painel Dinâmico de Produção de Petróleo e Gás Natural, da ANP, disponível https://app.powerbi.com/view?r=eyJrIjoiNzVmNzI1MzQtNTY1NC00ZGVhLTk5N2ItNzBkMDNhY2IxZTIxIiwidCI6IjQ0OTlmNGZmLTI0YTYtNGI0Mi1iN2VmLTEyNGFmY2FkYzkxMyJ9
+Para obter o dado da produção do campos maduros e marginais, deve-se solicitar à Superintendência de Desenvolvimento da Produção (SDP), da ANP, a lista dos campos classificados nestas categorias e suas respectivas produções
+Limitações: Os dados de produção apresentam delay de 2 meses, ou seja, existe um atraso de dois meses na disponibilização dos dados relacionados à produção. Isso indica que as informações sobre a produção atual só estarão disponíveis após dois meses, devido ao tempo necessário para coleta, processamento e divulgação dos dados.
+Notas Explicativas: Paradas programadas para manutenção das unidades de produção podem impactar pontualmente na curva de produção realizadas dos campos.
+A classificação dos campos maduros e de economicidade marginal pode ser eventualmente revista pela ANP.
+Origem: PPA
+Momento: 8200
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 33
+Indicador: 9445
+Denominação: Relatório do Zoneamento Nacional dos Recursos de Óleo e Gás
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O Mapa de IPA (a Importância Petrolífera de Área) Total expressa a diversidade das importâncias avaliadas no estudo do Zoneamento Nacional de Recursos de Óleo e Gás, condicionado pelas incertezas e preferências envolvidas na elaboração e na combinação dos mapas componentes, além da inerente heterogeneidade na distribuição natural de recursos petrolíferos na superfície da Terra.
+A partir da base de informações resultante do processo da perspectiva geológica, e da conjugação de mapas de argumentos estabelecidos, elabora-se a perspectiva econômica para representar a Importância Petrolífera de Área (IPA), considerando: 1) Intensidade Explotatória; 2) Atividade Exploratória; 3) Prospectividade; 4) Evidência Direta de Hidrocarbonetos; 5) Necessidade de Conhecimento e 6) Infraestrutura de Abastecimento. Além de elementos geológicos é considerada a proximidade de áreas sob contrato com empresas para atividades de Exploração e Produção (E&P) e de instalações de infraestrutura de abastecimento de petróleo e gás natural.
+Como resultado obtém-se a importância petrolífera da área sob todos os aspectos, traduzidos pela soma dos argumentos dada pelo geoprocessamento. Pela perspectiva geológica obtém-se as áreas de maior favorabilidade para as atividades de E&P.
+Período Ou Data A Que Se Refere: Dois anos anteriores ao ano corrente
+Data De Divulgação/Disponibilização: 6 meses após a data a que se refere a coleta de dados para elaboração dos mapas de IPA.
+Periodicidade: Bianual
+Polaridade: Não se aplica
+Variáveis De Cálculo: X: : relatório de zoneamento nacional de recursos de óleo e gás . Cada um dos seis mapas de IPA e os subargumentos (no caso de 3 argumentos gue consideram mais de um mapa no seu processamento).
+Fonte De Dados Das Variáveis De Cálculo: Empresa de Pesquisa Energética – EPE e
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP
+Forma De Disponibilização: Relatório Final - https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/zoneamento-nacional-de-recursos-de-oleo-e-gas
+Procedimento De Cálculo: A metodologia de todo o estudo Zoneamento Nacional de Recursos de Óleo e Gás está descrita no Relatório do estudo Zoneamento Nacional de Recursos de Óleo e Gás – 2017-2019, disponível em https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-787/ZNMT2021_2023_Relatorio_Final_compacta.pdf
+Limitações: O estudo Zoneamento Nacional de Recursos de Óleo e Gás tem atualização bianual, conforme definido pela Portaria MME nº 350/ 2013, sendo o Mapa da IPA considerado como um retrato da importância do setor relativo ao ano de sua publicação.
+Origem: PPA
+Momento: 8200
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 3429
+Indicador: 12784
+Denominação: Terminal de regaseificação construído
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador acompanhada a execução do projeto durante o período do PPA.
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Entrega: 37
+Indicador: 9406
+Denominação: Volume de gás natural nacional disponível ao consumidor final (oferta nacional de gás natural)
+Índice De Referência: 34.5
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A oferta nacional de gás natural é o volume de gás natural produzido no país que é disponibilizado ao mercado.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: três meses após o fim do exercício de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: [oferta nacional] = [produção nacional] – [consumo nas atividades de exploração e produção] – [queima e perda] – [reinjeção] – [absorção em unidades de processamento]
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP
+Forma De Disponibilização: Boletim Mensal de Acompanhamento da Indústria de Gás Natural, elaborado pelo DGN/SNPGB/MME.
+Procedimento De Cálculo: Aplicação direta dos dados nas variáveis da equação.
+Limitações: Não há expectativa de aumento desse indicador no curto prazo, uma vez que a produção e a oferta de gás natural nesse período decorrem de decisões de investimentos já realizados pelos operadores dos campos atuais. Como não há expectativa de redução do nível de reinjeção no curto prazo, o indicador pode até piorar.
+Não obstante, busca-se implementar uma política pública que reverta essa tendência. Para tanto, novas infraestruturas devem ser implementadas, sendo que as decisões de investimentos devem ocorrer a partir da entrega da política pública. A implementação das infraestruturas geralmente ocorre em 3 a 5 anos. Somente após a implantação das infraestruturas necessárias, serão percebidas as mudanças decorrentes da política pública, inclusive por meio deste indicador.
+Notas Explicativas: A tendência verificada de redução do percentual de oferta nacional de gás natural em relação à produção nacional deve continuar no curto prazo, pois decorre de decisões de investimentos já realizados pelos produtores. Não obstante, espera-se que essa tendência seja revertida quando o conjunto das medidas da política pública começar a produzir efeito. Isso decorre do prazo necessário para a implantação das infraestruturas necessárias para aumentar a oferta de gás natural ao mercado nacional
+Origem: PPA
+Momento: 8200
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Entrega: 3403
+Indicador: 12744
+Denominação: Xxx
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: xxx
+Período Ou Data A Que Se Refere: bimestre anterior ao mês em curso
+Data De Divulgação/Disponibilização: até o final do mês em curso
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Epx: execução acumulada do projeto até o ano x
+Fonte De Dados Das Variáveis De Cálculo: Painel do Monitoramento PAC- MME
+Forma De Disponibilização: Painel do Monitoramento PAC- MME
+Procedimento De Cálculo: Ao acessar o painel de monitoramento do PAC MME: 1) Filtrar o empreendimento ; 2) Verificar a execução acumulada do projeto até o ano x
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Sim
+
+passage: Programa Número 3103
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Indicador: 9335
+Denominação: Dependência Externa de Derivados de Petróleo
+Índice De Referência: 21.5
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Apesar do Brasil ter consolidado sua posição entre os 10 maiores produtores de petróleo bruto, o País ainda importa parcela relevante dos principais derivados de petróleo consumidos. No ano de 2022, 26% do óleo diesel, 28% do gás liquefeito de petróleo e 12% da gasolina foram importados. O mercado de querosene de aviação também é deficitário, em que pese o segmento da aviação civil ter sido o último a se recuperar dos impactos da pandemia da Covid-19. 
+O conflito entre Rússia e Ucrânia e as sanções econômicas decorrentes trouxeram luz à importância da segurança energética, com a temática ganhando força nos debates sobre formulação de políticas públicas desde então. A garantia do fornecimento de derivados de petróleo em todo o território nacional é tema prioritário para o Estado brasileiro.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Importação: Volumes de importação de óleo diesel A, gasolina A, GLP e QAV;
+Produção Nacional: Volumes de produção  de óleo diesel A, gasolina A, GLP e QAV;
+Exportação:  de óleo diesel A, gasolina A, GLP e QAV;
+Importação Líquida = Importação -- Exportação;
+Consumo Aparente = Produção Nacional + Importação líquida
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP
+Forma De Disponibilização: (1) Painel Dinâmico do Mercado Brasileiro de Combustíveis de Aviação
+https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-dinamicos-do-abastecimento/painel-dinamico-do-mercado-brasileiro-de-combustiveis-de-aviacao
+
+(2) Painel Dinâmico do Mercado Brasileiro de Combustíveis Líquidos
+https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-dinamicos-do-abastecimento/painel-dinamico-do-mercado-brasileiro-de-combustiveis-liquidos
+
+(3) Painel Dinâmico do Mercado Brasileiro de GLP
+https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-dinamicos-do-abastecimento/painel-dinamico-do-mercado-brasileiro-de-glp
+
+(4) Painel Dinâmico dos Produtores de Derivados de Petróleo
+https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-e-mapa-dinamicos-de-produtores-de-combustiveis-e-derivados/painel-dinamico-dos-produtores-de-derivados-de-petroleo
+Procedimento De Cálculo: Resultado da divisão entre a importação líquida e o consumo aparente dos derivados de petróleo indicados. O consumo aparente, por sua vez, é o resultado da soma da produção nacional e da importação líquida (importação menos exportação).
+Importação líquida = importação - exportação - os dados de comércio exterior se encontra nas fontes (1), (2) e (3). Consumo Aparente = Produção Nacional + Importação líquida -  Para obter o dado da produção nacional é necessário somar os dados de produção das refinarias, UPGNs, em centrais petroquímicas e formuladores. Todos dispostos na fonte (4).
+Notas Explicativas: No caso do querosene de aviação, desconsiderar os volumes exportados, pois refletem na verdade o bunker aeronáutico, ou seja, aquele combustível que abastece as aeronaves em voo internacional.
+QAV = Querosene de Aviação
+GLP = Gás liquefeito de petróleo
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Indicador: 8897
+Denominação: Percentual de aumento da produção de gás Natural
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Percentual (%) da produção medida em relação à produção de referência de 4,49 milhões Boe/dia em dez/2023 (ano base), conforme previsão contida no PAP (Plano Anual da Produção) da ANP.
+
+Os resultados das ações governamentais para o setor de petróleo e gás natural podem ser avaliados de várias maneiras. No entanto, considerando que esses resultados se estendem além do período de planejamento estratégico (PPA), foi decidido que a avaliação do sucesso do objetivo específico será medida mediante o monitoramento do percentual de variação da produção de petróleo e gás natural no Brasil, em relação ao previsto nos Planos Anuais de Produção enviados pelas empresas à ANP.
+Tais planos contém as expectativas de produção que cada empresa estima para 5 anos correntes.
+
+PAP/ANP: Plano Anual da Produção da Agência Nacional de Petróleo, Gás Natural e Biocombustíveis
+Período Ou Data A Que Se Refere: exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: dois meses após a efetiva produção
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MPrx - Média da produção de petróleo e gás natural realizada no ano X, em barris de óleo equivalente/d
+MPpx - Média da produção de petróleo e gás natural prevista no PAP ANP para o ano X, em barris de óleo equivalente/d
+Y - Percentual da produção realizada, em relação ao valor de referência, que são aqueles contidos no PAP/ANP.
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP
+Forma De Disponibilização: Boletim de Exploração e Produção de Petróleo e Gás Natural – DEPG/SNPGB/MME, disponíveis em https://www.gov.br/mme/pt-br/assuntos/secretarias/petroleo-gas-natural-e-biocombustiveis/publicacoes-1/boletim-de-exploracao-e-producao-de-petroleo-e-gas-natural
+Procedimento De Cálculo: Os dados consolidados estarão no Boletim de Exploração e Produção de Petróleo e Gás. Os dados realizados, por campo, podem ser acessados através do Painel Dinâmico de Produção de Petróleo e Gás Natural, da ANP, disponível em https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-dinamicos-sobre-exploracao-e-producao-de-petroleo-e-gas/paineis-dinamicos-de-producao-de-petroleo-e-gas-natural
+Limitações: Os dados de produção apresentam delay de 2 meses, ou seja, existe um atraso de dois meses na disponibilização dos dados relacionados à produção. Isso indica que as informações sobre a produção atual só estarão disponíveis após dois meses, devido ao tempo necessário para coleta, processamento e divulgação dos dados.
+Notas Explicativas: Paradas programadas para manutenção das unidades de produção podem impactar pontualmente na curva de produção realizadas dos campos.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Indicador: 8899
+Denominação: Percentual de aumento da Produção de Petróleo e Gás Natural
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Os resultados das ações governamentais para o setor de petróleo e gás natural podem ser avaliados de várias maneiras. No entanto, considerando que esses resultados se estendem além do período de planejamento estratégico (PPA), foi decidido que a avaliação do sucesso do objetivo específico será medida mediante o monitoramento do percentual de variação da produção de petróleo e gás natural no Brasil, em relação ao previsto nos Planos Anuais de Produção enviados pelas empresas à ANP.
+Tais planos contém as expectativas de produção que cada empresa estima para 5 anos correntes.
+Período Ou Data A Que Se Refere: exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: 2 meses após a efetiva produção
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MPrx - Média da produção de petróleo e gás natural realizada no ano X, em barris de óleo equivalente/d
+MPpb - Média da produção de petróleo e gás natural prevista no PAP ANP para o ano X, em barris de óleo equivalente/d
+Y - Percentual da produção realizada, em relação ao valor de referência, que são aqueles para o ano de 2023, contidos no PAP/ANP.
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP
+Forma De Disponibilização: Boletim de Exploração e Produção de Petróleo e Gás Natural – DEPG/SNPGB/MME, disponíveis em https://www.gov.br/mme/pt-br/assuntos/secretarias/petroleo-gas-natural-e-biocombustiveis/publicacoes-1/boletim-de-exploracao-e-producao-de-petroleo-e-gas-natural
+Procedimento De Cálculo: Os dados consolidados estarão no Boletim de Exploração e Produção de Petróleo e Gás. Os dados realizados, por campo, podem ser acessados através do Painel Dinâmico de Produção de Petróleo e Gás Natural, da ANP, disponível em https://www.gov.br/anp/pt-br/centrais-de-conteudo/paineis-dinamicos-da-anp/paineis-dinamicos-sobre-exploracao-e-producao-de-petroleo-e-gas/paineis-dinamicos-de-producao-de-petroleo-e-gas-natural
+Limitações: Os dados de produção apresentam delay de 2 meses, ou seja, existe um atraso de dois meses na disponibilização dos dados relacionados à produção. Isso indica que as informações sobre a produção atual só estarão disponíveis após dois meses, devido ao tempo necessário para coleta, processamento e divulgação dos dados.
+Notas Explicativas: Paradas programadas para manutenção das unidades de produção podem impactar pontualmente na curva de produção realizadas dos campos.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Indicador: 12749
+Denominação: Volume de gás natural nacional disponível ao consumidor final (oferta nacional de gás natural) em relação à média de 2022
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: índice numérico
+Descrição: A oferta nacional de gás natural é o volume de gás natural produzido no país que é disponibilizado ao mercado.
+É calculada pelo Departamento de Gás Natural no Boletim Mensal de Acompanhamento da Indústria do Gás Natural pela seguinte equação:
+[oferta nacional] = [produção nacional] – [consumo nas atividades de exploração e produção] – [queima e perda] – [reinjeção] – [absorção em unidades de processamento]
+A diferença da oferta nacional média entre 2020 e 2019 foi de -6,02 milhões de m³ por dia, denotando uma queda; entre 2021 e 2020 foi de +0,98 milhões de m³ por dia, significando aumento de oferta; e entre 2022 e 2021, de -3,93 milhões de m³ por dia, representando nova queda no valor absoluto da oferta nacional.
+Nesse contexto, a parcela de reinjeção de gás natural vem se tornando crescente, sendo a principal variável de redução da oferta no período, com valores relativos de 35,26% em 2019, 42,89% em 2020, 45,49% em 2021 e 49,60% em 2022, em relação à produção nacional. Com o objetivo de reverter essa tendência, medidas estão sendo implementadas no âmbito do Programa Gás para Empregar. Não obstante, deve-se ressaltar que resultados efetivos surtirão no médio prazo, devido à necessidade de investimentos em novas infraestruturas e novas plantas industriais
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: três meses após o fim do exercício de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Sni: oferta nacional média de gás natural do período de avalição                                                                                                                         
+Sn 2022: oferta nacional média de gás natural de 2022                                                                                                                                             [oferta nacional] = [produção nacional] – [consumo nas atividades de exploração e produção] – [queima e perda] – [reinjeção] – [absorção em unidades de processamento]
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP
+Forma De Disponibilização: Boletim Mensal de Acompanhamento da Indústria de Gás Natural, elaborado pelo Departamento de Gás Natural, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis, do MME.
+Procedimento De Cálculo: Aplicação direta dos dados nas variáveis da equação.
+Limitações: No curto prazo, o indicador não refletirá diretamente as medidas em implementação do Programa Gás para Empregar, uma vez que as decisões de investimentos dos campos atuais foram tomadas em um contexto regulatório passado e definiram as curvas de produção e de oferta de gás natural para o período.
+No médio prazo, as medidas deverão produzir resultados, a partir do melhor aproveitamento das infraestruturas existentes (redução das capacidades ociosas) e implantação de novas infraestruturas e plantas industriais. A implementação de novas infraestruturas geralmente ocorre em 3 a 5 anos.
+Notas Explicativas: A tendência verificada de redução do percentual de oferta nacional de gás natural em relação à produção nacional deve continuar no curto prazo, pois decorre de decisões de investimentos já realizados pelos produtores. Não obstante, espera-se que essa tendência seja revertida quando o conjunto das medidas do Programa Gás para Empregar começar a produzir efeito. Isso decorre do prazo necessário para a implantação das infraestruturas necessárias para aumentar a oferta de gás natural ao mercado nacional
+Origem: PPA
+Momento: 8200
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 3103
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 29
+Enunciado: Reduzir a dependência externa de derivados de petróleo
+Descrição: Questões geopolíticas interferem diretamente no mercado de commodities energéticas. O conflito entre Rússia e Ucrânia e as sanções econômicas decorrentes trouxeram luz à importância da segurança energética, com a temática ganhando força nos debates sobre formulação de políticas públicas. A garantia do fornecimento de derivados de petróleo em todo o território nacional é tema prioritário para o Estado brasileiro. Nesse contexto, é importante desenvolver ações para reduzir a dependência externa de derivados de petróleo.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 30
+Enunciado: Melhorar o aproveitamento da produção de gás natural nacional
+Descrição: O Programa Gás para Empregar tem entre seus objetivos melhorar o aproveitamento e o retorno social e econômico da produção nacional de gás natural, buscando a redução dos volumes reinjetados além do tecnicamente necessário. O gás natural pode ser utilizado como insumo em diversos segmentos industriais relevantes, como na produção de fertilizantes nitrogenados, produtos petroquímicos, siderúrgicos, cerâmica, vidros, entre outros. Assim, o melhor aproveitamento do gás natural por essas indústrias contribuirá para redução da dependência externa de insumos estratégicos para as cadeias produtivas nacionais e também para a competitividade da indústria nacional. No âmbito do Programa, há medidas em implementação, que já estão surtindo efeito no mercado. Não obstante, resultados mais efetivos serão observados no médio prazo, visto a necessidade de investimentos em novas infraestruturas e plantas industriais. O monitoramento da oferta nacional de gás natural permite verificar o comportamento da curva de sua disponibilidade para atendimento do mercado.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Objetivo Específico: 31
+Enunciado: Aumentar as atividades de exploração e produção de petróleo e gás natural
+Descrição: Trata-se do objetivo fim das políticas públicas emanadas e acompanhadas pelo Ministério de Minas e Energia. O objetivo reflete a atratividade do setor para investimentos.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8200
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+passage: Programa Número 3103
+
+Exercício: 2025
+Programa: 3103
+Objetivo: 1272
+Enunciado: Ampliar investimentos na exploração e produção de petróleo e gás natural, na infraestrutura de escoamento e processamento de gás natural, no abastecimento de combustíveis e na redução da dependência externa de derivados, de forma a promover a segurança energética e a proteção dos interesses do consumidor, aliado a uma maior ênfase na transição energética.
+Descrição: Promover a segurança energética nacional por meio do fortalecimento da cadeia produtiva de petróleo e gás,  e na expansão da produção, otimização da infraestrutura de escoamento e processamento de gás natural para o aproveitamento industrial, e redução da dependência externa de derivados. O objetivo geral do programa visa equilibrar a competitividade do mercado de combustíveis com a incorporação de fontes sustentáveis e a garantia do abastecimento.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3103
+
+Exercício: 2025
+Programa: 3103
+Título: Petróleo, Gás, Derivados e Biocombustíveis
+Tipo: Finalístico
+Órgão: 32000.0
+Público-Alvo: União, Estados e Municípios, Empresas de exploração e produção de petróleo e gás natural, Agentes da cadeia de abastecimento de combustíveis e outros derivados, Consumidores de gás, derivados de petróleo e biocombustíveis
+Descrição Do Problema:  Baixa atratividade para investimentos em exploração e produção de petróleo e gás natural em novas áreas e em campos maduros
+ Dependência externa com exposição ao comércio internacional de derivados
+ Infraestrutura insuficiente na cadeia de produção, escoamento e processamento de gás natural, refino e distribuição de petróleo, gás, derivados para dar suporte e promover o desenvolvimento nacional
+ Falta de concorrência entre produtores nacionais
+Causa Do Problema: 	Complexidade e incertezas relacionadas ao licenciamento ambiental
+	Falta de regras claras e previsibilidade no mercado de combustíveis
+	Falta de previsibilidade para investidores de infraestruturas e instalações em geral
+	Baixa integração das políticas de mobilidade e de descarbonização
+	Baixa atratividade para investimento em refino
+	Elevada barreira a entrada no mercado nacional de combustíveis
+	Elevados custos de transação 
+	Elevado custo de produção, abastecimento e distribuição
+	Elevada e regressiva carga fiscal
+	Complexidade do sistema tributário
+	Perda de competitividade com relação a países com situação análoga de produção de óleo e gás natural
+Evidências Do Problema: 	Elevados preços de combustíveis no mercado nacional
+	Elevada dependência de importação de derivados de petróleo
+	Redução do fator de utilização das refinarias
+	Declínio acelerado da produção dos campos maduros
+	Redução no número de poços exploratórios perfurados nos últimos anos
+	Aumento expressivo da reinjeção de gás natural 
+	Estagnação da rede de dutos de escoamento da produção de gás natural
+	Estagnação da malha de transporte e da infraestrutura de processamento de gás natural
+	Baixo crescimento do setor de biocombustíveis induzido pelas forças de mercado
+Justificativa Para A Intervenção: Garantir com eficiência e sustentabilidade o abastecimento do mercado de combustíveis, gás natural e outros derivados de petróleo, bem como maximizar o aproveitamento dos recursos energéticos renováveis e não renováveis nacionais.
+Relação Com Os Ods: Objetivo 7. Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos;
+Objetivo 8. Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos;
+Objetivo 12. Assegurar padrões de produção e de consumo sustentáveis;
+Objetivo 14. Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável;
+Objetivo 15. Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+Agentes Envolvidos: Ministério de Minas e Energia/Secretaria de Petróleo, Gás Natural e Biocombustíveis, Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, Empresa de Pesquisa Energética, Petróleo Brasileiro S.A., Banco Nacional de Desenvolvimento Econômico e Social e Ministério do Meio Ambiente.
+Marco Legal: Constituição Federal, Lei 9.478/1997 (Lei do Petróleo),  Lei nº 14.134/2021 (Lei do Gás), Decreto nº  10.712/2021 e 
+Decreto nº 12.153/2024
+Planos Nacionais, Setoriais E Regionais: Plano Decenal de Energia - PDE
+Plano Nacional de Expansão de Energia.
+Plano Nacional Integrado das Infraestruturas de Gás Natural e Biometano – PNIIGB.
+Plano Indicativo de Oleodutos – PIO
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

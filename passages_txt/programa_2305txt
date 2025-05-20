@@ -1,0 +1,1671 @@
+passage: Programa Número 2305
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 151
+Entrega: 235
+Indicador: 9103
+Denominação: Aluno capacitado
+Índice De Referência: 23.773
+Em Apuração: Não
+Data De Apuração: 2023-07-26 00:00:00
+Unidade De Medida: unidade
+Descrição: O Programa Computadores para Inclusão objetiva apoiar e viabilizar iniciativas de promoção da inclusão digital por meio dos Centros de 
+Recondicionamento de Computadores (CRC), com a formação profissionalizante no uso das TIC – Tecnologias de Informação e Comunicação.
+Período Ou Data A Que Se Refere: 26/07/2023
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: pessoa capacitada
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Semestrais de Acompanhamnto do Programa Computadores para Inclusão
+Forma De Disponibilização: Site do Ministério das Comunicações
+Procedimento De Cálculo: Apresentação de certificado de conclusão de curso
+Limitações: publicação semestral
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2189
+Indicador: 11561
+Denominação: Backhaul implantado
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-12 00:00:00
+Unidade De Medida: unidade
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2240
+Indicador: 12195
+Denominação: Cidades Atendidas
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Implantação de novas redes de dados no Nordeste
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2159
+Indicador: 11507
+Denominação: Escolas conectadas
+Índice De Referência: 13.7
+Em Apuração: Não
+Data De Apuração: 2024-02-01 00:00:00
+Unidade De Medida: porcentagem (%)
+Descrição: Razão percentual entre a quantidade de escolas públicas da educação básica ativas, com velocidade de download adequada e rede Wi-Fi, e a quantidade total de escolas públicas da educação básica ativas, segundo as fontes elencadas no campo "Fonte de Dados das Variáveis de Cálculo" e os parâmetros de velocidade de download adequada descritos no campo "Notas Explicativas".
+Período Ou Data A Que Se Refere: Ano-calendário
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1. Quantidade de escolas públicas da educação básica ativas, com velocidade adequada e rede Wi-Fi 2. Quantidade total de escolas públicas da educação básica ativas
+Fonte De Dados Das Variáveis De Cálculo: 1. Universo de escolas públicas da educação básica ativas: Censo Escolar, Inep.
+2. Velocidade de download dos acessos à Internet das escolas: Medidor Educação Conectada, MEC e NIC.br
+3. Existência de rede Wi-Fi nas escolas: Censo Escolar, Inep
+4. Etapas de ensino (educação infantil, ensino fundamental e/ou ensino médio) disponíveis nas escolas: Censo Escolar, Inep 5. Quantidade de alunos no turno mais frequentado das escolas: Censo Escolar, Inep
+6. Quantidade de profissionais da educação das escolas: Censo Escolar, Inep
+7. Estimava da distância das escolas de áreas servidas por redes de acesso à Internet em fibra óptica: Modelo de Classificação de Tecnologias de Acesso, NIC.br
+Forma De Disponibilização: Atualmente, os dados e indicadores são disponibilizados por meio de planilhas. Em breve o Ministério da Educação disponibilizará para consulta um Painel BI com todas as informações consolidadas.
+Procedimento De Cálculo: "QuantEscolasConectadas", o numerador, é obtido a partir da contagem (somatório) das escolas públicas da educação básica que satisfazem, simultaneamente, às seguintes condições: estão em atividade e possuem acesso à Internet, velocidade de download do acesso à Internet adequada e rede Wi-Fi. "QuantTotalEscolas", o denominador, é obtido a partir da contagem (somatório) do universo de escolas públicas da educação básica que estão em atividade. O indicador corresponde à razão entre "QuantEscolasConectadas" e "QuantTotalEscolas" expressa em forma percentual. Os parâmetros utilizados para identificar escolas com velocidade de download adequada estão descritos no campo "Notas Explicativas".
+Notas Explicativas: Para estabelecimento dos parâmetros de velocidade de download adequado, as escolas públicas de educação básica ativas são categorizadas segundo 4 dimensões: (i) distância estimada de áreas servidas por redes de acesso à Internet em fibra óptica; (ii) etapas de ensino (educação infantil, ensino fundamental e/ou ensino médio) disponíveis; (iii) quantidade de profissionais da educação, no caso de escolas exclusivamente da educação infantil; e (iv) quantidade de alunos no turno mais frequentado, no caso de escolas com ensinos fundamental e/ou médio.
+As diferentes categorias de escolas e os respectivos parâmetros de velocidade de download adequada são listados a seguir. 1. Escolas localizadas em área com rede de acesso à Internet em fibra óptica:
+1.1. Exclusivamente de educação infantil:
+1.1.1. Com até 50 profissionais da educação = velocidade mínima de download de 50 Mbps
+1.1.2. Com mais de 50 profissionais da educação = velocidade mínima de download igual à quandade de profissionais (1 Mbps por profissional)
+1.2. Com ensinos fundamental e/ou médio:
+1.2.1. Com até 50 alunos no turno mais frequentado = velocidade mínima de download de 50 Mbps
+1.2.2. Com mais de 50 até 1.000 alunos no turno mais frequentado = velocidade mínima de download igual à quantidade de alunos (1 Mbps por aluno)
+1.2.3. Com mais de 1.000 alunos no turno mais frequentado = velocidade máxima de download de 1 Gbps 2. Escolas localizadas até 10 km de área com rede de acesso à Internet em fibra óptica:
+2.1. Exclusivamente de educação infantil:
+2.1.1. Com até 50 profissionais da educação = velocidade mínima de download de 50 Mbps
+2.1.2. Com mais de 50 profissionais da educação = velocidade mínima de download igual à quandade de profissionais (1 Mbps por profissional)
+2.2. Com ensinos fundamental e/ou médio:
+2.2.1. Com menos de 50 alunos no turno mais frequentado = velocidade mínima de download de 50 Mbps
+2.2.2. Com mais de 50 até 1.000 alunos no turno mais frequentado = velocidade mínima de download igual à quantidade de alunos (1 Mbps por aluno)
+2.2.3. Com mais de 1.000 alunos no turno mais frequentado = velocidade máxima de download de 1 Gbps
+3. Escolas localizadas a mais de 10 km de área com rede de acesso à Internet em fibra óptica ou com localização imprecisa = velocidade mínima de download de 20 Mbps.
+No cálculo do Índice de Referência (isto é, a linha de base do indicador), foram utilizadas as seguintes informações:
+- O universo de 138.355 escolas públicas da educação básica ativas, de acordo com o Censo Escolar 2022;
+- 71.293 escolas com informações de velocidade de download obtidas do Medidor Educação Conectada, com data de referência de 01/02/2024;
+- 66.726 escolas com rede Wi-Fi (rede local wireless ou cabo e wireless), de acordo com o Censo Escolar 2022;
+- 29.682 escolas exclusivamente com educação infantil, das quais 288 com mais de 50 profissionais da educação, de acordo com o Censo Escolar 2022;
+- 108.673 escolas com ensinos fundamental e/ou médio, das quais 77.678 com mais de 50 até 1.000 alunos no turno mais frequentado, e 269 com mais de 1.000 alunos, de acordo com o Censo Escolar 2022;
+- 98.213 escolas em áreas com rede de fibra óptica, 19.258 escolas localizadas até 10 km de áreas com rede de fibra e 20.884 escolas localizadas a mais de 10 km de áreas com rede de fibra, de acordo com a aplicação do Modelo de Classificação de Tecnologias de Acesso, do NIC.br, realizada em maio de 2023;
+O cruzamento dessas informações resultou na identificação de 18.089 escolas que satisfazem, simultaneamente, às seguintes condições: estão em atividade e possuem acesso à Internet, velocidade de download adequada (considerando as informações do Medidor Educação Conectada e os parâmetros descritos acima) e rede Wi-Fi. Esse contingente de escolas representa 13,07% do universo de 138.355 escolas públicas da educação básica ativas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2167
+Indicador: 11532
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-12 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do rio Amazonas, ligando Macapá/AP a Belém/PA, e de redes locais nas sedes dos municípios conectados pelo cabo
+Período Ou Data A Que Se Refere: 02/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Procedimento De Cálculo: Percentual de execução por Infovia compreende as seguintes etapas: Projeto Básico 15%, Pré Implantação: 45% e Implantação: 40%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2169
+Indicador: 11534
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-12 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do rio Madeira, ligando Porto Velho/RO a Autazes/AM, e de redes locais nas sedes dos municípios conectados pelo cabo
+Período Ou Data A Que Se Refere: 02/08/2023
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Procedimento De Cálculo: Percentual de execução por Infovia compreende as seguintes etapas: Projeto Básico 15%, Pré Implantação: 45% e Implantação: 40%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2163
+Indicador: 11530
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-12 00:00:00
+Unidade De Medida: unidade
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do rio Amazonas, ligando Santarém/PA a Manaus/AM, e de redes metropolitanas nas sedes dos municípios conectados pelo cabo.
+Período Ou Data A Que Se Refere: 01/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2170
+Indicador: 11535
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-23 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do rio Juruá, ligando Uarini/AM a Cruzeiro do Sul/AC, e de redes locais nas sedes dos municípios conectados pelo cabo
+Período Ou Data A Que Se Refere: 02/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Procedimento De Cálculo: Percentual de execução por Infovia compreende as seguintes etapas: Projeto Básico 15%, Pré Implantação: 45% e Implantação: 40%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2712
+Indicador: 12087
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-12 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do rio Purus, ligando Manacapuru/AM a Rio Branco/AC, e de redes locais nas sedes dos municípios conectados pelo cabo
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Procedimento De Cálculo: Percentual de execução por Infovia compreende as seguintes etapas: Projeto Básico 15%, Pré Implantação: 45% e Implantação: 40%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2166
+Indicador: 11531
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-12 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do rio Amazonas, ligando Tefé/AM a Tabatinga/AM, e de redes locais nas sedes dos municípios conectados pelo cabo.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30/01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Procedimento De Cálculo: Implantação da Infovia consiste nas etapas: Projeto Básico 15%, Pré-implantação: 45% e Implantação: 40%
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2172
+Indicador: 11537
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-02 00:00:00
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: 02/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2168
+Indicador: 11533
+Denominação: Infovia implantada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-23 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Implantação de cabo de fibra óptica subaquático, no leito do Rio Branco, ligando Vila de Moura/AM a Boa Vista/RR, e de redes locais nas sedes dos municípios conectados pelo cabo
+Período Ou Data A Que Se Refere: 02/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Procedimento De Cálculo: Percentual de execução por Infovia compreende as seguintes etapas: Projeto Básico 15%, Pré Implantação: 45% e Implantação: 40%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2188
+Indicador: 11563
+Denominação: Localidades conectadas
+Em Apuração: Não
+Data De Apuração: 2023-08-03 00:00:00
+Unidade De Medida: Área Avaliada
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2162
+Indicador: 11510
+Denominação: Localidades conectadas
+Em Apuração: Não
+Data De Apuração: 2023-08-01 00:00:00
+Unidade De Medida: Área Avaliada
+Período Ou Data A Que Se Refere: 01/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2187
+Indicador: 11562
+Denominação: Municípios conectados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-03 00:00:00
+Unidade De Medida: município
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 157
+Entrega: 290
+Indicador: 9126
+Denominação: Municípios contemplados pelo programa com infraestrutura de TV Digital implantada
+Sigla: PBD
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2024-01-01 00:00:00
+Unidade De Medida: município
+Descrição: Número de municípios com baixo índice de digitalização dos canais analógicos ou com baixo número de canais digitais, que receberam a infraestrutura para transmissão de sinais digitais de TV aberta no âmbito do programa.
+Período Ou Data A Que Se Refere: Toda a duração do programa
+Data De Divulgação/Disponibilização: A cada conclusão de implantação da infraestrutura
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios contemplados com implantação de infraestrutura de TV Digital pelo programa.
+Fonte De Dados Das Variáveis De Cálculo: Ministério das Comunicações
+Forma De Disponibilização: Página do MCOM: https://www.gov.br/mcom/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/brasil-digital
+ 
+Página do Novo PAC TV Digital: https://www.gov.br/casacivil/pt-br/novopac/inclusao-digital-e-conectividade/tv-digital
+Procedimento De Cálculo: Contagem dos municípios contemplados pelo programa (soma simples)
+Limitações: Depende de disponibilidade orçamentária e de conclusão das implantações pela entidade a ser contratada.
+Notas Explicativas: Novo programa a ser implementado pelo Ministério das Comunicações.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 357
+Indicador: 9231
+Denominação: Percentual da população com cobertura 5G ou superior
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Fechar a lacuna digital, garantindo cobertura plena em tecnologia 5G, proxy de padrão de qualidade exigido.
+Período Ou Data A Que Se Refere: 31/12/2021
+Data De Divulgação/Disponibilização: Ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: i: é cada setor censitário do país definido pelo IBGE.
+Fonte De Dados Das Variáveis De Cálculo: IBGE: setores censitários e população
+Anatel: %cobertura
+Forma De Disponibilização: A porcentagem da população coberta está disponível por meio da porcentagem de Moradores Cobertos. No painel de filtros, utilize o campo "Medida" (moradores) para alternar entre as informações apresentadas nos gráficos e tabelas. Os dados podem ser consultados no endereço a seguir:
+https://informacoes.anatel.gov.br/paineis/infraestrutura
+Procedimento De Cálculo: Para cada setor censitário é observada a cobertura da população com tecnologia 5G posteriormente consolidado o valor geral de todo o território nacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Entrega: 2311
+Indicador: 11674
+Denominação: Percentual de centros operacionais e administrativos construídos e entregues para o período de 2024 a 2027 para os Estados previstos
+Sigla: PCCE_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Complexo Operacional / Administrativo.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCCE_P = Percentual de centros operacionais e administrativos construídos e entregues no respectivo Estado.
+QUC_P = Quantidade de Centros Operacionais e Administrativos Construídos e Entregues no respectivo Estado.
+QTP_P = Quantidade de Total de Centros Operacionais e Administrativos previstos no respectivo Estado.
+Fonte De Dados Das Variáveis De Cálculo: QUC_P: Enterprise Resource Plannimg (ERP - Correios)
+QTP_P: Plano de Investimentos em Infraestrutura - PII (Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações.
+Procedimento De Cálculo: Razão entre a quantidade de centros construídos e entregues e previstos
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de infraestrutura e de automação comporem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Entrega: 2312
+Indicador: 11675
+Denominação: Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos
+Sigla: PCCE_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Tratamento de Encomendas.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCCE_P = Percentual de centros operacionais e administrativos construídos e entregues no respectivo Estado.
+QUC_P = Quantidade de Centros Operacionais e Administrativos Construídos e Entregues no respectivo Estado.
+QTP_P = Quantidade de Total de Centros Operacionais e Administrativos previstos no respectivo Estado.
+Fonte De Dados Das Variáveis De Cálculo: QUC_P: Enterprise Resource Plannimg (ERP - Correios)
+QTP_P: Plano de Investimentos em Infraestrutura - PII (Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre a quantidade de centros construídos e entregues e previstos
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de infraestrutura e de automação comporem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Entrega: 2310
+Indicador: 11673
+Denominação: Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos
+Sigla: PCCE_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Tratamento de Cartas e Encomendas.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCCE_P = Percentual de centros operacionais e administrativos construídos e entregues no respectivo Estado.
+QUC_P = Quantidade de Centros Operacionais e Administrativos Construídos e Entregues no respectivo Estado.
+QTP_P = Quantidade de Total de Centros Operacionais e Administrativos previstos no respectivo Estado.
+Fonte De Dados Das Variáveis De Cálculo: QUC_P: Enterprise Resource Plannimg (ERP - Correios)
+QTP_P: Plano de Investimentos em Infraestrutura - PII (Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações.
+Procedimento De Cálculo: Razão entre a quantidade de centros construídos e entregues e previstos.
+Limitações: Não foram observadas limitações no cálculo.
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de infraestrutura e de automação comporem os empreendimentos do Novo PAC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Entrega: 2314
+Indicador: 11677
+Denominação: Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos
+Sigla: PCCE_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-23 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Logística Integrada.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCCE_P = Percentual de centros operacionais e administrativos construídos e entregues no respectivo Estado.
+QUC_P = Quantidade de Centros Operacionais e Administrativos Construídos e Entregues no respectivo Estado.
+QTP_P = Quantidade de Total de Centros Operacionais e Administrativos previstos no respectivo Estado.
+Fonte De Dados Das Variáveis De Cálculo: QUC_P: Enterprise Resource Plannimg (ERP - Correios)
+QTP_P: Plano de Investimentos em Infraestrutura - PII (Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre a quantidade de centros construídos e entregues e previstos
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de infraestrutura e de automação comporem os empreendimentos do Novo PAC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Entrega: 2313
+Indicador: 11676
+Denominação: Percentual de centros operacionais e administrativos contratados e construídos e entregues para o período de 2024 a 2027 nos Estados previstos
+Sigla: PCCE_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação da capacidade produtiva logística dos Correios com a construção de 1 (um) Centro de Tratamento de Encomendas.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCCE_P = Percentual de centros operacionais e administrativos construídos e entregues no respectivo Estado.
+QUC_P = Quantidade de Centros Operacionais e Administrativos Construídos e Entregues no respectivo Estado.
+QTP_P = Quantidade de Total de Centros Operacionais e Administrativos previstos no respectivo Estado.
+Fonte De Dados Das Variáveis De Cálculo: QUC_P: Enterprise Resource Plannimg (ERP - Correios)
+QTP_P: Plano de Investimentos em Infraestrutura - PII (Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre a quantidade de centros construídos e entregues e previstos
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de infraestrutura e de automação comporem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 232
+Entrega: 431
+Indicador: 9554
+Denominação: Percentual de conclusão da Rede Fixa Segura de Estado
+Sigla: PCRFSE
+Em Apuração: Não
+Unidade De Medida: percentual %
+Descrição: Percentual de conclusão da Rede Fixa, habilitada para implementação do Serviço de Comunicação Segura de Estado, em operação pela Telebras.
+Período Ou Data A Que Se Refere: 31/12 do ano a ser aferido
+Data De Divulgação/Disponibilização: Até 31/01 do ano seguinte à aferição
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Rede Fixa = Somatório da quantidade de pontos de acesso da Rede Fixa em operação
+Total Rede Fixa = Quantidade total prevista de pontos de acesso da Rede Fixa em operação
+Fonte De Dados Das Variáveis De Cálculo: Informações das Ferramentas de Operação da Rede Telebras referentes à quantidade de pontos/acessos em operação na Rede Fixa.
+Forma De Disponibilização: Relatório Anual.
+Procedimento De Cálculo: Extrair as informações da base de dados das Ferramentas de Operação da Rede Telebras referentes à quantidade de pontos/acessos em operação na Rede Fixa e aplicar à Fórmula de Cálculo.
+A quantidade total de acessos/pontos da Rede Fixa depende da efetivação da Medida Institucional e Normativa associada a este Objetivo Específico (0232).
+Limitações: Este indicador está diretamente relacionado ao Decreto de Governança, que definirá a política de uso da Rede Privativa de Comunicação da Administração Pública Federal e que pode alterar o número definido para cada ano, conforme Medida Institucional e Normativa associada a este Objetivo Específico (0232).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 232
+Entrega: 432
+Indicador: 9570
+Denominação: Percentual de conclusão da Rede Móvel Segura de Estado
+Sigla: PCRMSE
+Em Apuração: Não
+Unidade De Medida: percentual %
+Descrição: Percentual de conclusão da Rede Móvel, habilitada para implementação do Serviço de Comunicação Segura de Estado, em operação pela Telebras.
+Período Ou Data A Que Se Refere: 31/12 do ano a ser aferido
+Data De Divulgação/Disponibilização: Até 31/01 do ano seguinte à aferição
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Rede Móvel = Somatório da quantidade de acessos da Rede Móvel em operação
+Total Rede Móvel = Quantidade total prevista de acessos da Rede Móvel em operação
+Fonte De Dados Das Variáveis De Cálculo: Informações das Ferramentas de Operação da Rede Telebras referentes à quantidade de pontos/acessos em operação na Rede Móvel .
+Forma De Disponibilização: Relatório Anual.
+Procedimento De Cálculo: Extrair as informações da base de dados das Ferramentas de Operação da Rede Telebras referentes à quantidade de pontos/acessos em operação na Rede Móvel e aplicar à Fórmula de Cálculo.
+A quantidade total de acessos/pontos da Rede Móvel depende da efetivação da Medida Institucional e Normativa associada a este Objetivo Específico (0232).
+Limitações: Este indicador está diretamente relacionado ao Decreto de Governança, que definirá a política de uso da Rede Privativa de Comunicação da Administração Pública Federal e que pode alterar o número definido para cada ano, conforme Medida Institucional e Normativa associada a este Objetivo Específico (0232).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 295
+Entrega: 633
+Indicador: 10398
+Denominação: Percentual de distritos brasileiros com população igual ou superior a 500 habitantes contemplados com a distribuição postal dentre os previstos para implantação no período de 2024 a 2027
+Sigla: QDDP_P
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-04-10 00:00:00
+Unidade De Medida: percentual
+Descrição: Implantar a distribuição postal nos distritos brasileiros ainda não alcançados com população igual ou superior a 500 habitantes, de 2024 a 2027, visando atingir os 100% de distritos previstos.
+Período Ou Data A Que Se Refere: Mensalmente
+Data De Divulgação/Disponibilização: 10º dia útil de cada mês, com as informações atualizadas até o mês anterior.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PDDP_P = Percentual de Distritos com Distribuição Postal no Período
+QDDP_P = Quantidade de Distritos Com Distribuição Postal no período
+QPDP_P = Quantidade Prevista de Distritos com Distribuição Postal no período
+Fonte De Dados Das Variáveis De Cálculo: QDDP_P: Sistema de Universalização (SiSUNi)
+QPDP_P: Portaria Ministerial MCOM 2729/2021
+Forma De Disponibilização: Dados divulgados por meio de Ofícios encaminhados mensalmente ao Ministério das Comunicações - MCOM e no site da MCOM:
+https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/dados-de-entidades-vinculadas/servicos-postais
+Procedimento De Cálculo: Razão entre a quantidade de distritos brasileiros com população igual ou superior a 500 habitantes que tiveram informação de distribuição postal, conforme prevê a Portaria MCOM 2729/2021, a partir dos dados obtidos do SiSUNi e dentre aqueles previstos para implantação no período, que é obtido pela diferença de 100% dos distritos previstos no país e a quantidade de referência em abril/2023.
+Limitações: Não foram observadas limitações no cálculo.
+Notas Explicativas: As metas estabelecidas por meio da Portaria MCOM 2729/2021 possuem validade até 2024, quando deve haver revisão e atualização, com novo período de vigência. Também há previsão, segundo Anexo II da portaria atual, de revisão das metas com base no novo censo a ser divulgado pelo IBGE.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 387
+Indicador: 9275
+Denominação: Percentual de execução física do projeto
+Sigla: PEFSSDC
+Em Apuração: Não
+Unidade De Medida: percentual %
+Descrição: Percentual de execução física do projeto.
+Período Ou Data A Que Se Refere: 31/12 do ano a ser aferido
+Data De Divulgação/Disponibilização: Até 31/01 do ano seguinte à aferição
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Não há uma fórmula, apenas a aferição do cronograma de execução física do projeto.
+Fonte De Dados Das Variáveis De Cálculo: Ferramenta de acompanhamento de projeto utilizada pela Telebras.
+Forma De Disponibilização: Relatório Anual.
+Procedimento De Cálculo: Sem procedimento de cálculo, apenas a validação das informações da ferramenta de acompanhamento de projeto utilizada pela Telebras.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 294
+Entrega: 590
+Indicador: 9529
+Denominação: Percentual de posições de atendimento postal implantadas dentre as previstas para implantação no período de 2024 a 2027
+Sigla: PPAD_P
+Índice De Referência: 97.01
+Em Apuração: Sim
+Data De Apuração: 2023-04-01 00:00:00
+Unidade De Medida: percentual
+Descrição: Implantar as posições de atendimento necessárias, por meio dos diversos canais disponíveis, de 2024 a 2027, visando atingir os 100% das posições previstas.
+Período Ou Data A Que Se Refere: Mensalmente
+Data De Divulgação/Disponibilização: 10º dia útil de cada mês, com as informações atualizadas até o mês anterior.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PPAD_P = Percentual de Posições de Atendimento Disponíveis no Período
+QPAD_P = Quantidade Total de Posições de Atendimento Disponibilizadas no Período
+QPAP_P = Quantidade Total de Posições de Atendimento Previstas no Período
+Fonte De Dados Das Variáveis De Cálculo: QPAD_P: Sistema de Automação da Rede de Atendimento (SARA) e Enterprise Resource Plannimg (ERP - Correios)
+QPAP_P: Portaria Ministerial MCOM 2729/2021
+Forma De Disponibilização: Dados divulgados por meio de Ofícios encaminhados mensalmente ao Ministério das Comunicações - MCOM e no site da MCOM:
+https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/dados-de-entidades-vinculadas/servicos-postais
+Procedimento De Cálculo: Razão entre a somar da quantidade de posições de atendimento disponibilizadas no período, obtidas por meio do Sistema de Automação da Rede de Atendimento (SARA) e a quantidade de Agências de Correios Comunitárias (AGC) por meio do ERP, dentre aquelas previstas para implantação no período, pela quantidade prevista para implantação no período, que é obtido pela diferença de 100% das posições previstas no país e a quantidade de referência em abril/2023.
+Limitações: Não foram observadas limitações no cálculo.
+Notas Explicativas: As metas estabelecidas por meio da Portaria MCOM 2729/2021 possuem validade até 2024, quando deve haver revisão e atualização, com novo período de vigência. Também há previsão, segundo Anexo II da portaria atual, de revisão das metas com base no novo censo a ser divulgado pelo IBGE.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2325
+Indicador: 11688
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Bauru ou Ribeirão Preto/SP
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios (em Bauru ou Ribeirão Preto/SP).
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2318
+Indicador: 11681
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Contagem/MG
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2320
+Indicador: 11682
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Cuiabá/MT
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2317
+Indicador: 11680
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Goiânia/GO
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2330
+Indicador: 11693
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Guarulhos/SP
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2321
+Indicador: 11684
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Jaboatão dos Guararapes/PE
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2323
+Indicador: 11686
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Pinhais/PR
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2316
+Indicador: 11679
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Salvador/BA
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 0203-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2329
+Indicador: 11692
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Santo Amaro ou ABC/SP
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Entrega: 2328
+Indicador: 11689
+Denominação: Percentual de Sistemas de Triagem Automatizada Contratados e Instalados previstos para implantação no período de 2024 a 2027 em Valinhos ou São José do Rio Preto/SP
+Sigla: PSCI_P
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios na respectiva cidade.
+Período Ou Data A Que Se Refere: 24/03/2023
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_P = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QSCI_P = Quantidade de Sistemas de Triagem Automatizada Contratados e Instalados na respectiva cidade.
+QPCI_P = Quantidade Prevista de Sistemas de Triagem Automatizada para instalação na respectiva cidade.
+Fonte De Dados Das Variáveis De Cálculo: QSCI_P: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_P: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos na respectiva cidade.
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 345
+Indicador: 9194
+Denominação: Quantidade de infovias concluídas
+Em Apuração: Não
+Unidade De Medida: percentual alcançado
+Descrição: Percentual de evolução na implantação das Infovias.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30/01
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: MCOM
+Procedimento De Cálculo: Percentual de execução por Infovia. Projeto Básico 15%, Pré Implantação: 45% e Implantação: 40%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 97
+Entrega: 221
+Indicador: 9039
+Denominação: Quantidade de projetos de pesquisa, desenvolvimento e inovação em telecomunicações contratados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: unidade por ano
+Descrição: Somatório da quantidade de projetos de pesquisa, desenvolvimento e inovação em telecomunicações contratados no ano de referência
+Período Ou Data A Que Se Refere: Ano-calendário.
+Data De Divulgação/Disponibilização: Imediatamente após o fim do ano de referência.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Financiadora de Estudos e Projetos (Finep).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 359
+Indicador: 9237
+Denominação: Total de municípios com backhaul de fibra óptica
+Índice De Referência: 4677.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Municípios conectados com rede de fibra óptica de alta capacidade.
+Período Ou Data A Que Se Refere: 31/12/2021
+Data De Divulgação/Disponibilização: Ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número absoluto de municípios com backhaul de fibra óptica.
+Fonte De Dados Das Variáveis De Cálculo: Os dados são calculados pela Anatel a partir das informações coletadas junto às prestadoras.
+Forma De Disponibilização: Os dados podem ser acessados pelo site da Anatel na internet, no seguinte endereço:
+https://informacoes.anatel.gov.br/paineis/infraestrutura/rede-de-transporte
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2161
+Indicador: 11509
+Denominação: Trechos conectados
+Em Apuração: Não
+Data De Apuração: 2023-08-01 00:00:00
+Unidade De Medida: km
+Período Ou Data A Que Se Refere: 01/08/2023
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Entrega: 2160
+Indicador: 11508
+Denominação: Unidades de saúde conectadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-01 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade de Unidades de Saúde conectadas à Internet como resultado do Programa “Conectividade Significativa na Saúde”, com velocidades de download entre 100 e 200 Mbps. A quantidade de conexões será apurada a partir dos registros administrativos do Programa
+Período Ou Data A Que Se Refere: 15/07/2023
+Data De Divulgação/Disponibilização: 15/07/2023
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: O Ministério da Saúde está trabalhando no refinamento dos dados de suas bases, de forma a se obter a meta (quantidade de unidades de saúde a serem conectadas) e, por conseguinte, seus indicadores.
+Fonte De Dados Das Variáveis De Cálculo: O Ministério da Saúde está trabalhando no refinamento dos dados de suas bases, de forma a se obter a meta (quantidade de unidades de saúde a serem conectadas) e, por conseguinte, seus indicadores.
+Forma De Disponibilização: O Ministério da Saúde está trabalhando no refinamento dos dados de suas bases, de forma a se obter a meta (quantidade de unidades de saúde a serem conectadas) e, por conseguinte, seus indicadores.
+Procedimento De Cálculo: O Ministério da Saúde está trabalhando no refinamento dos dados de suas bases, de forma a se obter a meta (quantidade de unidades de saúde a serem conectadas) e, por conseguinte, seus indicadores.
+Limitações: A base de dados contendo o total de unidades de saúde a serem conectadas, para aferição dos indicadores e metas, são de responsabilidade do Ministério da Saúde.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2305
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 157
+Indicador: 9158
+Denominação: Número de novos canais digitais de TV autorizados
+Sigla: TVD
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2024-01-01 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de novos canais digitais de TV autorizados, decorrentes de consignações da União, processos seletivos de TVD Educativa, licitação de TVD comercial e chamamentos de RTVD.
+Período Ou Data A Que Se Refere: Janeiro/2024 a Dezembro/2027
+Data De Divulgação/Disponibilização: 15 dias após o fechamento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Contagem simples do número de autorizações de canais de TV digital
+Fonte De Dados Das Variáveis De Cálculo: Portarias de outorga do Ministro das Comunicações publicadas do DOU a partir de 01/01/2024
+Forma De Disponibilização: BI - página do MCom (https://www.gov.br/mcom/pt-br/assuntos/radio-e-tv-aberta) -> BI constante do final da página
+https://app.powerbi.com/view?r=eyJrIjoiNjQwOTAzYTItNWM1My00NDA0LWFmYjEtMDVhZGRmMjZkODgyIiwidCI6ImExMTIwMGVkLTNhYTctNDFhMy05M2UxLTcwYWU4ZmMxZWMxYSJ9
+Procedimento De Cálculo: Contagem do número de autorizações concedidas
+Limitações: Disponibilidade de canais de radiofrequência em cada localidade.
+Notas Explicativas: O total de autorizações a serem concedidas depende de manifestação de interesse e participação das entidades nos processos do Ministério, além da viabilidade técnica (disponibilidade de canais).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 97
+Indicador: 9029
+Denominação: Número de pedidos de registro de propriedade intelectual no ano de referência
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador considera a quantidade de pedidos de registro de propriedade intelectual, no Brasil ou no exterior, resultantes dos programas, projetos e atividades apoiados pelo Funttel. Nesse sentido, o indicador compreende tanto os projetos de pesquisa, desenvolvimento e inovação apoiados com recursos não-reembolsáveis, mas também os projetos financiados pelo Funttel por meio dos agentes financeiros (BNDES e Finep). São considerados pedidos de registro de propriedade intelectual os pedidos de registro de patentes, de software, de modelos de utilidade, de desenhos industriais, de segredos industriais, marcas, topografias de circuitos integrados e licenças free open source software.
+Período Ou Data A Que Se Refere: Ano-calendário
+Data De Divulgação/Disponibilização: Julho do ano seguinte ao ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Entidades beneficiadas, executores, intervenientes e o Instituto Nacional da Propriedade Intelectual (INPI).
+Forma De Disponibilização: Divulgação do relatório anual de indicadores do Funttel.
+Procedimento De Cálculo: 1. Solicitação aos executores de projetos de pesquisa, desenvolvimento e inovação apoiados com recursos não reembolsáveis do Funttel para que informem as quantidades de pedidos de registro, por tipo de propriedade intelectual, solicitados no ano de referência;
+2. Solicitação aos agentes financeiros do Funttel (BNDES e Finep) para que informem as quantidades de pedidos de registro, por tipo de propriedade intelectual, solicitados no ano de referência, pelas empresas beneficiárias de recursos do fundo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 151
+Indicador: 9052
+Denominação: Número de pessoas capacitadas em cursos de TICs
+Sigla: NPCTIC
+Índice De Referência: 23773.0
+Em Apuração: Não
+Data De Apuração: 2023-07-26 00:00:00
+Unidade De Medida: pessoas capacitadas
+Descrição: O Programa Computadores para Inclusão objetiva apoiar e viabilizar iniciativas de promoção da inclusão digital por meio dos Centros de 
+Recondicionamento de Computadores (CRC), com a formação profissionalizante no uso das TIC – Tecnologias de Informação e Comunicação.
+Período Ou Data A Que Se Refere: 26/07/2023
+Data De Divulgação/Disponibilização: 31/12/2023
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: pessoas capacitadas
+Fonte De Dados Das Variáveis De Cálculo: Relatórios Semestrais de Acompanhamento do Programa Computadores para Inclusão
+Forma De Disponibilização: Site do Ministério das Comunicações
+Procedimento De Cálculo: Apresentação de certificado de conclusão de curso.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 232
+Indicador: 9310
+Denominação: Percentual de conclusão da RPCAPF
+Sigla: PCRPCAPF
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Percentual de conclusão da RPCAPF e em operação pela Telebras.
+Período Ou Data A Que Se Refere: 31/12 do ano a ser aferido
+Data De Divulgação/Disponibilização: Até 31/01 do ano seguinte à aferição
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Rede Fixa = Somatório da quantidade de pontos de acesso da Rede Fixa em operação
+Total Rede Fixa = Quantidade total prevista de pontos de acesso da Rede Fixa em operação
+p1 = 1
+Rede Móvel = Somatório da quantidade de acessos da Rede Móvel em operação
+Total Rede Móvel = Quantidade total prevista de acessos da Rede Móvel em operação
+p2 = 4 (para Região Centro-Oeste ou Cálculo Nacional)
+p2 = 0 (para Regiões Norte, Nordeste, Sul e Sudeste | apenas Cálculo Regionalizado)
+Fonte De Dados Das Variáveis De Cálculo: Informações das Ferramentas de Operação da Rede Telebras referentes à quantidade de pontos/acessos em operação na RPCAPF.
+Forma De Disponibilização: Relatório Anual.
+Procedimento De Cálculo: Extrair as informações da base de dados das Ferramentas de Operação da Rede Telebras referentes à quantidade de pontos/acessos em operação na RPCAPF e aplicar à Fórmula de Cálculo.
+A quantidade total de acessos/pontos da RPCAPF depende da efetivação da Medida Institucional e Normativa associada a este Objetivo Específico (0232).
+Limitações: Este indicador está diretamente relacionado ao Decreto de Governança, que definirá a política de uso da Rede Privativa de Comunicação da Administração Pública Federal e que pode alterar o número definido para cada ano, conforme Medida Institucional e Normativa associada a este Objetivo Específico (0232).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 295
+Indicador: 9549
+Denominação: Percentual de distritos com população igual ou superior a 500 habitantes atendidos com distribuição postal
+Sigla: PDDP_T
+Índice De Referência: 96.27
+Em Apuração: Não
+Data De Apuração: 2023-04-10 00:00:00
+Unidade De Medida: percentual
+Descrição: Implantação da distribuição postal nos distritos brasileiros com população acima de 500 habitantes ainda não contemplados com o serviço.
+Período Ou Data A Que Se Refere: Mensalmente
+Data De Divulgação/Disponibilização: 10º dia útil de cada mês, com as informações atualizadas até o mês anterior
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PDDP_T = Percentual de Distritos com Distribuição Postal no Período
+QDDP_T = Quantidade de Distritos Com Distribuição Postal no período
+QPDP_T  = Quantidade Prevista de Distritos com Distribuição Postal no período
+Fonte De Dados Das Variáveis De Cálculo: QDDP_T: Sistema de Universalização (SiSUNi)
+QPDP_T: Portaria Ministerial MCOM 2729/2021
+Forma De Disponibilização: Dados divulgados por meio de Ofícios encaminhados mensalmente ao Ministério das Comunicações - MCOM e no site da MCOM:
+https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/dados-de-entidades-vinculadas/servicos-postais
+Procedimento De Cálculo: Razão entre a quantidade de distritos brasileiros com população igual ou superior a 500 habitantes que tiveram informação de distribuição postal, conforme prevê a Portaria MCOM 2729/2021, a partir dos dados obtidos do SiSUNi e a quantidade prevista para o período, conforme Anexo II da Portaria MCOM 2729/2021.
+Limitações: Não foram observadas limitações no cálculo.
+Notas Explicativas: As metas estabelecidas por meio da Portaria MCOM 2729/2021 possuem validade até 2024, quando deve haver revisão e atualização, com novo período de vigência. Também há previsão, segundo Anexo II da portaria atual, de revisão das metas com base no novo censo a ser divulgado pelo IBGE.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Indicador: 11672
+Denominação: Percentual de infraestrutura disponibilizada por meio da construção de novos centros operacionais no DF, MA e PR (Tratamento de Cartas/Encomendas), MG (Logística Integrada) e CE (Complexo Operacional)
+Sigla: PCCE_T
+Índice De Referência: 1.9
+Em Apuração: Não
+Data De Apuração: 2023-08-21 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de infraestrutura disponibilizada por meio da construção de 3 (três) centros de tratamento de cartas e encomendas nos Estados do DF, MA e PR; 1 (um) Centro de Logística Integrada no Estado de MG e 1 (um) Complexo Operacional/ Administrativo no Estado do CE.
+Período Ou Data A Que Se Refere: Anualmente
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PCCE_T = Percentual de Centros Operacionais e Administrativos Construídos e Entregues
+QUC_T = Quantidade de Centros Operacionais e Administrativos Construídos e Entregues
+QTP_T = Quantidade de Total de Centros Operacionais e Administrativos previstos
+Fonte De Dados Das Variáveis De Cálculo: QUC_T: Enterprise Resource Plannimg (ERP - Correios)
+QTP_T: Plano de Investimentos em Infraestrutura - PII (Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre a quantidade de centros construídos e entregues e previstos
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de infraestrutura e de automação comporem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Indicador: 11671
+Denominação: Percentual de modernização/implantação de 58 novos sistemas de triagem automatizada nos Centros de Tratamento: Brasília (4), Aracaju (2), Bauru (3), Campo Grande (2), Caxias do Sul (2), Contagem (1), Cuiabá (2), Fortaleza (2), Goiania (4), Guarulhos (1), Jaboatão dos Guararapes (1), João Pessoa (2), Joinville (2), Macéio (2), Manaus (2), Natal (2), Passo Fundo (2), Pinhais (1), Ribeirão Preto (3), Salvador (1), Santa Maria (2), Santo Amaro (4), Santo André (2), São José dos Campos (2), São Luís (2), Teresina (2), Vitória (2), Rio de Janeiro (1)
+Sigla: PSCI_T
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Atualizar tecnologicamente e ampliar a capacidade produtiva do parque de máquinas de triagem automatizada nos Centros de Tratamento dos Correios
+Período Ou Data A Que Se Refere: Anualmente
+Data De Divulgação/Disponibilização: Final do 1º mês do ano subsequente, com as informações atualizadas até o ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSCI_T = Percentual de Sistemas de Triagem Automatizada Contratados e Instalados
+QSCI_T = Quantidade Total de Sistemas de Triagem Automatizada Contratados e Instalados
+QPCI_T = Quantidade Total Prevista de Sistemas de Triagem Automatizada para instalação
+Fonte De Dados Das Variáveis De Cálculo: QSCI_T: Enterprise Resource Plannimg (ERP - Correios)
+QPCI_T: Enterprise Resource Plannimg (ERP - Correios)
+Forma De Disponibilização: Dados serão divulgados por meio de ofício anual a ser encaminhado ao Ministério das Comunicações
+Procedimento De Cálculo: Razão entre as quantidades de sistemas de automação instalados e previstos
+Limitações: Não foram observadas limitações no cálculo
+Notas Explicativas: Metas estabelecidas por meio de deliberação do Ministério do Planejamento em função das obras de automação que compõem os empreendimentos do Novo PAC.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Indicador: 9116
+Denominação: Percentual de pessoas de 10 anos ou mais que são usuárias da Internet
+Índice De Referência: 84.7
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Descrição: Uma das formas de o Governo Federal avaliar a evolução de políticas públicas direcionadas ao aumento do acesso à internet por parte dos brasileiros é por meio da divulgação dos resultados da Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua, especificamente seu módulo temático sobre Tecnologia da Informação e Comunicação - TIC, realizada pelo IBGE. A pesquisa investiga, entre outros pontos, o acesso à Internet entre as pessoas de 10 anos ou mais de idade.
+
+O relatório com os principais achados da pesquisa pode ser acessado por meio do link: https://agenciadenoticias.ibge.gov.br/media/com_mediaibge/arquivos/f070dbf1d5a8e94ff1d37b7b516e0eb5.pdf
+
+Já a tabela com os resultados encontrados pela pesquisa podem ser acessada pela plataforma Sidra no link: https://sidra.ibge.gov.br/Tabela/6793.
+
+Importante ressaltar que os resultados apresentados em um determinado ano referem-se ao ano anterior. Por exemplo, os links acima mencionados, divulgados em 2024, referem-se ao ano de 2023. Por consequencia, os dados a serem preenchidos no SIOP referentes a 2024 só serão conhecidos no segundo semestre de 2025
+Período Ou Data A Que Se Refere: 31/12/2023
+Data De Divulgação/Disponibilização: 16/08/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Distribuição percentual das pessoas de 10 anos ou mais de idade que utilizaram a internet nos últimos 3 meses
+Fonte De Dados Das Variáveis De Cálculo: Fonte: https://sidra.ibge.gov.br/Tabela/6793
+Forma De Disponibilização: Por meio do acesso ao site https://sidra.ibge.gov.br/Tabela/6793, é possível montar a pesquisa desejada a partir dos parâmetros disponibilizados no site. No caso concreto do indicador em tela, os parâmetros selecionados para se chegar no percentual de pessoas de 10 anos ou mais de idade que utilizaram a internet foram:
+
+- Variável [1/4]: "Distribuição percentual das pessoas de 10 anos ou mais de idade (%): <1 de 1> casas decimais"
+
+- Sexo [1/3]: Total
+
+- Utilização da internet no período de referência dos últimos três meses [3/3]: "Total", "Utilizaram internet" e "Não utilizaram internet"
+
+- Ano [1/7]: 2023
+
+- Unidade Territorial [1/6]: Brasil [1/1]
+Procedimento De Cálculo: Conforme descrição no campo "Forma de Disponibilização do Indicador ou Dados" acima, como o site https://sidra.ibge.gov.br/Tabela/6793 já apresenta os resultados prontos, não há procedimento de cálculo envolvido.
+Limitações: As publicações da PNADC TIC de um ano referem-se sempre ao ano anterior, de forma que as informações a serem preenchidas no SIOP referentes a um determinado ano só serão conhecidas no ano seguinte.
+Notas Explicativas: A PNADC TIC publicada anualmente reflete as informações/indicadores do ano anterior ( por exemplo, a pesquisa mais recente, publicada em 16/08/24, refere-se às informações do ano de 2023). Por esse motivo, para fins de preenchimento no SIOP, as informações relativas a um ano específico só serão aqui preenchidas no ano seguinte.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 294
+Indicador: 10019
+Denominação: Percentual de posições necessárias de atendimento postal disponíveis à população brasileira
+Sigla: PPAD_T
+Índice De Referência: 97.01
+Em Apuração: Não
+Data De Apuração: 2023-04-10 00:00:00
+Unidade De Medida: percentual
+Descrição: Disponibilizar, por meio dos diversos canais disponíveis, todas as posições de atendimento previstas, conforme Portaria MCOM 2729/2021, de 2024 a 2027.
+Período Ou Data A Que Se Refere: Mensalmente
+Data De Divulgação/Disponibilização: 10º dia útil de cada mês, com as informações atualizadas até o mês anterior.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PPAD_T = Percentual de Posições de Atendimento Disponíveis do Total Previsto até o Mês
+QPAD_T = Quantidade Total de Posições de Atendimento Disponibilizadas
+QPAP_T = Quantidade Total de Posições de Atendimento Previstas até o Mês
+Fonte De Dados Das Variáveis De Cálculo: QPAD_T: Sistema de Automação da Rede de Atendimento (SARA) e Enterprise Resource Plannimg (ERP - Correios)
+QPAP_T: Portaria Ministerial MCOM 2729/2021
+Forma De Disponibilização: Dados divulgados por meio de Ofícios encaminhados mensalmente ao Ministério das Comunicações - MCOM e no site da MCOM:
+https://www.gov.br/mcom/pt-br/acesso-a-informacao/transparencia-e-prestacao-de-contas/dados-de-entidades-vinculadas/servicos-postais
+Procedimento De Cálculo: Somar a quantidade de posições de atendimento disponíveis obtidas por meio do Sistema de Automação da Rede de Atendimento (SARA) e a quantidade de Agências de Correios Comunitárias (AGC) por meio do ERP.
+O resultado do indicador será obtido pela razão entre o somatório acima e a quantidade prevista para o período, conforme Anexo I da Portaria MCOM 2729/2021.
+Limitações: Não foram observadas limitações no cálculo.
+Notas Explicativas: As metas estabelecidas por meio da Portaria MCOM 2729/2021 possuem validade até 2024, quando deve haver revisão e atualização, com novo período de vigência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2305
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 97
+Enunciado: Apoiar a pesquisa, o desenvolvimento e a inovação em telecomunicações.
+Descrição: Estimular o processo de inovação tecnológica, incentivar a capacitação de recursos humanos, fomentar a geração de empregos e promover o acesso de pequenas e médias empresas a recursos de capital, de modo a ampliar a competitividade da indústria brasileira de telecomunicações
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 105
+Enunciado: Promover a inclusão digital e a conectividade significativa
+Descrição: Garantir à população o acesso às redes de telecomunicações, sistemas e serviços baseados em tecnologias da informação e comunicação - TIC, observadas as desigualdades sociais e regionais, com vistas à conectividade significativa.
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 151
+Enunciado: Promover o desenvolvimento das habilidades digitais da sociedade.
+Descrição: Promover o desenvolvimento/aprimoramento das habilidades digitais da sociedade.
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 157
+Enunciado: Expandir a Digitalização da TV Aberta
+Descrição: Ampliar o número de canais e a diversidade de programação de televisão aberta digital ofertada à população, por meio da realização de novos procedimentos de outorga em todo o país e da implantação, em municípios com baixo número de canais ou baixo índice de digitalização, de infraestrutura de TV Digital para utilização por emissoras públicas e educativas, com possibilidade de compartilhamento da capacidade ociosa com emissoras privadas.
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 232
+Enunciado: Ampliar a segurança das comunicações de agentes do Estado pela exploração da Rede Privativa de Comunicação da Administração Pública Federal (RPCAPF), com criptografia de Estado.
+Descrição: Implantação de rede complementar à Rede Telebras, com segmentos de Rede Móvel e Fixa para atendimento à Administração Pública Federal, e a implementação de uma camada adicional de segurança a estas redes, por meio de criptografia de estado em hardware e software, garantindo o sigilo das comunicações estratégicas de estado.
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 294
+Enunciado: Promover o acesso universal ao atendimento dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+Descrição: Promover o acesso universal ao atendimento dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 295
+Enunciado: Promover o acesso universal à distribuição dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade.
+Descrição: Promover o acesso universal à distribuição dos serviços postais básicos, viabilizando o suprimento das necessidades da sociedade..
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 544
+Enunciado: Modernizar o Parque Logístico Nacional dos Correios
+Descrição: Modernização do Parque Logístico Nacional dos Correios - Atualizar tecnologia e ampliação da capacidade produtiva do parque de máquinas de triagem automatizada dos Centros de Tratamento dos Correios
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Objetivo Específico: 545
+Enunciado: Ampliar a capacidade de processamento dos objetos nacionais e internacionais, com instalação de novos Centros operacionais (Construções)
+Descrição: Ampliação e modernização da infraestrutura necessária para abrigar atividades operacionais, logísticas e administrativas dos Correios, por meio da construção de novos centros operacionais.
+Órgão: 41000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2305
+
+Exercício: 2025
+Programa: 2305
+Objetivo: 1251
+Enunciado: Assegurar serviços de comunicações e conectividade, pela oferta inclusiva dos meios de acesso, com o desenvolvimento das habilidades digitais, dando ênfase aos grupos vulnerabilizados
+Descrição: Assegurar serviços de comunicações e conectividade, pela oferta inclusiva dos meios de acesso, com o desenvolvimento das habilidades
+digitais, dando ênfase aos grupos vulnerabilizados
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2305
+
+Exercício: 2025
+Programa: 2305
+Título: Comunicações para Inclusão e Transformação
+Tipo: Finalístico
+Órgão: 41000.0
+Público-Alvo: População em localidades remotas; localidades com prestação inadequada ou inexistente; população em situação de vulnerabilidade; demais segmentos da população.
+Descrição Do Problema: Utilização deficiente dos serviços de comunicações.
+Causa Do Problema: Reduzido alcance do sinal de rádio e TV digital público;​
+
+Falta de pluralidade de emissoras;​
+
+Infraestrutura​
+
+para suprir a demanda de usos futuros da conectividade e do ecossistema digital, será necessária a construção de redes sustentáveis, modificando backbone, backhaul e os acessos finais da rede;​
+
+o desequilíbrio na atuação regulatória entre os agentes pode gerar desincentivo a investimentos no setor de telecomunicações;​
+
+os novos usos de conectividade, tal como os serviços de telemedicina, precisarão de grande velocidade de rede para a transmissão de imagens de alta definição e a comunicação de sistemas;​
+
+para atender às necessidades de competitividade futura do agronegócio, adotando uma agricultura de precisão, e para atender aos carros autônomos, sem problemas significativos de segurança, serão necessárias grandes coberturas geográficas, incluindo locais remotos, com condições de latência baixíssimas;​
+
+a falta de disponibilidade do serviço de acesso à Internet na área do domicílio representou 16,2% dos domicílios em que não havia utilização da Internet em área rural (PNAD TIC 2021);​
+
+Infraestrutura insuficiente: se a infraestrutura de comunicação não for suficientemente robusta ou abrangente, pode haver áreas onde a conexão é ruim ou inexistente.
+
+Falta de acesso à internet em banda larga em localidades remotas;​
+
+Localidades com prestação inadequada ou inexistente do(s) serviço(s) de comunicação; ​
+
+Dificuldade de acesso aos serviços de comunicações pela população em situação de vulnerabilidade social;​
+
+Interrupção e baixa qualidade dos serviços de comunicações;​
+
+Baixa oferta de recursos de capital para ampliar a qualidade, o acesso e a competitividade do setor de comunicações;​
+
+Em virtude da constante expansão horizontal dos municípios e do desenvolvimento econômico e social da população acarretando impactos na prestação de serviços postais em algumas localidades. ​
+
+Fragilidade da segurança das comunicações;
+
+Acessibilidade​
+
+eventuais divergências entre as normas que regem a oferta de conteúdos por radiodifusão, TV por assinatura e streaming;​
+
+possíveis falhas envolvendo direitos e garantias, inovação, competição e ainda os direitos dos consumidores no ecossistema digital;​
+
+potencial acirramento nas desigualdades sociais e regionais no que se refere ao acesso e ao uso das novas tecnologias digitais;​
+
+em 2021, 7,3 milhões de domicílios do País em que não havia utilização da Internet, os três motivos que mais se destacaram representavam, em conjunto, 85,2%. Esses três motivos foram: falta de interesse em acessar a Internet (29,3%), serviço de acesso à Internet era caro (28,8%) e nenhum morador sabia usar a Internet (27,1%) (PNAD TIC 2021); e​
+
+falta de acesso: se as pessoas não têm acesso aos serviços, seja por falta de infraestrutura ou por outros fatores, isso pode levar a uma utilização deficiente desses serviços.
+
+Dispositivo adequado​
+
+38,3% dos estudantes da rede pública acessavam a Internet pelo computador em 2021 (PNAD TIC 2021);​
+
+no contingente que não tinha telefone móvel celular para uso pessoal, 28,1% alegaram que o aparelho telefônico era caro; 23,5% que não sabiam usar telefone móvel celular; 19,2% por falta de interesse em ter telefone móvel celular (PNAD TIC 2021);​
+
+Habilidades digitais​
+
+em 2021, 69,9% dos que não acessavam à internet alegaram não saber usa-la ou falta de interesse (PNAD TIC 2021);​
+
+falta de conhecimento e dificuldade de acesso aos serviços públicos digitais por parte da população;​
+
+falta de habilidades de comunicação: algumas pessoas podem não ter as habilidades necessárias para usar efetivamente os serviços digitais disponíveis, o que pode levar a uma utilização deficiente dos serviços.​
+
+Segurança e confiança​
+
+aumento da desconfiança dos usuários acerca dos serviços de telecomunicações e ferramentas deles derivadas;​
+
+problemas de segurança: se as pessoas não se sentem seguras ao usar serviços de comunicação, isso pode levar a uma utilização deficiente desses serviços.
+Evidências Do Problema: A falta de disponibilidade do serviço de acesso à Internet na área do domicílio representou 16,2% dos domicílios em que não havia utilização da Internet em área rural (PNAD TIC 2021);
+
+Em 2021, 7,3 milhões de domicílios do País em que não havia utilização da Internet, os três motivos que mais se destacaram representavam, em conjunto, 85,2%. Esses três motivos foram: falta de interesse em acessar a Internet (29,3%), serviço de acesso à Internet era caro (28,8%) e nenhum morador sabia usar a Internet (27,1%) (PNAD TIC 2021);
+
+38,3% dos estudantes da rede pública acessavam a Internet pelo computador em 2021 (PNAD TIC 2021);​
+
+No contingente que não tinha telefone móvel celular para uso pessoal, 28,1% alegaram que o aparelho telefônico era caro; 23,5% que não sabiam usar telefone móvel celular; 19,2% por falta de interesse em ter telefone móvel celular (PNAD TIC 2021);
+
+Em 2021, 69,9% dos que não acessavam à internet alegaram não saber usa-la ou falta de interesse (PNAD TIC 2021);
+
+Obs: dados compilados pela Anatel.
+Justificativa Para A Intervenção: A Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD, realizada em 2021 pelo IBGE, levantou dados importantes sobre o acesso à Internet e à televisão nos domicílios particulares permanentes e o acesso à Internet e a posse de telefone celular para as pessoas com 10 anos ou mais.
+Os números da PNAD TIC 2021 revelam baixos índices de acesso e utilização dos serviços de comunições no país.
+A prestação dos serviços de comunicações é um desafio de implantação de infraestrutura principalmente no que diz respeito a universalização dos serviços em regiões remotas diante de um país de grandezas continentais e de alta concentração populacional.
+Embora a prestação dos serviços sejam de ordem privada, são de interesse público e constitucionalmente são de responsabilidade do Estado, devendo este agir com vistas a universalização dos serviços e também visando à qualidade.
+Evolução Histórica: Em 2015, a parcela da população coberta com rede de transporte (backhaul) óptica era de 81,33%. Em 2017 o indicador alcançou 88,1% da população,
+porém em 2018 o indicador pouco evoluiu atingindo 89%.
+Em abril de 2015, a velocidade média da banda larga fixa era de 11 Mbps. Em setembro de 2018 a velocidade alcançou 25,88 Mbps, o que representou um
+aumento de 135% em relação à linha de base.
+Em dezembro de 2015, a proporção de acessos da banda larga móvel (3G/4G) era de 70,01% dos acessos móveis pessoais em operação. Em 2018 o
+indicador avançou quatro pontos percentuais em relação ao fechamento do ano de 2017.
+Em maio de 2015, o serviço de banda larga móvel estava disponível em 71,02% dos municípios brasileiros. Em outubro de 2018, o indicador alcançou
+95,5% e, tendo em vista as obrigações de cobertura móvel com tecnologia 3G, exigidas pela Anatel, a meta deve ser totalmente cumprida ao final de 2019
+Comparações Internacionais: Estudo realizado pela Akamai, empresa de internet americana, apurou para o primeiro quadrimestre de 2017, a média mundial de velocidade em 7,2 Mbps
+e de 6,8 Mbps para o Brasil, para os acessos fixos, enquanto que para o acesso móvel a média brasileira foi de 5,2 Mbps.
+A densidade de banda larga fixa no Brasil encontra-se acima da média mundial (14,5%), mas ainda está distante de países desenvolvidos (31%). E, ao se
+comparar a densidade SMP nacional e internacional, e verifica-se que o Brasil tem desempenho de densidade do SMP acompanhando a média mundial.
+Agentes Envolvidos: SETEL, SECOE, TELEBRAS, ANATEL, ECT, SOF/ME, BNDES, PR.
+Articulação Federativa: Estados, DF e Municípios.
+Enfoque Transversal: Iniciativas de apoio as demais Politicas Setoriais.
+Marco Legal: Art. 21, inc. X, da Constituição Federal de 1988.
+Lei nº 6.538, de 22 de junho de 1978
+Lei nº 9.472, de 16 de julho de 1997
+Lei nº 9.998, de 17 de agosto de 2000
+Lei nº 10.052, de 28 de novembro de 2000
+Decreto nº 9.612, de 17 de dezembro de 2018
+Decreto nº 10.610, de 27 de janeiro de 2021
+Decreto nº 10.800, de 17 de setembro de 2021
+Portaria MC nº 4.420, de 22 de setembro de 2015
+Portaria MC nº 1.455, de 8 de abril de 2016
+Portaria MC nº 2.115, de 11 de maio de 2016
+Portaria MCTIC nº 1.556, de 21 de março de 2018
+Decreto 7.769, de 28 de junho de 2012
+Decreto 9.637, de 26 de dezembro de 2018
+Planos Nacionais, Setoriais E Regionais: •	Plano Estrutural de Redes de Telecomunicações – PERT
+•	Brasil 2035 cenários para o desenvolvimento
+•	Estratégia Brasileira para a Transformação Digital (E-Digital)
+•	Plano de Banda Larga nas Escolas – PBLE
+•	Programa Amazônia Integrada Sustentável
+•	Cinturão Digital do Ceará – CDC
+•	Rede Nacional de Ensino e Pesquisa – RNP
+•	“Minas Comunica”, do Estado de Minas Gerais
+•	“Alô Sertão”, do Estado do Ceará
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

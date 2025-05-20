@@ -1,0 +1,1318 @@
+passage: Programa Número 3102
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 768
+Indicador: 9716
+Denominação: Área levantada por aerogeofísica (Km2)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: km²
+Descrição: Levantamentos aerogeofísicos pelos métodos magnético, radiométrico, eletromagnético e gravimétrico, a serem realizados em áreas de maior potencial para novas descobertas minerais e/ou em áreas de conhecimento geológico imaturo. Seu histórico é vinculado a Ação 4872 - Levantamentos Aerogeofísicos que foi agrupada por diretrizes orçamentárias à Ação 213Y como plano Orçamentário de Levantamentos Geológicos. Tem por base legal: CF/88, arts. 20, inciso IX, e 21, incisos XV e XIX; Decreto-lei nº 764, de 15 de agosto de 1969; Lei nº 8.970, de 28 de dezembro de 1994; e Decreto nº 1.524, 20-06-1995. Prevê a retomada de levantamentos aerogeofísicos, cuja relevância está amparada nos objetivos principais:
+1) Dados aerogeofísicos despertam interesse para novas áreas, sendo decisivos para fomentar investimentos do setor mineral;
+ 2) Subsidiam os estudos que visam o entendimento dos condicionantes geológicos dos depósitos minerais, e portanto, a definição de áreas de mais
+elevado potencial para pesquisa mineral;
+3) Promovem o avanço do conhecimento geológico do território brasileiro, uma vez que a integração geológico-geofísica é fundamental para cartografia
+geológica; 4) Subsidiam a pesquisa hidrogeológica, especialmente na região semiárido brasileiro, além de projetos relacionados à área de risco geológico.
+Os aerolevantamentos serão realizados em áreas de escudo cristalino e bacias sedimentares, utilizando diferentes métodos de aquisição
+(magnetométrico, radiométrico, gravimétrico, eletromagnético), a serem definidos em função do interesse geológico específico da área a ser levantada.
+Período Ou Data A Que Se Refere: semestre corrente
+Data De Divulgação/Disponibilização: semestralmente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: KM– Soma da área em Km2
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e  https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Área total levantada considerando as linhas de voo (total em Km2)
+Limitações: Os dados aerogeofísicos necessitam do cruzamento de outros dados geológicos para indicação do potencial mineral e fomento de desenvolvimento econômico
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 751
+Indicador: 9688
+Denominação: Área mapeada (Km2)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: km²
+Descrição: Atende ao Plano Nacional de Mineração no quesito avanço do conhecimento geológico do território brasileiro. Estão vinculados projetos que têm entre seus objetivos principais a realização de cartografia geológica sistemática (avançar com a mesma em todo o território Brasileiro) em escalas de Trabalho >=1:250K, preferencialmente em 1:100K, nos seguintes contextos: 1) Províncias minerais com conhecimento geológico incompatível com a importância econômica; 2) Áreas com elevado potencial para descoberta de novos depósitos minerais; 3) Novas fronteiras do conhecimento geológico. Os projetos serão realizados em áreas de escudo cristalino e bacias sedimentares. A cartografia geológica será realizada segundo os procedimentos metodológicos do Serviço Geológico do Brasil, onde é prevista a integração de informações obtidas em diversas fontes (ex. da interpretação de dados geofísicos e de imagens de sensoriamento remoto, de levantamentos geológicos e geoquímicos de campo, de análises laboratoriais, etc), somadas com informações oriundas de trabalhos prévios, com objetivo de disponibilizar produtos que representem o estado da arte do conhecimento geológico. Prevê a realização de levantamentos geológicos sistemáticos com metas específicas para território amazônico e não amazônico, e também com demandas dos diversos setores beneficiados (setor produtivo, academia, gestores públicos, etc).
+Período Ou Data A Que Se Refere: Ano corrente
+Data De Divulgação/Disponibilização: Mapas disponibilizados em 30/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: KM– Soma da área mapeada em Km2
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   e https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Área total mapeada em Km2 seguindo a quadrícula cartográfica da escala de trabalho
+Limitações: Mapeamento geológico básico para o desenvolvimento econômico e novas descobertas minerais, pela escala de trabalho há uma lacuna de informação em Km2 de acordo com a escala referencial, no caso de 1:100K é de 1 Km2.
+Notas Explicativas: Para cada área mapeada (quadricula) serão entregues quatro produtos que são mapa, base de dados, SIG e nota explicativa.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 46
+Entrega: 940
+Indicador: 9928
+Denominação: Áreas disponibilizadas com potencial para transição energética
+Índice De Referência: 241.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador do número de áreas disponibilizadas com potencial para extração de minerais para transição energética demonstra a quantidade de áreas em rodadas da Nova Disponibilidade que contenham uma das substâncias Lítio, Cobalto, Cobre, Níquel, Quartzo ou Terras raras.
+Período Ou Data A Que Se Refere: ano corrente
+Data De Divulgação/Disponibilização: semestral
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de áreas com potencial para extração de minerais para transição energética
+Substâncias minerais consideradas: Lítio, Cobalto, Cobre, Níquel, Quartzo e Terras raras;
+Fonte De Dados Das Variáveis De Cálculo: Resultados da Rodada no Portal SOPLE (Sistema de Oferta Publica e Leilão de Áreas de Disponibilidade) sople.anm.gov.br
+Forma De Disponibilização: Portal SOPLE (Sistema de Oferta Publica e Leilão de Áreas de Disponibilidade) sople.anm.gov.br
+Procedimento De Cálculo: Passo 1: Acessar o Portal SOPLE  sople.anm.gov.br
+Passo 2: Acessar os Resultados das Rodadas do ano em referência; 
+Passo 3: Exportar a planilha com as áreas da Rodada; 
+Passo 4: Somar o total de áreas em disponibilidade no período que contenha potencial de extração de uma ou mais das substâncias Minerais para transição energética.
+Limitações: A lista de substâncias adotada para o cálculo do indicador foi exaustiva, sendo as substâncias consideradas: Lítio, Cobalto, Cobre, Níquel,  Quartzo ou Terras raras.
+Notas Explicativas: O índice de referência representa uma pesquisa no Cadastro Mineiro com o total de áreas (processos minerários) na Fase “Apto para a Disponibilidade” com uma das seguintes substâncias utilizadas para transição energética. 
+
+áreas = números de processos minerários em rodadas. 
+
+O indicador é calculado com base nos processos já depurados e com a análise de aptidão realizada. Está em análise um quantitativo de processos ainda indeterminado, com potencial para irem para a disponibilidade que poderiam se enquadrar neste indicador, alterando o índice de referência.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 746
+Indicador: 9673
+Denominação: Áreas reavaliadas e valoradas
+Em Apuração: Sim
+Unidade De Medida: Área reavaliada e valorada
+Descrição: Reavaliação e valoração, para licitação e pesquisa complementar pós-leilão, das áreas de titularidade da CPRM, com o objetivo de estimular a produção mineral brasileira. O Patrimônio Mineral da CPRM consiste nos direitos minerários da empresa que requerem uma atualização e organização das informações com vistas à valoração, licitação e posterior gestão dos ativos. Serão criadas ou otimizadas bases de dados e efetuada a modelagem geométrica e a avaliação econômica destes depósitos, com posterior avaliação socioambiental.
+Período Ou Data A Que Se Refere: Ano corrente
+Data De Divulgação/Disponibilização: Até 30 de dezembro do ano corrente.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: RV– Áreas reavaliadas+valoradas
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Número de áreas reavaliadas+valoradas pactuadas na Meta (PO0001 – Gestão de Ativos Minerais da Ação 2399 – Avaliação de Recursos Minerais do Brasil)
+Limitações: O indicador disponibilizado não garante a licitação da área reavaliada
+Notas Explicativas: As áreas reavaliadas serão disponibilizadas a partir da entrega de relatórios e informes minerais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 40
+Entrega: 2011
+Indicador: 11338
+Denominação: Estudo de melhores práticas na cobertura internacionais no uso de garantias financeiras para a cobertura de riscos ambientais associados à mineração realizado
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: % de execução física
+Descrição: Realização de estudo de melhores práticas na cobertura internacionais no uso de garantias financeiras para a cobertura de riscos ambientais associados à mineração
+Período Ou Data A Que Se Refere: ano corrente
+Data De Divulgação/Disponibilização: 31 de dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = somatório de An
+A = número de estudos concluídos
+n= número de estudos previstos
+Procedimento De Cálculo: % de execução das atividades do estudo
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 44
+Entrega: 622
+Indicador: 9564
+Denominação: Estudos para o adequado fechamento de minas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: unidade
+Descrição: A entrega compreende a realização de um conjunto de estudos, a saber:
+•	Estudo de Seguro ambiental
+•	Estudo de Condicionantes de outorga
+•	Revisão dos marcos normativos relacionados a questão dos passivos da mineração
+Período Ou Data A Que Se Refere: Exercício corrente
+Data De Divulgação/Disponibilização: 31 de dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Procedimento De Cálculo: Monitoramento do cronograma de execução dos estudos e somatório do número de estudos concluídos na data de apuração.
+Notas Explicativas: A entrega compreende a realização de um conjunto de estudos, a saber:
+•	Estudo de Seguro ambiental
+•	Estudo de Condicionantes de outorga
+•	Revisão dos marcos normativos relacionados a questão dos passivos da mineração
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 51
+Entrega: 1003
+Indicador: 11343
+Denominação: Índice de adimplência da CFEM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A Compensação Financeira pela Exploração de Recursos Minerais (CFEM), também conhecida como "royalty" da mineração, deve ser o principal instrumento para o alcance da melhoria das condições socioeconômicas dos municípios mineradores e afetados. Para isso são necessárias medidas que assegurem que a arrecadação seja condizente com o aproveitamento realizado pelas empresas. Visando medir os índices de adimplência da CFEM, a ANM desenvolveu um indicador.
+Período Ou Data A Que Se Refere: ano seguinte ao corrente
+Data De Divulgação/Disponibilização: 1º de março do ano subsequente ao atual
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PRCFEM - Quantidade de processos com recolhimento de CFEM no mês;
+PRAPAL - Quantidade de processos ativos passíveis de lavra vigentes no mês.
+
+Os processos passíveis de lavra são os que estiverem na fase de licenciamento somados com os de concessão de lavra, mais os de permissão de lavra garimpeira.
+Fonte De Dados Das Variáveis De Cálculo: PRCFEM: Relatório de Arrecadação de CFEM Detalhado (https://sistemas.anm.gov.br/ARRECADACAO/INTRA/cfem/relatorios/arrecadacaoDetalhadaCompleta.aspx), ou o sistema que vier a substituí-lo.
+PRAPAL: Cadastro Mineiro (https://sistemas.anm.gov.br/SCM/Intra/site/admin/pesquisarProcessos.aspx) com o filtro na “Fase do Processo”.
+Forma De Disponibilização: Na página da ANM na internet (https://www.gov.br/anm/pt-br)
+Procedimento De Cálculo: Para obter o PRCFEM entre no sistema de Arrecadação e percorra o seguinte caminho:
+> Sistema de Arrecadação. > Arrecadação +. > CFEM. > Relatórios. > Arrecadação Detalhada Completa.
+Coloque o período de apuração e clique em Gerar Planilha.
+Faça os filtros ou uma tabela dinâmica para tirar os processos duplicados e obter a quantidade de processos que recolheram CFEM no mês que será o numerador;
+Para obter o PRAPAL entre no Cadastro Mineiro e percorra o seguinte caminho:
+> Aba “Consulta”. > Pesquisar Processos > Fase do Processo = Licenciamento. > Clique em pesquisar.
+No resultado da pesquisa veja o “Total de processos encontrados”.
+Repita o procedimento acima para as Fases de Lavra Garimpeira e Concessão de Lavra.
+Some as três quantidades e terá o denominador da fórmula.
+Divida o numerador pelo denominador, multiplique por 100 para obter a porcentagem da adimplência.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 51
+Entrega: 1005
+Indicador: 11344
+Denominação: Índice de transparência na aplicação da CFEM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-18 00:00:00
+Unidade De Medida: %
+Descrição: Mede a taxa de municípios mineradores que adotam medidas para dar transparência à aplicação dos recursos recebidos a título de Compensação Financeira pela Exploração de Recursos Minerais – CFEM
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: 1º de março do exercício subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NECPORT – Número de entes constantes no Portal da Transparência;
+NERCFEM – Número entes que totalizam o recebimento de 90% da CFEM
+Fonte De Dados Das Variáveis De Cálculo: NECPORT – Portal da Transparência na aplicação da CFEM, página da ANM na Internet - A ser criado;
+NERCFEM – Relatório de Arrecadação por UF (https://sistemas.anm.gov.br/ARRECADACAO/INTRA/Cfem/Relatorios/arrecadacaoNovo.aspx), ou o sistema que vier a substituí-lo.
+Forma De Disponibilização: Na página da ANM na internet (https://www.gov.br/anm/pt-br). Não existe o portal para divulgação dos dados, mas espera-se que seja criado no decorrer de 2024.
+Procedimento De Cálculo: Para obter o NECPORT verificar no Portal da Transparência na aplicação da CFEM (a ser criado) a quantidade de entes que informaram os dados mínimos exigidos no formulário padrão.
+
+Para obter o NERCFEM entre no sistema de Arrecadação e percorra o seguinte caminho:
+> Sistema de Arrecadação. > Arrecadação +. > CFEM. > Relatórios. > Maiores Arrecadadores.
+Coloque o período de apuração e clique em Gerar.
+Copie os dados para o EXCEL e através de tabela dinâmica ou fórmulas obtenha quantos entes são responsáveis por 90% do recolhimento da CFEM.
+
+Divida o número de entes constantes do Portal da Transparência pelos responsáveis por 90% da CFEM e multiplique por 100 para obter a porcentagem de transparência de aplicação da CFEM.
+Limitações: Falta de estrutura da ANM para desenvolver o Portal da Transparência da CFEM;
+Falta de adesão dos municípios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 763
+Indicador: 9704
+Denominação: Levantamento Geoquímico Realizado (Km2)
+Índice De Referência: 115000.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: km²
+Descrição: Realização de levantamento geoquímico prospectivos através da coleta de amostras em sedimentos de corrente, concentrados de minerais pesados, solos e águas de drenagem, objetivando definir indicadores de áreas potencialmente favoráveis a concentrações minerais. Execução de trabalhos de campo para coleta de amostras de sedimento de fundo de rios e lagos, concentrados de minerais pesados (água, solo), análises de 70 elementos químicos mais e medidas no local do pH, temperatura, oxigênio dissolvido, condutividade, bem como a interpretação dos resultados analíticos. Com o objetivo de gerar informações da constituição química do substrato rochoso, da cobertura de solos e das águas superficiais e subterrâneas, visando subsidiar os levantamentos geológicos, estudos de avaliação de recursos minerais, argilominerais e hidro químicos.
+Período Ou Data A Que Se Refere: Exercício corrente
+Data De Divulgação/Disponibilização: Áreas Levantadas até 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: KM– Soma da área em Km2
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Área total levantada em Km2 seguindo a quadrícula cartográfica da escala de trabalho
+Limitações: Há uma lacuna de informação de Km2 de acordo com a escala referencial, no caso de 1:100K é de 1 Km2.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 51
+Entrega: 1006
+Indicador: 11345
+Denominação: Municípios beneficiados pelo aprimoramento da fiscalização, gestão e aplicação dos recursos da CFEM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-18 00:00:00
+Unidade De Medida: unidade
+Descrição: Municípios beneficiados pela realização de parcerias, com o apoio do Governo Federal, voltadas a melhoria da fiscalização e  gestão dos recursos recebidos a título de Compensação Financeira pela Exploração dos Recursos Minerais - CFEM, com o objetivo de assegurar o retorno das riquezas para as populações locais na forma desenvolvimento socioeconômico local, com efeito na educação, saúde, segurança, qualidade do meio ambiente, diversificação econômica, etc.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: março do ano seguinte ao ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = total de municípios beneficiados com parcerias
+n = municípios
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Geologia, Mineração e Transformação Mineração e Agência Nacional de Mineração.
+Forma De Disponibilização: Boletins da SNGM e relatórios de gestão disponibilizados no site www.mme.gov.br, bem como informações ANM.
+Procedimento De Cálculo: Aferição do número de municípios beneficiados por parcerias firmadas na data de apuração.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 1104
+Indicador: 10113
+Denominação: Número de análises de recursos minerais e hídricos realizadas
+Índice De Referência: 759584.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Descrição: Execução de análises minerais em apoio aos projetos finalísticos do SGB/CPRM e clientes externos. A regra estabelecida pela Agência Nacional de Mineração - ANM estabelece que o Laboratório de Análises Minerais - LAMIN é o laboratório oficial para realização dos estudos in loco e análises laboratoriais para classificação, autorização e fiscalização de lavra de fontes hidrominerais no Brasil.
+A capacidade laboratorial está organizada na Rede LAMIN, composta por quatro Laboratórios Analíticos no Rio de Janeiro, São Paulo, Manaus e Caeté (MG), dois Laboratórios de Hidroquímica, em Porto Alegre e Recife, e doze Laboratórios de Preparação de Amostras distribuídos nas diversas unidades do SGB/CPRM, em todas as regiões do país.
+Período Ou Data A Que Se Refere: ano corrente
+Data De Divulgação/Disponibilização: 31 de dezembro do ano corrente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AR– Análises realizadas 
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna organizada no GLPI (Gestão Livre de Parque de Informática), que é um sistema de código aberto que facilita a gestão de ativos de TI, suporte técnico e central de serviços.
+Forma De Disponibilização: Envio de laudos via Sistema Eletrônico de Informação –SEI e entrega de amostras preparadas registradas em fichas de requisição de análises (documentos internos).
+Procedimento De Cálculo: Soma do Número de Análises realizadas Pactuadas na Meta da Ação 2B53 – Avaliação de Recursos Minerais do Brasil)
+Limitações: Trata-se de apuração a partir de base de dados sujeita a inconsistências resultantes da alimentação de informações.
+Notas Explicativas: As análises são realizadas em atendimento a demandas apresentadas por terceiros, seja projetos do SGB-CPRM como de detentores de processos de requerimento de pesquisa e de lavra de água mineral (renovação de outorga de lavra)..
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 3270
+Indicador: 12553
+Denominação: Número de áreas avaliadas
+Índice De Referência: 7.0
+Em Apuração: Não
+Data De Apuração: 2023-12-30 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: Identificação de áreas favoráveis e seleção de eventuais alvos para prospecção mineral, visando estimular a pesquisa e a produção de minerais industriais no país. Os projetos visam a avaliação de áreas potenciais de materiais necessários a construção civil, saneamento básico e indústria. São eles: calcários, titânio, argilas especiais, areia para construção civil e indústria, caulim, gesso, rochas ornamentais, gemas dentre outros. Base Legal: Lei 14026/2020.
+Período Ou Data A Que Se Refere: ano corrente
+Data De Divulgação/Disponibilização: os produtos que inserem as áreas avaliadas são disponibilizados até o dia 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PMI– Áreas Avaliadas 
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Soma do Número de áreas Avaliadas para minerais e rochas pactuadas na Meta (PO0004 da Ação 2399 – Avaliação de Recursos Minerais do Brasil)
+Notas Explicativas: As áreas avaliadas serão disponibilizadas a partir da entrega de produtos como mapas de favorabilidade, informes minerais, artigos, mapas de recursos minerais, atlas, notas explicativas, relatórios de áreas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 738
+Indicador: 9665
+Denominação: Número de áreas avaliadas avaliados quanto ao seu potencial mineral
+Índice De Referência: 37.0
+Em Apuração: Não
+Data De Apuração: 2023-12-30 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: Identificação de áreas favoráveis e seleção de eventuais alvos para prospecção mineral, visando estimular a pesquisa e a produção mineral brasileira, tendo em vista que, embora sejam responsáveis pela maior parte do valor da produção mineral brasileira, muitas das Províncias Minerais Brasileiras ainda não possuem nível de conhecimento homogêneo em toda sua extensão. Os levantamentos e estudos sistemáticos tem como meta permitir a definição de blocos futuros para prospecção. Além disso, pretende-se definir a mesma abordagem nas áreas potenciais, fora do âmbito das Províncias Minerais conhecidas, buscando expandir as fronteiras exploratórias brasileiras. As atividades têm por objetivo integrar as informações de geologia, geofísica, geoquímica, controles estruturais, tectônicos e ocorrências minerais, dentro do conceito de Sistemas Minerais e Footprints Regionais, com a finalidade de produzir mapas de recursos minerais e de favorabilidade e informes de recursos minerais e potencial mineral. Essa entrega no PPA (2020-2023) constou no PO0002 da Ação 2399 – Avaliação de Recursos Minerais do Brasil: com 11(2020), 10 (2021), 5(2022), 11(2023) estudos entregues.
+Período Ou Data A Que Se Refere: Exercício corrente
+Data De Divulgação/Disponibilização: os produtos que inserem as áreas avaliadas são disponibilizados até o dia 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PM– Áreas Avaliadas 
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.cprm.gov.br/)Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.cprm.gov.br/)
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.cprm.gov.br/)
+Procedimento De Cálculo: Soma do Número de áreas Avaliadas Pactuadas na Meta
+Limitações: O indicador é base para exploração e descoberta de novas minas, marca o início do ciclo de mineração.
+Notas Explicativas: As áreas avaliadas serão disponibilizadas a partir da entrega de produtos como mapas de favorabilidade, informes minerais, artigos, mapas de recursos minerais, notas explicativas, relatórios de áreas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 705
+Indicador: 9628
+Denominação: Número de áreas com potencial geoeconômico avaliadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: Detalhar e avaliar áreas com potencial com vistas a aumentar a atratividade e a competitividade do setor mineral brasileiro, auxiliando no desenvolvimento de metodologias para definição dos minerais críticos e estratégicos do país, entre outras políticas públicas relacionadas. Ainda relacionado está o modelamento e o desenvolvimento de plataforma integrada de dados minerais.
+Período Ou Data A Que Se Refere: ano corrente
+Data De Divulgação/Disponibilização: 30/12 do ano corrente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IM– Áreas Avaliadas 
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.cprm.gov.br/)
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.cprm.gov.br/)
+Procedimento De Cálculo: Número de áreas Avaliadas Pactuadas na Meta (PO0006 Inteligência Mineral da Ação 2399 – Avaliação de Recursos Minerais do Brasil)
+Limitações: É uma base de dados a ser utilizada em estudos de Economia Mineral.
+Notas Explicativas: As áreas avaliadas serão disponibilizadas a partir da entrega de produtos como informes minerais
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 49
+Entrega: 963
+Indicador: 9955
+Denominação: Número de áreas com potencial prospectivo e favorabilidade para agrominerais e remineralizadores avaliadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: O Brasil é um dos grandes produtores agrícolas mundiais, porém é fortemente dependente da importação de insumos minerais agrícolas. Visando reduzir esta vulnerabilidade, serão realizados projetos temáticos para identificação de áreas favoráveis à prospecção destes minerais, principalmente fosfato e potássio. Além disso, serão investigados potenciais materiais remineralizadores de solos, a partir da identificação das unidades agrogeológicas mapeadas mais favoráveis ou de rejeitos da mineração (uso do pó de rocha/rochagem). As entregas deste PO contribuirão para o alcance do objetivo específico: "Ampliar o suprimento de Minerais Insumos Fertilizantes com foco na Segurança Alimentar. Atende aos itens I a V do Art. 4ª do Estatuto Social do SGB e do seu objetivo estratégico de gerar conhecimento geocientífico e colaborar para o desenvolvimento das atividades do setor mineral e gestão pública; compõe ação fundamental do Plano Nacional de Fertilizantes. Faz parte das ações do Plano Nacional de Mineração - PNM 2030 . Os minerais de K (potássio) e P (fósforo) fazem parte daqueles definidos no Decreto de Minerais Estratégicos Nº 10.657, de 24 de março de 2021 e também são considerados conceitualmente como minerais críticos para o Brasil.
+Período Ou Data A Que Se Refere: Ano em curso
+Data De Divulgação/Disponibilização: os produtos que inserem as áreas avaliadas são disponibilizados até o dia 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: APK– Areas Avaliadas P (fósforo) e K (potássio)
+AREMpd – Áreas com favorabilidade para remineralizadores
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br
+Procedimento De Cálculo: Soma do Número de áreas Avaliadas Pactuadas na Meta
+Limitações: O indicador é base para exploração e descoberta de novas minas, marca o início do ciclo de mineração.
+Notas Explicativas: As áreas avaliadas serão disponibilizadas a partir da entrega de produtos como mapas de favorabilidade, informes minerais, artigos, mapas de recursos minerais, notas explicativas, relatórios de áreas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 46
+Entrega: 793
+Indicador: 9737
+Denominação: Número de áreas com potencial prospectivo para minerais estratégicos para a transição energética avaliadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: Indicador de refere a quantidade de área avaliada. Detalha e avalia áreas com potencial prospectivo (favorabilidade de exploração) para commodities consideradas críticas e estratégicas para a transição energética e a economia de baixo carbono. Envolve a pesquisa de áreas favoráveis à exploração de minerais componentes necessários à transição energética visando a produção de energia limpa, tais como os minerais de cobre, lítio, cobalto, ETR, grafita, vanádio, níquel, com forte dependência da indústria tecnológica e dos novos conceitos de mobilidade e energia (críticos).
+Período Ou Data A Que Se Refere: Ano corrente
+Data De Divulgação/Disponibilização: os produtos que inserem as áreas avaliadas são disponibilizados até o dia 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Av– Areas Avaliadas
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e hhttps://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Soma do Número de áreas Avaliadas Pactuadas na Meta (PO0007 da Ação - Pesquisa Mineral - Novo PAC)
+Limitações: O indicador é base para exploração e descoberta de novas minas, marca o início do ciclo de mineração.
+Notas Explicativas: As áreas avaliadas serão disponibilizadas a partir da entrega de produtos como mapas de favorabilidade, informes minerais, artigos, mapas de recursos minerais, notas explicativas, relatórios de áreas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 46
+Entrega: 936
+Indicador: 9922
+Denominação: Número de áreas com potencial prospectivo para minerais nucleares avaliadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: Estudo, detalhamento e avaliação de áreas com potencial prospectivo para minerais nucleares voltados para apoiar a política energética nacional com foco nas energias limpas. Os projetos desenvolverão pesquisa de áreas com potencialidade de reservas de minerais de U e Th. Está de acordo com os aos itens I a V do Art. 4ª do Estatuto Social do SGB e do seu objetivo estratégico de gerar conhecimento geocientífico e colaborar para o desenvolvimento das atividades do setor mineral e gestão pública. Compõe ação fundamental do Plano Nacional da Mineração . Faz parte daqueles minerais abordados com estratégicos para o Brasil- Decreto Nº 10.657, de 24 de março de 2021
+Período Ou Data A Que Se Refere: Ano corrente
+Data De Divulgação/Disponibilização: os produtos que inserem as áreas avaliadas são disponibilizados até o dia 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Av– Areas Avaliadas
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Número de áreas Avaliadas Pactuadas na Meta (PO000E da Ação 21HD – Geologia para Mineração e Desenvolvimento Sustentável).
+Limitações: O indicador é base para exploração e descoberta de novas minas, marca o início do ciclo de mineração.
+Notas Explicativas: As áreas avaliadas serão disponibilizadas a partir da entrega de produtos como mapas de favorabilidade, informes minerais, artigos, mapas de recursos minerais, notas explicativas, relatórios de áreas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 49
+Entrega: 974
+Indicador: 9971
+Denominação: Número de áreas disponibilizadas com potencial de extração de minerais com uso para segurança alimentar
+Índice De Referência: 221.0
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador demonstra a quantidade de áreas disponibilizadas em rodadas da Nova Disponibilidade com potencial para pesquisa e/ou para produção de insumos minerais para uso em segurança alimentar, tais como fertilizantes. Substâncias consideradas: Fosfato; Nitrato de potássio; Nitrato de sódio; Magnésio; Enxofre
+Período Ou Data A Que Se Refere: ano corrente
+Data De Divulgação/Disponibilização: até 31/01 do ano seguinte ao corrente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de áreas em edital de disponibilidade com potencial para pesquisa e/ou extração de substâncias com uso em segurança alimentar 
+_ Substâncias com uso para segurança alimentar consideradas: 
+- Fosfato; 
+- Nitrato de potássio; 
+- Nitrato de sódio; 
+- Magnésio; 
+- Enxofre.
+Fonte De Dados Das Variáveis De Cálculo: Áreas da Rodada no Portal SOPLE (Sistema de Oferta Publica e Leilão de Áreas de Disponibilidade) - sople.anm.gov.br
+Forma De Disponibilização: Portal SOPLE (Sistema de Oferta Publica e Leilão de Áreas de Disponibilidade) - sople.anm.gov.br
+Procedimento De Cálculo: Passo 1: Acessar o Portal SOPLE  sople.anm.gov.br
+Passo 2: Acessar os Resultados das Rodadas no período em referência; 
+Passo 3: Exportar a planilha com as áreas das Rodadas do período; 
+Passo 4: Somar o total de áreas disponíveis em todas as rodadas do semestre.
+Limitações: O número de processos aptos para a disponibilidade que contenham uma das substâncias com potencial para segurança alimentar é baixo. Porém, existem muitos processos que podem estar em cenários que levam para a disponibilidade mas que precisam passar por análise e depuração para que possam entrar em edital.  A lista de substâncias é exaustiva: 
+- Fosfato; 
+- Nitrato de potássio
+- Nitrato de sódio 
+- Magnésio
+- Enxofre;
+Notas Explicativas: O número total de áreas com substâncias em uso com potencial energético pode variar. Diretamente no objetivo “Índice de Atratividade do Setor Mineral”, pois a rodada pode conter muitas áreas que não sejam de atrativas para o setor mineral. No entanto, o quantitativo de áreas torna áreas que estavam oneradas para livres para que possam ser requeridas a qualquer tempo, reduzindo o passivo processual/burocrático da ANM.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 3269
+Indicador: 12552
+Denominação: Número de Blocos para Licitação
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-12-30 00:00:00
+Unidade De Medida: Área Avaliada
+Descrição: Áreas que passaram por reavaliação e valoração dos ativos minerais da CPRM e serão efetivamente licitadas, envolvendo os seguintes bens minerais: caulim, níquel, agrominerais, fosfato, diamante, níquel, ouro e turfas.
+Período Ou Data A Que Se Refere: Ano corrente
+Data De Divulgação/Disponibilização: até o dia 30/12
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: RL: áreas licitadas
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br /)
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Soma do Número de áreas/blocos Licitados pactuados na Meta
+Limitações: O indicador disponibilizado não garante a licitação da área reavaliada.
+Notas Explicativas: Às áreas licitadas são computadas a partir dos leilões realizados via PPI da Presidência da República, MME e CPRM. Informações: https://www.sgb.gov.br/leilao
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 1068
+Indicador: 10089
+Denominação: Número de itens de acervo de materiais geológicos informações geocientíficas preservados/disponibilizados
+Índice De Referência: 1195259.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Disponibilizar acervos geocientíficos das Redes de Litotecas, Museu de Ciencias da Terra  e Rede de Bibliotecas, visando fomentar a pesquisa, o conhecimento e a atratividade de investimentos no setor mineral. Os acervos compreendem materiais geológicos (testemunhos de sondagem, amostras de rocha e sedimentos, alíquotas geoquímicas),disponibilizados na Rede de Litotecas; amostras de minerais e rochas, meteoritos, fósseis, e acervo bibliográfico e documentalsob a guarda do Museu de Ciências da Terra; acervo bibliográfico e documental catalogados na Rede de Biblioteca em meio físico e digital, por meio da Biblioteca Virtual, Catálogo Online e Repositório Institucional de Geociências - RIGeo.
+Período Ou Data A Que Se Refere: ano corrente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: AD– Acervo disponibilizado 
+pd – produção do ano
+Fonte De Dados Das Variáveis De Cálculo: Companhia de Pesquisa Mineral - CPRM - Base de dados interna organizada em planilha eletrônica ou sistema digital.
+Forma De Disponibilização: acervos públicos (produtos publicados, amostras, coleções (fosseis, rochas, minerais, meteoritos, testemunhos), alíquotas de analises e documentos internos.
+Procedimento De Cálculo: Soma do Número de itens preservados e disponibilizados nos acervos da Rede de Litotecas, MCTer e Rede de Bibliotecas, Pactuadas nas Meta da Ação 2B51 – Gestão e Disseminação de Conhecimento Geocientífico, nos Planos Orçamentários 0004, 0007 e 0008.
+Limitações: Trata-se de apuração a partir de base de dados sujeita a inconsistências resultantes da alimentação de informações.
+Notas Explicativas: A ampliação de itens de acervos disponibilizados depende diretamente do orçamento destinado, visto o grande passivo pendente de identificação, inventariação e catalogação.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 51
+Entrega: 1012
+Indicador: 10005
+Denominação: Número de levantamentos geológico-ambientais com foco no uso adequado do território realizados
+Índice De Referência: 104.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: Município Beneficiado
+Descrição: Indicador consiste de levantamentos/estudos geológico-ambientais, em todo o território nacional, baseados em conhecimentos geocientíficos integrados, com vistas à aplicação em questões ambientais, de saúde e ordenamento territorial.  As entregas do indicador contemplam três linhas temáticas: 1) Geologia, meio ambiente e saúde; 2) Levantamentos da geodiversidade; 3) Levantamentos da geomorfologia.
+Período Ou Data A Que Se Refere: Exercício corrente
+Data De Divulgação/Disponibilização: 30 de dezembro.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Levantamentos concluídos: total de estudos geológico-ambientais finalizados e validados pelo SGB-CPRM no ano de referência, dentro das três linhas temáticas previstas
+Fonte De Dados Das Variáveis De Cálculo: Companhia de Pesquisa de Recursos Minerais - CPRM
+Forma De Disponibilização: https://www.sgb.gov.br/gestao-territorial
+Repositório Institucional de Geociências: https://rigeo.sgb.gov.br/
+Procedimento De Cálculo: ·	Identificar repositório institucional ou site, os levantamentos concluídos no período de apuração.
+·	Validar se os levantamentos atendem às linhas temáticas previstas.
+·	Consolidar o número total de levantamentos realizados.
+·	Informar o dado no Sistema Integrado de Planejamento e Orçamento - SIOP.
+Limitações: as entregas do indicador fornecem informações geocientíficas que subsidiam o desenvolvimento de ações para o desenvolvimento territorial, mas não substituem investigações de detalhes para fins de execução de obras.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 761
+Indicador: 9694
+Denominação: Número de mapas produzidos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: Área Mapeada
+Descrição: A integração geológica e geofísica (anteriormente Integração regional) será realizada em áreas extensas, definidas por limites territoriais (ex. Brasil e estados da federação), por limites de grandes objetos geológicos (Ex. Cráton Amazônico, Província Carajás, Província Borborema, Quadrilátero ferrífero). Nos projetos vinculados a este Plano Orçamentário para o PPA 2024-2027 a integração geológica regional será realizada sob os seguintes aspectos: 1) Como ação prioritária de projetos, como nos casos daqueles em que o objetivo maior é a produção de mapas de integração geológica (ex. projetos Mapas Geológicos Estaduais, Municipais); 2) Como ação complementar de projetos, a exemplo de projetos desenvolvidos em objetos geológicos/regiões (ex. Província Carajás) e outros objetivos diversos.3) Integração geológica geofísica, como a produção de, por exemplo, Informes de Geofísica Aplicada, Atlas geofísicos e Cartas de Anomalias Geofísicas. Os produtos serão fruto da análise integrada de dados e informações geológicas de diversas naturezas (estruturais, geoquímicos, geocronológicos, metalogenéticos, geofísicos, etc.), oriundos de fontes diversas (CPRM, relatórios de pesquisa, trabalhos acadêmicos, artigos técnico-científicos, etc.), e representarão o estado da arte do conhecimento geológico, subsidiando a pesquisa mineral, os estudos acadêmicos e de geodiversidade, e as ações de gestão territorial e ocupação do meio físico.
+Período Ou Data A Que Se Refere: Ano Corrente
+Data De Divulgação/Disponibilização: Até 30/12 do ano corrente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IR– Soma do número de Mapas de integração geológica
+pd - Produção do ano.
+Fonte De Dados Das Variáveis De Cálculo: Repositórios da CPRM. www.cprm.gov.br (https://rigeo.cprm.gov.br/ e https://geosgb.sgb.gov.br )
+Forma De Disponibilização: www.cprm.gov.br (https://rigeo.cprm.gov.br/  e   https://geosgb.sgb.gov.br )
+Procedimento De Cálculo: Soma dos mapas de integração geológica publicados
+Limitações: Os mapas de integração geológica possuem lacunas de trabalhos in locu e não substituem mapas geológicos sistemáticos, no entanto atendem demandas de limites geográficos conhecidos, tais como os mapas geológicos estaduais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 687
+Indicador: 9614
+Denominação: Percentual de Áreas Nominadas em Disponibilidade
+Índice De Referência: 20.0
+Em Apuração: Não
+Data De Apuração: 2023-06-29 00:00:00
+Unidade De Medida: %
+Descrição: O indicador do percentual de áreas NOMINADAS, aptas para a disponibilidade, em relação ao total de áreas no edital no período evidencia o quanto a ANM está atendendo aos interesses do setor mineral dentro do universo de áreas do edital da Nova Disponibilidade.
+Data De Divulgação/Disponibilização: Constante no Portal SOPLE
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de áreas NOMINADAS 
+número de áreas em edital de disponibilidade (na data da abertura da Oferta Pública)
+Fonte De Dados Das Variáveis De Cálculo: Áreas da Rodada no Portal SOPLE (Sistema de Oferta Publica e Leilão de Áreas de Disponibilidade) Resultados da Rodada da Agência Nacional de Mineração - ANM
+Forma De Disponibilização: Portal SOPLE - Sistema de Oferta Publica e Leilão de Áreas de Disponibilidade - sople.anm.gov.br
+Procedimento De Cálculo: Passo 1: Acessar o Portal SOPLE em sople.anm.gov.br
+Passo 2: Acessar os Resultados das Rodadas do ano em referência que se deseja calcular o indicador; 
+Passo 3: Exportar as planilhas das áreas das Rodadas; 
+Passo 4: Somar as áreas Nominadas das Rodadas no período e Dividir pelo Total de áreas em Rodadas.
+Limitações: Existe a previsão de duas rodadas de disponibilidade por ano, cada uma com uma média de 4500 áreas por rodada de disponibilidade. Assim, o indicador pode sofrer alteração em função dos cronogramas das rodadas publicado no início de cada ano pela ANM. Outra limitação deste indicador é que ele depende da participação popular para indicar áreas de seu interesse. Assim, pode ocorrer períodos em que exista baixos valores de áreas nominadas.
+Notas Explicativas: A Nominação de áreas é um processo de participação popular criado pela ANM para permitir que o setor mineral demonstre interesse em áreas que estejam nas bases da ANM. As Áreas Nominadas são priorizadas na Análise de aptidão e depuração para que se possa verificar a viabilidade do processo entrar em edital de disponibilidade. 
+O objetivo relacionado é o “Índice de Atratividade do Setor Mineral”. Com o aumento do percentual de áreas Nominadas em Rodadas de disponibilidade a atratividade pode ser afetada diretamente, pois é um indicativo do interesse do setor mineral sendo atendido, tornando o setor mineral atrativo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 40
+Entrega: 606
+Indicador: 9533
+Denominação: Sistema de certificação ESG implementado
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: % de execução física
+Descrição: Trata-se da criação de um sistema de certificação para instalações do setor mineral brasileiro, com o objetivo de comprovar e incentivar a adoção de melhores práticas ambientais, sociais e de governança (ESG) no setor. A iniciativa busca alinhar as operações minerais aos padrões internacionais de sustentabilidade, promovendo um desenvolvimento mais responsável e transparente da atividade mineral no País.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: até 31 de janeiro do ano seguinte ao ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = sistema implementado    EC: etapas de implementação concluídas; TE: total de etapas previstas
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Geologia, Mineração e Transformação - SNGM
+Forma De Disponibilização: Informações internas da SNGM, baseadas em ferramentas de gestão de projetos.
+Procedimento De Cálculo: acompanhamento da execução e verificação do nível de implementação. A conclusão da implementação consiste na entrega em si.
+Notas Explicativas: - Etapas de implementação do Sistema: 
+1) Assinatura do acordo de cooperação técnica 
+2) Escolha da estrutura de programa da certificação  
+3) Desenvolvimento de metodologia para aplicação da certificação 
+4) Desenvolvimento de requisitos ESG (Eixo Ambiental, Social, Governança) 
+5) Aplicação de pilotos em instalações do setor mineral 
+6) Consulta Pública  
+7) Publicação do instrumento 
+8) Lançamento oficial do sistema de certificação
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 660
+Indicador: 9603
+Denominação: Taxa de análise automatizada dos processos de outorga de títulos minerários dos sistemas existentes
+Índice De Referência: 24.0
+Em Apuração: Não
+Data De Apuração: 2023-06-29 00:00:00
+Unidade De Medida: %
+Descrição: Esse índice reflete a análise automatizada de requerimentos de outorga de títulos minerários, com aumento gradativo dos processos que entram e são decididos dentro dos sistemas existentes na ANM.
+
+O primeiro ano representa a manutenção do índice em 24%, apenas com o sistema REPEM em produção.
+
+O segundo ano representa o acréscimo para 40% com o desenvolvimento do novo SIGÁreas para automatização de análise do direito de prioridade e ligação do REPEM aos processos oriundos do SOPLE, em procedimento de disponibilidade. 
+O aporte do novo SIGÁreas representa avanço para todos os futuros sistemas de automação de análise de requerimentos de títulos minerários, pois têm potencial para automatizar a análise do direito de prioridade com a retirada de interferência no momento do requerimento.
+
+O terceiro ano vai para 45% com a entrada em produção de pelo menos 1 dos novos sistemas, RELIC ou REPLG.
+
+O quarto ano vai para 50%, porque existe a possibilidade de os três sistemas estarem em produção, com a análise automática dos requerimentos de licenciamento (RELIC) e permissão de lavra garimpeira (REPLG), mas que ainda não tiveram seu desenvolvimento iniciado. 
+
+O Sistema RELAV está previsto para ser desenvolvido e poderá entrar em atividade em 2027, mas depende do cumprimento da agenda regulatória e de aporte financeiro, representa uma grande economia de tempo e aumento da eficiência do trabalho, considerando que as análises dos PAEs consomem muito tempo técnico da equipa da Outorga e ainda gera dados estruturados para alimentar os sistemas da Fiscalização. 
+
+Sempre que um sistema novo entra em produção, o índice começa baixo e pode comprometer a manutenção da meta. O desenvolvimento de todos os sistemas continuará ativo em busca do aumento do índice de automação.
+
+Reflete diretamente no aumento da eficiência do gasto de tempo dos técnicos da outorga, os quais serão direcionados para os requerimentos com análise mais complexa e que apresentam maior risco operacional.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DREPEM - Quantidade dos requerimentos de pesquisa decididos integralmente no REPEM 
+DRELIC - Quantidade dos requerimentos de pesquisa decididos integralmente no RELIC 
+DREPLG - Quantidade dos requerimentos de pesquisa decididos integralmente no REPLG
+DRELAV - Quantidade dos requerimentos de pesquisa decididos integralmente no RELAV
+PREPEM - Quantidade dos requerimentos de pesquisa protocolizados no REPEM
+PRELIC - Quantidade dos requerimentos de pesquisa protocolizados no RELIC
+PREPLG - Quantidade dos requerimentos de pesquisa protocolizados no REPLG
+PRELAV - Quantidade dos requerimentos de pesquisa protocolizados no RELAV
+Fonte De Dados Das Variáveis De Cálculo: painéis de gestão do REPEM, RELIC, REPLG e RELAV;
+
+ Definições:
+REPEM = Requerimento Eletrônico de Pesquisa Mineral
+RELIC = Requerimento Eletrônico de Licenciamento
+REPLG = Requerimento Eletrônico de Permissão de Lavra Garimpeira
+RELAV = Requerimento Eletrônico de Requerimento de Concessão de Lavra.
+Forma De Disponibilização: comunicação administrativa, pesquisas, relatórios de resultados da gestão estratégica da Agência.
+Procedimento De Cálculo: Acessar painel de gestão de REPEM. Será feita evolutiva para disponibilizar os dados do REPEM para o público externo. A proposta será a mesma para todos os outros módulos desenvolvidos dentro do grande sistema da Outorga.
+Limitações: Tendo em vista a limitação levantada no próprio indicador, não existem painéis de gestão no sistema REPEM para aferição da métrica diária de outorga dos alvarás de pesquisa. Essa informação é obtida diariamente por meio de consulta ao Diário Oficial da União e arquivado em planilha específica. Algumas considerações são necessárias sobre as variáveis utilizadas no método de cálculo:   - O requerimento de pesquisa é solicitado por meio do Sistema REPEM que após entrada dos dados da poligonal é feita consulta o banco de dados do sistema Sig-área, para averiguar se a área requerida possui alguma interferência com camadas especificas para caracterização de do termo denominado de "área livre" ou "não livre" - Caso a consulta ao banco de dados do Sig-áreas retorne sem interferência com alguma das camadas especificas, caracterizando como "área livre", os requerimentos permanecem na esteira de automação do REPEM com a outorga dos correspondentes alvarás de pesquisas automaticamente após 34 dias. - Na hipótese de interferência com algumas dessas camadas especificadas, caracterizado como "área não livre", os requerimentos de pesquisas saem da esteira de automação do REPEM, sendo encaminhado para as Unidades Regionais de origem para prosseguirem manualmente com os estudos dos direitos de prioridades.  - Caso haja a protocolização de qualquer documento, o processo sai da esteira e a análise passa a ser feita pela gerência, também não obedecendo os 34 dias, mesmo que a área esteja livre
+Notas Explicativas: O índice poderá ser modificado para incorporar o desenvolvimento dos sistemas de Requerimentos de Licenciamento e Permissão de Lavra garimpeira e Concessão de Lavra, mas para isso haverá a necessidade de reforço no orçamento da ANM. O REPEM continuará o desenvolvimento para incorporar o novo SIGÁreas e trará benefícios também para os outros regimes.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 40
+Entrega: 558
+Indicador: 9483
+Denominação: Taxa de desenvolvimento do Sistema Integrado de Gestão de Barragens de Mineração 2.0
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Descrição: Trata-se de porcentagem de implantação do sistema SIGBM 2.0 em substituição a versão atualmente em uso. 
+A versão atual do SIGBM apresenta limitações, como por exemplo: design não responsivo, desconfiguração da tela, tecnologia ultrapassada, limitada e lenta. O projeto SIGBM 2.0 visa ter uma nova versão mais responsiva, utilizando a arquitetura Clean, para separar melhor as responsabilidades dos códigos, ajudando na escrita de testes e manutenção. O SIGBM 2.0 será dotado de API para comunicar e extrair algumas responsabilidades da aplicação. Esse novo projeto permitirá maior dinamismo, melhor gerenciamento e melhor usabilidade para os usuários. Além de permitir, com o uso da inteligência artificial, uma atuação mais integrada e responsiva em segurança de barragens de mineração.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: até 31 de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: EC - entregas concluídas (etapas de desenvolvimento e teste concluídas)
+TE – total de entregas (total de etapas de desenvolvimento e teste do sistema)
+Fonte De Dados Das Variáveis De Cálculo: Ferramentas de controle de projeto geridas por método ágil (SCRUM)
+Forma De Disponibilização: Relatórios internos da Agência Nacional de Mineração sobre o andamento do projeto
+Procedimento De Cálculo: 1)	Estimar todas as etapas de desenvolvimento e teste para a implantação do SIGBM 2.0.   
+2)	Verificar a cada ano as etapas concluídas
+3)	Calcular o indicador
+Limitações: O desenvolvimento de qualquer sistema requer orçamento, equipe dedicada ao tema, planejamento e acompanhamento das etapas, medidas corretivas e testes. Havendo escassez de recursos financeiros e humanos poderá implicar em atrasos e comprometimento das entregas.
+Notas Explicativas: A meta prevista para esse indicador é cumulativa. As etapas previstas para cada envolvem: 
+2024: Contratação SQUAD, definição do escopo, requisitos e orçamento 
+2025: Arquitetura do sistema, finalização requisitos; Desenvolvimento das APIs 
+2026: Cadastro do SIGBM e aba Fiscalização e Testes unitários 
+2027: Desenvolvimento do “front, core system 
+ 
+O SIGBM 2.0 está sendo desenvolvido no âmbito do convênio assinado com Itaipu Binacional e Fundação Itaipu Parque Tecnológico. O projeto prevê a conclusão do sistema em 2029, com a conclusão das seguintes etapas: 
+2028: Desenvolvimento Mobile, Consolidação e Testes unitários: 75% 
+2029: Integração com outros sistemas da ANM e testes alfa e beta e entrega final do sistema: 100%.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 40
+Entrega: 2009
+Indicador: 11337
+Denominação: Taxa de implementação da Plataforma de Fiscalização Responsiva - FIRMINA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: %
+Descrição: Busca mensurar o percentual de avanço da implementação da plataforma de fiscalização responsiva, indicando os empreendimentos que foram avaliados conforme os parâmetros de conformidade e estão classificados em relação aos níveis de risco. Espera-se um aumento progressivo do quantitativo classificado, até chegar à totalidade do universo de empreendimentos.
+Período Ou Data A Que Se Refere: Exercicio anterior ao corrente
+Data De Divulgação/Disponibilização: a partir de 2024, será divulgado em 30 de junho do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimentos passíveis de classificação = quantitativo de empreendimentos aptos a realizar a lavra e comercialização de bens minerais e, portanto, passíveis de serem classificados pelos algoritmos da FIRMINA
+Empreendimentos Classificados = quantitativo de empreendimentos efetivamente classificados pelos algoritmos da FIRMINA.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Mineiro, Relatório Anual de Lavra, Cadastro Nacional de Comércio de Diamantes, Sistema de Arrecadação, Sistema de Gestão Integrada de Barragens de Rejeito.
+Forma De Disponibilização: indicador será publicado no site da ANM, mas a URL ainda não foi criada/disponibilizada.
+Procedimento De Cálculo: Faz-se um recorte do quantitativo de empreendimentos aptos a realizar a lavra e comercialização de bens minerais;
+Os algoritmos de verificação da conformidade são executados para uma parcela desse total e faz-se a classificação de risco;
+O indicador apresenta o % de empreendimentos classificados em relação ao total de possíveis alvos.
+Limitações: A plataforma FIRMINA está sendo desenvolvida para integrar dados e otimizar os processos fiscalizatórios da Superintendência de Fiscalização por meio da coleta, tratamento. análise, produção e disseminação de informações estratégicas para as ações de fiscalização. 
+A ANM conseguiu avançar substancialmente no desenvolvimento do módulo de aplicação de sanções (multas) e nas funcionalidades de análise automatizada da situação processual, entretanto enfrenta algumas restrições. Atualmente, a Agência lida com limitações de infraestrutura tecnológica, que está sendo modernizada progressivamente, porém ainda não atende plenamente às necessidades da instituição e, portanto, impactam a plataforma. Somam-se a isso a escassez de equipes de desenvolvimento e pessoal técnico para testar as integrações e modificações necessárias nos diversos sistemas existentes.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 44
+Entrega: 2014
+Indicador: 11340
+Denominação: Taxa de planos de fechamento de minas analisados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Necessidade em se gerenciar o planejamento e a execução das análises técnicas referentes aos Planos de Fechamentos de Minas – PFM (Resolução ANM nº 68 de 30 de abril de 2021), permitindo assim, garantir o devido fechamento das atividades de lavra, e o devido retorno do uso da área lavrada à população.
+Período Ou Data A Que Se Refere: No semestre anterior ao corrente
+Data De Divulgação/Disponibilização: Os dados serão divulgados de forma semestral, nos primeiros dois anos, e após esse período, trimestralmente.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PFM Analisados = Planos de Fechamento de Minas Analisados
+PFM Entregues = Planos de Fechamento de Minas Entregues
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Mineiro da ANM
+Forma De Disponibilização: Plano Plurianual – considerando que as informações que compõem o indicador estão no PPA.
+Procedimento De Cálculo: o percentual de PFM Analisados será dividido pelo número de PFM Entregues.
+Limitações: Falta de sistema e uma estrutura adequada com profissionais exclusivos para a análise e tratamento dos dados sobre o Fechamento de Mina.
+Notas Explicativas: Há um Grupo de Trabalho para o Fechamento de Mina, ainda em discussão, com sugestões da Superintendência de Fiscalização e Superintendência de Outorga, assim como a PFE, que já se pronunciou. Essas alterações podem comprometer as devidas análises no decorrer dos anos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Entrega: 3428
+Indicador: 12788
+Denominação: Tempo de análise de requerimento de lavra
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: dia
+Descrição: O indicador visa mostrar a redução, em dias, do tempo de análise dos requerimentos de lavra
+Período Ou Data A Que Se Refere: ano anterior ao corrente
+Data De Divulgação/Disponibilização: 1º de março do exercício subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: variáveis de Cálculo: 
+
+R = redução (em dias) 
+
+TM = tempo médio de análise de requerimentos de lavra desde a data de apresentação do relatório final de pesquisa até a publicação da portaria de outorga de concessão nos últimos 10 anos (em dias) 
+
+TAn = tempo médio de análise de requerimentos de lavra desde a data da apresentação do relatório final de pesquisa até a publicação da portaria de outorga de concessão no ano “n” de apuração (em dias)
+Fonte De Dados Das Variáveis De Cálculo: Base de dados da Agência Nacional de Mineração - ANM
+Forma De Disponibilização: no site da ANM (www.anm.gov.br)
+Procedimento De Cálculo: Obtenção, na base de dados da ANM, do tempo médio de análise de requerimentos de lavra desde a data da apresentação do relatório final de pesquisa até a publicação da portaria de outorga de concessão no ano de apuração e comparação frente ao tempo médio dos últimos 10 anos.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 3102
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Indicador: 8838
+Denominação: Índice de atratividade de Investimento
+Sigla: IAI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O Índice de Atratividade de Investimento - IAI tem por objeto mensurar os esforços da administração federal na atração de investimentos para o setor mineral brasileiro.
+O IAI avalia o resultado das entregas do Objetivo Específico 0045 com foco na gestão dos títulos minerários para a concessão de lavra e oferta de áreas em disponibilidade para pesquisa e produção mineral, e, também, o aumento do conhecimento geológico, considerando o mapeamento geológico sistemático, preferencialmente na escala 1:100.000, o levantamento geoquímico prospectivo e o levantamento aerogeofísico.
+As metas adotadas refletem, no caso da gestão de outorgas e disponibilidade de áreas, a expectativa da ANM considerando os esforços na melhoria da infraestrutura tecnológica e a experiência acumulada na execução do PPA 2020-2023.
+Em relação ao aumento do conhecimento geológico, foi considerando o planejamento estratégico da CPRM para o período do PPA 2024-2027.
+O IAI é composto por um conjunto de indicadores para aferição da gestão de outorgas e disponibilidade de áreas e aferir a realização de estudos geológicos. 
+
+1 - Automatização das outorgas de títulos minerários (%)				
+2 -  Redução do tempo de análise dos requerimentos de pesquisa  (em dias)				
+3 - Disponibilização de áreas em Oferta Pública (% de áreas para pesquisa e produção mineral ofertadas)				
+4 - Mapeamento geológico sistemático, preferencialmente na escala 1:100.000, realizado (km2)				
+5 - Levantamentos geoquímicos prospectivos realizados. (km2)				
+6 - Levantamentos aerogeofísicos realizados. (km2)				
+Para fins de estruturação do IAI, foram definidos pesos para cada indicador, de acordo com a sua relevância na gestão dos recursos minerais e aumento do conhecimento geológico do território, conforme abaixo:
+INDICADOR	MELHOR	PESO
+1 - Automatização das outorgas de títulos minerários (%)	↑	20%
+2 -  Redução do tempo de análise dos requerimentos de pesquisa  (em dias)	↓	20%
+3 - Disponibilização de áreas em Oferta Pública (% de áreas para pesquisa e produção mineral ofertadas)	↑	15%
+4 - Mapeamento geológico sistemático, preferencialmente na escala 1:100.000, realizado (km2)	↑	15%
+5 - Levantamentos geoquímicos prospectivos realizados. (km2)	↑	15%
+6 - Levantamentos aerogeofísicos realizados. (km2)	↑	15%
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: Final do primeiro bimestre de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Variáveis de Cálculo:
+1	- AOTM = Automatização das outorgas de títulos minerários;
+2	- RTARL = Redução do tempo de análise dos requerimentos de lavra;
+3	- DAOP = Disponibilização de áreas em Oferta Pública;
+4	- MGS = Mapeamento geológico sistemático;
+5	- LGP = Levantamento geoquímico prospectivo;
+6	- LAG = Levantamento aerogeofísico.
+Fonte De Dados Das Variáveis De Cálculo: Secretária de Geologia, Mineração e Transformação Mineral, Agência Nacional de Mineração e Companhia de Pesquisa de Recursos Minerais
+Forma De Disponibilização: Plano Plurianual – considerando que as informações que compõem o indicador estão no PPA.
+Procedimento De Cálculo: Somatório da pontuação individual de cada indicador, pela relação entre o resultado alcançado em relação à meta prevista, de acordo com seu peso específico
+A cada entrega será atribuída nota conforme desempenho em relação à meta definida para o ano. As notas registradas para as entregas serão ponderadas para fins de cálculo do índice. O peso atribuído terá relação com seu impacto para o aumento da atratividade.
+Notas Explicativas: Para efeitos de apuração do resultado dos indicadores e das metas, procurou-se manter a mesma métrica adotada nos diferentes planejamentos estratégicos, aplicando-se, no caso de IAI um modelo que pudesse refletir, também, o grau de maturidade dos órgãos envolvidos na gestão do Programa do PPA, considerando as mudanças introduzidas na versão atual do PPA.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 44
+Indicador: 8837
+Denominação: Número de empreendimentos do setor com Selo ESG
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-17 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de empreendimentos do setor mineral com certificação que ateste a internalização de práticas ESG em suas operações.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso
+Data De Divulgação/Disponibilização: até 31 de janeiro do ano seguinte ao ano a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de empreendimentos certificados
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Geologia, Mineração e Transformação Mineral/Ministério de Minas e Energia
+Forma De Disponibilização: Boletins e relatórios a serem disponibilizados no site do Ministério de Minas e Energia (MME).
+Procedimento De Cálculo: Coletar os dados do número de certificados emitidos e aplicar a fórmula
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 51
+Indicador: 8866
+Denominação: Número de municípios mineradores com melhoria de indicadores sociais
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-18 00:00:00
+Unidade De Medida: unidade
+Descrição: Os indicadores socioeconômicos compreendem, em geral, uma medida estatística de determinado aspecto social e/ou econômico que visa traduzir ou informar sobre a realidade de um determinado local ou grupo de pessoas, a depender do recorte escolhido para a aferição. Sendo assim, o indicador proposto para o objetivo específico em tela servirá como parâmetro para avaliar a efetividade de políticas públicas direcionadas para municípios mineradores selecionados
+Período Ou Data A Que Se Refere: ano anterior ao corrente
+Data De Divulgação/Disponibilização: abril do ano seguinte ao ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ● A = nota de desempenho do município selecionado
+● B = nota de desempenho do indicador de empregos formais gerados em relação ao ano anterior
+● C = nota de desempenho do indicador de esgoto coletado e tratado em relação ao ano anterior
+● D = nota de desempenho do indicador de mortalidade infantil em relação ao ano anterior
+E = nota de desempenho do indicador de evasão escolar (crianças fora da escola - 6 a 14 anos)
+Fonte De Dados Das Variáveis De Cálculo: Novo CAGED, Instituto Brasileiro de Geografia e Estatística - IBGE, INEP e Sistema Nacional de Informações sobre Saneamento
+Forma De Disponibilização: Boletins da SNGM, disponibilizados no site do MME (www.mme.gov.br)
+Procedimento De Cálculo: Coleta das informações nas bases do Novo CAGED, Instituto Brasileiro de Geografia e Estatística - IBGE e Sistema Nacional de Informações sobre Saneamento para os municípios selecionados. Preenchimento das informações e base própria da SNGM. Cálculo segundo a fórmula acima indicada.
+
+Empregos formais gerados, esgoto coletado e tratado, crianças fora da escola (6 a 14 anos) e mortalidade infantil.
+
+Sendo a nota de desempenho = 0,75 se indicador superior ao ano anterior; = - 0,25, se indicador inferior ao ano anterior; e = 0, se igual ao ano anterior.
+Limitações: atraso ou não disponibilização dos dados pelas fontes.
+Notas Explicativas: A seleção dos municípios será explicitada quando da realização do monitoramento.-
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 46
+Indicador: 8843
+Denominação: Percentual das reservas de minerais para a transição energética
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Brasil é um dos principais países mineradores com expressiva participação na produção mineral mundial. Com a emergência da transição energética, é fundamental que o País amplie o percentual de reservas dos minerais para a transição energética
+Período Ou Data A Que Se Refere: dois exercícios anteriores ao corrente
+Data De Divulgação/Disponibilização: 2º trimestre do exercício seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: RM21: Reserva do Mineral 1 no ano atual
+RM11: Reserva do Mineral 1 no ano de referência
+RM2
+n: Reserva do Mineral “n” no ano atual
+RM1n: Reserva do Mineral “n” no ano anterior/de referência
+PR11: Participação na reserva do mineral 1 na reserva total de minerais no ano de referência
+PR1n: Participação na reserva do mineral n na reserva total de minerais no ano de referência
+n: Quantidade de minerais considerados
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Mineração - Relatório Anual de Lavra
+Forma De Disponibilização: Relatório internos, sem disponibilização pública.
+Procedimento De Cálculo: [(Soma das reservas pretendidas das substâncias minerais para transição energética disponíveis em toneladas/soma das reservas pretendidas das substâncias minerais para transição energética disponíveis em toneladas registradas em dezembro de 2022) - 1]*100
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 49
+Indicador: 8847
+Denominação: Percentual de produção de minerais para segurança alimentar
+Índice De Referência: 13.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Diminuir a dependência externa de minerais para a segurança alimentar com foco nos fertilizantes de fosfato e potássio. Analisar o percentual da produção nacional dos produtos em relação ao consumo total.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano corrente
+Data De Divulgação/Disponibilização: terceiro trimestre do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PP: Produção nacional de P2O5 
+    QP: Quantidade de entregue ao mercado de P2O5 
+    PK: Produção nacional de K2O
+    QK: quantidade de entregue ao mercado de K2O
+Fonte De Dados Das Variáveis De Cálculo: Anuário Estatístico da ANDA - Associação Nacional para Difusão de Adubos
+Forma De Disponibilização: Anuário disponível no site da ANDA: https://anda.org.br/
+Procedimento De Cálculo: Consulta do relatório Anuário Estatístico do Setor de Fertilizantes da Associação Nacional para Difusão de Adubos.
+{[(PP / QP) + (PK / QK)] / 2} * 100 %
+
+    PP: Produção nacional de P2O5 
+    QP: Quantidade de entregue ao mercado de P2O5 
+    PK: Produção nacional de K2O
+    QK: quantidade de entregue ao mercado de K2O
+Limitações: Publicação da informação pela citada Associação. Caso não se tenha publicação, deverão ser levantados os dados por outros meios, tais como consulta direta às empresas do setor ou o Ministério da Agricultura e Pecuária - MAPA
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 40
+Indicador: 9465
+Denominação: Taxa de redução de nível de emergência de barragens de mineração
+Sigla: TRNE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A TRNE mede a variação percentual do número de barragens em todos os níveis de emergência em relação ao número de barragens em todos os níveis de emergência em 31/12/2023.
+Período Ou Data A Que Se Refere: Exercício anterior ao ano em curso.
+Data De Divulgação/Disponibilização: até 31 de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TRNE = taxa de redução do nível de emergência 
+
+RNE1, RNE2, RNE3 = Redução de barragens em nível de emergência 1, 2 e 3 
+
+respectivamente 
+
+BNE1, 2 e 3 to = números de barragens em nível de emergência1, 2 e 3 respectivamente em 31 de dezembro de 2023 
+
+BNE1,2 e 3 tx = números de barragens em nível de emergência1, 2 e 3 respectivamente em 31 de dezembro de 202x, x variando de 4 a 7 para os anos 2024 a 2027.
+Fonte De Dados Das Variáveis De Cálculo: Agência Nacional de Mineração - ANM / SIGBM – Sistema Integrado de Gestão de Barragens de Mineração
+Forma De Disponibilização: Boletins mensais disponíveis no site da ANM: https://www.gov.br/anm/pt-br/assuntos/barragens/boletim-de-barragens-de-mineracao
+
+Números atualizados de barragens em níveis de emergência:  https://app.anm.gov.br/SIGBM/Publico/Estatistica
+Procedimento De Cálculo: 1.Acessar o site  https://app.anm.gov.br/SIGBM/Publico/Estatistica; 
+2. Clicar em classificação atualizada de barragens; 
+3. Contabilizar as barragens em nível de emergência 1, 2 e 3 em 31/12/2023;
+4. Contabilizar as barragens em nível de emergência 1, 2 e 3 em 31/12 dos anos 2024 a 2027; e 
+5. Inserir os valores obtidos na fórmula.
+Limitações: A TRNE pode assumir valores negativos ou zero, diante do aumento do número de barragens em nível de emergência 1, 2 e 3 ou da manutenção do mesmo para o período apurado, uma vez que a redução pretendida é incentivada pelas ações da ANM, mas depende diretamente da gestão de segurança implantada pelo regulado.
+Notas Explicativas: Considerando a responsabilidade do empreendedor na gestão de segurança das suas barragens, a ANM incentiva, por meio de fiscalização e do estabelecimento de parâmetros mínimos de segurança em seus normativos, a adoção de boas práticas de forma a reduzir o nível de emergência das barragens. Portanto não cabe a agência tomar ações diretas que impliquem na redução do nível de emergência. Assim sendo, espera-se a redução do número de barragens em situação de emergência ao longo ciclo. Contudo, em um cenário dotado de incertezas geotécnicas fruto da ausência de investigações suficientes e informações confiáveis para projeto, construção e operação das barragens de mineração, constata-se que muitas delas apresentam desempenho inadequado a luz das atuais boas práticas da engenharia. Assim eventualmente ocorrer o aumento do número de barragens em nível de emergência 1, 2 e 3, o que indicaria um valor de TRNE negativo ou mesmo uma TRNE igual a zero que significa que não houve variação do número de barragens em nível de emergência 1, 2 e 3 em relação a 31/12/2023.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3102
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 40
+Enunciado: Aumentar a segurança da mineração para a sociedade brasileira
+Descrição: No Brasil, a ocorrência de desastres envolvendo barragens de mineração, com significativos impactos ambientais, econômicos e, sobretudo, humanos, elevaram a preocupação da população e das autoridades não somente quanto à segurança dessas estruturas, mas também quanto à quantidade de resíduos sólidos gerados no processo de produção mineral. Nesse contexto, é fundamental que a atuação do poder público esteja voltada ao aumento da segurança das estruturas de mineração para a sociedade.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 44
+Enunciado: Estimular a adoção de práticas sustentáveis no setor mineral brasileiro
+Descrição: É fundamental que o setor mineral avance em sua responsabilidade ambiental e social, e que contribua para uma economia mais sustentável. A sustentabilidade, aliás, deve ser entendida como condição essencial para o desenvolvimento da mineração nas próximas décadas, não apenas no Brasil, mas no mundo. Nesse cenário, faz-se importante que as ações do poder público estimulem o desenvolvimento de uma mineração cada vez mais sustentável e responsável do ponto de vista socioambiental
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 45
+Enunciado: Criar um ambiente orientado para a atração de investimentos em pesquisa, produção e transformação mineral
+Descrição: Embora o setor mineral brasileiro já ocupe papel importante para a economia nacional, é necessário não apenas assegurar a manutenção desta posição, mas ampliá-la, especialmente se for considerado o elevado potencial mineral do país. Nesse sentido, é fundamental promover um ambiente orientado para a atração de investimentos, implementando, para isso, políticas públicas que vão desde a geração e a disponibilização de conhecimento geológico até o incentivo à agregação de valor e transformação de bens minerais no país.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 46
+Enunciado: Ampliar as reservas de minerais estratégicos para a transição energética
+Descrição: No contexto atual, de uma transição global para uma economia de baixo carbono, é fundamental atrair investimentos e viabilizar a implantação de projetos responsáveis para o aproveitamento de minerais com aplicação em tecnologias de produção de energias renováveis e limpas. O Brasil possui importantes reservas desses recursos e potencial para expandi-las, fortalecendo seu papel de destaque nesse cenário. A disponibilidade desses insumos é condição essencial para que a transição energética se efetive em uma escala global
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 49
+Enunciado: Ampliar o suprimento de insumos minerais estratégicos para a segurança alimentar
+Descrição: É essencial atrair investimentos para a ampliação de reservas e abertura de projetos de insumos minerais para a segurança alimentar, reduzindo a dependência externa de minerais, como potássio e fosfato, e ampliando o uso de remineralizadores corretivos de solo, beneficiando a agricultura brasileira e, consequentemente, ampliando a oferta de alimentos à população.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Objetivo Específico: 51
+Enunciado: Melhorar as condições socioeconômicas de municípios mineradores e afetados
+Descrição: Para além dos benefícios econômicos, é essencial que a mineração promova melhoria das condições socioeconômicas tanto dos municípios mineradores quanto daqueles afetados pela atividade. O desenvolvimento da mineração, em muitos casos, gera significativa receita adicional ao município, seja via recolhimento da Compensação Financeira pela Exploração de Recursos Minerais (CFEM) ou via incremento tributário, o que deveria se traduzir em ampliação de investimentos pelo município em saúde, educação, saneamento básico e infraestrutura, por exemplo, possibilitando nível satisfatório de desenvolvimento local.
+Órgão: 32000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 3102
+
+Exercício: 2025
+Programa: 3102
+Objetivo: 1274
+Enunciado: Criar, no setor mineral brasileiro, um ambiente orientado para a sustentabilidade, a transição energética, a segurança do público e a
+atratividade aos investimentos
+Descrição: É fundamental criar condições atrativas aos investimentos no setor, promovendo a pesquisa e a produção mineral no território nacional, e ao mesmo tempo assegurar que a mineração observe as melhores práticas em suas operações e somente se realize com as devidas salvaguardas socioambientais. Ademais, no contexto da transição global para uma economia de baixo carbono, é fundamental viabilizar a implantação de projetos responsáveis para o aproveitamento de minerais com aplicação em tecnologias de produção de energias renováveis e limpas. A disponibilidade desses insumos é condição essencial para que a transição energética se efetive, em uma escala global.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 3102
+
+Exercício: 2025
+Programa: 3102
+Título: Mineração Segura e Sustentável
+Tipo: Finalístico
+Órgão: 32000.0
+Público-Alvo: Sociedade brasileira, comunidades afetadas pela mineração, setor produtivo, órgãos e entidades públicas e privadas do setor, comunidade técnico-científica e academia/universidades.
+Descrição Do Problema: Os problemas fundamentais envolvem:
+(1) Entraves que prejudicam o fluxo de investimentos para setor, considerados estratégicos para a economia, para a transição energética e para a segurança alimentar; e
+(2) Riscos socioambientais quando a mineração se realiza sem as devidas salvaguardas.
+Causa Do Problema: Os problemas estão associados principalmente a:
+
+•	Modelo de gestão pública do patrimônio mineral brasileiro insuficiente;
+•	Gestão de títulos minerários e na fiscalização das operaçõe deficientes;
+•	Baixa previsibilidade em relação ao tempo de outorga e exigências relacionadas;
+•	Baixa integração entre o planejamento do setor mineral e dos setores de infraestrutura;
+•	Geração e disponibilização de conhecimento geocientífico do território nacional insuficiente; 
+•	Ações de pesquisa, desenvolvimento e inovação no setor mineral insuficientes;
+•	Arcabouço institucional e normativo insuficientes para assegurar o adequado fechamento de minas;
+•	Estruturas de mineração com classificação de risco acima do desejável, gerando insegurança nas comunidades que habitam seu entorno;
+•	Atuação insuficiente para a internalização das políticas no desenvolvimento sustentável e eficiente da mineração
+Evidências Do Problema: •	Percepção social negativa acerca da atividade e desconhecimento dos seus benefícios e importância socioeconômica;
+•	Atividades ilegais de mineração, em áreas proibitivas para a atividade, como terras indígenas e determinadas unidades de conservação;
+•	Alto nível de informalidade no segmento da mineração artesanal e de pequena escala;
+•	Nível de desenvolvimento socioeconômico de alguns municípios mineradores aquém do desejável, considerado a distribuição de royalties da atividade;
+•	Atratividade ao investimento em pesquisa mineral aquém do desejável, considerando a extensão territorial, a diversidade geológica e o potencial para recursos minerais do país;
+•	Investimentos em pesquisa de minerais estratégicos aplicados na produção de baterias, veículos elétricos e outros elementos da transição energética aquém do desejável;
+•	Elevada dependência externa de insumos minerais para a segurança alimentar (insumos para fertilizantes e remineralizadores de solo;
+•	Perda de competitividade em relação a outros países mineradores;
+•	Nível de conhecimento geológico do território nacional aquém do desejável para a atratividade aos investimentos.
+Justificativa Para A Intervenção: A gestão do patrimônio mineral é atividade exclusiva de Estado, cabendo aos governos atuarem em prol do melhor aproveitamento desses recursos, convertendo-os em geração de riquezas e benefícios para a sociedade brasileira. Trata-se, portanto, de criar condições de atratividade aos investimentos no setor, promovendo a pesquisa e a produção mineral no território nacional, e ao mesmo tempo assegurar que a mineração observe as melhores práticas em suas operações e somente se realize com as devidas salvaguardas socioambientais. No contexto da transição global para uma economia de baixo carbono, é fundamental atrair investimentos e viabilizar e implantação de projetos responsáveis para o aproveitamento de minerais com aplicação em tecnologias de produção de energias renováveis e limpas. A disponibilidade desses insumos é condição sine qua non para que a transição energética se efetive, em uma escala global. O Brasil possui importantes reservas desses recursos e potencial para expandi-las e poderá ocupar um papel de destaque nesse cenário. Importante, ainda, é atrair investimentos para a ampliação de reservas e abertura de projetos de insumos minerais para a segurança alimentar, reduzindo a dependência externa de minerais como potássio e fosfato, e ampliando o uso de remineralizadores corretivos de solo, beneficiando a agricultura brasileira.
+Evolução Histórica: Nos últimos 10 anos, o setor mineral nacional passou por diferentes momentos, sendo as mais marcantes: i) o boom de commodities, especialmente entre 2011 e 2012, período em que a produção mineral brasileira atingiu recordes históricos; ii) o período da revisão regulatória, entre 2013 e 2017 que, somado à recessão econômica atravessada pelo país em 2015/2016, foi marcado por uma queda no desempenho no setor; e iii) a retomada da atividade, a partir de 2017, atribuída à melhora da situação econômica brasileira, à crescente demanda internacional por bens minerais e a um ambiente setorial mais amigável, com avanços regulatórios significativos, como a criação da Agência Nacional de Mineração (ANM). O ritmo dessa retomada de crescimento do setor mineral, entretanto, foi momentaneamente interrompido pela pandemia de Covid-19, que afetou significativamente a economia brasileira e mundial a partir de março de 2020. Entretanto, ao contrário da maioria dos setores da economia nacional, o efeito negativo sobre o setor foi de curta duração e movimento de recuperação da indústria mineral brasileira não demorou a se manifestar. Já a partir do segundo semestre de 2020 registrou-se uma notável reversão no movimento de queda, devido a (i) à rápida recuperação dos preços dos principais bens minerais, entre eles o minério de ferro; (ii) à desvalorização cambial; e (iii) sinalização de retomada econômica internacional, especialmente pelo retorno da atividade econômica chinesa. Outro fator que contribuiu para a manutenção das atividades do setor mineral durante a pandemia foi sua inclusão, na legislação brasileira, entre as atividades econômicas consideradas essenciais. Nos últimos cinco anos, o setor mineral tem mantido sua participação na economia nacional, sendo responsável por cerca de 3% do PIB do país, de acordo com dados do IBGE. No mercado de trabalho, o setor foi responsável por aproximadamente 830 mil empregos diretos em 2021, o equivalente a 10,5% dos empregos da indústria, considerando os dados do Ministério do Trabalho e Emprego. Em termos de comércio internacional, a participação de produtos de origem mineral, bens primários e transformados (exceto petróleo e gás natural) nas exportações nacionais alcançou a média de 20% do valor total, no período 1994 a 2008. Nesse mesmo período, o saldo da balança comercial do setor passou de US$1 bilhão para US$17 bilhões. Entre 2010 e 2020, a participação do setor mineral nas exportações brasileiras teve uma pequena elevação, representando, em média, 23,2% do total. No período, o saldo da balança comercial do setor mineral passou para o patamar médio de US$24 bilhões. Apesar da importância do setor para a economia nacional, seu desenvolvimento esbarra em entraves que impedem um avanço compatível com o potencial do país em termos de recursos minerais. Exemplo disso está no fato de que países mineradores com características geológicas e potencial mineral semelhantes têm se mostrado mais atrativos aos investimentos em pesquisa e produção mineral. Dados de associações do setor apontam que do total de dispêndios globais em pesquisa mineral o Brasil tem recebido historicamente de 2 a 3% desses recursos anualmente, atrás de países como Canadá, Austrália, Peru e Chile, entre outros. Um baixo nível de investimento em pesquisa mineral resulta em redução das reservas nacionais, com impacto negativo no desenvolvimento de novos projetos, na geração de emprego e renda, no comércio internacional e na arrecadação de receitas.
+Comparações Internacionais: Em nível global, embora o Brasil possua extenso território, ampla diversidade geológica e notável potencial mineral, o nível de investimentos em pesquisa mineral é considerado baixo quando comparado a países com características semelhantes, como Canadá e Austrália. Segundo dados de associações do setor, dos recursos privados dispendidos em pesquisa mineral no mundo, o Brasil tem recebido historicamente, a cada ano, de 2 a 3% do total. O Canadá, por sua vez, tem recebido nos últimos anos cerca de 20% desses recursos. Países da América Latina, como Peru e Chile, também estão à frente do Brasil. Para que se tenha ideia da importância da questão, a pesquisa mineral é etapa fundamental para o desenvolvimento do setor mineral de um país, na medida em que é a atividade que possibilita a descoberta de novas jazidas, que no futuro se converterão em minas. Portanto, é fundamental ampliar a atratividade do setor mineral brasileiro aos investimentos privados. Aperfeiçoar a governança e a gestão do patrimônio mineral nacional, promover a estabilidade regulatória e a segurança jurídica, conferir um ambiente de previsibilidade ao investidor, aumentar o nível de conhecimento geológico do território, estimular a criação de mecanismos de financiamento, promover a pesquisa e a inovação e assegurar a responsabilidade socioambiental no setor constituem um rol abrangente de ações que certamente contribuirão para elevar o patamar da mineração brasileira no cenário internacional, como foco no desenvolvimento sustentável do país.
+Relação Com Os Ods: Objetivo 2 - Fome Zero e Agricultura Sustentável; 
+Objetivo 7 - Energia Acessível e Limpa; 
+Objetivo 8 – Trabalho Decente e Crescimento Econômico;
+Objetivo 9 - Indústria, Inovação e Infraestrutura; 
+Objetivo 11 – Cidades e Comunidades Sustentáveis;
+Objetivo 12 - Consumo e Produção Responsáveis; e
+Objetivo 13 - Ação contra a Mudança Global do Clima.
+Agentes Envolvidos: Ministério de Minas e Energia, por meio da Secretaria de Geologia, Mineração e Transformação Mineral; Agência Nacional de Mineração; Serviço Geológico Brasileiro - Companhia de Pesquisa de Recursos Minerais; e Indústrias Nucleares do Brasil S/A.
+
+Em sua esfera de atuação, é esperado que as instituições diretamente envolvidas com o Programa promovam articulação com diversos órgãos e entidades públicas e privadas para realização de programas e projetos, entre elas: MCTI, MAPA, MDA, MMA, MF, MGI, EMBRAPA, EMBRAPII, ABDI, CETEM, CONFEA/CREA, IBRAM, ABCM, CBDB, ABC, etc.
+Articulação Federativa: Não há, inicialmente, a previsão de ações a serem realizadas por outros entes federativos no âmbito do Programa. Entretanto, uma execução bem-sucedida do instrumento demandará a articulação do governo central com órgãos e entidades estaduais e municipais. Consideradas as diversidades regionais e locais e a pluralidade do setor mineral nacional, tais articulações deverão ser construídas e aprimoradas no caso a caso. Destaca-se, nesse cenário, a importância de se ampliar o fluxo de investimentos para regiões mineradoras, promover o desenvolvimento local a partir da mineração e estimular a formalização das atividades de menor escala.
+Enfoque Transversal: O setor mineral se caracteriza por ser uma indústria primária cujos produtos gerados nesta indústria tornam-se matérias primas variadas para as indústrias secundárias.
+
+A mineração, portanto, se destaca por ser uma indústria de base e também por sua condição de impulsionar novas e outras oportunidades econômicas. 
+
+Por esta razão existe uma correlação entre as ações e políticas deste setor com outros setores, cuja lista exemplificativa inclui: 
+
+1. Política Energética 
+2. Política Agrícola 
+3. Política Industrial
+4. Política Ambiental 
+5. Política de Gestão do Território 
+6. Política de Resíduos Sólidos  
+7. Política de Segurança de Barragens
+Marco Legal: O marco legal decorre de disposições da Constituição Federal (art. 20, art. 176, art. 225 e art. 231, como exemplos). Adicionalmente, aplicam-se: (i) Decreto-Lei nº 227/1967; (ii) Lei nº 6.567/1978; (iii) Lei nº 7.805/1989; Lei 13.540/2017, (iv) Lei nº 13.575/2017; (v) Decreto nº 9.406/2018; (vi) Decreto nº 11.659/2023; (vii) Decreto nº 11.108/2022.
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Mineração 2030 e Plano Decenal de Mapeamento Geológico Básico e Levantamento de Recursos (PlanGeo)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

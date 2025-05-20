@@ -1,0 +1,821 @@
+passage: Programa Número 2302
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 469
+Indicador: 9349
+Denominação: Índice de conformidade dos tratamentos fitossanitários com fins quarentenários realizados por empresas credenciadas /registradas
+Sigla: ITFFQ
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: O índice fornecerá em termos percentuais a conformidade dos tratamentos realizados no controle de pragas na importação e exportação.
+Período Ou Data A Que Se Refere: De janeiro a dezembro (anual)
+Data De Divulgação/Disponibilização: Última semana de fevereiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ITFFQ: Índice de conformidade dos tratamentos com fins quarentenários nacional, composto do somatório do ITFFQ das regiões dividido por 5.
+
+NTR: Tratamentos realizados, contabilizados pelos tratamentos comunicados ao DSV e por tratamentos não comunicados.
+
+AI: Infração considerada procedente, contabilizado por infração independente e apenas uma por tratamento. Um tratamento não realizado e não comunicado e posteriormente constatado como fraude também deve ser contabilizado no AI.
+Fonte De Dados Das Variáveis De Cálculo: Comunicados de tratamento e Relatórios de controle dos Processos Administrativos de Fiscalização
+Forma De Disponibilização: O indicador da entrega estará em sistema específico da gestão estratégica do MAPA (SA). Para obter informações, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br.
+Procedimento De Cálculo: Cada infração considerada procedente será contabilizada na variável AI do período correspondente ao ano em que foi realizado (ou não realizado em caso de fraude no tratamento) do tratamento fitossanitário.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Entrega: 481
+Indicador: 9360
+Denominação: Número de ações educativas em defesa agropecuária executadas anualmente
+Índice De Referência: 6.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador quantifica o total de ações educativas executadas no âmbito da defesa agropecuária em áreas previamente identificadas como de interesse estratégico, com base em critérios técnicos definidos pela SDA. São consideradas ações educativas as atividades que envolvem oficinas, capacitações presenciais ou a distância, seminários,  visitas técnicas, campanhas de orientação e outras metodologias participativas, com foco na ampliação do conhecimento técnico, na adoção de boas práticas e na mobilização dos atores locais.
+A mensuração é realizada com base em registros oficiais dos eventos executados, informados pelas unidades envolvidas ou parceiros institucionais, e tem como objetivo monitorar a capilaridade, a frequência e o foco territorial das ações de caráter pedagógico promovidas pela SDA.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano.
+Data De Divulgação/Disponibilização: 31 de janeiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de ações de educação sanitária realizadas
+Fonte De Dados Das Variáveis De Cálculo: registros oficiais dos eventos executados
+Forma De Disponibilização: Através dos registros oficiais dos eventos executados ou outros meios oficiais de divulgação de dados da Secretaria de Defesa Agropecuária.
+Procedimento De Cálculo: Somatório do número de ações de educação sanitária realizadas no período de um ano
+Notas Explicativas: O indicador será utilizado para avaliar se ocorrerá efetivo atendimento da meta no período analisado, sendo possível verificar se houve aumento do número de ações de educação sanitária. 
+Um resultado abaixo da meta do indicador pode refletir pouca capacidade operacional, de articulação interinstitucional ou limitações de recursos humanos, financeiros ou até tecnológicos. A busca da causa do insucesso será importante para se identificar os pontos críticos e oportunidades de melhoria do processo.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 453
+Indicador: 9327
+Denominação: Número de áreas epidemiológicas com a realização do Plano de Vigilância de influenza aviária e doença de Newcastle
+Sigla: PPA_OE1_E2_DSA_I
+Em Apuração: Não
+Unidade De Medida: Área Avaliada
+Descrição: O indicador corresponde à quantidade de áreas epidemiológicas com a realização do seu plano amostral correspondente.
+Período Ou Data A Que Se Refere: De 01/07 a 30/06 do ano seguinte
+Data De Divulgação/Disponibilização: Primeira semana do mês de setembro de cada exercício.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NA = Número de áreas epidemiológicas com a realização do Plano de Vigilância de Influenza aviária e doença de Newcastle.
+A1 - percentual de execução do plano na área epidemiológica 1
+A2 - percentual de execução do plano na área epidemiológica 2
+A3 - percentual de execução do plano na área epidemiológica 3
+A4 - percentual de execução do plano na área epidemiológica 4
+A5 - percentual de execução do plano na área epidemiológica 5
+A6 - percentual de execução do plano na área epidemiológica 6
+A7 - percentual de execução do plano na área epidemiológica 7
+Fonte De Dados Das Variáveis De Cálculo: Dados recebidos pelos Serviços Veterinários Oficiais nos Estados coletados em aplicativos próprios e consolidados em planilhas eletrônicas
+Forma De Disponibilização: O indicador integrará sistema específico da gestão estratégica do MAPA (SA), disponível a qualquer momento e para obter informações sobre o mesmo, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br
+Procedimento De Cálculo: Total de estabelecimentos amostrados na área epidemiológica em relação ao total de estabelecimentos previstos para serem amostrados na área epidemiológica.
+Limitações: O Plano de Vigilância de IA e DNC é executado nos Estados pelo Serviços Veterinários Estaduais (SVE). 
+As possíveis limitações do SVE podem abranger:
+ - materiais e insumos para a colheita de amostras; 
+- quantidade de profissionais disponíveis para a colheita de amostras; 
+- verbas para deslocamentos dos profissionais; 
+- veículos disponíveis 
+- verbas para o envio de amostras ao laboratóri
+Notas Explicativas: A condição sanitária da avicultura nacional para as doenças de influenza aviária e doença de Newcastle é determinante para a manutenção e abertura de mercados compradores de produtos avícolas do Brasil, atualmente o segundo maior produtor e o maior exportador de carne de frango do mundo.
+Ambas as doenças possuem grande importância para a avicultura e sua ocorrência pode causar enormes impactos à saúde animal, ambiental, social e econômica, além de possíveis impactos à saúde pública, pelo potencial zoonótico da IA.
+A manutenção da condição sanitária do Brasil de livre de IA e DNC na avicultura comercial proporciona maior segurança alimentar para a população brasileira e vantagem competitiva para o acesso a mercados internacionais. 
+Assim, as medidas de prevenção e a vigilância se tornam cada vez mais importantes, para possibilitar a detecção precoce dessas doenças, viabilizando o controle e a erradicação eficiente, e a certificação da condição de livre de doenças, ampliando o acesso dos sistemas produtivos ao comércio nacional e internacional, além de assegurar a capacidade de abastecer a demanda nacional. 
+Tais evidências são fundamentadas nas diretrizes da Organização Mundial de Saúde Animal (OMSA)
+para a segurança sanitária do comércio internacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 456
+Indicador: 9331
+Denominação: Número de áreas epidemiológicas com o Plano Integrado de Vigilância de Doenças dos Suínos em execução
+Sigla: PPA_OE1_E5_DSA_S
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2021-08-02 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador corresponde à quantidade de áreas epidemiológicas com o Plano Integrado em execução.
+Período Ou Data A Que Se Refere: Setembro a junho
+Data De Divulgação/Disponibilização: Todo mês de agosto do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de áreas epidemiológicas com o Plano Integrado de Vigilância de Doenças dos Suínos em execução.
+Fonte De Dados Das Variáveis De Cálculo: Sistema informatizado disponibilizado pelo DSA; planilhas preenchidas pelos laboratórios; OESAs
+Forma De Disponibilização: O indicador integrará sistema específico da gestão estratégica do MAPA (SA), disponível a qualquer momento e para obter informações sobre o mesmo, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br
+Procedimento De Cálculo: Ao final de cada ciclo de execução do Plano, os dados serão extraídos e analisados, aplicando-se a fórmula do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Entrega: 480
+Indicador: 9358
+Denominação: Número de cães de serviço formados pelo Centro Nacional de Cães de Detecção - CNCD/K9
+Sigla: EQUIPE K9
+Índice De Referência: 4.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador contabiliza o número de cães de serviço formados pelo Centro Nacional de Cães de Detecção.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano.
+Data De Divulgação/Disponibilização: Primeira Semana de Março.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Não se aplica
+Fonte De Dados Das Variáveis De Cálculo: Não se aplica
+Forma De Disponibilização: Informação do Centro Nacional de Cães de Detecção
+Procedimento De Cálculo: Como é unidade de medida, não se aplica.
+Limitações: O resultado é apresentado em unidade e sempre se utilizam números inteiros para  o indicador. É importante ressaltar que em um único local demandado pelos Departamentos técnicos da SDA para a existência de cão de faro, pode haver mais de uma Equipe K9. Assim, para a contabilização do nº. de Equipes K9 demandadas, é importante se levar em consideração o número real de cães de detecção que se deseja colocar em operação em uma localidade, pois em decorrência deste número é que se extrairá o número real de Equipes K9 implantadas, independente da localidade.
+Notas Explicativas: O Indicador apresentado para uso no CeNCD foi estabelecido para possibilitar a quantificação da capacidade operacional do Centro em atendimento às demandas da SDA. Dada a natureza extremamente peculiar da atividade do CeNCD, tornou-se difícil o estabelecimento de um índice que pudesse traduzir todo o trabalho realizado para que se pudesse colocar em operação uma Equipe K9, pois são ações que envolvem processos licitatórios, processos seletivos, liberação de servidores para operar os cães, e também recursos financeiros para as contratações envolvidas. Assim, entender-se-ia como insucesso no percentual do índice anteriormente definido, um baixo atendimento das demandas recebidas, que pode posteriormente ser detalhado demonstrando em qual etapa do processo de implantação da Equipe K9 o MAPA tem maior limitação na execução, cita-se: processos de licitação (aquisição de cães, viaturas, material cinotécnico, serviços de tratador de animais e assistência veterinária, entre outros), ações de pesquisa e ensino (desenvolvimento de técnicas de detecção de odorantes, preparo de odorantes, seleção e formação de cães e operadores), limitações de estrutura física (falta de local adequado para treinamento dos cães de detecção, não execução da obra do Centro de Treinamento) e limitações de material humano (falta de servidores competentes para conduzir os cães de serviço e falta de servidores competentes no corpo docente para o ensino).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Entrega: 483
+Indicador: 9362
+Denominação: Número de Operações Especiais de Vigilância Fronteiriça realizadas
+Sigla: INDOPER
+Índice De Referência: 12.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de operações de vigilância em defesa agropecuária que foram realizadas no período de 12 meses, como uma ação de coerção ao trânsito e comércio irregulares que são as principais causas de introdução de pragas e doenças em áreas livres, bem como de produtos agropecuários ilícitos no País.
+O quantitativo de operações realizadas é um indicador da capacidade de resposta, de mobilização e execução de ações planejadas e coordenadas com outros órgãos para a coerção a irregularidades e ilicitudes com animais, vegetais, seus produtos e insumos agropecuários
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Operações realizadas por ano
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informações - SEI
+Forma De Disponibilização: Drive do SECOT/CGVIGIAGRO/DTEC e os processos relacionados ao assunto disponíveis no Sistema Eletrônico de Informações.
+Procedimento De Cálculo: Somar o número de operações realizadas a cada ano.
+Limitações: O número é inteiro, mas o número de operações realizadas depende fundamentalmente da disponibilidade de recursos financeiros.
+Notas Explicativas: Deve ser feita a análise crítica dos resultados do indicador, devendo ser avaliadas as causas que possam levar a resultados abaixo da meta e propostas medidas de correção.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 463
+Indicador: 9338
+Denominação: Número de pragas quarentenárias ausentes prioritárias sob vigilância oficial
+Sigla: PQAND
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede o número de pragas que não ocorrem no Brasil que tiveram eventual dispersão a partir do foco de sua introdução.
+Período Ou Data A Que Se Refere: De janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de fevereiro.
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: NS - Número focos de pragas quarentenárias ausentes identificados na região sul nos quais houve dispersão para outros municípios além daqueles definidos nos levantamentos de delimitação ao final do período de apuração
+
+NSE -Número focos de pragas quarentenárias ausentes identificados na região sudeste nos quais houve dispersão para outros municípios além daqueles definidos nos levantamentos de delimitação ao final do período de apuração
+
+NCO - Número focos de pragas quarentenárias ausentes identificados na região centro nos quais houve dispersão para outros municípios além daqueles definidos nos levantamentos de delimitação ao final do período de apuração
+
+NNE - Número focos de pragas quarentenárias ausentes identificados na região nordeste nos quais houve dispersão para outros municípios além daqueles definidos nos levantamentos de delimitação ao final do período de apuração
+
+NN - Número focos de pragas quarentenárias ausentes identificados na região norte nos quais houve dispersão para outros municípios além daqueles definidos nos levantamentos de delimitação ao final do período de apuração
+Fonte De Dados Das Variáveis De Cálculo: Relatórios estaduais de monitoramento dos focos iniciais das pragas Quarentenárias ausentes ocorridos no período.
+Forma De Disponibilização: O indicador da entrega estará em sistema específico da gestão estratégica do MAPA (SA). Para obter informações o público externo ao MAPA deverá solicitar pelo fala.br.gov.br.
+Procedimento De Cálculo: Ao final do período de apuração que se totalize a quantidade de focos para os quais houve dispersão para outros municípios além daqueles definidos nos levantamentos de delimitação de pragas quarentenárias ausentes.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 454
+Indicador: 9329
+Denominação: Número de UFs com Programas de Vigilância Baseada em risco para Febre Aftosa em execução
+Sigla: PPA_OE1_E3_DSA_F
+Em Apuração: Não
+Unidade De Medida: unidade da federação
+Descrição: O indicador representa o número de Unidades Federativas que possuem programas de vigilância baseada em risco para febre aftosa (PVBR) em execução.
+Período Ou Data A Que Se Refere: 01/01 a 31/12 do ano anterior ao que se refere.
+Data De Divulgação/Disponibilização: Última semana de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A=número de UFs com o Plano Integrado implementado.
+Fonte De Dados Das Variáveis De Cálculo: Serviços Veterinários Estaduais da UFs.
+Forma De Disponibilização: O indicador integrará sistema específico da gestão estratégica do MAPA (SA), disponível a qualquer momento e para obter informações sobre o mesmo, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br
+Procedimento De Cálculo: Avaliação ao fim de cada ano do número de UFs que implantaram o PVBR.
+Limitações: O Plano Integrado de Vigilância de Doenças dos Suínos é executado nos Estados pelo Serviços Veterinários Estaduais (SVE). 
+As possíveis limitações do SVE podem abranger:
+ 
+- materiais e insumos para a colheita de amostras; 
+- quantidade de profissionais disponíveis para realização da vigilância sorológica e clínica; 
+- verbas para deslocamentos dos profissionais; 
+- veículos disponíveis; 
+- verbas para o envio de amostras ao laboratório.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 462
+Indicador: 9337
+Denominação: Número de UF sem ocorrência da praga Bactrocera carambolae (Mosca-da-Carambola)
+Sigla: NOBC
+Índice De Referência: 24.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade da federação
+Descrição: Os principais impactos dessa praga são ambientais e socioeconômicos, visto que as medidas usadas para o controle provocam aumento dos custos de produção e perda de valor comercial das frutas. A dispersão e o ataque da mosca da carambola provocam perdas significativas na produção, uma vez que os frutos infestados não se desenvolvem normalmente e caem antes do tempo.
+A presença da mosca da carambola pode limitar, ainda, a participação em mercados consumidores fundamentais para a economia do Brasil, pois as regras de segurança e saúde dos mercados consumidores exigem que a importação seja suspensa, quando há focos da praga em alguma região gerando perdas econômicas e de postos de trabalho no país. 
+A não dispersão dessa praga é essencial para levar viabiliza a produção de alimentos e o acesso a mercados.
+Período Ou Data A Que Se Refere: janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de fevereiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NS - Número de unidades da federação da região Sul sem a ocorrência da praga ao final do período de apuração
+NSE - Número de unidades da federação da região Sudeste sem a ocorrência da praga ao final do período de apuração
+NCO - Número de unidades da federação da região centro este sem a ocorrência da praga ao final do período de apuração
+NNE - Número de unidades da federação da região nordeste sem a ocorrência da praga ao final do período de apuração
+NN - Número de unidades da federação da região norte sem a ocorrência da praga ao final do período de apuração
+Fonte De Dados Das Variáveis De Cálculo: Relatórios estaduais de monitoramento da praga Quarentenária Presente Bactrocera carambolae (Mosca-da-Carambola).
+Forma De Disponibilização: O indicador da entrega estará em sistema específico da gestão estratégica do MAPA (SA). Para obter informações, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br.
+Procedimento De Cálculo: Ao final do período de apuração que se totalize a quantidade de unidades da federação nas quais não foi identificada a ocorrência da praga quarentenária presente Bactrocera carambolae (Mosca-da-Carambola).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 455
+Indicador: 9330
+Denominação: Número de Unidades Federativas com programa de vacinação contra brucelose bovina e bubalina ampliado
+Sigla: PPA_OE1_E4_DSA_B
+Em Apuração: Não
+Unidade De Medida: unidade da federação
+Descrição: As UFs selecionadas não possuem programa de vacinação implantado, apresentando baixa cobertura vacinal contra brucelose de bezerras bovinas e bubalinas nos últimos anos e, por isso, são necessárias ações a serem executadas pelo Serviço Veterinário Oficial, para o aumento dos índices de vacinação, conforme prevê o Regulamento Técnico do Programa Nacional de Controle e Erradicação da Brucelose e da Tuberculose Animal.
+Período Ou Data A Que Se Refere: 1° de janeiro a 31 de dezembro do ano anterior ao da avaliação do indicador
+Data De Divulgação/Disponibilização: 31 de julho do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Índice vacinal de brucelose  = *Número de bezerras vacinadas de 3 a 8 meses no período de 12 meses  x 100 
+                                                    **Número de bezerras existentes de 0 a 12 meses no período de 12 meses 
+
+NBV = Número de bezerras vacinadas de 3 a 8 meses no período de 12 meses
+NB = Número de bezerras existentes de 0 a 12 meses no período de 12 meses
+Fonte De Dados Das Variáveis De Cálculo: Planilhas semestrais de vacinação preenchida pelos Serviços Veterinários Estaduais
+Forma De Disponibilização: O indicador integrará sistema específico da gestão estratégica do MAPA (SA), disponível a qualquer momento e para obter informações sobre o mesmo, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br
+Procedimento De Cálculo: O Departamento de Saúde Animal (DSA) utiliza metodologia padronizada para o cálculo do índice de vacinação contra brucelose a ser utilizada pelas UF, considerando o universo de bezerras a serem vacinadas no ano corrente (quantitativo de bezerras que nasceram no período de 12 meses). Para tanto, utiliza-se a faixa etária de fêmeas bovinas e bubalinas existentes de 0 a 12 meses e o número de bezerras bovinas e bubalinas vacinadas na faixa etária de 3 a 8 meses de idade. O numerador da fórmula é obtido com o somatório do número de bezerras bovinas e bubalinas vacinadas de 03 a 08 meses informado no 1° e  no 2° semestre do ano,  através das planilhas semestrais de vacinação. O denominador é obtido a partir do número de bezerras existentes de 0 a 12 meses no ano, informado na planilha semestral de vacinação do 2° semestre
+Limitações: As limitações podem estar relacionadas a:
+Infraestrutura insuficiente, como recursos humanos e financeiros necessários
+Eventual ausência de insumos (vacinas)
+Entraves para a implementação das diretrizes necessárias ao cumprimento de todas as etapas
+Entre outras.
+Notas Explicativas: O índice mínimo de vacinação contra brucelose recomendado pela legislação vigente é de 80%. Apesar de muitas UF não terem atingido esse índice, considera-se que uma UF possui índice de vacinação implantando, quando esta apresenta índices próximos de 80 % ao longo de vários anos, os quais também auxiliam na redução da prevalência da doença na UF.
+Para o  aumento dos índices de vacinação contra brucelose de fêmeas bovinas e bubalinas é necessária a implantação de várias ações de todos os atores envolvidos, incluindo principalmente o Órgão Executor de Sanidade Animal do estado, tais como: bloqueio da emissão de GTAs para propriedades inadimplentes e para isso, é necessário um sistema informatizado robusto; legislação estadual que permita aplicação de penalidades aos produtores inadimplentes, recursos humanos e financeiros para fiscalização das propriedades inadimplentes e para realização de ações de educação em saúde animal e conscientização dos proprietários de animais, entre outros. Algumas destas ações elencadas, não são de realização imediata, como por exemplo, a adequação de um sistema informatizado para bloqueio de emissão de GTAs para propriedades inadimplentes.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Entrega: 478
+Indicador: 9357
+Denominação: Percentual de amostras analisadas dentro do prazo previsto
+Índice De Referência: 80.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede a qualidade das análises laboratoriais na dimensão temporal, considerando o tempo real de emissão do relatório de ensaio em relação ao prazo estabelecido como prazo adequado.
+Avalia capacidade de os LFDA atuarem de forma tempestiva e eficiente nas análises laboratoriais de fiscalização e ações de Defesa Agropecuária, de modo a contribuir para a promoção da saúde pública e o desenvolvimento do setor agropecuário em benefício da sociedade brasileira.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano.
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1-) amostras analisadas no prazo
+2-) total de amostras analisadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de gerenciamento de informações laboratoriais- LIMS
+Forma De Disponibilização: Drive da CPG/CGAL
+Procedimento De Cálculo: Utilizar o formulário eletrônico de coleta do indicador (XLS) e o seu Documento orientativo (DOC)
+Limitações: Utilizar duas casas decimais
+Notas Explicativas: Deve ser feita a análise crítica dos resultados do indicador e para resultados abaixo da meta deve-se avaliar as causas e propor ações de correção.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 477
+Indicador: 9355
+Denominação: Percentual de demandas de estados, municípios e consórcios identificados a serem qualificadas para viabilizar a adesão ao SISBI-POV, atendidas
+Sigla: SIBPOV
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-01-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai contabilizar o percentual de entidades estaduais e municipais qualificadas para aderirem ao SISBI-POV Serão considerados os entes públicos aderidos ao SISBI-POV, em municípios e consórcios públicos de municípios que abrangem mais de 50 mil habitantes.
+Período Ou Data A Que Se Refere: De Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: Até primeira semana de fevereiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DA= demanda atendida
+DT=demanda total
+Fonte De Dados Das Variáveis De Cálculo: Atas de reuniões, registro de presença em evento
+Forma De Disponibilização: Publicação nos meios oficiais de comunicação da Secretaria de Defesa Agropecuária.
+Procedimento De Cálculo: Número de ações realizadas.
+Limitações: O foco é estimular a adesão ao SISBI-POV de municípios e consórcios públicos de municípios que abrangem mais de 50 mil habitantes.
+Notas Explicativas: O Sistema de Inspeção de Produtos de Origem Vegetal (SISBI-POV), que faz parte do Sistema Unificado de Atenção à Sanidade Agropecuária (SUASA), padroniza e harmoniza os procedimentos de inspeção de produtos de origem vegetal para garantir a inocuidade, qualidades desses produtos.
+Os Estados, o Distrito Federal, os Municípios e os Consórcios Públicos Municipais podem solicitar a equivalência dos seus Serviços de Inspeção. 
+Os requisitos e demais procedimentos necessários para a adesão ao SISBI-POV já foram definidos pelo  Ministério da Agricultura, Pecuária e Abastecimento (MAPA) e publicados na PORTARIA MAPA Nº 153, de 27 de Maio de 2021.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 474
+Indicador: 9353
+Denominação: Percentual de empresas de bebidas e qualidade vegetal fiscalizadas com aplicação dos procedimentos de verificação dos programas de autocontrole
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: Esse indicador medirá o percentual de empresas de bebidas e qualidade vegetal fiscalizadas com aplicação dos procedimentos de verificação dos programas de autocontrole.
+Como é um procedimento novo, ele nos permitirá avaliar a sua evolução pela metodologia implementada pelo autocontrole.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano.
+Data De Divulgação/Disponibilização: Final de fevereiro do ano posterior à coleta da informação
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x=Percentual de empresas de bebidas e qualidade vegetal fiscalizadas com aplicação dos procedimentos de verificação dos programas de autocontrole.
+a= número de empresas de bebidas e qualidade vegetal fiscalizadas com aplicação dos procedimentos de verificação dos programas de autocontrole.
+b= número total de empresas de bebidas e qualidade vegetal
+Fonte De Dados Das Variáveis De Cálculo: Extração direta do sistema de autocontrole - planilhas DIPOV
+Forma De Disponibilização: Site do DIPOV
+Procedimento De Cálculo: Extração direta do sistema de autocontrole
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 457
+Indicador: 9332
+Denominação: Percentual de empresas fiscalizadas com base em análise de risco conforme programação anual
+Sigla: PPA_OE1_E6_DSA_I
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: O indicador representa o quantitativo de empresas fiscalizadas com base em análise de risco com base na programação anual da unidade.
+Período Ou Data A Que Se Refere: De 1º de janeiro à 31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: As informações poderão ser divulgadas no segundo trimestre do ano subsequente, em cada exercício
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: FBRR =  número de fiscalizações baseadas em risco realizadas
+FBRP = número de fiscalizações baseadas em risco programadas
+Fonte De Dados Das Variáveis De Cálculo: Dados enviados pelas unidades executoras das atividades, consolidados pela unidade central.
+Forma De Disponibilização: O indicador integrará sistema específico da gestão estratégica do MAPA (SA), disponível a qualquer momento e para obter informações sobre o mesmo, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br
+Procedimento De Cálculo: Os dados das fiscalizações são informados por meio de planilhas que são recebidas pela unidade central e consolidadas, com aplicação da fórmula constante do indicador
+Limitações: Falta de infraestrutura necessária para o desenvolvimento das ações - mão de obra, recursos humanos, veículos.
+Problemas em sistemas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 458
+Indicador: 9333
+Denominação: Percentual de fiscalizações com base no Risco Estimado realizadas
+Sigla: PPA_OE1_E7_DIPOA
+Índice De Referência: 40.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de fiscalizações executadas em estabelecimentos sob inspeção periódica do SIF, com referência ao RE apurado.
+Período Ou Data A Que Se Refere: Apuração no fechamento anual (10º dia útil do mês de janeiro de cada ano)
+Data De Divulgação/Disponibilização: Primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: 1º) Risco Estimado para cada estabelecimento sob inspeção periódica
+2º) Número de Fiscalizações estimadas para execução no período de 1 ano (soma para os estabelecimentos por estado / SIPOA), para todos os estabelecimentos sob inspeção periódica.
+3º) Por UF/SIPOA: Percentual executado = Nº de Fiscalizações Realizadas x 100/Número de Fiscalizações Previstas
+
+Inativação / cancelamento de registros de estabelecimentos; registros de novos estabelecimentos
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informações Gerenciais do SIF - SIGSIF
+Forma De Disponibilização: POA DIPOA, atualizado até o 20º dia de cada mês
+Procedimento De Cálculo: Conforme detalhamento apresentado na FÓRMULA DE CÁLCULO (3 passos)
+Limitações: Disponibilização de dados pelos SIPOAs
+Notas Explicativas: Íntima dependência com a disponibilidade de força de trabalho e recursos financeiros.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 475
+Indicador: 9354
+Denominação: Percentual de fiscalizações em estabelecimentos, produtos e áreas de maior risco
+Índice De Referência: 40.0
+Em Apuração: Sim
+Data De Apuração: 2022-01-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Os estabelecimentos e produtos são classificados com base no gerenciamento de risco. O ranqueamento é formulado com base em um escore estabelecido para cada categoria de produto, calculado com base nos fatores de risco associados, sendo que quanto mais alto o escore, maior é o risco associado. Após o ranqueamento, os produtos são divididos nas categorias de risco muito alto, alto, mediano, médio e baixo. Quanto aos estabelecimentos, são classificados pelo tipo de produto elaborado em suas dependências. Aqueles estabelecimentos responsáveis pela elaboração de produtos de diferentes categorias de risco foram ranqueados com base no produto pertencente à classe de maior risco (conforme : muito alto, alto, mediano, médio e baixo). Assim, a partir desta categorização, as fiscalizações serão desenvolvidas com foco  em estabelecimentos, produtos e áreas de maior risco.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Até primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: FR - Fiscalizações realizadas em estabelecimentos, regiões e produtos de maior risco
+TF - Total de fiscalizações realizadas
+Fonte De Dados Das Variáveis De Cálculo: Planilhas DIPOV.
+Forma De Disponibilização: Planilhas de controle do DIPOV.
+Procedimento De Cálculo: Preenchimento de planilhas pelos serviços nos estados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 459
+Indicador: 9334
+Denominação: Percentual de novos Serviços de Inspeção que integraram o Sisbi-POA no ano anterior, monitorados no PACPOA/Sisbi
+Sigla: PACPOA/SISBI
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-03-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador representa o percentual dos Serviços de Inspeção que passaram a integrar o SISBI-POA no ano anterior e que estão sendo efetivamente monitorados no âmbito do PACPOA/SISBI.
+
+Sistema Brasileiro de Inspeção de Produtos de Origem Animal (SISBI-POA);
+Programa de Avaliação de Conformidade de Padrões Físico químicos e Microbiológicos de Produtos de Origem Animal com Selo SISBI (PACPOA-SISBI)
+Período Ou Data A Que Se Refere: O dado se refere ao período de jan-dez.
+Data De Divulgação/Disponibilização: 31 de maio do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= n° de Serviços de Inspeção que passaram a integrar o Sisbi-POA no ano anterior incluídos no PACPOA/Sisbi
+B= n° de Serviços de Inspeção que integraram o Sisbi-POA no ano anterior
+Fonte De Dados Das Variáveis De Cálculo: - Dados do e-SISBI-SGSI
+- Cronograma de coleta/amostras do Programa PACPOA
+Forma De Disponibilização: - Sistema e-SISBI SGSI
+- Anuário do Sisbi-Poa
+Procedimento De Cálculo: (n° de Serviços de Inspeção que passaram a integrar o Sisbi-POA no ano anterior incluídos no PACPOA/Sisbi) / n° de Serviços de Inspeção que integraram o Sisbi-POA no ano anterior) * 100
+Limitações: Número inteiros, sem emprego de casas decimais
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Entrega: 452
+Indicador: 9326
+Denominação: Percentual de suspeitas de doenças emergenciais nos animais atendidas pelos serviços veterinários oficiais no prazo regulamentar
+Sigla: PPA_OE1_E1_DSA_
+Índice De Referência: 64.89
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador “Porcentagem de suspeitas de doenças emergenciais nos animais atendidas pelos Serviços Veterinários Oficiais no prazo regulamentar” permite avaliar o total de todos os atendimentos a notificações de suspeitas de doenças alvo das síndromes hemorrágica dos suínos (doenças alvo: Peste Suína Clássica e Peste Suína Africana), respiratória e nervosa das aves (doenças alvo: Influenza aviária de Doença de Newcastle) e síndrome vesicular (doença alvo: Febre aftosa), realizados pelo serviço veterinário oficial dentro do tempo considerado adequado para a rápida detecção e contenção de doenças com alto potencial de disseminação. O indicador reflete a capacidade técnica e operacional dos Serviços Veterinários Oficiais para efetiva detecção e erradicação das doenças emergenciais nos animais de produção.
+Período Ou Data A Que Se Refere: Os períodos vão de 1º de janeiro a  31 de dezembro de cada exercício.
+Data De Divulgação/Disponibilização: Última semana de fevereiro do ano subsequente a cada período de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SAP = Notificações de Suspeitas Atendidas pelo Serviço veterinário oficial dentro do prazo regulamentado e
+SAT = Número Total de notificações de Suspeitas Atendidas.
+Fonte De Dados Das Variáveis De Cálculo: e-SISBRAVET
+Forma De Disponibilização: O indicador integrará sistema específico da gestão estratégica do MAPA (SA), disponível a qualquer momento e para obter informações sobre o mesmo, o público externo ao MAPA deverá solicitar pelo fala.br.gov.br
+Procedimento De Cálculo: Ao final do período, os dados serão extraídos do sistema e-SISBRAVET e cada investigação será categorizada conforme o tempo de atendimento. Será feita a análise para cada síndrome e serão lançados os valores globais, por estado, de acordo com a fórmula do indicador.
+Limitações: O indicador sofre forte influência do número de suspeitas notificadas ao Serviço Veterinário Oficial no período. Diante disso, características produtivas de cada estado, como uma maior concentração de estabelecimentos de determinadas cadeias, em especial suinocultura e avicultura, representam um desafio adicional ao atendimento da meta.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Entrega: 471
+Indicador: 9351
+Denominação: Taxa de conformidade de empresas e produtos fiscalizados
+Sigla: DE/CONF
+Índice De Referência: 65.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador monitora a evolução da taxa de autuação sobre fiscalizações realizadas. Se aplica às fiscalizações realizadas nos estabelecimentos, independente da área de atuação ou atividade (comercial, importação, prestação de serviços ou pesquisas). Se presta também para apontar a conformidade dos produtos. Configura-se como melhor indicador a ser usado pois trata-se de medida relativa e pode ser usado para somar as diversas áreas de um departamento, como também para comparar diferentes Unidades da Federação. Não se trata de indicador qualitativo, com objetivo de classificar as empresas, cadeias produtivas ou o setor, mas quantitativo, para constatar a capacidade dos agentes envolvidos em demonstrar seu desempenho na implementação dos requisitos básicos do programa de autocontrole e conformidade dos produtos.
+Período Ou Data A Que Se Refere: O indicador refere-se ao ano finalizado.
+Data De Divulgação/Disponibilização: Última semana de Janeiro referente ao ano anterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de autos de infração emitidos
+Número de termos de fiscalização emitidos
+Número de termos de coleta de amostras emitidos
+Número de certificados de análise fiscal emitidos
+Fonte De Dados Das Variáveis De Cálculo: Indicadores Strategic Adviser
+Relatórios Mensais de Atividades
+Certificados de análises fiscais emitidos pela rede LFDA ou credenciada
+Forma De Disponibilização: Pode ser incluído via Painel Qlik Sense ou adicionado ao Strategic Adviser.
+Procedimento De Cálculo: Apurar mensalmente o número de fiscalizações realizadas, número de amostras coletadas, número de autos de infração emitidos e os dados dos resultados das análises fiscais realizadas pela rede LFDA.
+Somar todos os autos de infração emitidos no período apurado e dividir pelo número total de fiscalizações de estabelecimentos e produtos (número de termos de fiscalização + número de termos de coleta de amostras)
+Limitações: São números inteiros, podendo ser usadas duas casas decimais no resultado %.
+Notas Explicativas: Atenção para as informações dos certificados de análises laboratoriais. Quando houver análise pericial que altere a interpretação da análise fiscal, ou seja, reversão de resultado de não conforme para conforme, deve-se atualizar o indicador retroativamente.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Entrega: 482
+Indicador: 9361
+Denominação: Tempo médio, em horas, para liberação agropecuária na importação e exportação, para os diferentes modos de transporte
+Índice De Referência: 95.82
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: hora
+Descrição: O tempo médio para liberação agropecuária tem como fonte a base de dados do SIGVIG3, que é o sistema, atualmente em produção, que faz a integração com o Portal Único - PU e que controla as operações de importação e exportação de mercadorias sob anuência/certificação do Ministério da Agricultura e Pecuária - MAPA. O índice é calculado através da média ponderada dos tempos médios das operações de importação, exportação de produtos de origem animal e exportação de produtos de origem vegetal. Para o caso das operações de importação e exportação de produtos de origem animal, o tempo para liberação é aferido entre a data do registro da LPCO (Licenças, Permissões, Certificados e Outros) e a data de seu respectivo deferimento; enquanto que para as exportações de produtos de origem vegetal, o tempo para liberação equivale ao tempo transcorrido entre a data de registro da LPCO e a consequente emissão do Certificado Fitossanitário.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Até 31 de janeiro do ano subsequente.
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: DT_CERT: Data de certificação;
+DT_REG: Data de registro;
+DT_DEF: Data de deferimento;
+N_OPS_VEX: Número de operações de exportação de produtos de origem vegetal;
+N_OPS_AEX: Número de operações de exportação de produtos de origem animal;
+N_OPS_IM: Número de operações de importação;
+TL_POV_EXPO: Tempo de liberação nas operações de exportação de produtos de origem vegetal;
+TL_POA_EXPO: Tempo de liberação nas operações de exportação de produtos de origem animal;
+TL_IMPO: Tempo de liberação nas operações de importação;
+TL_TOTAL: Tempo médio para liberação agropecuária;
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do sistema SIGVIG3.
+Forma De Disponibilização: Página de internet do Ministério da Agricultura e Pecuária - MAPA
+Procedimento De Cálculo: A extração dos dados que serão utilizados no cálculo do presente indicador é feita através da execução de script SQL na base de dados Oracle que mantém os registros do Sistema SIGVIG3. Uma vez executado, o script retorna o número de operações e o tempo médio dessas operações de forma agrupada para cada mês do ano em análise. Como os registros estão separados em tabelas distintas (importação; exportação animal; e exportação vegetal), são necessárias as execuções de três scripts distintos para a extração dos dados. De posse dos dados para cada tipo de operação, procede-se o cálculo da média ponderada para a obtenção do Tempo médio para liberação agropecuária (TL_TOTAL), conforme informado no campo ‘FÓRMULA DE CÁLCULO’.
+Limitações: O indicador faz referência apenas ao início e ao final do processo. O aprimoramento dos registros nos novos sistemas poderá permitir avaliações mais detalhadas e precisas já que poderá subtrair dos cálculos os tempos que não dependem da ação direta do MAPA como mencionado anteriormente.
+Notas Explicativas: O presente indicador é extremamente importante na gestão das atividades da Coordenação-geral de Vigilância Agropecuária do MAPA (CGVIGIAGRO/DTEC), já que permitirá identificar atrasos nos controles feitos pelo MAPA nas operações de comércio exterior. Embora o indicador trate as operações de forma genérica, a extração dos dados, através dos scripts SQL, têm a capacidade de fazer agrupamentos por Unidade VIGIAGRO, por uso proposto,  por produto (importação) além de outros parâmetros, para que sejam possíveis correções pontuais nos controles ao longo do período em análise.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+passage: Programa Número 2302
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Indicador: 8961
+Denominação: Índice de conformidade de produtos de origem animal sob Inspeção Federal (SIF), em relação aos padrões de segurança estabelecidos na legislação nacional
+Sigla: CPOA
+Índice De Referência: 81.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador visa averiguar o nível de conformidade dos produtos de origem animal sob Inspeção Federal (SIF) em relação aos padrões de segurança estabelecidos na legislação nacional. 
+Esse indicador é compatível em seus atributos com aqueles do indicador estratégico do PE/ MAPA.
+Período Ou Data A Que Se Refere: 1/1/ a 31/12 do ano anterior ao que se refere.
+Data De Divulgação/Disponibilização: Última semana de abril
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: e: Nº de amostras de produtos de Origem Animal  registrados no Serviço de Inspeção Federal conformes para parâmetros Microbiológicos. 
+f: Total de amostras do PACPOA para parâmetros Microbiológicos analisadas
+g: Nº de Amostras de Produtos de Origem Animal registrados no Serviço de Inspeção Federal Conformes para parâmetros Físico-Químicos 
+h: Total de amostras do PACPOA para parâmetros Físico-Químicos analisadas)] x 100%
+Fonte De Dados Das Variáveis De Cálculo: Anuário dos Programas de Controle de Alimentos de Origem Animal do DIPOA / SDA / Mapa
+Forma De Disponibilização: O indicador da entrega estará em sistema específico da gestão estratégica do MAPA (SA). Para obter informações o público externo ao MAPA deverá solicitar pelo fala.br.gov.br.
+Procedimento De Cálculo: Acessar o documento "Anuário dos programas de controle de alimentos de origem animal do DIPOA" em "http://www.agricultura.gov.br/assuntos/inspecao/produtos-animal/publicacoes-dipoa".
+Descer na página até encontrar o anuário do ano desejado e baixar o arquivo PDF; Abrir o arquivo e, na seção sobre "Índice de conformidade das amostras de produtos de origem animal" buscar o valor das variáveis e-h (encontradas na linha “Total” da Tabela).
+Limitações: O indicador se refere aos produtos de origem animal inspecionados pelo Serviço de Inspeção Federal – SIF, não computando os dados dos sistemas estaduais ou municipais de inspeção.
+Notas Explicativas: Os resultados dos ensaios dos produtos de origem animal são emitidos pelos Laboratórios Federais de Defesa Agropecuária, compilados pelos Serviços de Inspeção nas Superintendências Federais da Agricultura nos estados e enviados ao Departamento de Inspeção de Produtos de Origem Animal - DIPOA, responsável por consolidar os dados do Programa de Avaliação da Conformidade de Padrões Físico-químicos e Microbiológicos de Produtos de Origem Animal (PACPOA) em nível nacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Indicador: 8962
+Denominação: Índice de conformidade de produtos de origem vegetal, em relação aos padrões estabelecidos na legislação
+Índice De Referência: 68.0
+Em Apuração: Sim
+Data De Apuração: 2022-01-30 00:00:00
+Unidade De Medida: porcentagem
+Descrição: São dados de fiscalização para verificação do atendimento aos padrões de Identidade e Qualidade estabelecidos no MAPA para os produtos de origem vegetal.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: até a primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Amostras conformes de Identidade e Qualidade da QV - ACQV
+Amostras conformes de Identidade e Qualidade da VB - ACVB
+Amostras analisadas de Identidade e Qualidade da QV - AAQV
+Amostras analisadas de Identidade e Qualidade da VB - AAVB
+Fonte De Dados Das Variáveis De Cálculo: Planilhas do DIPOV
+Forma De Disponibilização: Planilhas de controle do DIPOV
+Procedimento De Cálculo: Preenchimento de planilhas do DIPOV pelos estados
+Limitações: Somente números inteiros.
+Notas Explicativas: Deverão ser informadas o quantitativo de amostras analisadas e o quantitativo de amostras conformes, tanto para qualidade vegetal como para vinhos e bebidas. A partir desta informação e da aplicação da fórmula, obtém-se o índice de conformidade dos produtos de origem vegetal.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Indicador: 10790
+Denominação: Percentual de operações de importação e exportação fiscalizadas
+Índice De Referência: 100.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: As ações executadas nas importações controladas pelo Vigiagro são definidas pela Secretaria de Defesa Agropecuária - SDA. Todas as ações relativas ao trânsito internacional de produtos de interesse agropecuário que ingressam no país, são reguladas pelo Ministério da Agricultura e Pecuária - Mapa.
+Tais ações visam a prevenção e mitigação da introdução de pragas e doenças no Brasil, garantindo a sanidade e fitossanidade da produção agropecuária  e a saúde da população.
+
+As operações  nas exportações são definidas e executadas pela Secretaria de Defesa Agropecuária e tem como objetivo a facilitação do comércio internacional dos produtos agropecuários. Estas ações garantem que produtos de interesse agropecuário destinados à exportação atendam às exigências sanitárias, zoossanitárias, fitossanitárias, de origem, de identidade e de qualidade, estabelecidas pelos países importadores em acordos internacionais, que são  firmados entre o Ministério da Agricultura e Pecuária garantido  inspeções e certificações dos produtos agropecuários produzidos no país importador.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano.
+Data De Divulgação/Disponibilização: Até 31 de janeiro do ano subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N_OPS_EX: Número de operações de exportação
+N_OPS_EX_FISC: Número de operações de exportação fiscalizadas
+N_OPS_IM: Número de operações de importação
+N_OPS_IM_FISC: Número de operações de importação fiscalizadas
+P_OPS_EX_FISC: Percentual de operações de exportação fiscalizadas
+P_OPS_IM_FISC: Percentual de operações de importação fiscalizadas
+P_OPS_FISC: Percentual de operações fiscalizadas
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do SIGVIG3
+Forma De Disponibilização: Página de internet do Ministério da Agricultura e Pecuária - MAPA
+Procedimento De Cálculo: A extração dos dados que serão utilizados no cálculo do presente indicador é feita através da execução de script SQL na base de dados Oracle que mantém os registros do Sistema SIGVIG3. Os dados totalizados separadamente para operações de importação e exportação serão utilizados para o cálculo do indicador.
+Limitações: Como todas as operações de importação de mercadorias de interesse agropecuário devem obrigatoriamente ser submetidas ao controle do Ministério da Agricultura e Pecuária - MAPA, assim como todas as mercadorias que necessitem de Certificação Sanitária ou Fitossanitária, esse indicador, em condições normais, deverá sempre atingir 100%.
+Notas Explicativas: Entenda-se por operação de importação ou exportação fiscalizada, todo e qualquer controle efetuado pelo MAPA, incluindo o Gerenciamento de Risco - GR automatizado, análise documental ou inspeção física da mercadoria.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2302
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 84
+Enunciado: Fortalecer os mecanismos de saúde animal e de conformidade de insumos pecuários e produtos de origem animal, de modo articulado entre os entes do SUASA, assegurando a competitividade nacional e internacional.
+Descrição: Espera-se que, com a atuação do SUASA, tanto na área de saúde animal quanto de inspeção de seus produtos, o consumidor final tenha acesso a produtos de qualidade. A atuação na área de saúde animal na prevenção, vigilância e controle de enfermidades animais, além de levar ao aumento da produtividade, contribui para a alta qualidade sanitária dos produtos de origem animal e derivados.. Adicionalmente, a certificação da qualidade dos produtos de origem animal é um atributo para abertura de mercados internos e externos, além de contribuir para o comércio justo, eliminando do mercado produtos sem a qualidade adequada para consumo, gerando emprego e renda.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 85
+Enunciado: Fortalecer os mecanismos de sanidade vegetal e de conformidade de insumos e produtos de origem vegetal assegurando a competitividade nacional e internacional
+Descrição: Espera-se que, com a atuação do SUASA, tanto na área de sanidade vegetal quanto de inspeção de seus produtos e insumos da cadeia produtiva, o consumidor final tenha acesso a produtos de qualidade. A atuação na área de sanidade vegetal atua na prevenção ou controle de pragas, tanto exóticas quanto endêmicas, que levam à redução de produtividade e, em certos casos, contribui para a baixa qualidade sanitária dos produtos de origem vegetal derivados de lavouras que não estejam saudáveis. A atuação na inspeção, auditoria e registro de estabelecimentos e produtos, bem como o combate à fraude e o controle de resíduos e contaminantes, promovem a qualidade dos produtos, o desenvolvimento das cadeias produtivas, assegurando a competitividade nacional e internacional, em benefício da sociedade brasileira. Adicionalmente, a certificação de qualidade dos produtos de origem vegetal ou insumos da cadeia produtiva vegetal, é um atributo para abertura de mercados internos e externos, além de contribuir para o comércio justo, eliminando do mercado produtos sem a qualidade adequada para consumo.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Objetivo Específico: 86
+Enunciado: Fortalecer os serviços de vigilância agropecuária internacional, laboratórios oficiais, educação sanitária em atendimento às demandas da defesa agropecuária federal
+Descrição: A Defesa Agropecuária presta uma série de serviços transversais que colaboram com as áreas finalísticas de saúde animal, sanidade vegetal e qualidade de seus produtos e insumos. Os serviços de vigilância internacional atuam nas vias de entrada regulares (portos, aeroportos e fronteiras terrestres) e também na prevenção de trânsito internacional irregular por intermédio de operações específicas para evitar a introdução criminosa de animais, vegetais, seus produtos ou insumos. Os laboratórios oficiais e a rede credenciada contribuem fornecendo análises laboratoriais acreditadas por ISO 17025, que subsidiam todas as ações da defesa agropecuária, incluindo os certificados de qualidade de produtos. O programa de educação sanitária é voltado a um público diverso, incluindo não só produtores e agentes de assistência técnica, como também a população em geral. O conjunto desses serviços, uma vez fortalecidos, contribuem para a Defesa Agropecuária.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2302
+
+Exercício: 2025
+Programa: 2302
+Objetivo: 1269
+Enunciado: Assegurar a sanidade vegetal e a saúde animal, a qualidade, as práticas leais de produção e de comércio de produtos agropecuários, visando contribuir para a promoção da saúde pública e o desenvolvimento do setor agropecuário em benefício da sociedade brasileira, por meio da regulamentação, certificação, auditoria e fiscalização agropecuária.
+Descrição: Programa destinado a estruturar as ações da Defesa Agropecuária. Essas ações, além de direcionar as prioridades no nível federal, permitirão a organização das ações dos Órgãos Executores de Sanidade Agropecuária (OESA) nos níveis estadual e municipal, alinhadas às diretrizes federais.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2302
+
+Exercício: 2025
+Programa: 2302
+Título: Defesa Agropecuária
+Tipo: Finalístico
+Órgão: 22000.0
+Público-Alvo: Consumidores, integrantes da cadeia produtiva agropecuária, exportadores e importadores, OESA, SUASA
+Descrição Do Problema: Ameaças à saúde de animais e de plantas, à idoneidade de insumos, e à inocuidade de produtos agropecuários, com impactos negativos na saúde pública e no meio ambiente.
+Causa Do Problema: -Deficiência de estrutura e de ações de fiscalização
+- Fragilidade da vigilância agropecuária nacional e internacional
+- Baixa adoção de boas práticas produtivas por parte da cadeia agropecuária
+- Insuficiência de pesquisa direcionada no tema Defesa Agropecuária
+- Trânsito irregular de animais e vegetais e seus produtos e insumos
+Evidências Do Problema: A existência de doenças e pragas que acometem animais e vegetais, comprometendo a qualidade e a inocuidade dos alimentos e dos insumos agropecuários, o intercâmbio mundial crescente de insumos e de produtos, o aumento do trânsito internacional de cargas e de pessoas, a vulnerabilidade das fronteiras e a não-adoção de boas práticas por parte das indústrias são evidências do problema, o que impacta a cadeia produtiva do agronegócio brasileiro interna e internacionalmente.
+Justificativa Para A Intervenção: A contínua expansão da produção agropecuária brasileira e do acesso a mercados externos exige a existência de um serviço de defesa agropecuária capaz de mitigar os riscos de introdução e disseminação de pragas e doenças, especialmente em um País continental e com ampla diversidade de biomas. 
+A defesa agropecuária é um dos pilares da política agrícola e, segundo a Lei nº 8171/91, a defesa agropecuária deve assegurar: a sanidade das populações vegetais, a saúde dos rebanhos animais, a idoneidade dos insumos e dos serviços utilizados na agropecuária e a identidade e a segurança higiênico-sanitária e tecnológica dos produtos agropecuários finais destinados aos consumidores.
+É importante destacar que toda produção e comercialização agropecuária nacional (mercado interno e externo), bem como a importação de produtos e insumos agropecuários passam pela Defesa Agropecuária, representando 23% do PIB (Cepea, 2022) e 20% dos empregos (Cepea, 2023). 
+A continuidade da trajetória de sucesso do agronegócio brasileiro depende da existência de um serviço de defesa agropecuária capaz de fazer frente aos riscos de introdução e disseminação de pragas e de doenças e aos desafios advindos do crescimento do agronegócio e das oportunidades de expansão dos mercados externos. O crescimento acelerado da produção e do comércio exterior do agronegócio brasileiro trouxe, dentre outras consequências, a necessidade de reestruturar o sistema de defesa agropecuária brasileiro.
+Evolução Histórica: A fiscalização agropecuária, tanto no campo como na adequação da legislação, é reconhecida e tem sido intensiva ao longo dos anos, constituindo-se em escudo de proteção de todas as atividades do setor. O trânsito de produtos e de pessoas em razão das facilidades de locomoção com transposição de fronteiras terrestres e do aumento do comércio internacional impõem maior atenção às questões relacionadas às pragas quarentenárias dos cultivos nacionais.
+As experiências de políticas públicas já consolidadas que atuam sobre o problema são: análises de conformidade de produtos realizadas pela Rede LFDA, registro de produtos e estabelecimentos agropecuários, controle do trânsito de animais, vigilância agropecuária, inspeção e fiscalização de insumos e produtos agropecuários. No PPA 2008-2011, a defesa agropecuária contava com três Programas.Nos PPAs 2012-2015, 2016-2019 e 2020-2023 a Defesa Agropecuária contou com programas próprios, dada sua importância. Também contamos com a implementação do Programa Nacional de Erradicação e Prevenção da Febre Aftosa (PNEFA), Plano Estratégico para a Erradicação da Peste Suína Clássica (PSC) e Plano de contingência para evitar pragas quarentenárias
+Comparações Internacionais: O Brasil é o 2º maior produtor de alimentos do mundo e possui uma enorme fronteira terrestre com 10 países. Por tais fatores é signatário em determinações, procedimentos e acordos internacionais que estabelecem regras para prevenir as pragas de plantas e produtos vegetais, sua disseminação internacional, e especialmente sua introdução em áreas ameaçadas. Também detém status de país com risco insignificante para diversas doenças como a Febre Aftosa; Peste Bovina; EEB; PCB e Peste Suína Clássica.
+O Brasil está adequado a todas as regras do Codex Alimentarius, do Instituto Interamericano de Cooperação para a Agricultura – IICA, da Organização Mundial de Saúde Animal- OIE e da Convenção Internacional para a Proteção dos Vegetais- CIPV.
+Relação Com Os Ods: ODS 1 - Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável;
+ODS 12 - Assegurar padrões de produção e de consumo sustentáveis.
+Agentes Envolvidos: Membros do Sistema de Defesa Agropecuária (MAPA, serviços de defesa agropecuária estaduais, profissionais da iniciativa privada) e da cadeia produtiva agropecuária (iniciativa privada/autocontrole). A Embrapa realiza Pesquisa Agropecuária voltada à defesa agropecuária e a Conab fiscaliza os estoques governamentais e a sua inocuidade. A Ceplac interage com seus respectivos Departamentos e Serviços na realização de eventos de fiscalização, capacitação e pesquisa e difusão (sistema ATER) preventiva focados no contingenciamento das pragas quarentenárias.
+Articulação Federativa: Há articulação com os Órgãos Executores de Sanidade Agropecuária estaduais (OESA).
+Enfoque Transversal: O Programa tem interação com outras políticas públicas, com destaque para as políticas voltadas à: área econômica; e saúde pública; geração de emprego e renda; comércio exterior; segurança alimentar; segurança nacional; controle de fronteiras; fluxo migratório.
+Marco Legal: Marco Legal
+Lei de Política Agrícola nº 8.171/1991; Declaração de estado de emergência fitossanitária ou zoossanitária Lei nº 12.873/2013 e Decreto nº 8.133/2013; Suasa Decreto nº 5.741/2006; Agrotóxicos Lei nº 7.802/1989 e Decreto nº 4.074/2002; Fertilizantes Lei nº 6.894/1980 e Decreto nº 4.954/2004; Regulamento de Defesa Sanitária Vegetal Lei nº 24.114/1934; Regulamento do Serviço de Defesa Sanitária Animal Lei nº 24.548/1934. Lei nº 1.283/1950 – Lei da Defesa Agropecuária e todos os normativos pertinentes; Autocontrole - Lei nº 14.515/2022.
+Planos Nacionais, Setoriais E Regionais: PDA – Plano de Defesa Agropecuária
+PHEFA – Plano Hemisférico de Erradicação da Febre Aftosa
+Programa Regional de Erradicação da Mosca da Carambola (Brasil, Guiana e Suriname)
+PLANAPO - Plano Nacional de Agroecologia e Produção Orgânica
+Plano de Contingência da Monilíase do Cacaueiro
+Programa Nacional de Controle Higiênico-Sanitário de Moluscos Bivalves
+PPA-Suasa - Plano Plurianual do Suasa
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

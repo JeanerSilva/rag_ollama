@@ -1,0 +1,1449 @@
+passage: Programa Número 6114
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1199
+Indicador: 10236
+Denominação: Área das florestas públicas federais não destinadas
+Sigla: DESTFLO
+Índice De Referência: 29000000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: É importante salientar que o objeto de análise e deliberação da Câmara Técnica de Destinação e Regularização Fundiária de Terras Públicas Federais Rurais são as glebas públicas arrecadadas pela União e ainda não destinadas, que podem ou não conter áreas de floresta em seu interior. No entanto, a opção por se destacar, na entrega e em seu respectivo indicador, as florestas públicas federais não destinadas tem como objetivo enfatizar a importância de priorização dessas áreas no âmbito do colegiado, dado que são espaços privilegiados para a conservação dos ecossistemas brasileiros, para o reconhecimento de direitos territoriais de povos indígenas e comunidades tradicionais e para o direcionamento de esforços de contenção das frentes de desmatamento ilegal sobre a floresta.
+Período Ou Data A Que Se Refere: O indicador irá considerar o contingente de florestas públicas federais não destinadas medido nas edições anuais do Cadastro Nacional de Florestas Públicas, des
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Para o cálculo deste indicador serão considerados: 
+(1) a área de florestas públicas federais não destinadas (ha); e 
+(2) a área de florestas públicas federais destinadas por meio dos termos de acordo assinados no âmbito da Câmara Técnica de Destinação e Regularização Fundiária de Terras Públicas Federais Rurais.
+Fonte De Dados Das Variáveis De Cálculo: Serviço Florestal Brasileiro (SFB) / Ministério do Meio Ambiente e Mudança do Clima (MMA), responsável pelo Cadastro Nacional de Florestas Públicas.
+Ministério do Desenvolvimento Agrário e Agricultura Familiar (MDA), que coordena a Câmara Técnica de Destinação e Regularização Fundiária de Terras Públicas Federais Rurais.
+Forma De Disponibilização: Site do Ministério do Meio Ambiente e Mudança do Clima
+Procedimento De Cálculo: Para o cálculo deste indicador será aplicada a seguinte fórmula: somatório da área de florestas públicas federais não destinadas (FPFND), subtraído do somatório da área de florestas públicas federais destinadas (FPFD) no âmbito da Câmara Técnica de Destinação e Regularização Fundiária de Terras Públicas Federais Rurais
+Limitações: Para a mensuração do indicador serão utilizados os termos de acordo firmados a partir da deliberação da Câmara Técnica de Destinação e Regularização Fundiária de Terras Públicas Federais Rurais. Se, por um lado, esses termos devem ser acompanhados por um registro das respectivas áreas no Sistema de Gestão Fundiária (Sigef), com a transferência da responsabilidade por sua gestão aos órgãos que manifestaram interesse na sua alocação, por outro a efetivação da destinação (seja, por exemplo, para o reconhecimento de uma terra indígena ou criação de uma unidade de conservação) pode levar um tempo considerável, o que ressalta a importância a adoção de medidas que garantam sua proteção.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Entrega: 1048
+Indicador: 10044
+Denominação: Área de florestas públicas em recuperação por meio de concessões florestais
+Sigla: RECUP
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: ha
+Descrição: Superfície de área degradada concedida para recuperação, tratando-se de métrica autoexplicativa sobre a abrangência e efetividade da ação desempenhada. Indicador com apuração contínua e acumulada que guarda correspondência com o aumento da biodiversidade e dos serviços ambientais.
+Período Ou Data A Que Se Refere: Anual (01 de janeiro a 31 de dezembro)
+Data De Divulgação/Disponibilização: Até 31 de março do ano seguinte.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Hectare (ha) recuperada referente a cada contrato de concessão florestal
+Fonte De Dados Das Variáveis De Cálculo: Relatório de vistoria de áreas recuperadas
+Forma De Disponibilização: Acesso público a ser disponibilizado pelo portal digital do SFB/MMA na rede mundial de computadores.
+Procedimento De Cálculo: Soma algébrica da área recuperada de cada contrato apurada anualmente.
+Limitações: Os valores são de grande escala, portanto, é mais adequado não utilizar casas decimais
+Notas Explicativas: Considerando a baixa complexidade do indicador, não há necessidade de notas explicativas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Entrega: 1060
+Indicador: 11361
+Denominação: Área degradada em UC monitorada, diagnosticada e em processo de restauração inclusiva
+Sigla: MONIUCRES
+Índice De Referência: 5000.0
+Em Apuração: Sim
+Data De Apuração: 2021-08-01 00:00:00
+Unidade De Medida: ha
+Descrição: A área em processo de restauração é uma medida direta de impacto dos investimentos e iniciativas. O monitoramento se dará remotamente por ferramentas como o Mapbiomas mas também pelo acompanhamento dos diferentes projetos de restauração que terão métricas padronizadas para avaliar o sucesso da restauração.
+Período Ou Data A Que Se Refere: Agosto de 2021 data de lançamento da coleção 7 do Mapbiomas (ferramenta de monitoramento).
+Data De Divulgação/Disponibilização: O indicador será apurado anualmente considerando dados de campo das iniciativas de restauração e remotamente quando forem lançadas novas coleções do Mapbiomas.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: hectares em processo de restauração
+Fonte De Dados Das Variáveis De Cálculo: Mapbiomas
+Forma De Disponibilização: Site do ICMBio
+Procedimento De Cálculo: Somatório dos hectares em processo de restauração.
+Limitações: A precisão em hectares é dada pela ferramenta de mensuração do  Mapbiomas e os hectares em projeto terão medida realizada em campo também que precisão estabelecida.
+Notas Explicativas: O indicador significa que determinadas áreas degradadas estão em processo de restauração não significando necessariamente que estão restauradas e não precisam mais de intervenções ou monitoramento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Entrega: 1056
+Indicador: 10055
+Denominação: Áreas passíveis de recuperação ambiental (áreas embargadas, projetos de recuperação ambiental de áreas degradadas, de plantio compensatório ou reposição florestal) qualificadas
+Sigla: RECUPAMB
+Índice De Referência: 122000.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: ha
+Descrição: DBFLO/IBAMA: Por meio de mensagens eletrônicas enviadas à analistas da SBIO, recomendamos a alteração do texto do indicador para "Área passível de recuperação da cobertura vegetal nativa acompanhada". Por abarcar uma diversidade de situações administrativas, desde o momento da aplicação de sanções (embargo) até o efetivo cumprimento das medidas reparatórias ou compensatórias por meio de projetos ambientais, sugere-se adotar o referencial 'passível de recuperação', o que representa todo acompanhamento realizado pelo IBAMA.
+
+CENIMA/IBAMA: O indicador "Área Passível de Recuperação Ambiental" foi desenvolvido para monitorar e quantificar a extensão das áreas que estão sob recuperação ambiental. Isto inclui áreas embargadas do Ibama. Este indicador é expresso em hectares e oferece uma avaliação quantitativa direta do progresso em termos de recuperação e regeneração de áreas previamente degradadas ou desmatadas.
+A utilização deste indicador é essencial por diversas razões:
+Foco direto no objetivo: O indicador se concentra diretamente na meta de recuperar áreas degradadas ou desmatadas, permitindo um acompanhamento efetivo da progressão em direção a este objetivo.
+Medida quantitativa: O indicador fornece uma medida quantitativa da extensão da recuperação ambiental, o que permite comparações ao longo do tempo e entre diferentes regiões ou projetos.
+Compatibilidade: Este indicador é compatível com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU, particularmente o ODS 15 - Vida Terrestre, que se concentra na gestão sustentável das florestas e na luta contra a desertificação.
+Em suma, o indicador "Área Passível de Recuperação Ambiental" é uma ferramenta robusta e eficaz para monitorar a progressão dos esforços de recuperação ambiental e para orientar decisões futuras em relação à gestão de recursos naturais e à conservação da biodiversidade.
+Período Ou Data A Que Se Refere: DBFLO/IBAMA: por coerência, sugere-se adotar a data referente ao final do ciclo avaliativo (30 de maio) em cada ano.
+Data De Divulgação/Disponibilização: DBFLO/IBAMA: por coerência, sugere-se adotar a data referente ao início do ciclo avaliativo ou da definição das metas institucionais (01 de junho para a Meta gl
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DBFLO/IBAMA: não há
+CENIMA/IBAMA: Áreas embargadas vinculadas às ACPs.
+Fonte De Dados Das Variáveis De Cálculo: DBFLO/IBAMA: total de áreas acompanhadas passíveis de regeneração natural (embargos cumpridos) e de plantios compensatórios de atos autorizativos do uso da flora (MonitoRAD - CENIMA/IBAMA); total de áreas passíveis de recuperação ou recomposição da vegetação nativa cadastradas ou qualificadas, oriundas do processo sancionador (CASV - COREC/CGRec)
+
+CENIMA/IBAMA: Embargos do Ibama.
+Forma De Disponibilização: DBFLO/IBAMA: bases de dados IBAMA
+CENIMA/IBAMA: Publicada no Boletim Interno do Ibama no final de cada ciclo avaliativo.
+Procedimento De Cálculo: DBFLO/IBAMA: a partir de consultas às bases de dados do IBAMA, proceder a emissão de relatórios e contabilizar por meio de somatório das áreas em hectares de poligonais (embargos) ou projetos (PRADS ou plantios compensatórios do licenciamento federal) cadastrados ou qualificados em sistema de gestão do Ibama, a fim de se indentificar a situação da recuperação ou recomposição da vegetação nativa promovida pelo IBAMA, por meio da verificação do cumprimento de embargos, da reparação por danos ambientais decorrentes da apuração de ilícitos ambientais e do atendimento das medidas compensatórias de atos autorizativos do uso da flora, de responsabilidade do autuado ou autorizado, inclusive as áreas relacionadas a Ações Civis Públicas (ACPs).
+
+CENIMA/IBAMA: Levantar as Áreas em hectares que estão no processo de recuperação dos Embargos do Ibama.
+Limitações: DBFLO/IBAMA: o risco de não cumprimento das metas anuais envolve a não disponibilização de recursos financeiros e de pessoal necessários à consecução das melhorias e desenvolvimento de plataforma geoespacializada que permita a integração entre as bases de dados disponíveis no IBAMA, bem como a não priorização do acompanhamento de processos que envolvam recuperação ambiental frente a diversidade de demandas institucionais.
+Notas Explicativas: DBFLO/IBAMA: Por meio de mensagens eletrônicas enviadas à analistas da SBIO, recomendamos a alteração do texto do indicador para "Área passível de recuperação da cobertura vegetal nativa acompanhada"
+
+CENIMA/IBAMA: O indicador "Área Passível de Recuperação Ambiental" fornece uma medida quantitativa das áreas em processo de recuperação ambiental que estão vinculadas às Ações Civis Públicas (ACPs). 
+As áreas monitoradas que estão em processo de recuperação ambiental dentros dos ACPs podem ser utilizadas no entendimento geral de onde e quanto dessas áreas estão realmente sendo recuperadas. 
+Interpretação do Indicador: O valor deste indicador reflete a quantidade de área em processo de recuperação devido a ACPs. 
+Uso Conjunto com Outros Indicadores: Este indicador, quando usado em conjunto com outros indicadores ambientais (por exemplo, taxa de desmatamento, biodiversidade, qualidade do solo), pode proporcionar uma visão mais abrangente da situação ambiental.
+Uso na Tomada de Decisão: Este indicador pode ser usado para informar a tomada de decisão em relação à alocação de recursos para recuperação ambiental, avaliação do progresso das iniciativas de recuperação e identificação de áreas onde as ACPs podem ser mais efetivas.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Entrega: 1038
+Indicador: 10036
+Denominação: Área total manejada com fogo em unidades de conservação federais
+Sigla: MANEJFOGO
+Índice De Referência: 300000.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: ha
+Descrição: O indicador de área é mais efetivo que o de "foco de calor" detectado por satélite (um fogo ativo pode ter de 01 a inúmeros focos de calor detectados). Apuração constante, sendo passível de comparações históricas.
+Período Ou Data A Que Se Refere: Se refere ao período mais úmido do ano, onde há condições de serem realizadas ações de manejo ecológico com uso do fogo com segurança. As ações de manjo com fog
+Data De Divulgação/Disponibilização: Última semana de cada semestre.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Área total manejada com fogo
+Fonte De Dados Das Variáveis De Cálculo: Previsões do NOOA
+Forma De Disponibilização: ICMBIO
+Procedimento De Cálculo: Somatório da Área total manejada com fogo em unidades de conservação federais. Histórico de ações realizadas desde 2010.
+Notas Explicativas: Área Manejada com fogo para fins de conservação da biodiversidade.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1022
+Indicador: 11360
+Denominação: Aumento do numero total de dias de campo em operações de fiscalização ambiental nas unidades de conservação federais
+Sigla: FISUCS
+Índice De Referência: 13000.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: dias
+Descrição: É uma medida de esforço de fiscalização frequentemente utilizada em avaliações de eficiência de combate a criminalidade e mostra se o aumento do esforço realmente esta resultando no objetivo maior que é a redução do desmatamento nos Biomas.
+Período Ou Data A Que Se Refere: Agosto do ano anterior a julho do ano atual.
+Data De Divulgação/Disponibilização: Agosto do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de dias de operações
+Fonte De Dados Das Variáveis De Cálculo: Relatórios consolidados das operações de fiscalização executadas.
+Forma De Disponibilização: Painel dinâmico das ações de fiscalização. https://app.powerbi.com/view?r=eyJrIjoiMDY1YzQ0YTAtMDcyYi00ZjIwLWI3NWEtODM5NWEyMjM0MjE4IiwidCI6ImMxNGUyYjU2LWM1YmMtNDNiZC1hZDljLTQwOGNmNmNjMzU2MCJ9&pageName=ReportSectionc238026459b3c209046a
+Procedimento De Cálculo: Soma dos períodos de todas as ações de fiscalização executadas no ano PRODES atual subtraído da soma dos períodos de todas as ações de fiscalização executadas no ano PRODES anterior
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Entrega: 1034
+Indicador: 10028
+Denominação: Aumento proporcional de informações relativas ao Manejo Integrado do Fogo disponíveis no Sisfogo
+Sigla: SISFOGO
+Índice De Referência: 11.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O registro de dados no SISFOGO permite centralizar a gestão das informações relacionadas à implantação do Manejo Integrado do Fogo, bem como determinar a extensão da área acometida por incêndios florestais sem autorização, e assim avaliar sua contribuição nas emissões de carbono. Resultado cumulativo.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Módulos do SISFOGO implantados e previstos
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do SISFOGO
+Forma De Disponibilização: Dados disponíveis na Plataforma de Análise e Monitoramento Geoespacial da Informação Ambiental - Pamgia: https://pamgia.ibama.gov.br/
+Procedimento De Cálculo: Divisão dos módulos implantados pelos módulos previstos (a serem implantados).
+Limitações: Informações não serem inseridas adequadamente no sistema pelos usuários externos.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1064
+Indicador: 10065
+Denominação: Avaliações e reavaliações quanto ao risco de extinção de espécies da flora brasileira
+Sigla: EXTIN
+Índice De Referência: 9161.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O inicadaor revela o total acumulado de espécies da flora brasileira nativa e taxonomicamente válida que possuem avaliação de risco de extinção conduzida pelo CNCFlora e sua rede de colaboradores. Além disso, o indicador está alinhado a Estratégia Global para Conservação de Plantas (GSPC), elaborada dentro do contexto da Convenção da Diversidade Biológica (CBD), da qual o Brasil é signatário, que preconiza dentre seu rol de 16 objetivos a necessidade premente de se reconhcer o risco de extinção de espécies da flora nativa, de modo a dirimir as ameaças que possam levar as espécies a extinção. As avaliações de risco de extinção individualizadas de espécies também constituem linha de atuação oficial do JBRJ no contexto da Estratégia Nacional para Conservação da Biodiversidade, e fornecem informações precisas e atualizadas sobre o estado de conservação das espécies, auxiliando na tomada de decisões estratégicas, na definição e no monitoramento de progresso de metas nacionais e internacionais de proteção à biodiversidade, bem como na alocação de recursos para a conservação. Além disso, as avaliações de risco de espécies constituem o primeiro passo dentro do Ciclo de Conservação de Espécies e fornecem direcionamentos de atuação fundamentais para o planejamento e implementação de ações de conservação que visem retirar as espécies identificadas como ameaçadas de extinção das Listas Vermelhas Nacionais. As avaliações de risco de extinção de espécies da flora constituem processo contínuo, e as espécies avaliadas em um determinado momento devem ser reavaliadas no futuro, normalmente em intervalos que variam entre 5-10 anos. Portanto, mesmo quando todas as espécies descritas para a flora brasileira sejam formalmente avaliadas quanto ao risco de extinção, será sempre necessário revisitar o estado de conservação dessas espécies, seja pelo longo tempo transcorrido entre uma avaliação e outra, além do inerente acumulo e melhora de informações científicas disponibilizadas sobre as espécies. Somente assim as avaliações poderão ser utilizadas como barômetros, ao medir a diferença de estado de conservação em dois momentos no tempo e estimar suas melhoras ou pioras.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para calcular o valor absoluto de espécies da flora brasileira avaliadas quanto ao risco de extinção,  há de se notar somente a validade taxonômica das espécies. Entretanto, para se calcular a proporção de espécies avaliadas em relação a diversidade total de plantas terrestres descritas para o Brasil, é necessário consultar os dados mais atuais fornecidos pela lista autorizativa Flora e Funga do Brasil, que é, por definição, dinâmica e está em constante atualização.
+Fonte De Dados Das Variáveis De Cálculo: Coordenação de Projetos Núcleo Avaliação do Estado de Conservação - Nuac, do CNCFlora/JBRJ. Número total de espécies descritas para a flora brasileira: Flora & Funga do Brasil.
+Forma De Disponibilização: Repositórios de Dados e Informações do JBRJ e/ou Portarias que estabelecem a Lista Nacional Oficial de Espécies Ameaçadas de Extinção.
+Procedimento De Cálculo: Consolidar o total de espécies avaliadas quanto ao risco de extinção que sejam consideradas taxonomicamente válidas de acordo com Flora e Funga do Brasil; para espécies reavaliadas (avaliadas quanto ao risco mais de uma vez), deve-se considerar somente a avaliação de risco de extinção mais recente. Para calcular a proporção deste montante em relação ao total de espécies de flora descritas na Flora e Funga do Brasil, utilizar o quantitativo oferecido pelo NuAC/CNCFlora.
+Limitações: Cada avaliação do risco de extinção é feita com base em nomes válidos na Flora do Brasil. Conforme as pesquisas botânicas avançam novos arranjos nomenclaturas são realizados e hipóteses taxonômicas consideradas válidas em um momento podem ser desconsideradas n atualização taxonômica da lista de nomes de plantas avaliadas. Nesse caso, avaliações feitas para nomes que perderam a validade, no escopo do estabelecido na Flora e Funga do Brasil, deixam ser contabilizados.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1101
+Indicador: 10110
+Denominação: 'Grupo de espécies às quais é aplicada a metodologia brasileira de Avaliação de Risco Ambiental de Agrotóxicos
+Sigla: RISCAGROTOX
+Índice De Referência: 1.0
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Grupo de espécies às quais é aplicada a metodologia brasileira de Avaliação de Risco Ambiental de Agrotóxicos
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Não se aplica
+Fonte De Dados Das Variáveis De Cálculo: Não se aplica
+Forma De Disponibilização: Publicação nos meio oficiais do Ibama, de documento técnico ou normativa
+Procedimento De Cálculo: Com base na data de publicação da Metodologia de ARA desenvolvida, aquelas que forem divulgadas a partir de julho 2023 devem ser consideradas como 1, cada. Soma=se a quantidade de Metodologia de ARA desenvolvida antes de julho 2023, ou seja 1. O resultado expressará a quantidade de Metodologia de ARA desenvolvida, que deve ser maior que 2.
+Limitações: Não se aplica
+Notas Explicativas: Entre o desenvolvimento da metodologia técnica de ARA até a publicação de normativa vinculada, há fatores que podem influenciar a efetiva prática das novas diretrizes, como Análise de Impacto Regulatório, contribuições de consulta pública, judicializações, alterações legislativas (Projetos de Lei) que alterem as competências instituicionais, despreparo de laboratórios que conduzem testes, dentre outros. Assim, entende-se que a elaboração de documento técnico considerando cenários ideais seja suficientes para atigimento da meta, ainda que seja preferível a publicação de normativa.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1009
+Indicador: 10002
+Denominação: Hectares embargados da área desmatada ilegalmente no bioma Amazônia
+Sigla: DESMAT
+Índice De Referência: 435800.0
+Em Apuração: Não
+Data De Apuração: 0024-12-29 00:00:00
+Unidade De Medida: ha
+Descrição: Hectares embargados da área desmatada ilegalmente no bioma Amazônia.
+Período Ou Data A Que Se Refere: agosto a julho do ano seguinte
+Data De Divulgação/Disponibilização: Segundo semestre do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número em hectares de áreas de competência federal embargada por infrações contra a flora no bioma Amazônia  e Taxa de desmatamento no bioma Amazônia (ano Prodes).
+Fonte De Dados Das Variáveis De Cálculo: Prodes (Inpe) e Sicafi (Ibama)
+Forma De Disponibilização: Banco de dados do Ibama
+Procedimento De Cálculo: Extração no sistema da fiscalização ambiental das áreas embargadas na Amazônia Legal.
+Limitações: Os dados do Prodes consolidados são fornecidos no primeiro semestre do seguinte da apuração.
+Notas Explicativas: Áreas de competência federal referem-se ás áreas cujas as infrações são de competência prevalente federal para realizar a responsabilização, conforme previsto no art. 17 da Lei Complementar nº 140/2011. Não se referem necessariamente ao domínio legal do território. Na hipótese de não haver disponibilidade dos dados de autorização de supressão da vegetação poderá ser considerado o valor zero.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1186
+Indicador: 10218
+Denominação: Nº de unidades de conservação federais participantes do Programa Nacional de Monitoramento da Biodiversidade com dados validados e disponíveis à sociedade
+Sigla: MONITORABio
+Índice De Referência: 38.0
+Em Apuração: Sim
+Data De Apuração: 2023-05-30 00:00:00
+Unidade De Medida: unidade
+Descrição: 113 UCs estão realizando atividades no âmbito do Programa Monitora (dados de dezembro/2022), das quais 38 UCs têm dados com o ciclo de validação completo, de acordo com a política de dados do Monitora (IN ICMBio 02/2022), e que encontram-se disponíveis para a sociedade. É necessário avançar com a gestão da informação do Programa Monitora de forma que os dados de mais UCs sejam validados e estejam disponíveis para a sociedade, podendo ser usados para atingir os diversos objetivos.  Não é possível usar porcentagem para aferir o indicador tendo em vista que a cada ano aumenta o número de UCs no Programa Monitora.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de fevereiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades de Conservação
+Fonte De Dados Das Variáveis De Cálculo: Programa Nacional de Monitoramento da Biodiversidade - Programa Monitora - ICMBio/MMA
+Forma De Disponibilização: Site ICMBio
+Procedimento De Cálculo: Dentre as UCs que integram o Programa Monitora, fazer o somatório de UCs que possuem dados validados e disponíveis.
+Limitações: O indicador deve ser um número absoluto, não permite casas decimais.
+Notas Explicativas: Quantidade de Unidades de conservação federais participantes do Programa Nacional de Monitoramento da Biodiversidade com dados validados e disponíveis à sociedade.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1025
+Indicador: 10017
+Denominação: Número anual de ações de fiscalização em terras indígenas
+Sigla: FISCAIND
+Índice De Referência: 650.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: A ação de fiscalização corresponde ao ato de fiscalizar, ou seja, de verificar a conformidade legal ambiental de determinado objeto ou pessoa (física ou jurídica). Não havendo conformidade ambiental pode-se instaurar um processo de infração ambiental. Conforme Lei Completar nº 140/2011, a competência prevalente de fiscalização ambiental nas terras indígenas é do Ibama.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Os dados estão acessíveís continuamente e serão consolidados anualmente - 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de ações de fiscalização ambiental realizadas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Sicafi do Ibama. Também disponível em dados abertos.
+Forma De Disponibilização: Sistema Sicafi do Ibama. Também disponível em dados abertos.
+Procedimento De Cálculo: Somar todas as ações de fiscalização ambiental realizadas em terras indígenas.
+Notas Explicativas: São consideradas todas as infrações ambientais registradas em áreas reconhecidas pela Funai como terras indígenas  (Shapefile Polígonos e Pontos das terras indígenas brasileiras https://www.gov.br/funai/pt-br/atuacao/terras-indigenas/geoprocessamento-e-mapas).
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Entrega: 1037
+Indicador: 10031
+Denominação: Número de ações realizadas no âmbito do manejo integrado do fogo e capacitações realizadas por ano
+Sigla: CAPACITINCEND
+Índice De Referência: 2000.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A ampliação de ações de conscientização, orientação e educação ambiental reflete no aumento do público capacitado na temática do manejo integrado do fogo.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número total de ações de educação ambiental e capacitações realizadas
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do Prevfogo
+Forma De Disponibilização: Divulgação em: https://www.gov.br/ibama/pt-br/assuntos/fiscalizacao-e-protecao-ambiental/incendios-florestais/capacitacoes
+Procedimento De Cálculo: Somatório de ações de educação ambiental e capacitações realizadas
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1192
+Indicador: 10226
+Denominação: Número de Atualizações das Áreas e Ações Prioritárias para Conservação, Utilização Sustentável e Repartição dos Benefícios da Biodiversidade Brasileira atualizados
+Sigla: REPARTBENEF
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2018-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Os processos de atualização das Áreas Prioritárias para a Biodiversidade são realizadas periodicamente e recebem um numeração ordinária conforme ocorrem as atualizações para cada um dos biomas terrestres e para Zona Costeira e Marinha. Por força do Decreto nº 5092 de 21/05/2004, o MMA deve atualizar periodicamente as APCBs,
+Período Ou Data A Que Se Refere: O indicador irá considerar os processos de atualização concluídos entre janeiro e dezembro de cada ano (2024-2027)
+Data De Divulgação/Disponibilização: Ao final do ano de publicação
+Periodicidade: Quinqüenal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para o cálculo deste indicador serão considerados: 
+(1) número de processos  de atualizaçao das Áreas Prioritárias para a Biodiversidade dos biomas terrestres e Zona Costeira e Marinha realizados até o momento (unid); e 
+(2) número de processo de atualização das Áreas Prioritárias para a Biodiversidade para cada um dos biomas terrestres e Zona Costeira e Marinha a ser atualizado (unid).
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Meio Ambiente e Mudança do Clima (MMA)
+Forma De Disponibilização: Informações fornecidas pelo Ministério do Meio Ambiente e Mudança do Clima (MMA)
+Procedimento De Cálculo: Para o cálculo deste indicador será aplicada a seguinte fórmula: número de processos de atualizaçao das Áreas Prioritárias para a Biodiversidade dos biomas terrestres e Zona Costeira e Marinha realizados até o momento, somado à nova atualização que sera realizada durante a vigência do PPA 2024-2027.
+[2+1]
+Limitações: Sem limitações
+Notas Explicativas: O indicador informa sobre quantos dos processos de atualização das Áreas Prioritárias para a Biodiversidade dos biomas brasileiros e da Zona Costeira e Marinha estão finalizados, demonstrando quantos biomas ou Zona Costeira e Marinha detêm novas informações disponíveis.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1069
+Indicador: 11373
+Denominação: Número de espécies da fauna com o risco de extinção avaliado
+Sigla: FAUNAEXTIN
+Índice De Referência: 14952.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador revela o total acumulado de espécies da fauna brasileira cujo risco de extinção foi avaliado pelo ICMBio (COFAU e CNPCs) e sua rede de colaboradores. Além disso, o indicador está alinhado com as metas até 2030 no âmbito da Convenção da Diversidade Biológica (CBD), da qual o Brasil é signatário. As avaliações de risco de extinção fornecem informações precisas e atualizadas sobre o estado de conservação das espécies, auxiliando na tomada de decisões estratégicas, na definição e no monitoramento de progresso de metas nacionais e internacionais de proteção à biodiversidade, bem como na alocação de recursos para a conservação. Além disso, as avaliações de risco de espécies constituem o primeiro passo dentro do Ciclo de Conservação de Espécies e fornecem direcionamentos de atuação fundamentais para o planejamento e implementação de ações de conservação e direcionamento de políticas públicas que visem melhorar o estado de conservação das espécies ameaçadas de extinção.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Espécies da fauna com ocorrência natural confirmada no Brasil
+Fonte De Dados Das Variáveis De Cálculo: Coordenação de Avaliação do Risco de Extinção da Fauna, COFAU/ICMBIO.
+Forma De Disponibilização: SALVE - Sistema de Avaliação do Risco de Extinção da Biodiversidade.
+Procedimento De Cálculo: Somatório do número de espécies da fauna brasileira avaliadas quanto ao risco de extinção.
+Limitações: Novos arranjos nomenclaturais são realizados e hipóteses taxonomicas consideradas válidas em um momento podem ser desconsideradas na atualização taxonomica da lista de nomes de espécies da fauna avaliadas.  Nesse caso, avaliações feitas para nomes que perderam a validade deixam ser contabilizados.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1097
+Indicador: 10105
+Denominação: 'Número de espécies da flora brasileira oficialmente ameaçadas de extinção contempladas em Planos de Ação Nacional (PANs) para a conservação e recuperação
+Sigla: PANFLORA
+Índice De Referência: 613.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Este é o indicador possível de ser utilizado para aferir o esforço dedicado para melhor o estado de conservação de espécies da flora brasileira oficialmente ameaçadas de extinção, por meio da implementação de ações de conservação previstas em um instrumento de política pública, no caso no Plano de Ação Nacional.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Espécies da flora brasileira
+Fonte De Dados Das Variáveis De Cálculo: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ
+Forma De Disponibilização: Portal do JBRJ (https://www.gov.br/jbrj) e por meio da Coordenação de Projeto Núcleo Estratégias para Conservação da Flora Ameaçada de Extinção
+Procedimento De Cálculo: Somar o número de espécies da flora brasileira oficialmente ameaçadas de extinção indicadas como alvos de conservação na portaria de aprovação de Planos de Ação Nacional (PANs) para a conservação e recuperação em vigência. Espécies contempladas em mais de um PAN devem ser computadas apenas uma vez.
+Notas Explicativas: Considerar apenas espécies alvos de conservação indicadas na portaria de aprovação do PAN em vigência. O indicador pode sofrer flutuações anuais devido o encerramento de algum PAN, consequentemente causando a redução no número de espécies da flora brasileira oficialmente ameaçadas de extinção incluídas em PANs.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1002
+Indicador: 9999
+Denominação: Número de estados elegíveis para captação de recursos de REDD+
+Sigla: REDD+
+Índice De Referência: 6.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador informa  se as entidades encontram-se elegíveis  para captar recursos de REDD+.  A elegibilidade para captação de recursos tem entre seus requisitos:  1) existência de mecanismos de transparência  para divulgação de informações e prestação de contas sobre salvaguardas de REDD+, captação e aplicação de recursos  e indicadores de desempenho das atividades apoiadas por REDD+;  2) existência de estrutura de governança participativa, operacional e transparente para implementação dos Planos de Ação para Prevenção e Controle do Desmatamento  ou outro conjunto de políticas que contribuam para o alcance de resultados e o cumprimento das salvaguardas de REDD+. O indicador tem relação com outros dois importantes indicadores de REDD+: 1) limites anuais de resultados de REDD+  por entidades elegíveis; e  2) valores anuais captados por entidades elegíveis, considerados os limites de resultados de REDD+.
+Período Ou Data A Que Se Refere: Jan-Dez
+Data De Divulgação/Disponibilização: Março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Entidades elegíveis
+Fonte De Dados Das Variáveis De Cálculo: Sistema Nacional de REDD+
+Forma De Disponibilização: Infohub REDD+ Brasil
+Procedimento De Cálculo: O indicador é o somatório dos estados elegíveis para captação de recursos de REDD+
+Limitações: Não se aplica
+Notas Explicativas: O indicador é referente a entidades elegíveis para captação de recursos, não indica, necessariamente, recursos captados.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1182
+Indicador: 10211
+Denominação: Número de fiscais com participação mínima de 20 dias em ações de fiscalização
+Sigla: FISCALIZAUCs
+Índice De Referência: 300.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Descrição: O aumento da participação dos agentes de fiscalização em operações é a base para que o instituto aumente a presença institucional e consiga reduzir a supressão e degradação da vegetação nas UCs Federais. Para aumentar a presença institucional no território é necessário ter agentes de fiscalização ambiental participando de operações de fiscalização. Em 2024 o ICMBio contava com cerca de 950 fiscais mas destes aproximadamente 519 participaram de pelo menos 1 dia de fiscalização e aproximadamente 365 participaram de pelo menos 20 dias de campo em operação de fiscalização.
+Período Ou Data A Que Se Refere: Agosto do ano anterior a julho do ano atual.
+Data De Divulgação/Disponibilização: Agosto do ano atual
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de fiscais com participação mínima de 20 dias em ações de fiscalização.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios consolidados das operações de fiscalização executadas.
+Forma De Disponibilização: Painel dinâmico das ações de fiscalização. https://app.powerbi.com/view?r=eyJrIjoiMDY1YzQ0YTAtMDcyYi00ZjIwLWI3NWEtODM5NWEyMjM0MjE4IiwidCI6ImMxNGUyYjU2LWM1YmMtNDNiZC1hZDljLTQwOGNmNmNjMzU2MCJ9&pageName=ReportSectionc238026459b3c209046a
+Procedimento De Cálculo: Somatória do Número de fiscais com participação mínima de 20 dias em ações de fiscalização.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1114
+Indicador: 10127
+Denominação: Número de imóveis regularizados em unidades de conservação de domínio público
+Sigla: REGULAUCs
+Índice De Referência: 1171.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O uso do indicador que expressa o número absoluto de imóveis incorporados ao patrimônio público por meio de diversos mecanismos de regularização fundiária permitirá acompanhar o cumprimento das metas e mensurá-las de forma mais qualificada e objetiva.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de abril de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IPAT - Imóveis situados em unidades de conservação de domínio público incorporados ao patrimonio público
+Fonte De Dados Das Variáveis De Cálculo: IPAT - ICMBio (dados internos da Coordenação Geral de Consolidação Territorial)
+Forma De Disponibilização: ICMBio - Coordenação Geral de Consolidação Territorial, anualmente
+Procedimento De Cálculo: Através de consolidação dos dados de IPAT constantes em bancos de dados georreferenciado, banco de dados de patrimônio e documentados em processos do Sistema Eletrônico de Informações do ICMBio
+Limitações: Desconsiderar os imóveis transmitidos ao patrimônio público fora do período de apuração, ainda que sua inclusão na base de dados ocorra nesse período.
+Notas Explicativas: Não considerar áreas registradas ou com CDRU que ultrapassem os limites geográficos das unidades de conservação (tal situação pode ocorrer em alguns casos); considerar também áreas sobrepostas com terras indígenas e comunidades quilombolas
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1094
+Indicador: 10101
+Denominação: Número de jardins botânicos assessorados
+Sigla: JARDBOTAN
+Índice De Referência: 18.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de jardins Botânicos que recebem assessoramento pelo JBRJ
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dados estão disponíveis no site do JBRJ a cada apuração
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Jardins botânicos
+Fonte De Dados Das Variáveis De Cálculo: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ
+Forma De Disponibilização: No site do JBRJ
+Procedimento De Cálculo: Numero de Jardins Botânicos que recebem assessoramento técnico do JBRJ
+Notas Explicativas: As formas de assessoramento podem variar mas somente serão contadas  as atividades concretas como curso de qualificação, disponibilização de ferramenta tecnologia de Informação, visita técnica, publicação conjunta, elaboração de artigos.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1189
+Indicador: 10219
+Denominação: Número de listas de espécies exóticas invasoras e planos de ação sobre vias/vetores de introdução e dispersão no país atualizadas e publicadas
+Sigla: ESPEXOT
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Atualmente não há listas oficiais de espécies exóticas invasoras no Brasil, nem mesmo planos de ação específicos visando manejar as principais vias/vetores de introdução e dispersão destas espécies. Ambos os instrumentos estão em elaboração e deverão ser atualizados periodicamente, recebendo numeração ordinária conforme ocorrem as atualizações específicas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Listas de espécies exóticas invasoras e planos de ação
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: Fornecido pelo MMA
+Procedimento De Cálculo: Somatório do nº de listas de espécies exóticas invasoras e planos de ação sobre vias/vetores de introdução e dispersão no país atualizadas e publicadas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Entrega: 532
+Indicador: 10896
+Denominação: Número de mapas elaborados por ano
+Índice De Referência: 365.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador de acompanhamento da execução desta entrega será realizado por meio de um mapa diário mostrando a distribuição espacial dos dados produzidos e assim permitir o acompanhamento do devido funcionamento dos sistemas de geração, armazenamento e disseminação dos dados.
+Período Ou Data A Que Se Refere: disponibilização diária
+Data De Divulgação/Disponibilização: diária
+Periodicidade: Diária
+Polaridade: Não se aplica
+Variáveis De Cálculo: X= mapas digitais diários no sistema BDQueimadas
+Fonte De Dados Das Variáveis De Cálculo: O endereço internet onde podem ser encontrados os dados históricos produzidos pelo INPE e atualizados diariamente é www.inpe.br/queimadas/bdqueimadas.
+Forma De Disponibilização: Os dados serão disponibilizados em um banco de dados georreferenciado on-line e público e o indicador (mapas produzidos) serão disponibilizados no portal do Programa Queimadas do INPE em www.inpe.br/queimadas
+Procedimento De Cálculo: A partir dos dados das coordenadas de localização das ocorrência diária das queimadas e incêndios, identificados pelo satélite de referência do INPE, que estão disponíveis no Sistema WebGis BDQueimadas [www.inpe.br/queimadas/bdqueimadas], serão gerados mapas diários para divulgação e acompanhamento do esforço de manutenção operacional do acervo em produção. Desta forma tanto os dados brutos como os mapas produzidos estarão disponíveis para consulta pública na internet.
+Limitações: A limitação deste indicador, é que a produção diária dos mapas é fixa e estável (um a cada dia do ano), no entanto, cada mapa irá conter os dados diários indicando a localização e consequentemente a quantidade dos focos de incêndios e queimadas no território nacional que tem variação sazonal e influência climatológica e de ação antrópica.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1019
+Indicador: 10011
+Denominação: Número de mapas preditivos elaborados e publicados
+Sigla: MAPPRED
+Índice De Referência: 12.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de mapas de risco ao desmatamento e degradação produzidos é um indicador que mede a eficácia do sistema em produzir esses mapas de risco. 
+Este indicador é o mais adequado pelas seguintes razões:
+
+Específico: O indicador oferece uma medida específica, numérica e concreta.
+
+Mensurável: A efetividade será medida de número de mapas preditivos de risco produzidos, que permite acompanhar esse número.
+
+Alcançável: Esta meta é alcançável por meio do aprimoramento das tecnologias de predição, desenvolvimento dos modelos de predição de risco que já estão implantados no Ibama.
+
+Portanto, número de mapas preditivos de risco produzidos é o indicador mais adequado para essa meta, pois é diretamente alinhado com o objetivo da meta, é quantificável, orienta a ação e promove a transparência e a responsabilidade.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Final do Ciclo Avaliativo do Ibama: 01 de Julho.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de mapas mensais preditivos de risco de degradação e desmatamento nos biomas elaborados.
+Fonte De Dados Das Variáveis De Cálculo: CENIMA/IBAMA
+Forma De Disponibilização: Os dados serão disponibilizados diariamente por meio de Banco de Dados Espacial, dashboards.
+Procedimento De Cálculo: Contabilize o número total mapas mensais preditivos de risco de degradação e desmatamento nos biomas.
+Notas Explicativas: Notas Explicativas para a mapa mensal preditivo de risco de degradação e desmatamento nos biomas elaborado:
+
+Objetivo do Indicador: Este indicador visa fornecer número de mapas mensais preditivos de risco de degradação e desmatamento nos biomas.
+
+Cálculo do Indicador: número de mapas mensais.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Entrega: 1374
+Indicador: 10469
+Denominação: Número de mapas produzidos no ano
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador desta entrega é um mapa que irá permitir o acompanhamento sistemático e histórico da geração dos dados de cicatriz do fogo em qualquer parte do território nacional, pois é obtido a partir de imagens de satélites.
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: Mês seguinte
+Periodicidade: Mensal
+Polaridade: Não se aplica
+Variáveis De Cálculo: N= Total de mapas produzidos anualmente
+a= 12 Mapas  anuais produzidos no Bioma Caatinga
+b= 12 Mapas  anuais produzidos no Bioma Pantanal
+c= 12 Mapas  anuais produzidos no Bioma Pampa
+d= 12 Mapas produzidos no Bioma Cerrado
+e= 12 Mapas  anuais produzidos no Bioma Amazônia
+f= 12 Mapas  anuais produzidos no Bioma Mata Atlantica
+Fonte De Dados Das Variáveis De Cálculo: O endereço internet onde podem ser encontrados os dados históricos produzidos pelo INPE e atualizados é www.inpe.br/queimadas
+Forma De Disponibilização: Os dados serão disponibilizados em um banco de dados georreferenciado on-line e público e o indicador (mapas produzidos) serão disponibilizados no portal do Programa Queimadas do INPE em www.inpe.br/queimadas
+Procedimento De Cálculo: A partir dos dados das cicatrizes de fogo identificados pelo INPE, serão gerados mapas mensais para divulgação e acompanhamento do esforço de manutenção operacional do acervo em produção. Desta forma tanto os dados brutos como os mapas produzidos estarão disponíveis para consulta pública na internet.
+Limitações: A limitação deste indicador, é que a produção mensal dos mapas é fixa e estável (um mapa por mês do ano), no entanto, cada mapa irá conter os acumulados das cicatrizes de área queimada no território nacional que tem variação sazonal e influência climatológica e de ação antrópica. Este indicador ainda não possui recursos suficientes para produção em todos os biomas com imagens Landsat (30 metros) apenas com imagens MODIS (1 km de resolução espacial), atualmente um projeto do FINEP aporta recursos apenas para aprimoramento dos dados no bioma Cerrado.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1204
+Indicador: 10242
+Denominação: Número de Mestres e Doutores formados pela Escola Nacional de Botânica Tropical (ENBT)
+Sigla: FORMA-ENBT
+Índice De Referência: 10.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A quantidade de profissionais titulados, metrado e doutorado,  anualmente é o número que melhor define a entrega do da Escola Nacional de Botânica Tropical (ENBT). Este é um indicador base para qualquer curso de pós-graduação. É o quantitativo de profissionais que o curso coloca no mercado de trabalho ou aumenta a titulação do profissional que já está atuando ampliando suas competências de ação assim como da Instituição a ele vinculada, seja esta federal, estadual, municipal ou do terceiro setor.
+Período Ou Data A Que Se Refere: A data se refere ao último dia do exercício anual, ou seja, em 31/12 de cada ano.
+Data De Divulgação/Disponibilização: Este indicador é inserido anualmente no Relatório de Gestão da instituição, ou seja, em 31/03 referente a cada ano exercício anterior.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de defesas dos alunos de seus trabalhos de conclusão de mestrado e doutorado
+Fonte De Dados Das Variáveis De Cálculo: JBRJ
+Forma De Disponibilização: O indicador pode ser obtido de forma dinâmica nas bases de dados do PPGP e PPGA (Atrio) ou como indicador consolidado no Relatório de Gestão do JBRJ e no Planejamento Estratégico do JBRJ.
+Procedimento De Cálculo: Entrar na base de dados Atrio e gerar relatório de alunos de mestrado e doutorado com ciclo encerrado em determinado período ou entrar no SEI do PPGP ou PPGA/ENBT/JBRJ e ver nos processos anuais as Atas de Defesa dos alunos. Somar o quantitativo de mestre e depois de doutores formados.
+Limitações: Não se aplica, pois são números inteiros.
+Notas Explicativas: Este indicador deve ser utilizado pra se saber o número de alunos titulados como Mestres ou Doutores e aptos para o mercado de trabalho.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Entrega: 1044
+Indicador: 10041
+Denominação: Número de municípios com áreas verdes urbanas em recuperação e estruturação apoiados
+Sigla: AVERDES
+Índice De Referência: 20.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Apoiar municípios com projetos públicos e privados de criação, ampliação, recuperação e integração de áreas verdes urbanas. Pretende-se integrar o presente indicador com o indicador de áreas verdes urbanas cadastradas e publicadas através do Cadastro Ambiental Urbano (CAU).
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios com áreas verdes urbanas em recuperação e estruturação apoiados.
+Fonte De Dados Das Variáveis De Cálculo: Publicação oficial de instrumentos: acordos, convênios ou instrumentos congêneres
+Forma De Disponibilização: Os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: O sistema permite exportação de dados, incluindo nome dos municípios que estão inserindo registros de áreas verdes urbanas. Após exportação é possível realizar um somatório simples em planilhas de excel
+Limitações: Número inteiro
+Notas Explicativas: O indicador pode ser utilizado para verificação do alcance de investimentos federais em apoio a iniciativas públicas e privadasde de criação, ampliação, recuperação e integração de áreas verdes urbanas
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 3362
+Indicador: 12687
+Denominação: Número de normativas sobre salvaguardas, repartição de benefícios e sistema de registro para exclusão de áreas publicadas
+Sigla: REDD+
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador busca quantificar a implementação da ENREDD+ por meio do cômputo de normativos publicados. Dada a amplitude das ações da CONAREDD+ e da abrangência da ENREDD+, esse indicador é o melhor a ser utilizado por abarcar essas diferenças em um único índice.
+Período Ou Data A Que Se Refere: ano-calendário
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Normativas sobre salvaguardas, repartição de benefícios e sistema de registro para exclusão de áreas publicadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema Nacional de REDD+
+Forma De Disponibilização: Diário Oficial da União (DOU)
+Procedimento De Cálculo: Contabilizar normativos publicados
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1176
+Indicador: 10206
+Denominação: Número de Planos de Manejo Publicado elaborados ou revisados
+Sigla: PLANMANEJ
+Índice De Referência: 12.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O Art. 27 da Lei 9985/00 diz que as unidades de conservação devem dispor de um Plano de Manejo, portanto trata-se, junto com os conselhos, o principal instrumento de gestão da unidade e a forma de aferir é se a UC possui ou não o documento, sendo o indicado "quantos" planos de manejo foram produzidos traz a andamento da implementação desta política de gestão. Considerando que é o principal instrumento de gestão das UCs o plano de manejo se relaciona com os diversos instrumentos e ações de gestão, bem como demanda da UC, coordenações e centros planejamentos ou levantamentos de dados para que o propósito, a significância e os recursos e valores fundamentais da UC sejam mantidos ou melhorados.
+Período Ou Data A Que Se Refere: Maio à Maio dos anos de referência
+Data De Divulgação/Disponibilização: Após assinatura presidencial, somente são computados planos de manejos publicados, pois é quando o mesmo passa a ter valor legal e passa a ser implementado.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Planos de manejo publicado
+Fonte De Dados Das Variáveis De Cálculo: ICMBIO
+Forma De Disponibilização: Planilha de acompanhamento de publicação de planos de manejo, power bi de acompanhamento de gestão.
+Procedimento De Cálculo: Somar o número de planos de manejo publicados no DOU
+Limitações: Indicador absoluto, sem variações decimais
+Notas Explicativas: Somar o número de planos de manejo publicados no DOU
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1027
+Indicador: 10023
+Denominação: Número de planos monitorados, avaliados e atualizados
+Sigla: PPCDs
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Será publicado um relatório anual que é a metodologia que demonstrará os resultados sobre o monitoramento, avaliação e atualização dos planos. O relatório tem periodicidade anual e apontará dados sobre o monitoramento, a avaliação e os ajustes realizados em cada PPCD.
+Período Ou Data A Que Se Refere: Anual (janeiro a dezembro)
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Plano de ação
+Fonte De Dados Das Variáveis De Cálculo: Publicação anual da SECD, como responsável pelo monitoramento, avaliação e atualização dos PPCDs
+Forma De Disponibilização: Periodicidade anual. Disponibilizado no site do MMA (www.gov.br/mma)
+Procedimento De Cálculo: Nº de planos monitorados, avaliados e atualizados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1018
+Indicador: 10007
+Denominação: Número de processos por infrações contra flora instaurados
+Sigla: INFRAC
+Índice De Referência: 1500.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O processo de infração ambiental é o rito de responsabilização de uma pessoa (física ou jurídica) para puní-la por ter cometido uma infração administrativa ambiental. Para cada infração há um processo específicao. Repsenta a quantidade de pessoas que está se buscando punir pelo delito ambiental.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Os dados estão acessíveis continuamente e serão consolidados anualmente - 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de processos por infrações contra a flora nos biomas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Sicafi do Ibama. Também disponível em dados abertos.
+Forma De Disponibilização: Sistema Sicafi do Ibama. Também disponível em dados abertos.
+Procedimento De Cálculo: Somar todos os processos por infrações contra a flora instaurados Extração no sistema da fiscalização ambiental.
+Notas Explicativas: São considerados todos os tipos de infração contra a flora e não apenas aquelas relativas ao corte raso da vegetação nativa.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Entrega: 1457
+Indicador: 10600
+Denominação: Número de Relatório anual da vegetação nativa florestal em regeneração nos biomas brasileiros
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Boletins anual (todos os biomas) da regeneração da vegetação em formações florestais dos 6 biomas brasileiros
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: Final do exercício a que ser refere o indicador
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: N= Número de relatórios produzidos
+R1= Relatórios do Bioma da Amazônia
+R2= Relatórios do Bioma do Cerrado
+R3= Relatórios do Bioma do Pantanal
+R4= Relatórios do Bioma do Pampa
+R5= Relatórios do Bioma da Mata Atlantica
+R6+
+Fonte De Dados Das Variáveis De Cálculo: Os boletins anuais serão calculados a partir dos dados produzidos pelo projeto TerraClass, que faz o monitoramento das mudanças na cobertura e do uso da terra nos biomas brasileiros.
+Forma De Disponibilização: Os dados do projeto TerraClass são desenvolvidos e operados pela parceria INPE/MCTI e EMBRAPA/MAPA, e tem seus dados divulgados através da Plataforma TerraClass (https://www.terraclass.gov.br/)
+Procedimento De Cálculo: O cálculo do valor da regeneração da vegetação é resultado do somatório da área de regeneração da vegetação nativa de cada polígono de vegetação secundária mapeado pelo TerraClass.
+Limitações: Não há nenhuma restrição para o acesso aos dados TerraClass. Todos os dados (incluindo a série histórica) estão disponíveis publicamente endereço eletrônico: (https://www.terraclass.gov.br/)
+Notas Explicativas: A Metodologia para a execução do mapeamento que produz os dados informados, não sofreu mudanças conceituais relevantes, todos os detalhes das metodologias estão publicamente disponíveis no endereço: https://www.terraclass.gov.br/
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1106
+Indicador: 10116
+Denominação: Número de UCs no Cadastro Nacional de Unidades de Conservação (CNUC)
+Sigla: CNUC
+Índice De Referência: 2761.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O Cadastro Nacional de Unidades de Conservação da Natureza - CNUC consolida os dados básicos sobre as unidades de conservação previstas na Lei 9.985/2000 que institui o Sistema Nacional de Unidades de Conservação da Natureza - SNUC, incluindo nome, categoria, objetivo de criação, limites, atos legais que a regulamentam, principais instrumentos de gestão já elaborados e informações de contato e divulgação. Também é a base oficial para as políticas públicas nacionais e reportes internacionais.
+Período Ou Data A Que Se Refere: Mensuração será realzada em janeiro de cada ano, referente à realidade no momento da mensuração. Como se trata de um retrato da situação no momento da apuração,
+Data De Divulgação/Disponibilização: Primeira quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades de Conservação
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de Unidades de Conservação da Natureza - CNUC
+Forma De Disponibilização: Diretamente no Cadastro Nacional de Unidades de Conservação da Natureza - CNUC
+Procedimento De Cálculo: A plataforma indica de forma direta o número de UCs cadastradas
+Limitações: Sem casas decimais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1178
+Indicador: 10209
+Denominação: Número de Unidade de Conservação com catálogo de Flora disponibilizado
+Sigla: CATAFLORA
+Índice De Referência: 32.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador corresponde ao número de Unidades de Conservação com catalogo da flora disponibilizado na plataforma. Somente entra na contagem a Unidade de Conservação que apresentar o catálogo de sua flora disponibilizado na plataforma. Esta publicação on line é feita pela equipe da Unidade Gestora responsável que irá avaliar e validar cada informação contida no catálogo antes de sua disponibilização.
+Período Ou Data A Que Se Refere: O indicador pode ser apurado a qualquer momento visto que a data da disponibilizaçã do catálogo de uma determinada UC consta na sua publicação pode ser verifica
+Data De Divulgação/Disponibilização: No caso deste indicador não há data específica
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Unidade de Conservação com catálogo de Flora
+Fonte De Dados Das Variáveis De Cálculo: JBRJ
+Forma De Disponibilização: O indicador pode ser apurado a qualquer momento visto que a data da disponibilização do catálogo de uma determinada UC consta na sua publicação pode ser verificado por qualquer usuário na plataforma.
+Procedimento De Cálculo: Contagem simples
+Limitações: Sem limitações
+Notas Explicativas: Contagem dos catálogos na plataforma considerando a data de sua publicação
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1087
+Indicador: 10097
+Denominação: Número de unidades Cetas federais com reforma ou melhorias estruturais adequadas para operação
+Sigla: CETASFED
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: A ampliação, melhoria nas estruturas e reformas permite mais eficácia na reabilitação dos animais entregues aos Cetas do Ibama.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Segunda quinzena de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de unidades Cetas federais com reforma ou melhorias estruturais adequadas para operação/ano.
+Fonte De Dados Das Variáveis De Cálculo: IBAMA
+Forma De Disponibilização: Processos no SEI - IBAMA
+Procedimento De Cálculo: Somatório do número de unidades Cetas federais com reforma ou melhorias estruturais adequadas para operação/ano.
+Limitações: Recursos disponíveis para execução das obras e melhorias previstas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1110
+Indicador: 10120
+Denominação: Número de Unidades de conservação com limites consolidados (demarcação ou refinamento de limites)
+Sigla: LIMITUCs
+Índice De Referência: 40.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é por número de  unidades de conservação que tenham o limite consolidado, sendo o indicador possível para medir esta meta. As Unidades de Conservação Federais – UCs são criadas por meio de ato legal, geralmente decreto do(a) presidente da República, que define seus objetivos, localização e limites aproximados, conforme institui o SNUC, se faz necessária a definição clara e precisa dos limites das Unidades, em bases cartográficas de melhor resolução, com ampla divulgação para a sociedade destes limites através do site do ICMBio, CNUC e INDE.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de abril de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades de Conservação com os limites consolidados
+Fonte De Dados Das Variáveis De Cálculo: ICMBio
+Forma De Disponibilização: ICMBio - Coordenação Geral de Consolidação Territorial, anualmente
+Procedimento De Cálculo: Através de consolidação dos dados pela CCOL/CGTER/DISAT
+Limitações: O trabalho de verificação de limites exige conhecimentos técnicos avançados, e mesmo assim muitas UCs apresentam limites que são implotáveis ou tem erros que fazem necessária a sua redelimitação com a publicação de um novo ato legal (desafetação ou ampliação).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Entrega: 1054
+Indicador: 10051
+Denominação: Percentual das Áreas de Preservação Permanente e de Reserva Legal em regularização ambiental recuperação monitoradas
+Sigla: RECUPERAPP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: O indicador refere-se ao monitoramento da regularização ambiental de Áreas de Preservação Permanente (APP) e de Reserva Legal (RL), no interior de imóveis rurais, por meio do Sistema de Cadastro Ambiental Rural (SICAR), integrando as informações de todos os entes federativos e as disponibilizando à sociedade.
+Dentre os objetivos do SICAR previstos no Decreto nº 7.830/2012, está o de monitorar a manutenção, a recomposição, a regeneração, a compensação e a supressão da vegetação nativa e da cobertura vegetal nas áreas de Preservação Permanente, de Uso Restrito, e de Reserva Legal, no interior dos imóveis rurais.
+Entende-se por regularização ambiental as atividades desenvolvidas e implementadas no imóvel rural que visem ao atendimento do disposto na legislação ambiental e, de forma prioritária, à manutenção e recuperação de APP, de RL e áreas de uso restrito, e à compensação da RL, quando couber. Uma das formas de regularização ambiental é por meio da adesão aos Programas de Regularização Ambiental (PRA) implantados pelos Estados e pelo Distrito Federal. O termo de compromisso é o documento formal de adesão ao PRA.
+Para apuração deste indicador, serão identificadas e disponibilizadas pelo canal de consulta pública do SICAR as áreas de APP e de RL dos imóveis rurais que estejam aguardando regularização ambiental, ou em regularização ambiental.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1) Áreas de Preservação Permanente (APP) e de Reserva Legal (RL) dos imóveis rurais que estejam aguardando regularização ambiental, ou em regularização ambiental, disponibilizadas pelo SICAR 
+2) Áreas de Preservação Permanente (APP) e de Reserva Legal (RL) dos imóveis rurais que estejam aguardando regularização ambiental, ou em regularização ambiental, integradas ao SICAR
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Ambiental Rural (SICAR)
+Forma De Disponibilização: Internet (SICAR)
+Procedimento De Cálculo: Áreas de Preservação Permanente (APP) e de Reserva Legal (RL) dos imóveis rurais que estejam aguardando regularização ambiental, ou em regularização ambiental, disponibilizadas pelo SICAR / Áreas de Preservação Permanente (APP) e de Reserva Legal (RL) dos imóveis rurais que estejam aguardando regularização ambiental, ou em regularização ambiental, integradas ao SICAR.
+Limitações: Contribuem para a maximização dos resultados, as seguintes responsabilidades de órgãos estaduais competentes: (1) identificação de passivos ambientais relativos a Áreas de Preservação Permanente (APP) e de Reserva Legal (RL); (2) assinatura, controle e acompanhamento dos termos de compromisso para adesão aos Programas de Regularização Ambiental; e (3) integração das informações no Sistema de Cadastro Ambiental Rural (SICAR).
+Notas Explicativas: O indicador poderá ser utilizado para: (1) avaliação da contribuição do Serviço Florestal Brasileiro para o monitoramento da implementação dos Programas de Regularização Ambiental; (2) monitoramento do funcionamento e da integração dos dados, em âmbito nacional, do programa de regularização ambiental; (3) coordenação e supervisão das atividades de implementação do Sistema de Cadastro Ambiental Rural (SICAR); (4) subsídios de ações voltadas para a recuperação florestal; e (5) acompanhamento pela sociedade.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1015
+Indicador: 10006
+Denominação: Percentual de alertas de desmatamento dos sistemas de detecção oficiais classificados por nível de prioridade para a fiscalização e disponibilizado aos fiscais
+Sigla: ALERT
+Índice De Referência: 50.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: A porcentagem de polígonos classificados quanto a sua prioridade é um indicador que mede a eficácia do sistema de classificação em priorizar os polígonos de desmatamento. Este indicador é calculado como a porcentagem de polígonos de desmatamento identificados que foram efetivamente classificados e priorizados pelo sistema de detecção.
+
+Este indicador é o mais adequado por várias razões:
+
+Específico: O indicador oferece uma medida específica, numérica e concreta.
+Mensurável: A efetividade será medida pelo Índice de Porcentagem de Classificação dos Polígonos Priorizados, que permite acompanhar o percentual de polígonos de desmatamento classificados e priorizados.
+Alcançável: Esta meta é alcançável por meio do aprimoramento das tecnologias de detecção, desenvolvimento dos modelos de priorização que já estão implantados no Ibama.
+Portanto, a porcentagem de polígonos classificados quanto a sua prioridade  é o indicador mais adequado para essa meta, pois é diretamente alinhado com o objetivo da meta, é quantificável, orienta a ação e promove a transparência e a responsabilidade.
+Período Ou Data A Que Se Refere: janeiro a dezembo
+Data De Divulgação/Disponibilização: Final do Ciclo Avaliativo do Ibama: 01 de Julho.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: As variáveis independentes que ocorrem na fórmula para calcular o Índice de Porcentagem de Classificação dos Polígonos Priorizados são:
+Número total de alertas de desmatamento: Esta é a quantidade total de alertas gerados pelos sistemas de detecção oficiais durante um determinado período de tempo (por exemplo, um mês, um trimestre, um ano). Esta variável representa o número total de áreas de desmatamento identificadas.
+Número de alertas de desmatamento classificados e priorizados: Esta é a quantidade de alertas que foram não apenas identificados, mas também classificados de acordo com o nível de prioridade para a fiscalização. Esta variável representa a proporção desses alertas que foram efetivamente classificados e priorizados para ação.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas de Detecção de Desmatamento.
+Forma De Disponibilização: Os dados serão disponibilizados diariamente por meio de Banco de Dados Espacial, dashboards e aplicativos de campo.
+Procedimento De Cálculo: A porcentagem de polígonos classificados quanto a sua prioridade é um indicador calculado com base no número total de alertas de desmatamento e no número de alertas que foram classificados e priorizados. Aqui está um procedimento passo a passo para calcular este indicador:
+
+Contabilize o número total de alertas de desmatamento: Esta é a quantidade total de alertas gerados pelos sistemas de detecção oficiais durante um determinado período de tempo (por exemplo, um mês, um trimestre, um ano).
+
+Contabilize o número de alertas de desmatamento classificados e priorizados: Esta é a quantidade de alertas que foram não apenas identificados, mas também classificados de acordo com o nível de prioridade para a fiscalização.
+
+Calcule a porcentagem de alertas classificados e priorizados: Divida o número de alertas de desmatamento classificados e priorizados pelo número total de alertas de desmatamento e multiplique por 100 para obter a porcentagem.
+
+Fórmula: (Número de alertas de desmatamento classificados e priorizados / Número total de alertas de desmatamento) * 100
+
+O resultado será o Índice de Porcentagem de Classificação dos Polígonos Priorizados, expresso como uma porcentagem. Este indicador fornece uma medida quantitativa da proporção de alertas de desmatamento que foram efetivamente classificados e priorizados para ação, em relação ao total de alertas emitidos durante um determinado período.
+Notas Explicativas: Notas Explicativas para a porcentagem de polígonos classificados quanto a sua prioridade:
+
+Objetivo do Indicador: Este indicador visa fornecer a porcentagem dos alertas de desmatamento que foram priorizados ao longo do tempo. Ele reflete a proporção de alertas que foram efetivamente classificados e priorizados para ação em relação ao total de alertas emitidos.
+
+Cálculo do Indicador: O indicador é calculado dividindo o número de alertas de desmatamento classificados e priorizados pelo número total de alertas de desmatamento e multiplicando por 100. É expresso como uma porcentagem, preferencialmente com duas casas decimais para maior precisão.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Entrega: 1077
+Indicador: 10082
+Denominação: Percentual de animais silvestres reabilitados e destinados, na forma da lei, por Centros de Triagem de Animais Silvestres federais ou estaduais em regime de cooperação técnica
+Sigla: REABILITAANIMA
+Índice De Referência: 50.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: A reabilitação e soltura dos animais permite que a refaunação dos ambientes, repondo o estoque de fauna in situ que foi retirado por meio do tráfico e da caça ilegal.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de animais reabilitados e soltos
+número de animais recebidos nos Cetas
+Fonte De Dados Das Variáveis De Cálculo: SISCETAS/IBAMA
+Forma De Disponibilização: SISCETAS/IBAMA
+Procedimento De Cálculo: Somatório do número de animais reabilitados e soltos/número de animais recebidos nos Cetas
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Entrega: 1172
+Indicador: 10199
+Denominação: Percentual de conselhos ativos
+Sigla: CONSEGEST
+Índice De Referência: 45.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-15 00:00:00
+Unidade De Medida: %
+Descrição: O indicador refere-se à porcentagem de conselhos ativos em relação às UCs com conselho criado. O indicador em questão mede a proporção de conselhos ativos em relação às unidades de conservação (UCs) que possuem conselho criado. A utilização desse indicador é preferível, uma vez que enfatiza a necessidade de qualificar os conselhos já estabelecidos, ao invés de apenas considerar sua criação. Esse indicador ganha relevância ao destacar a importância da atuação do ICMBio para reavivar os conselhos gestores, que enfrentaram desafios durante a pandemia e restrições na gestão dos colegiados nos últimos 4 anos.
+A apuração consiste em uma estimativa do desempenho dos conselhos já criados. Com a implementação desse indicador, intenciona-se impulsionar esforços para desenvolver ou adquirir ferramentas que possam mensurar de forma mais precisa o alcance da meta estabelecida. É importante levar em consideração a quantidade de conselhos criados por cada unidade de conservação, uma vez que pode ocorrer a unificação/integração de conselhos de unidades de conservação, com o intuito de otimizar a governança e promover a gestão integrada e sinérgica das UCs envolvidas.
+Período Ou Data A Que Se Refere: Junho a Junho
+Data De Divulgação/Disponibilização: Até o momento, não houve publicação dos indicadores.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X=somatório das unidades de conservação federais com conselhos ativos
+Y= somatório das unidades de conservação federais com conselhos criados
+Fonte De Dados Das Variáveis De Cálculo: ICMBIO
+Forma De Disponibilização: Planilha contendo informações sobre as reuniões de conselhos ocorridas, preenchidas pela sede ou pontos focais de GSA nas GRs
+Procedimento De Cálculo: Número dos conselhos que realizaram ao menos uma reunião nos últimos dois anos dividido por número de unidade com conselhos criados. Resultado deve ser multiplicado por 100 para gerar o dado em "percentual".
+Notas Explicativas: Classificam-se como conselhos ativos aqueles que tenham realizado ao menos uma reunião nos últimos dois anos da data da apuração da meta.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Entrega: 1032
+Indicador: 10026
+Denominação: Quantidade de brigadistas contratados
+Sigla: INCEND
+Índice De Referência: 1500.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de brigadistas é um descritivo do potencial de alcance do programa de brigadas, de maneira conjunta com a área total protegida.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número total de brigadistas contratados.
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do Prevfogo.
+Forma De Disponibilização: Resultados das seleções dos combatentes contratados pelo Prevfogo em: https://www.gov.br/ibama/pt-br/acesso-a-informacao/editais-e-convites/editais-de-contratacao-de-brigadas-federais-de-incendio
+Procedimento De Cálculo: Somatório de brigadistas contratados.
+Limitações: A quantidade de brigadistas é influenciada diretamente pelo orçamento disponível, quantidade de veículos e estrutura do Ibama para a boa operacionalização das brigadas.
+Notas Explicativas: A quantidade de brigadistas é influenciada diretamente pelo orçamento disponível, quantidade de veículos e estrutura do Ibama para a boa operacionalização das brigadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Entrega: 1356
+Indicador: 10454
+Denominação: Relatórios mensais (biomas Amazônia, Cerrado e Pantanal) e anual (todos os biomas) da perda e degradação da vegetação nativa dos 6 biomas brasileiros
+Índice De Referência: 42.0
+Em Apuração: Não
+Data De Apuração: 2025-04-11 00:00:00
+Unidade De Medida: unidade
+Descrição: Boletins mensais e anual (todos os biomas) da perda da vegetação nativa dos 6 biomas brasileiros.
+Os Boletins Mensais serão apurados nos biomas Amazônia, Cerrado e Pantanal; enquanto os Boletins Anuais serão apurados em todos os 6 biomas (Mata Atlântica, Amazônia, Caatinga, Pantanal, Cerrado e Pampa).
+Período Ou Data A Que Se Refere: Boletins Mensais são publicados até dia 15 do mês seguinte.Boletins Anuais são sempre referentes ao ano do desmatamento,que começa em agosto de determinado ano.
+Data De Divulgação/Disponibilização: São publicados até o mês de dezembro do segundo ano. Por exemplo, o PRODES 2022/2023, referente ao período de Ago/2022 até Jul/2023, é publicado até Dez/2023.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: a = Relatório Anual Bioma Amazônia
+b = Relatório Anual Bioma Cerrado
+c = Relatório Anual Bioma Caatinga
+d = Relatório Anual Bioma Mata Atlântica
+e = Relatório Anual Bioma Pantanal
+f = Relatório Anual Bioma Pampa
+g = Relatório Mensal Bioma Amazônia
+h = Relatório Mensal Bioma Cerrado
+i = Relatório Mensal Bioma Pantanal
+N = Total de Relatórios produzidos no ano
+Fonte De Dados Das Variáveis De Cálculo: Os boletins mensais serão calculados a partir dos dados diários produzidos pelo sistema DETER (g, h, i), que faz o monitoramento diário da supressão de vegetação nos biomas Amazônia, Cerrado e Pantanal.
+Os boletins anuais (a, b, c, d, e, f) serão calculados a partir dos dados anuais produzidos pelo sistema PRODES, que faz o monitoramento anual da supressão de vegetação em todos os biomas brasileiros.
+Forma De Disponibilização: Os dois Sistemas (PRODES/DETER) são desenvolvidos e operados pelo INPE/MCTI, e tem seus dados divulgados através da Plataforma TerraBrasilis (http://terrabrasilis.dpi.inpe.br/)
+Procedimento De Cálculo: O cálculo do valor de supressão de vegetação é resultado do somatório da área de supressão de vegetação de cada polígono de supressão de vegetação nativa (“desmatamento”) mapeado pelo PRODES/DETER.
+Limitações: Não há nenhuma restrição para o acesso aos dados PRODES e DETER. Todos os dados (incluindo a série histórica) estão disponíveis publicamente na Plataforma TerraBrasilis.
+Notas Explicativas: A Metodologia para a execução do mapeamento que produz os dados informados, não sofreu mudanças conceituais relevantes, todos os detalhes das metodologias estão publicamente disponíveis no endereço eletrônico: (http://urlib.net/ibi/8JMKD3MGP3W34T/47GAF6S).
+Sobre as datas de apuração e disponibilização: 
+(1) Para o bioma Amazônia, a estimativa da taxa de desmatamento do ano atual é publicada até dezembro e a taxa consolidada é publicada até maio do ano seguinte. Por exemplo, para o PRODES 2022/2023: a estimativa da taxa de desmatamento foi publicada em dezembro/2023 e a taxa consolidada referente ao período de agosto/2022 até julho/2023 foi publicada em maio/2024. 
+(2) Para o bioma Cerrado, a taxa de desmatamento do ano atual é publicada até dezembro. Por exemplo, para o PRODES 2022/2023, a taxa foi publicada em dezembro/2023. 
+(3) Para os demais biomas, a taxa anual de desmatamento é publicada até julho do ano seguinte. Por exemplo, para o PRODES 2022/2023 foi publicado até julho/2024.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6114
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Indicador: 9411
+Denominação: Área de cobertura vegetal nativa em recuperação
+Sigla: RECUP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: ha
+Descrição: É um indicador que permite quantificar e dimensionar a área em recuperação da vegetação nativa. Para a definição das metas, partiu-se da falta de dados oficiais da área em recuperação em 2023 e foi utilizada uma projeção geométrica com razão 2, inversa, considerando a entrega total assumida até 2030: 12 milhões de ha em 2030; 6 milhões de ha em 2029; 3 milhões de ha em 2028; 1,5 milhões de ha em 2027; 750.000 ha em 2026; 375.000 ha em 2025; 187.500 ha em 2024; e 0 ha em 2023.
+Período Ou Data A Que Se Refere: Janeira a dezembro
+Data De Divulgação/Disponibilização: Ainda não há data de divulgação ou disponibilização do indicador, pois a medição ainda não ocorre. A data de divulgação ou disponibilização será definida poster
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Cobertura vegetal nativa em recuperação
+Fonte De Dados Das Variáveis De Cálculo: MMA
+Forma De Disponibilização: MMA
+Procedimento De Cálculo: Somatório do número de área de cobertura vegetal nativa em recuperação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Indicador: 9408
+Denominação: Área protegida com o manejo integrado do fogo implementado
+Sigla: INCEN
+Índice De Referência: 200000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: km²
+Descrição: O indicador mede a ampliação gradativa da área federal sob proteção do Programa de Brigadas Federais nos estados em emergência e períodos críticos para a ocorrência de Incêndios Florestais. A área protegida tem se mostrado um fator importante de medida das ações do Ibama quanto a proteção contra incêndios pois define uma área de atuação abrangente mas, ao mesmo tempo, em que as ações podem ser planejadas de acordo com a realidade local, mapeadas para mensuração de execução e eficiência e, o mais importante, permite a criação de objetivos de longo prazo, uma vez que a proteção contra incêndios não é uma ação pontual e estanque.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: soma das áreas protegidas
+Fonte De Dados Das Variáveis De Cálculo: banco de dados georreferenciados oficial das instituições reponsáveis pelas áreas (Ibama, ICMBio, Funai, Incra...)
+Forma De Disponibilização: Dados disponíveis na Plataforma de Análise e Monitoramento Geoespacial da Informação Ambiental - Pamgia: https://pamgia.ibama.gov.br/
+Procedimento De Cálculo: Somatório do número absoluto: soma das áreas protegidas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Indicador: 9442
+Denominação: Número de espécies da fauna/flora ameaçadas de extinção com Planos de Ação ou outros instrumentos para conservação
+Sigla: FEXTIN
+Índice De Referência: 1853.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Este é o indicador possível de ser utilizado para aferir o esforço dedicado para melhor o estado de conservação de espécies  oficialmente ameaçadas de extinção, por meio da implementação de ações de conservação previstas em instrumentos depolítica pública, especialmente Planos de Ação Nacional.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Espécies da flora e fauna  brasileira
+Fonte De Dados Das Variáveis De Cálculo: ICMBIO e JBRJ
+Forma De Disponibilização: Flora - Plataforma do CNCFlora do JBRJ - Fauna - Plataforma do ICMBio
+Procedimento De Cálculo: Somar o número de espécies da flora e fauna brasileira oficialmente ameaçadas de extinção indicadas como alvos de conservação na portaria de aprovação de Planos de Ação Nacional (PANs) para a conservação e recuperação em vigência. Espécies contempladas em mais de um PAN devem ser computadas apenas uma vez.
+Notas Explicativas: Considerar apenas espécies alvos de conservação indicadas na portaria de aprovação do PAN em vigência. O indicador pode sofrer flutuações anuais devido o encerramento de algum PAN, consequentemente causando a redução no número de espécies da flora/fauna brasileira oficialmente ameaçadas de extinção incluídas em PANs.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Indicador: 9373
+Denominação: Percentual de redução da área total de vegetação nativa suprimida por ano e por bioma
+Sigla: DESMAT
+Índice De Referência: 27460.74
+Em Apuração: Sim
+Data De Apuração: 2022-09-01 00:00:00
+Unidade De Medida: %
+Descrição: O índice se referencia à estatística de desmatamento em cada bioma brasileiro (Amazônia, Cerrado, Caatinga, Mata Atlântica, Pampa e Pantanal), divulgada por meio do projeto Prodes/Inpe. O valor de 27.460,74 km2 é a soma dos 6 índices (cada bioma), no período de agosto de 2021 até julho de 2022, conhecido como ano Prodes 2022. O índice será apurado anualmente por meio do projeto Prodes/Inpe, que é responsável pela estatística brasileira de desmatamento e é publicado anualmente, geralmente no segundo semestre. O índice de referência se vincula ao período de agosto de um ano a julho do outro ano, denominado "calendário Prodes".
+Período Ou Data A Que Se Refere: Agosto do ano anterior a julho do ano a que se referir
+Data De Divulgação/Disponibilização: Geralmente os dados do Prodes são divulgados pelo Inpe no mês de novembro de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Dados do Prodes/Inpe de cada bioma
+Fonte De Dados Das Variáveis De Cálculo: Projeto Prodes/Inpe, que pode ser obtido no site http://terrabrasilis.dpi.inpe.br/app/map/deforestation
+Forma De Disponibilização: Após a divulgação pelo Inpe, os dados poderão ser obtidos no site http://terrabrasilis.dpi.inpe.br/app/map/deforestation
+Procedimento De Cálculo: Somatória das estatísticas de cada bioma
+Limitações: Não se aplica
+Notas Explicativas: Após a publicação dos dados do projeto Prodes pelo Inpe, basta somar de cada bioma e se chegará ao índice.. Linha de Base: Prodes/Inpe 2022: 27.460,74 km2 (somatório de todos os biomas)
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Indicador: 9444
+Denominação: Percentual do território terrestre e marinho protegido
+Sigla: TERRMAR
+Índice De Referência: 20.67
+Em Apuração: Não
+Data De Apuração: 2022-07-01 00:00:00
+Unidade De Medida: %
+Descrição: Percentual do território terrestre e marinho do Brasil coberto pelas unidades de conservação cadastradas no Cadastro Nacional de Unidades de Conservação da Natureza - CNUC. Reflete o resultado da definição de áreas legalmente protegidas conforme previsto na Lei 9.985/2000 que escabece o Sistema Nacional de Unidades de Conservação da Natureza -SNUC, cuja eficácia para a proteção, conservação e conectividade dos ecossistemas terrestres, costeiros e marinhos é reconhecida internacionalmente.
+Período Ou Data A Que Se Refere: Mensuração será realzada em janeiro de cada ano, referente à realidade no momento da mensuração. Como se trata de um retrato da situação no momento da apuração,
+Data De Divulgação/Disponibilização: Primeira quinzena de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Área das UCs brasileiras; área de sobreposição entre UCs; área terrestre do Brasil; área marinha do Brasil
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de Unidades de Conservação da Natureza - CNUC (para Área das UCs brasileiras e área de sobreposição entre UCs) e IBGE (para área terrestre do Brasil e área marinha do Brasil)
+Forma De Disponibilização: Por meio das plataformas oficiais de dados do IBGE e CNUC
+Procedimento De Cálculo: Baixar o shape das UCs do CNUC, gerar a área total das UCs, desconsiderando as áreas de sobreposição entre UCs. 
+Somar as áreas terrestre e marinha do Brasil disponibilizadas pelo IBGE. 
+Realizar a fórmula de porcentagem.
+Limitações: Duas casas decimais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6114
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 237
+Enunciado: Prevenir e controlar o desmatamento e a degradação da vegetação nativa no Brasil.
+Descrição: Diante das alterações drásticas que o clima tem enfrentado nos últimos anos, impulsionadas por diversos fatores sobretudo relacionados com a emissão de gases do efeito estufa, as ações contra o desmatamento e contra o uso irresponsável da vegetação nativa têm ganhado destaque nacional e internacionalmente. Nesse sentido, o Governo Federal editou no dia 01/01/2023 o Decreto nº 11.367/2023 que enfatizou a necessidade de adoção de medidas estruturantes para a prevenção e controle do desmatamento e queimadas no país, ao instituir a Comissão Interministerial Permanente para controle do desmatamento e as subcomissões executivas para a Amazônia e o Cerrado, além de determinar medidas para os demais biomas brasileiros. O Ministério do Meio Ambiente e Mudança do Clima - MMA atua no papel de secretaria executiva da Comissão Interministerial e como coordenador nas subcomissões executivas do PPCDs.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 239
+Enunciado: Prevenir e controlar os incêndios em vegetação nativa.
+Descrição: O Ibama possui como sua responsabilidade executar ações das políticas nacionais de meio ambiente, referentes às competências federais, relativas ao licenciamento ambiental, ao controle da qualidade ambiental, à regulação e autorização de uso dos recursos naturais e à fiscalização, ao monitoramento e ao controle ambientais, observadas as diretrizes emitidas pelo Ministério do Meio Ambiente. Dentro das ações de controle da qualidade ambiental, fiscalização, monitoramento e controle ambientais está a proteção das áreas federais prioritárias contra os danos causados pelo fogo sem controle na vegetação.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 243
+Enunciado: Promover a recuperação de florestas e demais formas de vegetação nativa em todos os biomas brasileiros.
+Descrição: A recuperação de florestas e demais formas de vegetação nativa é promovida por meio da ampliação e fortalecimento de políticas públicas (como a Lei de Proteção da Vegetação Nativa nº 12.651/2012), sensibilização, produção de sementes e mudas, mercados, cooperação institucional, mecanismos financeiros, extensão rural, planejamento espacial e monitoramento, pesquisa e desenvolvimento, boas práticas agropecuárias, regularização ambiental de imóveis rurais e outras medidas necessárias para a recuperação. Áreas são consideradas "em recuperação" quando da implantação de sistema agroflorestal, regeneração natural, reabilitação ecológica, reflorestamento, restauração ecológica e ou recuperação ou recomposição da vegetação nativa (conforme Decreto nº 8.972/2017).
+O Plano Nacional para a Recuperação Nativa (PLANAVEG), lançado em novembro de 2017, definiu a meta de 12 milhões de hectares até 2030 baseado em uma análise do déficit de vegetação nativa para o cumprimento da Lei nº 12.651/2012. Os principais desafios à recuperação da vegetação nativa no Brasil se refletem nas iniciativas estratégicas do PLANAVEG relacionadas a Cooperação Institucional, Mercados, Mecanismos Financeiros e Planejamento Espacial e Monitoramento – elencadas como prioridade nos próximos 2 anos, e vão habilitar as condições para a escala da restauração acontecer a partir de então.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 248
+Enunciado: Conservar as espécies, em particular, espécies ameaçadas de extinção.
+Descrição: Conservar as espécies da flora e da fauna principalmente aquelas que apresentam uma risco maior de extinção visando a manutenção das populações naturais, seu fluxo gênico e suas interações ecológicas que resultam nos serviços ecossistêmicos imprescindíveis para a qualidade de vida na terra
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Objetivo Específico: 250
+Enunciado: Ampliar e consolidar a proteção, a conservação e a conectividade dos ecossistemas terrestres, costeiros e marinhos, em especial por meio de áreas protegidas.
+Descrição: Ampliar e consolidar a proteção, a conservação e a conectividade dos ecossistemas terrestres, costeiros e marinhos, em especial por meio de áreas protegidas, dada a importância desses ecossistemas para a garantia da sobrevivência e qualidade de vida da população, e o papel das áreas protegidas na proteção, conservação e conectividade desses ecossistemas.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 6114
+
+Exercício: 2025
+Programa: 6114
+Objetivo: 1320
+Enunciado: Conservar, recuperar e valorizar os biomas terrestres e as zonas costeira e marinha, para a manutenção da diversidade biológica, dos recursos naturais e dos serviços ecossistêmicos, combatendo o desmatamento, os incêndios e a exploração predatória dos recursos naturais.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 6114
+
+Exercício: 2025
+Programa: 6114
+Título: Proteção e Recuperação da Biodiversidade e Combate ao Desmatamento e Incêndios
+Tipo: Finalístico
+Órgão: 44000.0
+Público-Alvo: Sociedade brasileira; Órgãos do Sistema Nacional de Meio Ambiente; proprietários ou posseiros rurais; assentados da reforma agrária, especialmente Povos indígenas e povos e comunidades tradicionais; Produtores rurais.
+Descrição Do Problema: O desmatamento causa diversos prejuízos, tanto para a natureza como para quem vive dela. A perda de florestas resulta na liberação de grandes quantidades de dióxido de carbono (CO2) na atmosfera, contribuindo para o aquecimento global e as mudanças climáticas. Além disso, o desmatamento afeta negativamente a biodiversidade, levando à extinção de espécies e à perda de habitat para animais e plantas.
+Os incêndios ambientais têm várias consequências negativas, contribuem significativamente para a emissão de gases de efeito estufa, intensificando as mudanças climáticas e o aquecimento global. Além disso, os incêndios destroem ecossistemas naturais, levando à perda de biodiversidade, destruição de habitats e perturbação dos ciclos naturais, prejudicando a saúde humana.
+A vegetação nativa desempenha um papel fundamental na manutenção da biodiversidade, na regulação do clima, na proteção dos solos e na oferta de serviços ecossistêmicos essenciais. Por isso, a degradação da vegetação nativa é uma problemática ambiental significativo e pode ocorrer de várias formas, incluindo o desmatamento, a fragmentação de habitats e a degradação do solo.
+No Brasil, diversas espécies da fauna e da flora estão ameaçadas de extinção, enfrentando risco significativo de desaparecerem da natureza devido a fatores como perda de habitat, caça ilegal, poluição, introdução de espécies exóticas, mudanças climáticas e degradação ambiental.
+Necessidade de fortalecer o Sistema Nacional de unidades de conservação (UCs), pois são consideradas uma das estratégias mais eficazes para a preservação da biodiversidade e dos ecossistemas, combatendo a perda dos habitats naturais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

@@ -1,0 +1,1082 @@
+passage: Programa Número 2802
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3435
+Indicador: 12790
+Denominação: Alunos de graduação favorecidos com bolsas para desenvolvimento de negócios associados a projetos em disciplinas, projetos de pesquisa e projetos de extensão
+Em Apuração: Sim
+Unidade De Medida: Pessoas
+Descrição: O indicador visa mensurar o número de bolsas ofertadas a estudantes de graduação para desenvolvimento de negócios associados a projetos em disciplinas, projetos de pesquisa e projetos de extensão, buscando promover a mentalidade empreendedora no meio universitário.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = pessoas que receberam bolsas
+Fonte De Dados Das Variáveis De Cálculo: SNAMI/DEMP
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Somatória do número de alunos que receberam bolsas no período de referência
+Limitações: Não se aplica
+Origem: PLOA
+Momento: 4000
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3288
+Indicador: 12665
+Denominação: Número acumulado de bases de dados integradas ao Mapa de Empresas
+Sigla: IMAPA
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: Aferição da evolução do "Mapa de Empresas" por meio da obtenção de uma maior quantidade de dados da base da Receita Federal do Brasil via contrataçao do B-Cadastros junto ao SERPRO.
+Esta iniciativa proporcionará o fornecimento de informaçoes mais detalhadas sobre empresas ao cidadão brasileiro.
+Período Ou Data A Que Se Refere: Quadrimestre anterior
+Data De Divulgação/Disponibilização: Quadrimestre posterior a integração com outras bases de dados
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Bi = número de bases de dados integradas ao Mapa de Empresas em cada período
+O índice 'i' varia de 1 até 'n', que representa o número total de períodos considerados para consolidação do acumulado
+Fonte De Dados Das Variáveis De Cálculo: Apuração interna
+Forma De Disponibilização: Comunicação administrativa (inserção do dado apurado na base de dados de monitoramento do Sistema SIOP); e
+Disponibilização dos dados no sítio do Departamento Nacional de Registro Empresarial e Integração (DREI): <https://www.gov.br/empresas-e-negocios/pt-br/drei>.
+Procedimento De Cálculo: Apuração e soma do número acumulado de bases integradas ao Mapa de empresas.
+Limitações: É necessária a autorização da RFB para o acesso as novas bases de dados.
+Notas Explicativas: Metas elaboradas considerando a quantidade de bases agregadas à solução de TIC do Mapa de Empresas. No início de 2023, consta na solução as bases CNPJ e solicitações Redesim (dados de tempo de abertura de empresas). Para 2024, com a disponibilização da solução bcadastros, prevê-se a integração das bases CPF, CAEPF, Simples Nacional e DAU (Dívida Ativa da União). Para os anos seguintes, vislumbra-se a integração de, ao menos, uma nova base governamental a cada ano.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3287
+Indicador: 12664
+Denominação: Número acumulado de tradutores e intérpretes públicos aprovados em processo seletivo nacional
+Sigla: ITRAD
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-22 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador afere o número de tradutores e intérpretes públicos aprovados em processo seletivo nacional e que ficarão disponíveis para atuar junto à sociedade. Trata-se de entrega direta ao profissional que queira se habilitar como tradutor e intérprete público nas juntas comerciais e indireta aos cidadãos que se utilizarão o serviço prestado.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ci = quantidade de candidatos aprovados em processo seletivo nacional no período (anual)
+O índice 'i' varia de 1 até 'n', que representa o número total de períodos considerados para o acumulado
+Fonte De Dados Das Variáveis De Cálculo: 27 Juntas Comerciais do País com dados consolidados pelo Departamento Nacional de Registro Empresarial e Integração
+Forma De Disponibilização: Disponibilização dos dados no sítio do Departamento Nacional de Registro Empresarial e Integração (DREI): <https://www.gov.br/empresas-e-negocios/pt-br/drei>
+Procedimento De Cálculo: Somatório do número acumulado de candidatos aprovados nos processos seletivos a serem realizados no período de 2024 a 2027 (1 concurso por ano).
+Limitações: Disponibilidade orçamentária para a realização de concurso nacional para a aferição de aptidão procedimento previsto na Lei n. 14.195/2021 e regulamentado na IN/DREI n. 52/2022.
+Notas Explicativas: Realização de Concurso Nacional para aferição de aptidão para a habilitação de tradutores e intérpretes públicos.A realização do concurso nacional decorre de determinação legal, conforme o disposto no art. 25 da Lei nº. 14.195/2021 e regulamentado pela IN/DREI n. 52/2022. Trata-se de entrega direta ao profissional que queira se habilitar como tradutor e intérprete público nas juntas comerciais e indireta aos cidadãos que se utilizarão o serviço prestado.
+- Metas elaboradas considerando o total de tradutores e intérpretes públicos cadastrados nas 27 juntas comerciais do país: 2.419 profissionais. A expectativa é que esse quantitativo dobre nos próximos 4 anos, com a realizados dos concurso nacional para aferição de aptidãos nacionais.
+- Apesar de constar na Lei nº 14.195/2021 a nomenclatura "concurso nacional para aferição de aptidão", o certame a ser realizado trata-se de processo seletivo.
+- Existem tradutores e intérpretes matriculados no âmbito das Juntas Comerciais estaduais, uma vez que a competência para a realização de concurso nacional para aferição de aptidão para aferição de aptidão era desses órgãos, antes do advento da da Lei nº 14.195, de 26 de agosto de 2021, cujo art. 25 tranferiu para o Departamento Nacional de Registro Empresarial e Integração – DREI a competência para organização e regulamentação do referido concurso nacional para aferição de aptidão / processo seletivo, em âmbito nacional. Assim, o indicador não abrangerá tradutores juramentados que foram aprovados em antigos concurso nacional para aferição de aptidãos, mas apenas nos novos, organizados pelo DREI.
+De acordo com a Lei nº. 14.195/2021, o DREI é o órgão que tem como atribuição de organização e realização do concurso nacional para aferição de aptidão para a habilitação de tradutores e intérpretes públicos em âmbito nacional. A aprovação no concurso é condição inafastável para a matrícula do profissional perante a junta comercial do estado onde pretenda desenvolver o ofício.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3299
+Indicador: 12676
+Denominação: Número de artesãos agraciados anualmente com o prêmio
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-10-23 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem do número de artesãos reconhecidos com a Carteira Nacional do Artesão emitida pelo SICAB, agraciados com o "Prêmio Nacional de Valorização do Artesão Tradicional", mediante curadoria designada pelo PAB.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: E = número total de artesãos agraciados anualmente com o Prêmio Nacional de Valorização do Artesão Tradicional.
+ei = cada artesão agraciado através da edição realizada no ano 
+Onde i varia de 1 até n, com n representando o número total artesãos premiados
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Contagem simples dos artesãos agraciados anualmente através do "Prêmio Nacional de Valorização do Artesão Tradicional".
+Limitações: Disponibidade orçamentária
+Notas Explicativas: Meta não cumulativa entre exercícios
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3297
+Indicador: 12674
+Denominação: Número de Coordenações Estaduais do Artesanato reconhecidas com o Selo "Estado Amigo do Artesanato"
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-10-23 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem do número de Coordenações Estaduais do Artesanato reconhecidas por meio do edital do Selo "Estado Amigo do Artesanato", o que se dá mediante o atendimento de critérios específicos que contemplam o desempenho do estado no fortalecimento e no fomento da política pública para o artesanato.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: C = número absoluto de Coordenações Estaduais do Artesanato inscritas no edital do selo "Estado Indutor do Artesanato nos Municípios" por ano
+Ei = cada Coordenação Estadual do Artesanato reconhecida no edital no ano i
+Onde o índice 'i' varia de 1 até 'n', que representa o número total de coordenações reconhecidas anualmente.
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Contagem simples das coordenações estaduais reconhecidas anualmente no edital do Selo "Estado Amigo do Artesanato".
+Limitações: Disponibilidade orçamentária
+Notas Explicativas: O Selo será elaborado em 2024, razão pela qual não há meta estabelecida para esse ano. Meta não cumulativa entre exercícios.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3309
+Indicador: 12657
+Denominação: Número de empreendedores capacitados em empreendedorismo inovador
+Em Apuração: Sim
+Unidade De Medida: pessoas capacitadas
+Descrição: Medição do número de empreendedores capacitados no âmbito do Programa de Fomento ao Empreendedorismo Inovador, que tem como objetivo apoiar e desenvolver ideias inovadoras desde a fase inicial (pré-incubação), passando pela estruturação e desenvolvimento (incubação) até a aceleração e crescimento no mercado. Este programa visa capacitar empreendedores, proporcionar acesso a recursos, e criar um ecossistema sustentável de inovação.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de empreendedores concluintes das capacitações
+Fonte De Dados Das Variáveis De Cálculo: Relatório das entidades que realizarão as capacitações.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Somatória do número de alunos concluintes dos cursos de empreendedorismo no âmbito do programa no período.
+Notas Explicativas: As metas dependem de recursos orçamentários conforme propostas orçamentárias em análise e futuras.
+Origem: PLOA
+Momento: 8200
+Novo: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3306
+Indicador: 12654
+Denominação: Número de empresas abertas no Inova Simples
+Índice De Referência: 1550.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Por meio do crescimento da adesão ao  Inova Simples, aferir impacto da política pública de fomento ao empreendedorismo de inovação mediante mecanismos de acesso a programas de aceleração de startups e iniciativas de acesso a crédito simplificado.
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: março e agosto
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ei = número de Empresas Simples de Inovação abertas em cada mês;
+O índice 'i' varia de 1 a 6, representando os meses do semestre de referência.
+Fonte De Dados Das Variáveis De Cálculo: Mapa de empresas - https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas.
+Forma De Disponibilização: Mapa de empresas - https://www.gov.br/empresas-e-negocios/pt-br/mapa-de-empresas.
+Procedimento De Cálculo: Contagem e somatório das empresas abertas no Inova Simples no período de referência.
+Notas Explicativas: Estimado como meta crescimento anual de novas inscrições de 10% ao ano. Ano-base: 2022.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3304
+Indicador: 12653
+Denominação: Número de empresas ME, EPP e MEI que aderiram aos programas de crédito com incentivos governamentais
+Índice De Referência: 445450.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O Pronampe é instrumento de acesso a crédito criado na pandemia e que agora é permanente. Operado por ampla rede bancária, conta com taxas muito competitivas e outras vantagens como carência de até 12 meses e prazo de até 72 meses. O número de empresas atendidas será obtido a partir de relatório operacional preparado pela entidade gestora da linha de crédito (Banco do Brasil), que considera todas as empresas que fecharam contrato com qualquer um dos bancos operadores.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de empresas atendidas no âmbito do Pronampe (ou seja, aquelas que submetem solicitação de crédito aos bancos operadores e tem solicitação aprovada no período de referência)
+Fonte De Dados Das Variáveis De Cálculo: Relatório emitido pelo gestor do FGO - Banco do Brasil.
+Forma De Disponibilização: Divulgação no site do MEMP.
+Procedimento De Cálculo: Apuração do número de empresas atendidas no âmbito do Pronampe conforme dados do indicador disponibilizados em sítio eletrônico do Banco do Brasil, administrador do FGO (Fundo Garantidor de Operações) Pronampe.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3289
+Indicador: 12666
+Denominação: Número de entidades capacitadas por ano
+Sigla: ICPTAN
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Aferição do número de capacitações de entidades (Confederações, Federações, Associações e Entidades públicas) realizadas, em temas relacionados a ambiente de negócios, acesso a créditos e empreendedorismo.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de entidades capacitadas
+Fonte De Dados Das Variáveis De Cálculo: Relatórios disponibilizados pelas entidades que realizarão as capacitações
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Somatória do número de entidades concluintes dos cursos relacionados a ambiente de negócios e empreendedorismo.
+Limitações: Dependente de disponibilidade orçamentária para realização.
+Origem: PLOA
+Momento: 8200
+Novo: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3314
+Indicador: 12659
+Denominação: Número de entidades que formalizaram adesão à rede de apoio ao MEI
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Rede implementada com a participação de ao menos um representante de cada Estado para ser ponto focal de apoio e atendimento aos MEIs.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de entidades que firmaram o termo de compromisso e passaram a ser ponto de apoio do MEI
+Fonte De Dados Das Variáveis De Cálculo: Termos assinados e disponibilizados no portal do MEMP.
+Forma De Disponibilização: Sítio institucional.
+Procedimento De Cálculo: Apuração e somatório do número de entidades que assinaram os termos de compromisso com o MEMP para integrarem a rede de apoio ao MEI.
+Notas Explicativas: A rede depende da articulação do MEMP e do interesse das entidades em firmar parceria para ser ponto de apoio do MEI
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3296
+Indicador: 12673
+Denominação: Número de instituições que aderiram ao Plano de Capacitação Integrada para Artesãos
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem da constituição da rede estruturada de agentes capacitadores dos artesãos por meio da adesão de instituições ao Plano de Capacitação Integrada para Artesãos.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: I = número total de instituições que aderiram ao Plano de Capacitação Integrada para Artesãos
+ai  = instituição que aderiu ao plano
+Onde o índice "i" varia de 1 até "n", que representa o número total de termos de adesão celebrados anualmente
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração da quantidade de instrumentos de adesão (Termos de Adesão) celebrados anualmente.
+Limitações: Disponibilidade orçamentária para as parcerias.
+Notas Explicativas: O Plano de Capacitação Integrada para Artesãos será elaborado em 2024 para a constituição da rede  (total ano anterior + total ano seguinte).
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3291
+Indicador: 12668
+Denominação: Número de instrumentos celebrados com instuições financeiras para oferta de crédito ao artesão
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-10-23 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de instrumentos celebrados com instituições financeiras que ofertam linha de crédito para artesãos com CNA.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: I = número total de instituições financeiras que aderiram ao instrumento de oferta de crédito para Artesãos
+ai  = instituição que aderiu ao instrumento
+Onde o índice "i" varia de 1 até "n", que representa o número total de termos de adesão celebrados anualmente
+Fonte De Dados Das Variáveis De Cálculo: Controles internos da SAMI/DAMI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração da quantidade de instrumentos celebrados com instituições financeiras que ofertam linha de crédito para artesãos com CNA.
+Limitações: Possibilidade de baixa adesão de instituições financeiras por ser uma política para profissional autônomo.
+Notas Explicativas: Para adesão inicial será efetuada negociação com bancos públicos federais, estaduais e cooperativas de crédito.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3302
+Indicador: 12651
+Denominação: Número de jovens e adultos em situação de vulnerabilidade capacitados
+Em Apuração: Sim
+Unidade De Medida: pessoas capacitadas
+Descrição: Número de jovens e adultos  em situação de vulnerabilidade capacitados em empreendedorismo no âmbito do programa Pé no Futuro
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: julho e janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de alunos concluintes das capacitações no período de referência
+Fonte De Dados Das Variáveis De Cálculo: Relatório das entidades que realizarão as capacitações.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Apuração e somatória do número de alunos concluintes dos cursos de empreendedorismo no âmbito do programa no período de referência.
+Notas Explicativas: O atingimento das metas depende de recursos orçamentários conforme propostas orçamentárias em análise e futuras.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3307
+Indicador: 12655
+Denominação: Número de laboratórios de tecnologias voltadas ao empreendedorismo implantados
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Número de laboratórios de tecnologias voltadas ao empreendedorismo implantados por meio do programa Universidade Empreendedora, que visa promover a implantação de laboratórios de tecnologias, com vistas a popularizar o acesso às informações e criar oportunidades de negócios.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ptotal = número total de universidades e institutos participantes ao final de todos editais publicados
+Ui = números de universidades participantes no edital i
+Ii = número de institutos participantes no edital i
+n = número total de editais publicados no período de referência
+Fonte De Dados Das Variáveis De Cálculo: Comunicados dos editais.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Apuração e somatório do número de universidades e institutos participantes inscritos em cada edital no período para obter o total de paticipantes ao longo de todos os editais do Programa Universidade Empreendedora no período de tempo considerado.
+Notas Explicativas: As metas dependem de recursos orçamentários conforme propostas orçamentárias em análise e futuras.
+Origem: PLOA
+Momento: 8200
+Novo: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3294
+Indicador: 12671
+Denominação: Número de laboratórios técnicos “artesanato mais competitivo” celebrados
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem do número de laboratórios para qualificação para grupo produtivos, associações e cooperativa do setor artesanato, visando a ações que possibilitem a melhoria da qualidade da produção artesanal, bem como, a ampliação dos canais de comercialização do artesanato, como fatores condicionantes para a melhoria da renda dos artesãos.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: L = número absoluto de termos de fomento ou convênios celebrados para implantação de laboratórios de artesanato
+Xi = cada termo de fomento ou convênio celebrado ao longo do ano para implantação de laboratórios
+Onde o índice "i" varia de 1 até "n", que representa o número total de termos de fomento ou convênios celebrados anualmente para implantação de laboratórios
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI/CGART
+Forma De Disponibilização: Comunicação Administrativa
+Procedimento De Cálculo: Apuração da contagem de Termo de Fomento e/ou Convênios celebrados no período de tempo de referência (ano-exercício).
+Limitações: Disponibilidade orçamentária para as parcerias.
+Notas Explicativas: Meta não cumulativa entre exercícios.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3293
+Indicador: 12670
+Denominação: Número de mapeamentos cartográficos relacionados a artesanato gerados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-10-23 00:00:00
+Unidade De Medida: unidade
+Descrição: Mapas Regionais Cartograficos  do Artesanato Brasileiro.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: M = número absoluto de mapas cartográficos produzidos em 1 ano
+Xi = cada mapa cartográfico elaborado ao longo do ano
+Onde o índice "i" varia de 1 até "n", que representa o número total de mapas cartográficos elaborados anualmente
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI/CGART
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração do número absoluto dos Termos de Aceite de cada parceria celebrada para a execução dos mapas cartográficos no período de referência do indicador.
+Limitações: Disponibilidade orçamentária para as parcerias.
+Notas Explicativas: Meta não cumulativa entre exercícios.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3313
+Indicador: 12658
+Denominação: Número de MEIs capacitados em habilidades essenciais de gestão
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: Número de MEIs capacitados em habilidades essenciais de gestão
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = microempreendedores concluintes das capacitações no período de referência.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios apresentados pelo parceiros executores.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Somatória do número de MEIs concluintes de capacitações em temas de empreendedorismo no período de referência.
+Notas Explicativas: Para cumprimento das metas serão necessáias articulações com parceiros executores, tais como: órgãos e entidades dos Estados e Municípios, entidades representativas e instiruições de ensino.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3315
+Indicador: 12660
+Denominação: Número de MEIs formalizados
+Índice De Referência: 6.08
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Aumento no total de MEIs ativos entre o ano de referência e o ano anterior. O indicador demonstra os resultados e esforços do Governo em promover a formalização de empreendedores, especialmente por meio de campanhas educativas sobre os benefícios da formalização, a serem disponibilizadas no Portal do Empreendedor, bem como nos eventos a serem realizados em parceria com entidades governamentais e não governamentais.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = acumulado de MEIs ativos no ano de referência                              
+y = acumulado de MEIs ativos no ano de anterior
+Fonte De Dados Das Variáveis De Cálculo: Portal do Empreendedor (https://www.gov.br/empresas-e-negocios/pt-br/empreendedor/entes-federados/gestor-publico-1)
+Forma De Disponibilização: Sítio institucional e Portal do Empreendedor.
+Procedimento De Cálculo: Para cada ano, contabiliza-se a subtração entre o total acumulado de MEIs ativos ao final do ano e o total acumulado do ano anterior, dividindo-se pelo total cumulado do ano anterior. Em seguida, multiplica-se por 100 (cem) para obter o valor percentual.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3300
+Indicador: 12649
+Denominação: Número de mulheres capacitadas no âmbito da Estratégia Elas Empreendem
+Índice De Referência: 17400.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: pessoas capacitadas
+Descrição: Número de pessoas capacitadas por programas de capacitação apoiados pelo MEMP relativas ao empreendedorismo feminino.
+Período Ou Data A Que Se Refere: semestre anterior
+Data De Divulgação/Disponibilização: julho e dezembro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = alunas concluintes de cursos voltados ao empreendedorismo feminino no período de referência.
+Fonte De Dados Das Variáveis De Cálculo: Relatório e informações prestadas pelas replicadoras nos estados (UFs).
+Forma De Disponibilização: Comunicação administrativa.
+Procedimento De Cálculo: Apuração e somatória do número de alunas concluintes dos cursos realizados voltados para o empreendedorismo feminino no período de referência.
+Limitações: Replicadoras nos estados (UFs) e disponibilidade orçamentária para novos projetos.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3308
+Indicador: 12656
+Denominação: Número de mulheres participantes em editais de premiação para reconhecimento de empreendimentos liderados por mulheres e figuras inspiradoras do setor
+Em Apuração: Sim
+Unidade De Medida: Pessoas
+Descrição: O indicador mede o número de mulheres participantes de edital para reconhecimento de empreendimentos liderados por mulheres, figuras inspiradoras do setor e oferecimento de verba para fomento: Prêmio Mulheres Empreendedores.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: S = número total de mulheres participantes em todos os editais
+Mi = número de mulheres participantes no edital i
+n = número total de editais
+Fonte De Dados Das Variáveis De Cálculo: Comunicados do edital.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Somatório de mulheres participantes inscritas em cada edital i desde i = 1 até i = n, ou seja, soma-se todas as participantes em cada edital e depois soma-se o total de cada edital para obter o total de participantes dentro de um período de tempo considerado.
+Notas Explicativas: As metas dependem de recursos orçamentários conforme propostas orçamentárias em análise e futuras.
+Origem: PLOA
+Momento: 8200
+Novo: Sim
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3316
+Indicador: 12661
+Denominação: Número de pessoas capacitadas no Programa de Apoio ao Empreendedorismo - PAEM
+Em Apuração: Sim
+Unidade De Medida: pessoas capacitadas
+Descrição: Medição do número de pessoas capacitadas no Programa de Apoio ao Empreendedorismo - PAEM, com certificação, realizados pelos Institutos Federais e outras instituições.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de alunos concluintes do curso ofertado no ambito do Programa de Apoio ao Empreendedorismo - PAEM
+Fonte De Dados Das Variáveis De Cálculo: Relatórios apresentados pelo parceiros executores.
+Forma De Disponibilização: Sítio institucional.
+Procedimento De Cálculo: Apuração e somatória do número de alunos concluintes de cursos de capacitação no âmbito do Programa de Apoio ao Empreendedorismo - PAEM.
+Limitações: Disponibilidade orçamentária para novos projetos.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3303
+Indicador: 12652
+Denominação: Número de pessoas capacitadas por meio da Jornada Empreendedora
+Em Apuração: Sim
+Unidade De Medida: pessoas capacitadas
+Descrição: Número de pessoas capacitadas em competências técnicas, gerenciais e digitais no âmbito do programa Jornada Empreendedora.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de pessoas que concluíram as capacitações no período de referência
+Fonte De Dados Das Variáveis De Cálculo: Relatório das entidades que realizaram as capacitações.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Apuração e somatória do número de alunos concluintes dos cursos no âmbito do programa no período de referência.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Entrega: 3301
+Indicador: 12650
+Denominação: Número de pessoas capacitadas por programas voltados à inclusão produtiva da população vulnerável por meio da iniciação profissional em panificação
+Em Apuração: Sim
+Unidade De Medida: pessoas capacitadas
+Descrição: Número de pessoas em situação de vulnerabilidade capacitadas por programas de capacitação realizados pelo Sebrae e Senai em temas de panificação e empreendedorismo.
+Período Ou Data A Que Se Refere: Semestre anterior
+Data De Divulgação/Disponibilização: julho e janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de alunos concluintes das capacitações no período de referência
+Fonte De Dados Das Variáveis De Cálculo: Relatórios apresentados pelo SENAI E SEBRAE.
+Forma De Disponibilização: Comunicação Administrativa.
+Procedimento De Cálculo: Apuração e somatória do número de alunos em situação de vulnerabilidade concluintes dos cursos realizados em temas de panificação e empreendedorismo no período de referência.
+Limitações: Replicadoras nos estados (UFs) e disponibilidade orçamentária para novos projetos.
+Notas Explicativas: Temos um ACT firmado entre MEMP, SENAI E SEBRAE que preve a capacitação de 5.000 pessoas em situação de vulnerabilidade em cursos de capacitação na área de panificação e cursos na área de empreendedorismo para despertar a cultura empreendedora. O projeto Padaria Artesanal prevê a implantação de unidades polos, com infraestrutura para os cursos e que serão responsáveis pela capacitação de agentes multiplicadores para as unidades descentralizadas.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3295
+Indicador: 12672
+Denominação: Número total de canais de comercialização do artesanato fomentados pelas políticas e programas do MEMP
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Aumento do número de eventos nos canais de comercialização do artesanato, que abrangem feiras regionais, feiras nacionais, feiras internacionais, e-commerce, entre outros.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x - número de eventos dos canais de comercialização do artesanato fomentados pelo PAB
+Xi representa cada evento de canal de comercialização do artesanato fomentado ao longo do ano
+Onde o índice "i" varia de 1 até "n", que representa o número total de eventos fomentados anualmente
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI/CGART
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração da contagem dos eventos / canais de comercialização para artesãos cadastrados no SICAB.
+Limitações: Disponibilidade orçamentária.
+Notas Explicativas: Meta cumulativa entre exercícios (total ano anterior + total ano seguinte).
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3286
+Indicador: 12663
+Denominação: Percentual de demandas atendidas dentro do prazo no serviço "Fale com o DREI"
+Sigla: IFDREI
+Índice De Referência: 94.7929
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de reclamações atendidas pelo DREI por meio da sua página na internet (Fale com o DREI).
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: julho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de reclamações respondidas no prazo no ano
+y = número de reclamações recebidas no ano
+Fonte De Dados Das Variáveis De Cálculo: Página "Fale com o DREI" no sítio do DREI
+Forma De Disponibilização: Disponibilização dos dados no sítio do Departamento Nacional de Registro Empresarial e Integração (DREI): <https://www.gov.br/empresas-e-negocios/pt-br/drei>
+Procedimento De Cálculo: Apuração do quantitativo via sistema "Fale com o DREI" do número de reclamações recebidas e do número de reclamações respondidas no prazo no período de 1 ano civil; divisão do número de reclamações respondidas no prazo, pelo número de reclamações recebidas no mesmo período de referência (ano civil); multiplicação do resultado por 100, para obtenção do resultado em número percentual.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3290
+Indicador: 12667
+Denominação: Percentual de desenvolvimento do Cadastro Nacional de Empresas
+Sigla: ICNE
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Aferição da evolução percentual de desenvolvimento da plataforma digital Cadastro Nacional de Empresas - CNE
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = etapas de desenvolvimento executadas
+y = etapas de desenvolvimento previstas
+Fonte De Dados Das Variáveis De Cálculo: Apuração interna
+Forma De Disponibilização: Disponibilização dos dados no sítio do Departamento Nacional de Registro Empresarial e Integração (DREI): <https://www.gov.br/empresas-e-negocios/pt-br/drei>
+Procedimento De Cálculo: Apuração das etapas de desenvolvimento executadas no ano obtidas a partir dos termos de ateste; divisão pelo número de etapas de desenvolvimento prevista para o mesmo período;  multiplicação do resultado por 100, para obtenção do resultado em número percentual.
+Limitações: A consecução das metas depende da disponibilidade de recursos orçamentários conforme propostas orçamentárias, em análise e futuras.
+Notas Explicativas: O Cadastro Nacional de Empresas - CNE consiste no desenvolvimento de uma plataforma digital que contemple informações de empresários individuais, sociedades empresárias e cooperativas, cujas informações estão nas bases de dados das Juntas Comerciais de todo País. Com isso os Ministérios, Agências Reguladoras, Poder Judiciário e até os Parlamentares poderão ter acesso à informação, por meio de um ambiente virtual unificado, em atendimento à competência legal atribuída ao DREI, nos termos do artigo 4º, IX, da Lei n. 8.934/1994.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3292
+Indicador: 12669
+Denominação: Percentual de implementação do novo SICAB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Implementação de novos módulos e/ou funcionalidade do novo sistema SICAB.
+Relação entre a implementação realizada e prevista nos prazos pactuados:
+p1/2024 - Pré-Cadastro e novo módulo de registro de artesãos (30% de desenvolvimento);
+p2/2025 - módulo de feiras (50% de desenvolvimento);
+p3/2026 - módulo de estatística e transparência  (90% de desenvolvimento);
+p4/2027 - módulo de certificação  (100% de desenvolvimento). Meta evolutiva entre exercícios.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Mt = percentual de implementação do projeto de melhorias no SICAB no período de tempo "t"
+PFe = número total de pontos de função já executados no período de tempo "t"
+PFp = número total de pontos de função previstos para o novo SICAB
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI/CGART
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração e registro documental a partir do Termo de Aceite de cada Ordem de Serviço.
+Limitações: Disponibilidade orçamentária e cronograma de desenvolvimento do SERPRO.
+Notas Explicativas: Relação entre a implementação realizada e prevista nos prazos pactuados:
+p1/2024 - Pré-Cadastro e novo módulo de registro de artesãos (30% de desenvolvimento);
+p2/2025 - módulo de feiras (50% de desenvolvimento);
+p3/2026 - módulo de estatística e transparência  (90% de desenvolvimento);
+p4/2027 - módulo de certificação  (100% de desenvolvimento). Meta evolutiva entre exercícios.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Entrega: 3298
+Indicador: 12675
+Denominação: Percentual de implementação do Observatório Nacional da Economia Criativa
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-10-23 00:00:00
+Unidade De Medida: percentual
+Descrição: Aferição do percentual de implementação da ferramenta de planejamento disponibilizada como estratégia de desenvolvimento sustentável para gerar, receber e distribuir informações e capacidade analítica para viabilizar a formulação e a execução de estratégicas que alavanquem os mais diferentes segmentos do setor de economia criativa no país e favoreçam a articulação pública-privada para o seu desenvolvimento.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P(t) = percentual de implementação do Observatório Nacional de Empreendedorismo Inovador no momento 't'
+It =  número de etapas, componentes ou atividades implementadas até o momento '𝑡'
+Itotal  = número total de etapas, componentes ou atividades previstas para implementação completa do Observatório Nacional de Empreendedorismo Inovador
+Fonte De Dados Das Variáveis De Cálculo: Monitoramento de execução por SAMI/DAMI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Apuração e soma dos percentuais correspondentes à execução das etapas cronogramadas, entregues e aceitas de implementação do Observatório Nacional da Economia Criativa no período, ou seja, divide-se o número de etapas entregues e aceitas pelo número de etapas previstas para o mesmo período de tempo e multiplica-se o resultado por 100 para obter o percentual.
+Limitações: Disponibilidade orçamentária
+Notas Explicativas: Meta evolutiva entre exercícios.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3285
+Indicador: 12662
+Denominação: Percentual de implementaçao do "Portal Nacional da REDESIM - PNR" desenvolvido pela Receita Federal do Brasil, em atuação coordenada com os outros órgãos que compõem a REDESIM
+Sigla: IRS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-01-31 00:00:00
+Unidade De Medida: percentual
+Descrição: As 27 Juntas Comerciais dos Estados utilizam vários sistemas diferentes para a realização do registro e legalização de empresas. O indicador busca medir o percentual de desenvolvimento do "Portal Nacional da REDESIM - PNR" pela Receita Federal do Brasil, através do CGSIM, que consiste no fruto do esforço da unificação desses sistemas.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = etapas de desenvolvimento executadas
+y = etapas de desenvolvimento previstas
+Fonte De Dados Das Variáveis De Cálculo: Apuração junto à Receita Federal do Brasil
+Forma De Disponibilização: Disponibilização dos dados no sítio do Departamento Nacional de Registro Empresarial e Integração (DREI): <https://www.gov.br/empresas-e-negocios/pt-br/drei>
+Procedimento De Cálculo: Apuração das etapas de desenvolvimento executadas no ano obtidas a partir dos termos de ateste; divisão pelo número de etapas de desenvolvimento previstas para o mesmo período;  multiplicação do resultado por 100, para obtenção do resultado em número percentual.
+Notas Explicativas: Relação de módulos e percentuais de execução equivalentes:
+Módulo de abertura - 25%
+Módulo de constituição - 25%
+Módulo de alteração - 25%
+Módulo de baixa - 25%
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Entrega: 3284
+Indicador: 12648
+Denominação: Percentual de normas revisadas com propostas de alteração
+Sigla: INR
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Busca medir o progresso da revisão legal e normativa (Leis, Decretos, Instruções normativas, etc.) para simplificação, objetividade e clareza das normas sobre registro e legalização de empresas.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de normas revisadas
+y = número total de normas vigentes no ano anterior
+Fonte De Dados Das Variáveis De Cálculo: Dados disponibilizados no sítio do DREI: <https://www.gov.br/empresas-e-negocios/pt-br/drei>
+Forma De Disponibilização: Disponibilização dos dados no sítio do Departamento Nacional de Registro Empresarial e Integração (DREI): <https://www.gov.br/empresas-e-negocios/pt-br/drei>
+Procedimento De Cálculo: Identificação, contagem e cálculo do número de normas revisadas durante o ano de referência, dividido pelo número de normas vigentes no ano anterior, multiplicando o resultado por 100 para obter o percentual.
+Limitações: As normas consideradas para a contagem são referentes apenas àquelas voltadas para a matéria de registro de empresas, sendo desconsideradas as alterações, reformas e revogaçoes pontuais em normas esparsas. Também fazem referência àquelas editadas em nível federal, sendo desconsideradas as normas editadas por estados e municípios.
+Notas Explicativas: A revisão de normas por meio de leis e decretos dependem de aprovação do Congresso Nacional e da Presidência da República, respectivamente.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 2802
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Indicador: 12646
+Denominação: Índice de produtividade das MEs, EPPs e MEIs com base nas informações prestadas para fins de arrecadação e E-social
+Sigla: IPRODMPEMEI
+Índice De Referência: 24.34
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: R$/hora de trabalho
+Descrição: O indicador é a melhor forma de analisar diversos fatores e políticas públicas que venham a impactar os MEIs, MEs e EPPs, traduzindo aumento de riqueza para esse público. Uma vez que política exitosa de crédito; redução da mortalidade; melhoria de ambiente de negócio; compra pública e rede de apoio impactam diretamente no aumento de faturamento e produtividade dos MEIs, MEs e EPPS.
+Período Ou Data A Que Se Refere: Ano anterior
+Data De Divulgação/Disponibilização: Proxy: com defasagem de um ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PSN = produtividade Simples Nacional
+MEI = produtividade MEI
+ΣfatMEI = soma dos faturamentos anuais informados do regime tributário Simples - SIMEI
+ΣfatMEPP = soma do faturamento anual das micro e pequenas empresas no regime tributário SIMPLES
+ΣCnpjMEI = soma da quantidade de CNPJs MEI
+ΣCnpjMEPP = soma da quantidade de CNPJ ME e EPP
+ΣE-SocialMEI = soma da quantidade de empregados eSocial MEI
+ΣE-SocialMEPP = soma da quantidade de empregados E-Social ME e EPP
+Fonte De Dados Das Variáveis De Cálculo: RFB - Estudos Tributários.
+Forma De Disponibilização: Em Estudos da RFB no sítio <https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/estudos>.
+Procedimento De Cálculo: Soma-se as informação da forma de tributação do SIMPLES Nacional e do SIIMEI - O valor da hora trabalhada é uma proxy considerando a quantidade de empregados do E-social  + quantidade de CNPJs (uma vez que normalment pelo menos um dos sócios trabalham dentro da empresa) * 220 (que é a quantidade de horas úteis trabalhadas no mês pela CLT) * 12 (quantidade de meses do ano, uma vez que o faturamento é anual).
+Limitações: Para as metas: A RFB disponiblizar o arquivo do estudo das Pessoa Jurídicas no link acima. Atualmente o ano mais recente é 2022.
+Notas Explicativas: O valor da hora trabalhada é uma proxy considerando a quantidade de empregados do E-social  + quantidade de CNPJs (uma vez que normalmente pelo menos um dos sócios trabalham dentro da empresa) * 220 (que é a quantidade de horas úteis trabalhadas no mês pela CLT) * 12 (quantidade de meses do ano, uma vez que o faturamento é anual).
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Indicador: 12647
+Denominação: Número de artesãos certificados e incluídos na política pública do artesanato por meio da Carteira Nacional do Artesão - CNA
+Sigla: IARTECNA
+Índice De Referência: 213331.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Contagem do número de artesãos certificados e incluídos na política pública do artesanato por meio da Carteira Nacional do Artesão - CNA, cadastrados na base cumulativamente.
+Período Ou Data A Que Se Refere: mês anterior
+Data De Divulgação/Disponibilização: contínuo
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número absoluto de artesãos cadastrados no SICAB com CNA emitida
+ai = número de artesãos cadastrados no período i com carteira CNA emitida
+n = número total de períodos considerados
+Fonte De Dados Das Variáveis De Cálculo: SICAB
+Forma De Disponibilização: Por meio do sítio <https://www.gov.br/empresas-e-negocios/pt-br/artesanato>
+Procedimento De Cálculo: Apuração do somatório do número absoluto de artesãos cadastrados no sistema SICAB com CNA emitida, mediante extração a partir do sistema SICAB.
+Limitações: Orçamentárias e de estrutura de recursos humanos nas Coordenações Estaduais.
+Notas Explicativas: O Cadastro e Emissão da CNA é realizado pelas Coordenações Estaduais do Artesanato, que tem limitações orçamentárias e equipe o que pode impactar diretamente na meta. Meta cumulativa entre exercícios(total ano anterior + total ano seguinte).
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Indicador: 12645
+Denominação: Tempo de abertura de empresas
+Sigla: ITAE
+Índice De Referência: 26.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: hora
+Descrição: O DREI coleta informações sobre o tempo despendido entre o momento em que se dá a entrada de um processo de registro de empresas e o momento que o processo é deferido em cada uma das 27 juntas comerciais e divulga em sua página "Mapa de Empresas" em seu sítio eletrônico. Além disso, o DREI publica boletins quadrimestrais com a análise dos dados.
+Período Ou Data A Que Se Refere: último dia do mês a que se refere o indicador
+Data De Divulgação/Disponibilização: durante o mês posterior à coleta dos dados
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Tmei = tempo médio estadual de abertura de empresas no período "i"
+n = número de estados brasileiros (constante = 27)
+Fonte De Dados Das Variáveis De Cálculo: Sistemas da Receita Federal do Brasil.
+Forma De Disponibilização: Os dados já calculados são disponibilizados em forma de painel por meio da página do "Mapa de Empresas" e do "Boletim trimestral" no sítio eletrônico do DREI.
+Procedimento De Cálculo: O cálculo é realizado automaticamente pelos sistemas da Receita Federal do Brasil, conforme fórmula de cálculo apresentada.
+Limitações: Considerando que o sistema de coleta de dados é gerido pela Receita Federal do Brasil, há restrições de dados coletados.
+Notas Explicativas: A pesquisa depende do funcionamento e acesso ao Sistema da Receita Federal do Brasil.
+Origem: PLOA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 2802
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 548
+Enunciado: Melhorar o ambiente de negócios para o Empreendedorismo.
+Descrição: Busca a melhoria do ambiente de negócios, em especial, nos aspectos que afetam o ciclo de vida da empresa, buscando reduzir entraves, conferir maior transparência, simplificar, desburocratizar, padronizar, harmonizar e dar maior segurança jurídica aos atos de abertura, legalização, fechamento e demais atos relativos à gestão de empresas e MEIs.​
+Além disso, ressalta-se o papel importante da geração e disponibilização de informações e inteligência que apoiem o empreendedor em suas atividades e possam contribuir para melhores perspectivas de sobrevivência do negócio.
+Órgão: 69000
+Tipo Do Órgão: O
+Origem: PLOA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 549
+Enunciado: Ampliar o desenvolvimento, a competitividade e a longevidade de MEs, EPPs e MEIs, bem como a inclusão socioprodutiva por meio do empreendedorismo.
+Descrição: Visa organizar, capacitar e prover meios que promovam o desenvolvimento e aumentem a competitividade de MPEs e MEIs, e que facilitem a formalização de empreendedores informais, autônomos e inscritos do Cadastro Único, propiciando capacidade para que eles possam gerar sua própria renda de maneira estável e digna. Assim, contribui-se para a redução da população em situação de pobreza e vulnerabilidade social, por meio do empreendedorismo. A promoção da capacitação empreendedora, voltada tanto para aspectos culturais quanto para aspectos técnicos envolvidos na atividade empreendedora, se torna um ponto-chave para esse fim.
+Órgão: 69000
+Tipo Do Órgão: O
+Origem: PLOA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Objetivo Específico: 550
+Enunciado: Fortalecer o setor artesanal, o cooperativismo, o associativismo e a economia criativa.
+Descrição: Em um contexto de mudanças em que a sociedade sente como cada vez necessária a integração do trabalho e do consumo com princípios e valores como os da sustentabilidade, da responsabilidade social e da valorização da dimensão cultural e expressão pessoal, observam-se como setores e formas de organização relevantes, o artesanato, o cooperativismo, o associativismo e a economia criativa. O artesanato é uma tradição cultural do povo brasileiro e precisa ser apoiado e preservado. Além disso, 80% dos artesãos são mulheres, o que o destaca como setor como importante promotor de renda e autonomia para esse público. As cooperativas e associações são empreendimentos característicos de uma economia cada vez mais democrática, sendo constituídas por pessoas com interesses comuns, seja no campo econômico, seja social, respectivamente. São atores importantes nos processos de melhorias sociais do país, possibilitando geração de renda e melhoria na qualidade de vida dos cidadãos. De forma transversal a esses modelos de organização, destaca-se como um foco importante o conjunto de atividades da economia criativa, entendidas como produtoras de bens tangíveis e intangíveis, intelectuais e artísticos, com conteúdo criativo e valor econômico. A economia criativa tem potencial relevante na criação de novos empregos, produtos e serviços com alta agregação de valor, renda e inclusão.​
+Órgão: 69000
+Tipo Do Órgão: O
+Origem: PLOA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2802
+
+Exercício: 2025
+Programa: 2802
+Objetivo: 1342
+Enunciado: Ampliar a inclusão socioprodutiva, o empreendedorismo, a competitividade e a longevidade das Microempresas (ME), Empresas de Pequeno Porte (EPP) e Microempreendedores Individuais (MEI), com melhoria do ambiente de negócios e valorização do artesanato, cooperativismo, associativismo e da economia criativa.
+Descrição: O setor das microempresas, empresas de pequeno porte (MPEs) e microempreendedores individuais (MEIs) é o maior empregador, e, também, um dos principais pagadores de tributos, contribuindo, ainda, para o crescimento econômico do país. Entretanto, esse setor enfrenta problemas em termos de baixa longevidade das empresas e falta de competitividade. Observa-se também que um conjunto significativo da população atualmente fora do mercado de trabalho e do empreendedorismo enfrenta dificuldades na geração de renda de forma sustentável, sendo apoiada por programas de distribuição de renda. Diante disso, este Programa visa estimular e promover o empreendedorismo como forma de inclusão socioeconômica, buscando melhorar o ambiente de negócios; bem como estimular a formalização, o desenvolvimento e competitividade das MPEs e MEIs. Além disso, o Programa busca fortalecer o setor artesanal, o cooperativismo, o associativismo e a economia criativa, por meio da organização, capacitação e provisão de meios que promovam o desenvolvimento e aumentem a competitividade de MPEs e MEIs, e que facilitem a formalização de empreendedores informais, autônomos e inscritos no Cadastro Único (CadÚnico), bem como a melhoria do ambiente de negócios, em especial, nos aspectos que afetam o ciclo de vida da empresa, buscando reduzir entraves, conferir maior transparência, simplificação, desburocratização e segurança jurídica; além de reconhecer, valorizar e apoiar o setor artesanal, cooperativismo, associativismo e economia criativa na agregação de valor, geração de renda e inclusão. Assim, por meio desses mecanismos, o Programa contribui para o desenvolvimento econômico e social, a distribuição de renda e a redução das desigualdades sociais e regionais no país.
+Origem: PLOA
+Momento: 4000
+Novo: Sim
+Excluído: Não
+
+passage: Programa Número 2802
+
+Exercício: 2025
+Programa: 2802
+Título: Empreendedorismo e Inclusão Socioprodutiva
+Tipo: Finalístico
+Órgão: 69000.0
+Público-Alvo: Microempresas, empresas de pequeno porte, microempreendedores individuais, artesãos, cooperativas, associações, autônomos, empreendedores informais.
+Descrição Do Problema: O setor das microempresas, empresas de pequeno porte (MPEs) e microempreendedores individuais (MEIs) é o maior empregador, e, também, um dos principais pagadores de tributos, contribuindo, ainda, para o crescimento econômico do país. Abrange mais de 15 milhões de microempreendedores individuais e quase 8 milhões de microempresas e empresas de pequeno porte, sendo sua importância incontestável. Além disso, é uma alternativa de grande importância para geração de renda estável e sustentável, permitindo a inclusão socioprodutiva de pessoas de baixa renda. Entretanto, esse setor enfrenta problemas em termos de baixa longevidade das empresas e falta de competitividade. Estudos recentes do Sebrae reportam que a mortalidade das empresas em até 5 anos de atividade é muito alta nesse setor, alcançando 29% dos MEIs, 21,6% das microempresas e 17% das empresas de pequeno porte. Nos mesmos estudos, observa-se que essas empresas também tiveram menos acesso a crédito, fizeram menos esforços de capacitação e não tinham tanto conhecimento nem experiência no ramo. A menor produtividade das MPEs em relação às médias e grandes empresas é natural, devido ao uso intensivo de capital e tecnologias poupadoras de mão de obra nestas empresas. No entanto, essa diferença de produtividade não precisa ser tão acentuada quanto se observa no Brasil.
+Observa-se também que um conjunto significativo da população atualmente fora do mercado de trabalho e do empreendedorismo enfrenta dificuldades na geração de renda de forma sustentável, sendo apoiada por programas de distribuição de renda. Muitas pessoas pertencentes a esse grupo desejam empreender, entretanto encontram dificuldades para iniciar e manter seu próprio negócio. Parte dessa população também não é formalizada, apesar de exercer atividade econômica, carecendo de visibilidade e oportunidades para efetivar sua formalização e aumentar a renda gerada pela sua atividade.
+Causa Do Problema: Os fatores principais que afetam a competitividade e longevidade das microempresas, microempreendedores e empresas de pequeno porte estão associados às condições do ambiente de negócios, às dificuldades de acesso a mercados e a financiamento, à falta de conhecimentos e experiências dos empreendedores, entre outros aspectos.
+O ambiente para empreender no âmbito dos municípios tem gerado dificuldades para as micro e pequenas empresas formalizarem ou manterem seus negócios. A falta de estímulo local e as recorrentes barreiras burocráticas, legais, tributárias e de custos criam forte desestímulo aos negócios brasileiros.
+O panorama do processo de registro e legalização de empresas apresentava um cenário desestimulante para a formalização de novos negócios, mas vem sendo, aos poucos, superado por ações de simplificação e padronização. Eram contabilizados diversos procedimentos necessários ao empreendedor e um tempo demasiadamente longo para cumpri-las. Algumas das dificuldades eram impostas direta ou indiretamente pelo aparato normativo que regia o processo, sendo necessária sua adequação e simplificação em favor do empreendedorismo e da melhoria do ambiente de negócios.
+Nesse sentido, o esforço de simplificação, padronização e unificação de normas, procedimentos e sistemas continua relevante para superação dessas dificuldades. 
+Conforme salientado por estudo do Sebrae (2016), a acumulação de vários "fatores contribuintes" negativos tende a resultar no fechamento do negócio.
+Assim, entre as empresas que encerraram suas atividades, há uma proporção maior de empresários que estavam desempregados antes de iniciar o negócio, tinham pouca experiência no ramo, abriram o negócio por necessidade ou exigência de clientes/fornecedores, tiveram menos tempo para planejar, não conseguiram negociar com fornecedores ou obter empréstimos bancários, não investiram em melhoria de produtos/serviços, capacitação da mão de obra, inovação, acompanhamento financeiro, diferenciação de produtos ou própria capacitação em gestão empresarial.
+Por outro lado, entre as empresas que continuaram operando, há uma menor proporção de empresários desempregados e uma maior proporção com experiência no ramo, que abriram o negócio por identificar uma oportunidade ou desejo pessoal, planejaram por mais tempo, conseguiram negociar com fornecedores e obter financiamento bancário, investiram em melhorias de produtos/serviços, capacitação da mão de obra, inovação, acompanhamento financeiro rigoroso, diferenciação de mercado e capacitação em gestão empresarial.
+Mais recentemente, Neves et al. (2024) examinaram 52 variáveis independentes que podem influenciar a sobrevivência das MPEs, constando que as variáveis mais significativas estão relacionadas à educação. Além disso, fatores como desigualdade, força de trabalho, desemprego e planejamento familiar estão negativamente ligados à sobrevivência das MPEs, enquanto um ambiente produtivo, investimento socioeconômico e escolaridade rural estão positivamente correlacionados.
+Além disso, a baixa competitividade dessas empresas está muito relacionada a dificuldades de acesso a crédito e garantias. As MPEs constituem 99% das empresas do país e respondem por mais de 50% dos postos formais de trabalho, contudo estão envolvidas em menos de três quartos das operações de crédito para empresas; são contempladas com não mais do que um quinto dos recursos emprestados por meio dessas operações e, as que conseguem passar pela análise de crédito e decidem efetivamente tomar o financiamento, costumam pagar juros substancialmente maiores do que os juros pagos por empresas de porte médio ou grande Nogueira et al., 2021)
+O alto custo do crédito limita o crescimento das micro e pequenas empresas. Essas empresas, que usualmente apresentam um baixo nível de disponibilidade de garantias para ofertar e um menor nível de maturidade na estruturação de informações sobre os seus negócios, têm seu crédito analisado pelos bancos com relativa imprecisão, o que as leva a pagar um maior prêmio de risco, elevando o spread bancário para o segmento. Esse fenômeno de encarecimento dos financiamentos justifica, em boa medida, a perda de competitividade dos pequenos negócios no Brasil.
+Em relação ao artesanato, no Diagnóstico do Artesanato Brasileiro e Planejamento Estratégico - resultados da etapa 1, algumas das causas para as dificuldades citadas foram os desafios intergeracionais, pouca valorização do artesanato pelas gerações mais jovens,
+dificuldades de comercialização e exportação, dificuldades tributárias, baixo conhecimento em tecnologias digitais, falta de formação em gestão, precariedade e informalidade no trabalho artesanal.
+Evidências Do Problema: Um estudo realizado pelo Sebrae (2021), com base nos dados da Receita Federal e em pesquisas de campo realizadas entre 2018 e 2021, revela que a taxa de mortalidade das empresas é inversamente relacionada ao seu porte. Assim, MEIs apresentam a mais alta taxa de encerramento entre os pequenos negócios, com 29% fechando após 5 anos de atividade. As Microempresas (MEs) têm uma taxa de encerramento intermediária, com 21,6% fechando no mesmo período. Já as Empresas de Pequeno Porte (EPPs) exibem a menor taxa de encerramento entre os pequenos negócios, com 17% fechando após 5 anos de atividade.
+Em relação à baixa competitividade dessas empresas, observa-se que ela também se expressa em termos de inserção do mercado internacional. Segundo dados da SECEX e Sebrae, apesar de representarem 40,8% das empresas exportadoras, MPEs e MEIs representam apenas 0,9% do volume exportado. O processo de internacionalização é uma decisão desafiadora para as empresas brasileiras, especialmente para as MPEs. Há um espaço importante para que se possa trabalhar formas de aumentar essa participação com ações voltadas para capacitar, ampliar canais de comercialização e outras formas de favorecer a inserção internacional das MPEs e MEIs.
+Em relação à dificuldade com crédito, o volume de crédito para MPEs no Brasil, segundo o Bacen, foi em 2023, de aproximadamente R$ 360 bilhões; esse volume foi fortemente incrementado com os programas emergenciais de crédito (Peac-FGI, Peac-Maquininhas e Pronampe), que levaram ao maior crescimento da série histórica de crédito para MPEs, comprovando a efetividade da concessão de garantias na expansão do crédito para essas empresas. Estima-se poder chegar a um potencial de crédito, após a regulamentação do sistema, superior a R$ 300 bilhões.
+Outro aspecto de destaque é de que o Brasil possui cerca de 10 milhões de mulheres empreendedoras que administram negócios próprios, sendo que 82% afirmam que começaram a empreender para escapar do desemprego. Mas ainda há desigualdade de oportunidades, especialmente considerando que a maioria das mulheres estão à frente dos negócios mais vulneráveis e suscetíveis a crises econômicas.
+A situação de maior vulnerabilidade das mulheres fica evidente ao considerarmos que, enquanto elas representam uma minoria (42,17%) entre os Microempreendedores Individuais (MEIs) fora do Cadastro Único (CadÚnico), essa proporção se inverte entre os MEIs registrados no CadÚnico, onde as mulheres compõem 54,61% do total. Isso indica que as mulheres MEIs têm quase o dobro de probabilidade, em comparação aos homens, de estarem cadastradas no CadÚnico (SEBRAE, 2024, p. 54-55).
+Além disso, entre os inscritos no CadÚnico, a opção se tornar MEI é mais frequente para os homens. Ou seja, à medida que são MEI, as mulheres possuem maiores chances de estarem cadastradas, como visto anteriormente; porém, se já estiverem cadastradas, a chance de se tornar MEI é maior entre o público masculino do cadastro. Isso parece refletir as barreiras que as mulheres encontram para adentrar e permanecer no empreendedorismo, já que possuem maiores chances de, como MEI, se cadastrarem no CadÚnico; porém, como cadastradas, têm menores chances de se tornarem MEI. Sendo assim, pode-se inferir que as mulheres enxergam o empreendedorismo como opção, mas os inúmeros percalços no caminho diminuem a chance de permanecer (SEBRAE, 2024, p. 55). Nesse sentido, dada a situação de maior vulnerabilidade das mulheres empreendedoras, é importante promover e apoiar iniciativas de educação e capacitação empreendedora, desenvolvimento de competências, acesso ao crédito, inclusão digital, inovação e redes de apoio que favoreçam o empreendedorismo feminino.
+Justificativa Para A Intervenção: Apesar de MPEs e MEIs constituírem 99% do total das empresas e serem responsáveis por 54% dos empregos formais do país, em poucas ocasiões foram objeto do foco do Estado. Naturalmente, a grande dispersão do público dificulta sua mobilização em torno da defesa de seus interesses e na expressão de suas dificuldades e necessidades junto à administração pública. Assim, cabe ao Estado um papel relevante de mapeamento, diagnóstico, reconhecimento, visibilização e endereçamento das necessidades desse público, buscando tornar o ambiente mais favorável ao crescimento do empreendedorismo e à prosperidade desse setor.
+Nesse contexto, a possibilidade de formalização de empreendedores por meio de sua inscrição como Microempreendedor Individual – MEI é uma política pública de grande relevância que requer constante aperfeiçoamento. Essa política foi concebida com o objetivo triplo de estimular a formalização de microempreendedores, favorecer a inclusão previdenciária de trabalhadores autônomos com limitada capacidade contributiva e promover a inclusão social. Representa, portanto, uma grande inovação nacional, que abriu as portas para que milhões de empreendedores que atuavam na informalidade pudessem abrir o seu próprio negócio.
+É digno de nota que, entre janeiro e dezembro de 2023, foram formalizados 3,3 milhões de MEIs, totalizando 15,7 milhões de MEIs formalizados até então, enquanto o Portal do Empreendedor teve 12,8 milhões de acessos (Fonte: Simples Nacional/Portal do Empreendedor/Google Analytics).
+Por ser a forma mais simplificada de empresa existente, a inscrição como MEI é ideal para pessoas que trabalham por conta própria e querem se legalizar como pequeno empresário.
+Nesse sentido, o desafio é reduzir a informalidade entre profissionais autônomos e pequenos empreendedores, ao mesmo tempo em que se busca formas de apoiar, fomentar e prover recursos para que o MEI possa superar os entraves que prejudicam seu funcionamento, alcançando maior longevidade e prosperidade.
+Para além da importância econômica desse setor, destaca-se o potencial para a inclusão socioprodutiva, com a geração de renda estável e digna para população em situação de pobreza e vulnerabilidade social. O fortalecimento do setor artesanal, do associativismo, do cooperativismo e da economia criativa também é uma missão com grande interface com a geração de renda e o reconhecimento dessa população.
+Nesse sentido, o caráter transversal, com componentes econômicos e sociais, do desafio expresso no presente programa demanda uma atuação forte e coordenada pelo Estado, para que possa mobilizar e construir conjuntamente com a sociedade as capacidades para prover os meios necessários à formalização dos empreendedores e estimular, fomentar e apoiar MPEs, MEIs, artesãos, sociedades cooperativas, associações e autônomos.
+Evolução Histórica: As microempresas e empresas de pequeno porte vêm adquirindo, ao longo dos anos, uma importância significativa para o crescimento no país, pois é inquestionável a relevante função socioeconômica desempenhada por estas empresas na geração de empregos e arrecadação de impostos, especialmente em momentos de crise. As informações a seguir corroboram tal afirmativa em diversas dimensões da realidade nacional (SEBRAE;FGV, 2020).
+As MPEs respondiam em 2019 por cerca de 30% da produção de riqueza do País, e esse valor adicionado tem se mostrado consistente ao longo dos anos. A participação das micro e pequenas empresas no valor adicionado ao PIB é crescente nos últimos anos.
+Esse percentual vem aumentando na série histórica iniciada em 1985, quando esse indicador representava 21,0% do valor adicionado (PIB); e, no ano de 2017, foi elevado para 29,5% (PIB).
+Quando se observa o mercado de trabalho, verifica-se que cerca de metade dos trabalhadores brasileiros são trabalhadores informais. Isto é, atuam sem contratos formais de trabalho. A despeito da existência de informais em médias e grandes empresas, a maioria é constituída de autônomos ou empregados de MPEs. Na metade remanescente – os formais –, cerca de 50% dos trabalhadores também estão ocupados em nano, micro ou pequenas empresas (Nogueira e Zucoloto, 2019). Assim, com pouco significativas variações no tempo, algo da ordem de 75% (ou 3/4) da força de trabalho no Brasil encontram ocupação nos pequenos empreendimentos.
+No período compreendido entre 2006 e 2019, as MPEs apresentaram um resultado positivo no saldo de geração de empregos, sendo responsáveis pela criação de cerca de 13,5 milhões de empregos, ao passo que as médias e grandes empresas fecharam cerca de 1,1 milhão de postos de trabalho, no mesmo período. (Fonte: CAGED – Ministério da Economia *2019: Saldos ajustados até novembro/2019). Os dados da Relação Anual de Informações Anuais - RAIS, indicam que o segmento já é responsável por cerca de 15 milhões de empregos, no período compreendido entre 2006 e 2021, sendo as microempresas responsáveis pela criação de 9,4 milhões de empregos e as pequenas empresas responsáveis por 6,4 milhões (Observatório MPE).
+No tocante a formalização de negócios, dados do IBGE, observados entre dezembro de 2007 e dezembro de 2019, indicam que a curva entre empresas formais e informais se inverteu, passando a ser maior o quantitativo de negócios formais no país. Em 2007 apenas 11% dos empreendimentos eram formais, enquanto 89% dos negócios se realizavam informalmente. Em 2019, o IBGE aponta a existência de 53% dos negócios formalizados e 47% dos empreendimentos atuando informalmente. Isto significa que um grande contingente de empresários saiu da informalidade e passaram a contribuir para a economia brasileira. (Sebrae 2020).
+Quanto à contribuição para a geração do PIB, a estimativa é de que, em 2017, os pequenos negócios formais produziram 29,5% do PIB brasileiro (Sebrae e FGV, 2020). Em relação à economia informal, conformada fundamentalmente por pequenos negócios, a precariedade dos dados disponíveis faz com que as estimativas variem enormemente em função da metodologia utilizada, indo de 16,6% a 37,1% do PIB (Nogueira e Zucoloto, 2019). Mesmo tendo em conta essa variação, evidencia-se o peso nada desprezível da atividade informal na economia brasileira. O mais provável é que os pequenos negócios, somados os formais e os informais, respondam por mais da metade do PIB nacional.
+No PPA 2020-2023, o tema das micro e pequenas empresas constava de forma indireta em dois programas do Ministério do Desenvolvimento, Indústria, Comércio e Serviços, mas sem resultados intermediários associados:
+
+PROGRAMA: 2211 - Inserção Econômica Internacional
+Diretriz: 19 - Simplificação e a progressividade do sistema tributário, a melhoria do ambiente de negócios, o estímulo à concorrência e a maior abertura da economia nacional ao comércio exterior, priorizando o apoio às micro e pequenas empresas e promovendo a proteção da indústria nacional em grau equivalente àquele praticado pelos países mais industrializados.
+
+PROGRAMA: 2212 - Melhoria do Ambiente de Negócios e da Produtividade
+Diretriz: 19 - Simplificação e a progressividade do sistema tributário, a melhoria do ambiente de negócios, o estímulo à concorrência e a maior abertura da economia nacional ao comércio exterior, priorizando o apoio às micro e pequenas empresas e promovendo a proteção da indústria nacional em grau equivalente àquele praticado pelos países mais industrializados.
+
+Em relação ao registro empresarial, havia participação direta no resultado intermediário (0015 - Agilização do procedimento de abertura de empresas) do objetivo 1212 (Aumentar a qualidade da prestação de serviços à sociedade, modernizando o ambiente de negócios e a gestão pública, com ênfase na transformação digital dos serviços públicos) do programa 2201 - Brasil Moderniza.
+Em relação ao PPA 2016-2019, os temas referidos neste programa contavam com o objetivo 1059 (Promover soluções para ampliação dos mercados das Micro e Pequenas Empresas e do Artesanato brasileiro) e o objetivo 1058 (Simplificar e integrar os processos de legalização de empresas) do Programa 2047 - Simplificação da Vida da Empresa e do Cidadão: Bem Mais Simples Brasil.
+No PPA 2024-2027 pretende-se ampliar as conquistas realizadas nos últimos quatro anos, bem como abrir novas frentes, tendo como norteador a busca por avançar na melhoria do ambiente de negócios, em especial, nos aspectos que o ciclo de vida da empresa, buscando
+reduzir entraves, conferir maior transparência, simplificação, desburocratização e segurança jurídica; organizar, capacitar e prover meios que facilitem a formalização de empreendedores informais, autônomos e inscritos do Cadastro Único (CadÚnico), visando propiciar capacidade para que eles possam gerar sua própria renda de maneira estável e digna; além de reconhecer, valorizar e apoiar o setor artesanal, cooperativismo, associativismo e economia criativa na agregação de valor, geração de renda e inclusão.
+Comparações Internacionais: De acordo com a Organização para Cooperação e Desenvolvimento Econômico (OCDE) e a Comissão Econômica para a América Latina e o Caribe (Cepal), nos países que compõem a OCDE, as MPEs representam uma parcela do PIB que é mais do que o dobro da do Brasil.
+Com efeito, a literatura acadêmica aponta para o fato de que poucos países apresentam um hiato de produtividade entre empresas de diferentes portes superior ao brasileiro – mesmo desconsiderando-se as atividades informais, que em geral apresentam produtividade ainda menor.
+Para NOGUEIRA (2016), as comparações internacionais evidenciam que o hiato de produtividades entre firmas de grande, médio e pequeno portes não precisam ter, necessariamente, a magnitude do hiato que se apresenta no Brasil, uma vez que diversos estudos mostram que essa discrepância é bem menor nos países desenvolvidos – chegando em alguns casos a ser praticamente inexistente (Luxemburgo) ou negativa – caso da Noruega, em que as MPEs são mais produtivas do que as empresas médias e grandes.
+Nada obstante, conforme ressaltado pelo Sebrae (2016), constata-se a falta de estudos padronizados sobre o tema no cenário internacional, sendo digno de nota que apenas os Estados Unidos conseguiram disponibilizar informações de forma continuada acerca das taxas de sobrevivência para empresas com até dois anos de atividade, relativas a segmentos que tendem a concentrar empresas de micro e pequeno porte (quais sejam: “comércio no atacado e varejo; reparação de veículos e de bens de uso pessoal e doméstico”).
+Relação Com Os Ods: O MEMP está participando dos diálogos da Comissão Nacional dos Objetivos de Desenvolvimento Sustentável (CNODS) e o programa proposto se alinha em alguma medida a todos os ODS, sendo os mais diretamente impactados:
+ODS 8 – Trabalho decente e crescimento econômico: promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos.
+ODS 9 – Indústria, inovação e infraestrutura: construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável, e fomentar a inovação.
+ODS 10 – Redução das desigualdades: reduzir as desigualdades dentro dos países e entre eles.
+ODS 16 – Paz, Justiça e Instituições eficazes: especialmente em relação aos 16.6 e 16.7.
+ODS 17 – Parcerias e meios de implementação.
+Há impactos relevantes também nos seguintes ODSs:
+ODS 1 – Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 12 – Consumo e produção responsáveis: assegurar padrões de produção e de consumo sustentáveis.
+Agentes Envolvidos: Órgãos e Entidades envolvidos: Casa Civil e Secretaria-Geral da Presidência da República, Serviço Brasileiro de Apoio às Micro e Pequenas Empresas, Agência Brasileira de Desenvolvimento Industrial, Agência Brasileira de Promoção de Exportações e Investimentos, Banco Nacional de Desenvolvimento Econômico e Social, Ministério do Desenvolvimento, Indústria, Comércio e Serviços, Ministério da Fazenda, Ministério do Planejamento e Orçamento, Ministério das Relações Exteriores, Ministério do Meio Ambiente e Mudança do Clima, Ministério da Agricultura e Pecuária, Ministério da Integração e do Desenvolvimento Regional, Banco Central, Agências de Desenvolvimento, Organismos Internacionais, Estados estrangeiros, Organizações da Sociedade Civil, incluindo associações de classe, Entes Federados, Ministério do Desenvolvimento Agrário e Agricultura Familiar, Ministério do Trabalho e Emprego, Ministério da Educação, Ministério das Comunicações, Ministério da Gestão e da Inovação em Serviços Públicos, Financiadora de Estudos e Projetos.
+Articulação Federativa: As políticas relacionadas aos temas de microempresas, empresas de pequeno porte, artesanato, cooperativismo, associativismo, economia criativa demandam uma forte articulação federativa a fim de aproximar o Estado de seu público-alvo. Historicamente, enquanto as ações de estímulo, fomento e promoção do setor são realizadas pelos Estados e Municípios voltando-se às necessidades locais; a sua coordenação e articulação de forma mais sinérgica pelo Governo Federal é uma necessidade importante. Nesse sentido, vale destacar o papel de colegiados e políticas importantes no tema:
+O Fórum Permanente das Microempresas e Empresas de Pequeno Porte, (FPMPE) é uma das três instâncias estabelecidas pela Lei Complementar nº 123, de 14 de dezembro de 2006, para gerir o tratamento diferenciado, favorecido e simplificado a esse segmento, previsto nos artigos 170 e 179 da Constituição Federal. O Fórum é um espaço de debates e conjugação de esforços entre o governo federal e as entidades de apoio e representação nacional, sendo um espaço colegiado de grande importância para a discussão dos temas orientar e assessorar a formulação e coordenação da política nacional de apoio e desenvolvimento das microempresas e empresas de pequeno porte, acompanhar e avaliar a sua implantação, divulgar e promover o fortalecimento das micro e pequenas empresas brasileiras.
+O Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (CGSIM), que tem por finalidade gerir a Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios (REDESIM) e regulamentar o registro e a legalização de empresários e de pessoas jurídicas é composto por representantes de Ministérios, do Sebrae, do presidente de junta comercial, de um secretário de fazenda estadual ou distrital, um representante dos Municípios e um secretário de fazenda municipal.
+O Programa do Artesanato Brasileiro (PAB), que foi criado pelo Decreto de 21 de março de 1991, é gerido pelo MEMP e conta com a parceria das 27 Coordenações Estaduais de Artesanato, unidades responsáveis pela intervenção e execução das atividades de desenvolvimento do segmento. Trata-se de um importante arranjo de implementação de programa, que favorece uma execução das ações de promoção e fomento junto aos estados e municípios, de forma alinhada às necessidades locais.
+Enfoque Transversal: A transversalidade é aspecto inerente ao trabalho voltado para o público do programa de Empreendedorismo de Inclusão Socioprodutiva. Vários órgãos possuem ações que afetam os microempreendedores individuais, as microempresas, as empresas de pequeno porte, os artesãos, as sociedades cooperativas, as associações, os autônomos e os empreendedores informais. Nesse sentido, a necessidade de coordenação e de busca de sinergia em relação a essas ações demonstra a importância do programa e foi uma das fundamentações para a criação do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte - MEMP.
+Esse aspecto é especialmente importante, pois, por um lado, os instrumentos para promoção dos setores mencionados são de diferentes naturezas (financiamento, capacitação, divulgação, formação de redes etc.) e, por outro lado, o empreendedorismo cada vez mais vem sendo identificado como um mecanismo importante para ajudar na solução de problemas públicos de outros órgãos (inclusão socioprodutiva, inserção internacional etc.).
+Nesse sentido, destaca-se a importância do estabelecimento de colegiados, políticas, programas e estratégias que reúnam os atores que possuem interface com o tema, para coordenar, articular e buscar sinergia em torno dessas ações. Nesse sentido, destaca-se a atuação do Fórum Permanente das Microempresas e Empresas de Pequeno Porte, do Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios e do Programa do Artesanato Brasileiro.
+Marco Legal: Destacam-se de forma não exaustiva:
+Lei Complementar nº 123, de 14 de dezembro de 2006 – Microempresa e Empresa de Pequeno Porte;
+Lei nº 14.600, de 19 de junho de 2023 – Lei de Organização dos Ministérios;
+Decreto n. 11.725, de 04 de outubro de 2023 – Decreto de estrutura regimental do MEMP;
+Lei nº 13.999, de 18 de maio de 2020 – Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe);
+Decreto de 21 de março de 1991 – Institui o Programa do Artesanato Brasileiro (PAB);
+Decreto nº 11.993, de 10 de abril de 2024 – Política Nacional de Desenvolvimento das Microempresas e das Empresas de Pequeno Porte;
+Decreto nº 11.994, de 10 de abril de 2024 – Estratégia Nacional de Empreendedorismo Feminino; e
+Medida Provisória nº 1.213, de 22 de abril de 2024 – Programa Acredita, Programa Eco Invest Brasil, Programa Procred 360, Programa de Renegociação de Dívidas - Desenrola Pequenos Negócios.
+Planos Nacionais, Setoriais E Regionais: Destaca-se a relação do presente programa com a Política Nacional de Desenvolvimento das Microempresas e das empresas de Pequeno Porte - Política Nacional das MPEs, instituída pelo Decreto nº 11.993, de 10 de abril de 2024.
+São objetivos específicos da Política Nacional das MPEs:
+I - promover o empreendedorismo e a liberdade para empreender formalmente;
+II - promover um ambiente de negócios propício à criação, à formalização, ao crescimento, à rentabilidade, à recuperação e ao encerramento das microempresas e das empresas de pequeno porte;
+III - incentivar o associativismo, o cooperativismo e a capacitação ampla dos empreendedores;
+IV - aumentar a produtividade e a competitividade das microempresas e das empresas de pequeno porte;
+V - promover a expansão dos mercados interno e externo e a integração das microempresas e das empresas de pequeno porte em cadeias produtivas;
+VI - auxiliar na promoção do acesso ao crédito sustentável e da concessão de garantias, e na ampliação dos recursos e dos instrumentos para desenvolvimento do empreendedorismo;
+VII - promover mecanismos para geração e implementação de inovação e de tecnologias; e
+VIII - promover a adoção de iniciativas de sustentabilidade ambiental das microempresas e das empresas de pequeno porte.
+Tais objetivos encontram correlação com o objetivo do programa e os instrumentos a serem desenvolvidos para seu alcance. A Política Nacional das MPEs conta como o ambiente de governança do Fórum Permanente das Microempresas e Empresas de Pequeno Porte, que deverá elaborar o plano de trabalho da política.
+Em relação aos temas que tratam do artesanato, destaca-se a relação do programa com o Programa do Artesanato Brasileiro – PAB (Decreto de 21 de março de 1991) que tem a finalidade de coordenar e desenvolver atividades que visem valorizar o artesão brasileiro, elevando o seu nível cultural, profissional, social e econômico, bem assim desenvolver e promover o artesanato e a empresa artesanal.
+A finalidade do PAB é coordenar e desenvolver atividades que visem valorizar o artesão, desenvolver o artesanato e a empresa artesanal. Nesse sentido, são desenvolvidas ações voltadas à geração de oportunidades de trabalho e renda, o aproveitamento das vocações regionais, a preservação das culturas locais, a formação de uma mentalidade empreendedora e a capacitação de artesãos para o mercado competitivo, promovendo a profissionalização e a comercialização dos produtos artesanais brasileiros. Tais aspectos são abordados no programa em termos de objetivos e entregas.
+Outra política de estreita correlação com o programa, refere-se à Estratégia Nacional de Empreendedorismo Feminino - Estratégia Elas Empreendem. Recentemente publicada, a política tem foco na promoção do empreendedorismo feminino como instrumento de inclusão social e econômica e de desenvolvimento do País. O plano de ação da estratégia será elaborado a partir de quatro eixos estruturantes: i) acesso ao mercado e inclusão socioprodutiva; ii) acesso à tecnologia e à inovação; iii) acesso ao crédito, e; iv) educação empreendedora.
+Uma das principais diretrizes da Estratégia Elas Empreendem é priorizar as mulheres inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) nas ações a serem desenvolvidas. A estratégia também prevê garantir a equidade étnico-racial para mulheres empreendedoras autodeclaradas pretas ou pardas e garantir previsibilidade, transparência, perenidade e coordenação na elaboração de políticas e serviços de apoio. O decreto cria ainda o Comitê de Empreendedorismo Feminino, de caráter consultivo, com a finalidade de propor, avaliar e articular a implementação da Estratégia Elas Empreendem.
+A Medida Provisória nº 1.213, de abril de 2024, institui uma série de programas que se relacionam diretamente com o Programa do PPA em revisão, os quais visam primordialmente ampliar e melhorar as possibilidades de acesso ao crédito por parte de pessoas físicas, de microempreendedores individuais, e de microempresas e empresas de pequeno porte.
+Com a retomada das políticas sociais, a valorização do salário-mínimo, a forte expansão do setor agropecuário, as medidas de estímulo ao crédito do setor produtivo e o bom desempenho das exportações, a economia brasileira encerrou o ano de 2023 com crescimento robusto de 2,9% superando as expectativas do mercado. Para 2024, a expectativa é que o mercado de crédito desempenhe um papel proeminente para a manutenção de uma trajetória de crescimento econômico consistente e sustentável, possibilitando a retomada dos investimentos.
+Todavia, as condições de usufruto do crédito não são uniformes entre os setores da sociedade.
+Neste sentido, a ação governamental é importante para garantir oportunidades de acesso, de renegociação e de inclusão produtiva. Diante disto, a referida Medida Provisória busca apresentar um conjunto de ações para diferentes segmentos, com objetivo de dinamizar o mercado de crédito e apoiar a geração de renda, emprego e crescimento econômico, tais como:
+i) Microcrédito Produtivo Orientado para pessoas inscritas no CadÚnico, com o Programa de Redução da Pobreza; ii) Ampliação do crédito para MEIs e microempresas, com o Procred 360, e aprimoramento do Pronampe para renegociação de dívidas; iii) Aprimoramento do Peac-FGI para redução dos custos do crédito; iv) Incentivo a ampliação do mercado de crédito imobiliário para classe média, com a permissão para a atuação da Emgea como securitizadora de créditos imobiliários; v) A renegociação de dívidas bancárias de empresas com faturamento anual até faturamento até R$ 4,8 milhões (texto extraído da exposição de motivos da Medida Provisória nº 1.213.).
+Origem: PPA
+Código Temporário: N20D
+Momento: 8300
+Novo: Não
+Excluído: Não

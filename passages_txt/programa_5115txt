@@ -1,0 +1,1143 @@
+passage: Programa Número 5115
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 242
+Entrega: 2023
+Indicador: 11353
+Denominação: Ações de disseminação da cultura em temas de proteção de dados pessoais entregues à sociedade (pilar de difusão da cultura)
+Em Apuração: Sim
+Data De Apuração: 2023-07-13 00:00:00
+Unidade De Medida: quantidade
+Descrição: O indicador mede a quantidade de ações de disseminação da cultura de proteção de dados  que abordem um tema de interesse de proteção de dados pessoais, ainda que de forma inicial ou exploratória. Não se confundem com os regulamentos exarados pelo Conselho Diretor.
+Período Ou Data A Que Se Refere: Último dia de julho e último dia de janeiro
+Data De Divulgação/Disponibilização: Julho e Janeiro
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ação de difusão: incluem documentos como estudos, textos para discussão, artigos, Notas Técnicas, seminários e outros eventos voltados para discussão de temas em proteção de dados pessoais.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios internos
+Forma De Disponibilização: Publicações no site e nas redes sociais da Autoridade.
+Procedimento De Cálculo: 1 - levantar as ações que se enquadrem em difusão de cultura de proteção de dados e que foram comunicadas pela ANPD em seu site e em redes sociais; e
+2 - somar o quantitativo de ações apuradas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 238
+Entrega: 499
+Indicador: 9382
+Denominação: Alunos inscritos nos cursos disponibilizados da EVG
+Índice De Referência: 5000.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Somatório das inscrições realizadas em cursos que o Cade figura como conteudistas.
+Período Ou Data A Que Se Refere: Último dia do trimestre
+Data De Divulgação/Disponibilização: Janeiro, abril, julho e outubro
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A Escola Virtual.Gov (EV.G) é o ambiente de cursos a distância da Enap. Os conteúdos dos cursos são produzidos pelo Cade e disponibilizados no portal da EV.G: www.escolavirtual.gov.br
+Fonte De Dados Das Variáveis De Cálculo: Enap/EV.G
+Forma De Disponibilização: Os dados são disponibilizados por meio do portal da EV.G
+Procedimento De Cálculo: Acesso à informação da quantidade de incritos nos cursos, a partir de dados disponibilizados pela Enap/EV.G, por meio de filtro que seleciona a quantidade de inscrições nos curos dos quais o Cade é conteudista.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 127
+Entrega: 220
+Indicador: 9036
+Denominação: Ativos alienados, incorporados ou doados
+Índice De Referência: 492.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanhar a evolução de ativos destinados pela Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos - Senad, de forma a contribuir na destinação de bens e na arrecadação de recursos em favor de políticas de justiça e segurança pública.
+Período Ou Data A Que Se Refere: 31/12/2022
+Data De Divulgação/Disponibilização: Mês subsequente ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de ativos destinados.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão Apreendidos - Sigap, preenchido pela DGA/SENAD a partir de dados do Judiciário, polícias apreensoras, leiloeiros, e comissões de alienação.
+Forma De Disponibilização: Publicação em painel BI público  no portal do MJSP - atualização mensal.
+Procedimento De Cálculo: Soma dos ativos destinados por atuação da gestão de ativos da Senad, registrada no Sigap.
+Limitações: Dados refletem apenas os recursos decorrentes de atividades da Senad.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 127
+Entrega: 225
+Indicador: 9080
+Denominação: Atores estratégicos (pessoas) capacitados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa
+Descrição: Pessoas capacitadas para os atos envolvidos na recuperação de ativos e reconhecimento da atuação da Senad na administração, custódia e destinação de ativos
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Ao final de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de pessoas sensibilizadas
+Fonte De Dados Das Variáveis De Cálculo: Diretoria de Gestão de Ativos - DGA/SENAD, a partir de informações obtidas junto a organizações de eventos e capacitações.
+Forma De Disponibilização: Site institucional da SENAD
+Procedimento De Cálculo: Soma do número de pessoas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 422
+Entrega: 2024
+Indicador: 11356
+Denominação: Bolsas formalizadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade de bolsas formalizadas para melhorar a qualidade da alimentação das pessoas privadas de liberdade bem como facilitar o acesso ao trabalho digno, à saúde e a informações sobre a execução de sua pena
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informação - SEI
+Forma De Disponibilização: Página na Internet institucional, pesquisas e publicações
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 121
+Entrega: 302
+Indicador: 9142
+Denominação: Estudos e pesquisas publicados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Serão somadas a quantidade de estudos e pesquisas com o dados confiáveis
+Período Ou Data A Que Se Refere: 31/12/2022
+Data De Divulgação/Disponibilização: Janeiro do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estudos são textos que resultam de processos de geração de conhecimentos inéditos concernentes à Política Nacional sobre Drogas, vinculados a um trabalho de pesquisa científica ou administrativa.
+Fonte De Dados Das Variáveis De Cálculo: Site institucional da SENAD.
+Forma De Disponibilização: https://www.gov.br/mj/pt-br/assuntos/sua-protecao/politicas-sobre-drogas/subcapas-senad/pesquisas
+Procedimento De Cálculo: Contagem dos estudos publicados no período analisado, soma dos estudos publicados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 110
+Entrega: 173
+Indicador: 8983
+Denominação: Índice de Procons Integrados ao Proconsumidor
+Índice De Referência: 64.43
+Em Apuração: Não
+Data De Apuração: 2023-05-01 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador demonstra o percentual de procons integrados ao sistema Proconsumidor.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Procons no Proconsumidor /Número de Procons *100
+Fonte De Dados Das Variáveis De Cálculo: A Coordenação-Geral do Sistema Nacional de Informações de Defesa do Consumidor/Senacon irá forncecer as informações via SEI.
+Forma De Disponibilização: Site da Secretaria Nacional do Consumidor - Senacon
+Procedimento De Cálculo: Os dados serão retirados do SEI, logo os atores externos deverão solicitar as informações via sistema.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 121
+Entrega: 205
+Indicador: 9009
+Denominação: Municípios com Programas de Prevenção ao uso problemático de álcool e outras drogas implementados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: município
+Descrição: A implementação dos programas de prevenção depende de parceiros locais, prioritariamente estados e municípios, mas também institutos e universidades federais e organizações da sociedade civil. A cada ciclo de programa implementado - decorrente de uma parceria firmada - o número de beneficiários será adicionado ao indicador.
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano posterior à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios com programas de prevenção implementados .
+Fonte De Dados Das Variáveis De Cálculo: Termos de parceria firmados e Relatórios de implementação dos programas enviados pelos municípios parceiros
+Forma De Disponibilização: Comunicação administrativa.
+Procedimento De Cálculo: Ao final de cada ciclo de programa implementado com sucesso (Famílias Fortes, Elos, #Tamojunto...) o representante do território parceiro comunicará o fato formalmente à gestão nacional, que indicará quantos municípios de fato implementarem os programas.
+Limitações: Atrasos na comunicação pelo parceiro podem prejudicar a apuração do período
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 338
+Entrega: 728
+Indicador: 9654
+Denominação: Obras analisadas no IARC
+Índice De Referência: 4800.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Número absoluto do quantitativo de aplicativos e jogos verificados por meio do Sistema IARC
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Até dia 05 do mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Sistema IARC
+Forma De Disponibilização: Comunicação interna
+Procedimento De Cálculo: Levantamento do número absoluto de análises
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 318
+Entrega: 707
+Indicador: 9626
+Denominação: Percentual de autorização de residência para fins laborais e de investimentos decididos em relação ao total de processos recebidos no ano
+Índice De Referência: 95.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de processos analisados
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Início do mês de março do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Processos de autorização de residência laboral e investimento decididos
+Fonte De Dados Das Variáveis De Cálculo: Dados internos da coordenação respectiva
+Forma De Disponibilização: Comunicação interna
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 318
+Entrega: 696
+Indicador: 9618
+Denominação: Percentual de pedidos de naturalização analisados em relação ao total de processos recebidos no ano
+Índice De Referência: 78.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de processos analisados
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Início do mês de março do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Processos de naturalização decididos
+Fonte De Dados Das Variáveis De Cálculo: Dados internos.
+Forma De Disponibilização: Comunicação interna
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 310
+Entrega: 663
+Indicador: 9599
+Denominação: Percentual de pedidos passivos de cooperação jurídica internacional em matéria de subtração internacional de crianças e adolescentes encerrados sem ajuizamento de ação judicial
+Índice De Referência: 4.15
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de conciliações realizadas em pedidos de cooperação jurídica internacional em matéria de subtração internacional de crianças e adolescentes, divididos pelo numero de pedidos de cooperação jurídica internacional em matéria de subtração em matéria de subtração internacional de crianças e adolescentes recebidos e cadastrados no SEI  multiplicados por 100
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Divulgação até o dia 28 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de conciliações realizadas nos processos de cooperação jurídica internacional em matéria de subtração internacional de crianças e adolescentes: São todos as conciliações realizadas no âmbito dos processos de subtração internacional de crianças e adolescentes
+
+Total dos pedidos de cooperação jurídica internacional em matéria de subtração internacional de crianças e adolescentes recebidos: São todos os pedidos recebidos em matéria de subtração internacional de crianças e adolescentes
+Fonte De Dados Das Variáveis De Cálculo: Os dados são retirados do Sistema SEI
+Forma De Disponibilização: Os indicadores são diponibilizados no portal do Ministério da Justiça e Segurança Pública https://www.gov.br/mj/pt-br/assuntos/sua-protecao/cooperacao-internacional/estatisticas/
+Procedimento De Cálculo: As informações resgistradas no sistema SEI são sigilosas e não são permitidas ao público externo.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 318
+Entrega: 686
+Indicador: 9612
+Denominação: Percentual de processos de refúgio analisados em relação ao total de processos recebidos no ano
+Índice De Referência: 87.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de processos analisados
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: processos de refúgio decididos
+Fonte De Dados Das Variáveis De Cálculo: Dados internos da coordenação respectiva
+Forma De Disponibilização: comunicação administrativa.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 121
+Entrega: 283
+Indicador: 9128
+Denominação: Pessoas capacitadas
+Índice De Referência: 200.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa
+Descrição: O indicador irá mensurar a quantidade de pessoas capacitadas na temática sobre Drogas, a partir dos cursos e eventos virtuais e presenciais ofertados pela SENAD.
+Período Ou Data A Que Se Refere: 31/12/2022
+Data De Divulgação/Disponibilização: Janeiro do ano posterior.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de certificados emitidos
+Fonte De Dados Das Variáveis De Cálculo: Site institucional da SENAD.
+Forma De Disponibilização: https://www.gov.br/mj/pt-br/assuntos/sua-protecao/politicas-sobre-drogas/formacao/
+Procedimento De Cálculo: Serão somados a quantidade de pessoas capacitadas, por meio  dos certificados emitidos e de pessoas participantes dos eventos presenciais/virtuais promovidos pela Senad
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 414
+Entrega: 3411
+Indicador: 12759
+Denominação: Postos de Atendimento Comunitário das Defensorias – PADEFs implantados
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: quantidade
+Descrição: Medir a quantidade de postos de atendimento comunitário das defensorias.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 238
+Entrega: 494
+Indicador: 9376
+Denominação: Prazo médio de Ato de Concentração Sumário no Cade
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: dia
+Descrição: Mede o tempo de resposta do Cade a demandas com menor risco concorrencial (correspondem a mais de 90% do volume de demandas)
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: Janeiro e Julho
+Periodicidade: Semestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Atos de concentração: são as fusões de duas ou mais empresas anteriormente independentes; as aquisições de controle ou de partes de uma ou mais empresas por outras; as incorporações de uma ou mais empresas por outras; ou, ainda, a celebração de contrato associativo, consórcio ou joint venture entre duas ou mais empresas. Apenas não são considerados atos de concentração, para os efeitos legais, os consórcios ou associações destinadas às licitações promovidas pela administração pública direta e indireta e aos contratos delas decorrentes (art. 90 da Lei 12.529/2011). 
+Atos de concentração pelo rito sumário: são os Atos de Concentração que, por ter menor potencial ofensivo à concorrência, são objeto de decisão simplificada pela Superintendência do CADE (Seção II da Resolução CADE nº 2/2012).
+Fonte De Dados Das Variáveis De Cálculo: Sistema SEI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: BI Cade
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 121
+Entrega: 300
+Indicador: 11410
+Denominação: Projetos da sociedade civil apoiados
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador irá mensurar o número de projetos financiados
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: Ao final de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Site institucional da SENAD
+Forma De Disponibilização: https://www.gov.br/mj/pt-br/assuntos/sua-protecao/politicas-sobre-drogas
+Procedimento De Cálculo: Visita ao site institucional da SENAD, publicações dos resultados dos editais de chamamento público.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 110
+Entrega: 168
+Indicador: 8981
+Denominação: Quantidade de Capacitações nos Procons no Sistema Proconsumidor
+Índice De Referência: 5.0
+Em Apuração: Não
+Data De Apuração: 2023-05-01 00:00:00
+Unidade De Medida: quantidade
+Descrição: Será ampliada a quantidade de cursos aos colaboradores dos Procons no sistema Proconsumidor.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro do ano subsequente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Números absolutos
+Fonte De Dados Das Variáveis De Cálculo: A Coordenação-Geral do Sistema Nacional de Informações de Defesa do Consumidor/Senacon irá forncecer as informações via SEI.
+Forma De Disponibilização: Site da Secretaria Nacional do Consumidor - Senacon
+Procedimento De Cálculo: Os dados serão retirados do SEI, logo os atores externos deverão solicitar as informações via sistema.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 110
+Entrega: 165
+Indicador: 8979
+Denominação: Quantidade de empresas cadastradas no consumidor.gov
+Índice De Referência: 1317.0
+Em Apuração: Não
+Data De Apuração: 2023-05-01 00:00:00
+Unidade De Medida: quantidade
+Descrição: Serão utilizados números absolutos.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Serão utilizados os números absolutos
+Fonte De Dados Das Variáveis De Cálculo: Plataforma consumidor.gov
+Forma De Disponibilização: Plataforma consumidor.gov
+Procedimento De Cálculo: Os dados estão disponíveis na plataforma consumidor.gov
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 110
+Entrega: 173
+Indicador: 12722
+Denominação: Quantidade de órgãos de defesa do consumidor agregados ao sistema Proconsumidor
+Índice De Referência: 760.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: O indicador demonstra a quantidade de órgãos de defesa do consumidor agregados ao sistema.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31 de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de órgãos de defesa do consumidor no Proconsumidor /Número de Procons *100
+Fonte De Dados Das Variáveis De Cálculo: A Coordenação-Geral do Sistema Nacional de Informações de Defesa do Consumidor/Senacon irá fornecer as informações via SEI.
+Forma De Disponibilização: Site da Secretaria Nacional do Consumidor – Senacon
+Procedimento De Cálculo: Os dados serão retirados do SEI, logo os atores externos deverão solicitar as informações via sistema.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 414
+Entrega: 3407
+Indicador: 12750
+Denominação: Quantidade de Unidades de serviços itinerantes das Defensorias implantadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Unidades de serviços itinerantes das Defensorias implantadas.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/01/2026
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 238
+Entrega: 496
+Indicador: 9379
+Denominação: Tempo Médio de Processos de Conduta Concluídos
+Índice De Referência: 2.9
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: ano
+Descrição: Mede o tempo médios dos processos que foram concluídos no Cade.
+Período Ou Data A Que Se Refere: 31/03
+Data De Divulgação/Disponibilização: Último dia do mês de março
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Processos de conduta são:
+(1) Procedimento Preparatório (PP): tem por finalidade apurar se determinada conduta trata de matéria de competência do Sistema Brasileiro de Defesa da Concorrência (SBDC). Ao final da instrução do PP, a SG pode decidir pelo arquivamento do procedimento ou pela instauração de inquérito ou processo administrativo.
+(2) Inquérito Administrativo (IA): procedimento investigatório de natureza inquisitorial, é instaurado pela SG para apuração de infrações à ordem econômica, quando os indícios não forem suficientes para a. instauração de processos administrativo.
+ (3) Processo Administrativo (PA): é instaurado quando já existem fortes indícios de práticas lesivas ao mercado, garantindo-se ao acusado o contraditório e a ampla defesa.
+(4) Termo de Compromisso de Cessação (TCC) é o acordo firmado entre o Cade e empresas ou pessoas físicas investigadas por suposta infração à ordem econômica. Por meio deste instrumento, os signatários se comprometem a suspender as práticas investigada e sujeitam-se ao pagamento de contribuições pecuniárias. Também podem ser estabelecidas outras medidas que estimulem ou reestabeleçam a concorrência no mercado.
+Fonte De Dados Das Variáveis De Cálculo: Sistema SEI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: BI Cade
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 414
+Entrega: 1279
+Indicador: 10334
+Denominação: Unidades implantadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade de núcleos ecológicos e de unidades móveis de atendimento das defensorias.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12 de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informações
+Forma De Disponibilização: Página na internet institucional, pesquisas e publicações
+Limitações: Limitação estruturais e orçamentárias
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+passage: Programa Número 5115
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 422
+Indicador: 10404
+Denominação: Estabelecimentos prisionais atendidos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade de unidades e estabelecimentos prisionais atendidos
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informação - SEI
+Forma De Disponibilização: Página na internet institucional, pesquisas e publicações
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 238
+Indicador: 9371
+Denominação: Índice de eficiência das decisões
+Índice De Referência: 96.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Indicador mede se o fluxo de decisões de Atos de Concentração do Cade está acompanhando o fluxo de demandas de decisões.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Último dia do mês de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Atos de concentração: são as fusões de duas ou mais empresas anteriormente independentes; as aquisições de controle ou de partes de uma ou mais empresas por outras; as incorporações de uma ou mais empresas por outras; ou, ainda, a celebração de contrato associativo, consórcio ou joint venture entre duas ou mais empresas. Apenas não são considerados atos de concentração, para os efeitos legais, os consórcios ou associações destinadas às licitações promovidas pela administração pública direta e indireta e aos contratos delas decorrentes (art. 90 da Lei 12.529/2011).
+Fonte De Dados Das Variáveis De Cálculo: Sistema SEI
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Número de decisões do Tribunal e da Superintendência Geral/Protocolos de entrada de Ac junto ao Cade
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 310
+Indicador: 9596
+Denominação: Percentual de cumprimento dos pedidos ativos do ano diligenciados
+Índice De Referência: 76.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual %
+Descrição: Percentual de cumprimento dos pedidos ativos do ano diligenciados
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Divulgação até o dia 28 de fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Os pedidos de cooperação jurídica internacional ativos são apresentados por residentes de todos os estados brasileiros, enquanto os pedidos passivos são recebidos das autoridades centrais estrangeiras em relação a residentes no Brasil de todos os estados. Não há diferença de tratamento com base na localização do requerente ou requerido; o procedimento para a tramitação do pedido de cooperação jurídica internacional é analisado de acordo com os tratados e acordos bilaterais ou multilaterais vigentes, de acordo com o caso em concreto.
+Ao longo de 2024 foram diligenciados 1.353 e tivemos 1.495 pedidos restituídos. Para além disso, foram analisados 8.423 pedidos de cooperação jurídica internacional em matéria civil e penal, inclusive em assuntos de acesso internacional à justiça, à prestação internacional de alimentos, à visitação, à adoção e à subtração internacional de crianças e adolescentes, extradição, transferência de pessoas condenadas, transferência de execução da pena e transferência de processo criminal, possibilitando, assim, o cumprimento da meta prevista para o referido ano. 
+Por oportuno, registramos que os pedidos ativos do ano diligenciados são aqueles analisados e dada sequência da tramitação do processo. Essa análise pode envolver algumas atividades, a depender de cada caso. Ao receber o pedido, é realizado um juízo de admissibilidade que verifica se os documentos estão em consonância com o acordo ou tratado do qual o país em que o pedido será encaminhado faça parte. Caso o pedido esteja em desacordo com o ‘’checklist’’, este é restituído ao órgão requerente para adequação. E caso os documentos estejam em conformidade com a legislação adotada pelo país para o qual será encaminhado o pedido de cooperação, este seguirá seu fluxo normal. Dessa maneira, verifica-se que toda e qualquer atividade realizada no pedido de cooperação, são compreendidas como diligenciada. 
+Em contrapartida, os pedidos ativos do ano restituídos são aqueles que são devolvidos pelo órgão requerido ao Ministério da Justiça e Segurança Pública para conclusão do pedido de cooperação jurídica internacional. Nessa etapa, é importante registrar que o retorno é moroso podendo levar anos até que o pedido de seja efetivamente concluído, pois depende do prazo de tramitação das ações judiciais daquele país.
+Fonte De Dados Das Variáveis De Cálculo: Os dados são retirados do sistema SG-DRCI (Sistema Gerencial de processos de cooperação jurídica internacional do DRCI) e do Sistema SEI
+Forma De Disponibilização: Os indicadores são diponibilizados no portal do Ministério da Justiça e Segurança Pública https://www.gov.br/mj/pt-br/assuntos/sua-protecao/cooperacao-internacional/estatisticas/
+Procedimento De Cálculo: As informações resgistradas nos sistemas SG-DRCI e SEI são sigilosas e não são permitidas ao público externo
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 318
+Indicador: 9608
+Denominação: Percentual de migrantes, refugiados e apátridas atendidos em relação ao total de processos recebidos no ano
+Índice De Referência: 87.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de casos (solicitações de refúgio, naturalização e autorizações de residência laboral e de investimento)  analisados pelo Departamento de Migrações - DEMIG.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: Dia primeiro de março do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Percentual do total de processos de  refúgio, naturalização e autorizações de residência laboral e de investimento analisados.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas e dados internos do Departamento de Migrações - DEMIG
+Forma De Disponibilização: Comunicação administrativa
+Limitações: O aumento e imprevisibilidade da demanda, o alto número de processos que entram em diligência, a limitada força de trabalho atual, podem ser limitadores para o rendimento e cumprimento do objetivo
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 338
+Indicador: 9646
+Denominação: Percentual de obras analisadas em relação ao número de processos completos inscritos
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensurar o percentual de obras completas analisadas e publicadas no Diário Oficial da União em relação ao número de processos completos inscritos no Ministério da Justiça e Segurança Pública.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Até dia 05 do mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Σ de obras analisadas: Somatório das obras completas analisadas e publicadas no D.O.U 
+
+Σ das obras completas inscritas: Somatório das obras completas inscritas aptas para análise
+
+x 100: fator multiplicador para se estabelecer o0 percentual
+Fonte De Dados Das Variáveis De Cálculo: Extração dos dados a partir do sistema eletrônico de Informações (SEI)
+Forma De Disponibilização: Disponibilização pelo sistema de Coleta de indicadores do MJSP
+Procedimento De Cálculo: Contabilização dos processos analisados e publicados, respeitando seus prazos legais para publicação no D.O.U
+
+Verificação dos processos inscrito pelos segmentos de cinema, video doméstico, televisão aberta, de jogos e  aplicativos que serão comercializados em mídia física e RPG.
+
+Realização contábil da relação entre os processos analisado e inscritos, para determinação do percentual de análise.
+Limitações: O aumento de mercado
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 110
+Indicador: 8977
+Denominação: Percentual de resolutividade das demandas na plataforma consumidor.gov
+Índice De Referência: 77.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador tem como finalidade demonstrar o percentual de resolução das reclamações dos consumidores dentro da plataforma Consumidor.gov.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: até 31 de janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para realizar o cálculo é necessária somar as reclamações resolvidas com as reclamações finalizadas não avaliadas pelos consumidores. A partir desse somatório, o valor encontrado será dividido pelo total de reclamações finalizadas (resolvidas, não resolvidas e não avaliadas).
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos da plataforma consumidor.gov
+Forma De Disponibilização: Os dados serão disponibilizdos na plataforma Consumidor.gov
+Procedimento De Cálculo: Para realizar o cálculo é necessário somar as reclamações avaliadas como resolvidas com as reclamações finalizadas não avaliadas pelos consumidores. A partir desse somatório, o valor encontrado será dividido pelo total de reclamações finalizadas (resolvidas, não resolvidas e não avaliadas).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 414
+Indicador: 10328
+Denominação: Polos de atendimento das defensorias implantados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade de polos de atendimento implantados nas comarcas estaduais
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 31/12 de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Polo: unidade atendimento da defensoria
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informações - SEI
+Forma De Disponibilização: Página na internet institucional, pesquisas e publicações
+Limitações: Limitação estruturais e orçamentárias
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 242
+Indicador: 9420
+Denominação: Publicações dos Itens Previstos na Agenda Regulatória da ANPD
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: Itens Publicados
+Descrição: O indicador detalha o número de publicações relacionadas aos tens descritos na Agenda Regulatória da ANPD, que reúne o planejamento bianual de tratamento de temas da ANPD. A aferição será feita por meio das publicações divulgadas no sítio eletrônico da ANPD. Alguns dos temas tratados envolvem transferência internacional de dados pessoais, relatório de impacto de proteção de dados pessoais,compartilhamento de dados pelo Poder Público, hipóteses legais de tratamento de dados pessoais, anonimização e pseudonimização, entre outros. A lista completa pode ser consultada no link https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-agenda-regulatoria-2023-2024.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: A apuração das publicações realizadas será feita semestralmente, em conjunto com o monitoramento da Agenda Regulatória da ANPD. Normalmente, a apuração é finali
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1- Itens previstos na agenda regulatória - temas priorizados na resolução da ANPD; 
+2 - itens publicados: itens disponibilizados no site da ANPD, na aba "Documentos e Publicações".
+Fonte De Dados Das Variáveis De Cálculo: Site da ANPD
+Forma De Disponibilização: Publicações divulgadas no site da ANPD
+Procedimento De Cálculo: 1 - verificar os itens priorizados da Agenda Regulatória da ANPD para aquele ano;
+2 - acessar o site da ANPD;  
+3 - verificar nas publicações o tema do documento e o ano de publicação e compará-los com os itens descritos na Agenda Regulatória;
+4 - somar as publicações realizadas que foram identificadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 121
+Indicador: 9001
+Denominação: Territórios Atendidos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: O indicador consiste no número de  Territorios atendidos por projetos de organizações da sociedade civil e unidades federadas com apoio financeiro e técnico da SENAD.
+A implementação dos programas de prevenção depende de parceiros locais, prioritariamente estados e municípios, mas também institutos e universidades federais e organizações da sociedade civil. A cada ciclo de programa implementado - decorrente de uma parceria firmada - o território alcançado será adicionado ao indicador
+Período Ou Data A Que Se Refere: 30/06/2023
+Data De Divulgação/Disponibilização: Primeiro trimestre do ano posterior à apuração.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Serão considerados territórios atendidos os Estados e Municípios com programas implementados.
+Fonte De Dados Das Variáveis De Cálculo: Confirmação formal do encerramento de um ciclo de aplicação de programa por parte do parceiro local.
+Forma De Disponibilização: Comunicação administrativa.
+Procedimento De Cálculo: Ao final de cada ciclo de programa implementado (Famílias Fortes, Elos, #Tamojunto...) o representante do território parceiro comunicará o fato formalmente à gestão nacional, que somará o referido território na apuração do indicador. Cada território será adicionado apenas uma vez.
+Limitações: Atrasos na comunicação pelo parceiro podem prejudicar a apuração do período.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 414
+Indicador: 12756
+Denominação: Unidades da federação (UFs) abrangidas com a ampliação de serviços das Defensorias Públicas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: Trata-se da identificação de unidades da federação contempladas com a criação de postos de Atendimentos Comunitários das Defensorias Públicas (Padef) em comunidades e territórios vulneráveis e/ou com a implantação de unidades de serviços itinerantes das defensorias públicas e outros serviços de promoção de acesso à justiça para atendimento aos grupos sociais vulnerabilizados.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 01/01/2026
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 127
+Indicador: 9025
+Denominação: Valor arrecadado a partir dos recursos recolhidos aos cofres públicos decorrentes de ações afetas à gestão de ativos
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: milhão
+Descrição: Visão global da evolução dos recursos do Fundo Nacional Antidrogas - Funad, bem como a evolução das receitas recolhidas a outras contas, decorrentes da gestão de ativos promovida pela Senad.
+Período Ou Data A Que Se Refere: 31/01/2023
+Data De Divulgação/Disponibilização: Mês subsequente ao final de cada semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Valores de avaliação de ativos custodiados, incorporados e leiloados
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão Apreendidos - Sigap, preenchido pela DGA/SENAD a partir de dados do Judiciário, polícias apreensoras, leiloeiros, e comissões de alienação
+
+Sistema Integrado de Administração Financeira do Governo Federal - SIAFI
+Forma De Disponibilização: Publicação em painel BI público  no portal do MJSP - atualização mensal
+Procedimento De Cálculo: Soma do valor arrecadado anualmente por atuação da gestão de ativos da Senad, registrada no Sigap e Siafi.
+Limitações: Dados refletem apenas os recursos decorrentes de atividades da Senad
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5115
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 110
+Enunciado: Ampliar a resolutividade das ações de proteção e defesa do consumidor.
+Descrição: O objetivo tem como finalidade ampliar a resolutividade das ações de proteção e defesa do consumidor expandindo o número de atores envolvidos nas atividades da Senacon relacionadas ao Direito do Consumidor.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 121
+Enunciado: Disseminar e Fomentar Estratégias de acesso a direitos e prevenção ao uso problemático de álcool e outras drogas com enfoque em grupos de pessoas e territórios vulnerabilizados
+Descrição: Implantação, disseminação, monitoramento e avaliação de sistemas, programas, campanhas e ações de formação no campo da prevenção ao uso de drogas e à violência, validados cientificamente. Também prevê ações de articulação entre os atores envolvidos na Política sobre Drogas nos estados, no DF e/ou municípios das capitais, no âmbito do legislativo, executivo, judiciário e sociedade civil, identificando lacunas e oportunidades de ação estratégica por parte da SENAD, com foco na promoção da justiça racial e voltado para grupos mais vulnerabilizados, como mulheres, pessoas em situação de rua, população negra e periférica, população indígena, e crianças e adolescentes. Fortalecimento da atuação da sociedade civil, garantindo sua participação nos espaços de desenho e implementação da política sobre drogas, além de abrir linhas de financiamento para ações voltadas aos grupos prioritários da política. Implantação de centros de acesso a direitos e inserção social. Atividades de capacitação, formação, produção e análise de informações sobre a política de drogas.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 127
+Enunciado: Aumentar a eficiência na destinação de bens procedentes da prática de crimes com perdimento para a União
+Descrição: Ações de administração, alienação, custódia e destinação de ativos apreendidos por práticas e financiamentos de crimes, colaborando para o processo de recuperação de ativos e consequentemente para a descapitalização do crime organizado e recolhimento de valores para fundos destinados a políticas públicas. Qualificação da atuação repressiva com base em inteligência e estratégia por meio da disponibilização de recursos para as instituições de segurança pública responsáveis pelas apreensões ou sequestros de ativos.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 238
+Enunciado: Promover um ambiente concorrencial saudável e justo
+Descrição: Promover um ambiente concorrencial saudável e justo, utilizando-se para isso de ações preventivas (análise prévia de atos de concentração), repressivas (combate a cartéis e a comportamentos anticompetitivos) e de advocacia da concorrência (atuação sobre agentes públicos nacionais/internacionais na dimensão normativa e atuação formativa junto mercado e sociedade civil).
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 242
+Enunciado: Fortalecer o ambiente regulatório de proteção de dados pessoais no Brasil.
+Descrição: A Política de Proteção de Dados Pessoas visa estabelecer um ambiente de proteção de dados pessoais no Brasil, visto que é um tema recente – a própria Lei Geral de Proteção de Dados Pessoais (LGPD) passou apenas a vigorar a partir de setembro de 2020. A consecução desse objetivo está calcada em três pilares: arcabouço normativo robusto, com normas claras para os administrados; atuação repressiva consolidada, com capacidade de processamento das supostas infrações e apresentação de soluções eficientes; e cultura de proteção de dados pessoais difundida. Para atingir esses objetivos, uma das estratégias adotadas é a publicação de documentos e regulamentos que esclareçam a aplicação da LGPD para os cidadãos e as entidades que utilizam em suas atividades dados pessoais. Dessa forma, o conhecimento produzido pela ANPD é compartilhado, e o ambiente regulatório é fortalecido. Os temas prioritários da ANPD para a produção desses documentos são detalhados em sua Agenda Regulatória, em que são
+descritos os temas e a fase (ano) em que estes serão abordados.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 310
+Enunciado: Promover a ampliação da análise processual com segurança jurídica dos pedidos de Cooperação Jurídica Internacional
+Descrição: Promoção da ampliação da análise dos Pedidos de cooperação jurídica internacional, em matéria civil e penal, inclusive em assuntos de prestação internacional de alimentos, acesso à justiça, adoção e subtração internacional de crianças e adolescentes, extradição, transferência da pessoas condenadas, transferência da execução da pena e recuperação de ativos analisados internacional em matéria civil e penal.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 318
+Enunciado: Ampliar o acesso a direitos para pessoas migrantes, refugiadas e apátridas
+Descrição: Indica a atuação do Ministério a partir da identificação dos processos decididos, tendo como base percentual de processos analisados no ano de 2022.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 338
+Enunciado: Fortalecer a proteção de crianças e adolescentes contra conteúdos potencialmente prejudicais ao seu desenvolvimento psíquico (classificação indicativa)
+Descrição: Mensura a eficiência da Pasta ao se considerar os processos inscritos e a capacidade potencial de análise, medida pelo percentual de obras analisadas.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 414
+Enunciado: Ampliar o atendimento das defensorias com foco nos grupos vulnerabilizados em especial mulheres, população negra, população LGBTQIA+, povos indígenas e comunidades tradicionais
+Descrição: Trata-se da ampliação dos serviços das Defensorias Públicas a partir da criação de postos de Atendimentos Comunitários das Defensorias Públicas (Padef) em comunidades e territórios vulneráveis e/ou da implantação de unidades de serviços itinerantes das defensorias públicas e outros serviços de promoção de acesso à justiça para atendimento aos grupos sociais vulnerabilizados.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Objetivo Específico: 422
+Enunciado: Aprimorar ações para garantia de acesso a direitos de pessoas privadas de liberdade por meio de extensão universitária
+Descrição: Apoio a projetos de extensão universitária ou criação de novos projetos que visem melhorar a qualidade da alimentação das pessoas privadas de liberdade, facilitar o acesso ao trabalho digno, à saúde e a informações sobre a execução de sua pena.
+Órgão: 30000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5115
+
+Exercício: 2025
+Programa: 5115
+Objetivo: 1300
+Enunciado: Fortalecer o acesso à justiça e a promoção e defesa dos direitos das pessoas, com ênfase em grupos sociais vulnerabilizados.
+Descrição: No âmbito deste objetivo, o Ministério da Justiça e Segurança Pública busca ressaltar a relevância de aperfeiçoar o acesso à justiça, bem como fomentar e salvaguardar os direitos das pessoas, com uma atenção especial àqueles que se encontram em situações de vulnerabilidade. Este esforço visa estabelecer um ambiente mais inclusivo, equitativo e imparcial tanto na sociedade em geral quanto no sistema legal específico.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5115
+
+Exercício: 2025
+Programa: 5115
+Título: Promoção do Acesso à Justiça e da Defesa dos Direitos
+Tipo: Finalístico
+Órgão: 30000.0
+Público-Alvo: Sociedade, Estado, Municipíos,Órgãos executores da política pública sobre drogas; Pessoas com demanda associada ao uso de álcool e outras drogas;e Mercado.
+Descrição Do Problema: A baixa efetivação da justiça somada à disparidade no acesso e na aplicação da lei entre diferentes grupos sociais. Grupos marginalizados, pessoas em situação de vulnerabilidade socioeconômica e minorias podem enfrentar maiores obstáculos para obter uma justiça efetiva.
+Os problemas enfrentados no âmbito do Programa de Promoção do Acesso à Justiça e da Defesa dos Direitos envolvem: a baixa efetivação da justiça e do acesso aos direitos, sobretudo entre pessoas em situação de vulnerabilidade socioeconômica e minorias; o aumento de casos envolvendo o uso indevido e o acesso não autorizado de dados pessoais, violando a segurança e a privacidade das pessoas; o desequilíbrio e práticas abusivas referentes às relações de consumo e; a existência de práticas anticompetitivas cometidas por empresas no mercado brasileiro e os problemas da falta de articulação no atendimento a pessoas que fazem uso abusivo de álcool e outras drogas e da violência causada pelo atual formato de enfrentamento ao tráfico de drogas, desdobram-se em fragilidades experimentadas por determinados grupos vulnerabilizados.
+Causa Do Problema: Muitos grupos vulneráveis enfrentam dificuldades significativas no acesso à justiça devido a obstáculos econômicos, geográficos e culturais. Além disso, a discriminação e a desigualdade estrutural são desafios importantes que afetam a efetivação da justiça para grupos vulneráveis, exigindo do governo a instituição de políticas públicas mais abrangentes e efetivas para proteger os direitos desses grupos.
+A crise migratória e o aumento do fluxo de migrantes no país exigem uma abordagem adequada para garantir a proteção dos direitos dos migrantes. Isso inclui a implementação de políticas migratórias claras, o fortalecimento dos mecanismos de acolhimento e integração, e a cooperação internacional para lidar com os desafios dessa situação complexa.
+A tendência dos agentes econômicos em maximizar seus próprios interesses pode afetar negativamente o acesso à justiça e a proteção de direitos. É necessário fortalecer os órgãos reguladores e de fiscalização para garantir o cumprimento das leis e evitar práticas abusivas por parte das empresas. Além disso, é fundamental aprimorar os mecanismos de monitoramento de fusões e aquisições para prevenir concentração excessiva de poder e garantir a concorrência justa no mercado.
+Enfrentar esses desafios requer um esforço conjunto de diversos atores, incluindo o governo, o sistema judiciário, a sociedade civil e os setores econômicos. É fundamental promover a conscientização, investir em capacitação, atualizar a legislação e fortalecer os órgãos responsáveis pela proteção dos direitos e pelo acesso à justiça. Somente assim será possível construir um sistema mais eficaz, justo e inclusivo, onde os direitos de todos sejam protegidos.
+Além disso, a falta de investimento em serviços públicos que atuam para o atendimento integrado e acolhimento de pessoas que fazem uso problemático de álcool e outras drogas faz com que a demanda por cuidados das pessoas e das comunidades impactadas pelo uso e o tráfico de drogas cresça sem ser adequadamente atendida pelo Estado.
+Evidências Do Problema: De acordo com a dados da Pesquisa Nacional da Defensoria Pública, realizada em 2021, 71% das comarcas do Brasil não possuem cobertura de defensorias para a garantia do acesso à justiça e a defesa dos direitos dos mais vulneráveis sócio e economicamente. Além disso, a falta de clareza e transparência sobre direitos, procedimentos legais e serviços jurídicos disponíveis, dificultando o entendimento e a busca por soluções legais pelos cidadãos.
+Ainda sobre o acesso à justiça, destaca-se a pesquisa "Justiça em Números", realizada pelo Conselho Nacional de Justiça (CNJ), que apontou a demora na tramitação dos processos como um dos principais problemas enfrentados pelos cidadãos, resultando em um alto índice de demandas reprimidas e demonstrando a ineficiência dos instrumentos de acesso à justiça. Tais fatores revelam a necessidade de reformas e investimentos para melhorar o acesso à justiça no Brasil, como o fortalecimento da assistência jurídica gratuita, a adoção de medidas para acelerar a tramitação processual e a promoção de políticas de acesso igualitário à justiça.
+
+O aumento na produção e, sobretudo, no acesso de conteúdos inadequados em relação ao Estatuto da Criança e do Adolescente.  A presença de conteúdos impróprios para crianças e adolescentes em meios de comunicação, como programas de TV, filmes, jogos e websites, que não estão de acordo com as diretrizes de proteção estabelecidas pelo Estatuto.
+
+Outra evidência consiste na crise migratória e o aumento do fluxo de migrantes no país, que tem resultado nocrescimento significativo do número de imigrantes e refugiados no país, muitas vezes em condições precárias e com dificuldades para acessar seus direitos fundamentais, como abrigo, trabalho e proteção legal.
+Tem-se ainda a tendência dos agentes econômicos em maximizar o próprio interesse, resultando em práticas abusivas por parte de empresas, como formação de cartéis, monopólios, manipulação de preços e concorrência desleal, que prejudicam os consumidores e dificultam a garantia de um ambiente concorrencial saudável. Soma-se a isso, a dificuldade de monitorar as fusões, devido a falta de mecanismos eficientes de monitoramento e controle de fusões e aquisições de empresas, o que pode resultar em concentração excessiva de poder e limitação da concorrência no mercado.
+
+Taxa de mortalidade desproporcional das pessoas que residem em territórios policiados para controle do tráfico; taxa de prevalência de uso de álcool e outras drogas desproporcional para grupos mais afetados pela exclusão social, bem como lacunas no atendimento e acolhimento nos serviços públicos disponíveis; taxa de encarceramento desproporcional de pessoas negras e de mulheres por crimes de drogas.
+Justificativa Para A Intervenção: A baixa efetivação da justiça é um problema que compromete a confiança dos cidadãos no sistema judicial e de acesso aos seus direitos, afeta negativamente a garantia de direitos e a resolução de conflitos de maneira justa e equitativa. Diante desse cenário, há justificativas sólidas para a intervenção na baixa efetivação da justiça, tais como:
+Proteção dos direitos fundamentais: A intervenção na baixa efetivação da justiça é necessária para proteger os direitos fundamentais dos cidadãos. Um sistema judicial eficiente e acessível é essencial para garantir o cumprimento dos direitos civis, políticos, sociais e econômicos estabelecidos na legislação.
+Promoção da igualdade e equidade: A baixa efetivação da justiça tende a afetar de forma desproporcional grupos sociais mais vulneráveis e marginalizados. A intervenção busca promover a igualdade perante a lei e garantir que todos tenham acesso igualitário à justiça, independentemente de sua condição socioeconômica, gênero, raça, etnia ou outras características pessoais.
+Fortalecimento do Estado de Direito: Uma justiça efetiva é um pilar fundamental do Estado de Direito. Intervir na baixa efetivação da justiça contribui para fortalecer as instituições democráticas, promover a segurança jurídica, a estabilidade social e a confiança nas instituições estatais.
+Resolução de conflitos de forma pacífica: Um sistema de justiça eficiente e efetivo desempenha um papel crucial na resolução de conflitos de maneira pacífica e dentro dos limites legais. A intervenção na baixa efetivação da justiça busca garantir que os litígios sejam solucionados de forma justa, imparcial e em tempo razoável, evitando o acirramento de tensões e a perpetuação de disputas. Lobby de empresas e conflitos de competências.
+Combate à impunidade: A intervenção na baixa efetivação da justiça é essencial para combater a impunidade. Garantir que as decisões judiciais sejam efetivamente cumpridas e que crimes e violações de direitos sejam investigados, julgados e punidos adequadamente é fundamental para promover a responsabilização e dissuadir a prática de infrações.
+Fortalecimento da confiança na justiça: A intervenção na baixa efetivação da justiça contribui para fortalecer a confiança dos cidadãos no sistema judicial. Um sistema eficiente, transparente e acessível aumenta a percepção de justiça, fortalecendo os laços entre os cidadãos e as instituições estatais.
+O Governo Federal deve atuar para coordenar as ações de saúde, assistência social, acolhimento, cuidado, acesso a direitos, prevenção, reinserção social, redução de riscos e danos e mitigação dos impactos das políticas repressivas que afetam os grupos mais vulnerabilizados.
+Relação Com Os Ods: ODS 1- Erradicação da Pobreza;  
+ODS 2- Fome Zero e Agricultura Sustentável;  
+ODS 3 - Saúde e Bem-Estar;  
+ODS 4- Educação de Qualidade;  
+ODS 5 - Igualdade de Gênero;  
+ODS 8 – Trabalho decente e crescimento econômico
+Meta 8.7 tomar medidas imediatas e eficazes para erradicar o trabalho forçado, acabar com a escravidão moderna e o tráfico de pessoas e assegurar a proibição e eliminação das piores formas de trabalho infantil, incluindo recrutamento e utilização de crianças-soldado, e até 2025 acabar com o trabalho infantil em todas as suas formas;
+ODS 9 - Indústria, Inovação e Infraestrutura.
+ODS 10 - Redução das Desigualdades
+Meta 10.7 - facilitar a migração e a mobilidade ordenada, segura, regular e responsável de pessoas, inclusive por meio da implementação de políticas de migração planejadas e bem geridas;
+ODS 12- Consumo e Produção Responsáveis;
+ODS 16 – Paz, justiça e instituições eficazes
+Meta 16.3 promover o Estado de Direito, em nível nacional e internacional, e garantir a igualdade de acesso à justiça, para todos.
+Agentes Envolvidos: Secretaria de Defesa do Consumidor - Senacon, 
+Secretaria Nacional de Justiça - Senajus, 
+Secretaria de Acesso à Justiça - Saju, 
+Autoridade e Nacional de Proteção de Dados -ANPD e
+Conselho Administrativo de Defesa Econômica - CADE.
+Secretaria Nacional de Políticas sobre Drogas e Gestão de Ativos - SENAD
+Articulação Federativa: Todas as ações vinculadas ao Programa dependerão de uma articulação entre o Poder Executivo, Legislativo e Judiciário, tanto no âmbito da Administração Federal, quanto em relação aos estados e municípios, respeitando sempre o pacto federativo.
+Enfoque Transversal: Todas as ações vinculadas ao Programa serão conduzidas de forma transversal com os poderes Legislativo, Ministério Público, Defensoria Pública e Judiciário. Além disso,  serão tratadas as questões ligadas a gênero, raça e outros marcadores sociais relacionados acesso à justiça e seus impactos em comunidades e territórios mais vulnerabilizados. Na Esfera do Poder Executivo Federal com os Ministérios e demais órgãos. Em relação aos estados e municípios, respeitando sempre o pacto federativo.
+Marco Legal: Constituição Federal de 1988 (art. 5º, inciso LXXIX) Art. 6º; (Art. 220, parágrafo 3º);
+Lei nº 13.709, de 14 de agosto de 2018 – Lei Geral de Proteção de Dados Pessoais - LGPD; 
+Decreto nº 10.474, de 26 de agosto de 2020 – Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Autoridade Nacional de Proteção de Dados e remaneja e transforma cargos em comissão e funções de confiança; 
+Resolução do Conselho Diretor - CD/ANPD nº 2, de 27 de janeiro de 2022 - Aprova o Regulamento de aplicação da Lei nº 13.709, de 14 de agosto de 2018, Lei Geral de Proteção de Dados Pessoais (LGPD), para agentes de tratamento de pequeno porte; 
+Resolução do Conselho Diretor - CD/ANPD nº 4, de 24 de fevereiro de 2023 - Aprova o Regulamento de Dosimetria e Aplicação de Sanções Administrativas; e 
+Resolução do Conselho Diretor - CD/ANPD nº 5, de 13 de março de 2023 - Aprova a Agenda de Avaliação de Resultado Regulatório para o período 2023-2026. 
+ 
+Lei nº 12.529, de 30 de novembro de 2011 - Estrutura o Sistema Brasileiro de Defesa da Concorrência e dispõe sobre a prevenção e repressão às infrações contra a ordem econômica; 
+Portaria Interministerial MJSP/MF nº 994, de 30 de maio de 2012 - Adequa, após indicação do Plenário do Conselho Administrativo de Defesa Econômica – Cade, os valores mínimos de faturamento bruto anual ou volume de negócios no país; e 
+Resolução Cade nº 33, de 14 de abril de 2022 – Disciplina a notificação dos atos de que trata o artigo 88 da Lei nº 12.529, de 30 de novembro de 2011, prevê procedimento sumário de análise de atos de concentração. 
+Lei nº 8.078, de 11 de setembro de 1990 - Dispõe sobre a proteção do consumidor;
+Decreto nº 2.181, de 20 de março de 1997 - Dispõe sobre a organização do Sistema Nacional de Defesa do Consumidor - SNDC, estabelece as normas gerais de aplicação das sanções administrativas;
+Decreto nº 7.962, de 15 de março de 2013 - Dispor sobre a contratação no comércio eletrônico; 
+Decreto nº 7.963, de 15 de março de 2013 - Institui o Plano Nacional de Consumo e Cidadania e cria a Câmara Nacional das Relações de Consumo; e
+Decreto nº 8.573, de 19 de novembro de 2015 - Dispõe sobre o Consumidor.gov.br.
+Lei nº 9.609, de 19 de fevereiro de 1998 - Dispõe sobre a proteção da propriedade intelectual de programa de computador, sua comercialização no país;
+Lei nº 9.610, de 19 de fevereiro de 1998 - Altera, atualiza e consolida a legislação sobre direitos autorais;
+Decreto nº 8.903, de 16 de novembro de 2016 - Institui o Programa de Proteção Integrada de Fronteiras e organiza a atuação de unidades da administração pública federal para sua execução;
+Decreto nº 9.875, de 27 de junho de 2019 - Dispõe sobre o Conselho Nacional de Combate à Pirataria e aos Delitos contra a Propriedade Intelectual - CNCP; e
+Decreto nº 10.886, de 7 de dezembro de 2021 - Institui a Estratégia Nacional de Propriedade Intelectual.
+Lei nº 8.069, de 13 de julho de 1990 - Dispõe sobre o Estatuto da Criança e do Adolescente;
+Portaria MJSP nº 502, de 03 de novembro de 2021 - Regulamenta o processo de classificação indicativa;
+Decreto nº 10.770, de 17 de agosto de 2021 - Institui a Agenda Transversal e Multissetorial da Primeira Infância.
+Lei n° 12.485, de 12 de setembro de 2011 - Dispõe sobre a comunicação audiovisual de acesso condicionado; altera a Medida Provisória no 2.228-1, de 6 de setembro de 2001, e as Leis nos 11.437, de 28 de dezembro de 2006, 5.070, de 7 de julho de 1966, 8.977, de 6 de janeiro de 1995, e 9.472, de 16 de julho de 1997; e dá outras providências.
+Lei n° 10.359, de 27 de dezembro de 2001 - Dispõe sobre a obrigatoriedade de os novos aparelhos de televisão conterem dispositivo que possibilite o bloqueio temporário da recepção de programação inadequada.
+Decreto n° 9856 – Dispõe sobre o Comitê de Acompanhamento pela Sociedade Civil para a Classificação Indicativa.
+Lei nº 9.790, de 23 de março de 1999 - Dispõe sobre a qualificação de pessoas jurídicas de direito privado, sem fins lucrativos, como Organizações da Sociedade Civil de Interesse Público;
+Decreto-Lei nº 4.657, de 04 de setembro de 1942 - Lei de Introdução às normas do Direito Brasileiro; e
+Decreto nº 3.100, de 30 de junho de 1999 - Regulamenta a Lei nº 9.790, de 23 de março de 1999
+Lei nº 13.445, de 24 de maio de 2017 - Institui a Lei de Migração; e
+Decreto nº 9.199, de 20 de novembro 2017 - Regulamenta a Lei nº 13.445, de 24 de maio de 2017, que institui a Lei de Migração.
+Lei nº 8.069 de 13 de julho de 1990
+ Lei Complementar nº 80, de 12 de janeiro de 1994
+ Lei nº 10.406, de 10 de janeiro de 2002
+ Lei nº 10.741, de 1 de outubro de 2003
+ Lei nº 11.340, de 7 de agosto de 2006
+ Lei nº 12.288, de 20 de julho de 2010
+Lei nº 12.852, de 5 de agosto de 2013
+ Lei nº 13.019, de 31 de julho de 2014
+Lei nº 13.105, de 16 de março de 2015
+ Lei nº 13.140, de 26 de junho de 2015
+ Lei nº1 13.431, de 4 de abril de 2017
+Decreto-Lei nº 4.657, de 4 de setembro de 1942
+ Decreto nº 6.044, de 12 de fevereiro de 2007
+ Decreto nº 10.770, de 17 de agosto de 2021
+ Decreto nº 11.348, de 1º de janeiro de 2023
+Decreto nº 11.444, de 21 de março de 2023
+ Resolução CNJ nº 125, de 29 de novembro de 2010
+ Resolução nº 10, de 17 de outubro de 2018
+ Recomendação nº 90, de 02 de março de 2021
+Lei nº 8.080, de 19 de setembro de 1990 - Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências;
+Lei nº 12.435, de 6 de julho de 2011 - Altera a Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social;
+Lei n° 7.560, de 19 de dezembro de 1986 - Cria o Fundo de Prevenção, Recuperação e de Combate às Drogas de Abuso, dispõe sobre os bens apreendidos e adquiridos com produtos de tráfico ilícito de drogas ou atividades correlatas;
+Lei nº 11.343, de 23 de agosto de 2006 - Institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad;
+Lei nº 13.756, de 12 de dezembro de 2018 - Dispõe sobre o Fundo Nacional de Segurança Pública - FNSP;
+Decreto nº 5.912, de 27 de setembro de 2006 - Regulamenta a Lei nº 11.343, de 23 de agosto de 2006, que trata das políticas públicas sobre drogas e da instituição do Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad, e dá outras providências;
+Decreto nº 9.761, de 11 de abril de 2019 - Aprova a Política Nacional sobre Drogas;
+Decreto nº 11.480, de 6 de abril de 2023 - Dispõe sobre o Conselho Nacional de Políticas sobre Drogas; e
+Resolução nº 8, de 27 de setembro de 2022 - Aprova o Plano Nacional de Políticas sobre Drogas 2022-2027;
+Resolução nº 32, de 14 de dezembro de 2017 - Estabelece as Diretrizes para o Fortalecimento da Rede de Atenção Psicossocial (RAPS);
+Lei nº 8.069, de 13 de julho de 1990 - Dispõe sobre o Estatuto da Criança e do Adolescente;
+Lei nº 10.216, de 6 de abril de 2001 - Dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental;
+Lei nº 10.708, de 31 de julho de 2003 - Institui o auxílio-reabilitação psicossocial para pacientes acometidos de transtornos mentais egressos de internações;
+Decreto nº 7.508, de 28 de junho de 2011 - Dispõe sobre a organização do Sistema Único de Saúde (SUS), o planejamento da saúde, a assistência à saúde e a articulação interfederativa.
+Planos Nacionais, Setoriais E Regionais: Planos Nacionais das Relações de Consumidor; 
+Proteção e Defesa dos Direitos Difusos e Coletivos; 
+Política de Defesa da Concorrência;
+Plano Nacional de Drogas (PLANAD);
+Plano Nacional de Segurança Pública e SUSP
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

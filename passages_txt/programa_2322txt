@@ -1,0 +1,878 @@
+passage: Programa Número 2322
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Entrega: 3165
+Indicador: 12534
+Denominação: Empreendimento entregue
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Empreendimento entregue referente à Reestruturação da infraestrutura para a gestão de resíduos da construção civil e volumosos, contida no Subeixo Gestão de Resíduos Sólidos, executado pelo(a) Prefeitura Municipal de Belo Horizonte. Localidade: Belo Horizonte - MG
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definido pelo Comitê do PAC
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimento Entregue: Empreendimento cadastrado na base de dados da carteira de investimentos do MCID junto ao agente financeiro (CAIXA) com situação de obra como "Concluída" e Data de Conclusão entre "01/01/2024" e "31/12/2027".
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definido pelo Comitê do PAC
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Entrega: 3163
+Indicador: 12532
+Denominação: Empreendimento entregue
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Empreendimento entregue referente à Ampliação do Programa Municipal de Coleta Seletiva no município de Belo Horizonte, contida no Subeixo Gestão de Resíduos Sólidos, executado pelo(a) Prefeitura Municipal de Belo Horizonte. Localidade: Belo Horizonte - MG
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definido pelo Comitê do PAC
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimento Entregue: Empreendimento cadastrado na base de dados da carteira de investimentos do MCID junto ao agente financeiro (CAIXA) com situação de obra como "Concluída" e Data de Conclusão entre "01/01/2024" e "31/12/2027".
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definido pelo Comitê do PAC
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Entrega: 3162
+Indicador: 12531
+Denominação: Empreendimento entregue
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Empreendimento entregue referente ao Melhoria da estrutura de triagem dos resíduos recicláveis, contida no Subeixo Gestão de Resíduos Sólidos, executado pelo(a) Prefeitura Municipal de São Caetano do Sul. Localidade: São Caetano do Sul - SP
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definido pelo Comitê do PAC
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimento Entregue: Empreendimento cadastrado na base de dados da carteira de investimentos do MCID junto ao agente financeiro (CAIXA) com situação de obra como "Concluída" e Data de Conclusão entre "01/01/2024" e "31/12/2027".
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definido pelo Comitê do PAC
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 14
+Entrega: 2772
+Indicador: 12135
+Denominação: Novo PAC: empreendimentos entregues no subeixo Abastecimento de Água (eixo Água para Todos)
+Sigla: PAC_agua
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: quantidade
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo PAC
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAC_agua = somatório dos empreendimentos entregues no subeixo Prevenção a Desastres: Drenagem (eixo Cidades Sustentáveis e Resilientes)
+
+OBRAENTREGUE_agua = empreendimento entregue no subeixo Prevenção a Desastres: Drenagem (eixo Cidades Sustentáveis e Resilientes)
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC)
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 409
+Entrega: 2769
+Indicador: 12132
+Denominação: Novo PAC: empreendimentos entregues no subeixo Esgotamento Sanitário (eixo Cidades Sustentáveis e Resilientes)
+Sigla: PAC_esgoto
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: quantidade
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo PAC
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAC_esgoto = somatório de empreendimentos entregues no subeixo Esgotamento Sanitário (eixo Cidades Sustentáveis e Resilientes)
+
+OBRAENTREGUE_esgoto = empreendimento entregue no subeixo Esgotamento Sanitário (eixo Cidades Sustentáveis e Resilientes)
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC)
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 499
+Entrega: 1804
+Indicador: 11080
+Denominação: Número de empreendimentos contratados para obras de Drenagem Urbana Sustentável e de Manejo de Águas Pluviais
+Sigla: NEDMAPU
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: número absoluto
+Descrição: Quantificação do número de empreendimentos de drenagem urbana e manejo de águas pluviais apoiados pela unidade contratados no período
+Período Ou Data A Que Se Refere: Janeiro a Dezembro do ano anterior
+Data De Divulgação/Disponibilização: Última semana do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: En: Empreendimentos de drenagem urbana e manejo de águas pluviais contratados pela unidade no período
+Fonte De Dados Das Variáveis De Cálculo: SNSA/MCID
+Forma De Disponibilização: O indicador irá compor o conjunto de indicadores monitorados por meio do Sistema Nacional de Informações sobre Saneamento (SNIS) e será disponibilizado na página do MCID (www.gov.br/cidades).
+Procedimento De Cálculo: 1) Levantamento dos empreendimentos concluídos no período na base de dados oficial da unidade;
+2) Somatório das operações identificadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Entrega: 3422
+Indicador: 12773
+Denominação: Número de empreendimentos entregues no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes)
+Sigla: PAC_RSU
+Índice De Referência: 1.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A presente entrega agrega as intervenções do Ministério das Cidades incluídas no Novo PAC no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes), anteriormente apresentadas em entregas individualizadas.
+Período Ou Data A Que Se Refere: Definidas pelas instâncias de governança e gestão do Novo PAC
+Data De Divulgação/Disponibilização: A cada quatro meses
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAC_RSU = somatório dos Empreendimentos entregues no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes)
+INTERVENCAO_entregue= empreendimento entregue no subeixo no subeixo Gestão de Resíduos Sólidos (eixo Cidades Sustentáveis e Resilientes)
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC)
+Endereço eletrônico do Ministério das Cidades
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 501
+Entrega: 3174
+Indicador: 12412
+Denominação: Número de pessoas capacitadas
+Sigla: PC
+Em Apuração: Sim
+Unidade De Medida: número absoluto
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = nº de pessoas formadas presencialmente
+B = número de pessoas formadas a distância
+Fonte De Dados Das Variáveis De Cálculo: Sistema da Escola Virtual de Governo - EVG e tabela excel
+Forma De Disponibilização: Site institucional da Agência Nacional de Águas e Saneamento Básico e relatório anual
+Procedimento De Cálculo: Soma simples do número de pessoas capacitadas nas modalidades presencial, remota e a distância
+Notas Explicativas: O indicador demonstra o avanço da agenda de capacitação voltada para o Singreh, visando a qualificação dos atores que atuam na gestão de recursos hídricos e saneamento. Outros indicadores complementares podem ser necessários para que possamos mensurar  o impacto da capacitação na tomada de decisão e na ampliação da governança e representatividade na gestão das águas e saneamento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 501
+Entrega: 1823
+Indicador: 11111
+Denominação: Percentual de adesão de entidades reguladoras infranacionais (ERIs) às normas de referência da ANA
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: %
+Descrição: Conforme Lei 9984/2000 atualizada pela Lei 14.026/2020, estabelece no Art.4°A que a ANA instituirá normas de referência para a regulação dos serviços públicos de saneamento básico por seus titulares e suas entidades reguladoras e fiscalizadoras. Gradualmente a ANA publicará as Normas com os temas espabelecidos neste artigo e, por meio do Sistema de Acompanhamento da Regulação do Saneamento (SASB), coleta informações juntos às ERIs sobre os requisitos definidos nas Normas de Referência.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: 20 de dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: V1: número de ERIs que aderiram às Normas de Referência da ANA
+V2: númerode ERIs cadastradas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Acompanhamento da Regulação do Saneamento (SASB)
+Forma De Disponibilização: O indicador irá compor o conjunto de indicadores monitorados por meio do Sistema de Acompanhamento da Regulação do Saneamento (SASB) e será disponibilizado na página da ANA (https://www.gov.br/ana/pt-br).
+Procedimento De Cálculo: 1) Contabilizar a quantidade de ERIs que comprovadamente aderiram às normas de referência já publicadas pela ANA, com as informações inseridas no SASB 2) Somar a quantidade de de ERIs cadastradas no SASB.
+Limitações: O indicador só considera números inteiros
+Notas Explicativas: O indicador reflete a melhoria da regulação do setor saneamento com a adesão progressiva das Entidades Reguladoras Infranacionais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 409
+Entrega: 2213
+Indicador: 11548
+Denominação: População beneficiada com a Implantação de Sistemas de Esgotamento Sanitário nos estados de Alagoas, Bahia, Maranhão, Minas Gerais, Pernambuco, Piauí e Sergipe
+Sigla: PB
+Índice De Referência: 59855.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa beneficiada
+Descrição: População beneficiada com as obras de esgotamento sanitário nos estados de Alagoas, Bahia, Maranhão, Minas Gerais, Pernambuco, Piauí e Sergipe.
+Período Ou Data A Que Se Refere: Mês de Referência
+Data De Divulgação/Disponibilização: Dia 10 de cada mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= população atendida pelo sistema de esgotamento sanitário
+Fonte De Dados Das Variáveis De Cálculo: SIGEC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 408
+Entrega: 1780
+Indicador: 11056
+Denominação: Quantidade de empreendimentos concluídos no período, para população rural
+Sigla: SANAR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: O indicador quantifica os emprrendimentos de infraestrutura de abastecimento de água, tornando-se o melhor indicador por detalha o quantitativo dos empreendimentos concluídos.
+Período Ou Data A Que Se Refere: Quatro trimestres (jan-dez) do ano que se está monitorando
+Data De Divulgação/Disponibilização: Última semana de janeiro do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimentos concluídos: Empreendimentos apoiados pela unidade na modalidade de referência e concluídos no período.
+Fonte De Dados Das Variáveis De Cálculo: SNSA/MCID
+Forma De Disponibilização: O indicador será disponibilizado na página do MCID (www.gov.br/cidades).
+Procedimento De Cálculo: 1) Identificar os empreendimentos concluídos para ações de abastecimento de água em área rurais;
+2) Realizar o somatório dos empreendimentos concluídos.
+Limitações: Inconsistências e/ou indisponibilidade nos sistemas de informações do órgão executor.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 498
+Entrega: 1790
+Indicador: 11066
+Denominação: Quantidade de empreendimentos de sistemas ou soluções alternativas concluídos no período, para população rural
+Sigla: SANER
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: quantidade
+Descrição: O indicador quantifica os empreendimentos de sistemas ou soluções alternativas de esgotamento sanitário.
+Período Ou Data A Que Se Refere: Quatro trimestres (jan-dez) do ano que se está monitorando
+Data De Divulgação/Disponibilização: Última semana de janeiro do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimentos concluídos: Empreendimentos apoiados pela unidade na modalidade de referência e concluídos no período.
+Fonte De Dados Das Variáveis De Cálculo: SNSA/MCID
+Forma De Disponibilização: O indicador será disponibilizado na página do MCID (www.gov.br/cidades).
+Procedimento De Cálculo: 1) Identificar os empreendimentos concluídos para ações de esgotamento sanitário em área rurais;
+2) Realizar o somatório dos empreendimentos concluídos.
+Limitações: Inconsistências e/ou indisponibilidade nos sistemas de informações do órgão executor.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 501
+Entrega: 1814
+Indicador: 11098
+Denominação: Quantidade de empreendimentos entregues que receberam ações de apoio à gestão
+Sigla: SUSTENTAR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Descrição: Em condições ideais, todas as soluções alternativas de saneamento (tipicamente soluções mais pontuais em áreas isoladas e/ou rurais) deveriam ser atendidas com ações estruturantes, no entanto, devido às limitações de recursos financeiros e de capacidade operacional, apenas uma parcela de soluções alternativas implantadas é contemplada com ações estruturante, sendo esta parcela o que o indicador quantifica.
+Período Ou Data A Que Se Refere: Quatro trimestres (jan-dez) do ano que se está monitorando
+Data De Divulgação/Disponibilização: Última semana de janeiro do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soluções de Saneamento contempladas com ações estruturantes: Número de soluções alternativas de saneamento que foram contempladas com ações estruturantes no período de apuração.
+Fonte De Dados Das Variáveis De Cálculo: SNSA/MCID
+Forma De Disponibilização: O indicador será disponibilizado na página do MCID (www.gov.br/cidades).
+Procedimento De Cálculo: 1) Quantificar o numero de soluções alternativas que foram objeto de ações estruturantes no período de apuração.
+Limitações: Inconsistências e/ou indisponibilidade nos sistemas de informações do órgão executor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Entrega: 2808
+Indicador: 12173
+Denominação: Valor alocado para seleção (R$)
+Em Apuração: Não
+Unidade De Medida: R$
+Descrição: Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas resíduos sólidos urbanos por meio do OGU ou FGTS.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VI OGU 2024: Valor do investimento com recursos do Orçamento Geral da União referente à 2024
+VI OGU 2025: Valor do investimento com recursos do Orçamento Geral da União referente à 2025
+VI OGU 2026: Valor do investimento com recursos do Orçamento Geral da União referente à 2026
+VI FIN 2024: Valor do investimento com recursos de Financiamento referente à 2024
+VI FIN 2025: Valor do investimento com recursos de Financiamento referente à 2025
+VI FIN 2026: Valor do investimento com recursos de Financiamento referente à 2026
+Fonte De Dados Das Variáveis De Cálculo: SNSA e Agente Operador do FGTS
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC).
+Procedimento De Cálculo: 1. Receber os dados primários dos agentes financeiros;
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID;
+3. Apurar o valor de investimento contratado por ano.
+Limitações: Para efeitos de compatibilização com o período do PPA, foram desconsiderados os valores referentes a 2023.
+O Valor Investido Planejado após 2026 está consolidado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 408
+Entrega: 2813
+Indicador: 12178
+Denominação: Valor alocado para seleção (R$)
+Em Apuração: Não
+Unidade De Medida: R$
+Descrição: Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas simplificados de abastecimento de água por meio do OGU ou FGTS.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VI OGU 2024: Valor do investimento com recursos do Orçamento Geral da União referente à 2024
+VI OGU 2025: Valor do investimento com recursos do Orçamento Geral da União referente à 2025
+VI OGU 2026: Valor do investimento com recursos do Orçamento Geral da União referente à 2026
+VI FIN 2024: Valor do investimento com recursos de Financiamento referente à 2024
+VI FIN 2025: Valor do investimento com recursos de Financiamento referente à 2025
+VI FIN 2026: Valor do investimento com recursos de Financiamento referente à 2026
+Fonte De Dados Das Variáveis De Cálculo: SNSA e Agente Operador do FGTS
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC).
+Procedimento De Cálculo: 1. Receber os dados primários dos agentes financeiros;
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID;
+3. Apurar o valor de investimento contratado por ano.
+Limitações: Para efeitos de compatibilização com o período do PPA, foram desconsiderados os valores referentes a 2023.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 409
+Entrega: 2807
+Indicador: 12172
+Denominação: Valor alocado para seleção (R$)
+Em Apuração: Não
+Unidade De Medida: R$
+Descrição: Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas de esgotamento sanitário por meio do OGU ou FGTS.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VI OGU 2024: Valor do investimento com recursos do Orçamento Geral da União referente à 2024
+VI OGU 2025: Valor do investimento com recursos do Orçamento Geral da União referente à 2025
+VI OGU 2026: Valor do investimento com recursos do Orçamento Geral da União referente à 2026
+VI FIN 2024: Valor do investimento com recursos de Financiamento referente à 2024
+VI FIN 2025: Valor do investimento com recursos de Financiamento referente à 2025
+VI FIN 2026: Valor do investimento com recursos de Financiamento referente à 2026
+Fonte De Dados Das Variáveis De Cálculo: SNSA e Agente Operador do FGTS
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC).
+Procedimento De Cálculo: 1. Receber os dados primários dos agentes financeiros;
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID;
+3. Apurar o valor de investimento contratado por ano.
+Limitações: Para efeitos de compatibilização com o período do PPA, foram desconsiderados os valores referentes a 2023.
+O Valor Investido Planejado após 2026 está consolidado
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 14
+Entrega: 2806
+Indicador: 12171
+Denominação: Valor alocado para seleção (R$)
+Em Apuração: Não
+Unidade De Medida: R$
+Descrição: Informa a quantidade de recursos financeiros da União aplicados (desembolsados) em empreendimentos de sistemas de abastecimento de água por meio do OGU ou FGTS.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VI OGU 2024: Valor do investimento com recursos do Orçamento Geral da União referente à 2024
+VI OGU 2025:Valor do investimento com recursos do Orçamento Geral da União referente à 2025
+VI OGU 2026: Valor do investimento com recursos do Orçamento Geral da União referente à 2026
+VI FIN 2024: Valor do investimento com recursos de Financiamento referente à 2024
+VI FIN 2025: Valor do investimento com recursos de Financiamento referente à 2025
+VI FIN 2026: Valor do investimento com recursos de Financiamento referente à 2026
+Fonte De Dados Das Variáveis De Cálculo: SNSA e Agente Operador do FGTS
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC).
+Procedimento De Cálculo: 1. Receber os dados primários dos agentes financeiros;
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID;
+3. Apurar o valor de investimento contratado por ano.
+Limitações: Para efeitos de compatibilização com o período do PPA, foram desconsiderados os valores referentes a 2023.
+O Valor Investido Planejado após 2026 está consolidado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2322
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 499
+Indicador: 10984
+Denominação: Parcela de domicílios não sujeitos a situação de risco de inundação (SINISA)
+Sigla: IGR0001
+Índice De Referência: 96.0
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador IGR0001 do SINISA (que corresponde ao D2 do Plansab e ao IN040 do SNIS) mede a parcela de domicílios urbanos não sujeitos a risco de inundação em percentual. É o indicador que apresenta a melhor avaliação da adequação dos serviços e sistemas de Drenagem e Manejo de Águas Pluviais Urbanas (DMAPU).
+Período Ou Data A Que Se Refere: O indicador corresponde ao ano anterior a sua coleta.
+Data De Divulgação/Disponibilização: Dezembro do ano seguinte a que se refere o ano de competência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: IGR0001: parcela de domicílios urbanos não sujeitos a risco de inundação em percentual
+GAP2110: Quantidade de domicílios sujeitos a risco de inundação na área urbana 
+GAP2103: Quantidade total de domicílios existente na área urbana
+Fonte De Dados Das Variáveis De Cálculo: Sistema Nacional de Informações em Saneamento Básico - SINISA
+Forma De Disponibilização: Diagnóstico/Relatório anual de Drenagem e Manejo das Águas Pluviais publicados no site do SINISA (https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/saneamento/sinisa/resultados-sinisa)
+Procedimento De Cálculo: 1) O município deve preencher os formulários no SINISA DMAPU; 
+2) O município deve preencher o campo GAP2110 (Quantidade de domicílios sujeitos a risco de inundação na área urbana); 
+3) Realiza-se o Somatório da quantidade de domicílios sujeitos a risco de inundação por município 
+4) Realiza-se o Somatório da quantidade total de domicílios urbanos existentes no município 
+5) Efetua-se a divisão dos somatórios 6) Subtrair o resultado de 1 e multiplicar por 100 para obter o percentual.
+Limitações: Por se tratar de um campo de caráter obrigatório, é possível que, para finalizar o envio do formulário, existam municípios que declarem valor zero no campo, ou seja, informam não possuir domicílios sujeitos a risco de inundação, sem que isso corresponda à realidade desses municípios.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 408
+Indicador: 10959
+Denominação: Percentual de domicílios rurais abastecidos com água por rede de distribuição ou por poço ou nascente
+Sigla: SANAR
+Índice De Referência: 72.9
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador se mostra objetivo e alinhado ao plano nacional de saneamento básico. Possui disponibilidade de dados com periodicidade anual
+Período Ou Data A Que Se Refere: Quarto trimestre de 2022 (out/2022-dez/2022)
+Data De Divulgação/Disponibilização: Data de divulgação da PNAD.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DR = Domicílios rurais atendidos por Rede de abastecimento de água
+DP = Domicílios rurais atendidos por Poço com canalização interna ao domicílio
+DN = Domicílios rurais atendidos por Nascente com canalização interna ao domicílio
+DT = Total de domicílios rurais
+Fonte De Dados Das Variáveis De Cálculo: IBGE/Pesquisa Nacional por Amostra de Domicílios Contínua
+Forma De Disponibilização: Download dos microdados através do pacote PNDcIBGE do software R
+Procedimento De Cálculo: 1) Construir a série histórica da PNAD/PNADC das variáveis de interesse;
+2) Calcular as médias móveis das variações anuais relativas a quatro anos  (incluindo sempre o  ano de referência)
+3) A partir de 2011,multiplicar o valor apurado em 2010 pelo resultado da média móvel até 2011;
+4) Prosseguir com os anos seguintes
+Limitações: A PNADC, fonte das informações usadas pelo indicador, é uma pesquisa amostral e que, por isso, está sujeita a comportamentos aleatórios (por isso que se usa a média móvel de suas variações anuais).
+Inconsistências ou indisponibilidade dos dados pelo IBGE. 
+O fato da PNAD contínua ser amostral, podendo a amostra não ser representativa ou não ter sensibilidade para dectar o resultado das intervenções realizadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 498
+Indicador: 10981
+Denominação: Percentual de domicílios rurais servidos por rede coletora ou fossa séptica para os excretas ou esgotos sanitários ou outras soluções adequadas
+Sigla: SANER
+Índice De Referência: 38.7
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O indicador se mostra objetivo e alinhado ao Plano Nacional de Saneamento Básico (PLANSAB). Possui disponibilidade de dados com periodicidade anual.
+Período Ou Data A Que Se Refere: Quarto trimestre de 2022 (out/2022-dez/2022)
+Data De Divulgação/Disponibilização: Data de divulgação da PNAD.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DR = Domicílios rurais atendidos por rede de esgotamento
+DF = Domicílios rurais atendidos por fossa séptica
+DT = Total de domicílios rurais
+Fonte De Dados Das Variáveis De Cálculo: IBGE/Pesquisa Nacional por Amostra de Domicílios Contínua
+Forma De Disponibilização: Download dos microdados através do pacote PNDcIBGE do software R
+Procedimento De Cálculo: 1) Construir a série histórica da PNAD/PNADC das variáveis de interesse;
+2) Calcular as médias móveis das variações anuais relativas a quatro anos (incluindo sempre o ano de referência);
+3) A partir de 2011, multiplicar o valor apurado em 2010 pelo resultado da média móvel até 2011;
+4) Prosseguir com os anos seguintes.
+Limitações: A PNADC, fonte das informações usadas pelo indicador, é uma pesquisa amostral e que, por isso, está sujeita a comportamentos aleatórios (por isso que se usa a média móvel de suas variações anuais).
+Notas Explicativas: Caso o IBGE detalhe a coleta de dados em relação às soluções de esgotamento sanitário consideradas adequadas (como banheiro seco, wetlands, tanques de evapotranpiração, dentre outras), estas passarão a ser contabilizadas no indicador do objetivo específico como “soluções adequadas” podendo ocasionar aumento repentino do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 14
+Indicador: 8779
+Denominação: Percentual de domicílios urbanos abastecidos com água por rede de distribuição ou por poço ou nascente
+Sigla: A2
+Índice De Referência: 96.8
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: %
+Descrição: O indicador (que corresponde ao A2 do Plansab) indica as formas de acesso ao saneamento urbano: domicílios urbanos atendidos por rede de abastecimento de água potável ou por poço ou nascente com canalização interna ao domicílio.
+É o único indicador nacional que incorpora as formas alternativas de acesso ao abastecimento de água potável
+Período Ou Data A Que Se Refere: Ano de referência de 2022, sendo divulgadas em 2023 (sempre com 1 ano de diferença)
+Data De Divulgação/Disponibilização: 31/07/aaaa
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: DR = Domicílios urbanos atendidos por Rede  de abastecimento de água
+DP = Domicílios urbanos atendidos por Poço com canalização interna ao domicílio
+DN = Domicílios urbanos atendidos por Nascente com canalização interna ao domicílio
+DT = Total de domicílios urbanos
+Fonte De Dados Das Variáveis De Cálculo: IBGE/Pesquisa Nacional por Amostra de Domicílios Contínua
+Forma De Disponibilização: Download dos microdados através do pacote PNDcIBGE do software R
+Procedimento De Cálculo: Passo1: Construir a série histórica da PNAD/PNADC das variáveis de interesse;
+Passo2: Calcular as médias móveis das variações anuais relativas a quatro anos  (incluindo sempre o  ano de referência)
+Passo3: A partir de 2011,multiplicar o valor apurado em 2010 pelo resultado da média móvel até 2011;
+Passo4: Prosseguir com os anos seguintes.
+Limitações: A PNADC, fonte das informações usadas pelo indicador, é uma pesquisa amostral e que, por isso, está sujeita a comportamentos aleatórios (por isso que se usa a média móvel de suas variações anuais)
+Notas Explicativas: Informações complementares necessárias à análise dos resultados, como indicações conjunturais, exceções, mudanças conceituais e metodológicas ao longo de uma série de coletas, condições específicas de cálculo, dentre outras que auxiliem uma melhor interpretação dos resultados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 409
+Indicador: 10961
+Denominação: Percentual de domicílios urbanos servidos por rede coletora ou fossa séptica para os excretas ou esgotos sanitários
+Sigla: E2
+Índice De Referência: 83.3
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Indicador mostra o percentual de domicílios que são atendidos por soluções adequadas para os esgotos domésticos e para os excretas sanitários. A principal solução urbana é a rede coleta de esgotos, mas também pode haver soluções alternativas como as fossas sépticas. Faz parte do conjunto de indicadores do Plansab para o componente Esgotamento Sanitário (junto com o E1 e E3).
+Período Ou Data A Que Se Refere: 31/12/2021
+Data De Divulgação/Disponibilização: 13/12/2022
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: E2 = Indicador de atendimento domiciliar de esgotamento sanitário urbano
+DRU = Total de domicílios urbanos servidos por Rede coletora ou pluvial
+DFU = Total de domicílios urbanos servidos por Fossas sépticas
+DTU – Total de domicílios urbanos
+
+(Número de domicílios urbanos servidos por rede coletora + Número de domicílios urbanos servidos fossa séptica para os excretas ou esgotos sanitários) / Total de domicílios urbanos
+Fonte De Dados Das Variáveis De Cálculo: IBGE - Censo e PNADC
+Forma De Disponibilização: Diagnóstico Temático de Abastecimento de Água e Esgotamento Sanitário - Visão Geral 
+(https://www.gov.br/mdr/pt-br/assuntos/saneamento/snis/produtos-do-snis/diagnosticos/diagnosticos_snis)
+Procedimento De Cálculo: Passo1: Construir a série histórica da PNAD/PNADC das variáveis de interesse;
+Passo2: Calcular as médias móveis das variações anuais relativas a quatro anos  (incluindo sempre o  ano de referência)
+Passo3: A partir de 2011,multiplicar o valor apurado em 2010 pelo resultado da média móvel até 2011;
+Passo4: Prosseguir com os anos seguintes.
+Limitações: Baixa participação dos prestadores e municípios no preenchimento dos dados durante a coleta do SINISA
+Notas Explicativas: Resultado completo do indicador publicado no Diagnóstico Técnico de Abstecimento de Água e Esgotamento Sanitário - Visão Geral
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 501
+Indicador: 10999
+Denominação: Porcentagem de municípios com planos de saneamento básico (SINISA)
+Sigla: PMSB
+Índice De Referência: 32.2
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Resultado apurado anualmente pelo SINISA por meio de formulário específico. A pergunta é feita diretamente aos municípios sobre a existência do Plano Municipal de Saneamento Básico, existência da Lei que o aprovou, metas, quais componentes contempla (água, esgoto, drenagem e resíduos sólidos), entre outras informações.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro do ano anterior a sua coleta
+Data De Divulgação/Disponibilização: Primeira quinzena do mês de dezembro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Plano Municipal de Saneamento Básico: instrumento de planejamento municipal da política de saneamento básico
+Componentes do saneamento básico: abastecimento de água, esgoto, drenagem urbana e manejo de águas pluviais, gestão de resíduos sólidos urbanos.
+Fonte De Dados Das Variáveis De Cálculo: Diagnósticos/relatórios anuais de Resíduos Sólidos Urbanos do Sistema Nacional de Informações em Saneamento Básico - SINISA
+Forma De Disponibilização: Diagnóstico Temático de Resíduos Sólidos - Visão Geral (https://www.gov.br/mdr/pt-br/assuntos/saneamento/snis/produtos-do-snis/diagnosticos/diagnosticos_snis)
+Procedimento De Cálculo: 1) Apuração das respostas encaminhadas no formulário especifico de coleta do Módulo Gestão Municipal do SINISA.
+Limitações: Respostas auto declaradas pelos municípios. Além disso, o formulário não pergunta sobre os aspectos da regulação, ele se limita a perguntar sobre planos municipais de saneamento.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Indicador: 10997
+Denominação: Proporção de Resíduos Sólidos Urbanos Coletados com destinação final adequada
+Sigla: ODS11.6.1
+Índice De Referência: 73.9
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Proporção de resíduos sólidos (resíduos sólidos urbanos: resíduos sólidos domiciliares + resíduos sólidos de limpeza pública) com destinação adequada, considerando a recuperação de resíduos sólidos recicláveis e orgânicos e a disposição em aterros sanitários, em relação à estimativa da massa coletada. Não inclui: resíduos públicos de saneamento básico; dos serviços de saúde; da construção civil; agrossilvopastoris; de serviços de transporte e de mineração. Indicador ODS 11.6.1
+Período Ou Data A Que Se Refere: Anual (1º de janeiro a 31 de dezembro do ano anterior a sua coleta)
+Data De Divulgação/Disponibilização: Primeira quinzena do mês de dezembro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1. Massa coletada: Estimativa da massa total de resíduos sólidos urbanos coletados (milhões de toneladas).
+1.1 Fonte: Diagnóstico SNIS
+1.2 Instituições: SNIS-RS/MCID
+2. Massa disposta em aterro sanitário: Estimativa da massa total de resíduos sólidos urbanos com disposição final em aterro sanitário (milhões de toneladas).
+2.1 Fonte: Diagnóstico SNIS
+2.2 SNIS-RS/MCID
+3. Massa recuperada de resíduos sólidos recicláveis secos: Estimativa da massa recuperada de resíduos sólidos recicláveis secos (milhões de toneladas).
+3.1 Fonte: Diagnóstico SNIS
+3.2 SNIS-RS/MCID
+4. Massa recuperada de resíduos sólidos recicláveis orgânicos: Massa recuperada de resíduos sólidos recicláveis orgânicos recebidas em unidades de processamento de   compostagem (milhões de toneladas).
+4.1 Fonte: Diagnóstico SNIS
+4.2 SNIS-RS/MCID
+5. Resíduos sólidos urbanos: resíduos sólidos domiciliares e resíduos sólidos de limpeza pública
+Fonte De Dados Das Variáveis De Cálculo: Diagnósticos anuais de Resíduos Sólidos Urbanos do Sistema Nacional de Informações sobre Saneamento - SNIS
+Forma De Disponibilização: Diagnóstico Temático de Resíduos Sólidos - Visão Geral (https://www.gov.br/mdr/pt-br/assuntos/saneamento/snis/produtos-do-snis/diagnosticos/diagnosticos_snis)
+Procedimento De Cálculo: 1) Obtenção de dados pela amostra do Sistema Nacional de Informações sobre Saneamento (SNIS), que é uma base de dados primários autodeclarados anualmente pelos prestadores de serviços de limpeza urbana e manejo de resíduos sólidos urbanos e consistidos pela equipe técnica do SNIS. 
+2) Cálculos de estimativa são realizados utilizando a população do IBGE (2010) corrigida pelo coeficiente de urbanização e os indicadores calculados pelo SNIS por macrorregiões.
+Notas Explicativas: Resultado completo do indicador publicado no Diagnóstico Técnico de Resíduos Sólidos Urbanos - Capítulo INDICADORES BRASILEIROS PARA OS OBJETIVOS DO DESENVOLVIMENTO SUSTENTÁVEL (ODS)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2322
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 14
+Enunciado: Ampliar o acesso da população aos serviços adequados de abastecimento de água no meio urbano
+Descrição: Apoio a ampliação do acesso e a melhoria da qualidade dos serviços de abastecimento de água em áreas urbanas, bem como à expansão da produção e da distribuição de água potável, visando a redução do déficit de acesso aos serviços de abastecimento de água
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 408
+Enunciado: Ampliar o acesso aos sistemas e às soluções alternativas de abastecimento de água no meio rural
+Descrição: Objetiva implantar, ampliar ou melhorar sistemas ou soluções alternativas de abastecimento de água, em áreas rurais, a fim de reduzir o déficit de acesso ao abastecimento de água. Assim, são realizadas atividades de fomento e financiamento a implantação e/ou a ampliação e/ou a melhoria de sistemas ou soluções de abastecimento de água em áreas rurais.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 409
+Enunciado: Ampliar o acesso da população aos serviços adequados de esgotamento sanitário no meio urbano
+Descrição: Apoio à ampliação dos serviços de coleta, tratamento e/ou disposição final adequada de esgotos sanitários para as áreas urbanas de todos os municípios, bem como à expansão da produção da água de reuso e do tratamento de esgotos, visando a redução do déficit de atendimento adequado dos serviços de esgotamento sanitário
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 498
+Enunciado: Ampliar o acesso aos sistemas e às soluções alternativas de esgotamento sanitário no meio rural
+Descrição: Objetiva implantar, ampliar ou melhorar sistemas ou soluções alternativas de esgotamento sanitário, em áreas rurais, a fim de reduzir o déficit de acesso ao atendimento adequado de esgotamento sanitário. Assim, são realizadas atividades de fomento e financiamento a implantação e/ou a ampliação e/ou a melhoria de sistemas ou soluções de esgotamento sanitário em áreas rurais.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 499
+Enunciado: Diminuir o risco de inundações através da implantação, ampliação ou melhoria dos sistemas de drenagem urbana e manejo de águas pluviais
+Descrição: Objetiva apoiar a implantação, ampliação ou melhoria dos sistemas de drenagem urbana e manejo de águas pluviais, visando a diminuição do risco de inundações nas cidades brasileiras.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 500
+Enunciado: Ampliar o acesso da população aos serviços adequados de manejo de resíduos sólidos e limpeza urbana
+Descrição: Investimentos para o aumento da cobertura de coleta seletiva regular com a participação das cooperativas de catadores de materiais recicláveis, bem como o fomento ao tratamento e a disposição final ambientalmente adequada, oportunizando soluções para erradicação dos lixões.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Objetivo Específico: 501
+Enunciado: Melhorar a capacidade institucional dos titulares, prestadores e reguladores dos serviços públicos de saneamento básico
+Descrição: Consiste em apoio para a melhoria da capacidade institucional do município em gerir a política de saneamento básico.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2322
+
+Exercício: 2025
+Programa: 2322
+Objetivo: 1256
+Enunciado: Ampliar o acesso e melhorar a qualidade das ações e dos serviços de saneamento básico nas áreas urbanas e rurais, visando a universalização e a integração entre as políticas públicas relacionadas, segundo os princípios da equidade, integralidade e sustentabilidade
+Descrição: O Plano Nacional de Saneamento Básico – PLANSAB propõe metas, estimando a necessidade de investimentos para alcançá-las, diretrizes e estratégias e programas de investimentos federais no setor. A partir dele, propõe-se o Programa Saneamento Básico com o objetivo de almejar a universalização com equidade e integralidade, em áreas urbanas e rurais, com atenção especial à gestão dos serviços.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2322
+
+Exercício: 2025
+Programa: 2322
+Título: Saneamento Básico
+Tipo: Finalístico
+Órgão: 56000.0
+Público-Alvo: População brasileira sem acesso aos serviços adequados de saneamento básico
+Descrição Do Problema: A ausência de serviços adequados de saneamento expõe a população a condições insalubres e leva à degradação ambiental. A falta de saneamento tem impacto direto na saúde púbica, estando relacionada à proliferação de doenças parasitárias e infecciosas, contrinbuindo para o aumento nos índices de morbimortalidade e nos custos de atenção à saúde, além de estar diretamente relacionada a processos de degradação ambiental, e, portanto, à redução da qualidade de vida e ao aumento da desigualdade social, com impacto direto na atividade econômica.
+Causa Do Problema: Déficit de oferta e acesso a serviços adequados de saneamento básico;
+Gestão e prestação deficientes dos serviços de saneamento básico;
+Baixo nível de investimentos;
+Falhas na formulação, na implementação e na avaliação das políticas públicas;
+Baixo envolvimento e consciência da população sobre saúde ambiental;
+Baixa participação e controle social na gestão da política de saneamento básico.
+Evidências Do Problema: O Plansab traz um diagnóstico do setor para as diversas componentes do saneamento básico. Verifica-se, a partir dos índices de atendimento dos serviços de saneamento básico à população do Brasil, que o alcance desses serviços tem sido gradativamente ampliado, embora ainda existam grandes desafios a serem superados.
+Segundo o modelo conceitual do Plansab, o atendimento e o déficit, por população e domicílios, por componente do saneamento básico no Brasil, em 2017, é o apresentado na tabela abaixo:
+1. Abastecimento de água
+1.1 Atendimento adequado: 118.801.000 habitantes ou 40.135.000 domicílios
+1.2. Atendimento precário: 81.687.000 habitantes ou 27.596.000 domicílios
+1.3. Sem atendimento: 5.626.000 habitantes ou 1.900.000 domicílios
+
+2. Esgotamento sanitário
+2.1 Atendimento adequado: 99.037.000 habitantes ou 33.458.000 domicílios
+2.2. Atendimento precário: 100.337.000 habitantes ou 33.897.000 domicílios
+2.3. Sem atendimento: 6.740.000 habitantes ou 2.277.000 domicílios
+
+3. Limpeza Urbana e Manejo de Resíduos Sólidos
+3.1 Atendimento adequado: 133.828.000 habitantes ou 45.212.000 domicílios
+3.2. Atendimento precário: 51.619.000 habitantes ou 17.438.000 domicílios
+3.3. Sem atendimento: 20.667.000 habitantes ou 6.982.000 domicílios
+Justificativa Para A Intervenção: As intervenções em saneamento geram externalidades positivas em relação à saúde pública, meio ambiente, qualidade de vida e produtividade econômica. 
+O abastecimento de água é vital para a sobrevivência humana e para viabilizar um amplo conjunto de atividades produtivas. 
+A ausência de soluções adequadas para a coleta e tratamento desses esgotos, resulta, por sua vez, em condições precárias de saneamento, favorecendo a proliferação de doenças parasitárias e infecciosas e causando a degradação dos corpos hídricos. Assim, o afastamento e tratamento dos esgotos sanitários são fundamentais para resguardar a saúde pública e preservar o meio ambiente, melhorando, assim, a qualidade de vida da população. 
+No caso dos resíduos sólidos, o crescimento acelerado e desordenado das cidades brasileiras, associado ao consumo, em larga escala, de produtos industrializados e descartáveis, tem causado um aumento excessivo na quantidade de resíduos sólidos domiciliares das áreas urbanas e rurais, com impacto na saúde e no meio ambiente.
+Evolução Histórica: Verifica-se, a partir dos índices de atendimento dos serviços de saneamento básico à população do Brasil, que o alcance desses serviços tem sido gradativamente ampliado, embora ainda existam grandes desafios a serem superados. Quando comparamos os dados atuais de cobertura, referentes a 2017, com os dados coletados pelo Censo 2010, nota-se um importante avanço no percentual da população que conta com algum nível de atendimento. Em relação ao abastecimento de água, observa-se uma redução do percentual de pessoas sem atendimento de 6,8% para 2,7%; no esgotamento sanitário, um decréscimo de 9,6% para 3,3%; e para o manejo de resíduos sólidos, uma diminuição de 14,2% para 10,0%. Observa-se que, das três componentes, apenas para o esgotamento sanitário o atendimento adequado se encontra em um patamar a 50%, com 48,0%. Relativamente ao abastecimento de água potável e ao manejo de resíduos sólidos, o atendimento adequado situa-se num patamar superior a 50,0%, atingindo 64,9%, no caso do manejo de resíduos sólidos, e 57,7%, no caso do abastecimento de água potável.
+Comparações Internacionais: Dados de 2015 compilados pelo UNICEF e pela OMS colocam o Brasil numa posição confortável no que diz respeito ao acesso ao abastecimento de água, em termos globais. Quando analisada a América Latina e o Caribe, num total de 46 países, o Brasil encontra-se em 17ª colocação, atrás de nações como Chile, Argentina, Paraguai, Uruguai e México. 
+Já em relação ao esgotamento sanitário, dado o elevado déficit em termos de cobertura da coleta e do tratamento dos efluentes, a situação brasileira é mais grave: em comparação a outros países da América Latina e Caribe, o Brasil ocupa a 33ª posição para o mesmo conjunto de nações analisadas pela OMS/UNICEF.
+Relação Com Os Ods: Objetivo 6. Água Potável e Saneamento (Assegurar a disponibilidade e a gestão sustentável da água e saneamento para todos)
+Objetivo 11. Cidades e Comunidades Sustentáveis (Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis).
+Agentes Envolvidos: SNSA/MCIDADES, CODEVASF, DNOCS, SUDAM, SUDENE, Prestadores de Serviços, Bancos Públicos, Agências de Fomento, Estados e Municípios, ANA e Agências Reguladoras subnacionais.
+Articulação Federativa: No Brasil, a formulação e a execução de ações de saneamento básico envolvem, historicamente, complexas relações federativas, nas quais se observam iniciativas de cooperação ou de concorrência, entre os órgãos e entidades da União, dos Estados, do Distrito Federal e dos Municípios. 
+Embora prevaleça o entendimento de que a titularidade dos serviços seja dos Municípios, a Constituição estabelece que a melhoria das condições de saneamento é competência comum da União, dos Estados, do Distrito Federal e dos Municípios. 
+Os Órgãos da União atualmente possuem competências no âmbito do Saneamento Básico são o Ministério das Cidades, o Ministério do Meio Ambiente (ao qual a ANA é vinculada), a Ministério da Integração e Desenvolvimento Regional (ao qual a CODEVASF é vinculada), o Ministério da Saúde, o Ministério da Cidadania. 
+Assim sendo, há uma multiplicidade de atores atuando com o tema, o que denota uma fragmentação institucional. Portanto, a cooperação federativa é estratégica e representa um desafio constante a ser vencido para a implementação da Política Pública de Saneamento Básico.
+Enfoque Transversal: O saneamento, originalmente, fundamenta-se na promoção de ações que busquem a melhoria das condições de saúde. Mais recentemente, a noção de saneamento passa a incorporar questões que vão além dos aspectos sanitários, agregando a dimensão ambiental, com destaque à importância das intervenções para a preservação e a conservação do meio ambiente, e para o desenvolvimento urbano, evidenciando-se seu papel na indução do desenvolvimento sustentável e, por conseguinte, na melhoria da qualidade de vida da população brasileira e na garantia da preservação dos recursos naturais para as gerações futuras. 
+Sob essa lógica de intersetorialidade, os serviços de saneamento devem ser concebidos em articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza, de proteção ambiental, de recursos hídricos, de promoção da saúde, de educação ambiental, prevenção às mudanças climáticas e outras de relevante interesse social voltadas para a melhoria da qualidade de vida.
+Marco Legal: Lei nº 11.445/2007, Decreto nº 7.217/10, Lei nº 12.305/10, Decreto nº 7.404/10; Lei nº 10.257/01; Decreto n° 8.141/2013; Portaria Interministerial n° 571/2013.
+Planos Nacionais, Setoriais E Regionais: Segundo a Lei n.º 11.445/2007, é de responsabilidade da União a elaboração do Plansab e dos planos regionais de saneamento para as RIDE. A versão original do Plansab, principal instrumento da política pública nacional de saneamento básico, foi elaborada pelo Governo Federal em amplo processo participativo e em total consonância com a Lei de Diretrizes Nacionais para o Saneamento Básico. O Plansab está em fase de revisão, conforme determina a legislação. Os planos regionais de saneamento sob responsabilidade da União estão em sua fase final de elaboração, e compreendem o Plano da Região Integrada de Desenvolvimento do Distrito Federal e Entorno, da Região Integrada de Desenvolvimento da Grande Teresina e da Região Integrada de Desenvolvimento do Polo Petrolina e Juazeiro. O planejamento do titular também é ponto fundamental da Lei n.º 11.445/2007, que estabelece que estes entes devem elaborar planos de saneamento. Dados de 2017 indicam que apenas 28,7% dos municípios possuem planos municipais de saneamento básico.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

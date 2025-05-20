@@ -1,0 +1,654 @@
+passage: Programa Número 4101
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 24
+Entrega: 30
+Indicador: 8809
+Denominação: Índice Básico de Acessibilidade Presencial (Índice composto a partir da Seção 3 da Pesquisa Anual de Museus – PAM)
+Sigla: IBA
+Índice De Referência: 87.5
+Em Apuração: Não
+Data De Apuração: 2023-07-12 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Índice Básico de acessibilidade, composto a partir da Seção 3 da Pesquisa Anual de Museus – PAM, considerando o seguinte conjunto:
+ P 3.1 - Aberto
+ P 3.2 - Aberto nos finais de semana
+ P 3.3 - Aberto ao público geral
+ P 3.4 - Entrada não cobrada
+ P 3.5 - Bebedouro, estacionamento, sanitário
+ P 3.6 - Recursos para atendimento a turistas estrangeiros
+ P 3.7 - Infraestrutura para visitantes com dificuldade de locomoção
+ P 3.8 - Instalações para pessoas com deficiências auditivas e visuais
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Índice Básico de acessibilidade, composto a partir da Seção 3 da Pesquisa Anual de Museus – PAM, considerando o seguinte conjunto:
+ P 3.1 - Aberto
+ P 3.2 - Aberto nos finais de semana
+ P 3.3 - Aberto ao público geral
+ P 3.4 - Entrada não cobrada
+ P 3.5 - Bebedouro, estacionamento, sanitário
+ P 3.6 - Recursos para atendimento a turistas estrangeiros
+ P 3.7 - Infraestrutura para visitantes com dificuldade de locomoção
+ P 3.8 - Instalações para pessoas com deficiências auditivas e visuais
+Fonte De Dados Das Variáveis De Cálculo: Fonte: Pesquisa Anual de Museus - PAM do Cadastro Nacional de Museus - CNM
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Entrega: 1486
+Indicador: 10644
+Denominação: Nº de ações desenvolvidas
+Em Apuração: Não
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: 1/01 a 31/12 do ano de apuração
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº de ações desenvolvidas para a promoção do uso saudável de telas e dispositivos digitais por crianças e adolescentes
+Fonte De Dados Das Variáveis De Cálculo: Dados da Secretaria de Políticas Digitais da SECOM-PR
+Forma De Disponibilização: Relatórios administrativos
+Procedimento De Cálculo: Contagem simples das ações realizadas no período
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Entrega: 1483
+Indicador: 10639
+Denominação: Nº de bolsistas contemplados por editais da área
+Sigla: NBEM
+Em Apuração: Não
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: 1/01 a 31/12 do ano de apuração
+Data De Divulgação/Disponibilização: 6 meses após a data a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NBEM = nº de bolsistas contemplados por editais da área de educação midiática
+Fonte De Dados Das Variáveis De Cálculo: SIGPET (SESU/MEC)
+Forma De Disponibilização: Relatórios
+Procedimento De Cálculo: Contagem simples do nº de bolsistas contemplados por editais da área de educação midiática
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Entrega: 1462
+Indicador: 10605
+Denominação: Nº de profissionais da educação formados
+Sigla: NPE
+Em Apuração: Não
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: 1/01 a 31/12 do ano de apuração
+Data De Divulgação/Disponibilização: 60 dias após a data a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPE = profissionais do magistério e demais profissionais da educação aprovados no curso de educação midiática que será disponibilizado no Ambiente Virtual de Aprendizagem do Ministério da Educação (MEC)
+Fonte De Dados Das Variáveis De Cálculo: AVAMEC (MEC)
+Forma De Disponibilização: Relatório de extração de dados do AVAMEC
+Procedimento De Cálculo: Contagem simples
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Entrega: 1489
+Indicador: 10648
+Denominação: Nº de trabalhadores do SUS qualificados
+Sigla: NTS
+Em Apuração: Não
+Unidade De Medida: unidade
+Período Ou Data A Que Se Refere: 1/01 a 31/12 do ano de apuração
+Data De Divulgação/Disponibilização: 30 dias
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NTS = N. de trabalhadores do SUS qualificados (número de inscritos que concluíram o curso/módulo ofertado pelas plataformas educacionais do Ministério da Saúde)
+Fonte De Dados Das Variáveis De Cálculo: Dados das plataformas educacionais do Ministério da Saúde
+Forma De Disponibilização: Relatórios com dados extraídos das plataformas educacionais do Ministério da Saúde
+Procedimento De Cálculo: soma dos trabalhadores de saúde que concluíram os cursos de combate à desinformação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 24
+Entrega: 29
+Indicador: 8808
+Denominação: Número de atividades de difusão cultural realizadas
+Sigla: ATIVA
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-07-13 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de atividades de difusão cultural realizadas, considerando o seguinte conjunto: (i) Concurso do Museu; (ii) Exposições temporárias; e (iii) Eventos diversos, tais como encontro das Associações Brasileiras de Imprensas Oficiais - ABIO, feira do livro, uso do Auditório.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Atividades de difusão cultural realizadas, considerando o seguinte conjunto:
+ (i) CM = Concurso do Museu; 
+ (ii) ET = Exposições temporárias; e 
+ (iii) ED = Eventos diversos, tais como encontro das Associações Brasileiras de Imprensas Oficiais - ABIO, feira do livro, uso do Auditório.
+Fonte De Dados Das Variáveis De Cálculo: Registros de atividades de difusão cultural
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 24
+Entrega: 28
+Indicador: 8807
+Denominação: Número de exposições realizadas
+Sigla: EXPO
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-07-13 00:00:00
+Unidade De Medida: eventos realizados
+Descrição: Número de exposições realizadas para fomentar a divulgação do acervo cultural da Imprensa Nacional
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = "Número de parcerias firmadas"
+Fonte De Dados Das Variáveis De Cálculo: Registros de parcerias
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 25
+Entrega: 31
+Indicador: 8811
+Denominação: Número de serviços gráficos realizados para a Administração Pública Federal
+Sigla: NOS
+Índice De Referência: 507.0
+Em Apuração: Não
+Data De Apuração: 2023-07-13 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de ordens de serviços gráficos estratégicos registrados para Administração Pública Federal (impressão de documentos oficiais, livros, cartilhas e outros materiais informativos). Esse indicador mede a produção da Imprensa Nacional e sua capacidade de atender à demanda da Administração Pública.
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: OSG = "Ordens de Serviços Gráficos"
+Fonte De Dados Das Variáveis De Cálculo: Sistema de gestão de ordens de serviços, onde todas as ordens são registradas e contabilizadas.
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 47
+Entrega: 51
+Indicador: 8869
+Denominação: Percentual da população coberta com sinal aberto de TV Digital
+Índice De Referência: 57.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: porcentagem
+Descrição: Demonstra o avanço liquido da radiodifusão na plataforma TV, ou seja, percentual de população com cobertura de sinal de TV Aberta Digital.
+Período Ou Data A Que Se Refere: último dia do mês após o fechamento do trimestre, de forma acumulada
+Data De Divulgação/Disponibilização: no primeiro dia do mês subsequente ao fechamento do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Localização por meio de coordenadas geográficas, altura da antena, canal e frequência de transmissão, potência do transmissor, perdas no sistema, ganho da antena, diagrama de irradiação da antena, modo do sistema ISDB-Tb (Integrated Services Digital Broadcasting/Serviço Integrado de Transmissão Digital), modulação, FEC (Frequência Equivalente de Interrupção por Unidade Consumidora).
+Forma De Disponibilização: Para calcular a área de cobertura dos sinais de radiodifusão, é utilizado a ferramenta Progira Plan, software que utiliza métodos de propagação como o CRC-Predict e o método Dyego-Assis (métodos de propagação de ondas eletromagnéticas). Esses modelos empregam uma abordagem ponto-a-ponto, levando em consideração tanto o local da transmissão quanto os múltiplos pontos potenciais de recepção. Além disso, são incorporados os cálculos para determinar a potência de cada estação, conforme especificado nos Atos Anatel Nº 8104, de 10 de junho de 2022, para serviços de Rádio FM, e Nº 9751, de 06 de julho de 2022, para serviços de televisão.
+Procedimento De Cálculo: Inicia-se o processo reunindo todas as variáveis essenciais para o estudo, incluindo coordenadas geográficas, altura do centro de irradiação (HCI), perdas do sistema, diagrama e ganho da antena de transmissão, potência do transmissor e modulação. Com esses dados em mãos, insere-se as variáveis no software Progira Plan para realizar a previsão da cobertura, que consiste em mapear a área estimada a ser atendida pelo sinal. Uma vez definida a área de cobertura, procede-se com a estimativa da população atendida pela estação de transmissão com base no censo IBGE 2010 (será atualizado para novo censo quando os dados forem disponibilizados no software).
+PROGIRA PLAN é um software de planejamento de espectro que auxilia no estudo para projetos, implantação e otimização das redes de serviços de radiofrequências. Com o software, é possível fazer a predição da área de cobertura dos serviços de Rádio FM e TV Digital (padrão brasileiro ISDB-Tb).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 47
+Entrega: 50
+Indicador: 8868
+Denominação: Percentual da população coberta com sinal terrestre de Rádio FM
+Índice De Referência: 25.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentagem
+Descrição: Demonstra o avanço liquido da radiodifusão na plataforma Rádio, ou seja, percentual de população com cobertura de sinal de Rádio em FM.
+Período Ou Data A Que Se Refere: último dia do mês após o fechamento do trimestre, de forma acumulada
+Data De Divulgação/Disponibilização: no primeiro dia do mês subsequente ao fechamento do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Localização por meio de coordenadas geográficas, altura da antena, canal e frequência de transmissão, potência do transmissor, perdas no sistema, ganho da antena, diagrama de irradiação da antena, modo do sistema ISDB-Tb (Integrated Services Digital Broadcasting/Serviço Integrado de Transmissão Digital), modulação, FEC (Frequência Equivalente de Interrupção por Unidade Consumidora).
+Forma De Disponibilização: Para calcular a área de cobertura dos sinais de radiodifusão, é utilizado a ferramenta Progira Plan, software que utiliza métodos de propagação como o CRC-Predict e o método Dyego-Assis (métodos de propagação de ondas eletromagnéticas). Esses modelos empregam uma abordagem ponto-a-ponto, levando em consideração tanto o local da transmissão quanto os múltiplos pontos potenciais de recepção. Além disso, são incorporados os cálculos para determinar a potência de cada estação, conforme especificado nos Atos Anatel Nº 8104, de 10 de junho de 2022, para serviços de Rádio FM, e Nº 9751, de 06 de julho de 2022, para serviços de televisão.
+Procedimento De Cálculo: Inicia-se o processo reunindo todas as variáveis essenciais para o estudo, incluindo coordenadas geográficas, altura do centro de irradiação (HCI), perdas do sistema, diagrama e ganho da antena de transmissão, potência do transmissor e modulação. Com esses dados em mãos, insere-se as variáveis no software Progira Plan para realizar a previsão da cobertura, que consiste em mapear a área estimada a ser atendida pelo sinal. Uma vez definida a área de cobertura, procede-se com a estimativa da população atendida pela estação de transmissão com base no censo IBGE 2010 (será atualizado para novo censo quando os dados forem disponibilizados no software).
+PROGIRA PLAN é um software de planejamento de espectro que auxilia no estudo para projetos, implantação e otimização das redes de serviços de radiofrequências. Com o software, é possível fazer a predição da área de cobertura dos serviços de Rádio FM e TV Digital (padrão brasileiro ISDB-Tb).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Entrega: 1471
+Indicador: 10621
+Denominação: Percentual de editais prevendo obras com conteúdos na temática de Educação Midiática
+Sigla: PEEM
+Em Apuração: Não
+Unidade De Medida: porcentagem (%)
+Período Ou Data A Que Se Refere: 1/01 a 31/12 do ano de apuração
+Data De Divulgação/Disponibilização: 30 dias
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PEEM= Percentual de editais prevendo obras com conteúdos na temática de Educação Midiática
+EEM = Número de editais prevendo obras com conteúdos na temática de Educação Midiática
+ET= Número total de editais
+Fonte De Dados Das Variáveis De Cálculo: Coordenação-Geral de Materiais Didáticos da SEB/MEC
+Forma De Disponibilização: Relatório administrativo da Coordenação-Geral de Materiais Didáticos da SEB/MEC
+Procedimento De Cálculo: Dividir a parte que queremos medir pelo todo e multiplicar por 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 21
+Entrega: 26
+Indicador: 8804
+Denominação: Percentual de resultados buscados e encontrados com êxito
+Sigla: BEXIT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Percentual de buscas efetuadas nos canais de acesso às informações oficiais publicadas no DOU que satisfazem a demanda do usuário
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: BEXIT = "Buscas com retorno exitoso"
+B = "Buscas efetuadas"
+Fonte De Dados Das Variáveis De Cálculo: Método de Coleta de dados: Por meio de informações a serem disponibilizadas por ferramentas de extração de dados.
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 21
+Entrega: 25
+Indicador: 8803
+Denominação: Percentual de tempo de disponibilidade dos canais (Portal, APP)
+Sigla: TDISP
+Índice De Referência: 99.9999
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual alcançado
+Descrição: Percentual de tempo que os canais de acesso às informações oficiais publicadas no DOU (Portal, APP) permanecem disponíveis aos usuários
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: TD = "Tempo Disponível"
+TT = "Tempo Total"
+Fonte De Dados Das Variáveis De Cálculo: Método de Coleta de dados: Extração das informações das ferramentas de monitoramento do Portal e APP
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Entrega: 1465
+Indicador: 10610
+Denominação: Percentual de UFs que receberam apoio técnico à implementação da Educação Midiática nas políticas do programa Escola em Tempo Integral
+Em Apuração: Não
+Unidade De Medida: percentual %
+Descrição: Será oferecido apoio técnico, por meio de webinários, para as Secretarias de Educação das cinco regiões do país para incentivar a implementação da Educação Midiática nas políticas do programa Escola em Tempo Integral.
+Período Ou Data A Que Se Refere: 1/01 a 31/12 do ano de apuração
+Data De Divulgação/Disponibilização: até 30 dias após a data a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NSEW = Nº de secretarias estaduais da educação participantes dos webinários
+Denominador = 27 (n. total de secretarias estaduais de  educação existente no país)
+Fonte De Dados Das Variáveis De Cálculo: Relatórios administrativos (lista de presença) da DDEM/SPDIGI/SECOM-PR, que vai realizar os webinários.
+Forma De Disponibilização: Lista de presença dos webinários
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4101
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 24
+Indicador: 8806
+Denominação: Número de acessos ao acervo cultural da Imprensa Nacional
+Sigla: IINCULT
+Índice De Referência: 49356.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mede o quantitativo de acessos à biblioteca digital, biblioteca física, museu digital e museu físico. A biblioteca digital é composta por diversos documentos e publicações produzidas pela Imprensa Nacional ao longo de sua história.
+A expectativa de crescimento é de 6% anualmente; portanto, esperamos os seguintes números:
+(i) Final de 2024 ==> 52.317
+(ii) Final de 2025 ==> 55.456
+(iii) Final de 2026 ==> 58.783
+(iv) Final do PPA ==> 62.311
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: BD = Total de acessos (visitantes) à biblioteca digital da Imprensa Nacional 
+BF = Total de acessos (visitantes) à biblioteca física da Imprensa Nacional 
+MD = Total de acessos (visitantes) ao museu digital da Imprensa Nacional 
+MF = Total de acessos (visitantes) ao museu físico da Imprensa Nacional
+Fonte De Dados Das Variáveis De Cálculo: A coleta de dados pode ser feita por meio de contagem manual (presencial) ou automática (virtual). A contagem pode ser pelo registro identificado no livro de visitantes que entram no museu e na biblioteca a cada período definido. A contagem automática pode ser feita usando contadores de acesso aos sites específicos do museu e da biblioteca
+Forma De Disponibilização: Planejamento Estratégico da Instituição
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 25
+Indicador: 8810
+Denominação: Número de Órgãos e Entidades da Administração Pública Federal Atendidos com Serviços Gráficos
+Sigla: NAPF
+Índice De Referência: 15.0
+Em Apuração: Não
+Data De Apuração: 2023-07-13 00:00:00
+Unidade De Medida: número absoluto
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ESG = "Total de entregas de Serviços Gráficos do período"
+ESGLB = "Total de entregas de Serviços Gráficos até a linha de base"
+Fonte De Dados Das Variáveis De Cálculo: Método de coleta de dados: mensurar as ordens de serviços geradas
+Forma De Disponibilização: Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo Matemático
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Indicador: 10595
+Denominação: Número de profissionais capacitados em educação midiática
+Sigla: NPEM
+Em Apuração: Sim
+Unidade De Medida: profissional capacitado
+Descrição: Este indicador reunirá dados dos ministérios da Saúde (trabalhadores do SUS capacitados no enfrentamento à desinformação) e da Educação (profissionais da educação capacitados em educação midiática)
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 60 dias
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPEM = Número de profissionais capacitados em educação midiática
+NTS = número de trabalhadores do SUS qualificados por meio curso de enfrentamento à desinformação 
+NPE = profissionais do magistério e demais profissionais da educação aprovados no curso de educação midiática que será disponibilizado no Ambiente Virtual de Aprendizagem do Ministério da Educação (MEC)
+Fonte De Dados Das Variáveis De Cálculo: NPE será extraído do AVAMEC (MEC)
+NTS será extraído das plataformas educacionais do Ministério da Saúde
+Forma De Disponibilização: NPE - Relatório com extração de dados do AVAMEC
+NTS - relatório gerados das plataformas educacionais do Ministério da Saúde
+Procedimento De Cálculo: Somatório do número de trabalhadores do SUS e profissionais do magistério e demais profissionais da educação capacitados em educação midiática.
+Notas Explicativas: A depender do alcance dos cursos, este indicador poderá ser transformado em percentual (número de profissionais da saúde e do magistério formados em educação midiática dividido pelo número de total de profissionais que passaram por cursos de formação)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 47
+Indicador: 8870
+Denominação: Percentual de população coberta com sinal de radiodifusão pública (TV Digital e Rádio FM)
+Índice De Referência: 23.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Demonstra o avanço liquido da radiodifusão em ambas as plataformas, TV Digital e Rádio FM, ou seja, percentual de população com cobertura de sinal dos dois veículos.
+Período Ou Data A Que Se Refere: último dia do mês de fechamento do trimestre, de forma acumulada
+Data De Divulgação/Disponibilização: no primeiro dia do mês subsequente ao fechamento do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Localização por meio de coordenadas geográficas, altura da antena, canal e frequência de transmissão, potência do transmissor, perdas no sistema, ganho da antena, diagrama de irradiação da antena, modo do sistema ISDB-Tb (Integrated Services Digital Broadcasting/Serviço Integrado de Transmissão Digital), modulação, FEC (Frequência Equivalente de Interrupção por Unidade Consumidora).
+Forma De Disponibilização: Para calcular a área de cobertura dos sinais de radiodifusão, é utilizado a ferramenta Progira Plan, software que utiliza métodos de propagação como o CRC-Predict e o método Dyego-Assis (métodos de propagação de ondas eletromagnéticas). Esses modelos empregam uma abordagem ponto-a-ponto, levando em consideração tanto o local da transmissão quanto os múltiplos pontos potenciais de recepção. Além disso, são incorporados os cálculos para determinar a potência de cada estação, conforme especificado nos Atos Anatel Nº 8104, de 10 de junho de 2022, para serviços de Rádio FM, e Nº 9751, de 06 de julho de 2022, para serviços de televisão
+Procedimento De Cálculo: Inicia-se o processo reunindo todas as variáveis essenciais para o estudo, incluindo coordenadas geográficas, altura do centro de irradiação (HCI), perdas do sistema, diagrama e ganho da antena de transmissão, potência do transmissor e modulação. Com esses dados em mãos, insere-se as variáveis no software Progira Plan para realizar a previsão da cobertura, que consiste em mapear a área estimada a ser atendida pelo sinal. Uma vez definida a área de cobertura, procede-se com a estimativa da população atendida pela estação de transmissão com base no censo IBGE 2010 (será atualizado para novo censo quando os dados forem disponibilizados no software).
+PROGIRA PLAN é um software de planejamento de espectro que auxilia no estudo para projetos, implantação e otimização das redes de serviços de radiofrequências. Com o software, é possível fazer a predição da área de cobertura dos serviços de Rádio FM e TV Digital (padrão brasileiro ISDB-Tb).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 21
+Indicador: 8796
+Denominação: Taxa de satisfação do usuário com os canais de acesso às informações oficiais publicadas no DOU (Portal e APP)
+Sigla: TSU
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Taxa de satisfação do usuário com os canais de acesso às informações oficiais publicadas no DOU (Portal e APP)
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: 1a Reunião de Avaliação Estratégica do ano posterior a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: US = "Número de usuários satisfeitos com os canais de acesso"
+UT = "Número total de usuários que acessam o DOU"
+Fonte De Dados Das Variáveis De Cálculo: Questionários online
+Entrevistas telefônicas ou presenciais
+Forma De Disponibilização: Reuniões de Avaliação Estratégica do Planejamento Estratégico da Imprensa Nacional
+Procedimento De Cálculo: Cálculo matemático
+Notas Explicativas: Método de coleta de dados: Por meio de questionários online, entrevistas telefônicas ou presenciais avaliar a satisfação dos usuários do DOU sobre a facilidade de acesso, a qualidade da informação, a velocidade de publicação, e demais aspectos relacionados aos canais de acesso. 
+
+Meta: Aumentar a taxa de satisfação dos usuários com os canais de acesso em 7%.
+
+Importância: Este indicador mede a qualidade dos canais de acesso às informações oficiais publicadas no DOU e reflete a eficácia da IN em fornecer informações claras e acessíveis ao público. Por meio dele é possível monitorar o desempenho dos canais de acesso e identificar oportunidades para melhorias, garantindo a transparência e a disseminação de informações oficiais de forma ampla e eficiente.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4101
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 21
+Enunciado: Melhorar os canais de acesso às informações oficiais
+Descrição: Melhorar os canais de acesso às informações oficiais
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 24
+Enunciado: Promover o Conhecimento Público do Acervo Histórico-Bibliográfico da Imprensa Nacional
+Descrição: Promover o Conhecimento Público do Acervo Histórico- Bibliográfico da IN
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 25
+Enunciado: Ampliar a prestação de serviços gráficos estratégicos
+Descrição: Prestar serviços gráficos estratégicos com cada vez mais economicidade e celeridade por atuação colaborativa
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 47
+Enunciado: Expandir a Radiodifusão Pública
+Descrição: Expandir a radiodifusão pública com sinais de Rádio FM e TV Digital, por meios próprios e/ou pela Rede Nacional de Comunicação Pública - RNCP
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Objetivo Específico: 451
+Enunciado: Qualificar o ambiente informacional, a partir da promoção da educação midiática.
+Descrição: Apesar de o ambiente digital ter possibilitado novos espaços de participação e oportunidades, a disseminação das plataformas de redes sociais trouxe mudanças estruturais no meio comunicacional, que passou, nos últimos anos, a ser inundado por conteúdos desinformativos. Dados o volume e a velocidade de postagens nocivas - muitas vezes orquestrada, financiada por grupos coordenados com objetivos políticos e/ou econômicos específicos - a desinformação desorganiza a capacidade da sociedade de interpretar a realidade, fragmenta as audiências e o debate público e ameaça o consenso sobre fatos, sobre a ciência e sobre o próprio conhecimento. Os desafios mencionados quanto ao ambiente digital apontam para a urgência de se formular e implementar políticas públicas específicas, com foco no desenvolvimento de competências para que todas as pessoas possam interagir e produzir conteúdos digitais de forma consciente, responsável e cidadã. A educação midiática, ainda que não seja capaz de curar todos os males das relações humanas mediadas pela Internet, pode desempenhar um papel crucial nesse contexto.
+Se as novas tecnologias de comunicação digital têm permitido encontrar rapidamente informações sobre qualquer assunto em poucos segundos, é pacificado o entendimento da necessidade de aprender a lidar com esse volume sem precedentes de informações. A Organização das Nações Unidas, por exemplo, pontua em seu recente Comentário Geral nº 25 sobre os Direitos das Crianças em relação ao ambiente digital sobre a importância do uso pleno e qualificado das tecnologias, entendendo que os conteúdos são elaborados por indivíduos com uma agenda de interesses específicos e que devem, portanto, ser recepcionados de forma crítica.
+Órgão: 20000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 4101
+
+Exercício: 2025
+Programa: 4101
+Objetivo: 1265
+Enunciado: Ampliar o acesso da sociedade a informações publicas e governamentais, assegurando-lhes transparência, credibilidade e representatividade, para fortalecer a cidadania e a participação social.
+Descrição: No caso da Imprensa Nacional, os valores sociais a serem gerados por este Objetivo são a universalização aos atos oficiais, a preservação da memória e a prestação de serviços gráficos estratégicos.
+
+A Empresa Brasil de Comunicação - EBC, com este Objetivo Específico busca a ampliação do alcance do sinal das plataformas da EBC por meio da multiprogramação com natureza educativa, artística, cultural, informativa e científica, de forma a contribuir para a formação crítica das pessoas; atender ao relevante interesse público; e cumprir sua finalidade no que tange a complementariedade dos sistemas privado, público e estatal de comunicação, com credibilidade e respeito à cidadania e à democracia.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 4101
+
+Exercício: 2025
+Programa: 4101
+Título: Comunicação Pública e Governamental
+Tipo: Finalístico
+Órgão: 20000.0
+Público-Alvo: População Brasileira.
+Descrição Do Problema: Falta de recursos para melhorar a infraestrutura física e de tecnologia da informação que possibilite à Imprensa Nacional levar o Diário Oficial da União a todos os rincões do País de forma célere, segura e certificada digitalmente, bem como divulgar o acervo cultural.
+Na área gráfica, também faltam investimentos que otimizem a prestação de serviços gráficos estratégicos para a melhor comunicação dos programas sociais governamentais.
+Além disso, atualmente existe uma baixa efetividade na difusão de conteúdos que contribuam para a formação crítica das pessoas, ocasionado, entre outros fatores, pelo reduzido alcance do sinal das plataformas de TV Digital e Rádios FM EBC, que busca ampliar este acesso. Apesar de o ambiente digital ter possibilitado novos espaços de participação e oportunidades, a disseminação das plataformas de redes sociais trouxe mudanças estruturais no meio comunicacional, que passou, nos últimos anos, a ser inundado por conteúdos desinformativos. Dados o volume e a velocidade de postagens nocivas - muitas vezes orquestrada, financiada por grupos coordenados com objetivos políticos e/ou econômicos específicos - a desinformação desorganiza a capacidade da sociedade de interpretar a realidade, fragmenta as audiências e o debate público e ameaça o consenso sobre fatos, sobre a ciência e sobre o próprio conhecimento.
+Causa Do Problema: Em relação a Imprensa Nacional falta de recursos de todos os tipos e de visibilidade da instituição.
+Em função do reduzido alcance do sinal de suas plataformas, a EBC não atende, em sua plenitude, o interesse coletivo da população de receber serviços de radiodifusão pública e serviços conexos, complementares à comunicação privada. Existe a necessidade de otimizar o emprego de recursos financeiros, de forma a possibilitar maiores investimentos na infraestrutura de transmissão, com consequente ampliação do alcance do sinal.
+A prevalência de modelos de negócios das chamadas big techs, baseados na captura de dados - acumulam milhões de dados sobre o comportamento e o consumo de informação dos usuários até mesmo quando estes não estão utilizando qualquer uma das suas plataformas especificamente - e no engajamento dos usuários (tempo de atenção dedicado a permanecer conectado), reforçam viés de confirmação e induzem a radicalização por meio de algoritmos que potencializam a disseminação de desinformação. Isso afeta o direito de acesso das pessoas à informação de qualidade e tem causado impactos graves na saúde mental das pessoas, sobretudo de crianças e adolescente.
+Evidências Do Problema: Baixa utilização das ferramentas tecnológicas, dos serviços gráficos oferecidas pela Imprensa Nacional e pouca disseminação do acervo cultural; demanda aquém do potencial de oferta devido ao layout pouco amigável do DOU. 
+Até o primeiro semestre de 2023, a média da população brasileira coberta com sinal de Televisão Digital terrestre pela EBC é de 57% e com o sinal de Rádio FM cerca de 25%, com referência no Censo 2010 – IBGE.
+
+Estudo recente do MIT[ ] sobre o Twitter aponta que as notícias falsas circulam 70% mais do que notícias verdadeiras, isso já excluindo o uso de robôs. Esse efeito é maior para notícias políticas falsas (do que para outras notícias falsas) quando o assunto é terrorismo, catástrofes naturais, ciência, lendas urbanas, ou informação financeira. E as falsas notícias chegaram a 1.500 pessoas cerca de seis vezes mais depressa do que a verdade.
+A disseminação de desinformação durante a pandemia contribuiu para milhares de mortes, ao passo em que os discursos de ódio fazem vítimas diárias, especialmente entre os setores mais vulneráveis da população. Segundo dados levantados pela Agência Patrícia Galvão, só no primeiro semestre de 2022 foram notificadas 7096 denúncias de ataques misóginos na internet, o equivalente a 40 denúncias por dia. Segundo pesquisa realizada pela Gênero e Número em parceria com o Repórteres sem Fronteira, 41,9% das mulheres já sofreram violência online devido à sua profissão. Ainda, 53,1% informaram que a violência sofrida impactou em sua rotina laboral, e 14,7% afirmam ter desenvolvido algum tipo de problema mental. Não bastasse, das violências de gênero contra jornalista, 68% se originam em meios digitais.
+Justificativa Para A Intervenção: Chamar a atenção do governo para a necessidade de prestação deste serviço de Comunicação Pública e Governamental com maior qualidade.
+A EBC foi criada para contribuir na construção da cidadania. Tem função estratégica de complementariedade dos sistemas privado, público e estatal de comunicação, além de promover o desenvolvimento e a integração nacional, com a programação rica em educação e cultura a todos os segmentos da sociedade brasileira, em todas as regiões do País.
+Os desafios mencionados quanto ao ambiente digital apontam para a urgência de se formular e implementar políticas públicas específicas, com foco no desenvolvimento de competências para que todas as pessoas possam interagir e produzir conteúdos digitais de forma consciente, responsável e cidadã. A educação midiática, ainda que não seja capaz de curar todos os males das relações humanas mediadas pela Internet, pode desempenhar um papel crucial nesse contexto.
+Evolução Histórica: Há 215 anos prestando serviço público de qualidade, a Imprensa Nacional tem lutado nas últimas décadas para levar o Diário Oficial da União a todos os rincões do País. Disponível apenas por meio eletrônico desde novembro de 2017, o DOU tem esbarrado na falta de recursos para melhorar a sua infraestrutura de tecnologia da informação. 
+No PPA 2020-2023 a meta era alcançar as 27 capitais com o sinal de TV Digital e Rádio FM, por meio de geração própria ou da Rede Nacional de Comunicação Pública (RNCP). Apesar de o objetivo principal ser as capitais, a EBC possui, atualmente, 65 emissoras de TV e 36 de Rádio, entre emissoras próprias e afiliadas em diversas regiões do país. Para o PPA 2024-2027, o objetivo é ampliar o alcance ao disponibilizar o sinal de TV Digital e Rádio FM para outros municípios do interior dos Estados ainda não atendidos, de modo a ampliar a penetração da Rede Nacional de Comunicação Pública até que todas as regiões do Brasil possam estar contempladas.
+Diante do cenário e novos desafios que surgiram no ambiente informacional digital ao longo dos últimos anos, foi criada no âmbito da SECOM/PR a Secretaria de Políticas Digitais (SPDIGI/SECOM/PR) em janeiro de 2023, a quem, conforme o Decreto nº 11.362, de 1º de janeiro de 2023, e a Portaria Secom/PR nº 1, de 19 de janeiro de 2023, compete entre outras coisas, a formulação e implementação de políticas públicas para promoção da liberdade de expressão, do acesso à informação e de enfrentamento à desinformação e ao discurso de ódio na Internet e a formulação, articulação e implementação de políticas públicas de educação e formação para o uso de serviços digitais de comunicação, em articulação com outros ministérios.
+Comparações Internacionais: Para a Imprensa Nacional, não há comparações internacionais.
+
+A EBC destaca que a transição para a TV digital está em andamento em muitas partes do mundo. A transmissão analógica de televisão foi o padrão por décadas, mas a digitalização trouxe benefícios, como maior qualidade de imagem e som, além de permitir mais canais em uma largura de banda limitada.
+
+No entanto, a velocidade da transição para a TV digital varia de país para país. Em alguns lugares, como os Estados Unidos, a transição para a TV digital foi concluída em 2009, tornando a TV analógica obsoleta. Em outros países, como Reino Unido, Alemanha e Austrália, a transição para a TV digital também foi concluída, encerrando completamente a transmissão analógica.
+De igual forma, o rádio em FM apresenta melhor qualidade de som aos ouvintes do veículo rádio, se comparado ao AM.
+Contudo a  transição para a TV Digital e Rádio FM exige investimentos significativos em infraestrutura e equipamentos, o que pode ser um desafio para alguns países como o Brasil, considerando suas dimensões continentais e grande volume de municípios.
+
+As ações do Brasil de combate à desinformação e promoção da integridade da informação e construção de um ambiente digital confiável está alinhada com iniciativas internacionais, como o Global Digital Compact da ONU e o processo de definição de "guidelines  for  a  multistakeholder  approach  in  the  context  of regulating  digital  platforms", da  UNESCO. E também devem estar coadunadas com iniciativas internacionais, como o Rabat Plan of Action, lançado em 2013 pelo Alto Comissariado das Nações Unidas para Direitos Humanos, que destaca a responsabilidade coletiva dos governos, líderes religiosos, líderes comunitários, meios de comunicação, sociedade civil organizada em fomentar a unidade social, a tolerância e o diálogo para evitar o incitamento ao ódio.  E também com o esforço empreendido pelo Departamento de Comunicações Globais das Nações Unidas, liderado por Melissa Fleming (Under-Secretary-General for Global Communications), para desenvolver um Código de Conduta para a Integridade da Informação nas Plataformas Digitais.
+Relação Com Os Ods: No caso da Imprensa Nacional, o Programa de Comunicação Pública e Governamental se relaciona com os Objetivos de Desenvolvimento Sustentável (ODSs) porque a instituição adotou várias práticas alinhadas a esses objetivos, tais como parar de imprimir o Diário Oficial da União (salvo alguns Diários por dia) e reciclagem. Os ODS especificamente relacionados são os seguintes:
+Objetivo 11. Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis, especificamente no quesito 11.4 Fortalecer esforços para proteger e salvaguardar o patrimônio cultural e natural do mundo
+Objetivo 12. Assegurar padrões de produção e de consumo sustentáveis, especificamente nos quesitos 12.2 Até 2030, alcançar a gestão sustentável e o uso eficiente dos recursos naturais, 12.5 Até 2030, reduzir substancialmente a geração de resíduos por meio da prevenção, redução, reciclagem e reuso, 12.7 Promover práticas de compras públicas sustentáveis, de acordo com as políticas e prioridades nacionais.
+No que se refere a  Empresa Brasil de Comunicação - EBC, o Programa é alinhado a ODS 10 -  Redução das desigualdades: reduzir as desigualdades dentro dos países e entre eles. Com a implementação do programa espera-se proporcionar o direito de acesso à comunicação pública e aos meios de informação a todos, inclusive às pessoas com deficiência, tornando o Brasil um país cada vez mais inclusivo e democrático.
+Agentes Envolvidos: O agente envolvido é o Diretor-Geral da Imprensa Nacional, sob os auspícios da Casa Civil da Presidência, agente público atuando em nome da referida instituição.
+O Ministério das Comunicações, órgão responsável na disponibilização de outorga de canais e as emissoras afiliadas que integram a Rede Nacional de Comunicação Pública com o objetivo de ampliar o alcance do sinal de TV Digital e Rádio FM.
+Para qualificar o ambiente informacional, estarão envolvidos a Secretaria de Políticas Digitais da SECOM, o Ministério da Educação e o Ministério da Saúde.
+Articulação Federativa: A atuação é nacional, pois o Diário Oficial da União é impresso para todo o País.
+A EBC possui articulações com o Programas voltados à digitalização do sinal de televisão no Brasil para disponibilização de novos canais outorgados. 
+As entregas que visam qualificar o ambiente informacional digital estão pactuadas com MEC e Ministério da Saúde e são feitas em articulação com estados e municipios.
+Enfoque Transversal: Objetivo Específico de Promover o Conhecimento Público do Acervo Histórico-Bibliográfico da IN tangencia as políticas públicas do Ministério da Cultura e da Educação.
+A Empresa Brasil de Comunicação, pode apresentar enfoque transversal com as articulações das políticas públicas voltadas à digitalização do sinal de televisão no Brasil.
+As entregas relacionadas à qualificação do ambiente informacional digital tem foco no desenvolvimento de competências para que todas as pessoas possam interagir e produzir conteúdos digitais de forma consciente, responsável e cidadã, favorecendo de modo transversal a toda a sociedade e a efetividade de políticas públicas.
+Marco Legal: Decreto No. 11.397, de 21/01/23. (Imprensa Nacional)
+ Lei nº 11.652/2008, alterada pela Lei nº 13.417/2017, a qual institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta; autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e demais dispositivos que regulamentam os serviços de radiodifusão.
+Decreto nº 11.362, de 1º de janeiro de 2023, e a Portaria Secom/PR nº 1, de 19 de janeiro de 2023.
+Planos Nacionais, Setoriais E Regionais: A relação com a Política de Comunicação Pública e Governamental, tanto para Imprensa Nacional como para Empresa Brasil de Comunicação - EBC está correlacionado aos seus respectivos Planejamento Estratégico. de longo prazo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

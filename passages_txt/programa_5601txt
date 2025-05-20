@@ -1,0 +1,497 @@
+passage: Programa Número 5601
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 405
+Entrega: 1787
+Indicador: 11065
+Denominação: M2 de área que recebeu intervenções urbanísticas apoiadas pelo OGU - Total
+Sigla: MQUA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: m²
+Descrição: O número de qualificação urbana se estrutura a partitr da (i)  quantificação da área urbana qualificada a partir das intervenções urbanísticas (ii) metragem quadrada da área qualificada
+Período Ou Data A Que Se Refere: Jan a Dez/2024; Jan a Dez/2025; Jan a Dez/2026; e Jan a Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; e 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MQUCT = a somatoria de todos os projetos que receberam intervenções urbanísticas contratadas pelo OGU
+MQUC=  M2 de área que recebeu  intervenções urbanísticas contratadas pelo OGU
+Fonte De Dados Das Variáveis De Cálculo: Ministério das Cidades (monitoramento interno + CAIXA)
+Forma De Disponibilização: Publicação do Ministério das Cidades 
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: Procedimentos por projeto: levantamento da área das poligonais de intervenção urbanísticas, finalizadas, contratadas pelo OGU.
+Procedimento para quantificação do resultado global: somatório das áreas de todos os projetos, finalizados, que receberam intervenções urbanísticas contratadas pelo OGU
+Limitações: No primeiro ano, o resultado será medido pela quantidade de área urbana qualificada.  Após o desenvolvimento da metodologia de levantamento do quantitativo de áreas urbanas esvaziadas e degradadas, conforme  medida institucional desta Secretaria, o indicador será revisado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 405
+Entrega: 1775
+Indicador: 11053
+Denominação: M2 de área que recebeu qualificação urbana contratada - total
+Sigla: MQUCT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: m²
+Descrição: Qualificação urbana contratada se estrutura a partir da (i) contratos firmados para qualificação das áreas de intervenção prioritárias (áreas urbanas centrais, degradas, vazias ou subutilizadas) e da (ii) quantificação da área urbana qualificada a partir das intervenções urbanísticas.
+Período Ou Data A Que Se Refere: Jan a Dez/2024; Jan a Dez/2025; Jan a Dez/2026; Jan a Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MQUCT = a somatoria de todos os projetos que receberam intervenções urbanísticas contratadas pelo FGTS
+MQUC=  M2 de área que recebeu  intervenções urbanísticas contratadas pelo FGTS.
+Fonte De Dados Das Variáveis De Cálculo: Ministério das Cidades (monitoramento interno + CAIXA)
+Forma De Disponibilização: Publicação do Ministério das Cidades 
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: Procedimentos por projeto: levantamento da área das poligonais de intervenção urbanísticas, finalizadas, contratadas pelo FGTS.
+Procedimento para quantificação do resultado global: somatório das áreas de todos os projetos, finalizados , que receberam intervenções urbanísticas contratadas pelo FGTS
+Limitações: No primeiro ano, o resultado será medido pela quantidade de área urbana qualificada.  Após o desenvolvimento da metodologia de levantamento do quantitativo de áreas urbanas esvaziadas e degradadas, conforme  medida institucional desta Secretaria, o indicador será revisado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 406
+Entrega: 1819
+Indicador: 11105
+Denominação: Número de certificados emitidos para técnicos capacitados pelo Programa Capacidades, por modo EAD assíncrono
+Sigla: NCTEAD
+Índice De Referência: 15800.0
+Em Apuração: Não
+Data De Apuração: 2016-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Programa Capacidades tem o objetivo claro de capacitar técnicos interessados pelas políticas, ações e programas correlatos às atribuições do Ministério das Cidades, ou seja, as políticas urbanas e suas derivativas relativas ao ambiente urbano. 
+ 
+Para esta entrega, evidenciaremos o número de técnicos capacitados pelos cursos e eventos por meio de plataforma de Ensino à Distância (EAD) assíncrono (auto instrução) ofertados pelo Ministério das Cidades, por meio do Programa Nacional de Capacitação das Cidades.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31 de Dezdmbro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NCTEAD – Número total de certificados emitidos para técnicos capacitados pelos cursos ou eventos EAD Assíncrono, promovidos pelo Programa Capacidades;
+CTCEADA- Certificados emitidos para técnicos cursos  EAD assicrono
+CTEAD- Certificados emitidos para técnicos eventos EAD assicrono.
+Fonte De Dados Das Variáveis De Cálculo: Programa Capacidades
+Forma De Disponibilização: Portal do Programa Capacidades.
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: A soma dos Certificados emitidos para técnicos capacitados em curso/ead assicrono + Certificados emitidos para técnicos capacitados em evento assicrono, resultam no valor total de número de certificados emitidos para técnicos capacitados pelos cursos promovidos pelo Programa Capacidades
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 406
+Entrega: 1811
+Indicador: 11093
+Denominação: Número de certificados emitidos para técnicos, capacitados pelo Programa Capacidades, por modo presencial, hííbrido, ou EAD síncrono
+Sigla: NCTC
+Índice De Referência: 423.0
+Em Apuração: Não
+Data De Apuração: 2016-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Programa Capacidades tem o objetivo claro de capacitar técnicos com interesses aos temas do Ministério das Cidades, ou seja, as políticas urbanas e suas derivativas relativas ao ambiente urbano. 
+ 
+Para esta entrega, evidenciaremos o número de técnicos capacitados pelos cursos e eventos presenciais, híbridos e de EAD síncrono ofertados pelo Ministério das Cidades, por meio do Programa Nacional de Capacitação das Cidades.
+Período Ou Data A Que Se Refere: Jan a Dez/2024; Jan a Dez/2025; Jan a Dez/2026; e Jan a Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; e 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VT NCTC – Número de certificados emitidos para técnicos capacitados pelos cursos ou eventos presenciais, híbridos ou EAD Síncrono, promovidos pelo Programa Capacidades
+CTCP- Certificados emitidos para técnicos capacitados em curso/evento presencial
+CTCH- Certificados emitidos para técnicos capacitados em curso/evento hibrido
+CTCEADS -  Certificados emitidos para técnicos em curso EAD Sincrono.
+Fonte De Dados Das Variáveis De Cálculo: Programa Capacidades
+Forma De Disponibilização: Portal do Programa Capacidades.
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: A soma dos Certificados emitidos para técnicos capacitados em curso/evento presencial + Certificados emitidos para técnicos capacitados em curso/evento hibrido + Certificados emitidos para técnicos em curso EAD Sincrono, resultam no valor total de  número de certificados emitidos para técnicos capacitados pelos cursos promovidos pelo Programa Capacidades.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 407
+Entrega: 1829
+Indicador: 11123
+Denominação: Número de instrumentos criados em municípios apoiados, que incluam adaptação à mudança do clima e à transformação digital
+Sigla: NIMC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: unidade
+Descrição: Aumentar Número de planos/instrumentos criados em municípios apoiados, que incluam adaptação à mudança do clima.
+Período Ou Data A Que Se Refere: Jan a Dez/2024; Jan a Dez/2025; Jan a Dez/2026; e Jan a Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; e 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NI= Número de instrumentos. 
+NICM = Número de instrumentos que incluam adaptação à mudança do clima. 
+NITD= Número de instrumentos que incluam transformação digital.
+Fonte De Dados Das Variáveis De Cálculo: Pesquisa de Informações Básicas Municipais (MUNIC) e apuração própria.
+Forma De Disponibilização: Sítio Eletrônico do Ministério das Cidades (https://www.gov.br/cidades/pt-br).
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: Número de instrumentos que incluam adaptação à mudança do clima e à transformação digital é igual ao número total de instrumentos apresentados.
+Limitações: Não há.
+Notas Explicativas: Devido à natureza das informações coletadas a apuração será realizada, diretamente pela Secretaria Nacional de Desenvolvimento Urbano e Metropolitano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 406
+Entrega: 1824
+Indicador: 11112
+Denominação: Publicações e produtos de natureza técnica elaborados, produzidos, revisados, atualizados e disponibilizados pelo Programa Capacidades
+Sigla: NMT
+Índice De Referência: 43.0
+Em Apuração: Não
+Data De Apuração: 2016-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Além dos cursos de excelência, o Portal Capacidades ficou conhecido por seu repositório de materiais técnicos direcionados às atribuições, ações e programas do Ministério das Cidades.
+Período Ou Data A Que Se Refere: Jan-Dez/2024; Jan-Dez/2025; Jan-Dez/2026; e Jan-Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; e 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NPT – Número total de produtos técnicos
+NMA – Número de material técnico atualizado no ano corrente, anteriormente produzido pelo Programa Capacidades e parceiros 
+NMP  - Número de novo material técnico produzido, no ano corrente, pelo Programa Capacidades e parceiros
+NET - Número de eventos técnicos produzidos pelo Programa Capacidades e parceiros, no ano corrente, com emissão de certificados de participação ou de capacitação.
+NC - Número de cursos técnicos produzidos pelo Programa Capacidades e parceiros, no ano corrente, com emissão de certificados de capacitação.
+Fonte De Dados Das Variáveis De Cálculo: Programa Capacidades
+Forma De Disponibilização: Portal do Programa Capacidades
+Procedimento De Cálculo: Somatória do quantitativo de material técnico atualizado e produzido, de cursos de capacitação com emissão de certificados de capacitação, e de eventos técnicos com emissão de certificados de participação ou de capacitação, elaborados no ano corrente por meio do Programa Capacidades, inclusive com parcerias.
+Limitações: Apoio técnico constante das Secretarias finalísticas do Ministério das Cidades ao Programa Capacidades.
+Notas Explicativas: O objetivo do Programa Capacidades é capacitar técnicos e agentes que atuam diretamente com as políticas tratadas pelo Ministério das Cidades na sua localidade. Considerando as competências exclusivas do subnacional, o ministério, por sua atribuição de competência conjunta, estrutura duas ações distintas para capacitar os subnacionais: a elaboração de produtos técnicos variados, tais como publicações, eventos de workshop, seminários, webnários, além dos cursos de capacitação em diversas modalidades, que resultam em um produto técnico que, após concluído e estabelecido um formato de entrega, será disponibilizado aos participantes. 
+
+No caso de cursos - autoinstrução ou moderados, inclusive por pró extensão - os participantes devem cumprir uma formalização para serem certificados por capacitação. Em outras situações - workshops, seminários, webnários e similares - a depender, os participantes serão certificados, às vezes por capacitação, outras tão somente por participação.
+
+Outros produtos, considerados técnicos - publicações, vídeos e podcasts - disponibilizados para fins de autoinstrução, e sem o caráter de certificação, conformam a sustentabilidade do relacionamento do ministério e do programa com os subnacionais.
+
+Nesse sentido, entendemos que tanto os cursos, quanto os demais produtos possuem o mesmo peso, pois conformam-se como produtos técnicos elaborados e de caráter intermediário que atendem o objetivo de capacitação. No entanto, e a depender do produto, somente alguns promovem certificação ao participante. Nos casos em que essa certificação é de natureza de capacitação, propomos quanticar - para posterior qualificação - nas entregas do Objetivo Específico, a saber: a quantidade de técnicos que se inscreveram em cursos de capacitação, em qualquer das modalidades, e que foram certificados, tão somente, por capacitação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 405
+Entrega: 2232
+Indicador: 11568
+Denominação: Quantidade de sistemas e/ou infraestruturas inteligentes implementados
+Sigla: QSIII
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: unidade
+Descrição: O número corresponde à quantidade de sistemas e/ou infraestruturas inteligentes implementados
+Período Ou Data A Que Se Refere: Janeiro a Dezembro do ano de referência
+Data De Divulgação/Disponibilização: 31 de dezembro do ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Sistemas e/ou infraestrutura inteligente implementados
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do Ministério das Cidades (monitoramento interno + CAIXA)
+Forma De Disponibilização: Publicação do Ministério das Cidades 
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: Somar a quantidade de projetos de sistemas e/ou infraestrutura inteligente implementados com recursos do OGU.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 405
+Entrega: 2233
+Indicador: 11569
+Denominação: Quantidade de sistemas e/ou infraestruturas inteligentes implementados
+Sigla: QSIII
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: unidade
+Descrição: O número corresponde à quantidade de sistemas e/ou infraestruturas inteligentes implementados
+Período Ou Data A Que Se Refere: Janeiro a Dezembro do ano de referência
+Data De Divulgação/Disponibilização: 31 de dezembro do ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Sistemas e/ou infraestrutura inteligente implementados
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do Ministério das Cidades (monitoramento interno + CAIXA)
+Forma De Disponibilização: Publicação do Ministério das Cidades 
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: Somar a quantidade de sistemas e/ou infraestruturas inteligentes implementados com recursos do FGTS
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5601
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 407
+Indicador: 11119
+Denominação: Número de cidades médias, cidades grandes e regiões metropolitanas com ações e instrumentos de planejamento que incluam adaptação das cidades à mudança do clima e à transformação digital
+Sigla: NCM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de cidades médias, cidades grandes e regiões metropolitanas com ações, instrumentos de planejamento e/ou planos diretores que incluam adaptação das cidades à mudança do clima e à transformação digital.
+Período Ou Data A Que Se Refere: Jan a Dez/2024; Jan a Dez/2025; Jan a Dez/2026; e Jan a Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; e 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NCM = número de cidades médias, 
+NCG =cidades grandes 
+RM = regiões metropolitanas 
+VTI=  Valor Total de instrumentos
+Fonte De Dados Das Variáveis De Cálculo: MUNIC e apuração própria.
+Forma De Disponibilização: Sítio Eletrônico do Ministério das Cidades (https://www.gov.br/cidades/pt-br).
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: Apuração própria da Secretaria Nacional de Desenvolvimento Urbano e Metropolitano, a partir da execução das ações.
+Valor total de instrumentos instrumentos de planejamento e/ou planos diretores que incluam as temáticas da adaptação das cidades à mudança do clima e à transformação digital,  se dara por meio da soma do NCM + NCG + RM.
+Notas Explicativas: Devido à natureza das informações coletadas (NCM = número de cidades médias, cidades grandes e regiões metropolitanas com ações, instrumentos de planejamento e/ou planos diretores que incluam as temáticas da adaptação das cidades à mudança do clima e à transformação digital), a apuração será realizada, diretamente, pela Secretaria Nacional de Desenvolvimento Urbano e Metropolitano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 405
+Indicador: 11038
+Denominação: Número de pessoas beneficiadas por intervenção urbanística - Total
+Sigla: NAUQT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: unidade
+Descrição: A NAUQ se estrutura a partir da (i) quantificação da população total residente/usuária (PTR) de áreas de intervenção (áreas urbanas centrais, degradas, vazias ou subutilizadas) e da (ii) quantificação da população diretamente beneficiada (PDB) pela intervenção urbanistica de qualificação urbana.
+Desta forma teremos o total de população ocupante ou usuárias dos espaços de intervenção prioritária e o número de pessoas beneficiadas pelas intervenções urbanísticas de qualificação urbana integrada.
+Entende-se por população beneficiada aquela que usufrui dos setores censitários do IBGE, direta e indiretamente, impactados pelas intervenções urbanísticas contratadas.
+Entende-se por população total usuária ou beneficiária de áreas prioritárias para intervenção aquelas localizadas em setores censitários classificados como áreas urbanas centrais, áreas urbanas vazias ou subutilizadas.
+Período Ou Data A Que Se Refere: Jan a Dez/2024; Jan a Dez/2025; Jan a Dez/2026; e Jan a Dez/2027
+Data De Divulgação/Disponibilização: 31/12/2024; 31/12/2025; 31/12/2026; e 31/12/2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NAUQT: Numero de pessoas beneficiadas por projeto de intervenção urbanistica  
+PDB: população diretamente beneficiada pela intervenção urbanística de qualificação urbana.
+Entende-se por população beneficiada aquela que usufrui dos setores censitários do IBGE, direta e indiretamente, impactados pelas intervenções urbanísticas contratadas.
+Fonte De Dados Das Variáveis De Cálculo: - Informações do proponente
+- Caracterização (quantitativa) das áreas qualificadas - Mcidades (monitoramento interno+ Caixa)
+Forma De Disponibilização: Endereço eletrônico da Secretaria, em <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: 1 – Levantamento da população residente no local da intervenção;
+2 – Levantamento da população usuária do espaço;
+3 – Quantificação de área urbana qualificada;
+Limitações: No primeiro ano, o resultado será medido pela quantidade de população em área urbana qualificada.  Após o desenvolvimento da metodologia de levantamento do quantitativo de áreas urbanas esvaziadas e degradadas, prevista nas medidas institucionais, o indicador será revisado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 406
+Indicador: 11068
+Denominação: Percentual de municípios abrangidos pelas ações de capacitações do Programa Capacidades
+Sigla: %PMAPC
+Índice De Referência: 30.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Percentual de municípios com agentes públicos capacitados pelas ações do Programa Capacidades (síncronas, assíncronas, hibridas e presenciais).
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31 de Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: %PMAPC (Percentual de municípios abrangidos Programa Capacidades).
+MAAPC: nº de municípios ATUAIS abrangidos Programa Capacidades
+MNAPC: nº de municípios NOVOS abrangidos Programa Capacidades
+NMB: nº de municípios brasileiros
+Fonte De Dados Das Variáveis De Cálculo: Portal Capacidades/ Portal Integra da Escola Nacional de Administração Pública
+Forma De Disponibilização: Portal Capacidades Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/desenvolvimento-urbano-e-metropolitano>
+Procedimento De Cálculo: 1.	Consultar base de dados do Portal Capacidades e do Portal Integra da Escola Nacional de Administração Pública;
+2.	Verificar o quantitativo de municípios abrangidos pelo Programa atendidos antes de 2025;
+3.	Dividir o quantitativo sobre o total de municípios para obter o valor percentual
+4.	Verificar municípios atendidos pelo Programa atendidos no período de apuração
+5.	Dividir o quantitativo sobre o total de municípios para obter o valor percentual
+6.	Somar o Percentual de municípios abrangidos pelo Programa Capacidades.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5601
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 405
+Enunciado: Qualificar áreas urbanas degradadas e subutilizadas com infraestrutura e serviços integrados.
+Descrição: As intervenções urbanísticas integradas têm objetivam combater o esvaziamento, a degradação e a subutilização de áreas urbanas, garantindo o pleno atendimento da função social da cidade e da propriedade urbana.
+Propõe-se ações de modificação no desenho urbano e/ou nas condições de uso e ocupação do solo; qualificação do ambiente urbano; melhoria da qualidade dos espaços públicos e das condições de circulação, acesso e fluxos de pessoas e veículos; eliminação de barreiras arquitetônicas e urbanísticas, como forma de promover o acesso à cidade a todos; promoção da localização de novos serviços, infraestrutura urbana e equipamentos urbanos, bem como requalificação de imóveis e de infraestrutura existentes; valorização do patrimônio cultural, turístico e da paisagem; articulação de investimentos públicos e privados no território, entre outros.
+
+Além disso, a qualificação dessas áreas urbanas passa pela modernização urbana, de modo a promover a transformação digital para os temas de planejamento e gestão urbanos e projetos urbanos integrados. A iniciativa permitirá avanço na implementação da Carta Brasileira de Cidades Inteligentes, que trata do desenvolvimento urbano e a transformação digital sustentáveis, em seus aspectos econômico, ambiental e sociocultural, que atuam de forma planejada, inovadora, inclusiva e em rede, promovem a democracia digital, a governança e a gestão colaborativas e utilizam tecnologias para solucionar problemas concretos, criar oportunidades, oferecer serviços com eficiência, reduzir desigualdades, aumentar a resiliência e melhorar a qualidade de vida de todas as pessoas, garantindo o uso seguro e responsável de dados e das tecnologias da informação e comunicação.
+
+Assim, poderão ser apoiadas a implantação de sistemas e de infraestruturas inteligentes, ou seja, de soluções e ferramentas tecnológicas integrando a infraestrutura urbana, bem como à gestão urbana, para atender aos desafios do monitoramento, da gestão e do desenvolvimento urbano. De
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 406
+Enunciado: Promover o desenvolvimento institucional dos entes federativos na execução das políticas públicas de desenvolvimento urbano.
+Descrição: Capacitações presenciais e a distância, atividades de extensão universitária e de pesquisa que visam complementar a formação técnica dos quadros de servidores públicos das Prefeituras Municipais, dos órgãos supramunicipais, dos órgãos dos governos estaduais e federais enquanto agentes promotores e implementadores das políticas urbanas sob responsabilidade do Ministério das Cidades, nas suas localidades, e em atendimento ao objetivo geral deste programa.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Objetivo Específico: 407
+Enunciado: Apoiar a elaboração de instrumentos de planejamento e gestão urbanos municipais ou interfederativos que incluam temas relacionados à adaptação das cidades à mudança do clima e à transformação digital.
+Descrição: Incluir temas relacionados à adaptação das cidades à mudança do clima e à transformação digital nos instrumentos e de planejamento e gestão urbanos municipais ou interfederativos, em consoância ao disposto no Art. 4º, da Lei nº 10.257, de 10 de julho de 2001 (Estauto da Cidade), e outras estratégias municipais para adaptação das cidades à mudança do clima e à transformação digital.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5601
+
+Exercício: 2025
+Programa: 5601
+Objetivo: 1258
+Enunciado: Reduzir desigualdades socioterritoriais mediante o desenvolvimento urbano integrado, democrático, acessível, inclusivo e sustentável, por meio de políticas de planejamento urbano, gestão e projetos urbanísticos.
+Descrição: Programa de apoio a municípios, estados e ao Distrito Federal na execução do desenvolvimento urbano integrado, democrático, acessível, inclusivo e sustentável, por meio de assistência técnica e financeira, capacitação para o desenvolvimento institucional e apoio ao planejamento e gestão urbanos interfederativos e à execução de projetos urbanísticos.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5601
+
+Exercício: 2025
+Programa: 5601
+Título: Cidades Melhores
+Tipo: Finalístico
+Órgão: 56000.0
+Público-Alvo: Entes federados e seus órgãos e entidades, sociedade civil e setor produtivo. Populações urbanas e aquelas localizadas em
+regiões com entraves ao desenvolvimento urbano.
+Descrição Do Problema: Crescimento desordenado, aumento das desigualdades socioterritoriais, esvaziamento dos centros urbanos, fragmentação das políticas públicas de desenvolvimento urbano e aumento da vulnerabilidade às mudanças climáticas.
+Causa Do Problema: Devido à baixa capacidade institucional média dos entes federativos, principalmente dos municípios, na obtenção e execução de recursos financeiros e na falta de técnicos capacitados para desenvolvimento de projetos relacionados às políticas públicas de desenvolvimento urbano.
+Evidências Do Problema: Desigualdade no acesso da população à infraestrutura e aos serviços urbanos e baixa capacidade governativa dos entes subnacionais.
+Justificativa Para A Intervenção: A complexidade do problema requer que as iniciativas governamentais para o desenvolvimento do território sejam realizadas em diversas escalas e por instrumentos distintos, que permitam a cooperação federativa e a cooperação horizontal do governo federal para sua implementação. As iniciativas devem observar as necessidades regionais por meio de projetos integrados, com foco no desenvolvimento urbano para fortalecer as redes de cooperação, o desenvolvimento de tecnologias sustentáveis, observando os instrumentos de ordenamento territorial e promovendo a implementação do planejamento urbano.
+Evolução Histórica: A insuficiência e assimetria dos investimentos em infraestrutura urbana entre as cidades brasileiras contribui para o agravamento de disparidades socioeconômicas e reduz a capacidade de enfrentar os desafios contemporâneos. 
+O problema agrava o dinamismo das regiões, fragiliza a infraestrutura e reduz as oportunidades de desenvolvimento, o que induz uma movimentação populacional em direção a espaços mais dinâmicos e desequilibra a rede brasileira de cidades.
+A trajetória do desenvolvimento brasileiro se concentrou em frações do espaço, notadamente no centro-sul e na faixa litorânea, com destaque para as aglomerações metropolitanas, as quais, desde os anos 1970, adquiriram a primazia na condução dos rumos da economia nacional.
+Essa realidade dificultou sobremaneira o processo de interiorização e a disseminação do desenvolvimento, com evidentes reflexos na distribuição de oportunidades aos brasileiros. Agrava-se, assim, a situação dos municípios, com reflexos na qualidade dos serviço públicos prestados que carecem de melhorias em seu planejamento e gestão bem como na capacidade dessas localidades em dinamizar a economia das regiões em que se encontram.
+Para enfrentar esse desafio, o extinto Ministério do Desenvolvimento Regional (MDR), no período de 2020 a 2023 contava com Programa 2217 - Desenvolvimento Regional, Territorial e Urbano, cuja finalidade era a ampliação do investimento privado em infraestrutura, orientado pela associação entre o planejamento de longo prazo e a redução da insegurança jurídica.
+A partir de janeiro de 2023, com a recriação do Ministério das Cidades, conforme MP 1.154/2023, foi concebido Programa
+Cidades Melhores - N1D5, com a propósito de atuar especificamente no aprimoramento do desenvolvimento urbano.
+Comparações Internacionais: Colômbia - "proyectos integrales"(com destaque especial para os programas de Bogotá e Medellin)  que são inspirados na experiência japonesa em " land readjustment"; 
+
+Os Projetos Urbanos Integrais (PUI) procuram a melhoria das condições de vida dos moradores de um assentamento informal. Estes planos incorporam todos os elementos do desenvolvimento de forma simultânea, através de obras de infraestrutura com os mais altos padrões de qualidade e com um ingrediente primordial para garantir a sua sustentabilidade: a participação comunitária.
+
+O projeto foi executado sob três grandes linhas ou eixos, registradas em todo o processo e que são:
+Intervenção física: adaptar o espaço público, através da melhoria de ruas e da construção de parques e praças, bibliotecas públicas, terminais de ônibus, delegacias de polícia, centros educativos, cantinas escolares, centros de saúde e arenas esportivas. Incentivar a mobilidade dos pedestres com pontes para pedestres e para veículos. Atenuar o desgaste do meio ambiente, construir sistemas coletores e de tratamento das águas residuais, e realocar residências localizadas em áreas de alto risco hidrológico.
+Coordenação interinstitucional: promover intervenções adequadas do Estado a partir de um comitê administrador municipal, mesas de trabalho com entidades públicas, privadas e acadêmicas, e a gestão para a participação das entidades nacionais e os agentes de cooperação internacional.
+Gestão social: fortalecer as organizações comunitárias através do treinamento de líderes e do monitoramento e avaliação do projeto. Promover programas habitacionais através da regularização, legalização, melhoria e construção de edifícios de uso misto, residências costeiras, residências no interior de quarteirões e em terraços.
+Relação Com Os Ods: O programa é alinhado ao:
+ODS 9 - Indústria, Inovação e Infraestrutura
+ODS10 - Redução de desigualdades
+ODS 11 - Cidades e comunidades sustentáveis
+ODS13 - Ação contra a mudança global do clima, Nova Agenda Urbana, Carta Brasileira para Cidades Inteligentes
+Agentes Envolvidos: Secretaria Nacional de Desenvolvimento Urbano e Metropolitano do Ministério das Cidades, Estados, Municípios, Distrito
+Federal, entes privados e instituições de ensino e pesquisa.
+Articulação Federativa: O programa será implementado de forma articulada entre os três entes da federação: União, Estados e Municípios
+Enfoque Transversal: Sim, a depender do caráter da intervenção, notadamente associada a políticas de desenvolvimento urbano, habitação, saneamento, mobilidade urbana, educação, saúde e segurança pública.
+Marco Legal: Constituição da República Federativa do Brasil de 1988, em especial seus artigos 21, com seu inciso XX; 23, com seus incisos II, VI, IX e X; 24, com seus incisos I e VII; 25, com seu § 3º; 30, com seus incisos II, VIII e IX; 170, com seus incisos II, VI e VII; 182; 183; e 216, com seus incisos IV e V e § 1º;
+Decreto-Lei nº 25, de 30 de novembro de 1937, que “organiza a proteção do patrimônio histórico e artístico nacional”;
+Decreto-Lei nº 311, de 2 de março de 1938, que “dispõe sobre a divisão territorial do país”;
+Decreto-Lei nº 3.365, de 21 de junho de 1941, que “dispõe sobre desapropriações por utilidade pública”;
+Decreto-Lei nº 9.760, de 5 de setembro de 1946, que “dispõe sobre os bens imóveis da União;
+Lei nº 4.591, de 16 de dezembro de 1964, que “dispõe sobre o condomínio em edificações e as incorporações imobiliárias”;
+Lei nº 5.172, de 25 de outubro de 1966, que “dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário aplicáveis à União, Estados e Municípios;
+Decreto-Lei nº 271, de 28 de fevereiro de 1967, que “dispõe sobre loteamento urbano, responsabilidade do loteador concessão de uso e espaço aéreo”;
+Lei nº 6.015, de 31 de dezembro de 1973, que “dispõe sobre os registros públicos, com suas alterações, em especial seu Título V (Do Registro de Imóveis), do artigo 167 ao 288-A;
+Lei nº 6.766, de 19 de dezembro de 1979, que “dispõe sobre o parcelamento do solo”;
+Decreto 11. 468 de 05 de abril de 2023;
+Decreto-Lei nº 1.876, de 15 de julho de 1981, que “dispensa do pagamento de foros e laudêmios os titulares do domínio útil dos bens imóveis da União, nos casos que especifica;
+Lei nº 6.938, de 31 de agosto de 1981, que “dispõe sobre a Política Nacional do Meio Ambiente, seus fins e mecanismos  de formulação e aplicação;
+Decreto-Lei nº 2.398, de 21 de dezembro de 1987, que “dispõe sobre foros, laudêmios e taxas de ocupação relativas a imóveis de propriedade da União”;
+Lei nº 8.036, de 11 de maio de 1990, que “dispõe sobre o Fundo de Garantia do Tempo de Serviço”;
+Lei nº 8.666, de 21 de junho de 1993, que “regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública”, enquanto perdurar sua vigência;
+Lei nº 8.987, de 13 de fevereiro de 1995, que “dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no art. 175 da Constituição Federal”;
+Lei nº 9.636, de 15 de maio de 1998, que “dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União, altera dispositivos dos Decretos-Leis nos 9.760, de 5 de setembro de 1946, e 2.398, de 21 de dezembro de 1987, regulamenta o § 2o do art. 49 do Ato das Disposições Constitucionais Transitórias”;
+Lei nº 10.098, de 19 de dezembro de 2000, que “estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida”;
+Lei nº 10.257, de 10 de julho de 2001, que “regulamenta os artigos 182 e 183 da Constituição Federal, estabelece diretrizes gerais da política urbana”, denominada Estatuto da Cidade;
+Medida Provisória nº 2.220, de 4 de setembro de 2001, que “dispõe sobre a concessão de uso especial de que trata o § 1º do art. 183 da Constituição, cria o Conselho Nacional de Desenvolvimento Urbano - CNDU”;
+Lei nº 10.406, de 10 de janeiro de 2002, que “institui o Código Civil”;
+Lei nº 11.079, de 30 de dezembro de 2004, que “institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública”;
+Lei nº 11.107, de 6 de abril de 2005, que “dispõe sobre normas gerais de contratação de consórcios públicos”;
+Lei nº 11.124, de 16 de junho de 2005, que “dispõe sobre o Sistema Nacional de Habitação de Interesse Social – SNHIS, cria o Fundo Nacional de Habitação de Interesse Social – FNHIS e institui o Conselho Gestor do FNHIS”;
+Lei nº 11.445, de 5 de janeiro de 2007, que “estabelece as diretrizes nacionais para o saneamento básico; cria o Comitê Interministerial de Saneamento Básico; altera as Leis nos 6.766, de 19 de dezembro de 1979, 8.666, de 21 de junho de 1993, e 8.987, de 13 de fevereiro de 1995; e revoga a Lei nº 6.528, de 11 de maio de 1978;
+Lei nº 11.952, de 25 de junho de 2009, que “dispõe sobre a regularização fundiária das ocupações incidentes em terras situadas em áreas da União, no âmbito da Amazônia Legal; altera as Leis nos 8.666, de 21 de junho de 1993, e 6.015, de 31 de dezembro de 1973;
+Lei nº 12.187, de 29 de dezembro de 2009, que “institui a Política Nacional sobre Mudança do Clima - PNMC”;
+Lei nº 12.305, de 2 de agosto de 2010, que “institui a Política Nacional de Resíduos Sólidos; altera a Lei nº 9.605, de 12 de fevereiro de 1998”;
+Lei nº 12.587, de 3 de janeiro de 2012, que “institui as diretrizes da Política Nacional de Mobilidade Urbana; revoga dispositivos dos Decretos-Leis nº 3.326, de 3 de junho de 1941, e nº 5.405, de 13 de abril de 1943, da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e das Leis nº 5.917, de 10 de setembro de 1973, e nº 6.261, de 14 de novembro de 1975”;
+Lei nº 12.608, de 10 de abril de 2012, que “institui a Política Nacional de Proteção e Defesa Civil - PNPDEC; dispõe sobre o Sistema Nacional de Proteção e Defesa Civil - SINPDEC e o Conselho Nacional de Proteção e Defesa Civil - CONPDEC; autoriza a criação de sistema de informações e monitoramento de desastres; altera as Leis nº 12.340, de 1º de dezembro de 2010, nº 10.257, de 10 de julho de 2001, nº 6.766, de 19 de dezembro de 1979, nº 8.239, de 4 de outubro de 1991, e nº 9.394, de 20 de dezembro de 1996”;
+Lei nº 12.651, de 25 de maio de 2012, que “dispõe sobre a proteção da vegetação nativa; altera as Leis nº 6.938, de 31 de agosto de 1981, nº 9.393, de 19 de dezembro de 1996, e nº 11.428, de 22 de dezembro de 2006; revoga as Leis nº 4.771, de 15 de setembro de 1965, e nº 7.754, de 14 de abril de 1989, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001”;
+Lei nº 13.089, de 12 de janeiro de 2015, que “institui o Estatuto da Metrópole, altera a Lei nº 10.257, de 10 de julho de 2001”;
+Lei nº 13.465, de 11 de julho de 2017, que “dispõe sobre a regularização fundiária rural e urbana, sobre a liquidação de créditos concedidos aos assentados da reforma agrária e sobre a regularização fundiária no âmbito da Amazônia Legal; institui mecanismos para aprimorar a eficiência dos procedimentos de alienação de imóveis da União; altera as Leis nº 8.629, de 25 de fevereiro de 1993, nº 13.001, de 20 de junho de 2014, nº 11.952, de 25 de junho de 2009, nº 13.340, de 28 de setembro de 2016, nº 8.666, de 21 de junho de 1993, nº 6.015, de 31 de dezembro de 1973, nº 12.512, de 14 de outubro de 2011, nº 10.406, de 10 de janeiro de 2002 (Código Civil), nº 13.105, de 16 de março de 2015 (Código de Processo Civil), nº 11.977, de 7 de julho de 2009, nº 9.514, de 20 de novembro de 1997, nº 11.124, de 16 de junho de 2005, nº 6.766, de 19 de dezembro de 1979, nº 10.257, de 10 de julho de 2001, nº 12.651, de 25 de maio de 2012, nº 13.240, de 30 de dezembro de 2015, nº 9.636, de 15 de maio de 1998, nº 8.036, de 11 de maio de 1990, nº 13.139, de 26 de junho de 2015, nº 11.483, de 31 de maio de 2007, e a nº 12.712, de 30 de agosto de 2012, a Medida Provisória nº 2.220, de 4 de setembro de 2001, e os Decretos-Leis nº 2.398, de 21 de dezembro de 1987, nº 1.876, de 15 de julho de 1981, nº 9.760, de 5 de setembro de 1946, e nº 3.365, de 21 de junho de 1941; revoga dispositivos da Lei Complementar nº 76, de 6 de julho de 1993, e da Lei nº 13.347, de 10 de outubro de 2016”;
+Lei nº 14.026, de 15 de julho de 2020, que “atualiza o marco legal do saneamento básico e altera a Lei nº 9.984, de 17 de julho de 2000, para atribuir à Agência Nacional de Águas e Saneamento Básico (ANA) competência para editar normas de referência sobre o serviço de saneamento, a Lei nº 10.768, de 19 de novembro de 2003, para alterar o nome e as atribuições do cargo de Especialista em Recursos Hídricos, a Lei nº 11.107, de 6 de abril de 2005, para vedar a prestação por contrato de programa dos serviços públicos de que trata o art. 175 da Constituição Federal, a Lei nº 11.445, de 5 de janeiro de 2007, para aprimorar as condições estruturais do saneamento básico no País, a Lei nº 12.305, de 2 de agosto de 2010, para tratar dos prazos para a disposição final ambientalmente adequada dos rejeitos, a Lei nº 13.089, de 12 de janeiro de 2015 (Estatuto da Metrópole), para estender seu âmbito de aplicação às microrregiões, e a Lei nº 13.529, de 4 de dezembro de 2017, para autorizar a União a participar de fundo com a finalidade exclusiva de financiar serviços técnicos especializados”
+Lei nº 14.133, de 1º de abril de 2021, a “Lei de Licitações e Contratos Administrativos”;
+Lei nº 14.273, de 23 de dezembro de 2021, que “estabelece a Lei das Ferrovias; altera o Decreto-Lei nº 3.365, de 21 de junho de 1941, e as Leis nº 6.015, de 31 de dezembro de 1973, nº 9.074, de 7 de julho de 1995, nº 9.636, de 15 de maio de 1998, nº 10.233, de 5 de junho de 2001, nº 10.257, de 10 de julho de 2001, nº 10.636, de 30 de dezembro de 2002, nº 12.815, de 5 de junho de 2013, nº 12.379, de 6 de janeiro de 2011, e nº 13.448, de 5 de junho de 2017; e revoga a Lei nº 5.917, de 10 de setembro de 1973”, em especial seu Capítulo IX (Das Operações Urbanísticas) do artigo 60 ao 62;
+Medida Provisória nº 1.154, de 1º de janeiro de 2023, que “estabelece a organização básica dos órgãos da Presidência da República e dos Ministérios”, com suas alterações, inclusive sua Lei de Conversão;
+Medida Provisória nº 1.162, de 14 de fevereiro de 2023, que “dispõe sobre o Programa Minha Casa, Minha Vida,
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Adaptação à Mudança do Clima (PNA);
+Plano Nacional de Saneamento Básico (PLANSAB);
+Plano Nacional de Habitação (PlanHab 2040);
+Plano Nacional de Mobilidade Urbana (PlanMob);
+Plano Regional de Desenvolvimento da Amazônia (PRDA);
+Plano Regional de Desenvolvimento do Centro-Oeste (PRDCO);
+Plano Regional de Desenvolvimento do Nordeste (PRDNE).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

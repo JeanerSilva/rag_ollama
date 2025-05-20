@@ -1,0 +1,1273 @@
+passage: Programa Número 1144
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Entrega: 342
+Indicador: 9188
+Denominação: Área em Km² com detalhamento das informações de solo disponibilizadas à sociedade
+Sigla: PronaSolos
+Índice De Referência: 384577.0
+Em Apuração: Não
+Data De Apuração: 2025-01-01 00:00:00
+Unidade De Medida: km²
+Descrição: O tamanho das unidades de mapeamento são sempre diferentes em quantitativo de Km2, por isso a unidade de medida em Km2 exprime melhor o quantitativo de trabalho realizado.
+
+Detalhar e mapear o solo em 893.359 km² na escala de 1:100.000 e maiores.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro do ano a que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de Km2 mapeados = Somatório (Unidade de mapeamento X número de Km2)
+Fonte De Dados Das Variáveis De Cálculo: - Agência Nacional de Águas (ANA);
+- Instituto Brasileiro de Geografia e Estatística - IBGE
+- Cadastro Ambiental Rural
+- Sistema de Gestão Fundiária - SIGEF/INCRA
+- PronaSolos;
+- Serviço Geográfico do Comando do Exército - DSG
+- Companhia de Pesquisa de Recursos Minerais - CPRM
+- Agência Espacial Brasileira - AEB
+- Diretoria do Serviço Geográfico do Comando do Exército - DSG
+Forma De Disponibilização: Os dados serão disponibilizados de forma eletrônica, mais especificamente na Plataforma do PronaSolo (em fase de construção)
+Procedimento De Cálculo: Levantamento e Mapeamento
+Notas Explicativas: O levantamento e mapeamento dos solos das principais regiões produtores do Brasil é necessário para subsidiar a tomada de decisões, pelos setores público e privado, no sentido de se promover a prática de uma agricultura cada vez mais sustentável, bem como garantir suprimento de água em quantidade e qualidade necessários a todos os usos, destacando que a qualidade de águas dos mananciais dependem do que é feito no solo das microbacias que contribuem para os respectivos mananciais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1334
+Indicador: 10422
+Denominação: Área (ha) adicional que adota Práticas para Recuperação de Pastagens Degradadas (PRPD), inseridas na Plataforma ABC+ do SINABC
+Sigla: PRPD
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Calcular a área (ha) adicional que adota Práticas para Recuperação de Pastagens Degradadas (PRPD), inseridas na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada mês.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = área em hectares adicional que adota Práticas para Recuperação de Pastagens Degradadas (PRPD); 
+x0 = área em hectares da linha de base que adota Práticas para Recuperação de Pastagens Degradadas (PRPD).
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar a cada ano a área que adota Práticas para Recuperação de Pastagens Degradadas (PRPD), a partir da linha de referência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 187
+Entrega: 373
+Indicador: 9225
+Denominação: Aumento do valor dos benefícios econômicos registrados pelas cooperativas agropecuárias
+Sigla: Agro Mais Coop
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-01 00:00:00
+Unidade De Medida: percentual
+Descrição: Aumentar o valor dos benefícios econômicos (ingressos) constantes nos indicadores de desempenho do cooperativismo agropecuário
+Período Ou Data A Que Se Refere: 31/12/2022
+Data De Divulgação/Disponibilização: Janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x1= número de ingressos ano corrente 
+x0=número de ingressos ano anterior
+Fonte De Dados Das Variáveis De Cálculo: Anuário do cooperativismo brasileiro desenvolvido em parceria com Sistema OCB (Organização das Cooperativas Brasileiras).
+Forma De Disponibilização: Pública no portal do MAPA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 525
+Entrega: 2026
+Indicador: 11357
+Denominação: Campanhas realizadas
+Índice De Referência: 27.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: As Campanhas Anuais de Promoção do Produto Orgânico são realizadas desde 2005, em todo território nacional, visando conscientizar os consumidores  dos benefícios ambientais, sociais e nutricionais do produto orgânico e o papel do consumo responsável na sustentabilidade e na preservação do meio ambiente. A iniciativa é uma das ações propostas para o Plano Nacional de Agroecologia e Produção Orgânica - PLANAPO.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Campanhas realizadas
+Fonte De Dados Das Variáveis De Cálculo: A CPOR e as CPOrgs-UF divulgarão as ações realizadas por meio de relatórios de gestão.
+Forma De Disponibilização: O indicador será disponibilizado no site do MAPA, na página relacionada a Produção Orgânica, anunciando a realização da campanha e a programação dos eventos.
+Procedimento De Cálculo: Relatórios  dos eventos realizados.
+Origem: PPA
+Momento: 9000
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1426
+Indicador: 10551
+Denominação: Monitoramento de bacias prioritárias realizado
+Sigla: SNIR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Cada sistema de monitoramento hidrográfico instalado e gerando informações contempla 10% da meta. Com a implementação de cada sistema de monitoramento as associações de produtores locais e os órgãos gestores terão dados mais precisos para realizar o gerenciamento do uso da água e poderão fazer uma alocação para uso da água com maior acurácia. Desta forma pretendemos melhorar o uso da água, aumentar a eficiências dos sistemas irrigados,  evitar e gerir melhor os conflitos e ainda promover uma maior participação local na decisão do uso da água.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = x1+x2+x3+x4 (número de anos do PPA)
+x = unidade sistemas de monitoramento implantadas a cada ano;
+x1 = unidade sistemas de monitoramento implantadas no ano
+Fonte De Dados Das Variáveis De Cálculo: CGISA/DEPROS/SDI - Mapa
+Forma De Disponibilização: Sistema Nacional de Informações da Agricultura Irrigada do MIDR
+Procedimento De Cálculo: Somar a cada ano o número de estações de monitoramento instaladas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1395
+Indicador: 10515
+Denominação: Número de abates adicionais de bovinos oriundos da Terminação Intensiva (TI)
+Sigla: TI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Calcular o somatório de unidades de bovinos abatidos adicionalmente oriundos da Terminação Intensiva (TI), inseridos na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = unidade de bovinos abatidos adicionalmente oriundos da Terminação Intensiva (TI) a cada ano;
+x0 = unidades de bovinos abatidos adicionalmente oriundos da Terminação Intensiva (TI), na linha de base
+x = x0+x1+x2+x3+x4 (número de anos do PPA)
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar a cada ano o total de unidades de bovinos abatidos adicionalmente oriundos da Terminação Intensiva (TI), a partir da linha de referência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 185
+Entrega: 360
+Indicador: 9209
+Denominação: Número de Comunidades Atendidas
+Índice De Referência: 15.0
+Em Apuração: Não
+Data De Apuração: 2025-02-03 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se da quantidade de comunidades atendidas através dos projetos aprovados pelo Plano Floresta+ Sustentável
+Período Ou Data A Que Se Refere: Janeiro a dezembro anterior ao ano base
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Comunidades Atendidas a cada ano;
+x1 = comunidades Atendidas no ano;
+xn = Comunidades Atendidas ano n.
+Fonte De Dados Das Variáveis De Cálculo: Plano Florestas + Sustentáveis
+Forma De Disponibilização: https://florestamais.agro.gov.br/
+Procedimento De Cálculo: Somatório da comunidades atendidas por ano.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 7
+Entrega: 6
+Indicador: 8775
+Denominação: Número de Estudos de Zoneamentos Agrícola de Risco Climático (ZARC) realizados/revisados
+Sigla: ERR
+Índice De Referência: 46.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mede a quantidade de relatórios de estudos realizados/revisados entregues pela Embrapa através do Sistema de Zoneamento Agrícola - SISZARC.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: 31 de dezembro do ano a que se referir
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: n = número de culturas contempladas com zoneamentos realizados/revisados (ATENÇÃO - REVER)
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Zoneamento Agrícola - SISZARC
+Forma De Disponibilização: Os dados para o cálculo do indicador são obtidos por meio do Sistema de Zoneamento Agrícola - SISZARC.
+Procedimento De Cálculo: Informações relativas ao indicador pode ser solicitada junto à Coordenação-Geral de Risco Agropecuário - CGRA/DEGER/SPA/MAPA.
+Limitações: Não se aplica
+Notas Explicativas: O Zoneamento de uma cultura é realizado para várias Unidades da Federação que tiverem aptidão de cultivo para esta cultura e publicado, em forma de Portarias, para cada Unidade da Federação em que o estudo foi realizado.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Entrega: 341
+Indicador: 9186
+Denominação: Número de microbacias prioritárias com respectivo mapa disponibilizado
+Sigla: MBH
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador da entrega será o número de microbacias hidrográficas prioritárias mapeadas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = microbacia a cada ano;
+x1 = microbacia mapeada no ano;
+xn - microbacia mapeada ano n.
+Fonte De Dados Das Variáveis De Cálculo: Para delimitação e caracterização das microbacias prioritárias serão utilizados dados:
+- da Agência Nacional de Águas (ANA);
+- do SRTM (Shuttle Radar Topographic Mission);
+- de setores censitários do IBGE;
+- do Cadastro Ambiental Rural
+- Sistema de Gestão Fundiária - SIGEF/INCRA.
+Forma De Disponibilização: Os mapas serão disponibilizados de forma eletrônica, nos formatos PDF e Shapefile, no site do Mapa.
+Procedimento De Cálculo: Contagem direta
+Notas Explicativas: A delimitação das microbacias hidrográficas prioritárias se insere no contexto de fomento da conservação do solo e água, trabalho que é desenvolvido por produtores rurais do Brasil, e apoiado pelos governos. Assim, com a disponibilização dos mapas, se espera que estes sejam utilizados no planejamento das propriedades rurais da microbacia com propósito de conservação do solo e água, bem como prevenir o carreamento de sedimentos com consequente assoreamento de rios e lagos, bem como formação de erosões.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1322
+Indicador: 10407
+Denominação: Número de municípios que utilizam crédito oficial ABC+ para adoção dos sistemas, práticas, produtos e processos de produção sustentáveis (SPSabc)
+Sigla: MunABC+.
+Índice De Referência: 3170.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Esta metodologia permite inferir um alcance de outras tecnologias além das que são medidas em áreas, como: Manejo de Resíduos da Produção Animal (MRPA) e Terminação Intensiva (TI) e outras que vierem a ser criadas e monitoradas na linha de crédito do sistema SICOR do Banco Central do Brasil (Bacen).
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada mês.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = nº de municípios diferentes financiados com tecnologias do ABC+  em cada ano do PPA;
+x0 =  linha de base.
+n = nº de linhas de crédito (programas) do crédito oficial que adotam as tecnologias do ABC+ em dado período.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar o número de municípios diferentes que adotam as tecnologias do ABC+, via financiamentos do crédito oficial.
+Limitações: Disponibilidade dos dados do Sicor e do Sistema SINABC.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 185
+Entrega: 361
+Indicador: 9210
+Denominação: Número de produtores atendidos nas cadeias florestais
+Sigla: NPA
+Índice De Referência: 1500.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Pessoas Atendidas
+Descrição: O indicador proposto se refere à quantidade de proprietários/possuidores a serem atendidos, visando o reflorestamento, plantio com espécies de interesse comercial (sistema agroflorestal), regeneração natural, entre outros, em unidades de produção agropecuária.
+Período Ou Data A Que Se Refere: Janeiro a dezembro anterior ao ano base
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Coleta direta, sendo:
+Ntotal= o número total de pessoas atendidas;
+p= é o número de pessoas atendidas
+Fonte De Dados Das Variáveis De Cálculo: Associações de produtores rurais e núcleos da Rede Floresta + Sustentável.
+Forma De Disponibilização: Os dados serão disponibilizados pelo Departamento de Reflorestamento e Recuperação de Áreas Degradadas - DEFLO
+Procedimento De Cálculo: Coleta direta
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Entrega: 348
+Indicador: 9196
+Denominação: Número de produtores e demais elos da cadeia capacitados, com os serviços e ativos técnicos de difusão de tecnologias e ATER-SAF-Cacau
+Sigla: INOVACACAU
+Índice De Referência: 12000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Somatório do número (acumulado) de: produtores e demais elos da cadeia (trabalhadores, técnicos, e outros públicos), capacitados com um ou mais serviços do rol de ativos técnicos de difusão de tecnologias prestados diretamente pela CEPLAC, ou indiretamente pelos parceiros nos diferentes biomas de atuação, no ano e acumulativo do ciclo PPA - 2024/27. Cujo objetivo de capacitar os produtores com foco no aumento de produção de CACAU-SAF: produtividade, qualidade e agregação de valor aos produtos com incorporação e recuperação de área degradada, entre 2024/27 - Vide Plano Inova Cacau 2030
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro a maio do ano seguinte ao ano seguinte
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= nº total de pessoas (público-alvo da cadeia de cacau) atendidas
+Fonte De Dados Das Variáveis De Cálculo: Relatório semestral anual CEPLAC/SDI/MAPA
+Forma De Disponibilização: Relatório semestral anual CEPLAC/SDI/MAPA
+Procedimento De Cálculo: Somar a cada ano o número de sementes e mudas distribuídas/ número necessário para formação de 1 ha
+SOMATÓRIO acumulado do número de: produtores, trabalhadores, técnicos, e todos os outros públicos: assistidos, beneficiados e/ou contemplados com um ou mais serviços do ROL de ativos técnicos de DIFUSÃO de tecnologias e ATER-SAF-Cacau, prestados diretamente pela CEPLAC, ou indiretamente via PARCERIAS, nos diferentes biomas de atuação, no Ano e durante o ciclo do PPA - 2024/27. Cujo objetivo, tem como foco o aumento de produção e produtividade, a melhoria da qualidade, agregação de valor aos produtos da cadeia com incorporação e recuperação de área degradada via SAF-Cacau
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 525
+Entrega: 2027
+Indicador: 11358
+Denominação: Número de produtores e interessados capacitados
+Índice De Referência: 22907.0
+Em Apuração: Sim
+Data De Apuração: 2018-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador avalia o número de técnicas e técnicos, estudantes, produtoras e produtores e agentes de ATER capacitados por meio da  construção coletiva e socialização do conhecimento em produção orgânica, de base agroecológica e da sociobiodiversidade. para promoção da saúde pública, conservação do meio ambiente e estímulo de relações justas de trabalho no campo, integrando atividades de ensino, pesquisa e extensão rural,com a implementação de ações que promovam a realização  de serviços de Ater especializada e a formação qualificada de profissionais  em entidades de ensino técnico e superior.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Onde:
+
+Capacitados_total: número total de produtores e interessados capacitados;
+B_ATER: número de beneficiários dos editais de ATER;
+B_Núcleos: número de beneficiários das Chamadas dos Núcleos de Agroecologia e Produção Orgânica;
+B_OutrasAções: número de beneficiários de outras ações de capacitação.
+Fonte De Dados Das Variáveis De Cálculo: A fonte dos dados será obtida por meio da computação do número de beneficiários por iniciativa implementada.
+Forma De Disponibilização: Será disponibilizado na página da Produção Orgânica do site do MAPA todas as iniciativas implementadas durante a vigência do PPA 2024-2027.
+Procedimento De Cálculo: A soma de todos os beneficiários  das ações de capacitação realizadas durante o ano  e pactuados no Plano Nacional de Agroecologia e Produção Orgânica - PLANAPO, como: editais de ATER especializada em produção orgânica,  de base agroecológica e da sociobiodiversidade, Chamadas Públicas para criação e manutenção de núcleos de agroecologia e produção orgânica e outras iniciativas de capacitação específicas para o setor.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 187
+Entrega: 372
+Indicador: 9223
+Denominação: Número de produtores rurais atendidos
+Sigla: ATER
+Índice De Referência: 4000.0
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: Produtores atendidos
+Descrição: Promover assistência técnica e extensão rural a agentes da cadeia produtiva com enfoque em  tecnologias sustentáveis e agregação de valor. 
+Especificamente à cultura do cacau, prevê-se a Indicação do quantitativo de cacauicultores assistidos com boas práticas e tecnologias sustentáveis para o desenvolvimento da Cadeia Produtiva do Cacau por meio de eventos presenciais coletivos e participativos como: dias de campo, seminários, palestras, atividades práticas entre outras e EaD e com estruturação de Rede de ATER de forma sistêmica e continuada.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x= número de beneficiários dos serviços no âmbito da assistência técnica e extensão rural
+Fonte De Dados Das Variáveis De Cálculo: DEPARTAMENTO DE DESENVOLVIMENTO DAS CADEIAS PRODUTIVAS E DE INDICAÇÕES GEOGRÁFICAS
+CEPLAC
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somatório do número de beneficiários dos serviços no âmbito da assistência técnica e extensão rural (ATER).
+Para a cultura do cacau, considera o número de agentes de assistência técnica e extensão rural treinados (multiplicadores)x 20 agricultores assistidos. Isto porque considera que a cada 1 técnico treinado, este multiplica para 20 produtores rurais.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1399
+Indicador: 10522
+Denominação: Número de redes de inovação agropecuária estruturadas, implantadas e em atividade
+Sigla: RIAE
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: As redes de inovação agropecuária permitem ampliar a interação,  articulação e comunicação entre os diferentes atores, ampliando e potencializando o desenvolvimento de tecnologias digitais, startups, ecossistemas de inovação agropecuária, bioinsumos, bioeconomia avançada e o uso sustentável e conservação dos recursos genéticos para alimentação e agricultura.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= protocolos de intenção celebrados com o Ministério de Agricultura e Pecuária para a formalização de redes de inovação agropecuária.
+Fonte De Dados Das Variáveis De Cálculo: Protocolos de Intenção assinados
+Forma De Disponibilização: Processo SEI do MAPA
+Procedimento De Cálculo: Soma do número de protocolos assinados
+Limitações: Entende-se por Rede de Inovação Agropecuária, um ambiente virtual de articulação e interação entre atores envolvidos em determinado tema, com o objetivo de criação de valor a partir das atividades de inovação. Como exemplo, citamos a Rede de Inovação em Bioinsumos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 187
+Entrega: 371
+Indicador: 9222
+Denominação: Número de Selos e Certificados concedidos às cadeias produtivas ou agentes das cadeias produtivas agropecuárias
+Sigla: Selos
+Índice De Referência: 17100.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantitativo de certificados, selos ou reconhecimentos concedidos a entes demandantes nos programas de agregação de valor: Selo Arte, Indicação Geográfica, Produção Integrada, Boas Práticas Agrícolas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x= número de certificados, selos ou reconhecimentos concedidos a entes demandantes nos programas de agregação de valor: Selo Arte, Indicação Geográfica, Produção Integrada, Boas Práticas Agrícolas.
+Fonte De Dados Das Variáveis De Cálculo: DEPARTAMENTO DE DESENVOLVIMENTO DAS CADEIAS PRODUTIVAS E DE INDICAÇÕES GEOGRÁFICAS
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Soma do número de certificados, selos ou reconhecimentos concedidos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Entrega: 331
+Indicador: 9184
+Denominação: Número de solicitações de serviços de qualificação socioambiental, no âmbito da Plataforma AgroBrasil + Sustentável
+Sigla: AB + S
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2025-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se da quantificação do número de usuários/propriedades solicitantes de qualificação socioambiental do estabelecimento rural no âmbito da Plataforma AgroBrasil + Sustentável. A Plataforma AB + S objetiva integrar informações de bancos de dados oficiais de instituições públicas e privadas, gerando informações rastreáveis e confiáveis sobre a produção agropecuária sustentável no Brasil.
+Visa integrar, organizar e disponibilizar informações de governança ambiental, social e corporativa relacionadas aos produtores, empresas agrícolas e propriedades rurais para qualificar os produtos agropecuários brasileiros, com transparência, credibilidade e confiança, entre todos os participantes da cadeia agropecuária, tendo como principal ator o produtor rural.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = Número total de solicitações no período de referência;
+X𝑖 = Solicitações registradas (por semestre)
+Fonte De Dados Das Variáveis De Cálculo: Sistema Plataforma Agro Brasil + Sustentável (em desenvolvimento em parceria com o SERPRO).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Soma das solicitações de serviços de qualificação socioambiental registradas na Plataforma AgroBrasil + Sustentável
+Limitações: O selo de conformidade fica limitado a produtos /cadeias produtivas que possuam respaldo técnico/científico para inclusão no Programa.
+Notas Explicativas: Serão atendidos os produtos/cadeias produtivas que demandem o Selo e que possuam amparo técnico científico em literatura nacional e internacional para inclusão em cadeia descarbonizada.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Entrega: 347
+Indicador: 9195
+Denominação: Número de Unidades de Referência Tecnológica instaladas
+Sigla: URT AG
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: As unidades implantadas serão vitrines tecnológicas e servirão para que os produtores de uma determinada região conheçam e aprendam a utilizar as técnicas de  conservação de solo e água, manutenção de terraços, construção de barragens de contenção de erosão, sistema plantio direto,  irrigação sustentável. As unidades serão palco de cursos, dias de campo e palestras sobre os temas de agricultura conservacionista.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = unidade de referência implantadas a cada ano;
+x1 = unidade  referência implantadas no ano;
+xn = unidade  referência implantadas ano x;
+Forma De Disponibilização: Disponibilização no Site do Mapa
+Procedimento De Cálculo: Contagem direta
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 7
+Entrega: 41
+Indicador: 8826
+Denominação: Percentual de área de cultivo assegurada pelo Programa de Subvenção ao Prêmio do Seguro Rural (PSR)
+Sigla: Área_PSR
+Índice De Referência: 8.25
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador visa mensurar a porcentagem de área coberta pelo PSR em relação à área total plantada no Brasil, a cada ano civil, de forma a analisar o alcance da respectiva Entrega ao longo da vigência do PPA, ou seja, no período 2024 a 2027.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: 30 dias após o período a que se refere.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = Área total coberta pelo PSR, em hectares
+Y = Área total plantada no Brasil, em hectares
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Subvenção ao Seguro Rural - SISSER/MAPA.
+Levantamento Sistemático da Produção Agrícola - IBGE.
+Forma De Disponibilização: Os dados para o cálculo do indicador são obtidos por meio do Sistema de Informação da Subvenção ao Seguro Rural - SISSER/MAPA e do Levantamento Sistemático da Produção Agrícola disponibilizado pelo IBGE. Qualquer informação relativa ao indicador pode ser solicitada junto à Coordenação-Geral de Seguro Rural - CGSEG/DEGER/SPA/MAPA.
+Procedimento De Cálculo: Ao final de cada ano civil, será apurado no SISSER/MAPA a quantidade de área total segurada pelo PSR, em hectares. Concomitantemente, será apurada a quantidade de área total plantada no Brasil, em hectares, divulgada no Levantamento Sistemático da Produção Agrícola, no site do IBGE. De posse dos dois números, pratica-se a divisão do número obtido no SISSER pelo número obtido no site do IBGE, multiplicando-se esse resultado por 100 para obter-se percentual de referência para o período apurado.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 525
+Entrega: 2025
+Indicador: 11355
+Denominação: Percentual de conformidade em relação ao número de ações de controle realizadas
+Índice De Referência: 60.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: As ações de controle se referem às atividades de fiscalização de comércio, fiscalização de unidades de produção orgânicas, auditoria dos procedimentos administrativos dos Organismos de Avaliação da Conformidade Orgânica - OAC, auditorias testemunha das atividades dos OAC em unidades de produção orgânica e fiscalização de Organizações de Controle Social. Todas essas atividades serão analisadas individualmente, de forma ponderada, com pesos relacionados à gradação das infrações verificadas, obtendo o índice de conformidade.
+Período Ou Data A Que Se Refere: janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: 31 de dezembro ao ano que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Média ponderada das não-conformidades - cada não-conformidade se classifica por leve, moderada, grave ou gravíssima permitindo conferir pesos diferentes para uma média ponderada, que melhor representará o impacto negativo da aplicação dos mecanismos de controle.
+
+Número de atividades realizadas - representa o número total de atividades realizadas ao longo do período que foram analisadas para detecção de não-conformidades. Ex: número total de coletas de amostras, sendo que em nenhuma foi detectado resíduo de substância proibida, a conformidade é de 100%.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios periódicos fornecidos pelos Núcleos de Suporte a Produção Orgânica - NUSORG, nas SFA.
+Forma De Disponibilização: Relatórios periódicos fornecidos pelos Núcleos de Suporte a Produção Orgânica - NUSORG, nas SFA.
+Procedimento De Cálculo: Deve ser informado o número de todas as atividades de controle realizadas, o número de detecção de não-conformidades e sua classificação.
+Limitações: A limitação desse indicador está no contingente mínimo da força de trabalho disponível para execução das atividades.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 136
+Indicador: 8934
+Denominação: Percentual de metas do Plano ABC+ estabelecidas por unidade federativa inseridas no SIGABC
+Sigla: METABC+
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: percentual
+Descrição: O “Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária”, ou ABC+, tem uma estrutura de governança descentralizada e participativa. Neste intuito, é incentivado que as unidades da federação desenvolvam os seus respectivos Planos ABC+ estaduais e estipulem metas, ações, atividades adaptadas à realidade do seu estado. Assim, à medida em que cada unidade da federação define a sua contribuição ao ABC+ nacional, o SIGABC deve ser alimentado com o que foi estipulado e, posteriormente, com as realizações ao longo dos anos.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: Fevereiro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = percentual das metas estaduais em relação à nacional;
+MHa = Milhões de hectares financiados com as tecnologias ABC+;
+MRPA = milhões de metros cúbicos de resíduos da produção animal tratados; e
+TI = milhões de animais terminados intensivamente.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: %MHa = total de MHa das UFs/ 72,68 (total de MHa do ABC+ nacional);
+%MRPA =  total de MRPA das UFs/ 208,4 (total de MRPA do ABC+ nacional); e
+%TI =  total de TI das UFs/ 5 (total de TI do ABC+ nacional).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 525
+Entrega: 2028
+Indicador: 11359
+Denominação: Quantidade de tecnologias, processos e produtos disponibilizados
+Índice De Referência: 212.0
+Em Apuração: Sim
+Data De Apuração: 2018-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: De 2016 a 2018, foram disponibilizadas 212 Tecnologias apropriadas para a Produção Orgânica, sendo 103 Fichas Agroecológicas e 36 especificações de referências publicadas, que resultaram em 109 registros de Produtos Fitossanitários com uso Aprovado para a Agricultura Orgânica. Além disso, devem ser consideradas a publicação de 238 trabalhos técnicos, a produção de 36 mídias e vídeos educativos, no âmbito dos editais de Núcleos de Estudo em Agroecologia e Produção Orgânica.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Onde: 
+
+Qtotal: quantidade total de tecnologias, processos e produtos disponibilizados no período de um ano;
+qi: quantidade de itens disponibilizados
+n: número total de registros no ano;
+Fonte De Dados Das Variáveis De Cálculo: Relatórios dos Núcleos de Estudo em Agroecologia e Produção Orgânica apresentados no âmbito dos editais.
+Relatórios do Serviço de Especificações de Referência/CGAA/SDA/MAPA.
+Relatórios de gestão da CPOR/DTEC/SDA/MAPA.
+Forma De Disponibilização: A partir dos relatórios de gestão.
+Procedimento De Cálculo: Somatório das tecnologias, processos e produtos disponibilizados no período de um ano.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 33
+Entrega: 48
+Indicador: 9516
+Denominação: Realização de Contratos de Crédito Rural
+Sigla: CRC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de contratos de crédito rural liberados
+Período Ou Data A Que Se Refere: Ano Safra - julho do ano anterior a junho do ano atual.
+Data De Divulgação/Disponibilização: Quinto dia útil do terceiro mês subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Com a definição pelo valor absoluto, não existe mais necessidade da forma de cálculo, pois não haverá mais cálculo, apenas um número específico a ser atingido.
+Fonte De Dados Das Variáveis De Cálculo: https://www.bcb.gov.br/estabilidadefinanceira/micrrural
+Forma De Disponibilização: https://www.bcb.gov.br/estabilidadefinanceira/micrrural
+Procedimento De Cálculo: Com a definição pelo valor absoluto, não existe mais necessidade da forma de cálculo, pois não haverá mais cálculo, apenas um número específico a ser atingido.
+Notas Explicativas: Levando em conta o crescimento das quantidades nos últimos cinco anos safras, projetamos o crescimento nos anos seguintes tal qual a quantidade média observada no passado. Com isso, o objetivo é terminarmos o ano safra 2026/2027 com a realização de 1.855.389 contratos, observando, assim, uma redução na quantidade de contratos de 4,03% quando comparada com a quantidade de contratos da Safra 2022/23.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1353
+Indicador: 10448
+Denominação: Total de área (ha) que adota Bioinsumos
+Sigla: BI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Calcular a área (ha) adicional que adota Bioinsumos (BI), inserida na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada mês.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = área em hectares adicional que adota Bioinsumos (BI) a cada ano;
+x0 = área em hectares da linha de base que adota Bioinsumos (BI).
+Fonte De Dados Das Variáveis De Cálculo: Pública no portal do MAPA.
+Forma De Disponibilização: Sistema Integrado de Informação do Plano ABC (SINABC).
+Procedimento De Cálculo: Somar a cada ano a área que adota Bioinsumos (BI), a partir da linha de referência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 2762
+Indicador: 12120
+Denominação: Total de área (ha) que adota Sistema Plantio Direto (SPD)
+Sigla: SPD
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Calcular a área (ha) adicional que adota Sistema Plantio Direto (SPD), inserida na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: anual
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada mês.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = área em hectares adicional que adota Sistema Plantio Direto (SPD) a cada ano;
+x0 = área em hectares da linha de base que adota Sistema Plantio Direto (SPD).
+(número de anos do PPA)
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Portal do MAPA.
+Procedimento De Cálculo: Somar a cada ano a área que adota Sistema Plantio Direto (SPD), a partir da linha de referência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1344
+Indicador: 10439
+Denominação: Total de área (ha) que adota Sistemas Integrados (SIN), basicamente Integração Lavoura-Pecuária (ILP)
+Sigla: SIN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Calcular a área (ha) adicional que adota Sistemas integrados (SIN), basicamente Integração Lavoura-Pecuária (ILP), inserida na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada mês.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Contagem direta do ano
+x = área em hectares adicional que adota Sistemas integrados (SIN), basicamente Integração Lavoura-Pecuária (ILP); 
+x0 = área em hectares da linha de base que adota Sistemas integrados (SIN), basicamente Integração Lavoura-Pecuária (ILP).
+
+x = x0+x1+x2+x3+x4 (número de anos do PPA)
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar a cada ano a área que adota Sistemas integrados (SIN), basicamente Integração Lavoura-Pecuária (ILP), a partir da linha de referência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1375
+Indicador: 10475
+Denominação: Total de área (ha) que adota Sistemas Irrigados (SI)
+Sigla: SI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: Calcular a área (ha) adicional que adota Sistemas Irrigados (SI), inserida na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: Ano civil
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada mês
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = área em hectares adicional que adota Sistemas Irrigados (SI) a cada ano;
+x0 = área em hectares da linha de base que adota Sistemas Irrigados (SI).
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar a cada ano a área que adota Sistemas Irrigados (SI), a partir da linha de referência.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Entrega: 1380
+Indicador: 10501
+Denominação: Total de m³ de resíduos de produção animal tratados nas propriedades que adotam Manejo de Resíduos da Produção Animal (MRPA)
+Sigla: MRPA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: m³
+Descrição: Calcular o total de m³ de resíduos de produção animal tratados nas propriedades que adotam o Manejo de Resíduos da Produção Animal (MRPA), inserido na Plataforma ABC+ do SINABC.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Primeiro dia útil de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = total de m³ de resíduos de produção animal tratados nas propriedades que adotam o Manejo de Resíduos da Produção Animal (MRPA) a cada ano;
+x0 = total de m³ de resíduos de produção animal tratados nas propriedades que adotam o Manejo de Resíduos da Produção Animal (MRPA), na linha de base.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar a cada ano o total de m³ de resíduos de produção animal tratados nas propriedades que adotam o Manejo de Resíduos da Produção Animal (MRPA).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 33
+Entrega: 47
+Indicador: 8831
+Denominação: Volume de crédito rural oficial contratado no ano safra
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: reais
+Descrição: Aumento da quantidade, em reais, de crédito rural liberado.
+Período Ou Data A Que Se Refere: Ano Safra - julho do ano anterior a junho do ano atual.
+Data De Divulgação/Disponibilização: Quinto dia útil do terceiro mês subsequente.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ((VCRT1-VCRT0)/(VCRT0))*100
+Fonte De Dados Das Variáveis De Cálculo: VCRT1 - Crédito rural liberado no ano de análise
+VCRT0 - Valor Crédito rural liberado no ano anterior.
+Forma De Disponibilização: Sicor Bacen
+Procedimento De Cálculo: Acesso ao site Sicor Bacen
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1144
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 33
+Indicador: 9493
+Denominação: Índice de difusão municipal de acesso ao crédito rural
+Sigla: IDCR
+Índice De Referência: 57.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Índice de difusão municipal de acesso ao crédito rural. Este mensura o percentual total de municípios brasileiros que registraram crescimento no número de contratos de crédito rural no ano de referência relativamente ao ano anterior.
+.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Junho do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: M_crecimento = número total de municípios que apresentaram crescimento no número de contratos do crédito rural em relação ao ano anterior;
+N_total_IBGE=número total de municípios registrados pelo IBGE no ano de referência.
+Fonte De Dados Das Variáveis De Cálculo: SICOR/BCB - https://www.bcb.gov.br/estabilidadefinanceira/micrrural - Tabelas 3.3
+IBGE - https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/
+Forma De Disponibilização: Consultar o SICOR/BCB para obter os dados de crédito rural e consultar o IBGE para obter o número total de município em um determinado ano de referência. Alimentar planilha eletrônica para cálculo e análise.
+Procedimento De Cálculo: Somar o número de municípios que tiveram crescimento no número de contratos de crédito rural relativamente ao mesmo período do ano anterior. Dividir o resultado da soma anterior pelo total de municípios indicados pelo Instituto Brasileiro de Geografia e Estatística.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Indicador: 9177
+Denominação: Número de políticas públicas voltadas à promoção da sustentabilidade da produção agropecuária, implantadas ou revisadas
+Sigla: SUSTENTABILIDADE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-01-01 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de políticas públicas voltadas à promoção da sustentabilidade da produção agropecuária que foram implantadas ou revisadas no ano de referência. Essas políticas devem contemplar ações relacionadas a tecnologias sustentáveis (tecnologias verdes), preservação, conservação e recuperação de recursos naturais, bem como estímulo à produção agropecuária de baixa emissão de carbono.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: 31 de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X= Nº total de políticas revisadas e implantadas no ano
+Npi = Nº total de políticas públicas implantas no ano
+Npe = Nº total de políticas públicas revisadas no ano
+Fonte De Dados Das Variáveis De Cálculo: Diário Oficial da União
+Forma De Disponibilização: Publicação no sitio do MAPA
+Procedimento De Cálculo: Somatório direto do número de políticas públicas revisadas ou implantadas
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 7
+Indicador: 8776
+Denominação: Número de produtores beneficiados pelo Programa de Subvenção ao Prêmio do Seguro Rural (PSR)
+Sigla: Prod_PSR
+Índice De Referência: 78574.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: Produtores atendidos
+Descrição: Este indicador visa mensurar a quantidade de produtores rurais beneficiados pelo PSR a cada ano civil, de forma a analisar o alcance do Objetivo Específico ao longo da vigência do PPA, ou seja, no período 2024 a 2027.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro.
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Prod_PSR= n = número de produtores rurais beneficiados pelo PSR em determinado ano civil
+Fonte De Dados Das Variáveis De Cálculo: Contagem direta via Sistema de Informação da Subvenção ao Seguro Rural - SISSER/MAPA.
+Forma De Disponibilização: Os dados para o cálculo do indicador são obtidos por meio do Sistema de Informação da Subvenção ao Seguro Rural - SISSER/MAPA. Qualquer informação relativa ao indicador pode ser solicitada junto à Coordenação-Geral de Seguro Rural - CGSEG/DEGER/SPA/MAPA.
+Procedimento De Cálculo: Ao final de cada ano civil, será apurado no SISSER/MAPA o número total de beneficiários que foram contemplados com a subvenção econômica ao prêmio do seguro rural.
+Limitações: Cabe destacar que o alcance do indicador está intimamente relacionado ao montante orçamentário aprovado anualmente para o PSR.
+Notas Explicativas: O número apurado para o indicador (total nacional) não é necessariamente a soma dos resultados estaduais e/ou por município, haja vista alguns produtores contratarem apólices de seguro em mais de um município/estado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 185
+Indicador: 9199
+Denominação: Número de projetos aprovados pelo plano Floresta+Sustentável
+Sigla: FLORESTA+
+Índice De Referência: 5.0
+Em Apuração: Não
+Data De Apuração: 2012-02-03 00:00:00
+Unidade De Medida: unidade
+Descrição: Política agrícola florestal para o Brasil
+O Plano Floresta + Sustentável visa dinamizar o desenvolvimento econômico brasileiro. Com o cultivo de árvores e recuperação de pastagens degradadas, a Política busca impulsionar toda a cadeia produtiva florestal no território nacional.
+Período Ou Data A Que Se Refere: Janeiro a dezembro anterior ao ano base
+Data De Divulgação/Disponibilização: Final do ano a que se refere
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de projeto aprovados (Plano Floresta+ Sustentável)
+
+Váriáveis:
+
+x = Projetos aprovados a cada ano;
+x1 = Projetos aprovados no ano;
+xn = Projetos aprovados ano n.
+Fonte De Dados Das Variáveis De Cálculo: Quantitativo de projetos aprovados no Plano Florestas + Sustentáveis
+Forma De Disponibilização: https://florestamais.agro.gov.br/acoes
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Indicador: 8932
+Denominação: Número de Unidades Federativas integradas ao SIGABC - Sistema de Governança do ABC+
+Sigla: SIGABC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade da federação
+Descrição: O Sistema Integrado de Informação do Plano ABC (SINABC) tem por finalidade o monitoramento e o acompanhamento da implementação das ações de fomento do ABC+ em nível nacional e estadual. Desta forma, faz-se necessária a inserção de dados e disponibilização de informações relativas às 27 unidades da federação e a consolidação em nível de país, de modo a permitir a avaliação dos planos de ação estaduais (PAEs). O PAE é o instrumento de planejamento do ABC+ em cada unidade federativa. É composto por diretrizes, objetivos estratégicos, metas estaduais voluntárias, alinhadas ao ABC+, e, de acordo com o contexto econômico, social, ambiental, político, necessidades, interesses, capacidades técnico-operacionais e financeiras, com o objetivo de tornar mais efetiva a implementação do Plano, obedecendo às características, necessidades e perspectivas de cada estado.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se refere
+Data De Divulgação/Disponibilização: Abril de cada ano.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Unidade da Federação (UF).
+x = (x0+x1+...+ xn), sendo n = até 27
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Informação do Plano ABC (SINABC).
+Forma De Disponibilização: Pública no portal do MAPA.
+Procedimento De Cálculo: Somar todas as UFs que tiverem dados disponibilizados no SINABC.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 525
+Indicador: 11354
+Denominação: Percentual de crescimento anual da área de produção orgânica
+Índice De Referência: 9.31
+Em Apuração: Não
+Data De Apuração: 2023-06-27 00:00:00
+Unidade De Medida: percentual
+Descrição: Mede o percentual da área destinada à produção orgânica controlada.
+Período Ou Data A Que Se Refere: janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: 31 de dezembro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ÁREA TOTAL DE PRODUÇÃO ORG NICA NO PERÍODO DE AVALIAÇÃO e ÁREA TOTAL DE PRODUÇÃO ORG NICA NO PERÍODO DE AVALIAÇÃO ANTERIOR
+
+Onde:
+
+A_atual:: área total de produção orgânica no período de avaliação;
+
+
+A_anterior: área total de produção orgânica no período anterior;
+
+O resultado representa a variação percentual da área de produção orgânica entre os dois períodos.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informações Gerenciais da Produção Orgânica - SIGORG
+Forma De Disponibilização: O Sistema de Informações Gerenciais da Produção Orgânica - SIGORG está integrado a um Painel que reúne as informações em forma de tabelas, gráficos e mapas. Sua alimentação está em andamento e após o período de recadastramento dos produtores orgânicos, o sistema será atualizado diariamente e haverá um painel público disponibilizado no site do MAPA.
+Procedimento De Cálculo: [(DIFERENÇA ENTRE A ÁREA TOTAL DE PRODUÇÃO ORG NICA NO PERÍODO DE AVALIAÇÃO E NO PERÍODO ANTERIOR) X 100] / ÁREA TOTAL DE PRODUÇÃO ORG NICA NO PERÍODO DE AVALIAÇÃO ANTERIOR
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 187
+Indicador: 9221
+Denominação: Quantidade de produtos com valor agregado adicional
+Sigla: AGV
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantificação dos produtos e ou cadeias produtivas que foram concedidos signos distintivos visando agregação de valor;
+Acumular 19.500 signos distintivos concedidos a produtos e ou cadeias produtivas visando agregação de valor. (Selo Arte, Indicação Geográfica, Produção Integrada, Boas Práticas Agrícolas).
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano a que se referem
+Data De Divulgação/Disponibilização: 31 de Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x= número de produtos e ou cadeias produtivas que foram concedidos signos distintivos visando agregação de valor - acumulado de todos o anos.
+Fonte De Dados Das Variáveis De Cálculo: DEPARTAMENTO DE DESENVOLVIMENTO DAS CADEIAS PRODUTIVAS E DE INDICAÇÕES GEOGRÁFICAS
+Forma De Disponibilização: Pública portal do MAPA.
+Procedimento De Cálculo: somatório do número de produtos e ou cadeias produtivas que foram concedidos signos distintivos visando agregação de valor
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1144
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 7
+Enunciado: Ampliar o acesso do produtor rural aos instrumentos de mitigação de riscos climáticos.
+Descrição: A atividade rural está sujeita a um conjunto de fatores de risco que foge ao domínio dos produtores, sendo os mais relevantes os decorrentes de fenômenos climáticos adversos e da incidência de pragas e doenças, com reflexos negativos na produtividade das culturas. Este Objetivo visa mitigar esses fatores de risco, por meio de instrumentos como a subvenção econômica ao prêmio do seguro rural e as orientações do zoneamento agrícola de risco climático, proporcionando assim, uma estabilização da renda dos produtores rurais ao longo dos anos.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 33
+Enunciado: Ampliar o acesso do produtor ao Crédito Rural
+Descrição: Ampliar o acesso do produtor ao Crédito Rural, incentivando, assim, a sustentabilidade econômica (face às instabilidades dos preços internacionais de commodities) e social (incentivando a ocupação das áreas rurais) da atividade.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 36
+Enunciado: Ampliar as informações oficiais disponibilizadas à sociedade, das ações que promovem o incremento da sustentabilidade.
+Descrição: A disponibilização de informações à sociedade sobre o “Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária”, ou ABC+, conforme desenhado em sua estrutura de governança, inclui o Sistema Informatizado de Governança do Plano ABC (SIGABC), que tem por finalidade o monitoramento e o acompanhamento da implementação das ações de fomento do ABC+ em nível nacional e estadual, além da Plataforma Multiinstitucional de Monitoramento das Reduções de gases de efeito estufa (GEE) na Agropecuária (Plataforma ABC) e dos dados relativos ao crédito rural, por meio do Sistema de Operações do Crédito Rural e do Proagro (Sicor). Estes 3 eixos compõem o Sistema Integrado de Informação do Plano ABC (SINABC), que consolida e sistematiza os resultados de execução do ABC+, além de promover a transparência e o acesso público aos dados e às informações gerados.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 175
+Enunciado: Promover e ampliar a sustentabilidade da produção agropecuária e da pecuária familiar
+Descrição: Fomento ao desenvolvimento agropecuário sustentável, por meio da promoção e ampliação de ações integradas, compartilhadas e transversais, com enfoque em tecnologias verdes, preservação, conservação e recuperação de recursos naturais, em especial do solo e da água, e estímulo à produção agropecuária de baixa emissão e remoção de carbono, como também o aumento do uso de sistemas irrigados.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 185
+Enunciado: Promover o uso sustentável das florestas e as cadeias produtivas florestais em áreas de produção agrícola (em propriedades privadas).
+Descrição: Ante a preocupação em reverter o acelerado processo de degradação dos recursos naturais, com foco na valorização e uso econômico da vegetação nativa, buscando formas cada vez mais assertivas para o adequado manejo desses recursos, o objetivo é operar em atividades e ações que propiciem a conservação, recomposição e valorização da biodiversidade florestal. Somado a isso, estimular o plantio de florestas, com vistas ao reflorestamento comercial e ao reflorestamento ambiental em unidades de produção agropecuária, bem como à recomposição de Áreas de Preservação Permanente e Reserva Legal.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 187
+Enunciado: Ampliar e diversificar a produção agropecuária e a apicultura, fruticultura e pecuária familiar, agregando valor aos seus produtos e serviços
+Descrição: Fomentar ações de ampliação e diversificação da produção agropecuária nacional com enfoque na agregação de valor aos produtos agropecuários visando expansão de mercado consumidor, melhoria da qualidade, segurança do produto, reputação, aumento do valor intrínseco, criação de identidade própria, além de os distinguir em relação aos seus similares disponíveis no mercado.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Objetivo Específico: 525
+Enunciado: Ampliar a oferta e o consumo de produtos orgânicos controlados e suas práticas leais de produção e comércio.
+Descrição: Aumentar a oferta e o consumo de produtos orgânicos como forma de promoção da saúde pública, conservação do meio ambiente e estímulo de relações justas de trabalho no campo, por meio do aperfeiçoamento e aplicação dos mecanismos de controle para garantir a qualidade orgânica e as práticas leais de produção e comércio; de ações de apoio ao desenvolvimento da agricultura orgânica, de base agroecológica e da sociobiodiversidade; da promoção da construção coletiva e socialização do conhecimento, do apoio à organização da rede de produção orgânica, da ampliação da oferta e do acesso a tecnologias, processos e produtos apropriados, elaboração, implantação e fortalecimento dos instrumentos de identificação, gestão da informação e de acesso a políticas públicas.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 1144
+
+Exercício: 2025
+Programa: 1144
+Objetivo: 1255
+Enunciado: Fomentar o desenvolvimento e a intensificação da produção agropecuária, com sustentabilidade ambiental, econômica e social, com vistas à segurança alimentar e diversificação energética.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1144
+
+Exercício: 2025
+Programa: 1144
+Título: Agropecuária Sustentável
+Tipo: Finalístico
+Órgão: 22000.0
+Público-Alvo: - Produtor agropecuário, industrial e agroindustrial;
+- Centros de pesquisa, universidades;
+- Secretarias Estaduais e municipais de agricultura
+- Organizações sociais,
+- Sindicatos,
+- Associações e Cooperativas;
+- Associações e Cooperativas de Produtores rurais;
+- Academia, Institutos de Pesquisa, startups, aceleradoras;
+- Ecossistemas regionais de inovação agropecuária;
+- Agências de fomento; e
+- Sociedade civil.
+Descrição Do Problema: Insuficiência no alcance e na adoção de sistemas sustentáveis na agropecuária
+Causa Do Problema: Ausência de indicadores e bases de informação não integradas relacionadas ao desenvolvimento da agropecuária sustentável; 
+- Alta vulnerabilidade do sistema de produção agropecuária à mudança do clima; 
+- Perda de recursos naturais produtivos, biodiversidade e de recursos genéticos para a alimentação e agricultura;
+- Baixa ou pouca organização social dos atores da agropecuária com reflexo na falta de agregação de valor da produção e acesso aos mercados; 
+- Ausência de rastreabilidade e produtos com baixo valor de mercado; 
+- Baixa qualidade de Assistência Técnica e Gerencial (ATEG); 
+- Falta de incentivo e adoção de ATEG;
+- Estrutura precária para armazenamento e escoamento dos produtos agropecuários; 
+- Existência de contradições e desarticulação das políticas públicas voltadas ao desenvolvimento sustentável agropecuário;
+- Ampliação da política de créditos para o agricultor;
+- Indisponibilidade de empresas para formalização de parcerias com as organizações da agropecuária;
+- Burocratização de legislações ambientais rigorosas;
+- Falta de adequação do setor produtivo pesqueiro às exigências internacionais;
+- Falta   de   uma   estratégia   clara   para a implementação da bioeconomia no Brasil;
+- Falta de políticas nacionais e internacionais especíﬁcas para a bioeconomia;
+- Expansão da Conectividade no meio Rural;
+- Estabelecimento de Bancos de Dados acessíveis e integrados das iniciativas de inovação e pesquisa a nível Brasil.
+Evidências Do Problema: Por meio do uso de imagens de satélites, o Brasil possui atualmente em torno de 200 milhões de áreas de pastagem, das quais 130 milhões estão com algum grau de degradação, o que contribui para emissão de gases de efeito estufa, bem como acelera processos erosivos, cujos prejuízos são da ordem de US$ 5 bilhões anuais. Os compromissos voluntários assumidos pelo Brasil junto à Convenção-Quadro das Nações Unidas sobre Mudança do clima, apresentados sob o recente Acordo de Paris compreendem a redução de suas emissões de gases de efeito estufa em 37% (sobre os níveis de 2005) até 2025 e, de 43% até 2030. A Agenda 2030 para o Desenvolvimento Sustentável tem, dentre suas metas e objetivos, garantir sistemas sustentáveis de produção de alimentos e implementar práticas agrícolas que aumentem a produtividade e a produção, mantendo os ecossistemas e a capacidade de adaptação às mudanças do clima, melhorando progressivamente a qualidade de vida na Terra. Assim, tem se tornado medida comum no comércio internacional a exigência de produtos que possuam certificação de boas práticas na sua produção, levando inclusive ao surgimento de barreiras técnico-sanitárias que dificultam a entrada de produtos em desacordo às normas sanitárias vigentes no mercado de destino. As discussões sobre o tema Bioeconomia são  relativamente novas e ainda têm pouca inserção nos diversos setores produtivos, o que vem dificultando a sua implementação por empresas e governos bem como a adoção de novas tecnologias agropecuárias e a criação de novos mercados.
+Justificativa Para A Intervenção: O grande desafio que o Programa Agropecuária Sustentável enfrenta, agropecuária entendida aqui como produção agrícola, pecuária,extrativista, florestal, agroindustrial, e recursos naturais envolvidos (água, solo, biodiversidade), é o de manter a capacidade produtiva do país, promovendo o desenvolvimento sustentável do Setor. O setor agropecuário se expande de forma rápida e contínua, e para mitigar os impactos negativos no meio ambiente e no clima e, ainda, fortalecer a posição de liderança no mercado, o Programa deve buscar estruturar tecnologicamente os sistemas de produção para se adaptarem às novas condições climáticas, ampliar e incorporar práticas sustentáveis, implementar e consolidar sistemas produtivos de baixo impacto ambiental, promover uma agropecuária intensiva, tecnológica e inovadora, mas que respeite os limites de cada ecossistema e busque a preservação ambiental. Uma das importantes frentes a desenvolver nesse cenário consiste em fortalecer a produção florestal, tanto para fins energéticos e produtos madeireiros, como para composição de sistemas agroflorestais e recuperação de áreas de reserva ambiental. Junto a isso, deve-se garantir o desenvolvimento produtivo e a competitividade da agropecuária brasileira, buscando o aumento de produção, da produtividade, da agregação de valor, da qualidade e inocuidade de insumos e produtos agropecuários, da rastreabilidade, do contínuo desenvolvimento tecnológico e da inovação nas cadeias agroindustriais e produtivas.Adicionalmente, o país deve fomentar a implementação da bioeconomia agropecuária com vistas a favorecer a diversiﬁcação da economia brasileira, criando novas fontes de renda e emprego em setores como biotecnologia, bioenergia e produtos biodegradáveis, além de aumentar a competitividade da economia brasileira no mercado global, ao agregar valor aos produtos e serviços brasileiros e fortalecer a imagem do país como um líder em sustentabilidade e inovação na agropecuária.
+Evolução Histórica: As iniciativas voltadas para o manejo sustentável dos recursos naturais no âmbito do MAPA tomaram maior impulso a partir da década de 1970 por meio do apoio à implantação das comissões Estaduais e Municipais de conservação do solo e da água, corporificando-se em 1975 com a Lei 6.225 e a criação do Programa Nacional de Conservação de Solos. O Crédito Rural cresceu em torno de R$ 100 bilhões em 10 anos (safra 2008/09), indo de aproximadamente R$ 75 Bilhões para R$ 178 Bilhões (dados Sicor/BCB) na safra 2018/19. O mesmo ocorre com o Seguro Rural, que teve forte crescimento do valor subsidiado, passando de perto de R$ 2 milhões em 2004 para quase R$ 700 milhões em 2014, tendo uma queda nos anos seguinte e estabilizando na casa de R$ 370 milhões. As políticas públicas de Crédito e Seguro Rural, dada sua importância para o Setor Agropecuário, estão consubstanciadas nos últimos 5 Planos Plurianuais e permanecem como prioridade de atuação governamental.
+Comparações Internacionais: A União Europeia (EU), em 2014 publicou uma Política Agrícola Comum (CAP 2014-2020) para o desenvolvimento rural mais equitativo e verde, além de apoiar financeiramente os agricultores e incentivar práticas sustentáveis e respeitadoras do meio ambiente, investindo simultaneamente no desenvolvimento das zonas rurais e suas comunidades tradicionais. Assim, internacionalmente, o setor agropecuário já demonstra preocupação com o meio ambiente. Nos EUA, a Agência de Proteção Ambiental americana (EPA) também promove o consumo de produtos verdes, havendo cooperações entre o governo federal americano e produtores sustentáveis. Nesse sentido, o Brasil, apesar de ser o 4º maior exportador do mundo, segundo a balança comercial do agronegócio em 2019, apresenta baixa estimativa de apoio ao produtor – PSE (sigla em inglês) entre 2015-2017, segundo dados da OCDE, com um índice de 2,7%, enquanto os EUA apresentam 9,3%, a União Europeia 19,3% e o Japão 46%. Isso mostra a real necessidade de investimento nas ações de promoção de cadeias produtivas sustentáveis no Brasil para fomento interno e geração de competitividade internacional. Na área da pesca, a exportação de pescados para a União Europeia está suspensa desde 2017, sendo necessário adequar o setor produtivo para atender às exigências internacionais
+Relação Com Os Ods: ODS 1 - Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 4 – Assegurar a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.
+ODS 5 - Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.
+ODS 6 - Assegurar a disponibilidade e gestão sustentável da água e saneamento para todos.
+ODS 7 - Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos.
+ODS 8 - Promover o crescimento econômico sustentado, inclusivo e sustentável emprego pleno e produtivo e trabalho decente para todos.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
+ODS 10 - Reduzir a desigualdade dentro dos países e entre eles.
+ODS 11 – Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.
+ODS 12 - Assegurar padrões de produção e de consumo sustentáveis.
+ODS 13 - Tomar medidas urgentes para combater a mudança climática e seus impactos, 
+ODS 14 - Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável.
+ODS 15 - Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+ODS 16 - Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis.
+ODS 17 - Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+Agentes Envolvidos: Ministério da Economia, Ministério da Cidadania, Fundo Nacional de Desenvolvimento da Educação - FNDE/MEC, Ministério do Turismo,  Câmaras Setoriais e Temáticas do Mapa, Associações de Produtores, Associações de Pescadores, Superintendências Federais do MAPA, Superintendências de Agricultura Familiar e Regionais da Conab (Suregs), Secretarias Municipais de Agricultura Familiar, Secretarias Estaduais e Municipais de agricultura, Codevasf, agricultores familiares, assentados da reforma agrária, silvicultores, aquicultores, extrativistas, pescadores profissionais, povos indígenas, comunidades quilombolas e demais povos e comunidades tradicionais. Instituições de pesquisa e ensino, cooperativas, ONG’s, Organizações Estaduais de Pesquisa Agropecuária, Grupo Gestor Estadual do ABC+,  do Plano ABC+, bancos oficiais e agentes financeiros, Federação de Agricultura, ANATER, Emateres Estaduais, Extensionistas, Prefeituras, Cooperativas, Associações, Sindicatos, Confederação da Agricultura e Pecuária do Brasil – CNA, Confederação Nacional dos Municípios - CNM, SEBRAE, Serviço Nacional de Aprendizagem Rural (SENAR), FAO, IICA, Conselhos Municipais ou Câmaras Técnicas Municipais de Ater, Conselhos Municipais de Desenvolvimento Sustentável. Universidades Privadas, Institutos de Ciência e Tecnologia (ICTs), Organização das Cooperativas Brasileiras - OCB, Confederação Nacional da Indústria - CNI, Frente Parlamentar Agropecuária - FPA e Frente Parlamentar pelo Empreendedorismo - FPE
+Articulação Federativa: As parcerias público-privadas, assim como aquelas realizadas entre Estados, Municípios e Federação, por intermédio de convênios e outros instrumentos, são fundamentais para potencializar as ações. Alguns atores destacam-se como a Frente Parlamentar da Agropecuária, Frente Parlamentar Mista da Bioeconomia, Universidades, Institutos Federais, Superintendências Federais de Agricultura do MAPA, de Agricultura Familiar e Regionais da Conab, OCB, CNA e SEBRAE.
+Enfoque Transversal: Grupo Gestor do Programa Alimenta Brasil, órgão colegiado de caráter deliberativo e formado por representantes dos seguintes ministérios: Ministérios da Cidadania, Agricultura, Pecuária , Economia e Educação. 
+Interação com os demais Planos Setoriais e planos de ação previstos na Política Nacional de Mudança do Clima. As ações contribuirão com a meta de redução do desmatamento nos biomas Amazônia e Cerrado, prevista no compromisso voluntário do Brasil da COP-15, geração de emprego e renda de forma ampla, além de proporcionar maior oferta de água e maior sustentabilidade da produção.
+Demais programas guardam transversalidade com outros órgãos, quais sejam: Crédito Rural, Programa de Subvenção ao Prêmio do Seguro Rural - PSR. Programa Nacional de Apoio ao Médio Produtor Rural – PRONAMP. Concessão de crédito à agricultura empresarial – Bacen. Programa de Sustentação de Investimento - PSI do BNDES e Estratégia Brasileira para a Transformação Digital (e-digital) ciclo 2022-2026 do MCTI
+Marco Legal: - Constituição Federal de 1988
+- A Lei n° 11.284 de 02 de março de 2006
+- Código Florestal
+- Lei n° 12.651 de 25 de maio de 2012
+- Medida Provisória n° 870 de janeiro de 2019
+- Decreto n° 11.332, DE 1º de janeiro de 2023 
+- Decreto n° 9.667 de 02 de janeiro de 2019
+- Lei n° 10.696 de 02 de julho de 2003
+- Lei n° 12.512 de 14 de outubro de 2011
+- Decreto n° 7.775 de 4 de julho de 2012
+- Programa Nacional de Levantamento e Interpretação de Solos do Brasil (PronaSolos)
+- Decreto n° 9.414 de 19 junho 2018
+- Lei n° 11.959 de 29 de junho de 2009
+- Decreto n° 4.895 de 25 de novembro 2003
+- Lei n° 8.171 de 17 de janeiro de 1991
+- Lei n° 12.187 de 29 de dezembro de 2009 - Política Nacional sobre Mudanças Climáticas.
+- Lei n° 12.805 de 29 de abril de 2013 - Política Nacional de Integração Lavoura-Pecuária-Floresta
+- Lei n° 9.479 de 12 de agosto de 1997
+- Decreto nº 11.075, de 19 de maio de 2022 - Plano Setoriais de Mitigação das Mudanças Climáticas
+- Decreto nº 9.578, de 22 de novembro de 2018 - consolida Atos de Clima
+- Portaria MAPA nº 471, de 10 de agosto de 2022 - ABC+ (2020-2030)
+- Lei n° 6.225 de 14 de julho de 1975
+- Decreto n° 94.076 de 5 de março de 1987
+- Decreto n° 8.533, 30 de setembro de 2015
+- Lei nº 11.326 de 24 de julho de 2006
+- Lei Complementar nº 93, de 4 de fevereiro de 1998
+- Lei nº 13.123, de 20 de maio de 2015 e Decreto nº 8.772, de 11 de maio de 2016
+- Lei nº 11.105, de 24 de março de 2005 e Decreto nº 5.591, de 22 de novembro de 2006
+- Decreto nº 6.913, de 23 de julho de 2009
+- Lei nº 13.154, de 30 de julho de 2015
+- Decreto nº 56.690, de 9 de agosto de 1965
+- Lei nº 14.284, de 29 de dezembro de 2021
+- Decreto nº 10.880, de 2 de dezembro de 2021
+- Decreto 10.375, de 26/05/2020 - Programa Nacional de Bioinsumos
+- Decreto nº 10.534, de 28 de outubro de 2020 - Política Nacional de Inovação
+- Portaria MCTI nº 3.877, de 09 de outubro de 2020 - Programa Cadeias Produtivas da Bioeconomia
+- Portaria nº 121, de 18 de junho de 2019 - Programa Bioeconomia Brasil- Sociobiodiversidade
+- Decreto 9.319, de 21 de março de 2018
+- Decreto nº 10.534, de 28 de outubro de 2020 - Política Nacional de Inovação
+- Lei 13.243, de 11 de janeiro de 2016, regulamentado pelo Decreto nº 9.283/2018
+Planos Nacionais, Setoriais E Regionais: - Planos: Plano Safra;
+- Políticas Nacionais: de Integração Lavoura Pecuária Floresta; de Desenvolvimento Regional; de Combate à Desertificação e Mitigação dos Efeitos da Seca; de Irrigação; Microbacias Hidrográficas; sobre Mudança do Clima; de Manejo Sustentado e Cultivo do Bambu; de Recuperação da Vegetação Nativa e de desenvolvimento sustentável da aquicultura e pesca;
+- Planos Nacionais: ABC+ (Plano Setorial para Adaptação à Mudança do Clima e Baixa Emissão de Carbono na Agropecuária); de Desenvolvimento Rural Sustentável e Solidário; de Recursos Hídricos; de Segurança Alimentar e Nutricional; de Adaptação à Mudança do Clima e de Desenvolvimento de Florestas Plantadas;
+- Programas Nacionais: da Diversidade Biológica (PRONABIO); de Levantamento e Interpretação de Solos do Brasil (PronaSolos); 
+- Programas: Bioinsumos; Mais Leite Saudável; Pecuária Sustentável; Plano de proteção ao solo e de combate à erosão e Selo Arte;
+- Planos de Ação: para Prevenção e Controle do Desmatamento na Amazônia Legal; para Prevenção e Controle do Desmatamento e das Queimadas no Cerrado; para a Zona Costeira; 
+- Zoneamento Agrícola de Risco Climático; instituído pelo Decreto nº 9.841, de 18 de junho de 2019
+- Política Agrícola para Florestas Plantadas;
+- Programa AGROHUB BRASIL, Portaria MAPA nº 461, de 27.7.2022
+- Programa AgroNordeste Digital, Portaria MAPA nº 490, de 21.9.2022
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

@@ -1,0 +1,933 @@
+passage: Programa Número 1190
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 285
+Entrega: 988
+Indicador: 9982
+Denominação: Número de ações de capacitação
+Sigla: CAPACIT
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de ações de capacitação representa o esforço de capturar a importância de tratar os animais com respeito, dignidade e consideração
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Primeira quinzena de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para o cálculo deste indicador será considerado:
+(1) o número de ações de capacitação ofertadas para gestores públicos, sociedade civil, e outros atores interessados na proteção, defesa e direitos animais.
+Fonte De Dados Das Variáveis De Cálculo: Ministério do Meio Ambiente e Mudança do Clima (MMA), em banco de dados internos com informações de projetos, atividades e acordos realizados em parceria com o MMA no âmbito do Programa.
+Forma De Disponibilização: Site MMA.
+Procedimento De Cálculo: Somatório do nº de ações de capacitação ofertadas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Entrega: 954
+Indicador: 9942
+Denominação: Número de alunos capacitados sobre gestão da qualidade do ar
+Sigla: CAPACIT
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de alunos que concluíram com êxito o curso de gestão em qualidade do ar.
+Período Ou Data A Que Se Refere: Janierio a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de alunos que concluíram com êxito a avaliação final do curso EAD em Gestão da Qualidade do Ar
+Fonte De Dados Das Variáveis De Cálculo: Plataforma EAD do MMA
+Forma De Disponibilização: Plataforma EAD do MMA
+Procedimento De Cálculo: Checar se novos alunos concluíram o curso na plataforma EAD do MMA
+Limitações: Somente números inteiros
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Entrega: 958
+Indicador: 9946
+Denominação: Número de conjunto de dados de conformidade ambiental e exercício de atividades potencialmente poluidoras disponibilizados
+Sigla: POTENPOLUID
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Permite acompanhar a evolução de conjuntos de dados disponibilizados sobre a conformidade ambiental e o exercício de atividades potencialmente poluidoras.
+Período Ou Data A Que Se Refere: 1 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Conjunto de dados disponibilizados
+Fonte De Dados Das Variáveis De Cálculo: Ibama
+Forma De Disponibilização: Ibama, por relato, ao final de janeiro
+Procedimento De Cálculo: Somatório de conjunto de dados disponibilizados
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 942
+Indicador: 9929
+Denominação: Número de municípios brasileiros com informações cadastradas e publicadas sobre áreas verdes urbanas através do Cadastro Ambiental Urbano (CAU)
+Sigla: CAU
+Índice De Referência: 406.0
+Em Apuração: Sim
+Data De Apuração: 2022-11-23 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de municípios utilizando o CAU é considerado o melhor indicador, pois são os municípios os principais beneficiários deste sistema. No sistema é possível verificar quem está fazendo o uso da ferramenta e como a estão utilizando. Quanto mais municípios utilizam o banco de dados do CAU, maior a aproximação de um diagnóstico nacional sobre áreas verdes urbanas, o que pode orientar ações do poder público de investimentos e de apoio à  gestão.
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: variável única, número de municípios
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do sistema do Cadastro Ambiental Urbano (CAU)
+Forma De Disponibilização: Em 2024, os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: O sistema permite exportação de dados, incluindo nome dos municípios que estão inserindo registros de áreas verdes urbanas. Após exportação é possível realizar um somatório simples em planilhas de excel
+Limitações: número inteiro, sem limitações
+Notas Explicativas: O indicador pode ser utilizado para identificação, em diferentes escalas, de regiões onde o mapeamento e monitoramento de áreas verdes ainda não está sendo feito. O que pode orientar ações do poder público relacionadas a capacitações e disseminação da ferramenta
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 949
+Indicador: 9937
+Denominação: Número de municípios com iniciativas de soluções tecnológicas sustentáveis para geração e uso de energias limpas apoiados
+Sigla: ENERGLIMP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Incentivar a geração e uso de energias limpas por meio do estímulo e adoção de soluções tecnológicas sustentáveis pelos municípios brasileiros. O indicador ao demonstrar quanto mais municípios foram apoiados com iniciativas de soluções tecnológicas sustentáveis para geração e uso de energias limpas, maior se pode orientar ações do poder público de investimentos e de apoio à  gestão.
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios contemplados em editais de chamamento público ou em acordos com o MMA para execução de projetos de soluções tecnológicas sustentáveis para geração e uso de energias limpas
+Fonte De Dados Das Variáveis De Cálculo: Publicação oficial de instrumentos: acordos, convênios ou instrumentos congêneres
+Forma De Disponibilização: Os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: Contagem de instrumentos oficiais:  acordos, convênios ou instrumentos congêneres
+Limitações: número inteiro, sem limitações
+Notas Explicativas: O indicador pode ser utilizado para verificação do alcance de investimentos federais para soluções tecnológicas sustentáveis para geração e uso de energias limpas
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 948
+Indicador: 9935
+Denominação: Número de municípios com iniciativas para a implantação e estruturação de ações de mobilidade urbana sustentável apoiados
+Sigla: MOBURB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de municípios utilizando é considerado o melhor indicador, pois os municípios têm papel fundamental nos processos de apoio a implementação e estruturação de ações de mobilidade urbana. O indicador ao demonstrar quanto mais municípios foram apoiados com iniciativas para a implantação e estruturação de ações de mobilidade urbana sustentável, maior se pode orientar ações do poder público de investimentos e de apoio à  gestão.
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios contemplados em editais de chamamento público ou em acordos com o MMA para execução de projetos relacionados a mobilidade urbana
+Fonte De Dados Das Variáveis De Cálculo: Publicação oficial de instrumentos: acordos, convênios ou instrumentos congêneres
+Forma De Disponibilização: Os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: Somatório do nº de municípios que firmaram acordos e parcerias com MMA para estruturação de iniciativas relacionadas a mobilidade urbana
+Limitações: número inteiro, sem limitações
+Notas Explicativas: O indicador pode ser utilizado para verificação do alcance de investimentos federais para mobilidade urbana
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 938
+Indicador: 9925
+Denominação: Número de municípios com iniciativas para a implantação e estruturação de áreas verdes urbanas apoiados
+Sigla: VERDURB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é composto pelas parcerias estabelecidas para apoio na implementação de áreas verdes urbanas municipais e pelos beneficiários das ações de qualificação técnica. É importante considerar o quantitativo de municípios beneficiados pelas iniciativas de qualificação técnica e das iniciativas fruto de acordos de cooperação e parcerias, pois é a administração pública municipal a principal beneficiária desta entrega.
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: As variáveis são : municípios com acordos de cooperação e  projetos firmados com o MMA e municípios que aderiram a cursos, workshops sobre gestão de áreas verdes urbanas
+Fonte De Dados Das Variáveis De Cálculo: Plataforma de ensino a distância do MMA, lista de presença de workshops e instrumentos de acordos e projetos relacionados a áreas verdes
+Forma De Disponibilização: Em 2024, os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: Extração de quantitativo de alunos que emitiram certificados no curso de Gestão de Áreas Verdes urbanas, na plataforma de ensino a distância do MMA; contagem de representantes municipais em listas de presença de workshops e contagem de instrumentos de acordos e projetos firmados com apoio do MMA
+Limitações: Número inteiro. Cuidados para não somar em duplicidade, caso o município possua mais de uma iniciativa (acordo; projeto -convênio, contrato de repasse; e participação em eventos de qualificação técnica)
+Notas Explicativas: Indicador pode ser utilizado para medição da efetividade das articulações do governo federal voltadas a aprimoramento da gestão de áreas verdes urbana
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 945
+Indicador: 9932
+Denominação: Número de municípios contemplados com ações voltadas à implantação de projetos de agricultura urbana e periurbana
+Sigla: AGRIURB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Os municípios tem papel fundamental nos processos de apoio a implementação de iniciativas de agricultura urbana e periurbana. Pretende-se integrar o presente indicador com o indicador de áreas verdes urbanas cadastradas e publicadas através do Cadastro Ambiental Urbano (CAU).
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: Última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: variável única, número de municípios
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do sistema do Cadastro Ambiental Urbano (CAU)
+Forma De Disponibilização: Em 2024, os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: O sistema permite exportação de dados, incluindo nome dos municípios que estão inserindo registros de áreas verdes urbanas. Após exportação é possível realizar um somatório simples em planilhas de excel
+Limitações: Número inteiro, sem limitações
+Notas Explicativas: O indicador pode ser utilizado para identificação, em diferentes escalas, de regiões onde o mapeamento e monitoramento de áreas verdes ainda não está sendo feito. O que pode orientar ações do poder público relacionadas a capacitações e disseminação da ferramenta
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 941
+Indicador: 9927
+Denominação: Número de municípios contemplados com ações voltadas ao zoneamento ambiental municipal (ZAM)
+Sigla: ZAM
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Os municípios tem papel fundamental nos processos de apoio a implementação do desenvolvimento urbano com uso sustentável dos recursos naturais. Pretende-se integrar o presente indicador com o indicador de áreas verdes urbanas cadastradas e publicadas através do Cadastro Ambiental Urbano (CAU)
+Período Ou Data A Que Se Refere: Setembro a setembro
+Data De Divulgação/Disponibilização: última semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: variável única, número de municípios
+Fonte De Dados Das Variáveis De Cálculo: Publicação oficial de instrumentos: acordos, convênios ou instrumentos congêneres
+Forma De Disponibilização: Os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: O sistema permite exportação de dados, incluindo nome dos municípios que estão inserindo registros de ZAM. Após exportação é possível realizar um somatório simples em planilhas de excel
+Limitações: número inteiro, sem limitações
+Notas Explicativas: O indicador pode ser utilizado para verificação do alcance de investimentos federais em apoio aos municípios na elaboração e implementação do zoneamento ambiental municipal (ZAM)
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 277
+Entrega: 700
+Indicador: 9622
+Denominação: Número de organizações de catadoras e catadores apoiadas pelo sistema de créditos de logística reversa
+Sigla: CREDLOG
+Índice De Referência: 614.0
+Em Apuração: Sim
+Data De Apuração: 2023-05-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é uma boa medida da participação das organizações de catadores no mercado de créditos de reciclagem.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Contínua
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Organizações de catadores de materiais
+Fonte De Dados Das Variáveis De Cálculo: Verificação realizada junto aos verificadores de resultado que farão o controle das notas fiscais de comercialização de materiais recicláveis
+Forma De Disponibilização: A ser disponibilizado pelos verificadores de resultado
+Procedimento De Cálculo: Somatório das organizações de catadores de materiais reutilizáveis e recicláveis que participam do mercado de créditos de reciclagem
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 277
+Entrega: 698
+Indicador: 9620
+Denominação: Número de organizações de catadoras e catadores cadastrados no SINIR
+Sigla: CATAD
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O diagnóstico da situação das associações e cooperativas de catadores de materiais reutilizáveis e recicláveis permitirá uma avaliação das carências e necessidades do setor, permitindo a orientação das políticas públicas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Organizações de catadoras e catadores cadastrados
+Fonte De Dados Das Variáveis De Cálculo: SINIR
+Forma De Disponibilização: Informação coletada no Sistema Catadores do SINIR
+Procedimento De Cálculo: Somatório das organizações de catadoras e catadores cadastrados no SINIR
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Entrega: 950
+Indicador: 9938
+Denominação: Número de sistemas de controle ambiental integrados
+Sigla: POLUID
+Índice De Referência: 4.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Permite acompanhar a integração de sistemas ambientais e, com isso, aprimorar o controle federal, distrital e estadual de atividades poluidoras nas cidades e no campo
+Período Ou Data A Que Se Refere: 1 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Sistemas de controle ambiental
+Fonte De Dados Das Variáveis De Cálculo: Ibama
+Forma De Disponibilização: Ibama, por relato, ao final de janeiro
+Procedimento De Cálculo: Somatório de sistemas de controle ambiental integrados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Entrega: 955
+Indicador: 9944
+Denominação: Número de UFs que geram dados sobre monitoramento de áreas contaminadas integradas ao sistema de monitoramento federal
+Sigla: AREACONT
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Permite acompanhar a evolução de informações estaduais, consolidadas em uma plataforma federal, para coleta e publicização de informações sobre áreas contaminadas no país.
+Período Ou Data A Que Se Refere: 1 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estados integrados
+Fonte De Dados Das Variáveis De Cálculo: Ibama
+Forma De Disponibilização: Ibama, por relato, ao final de janeiro.
+Procedimento De Cálculo: Somatório de estados cujas informações estão integradas ao sistema federal de monitoramento de áreas contaminadas
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 285
+Entrega: 986
+Indicador: 9980
+Denominação: Número de Unidades da Federação apoiadas
+Sigla: PROTEC
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: unidade
+Descrição: A apuração dos dados será possível a partir da publicação do Plano Nacional de contingência de desastres, abrangendo a proteção de animais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Primeira semana de outubro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para o cálculo deste indicador será considerado: 
+(1) número de estados brasileiros e do Distrito Federal (DF) com algum projeto ou atividade realizado em parceria com o MMA na temática.
+Fonte De Dados Das Variáveis De Cálculo: Instituto Brasileiro de Geografia e Estatística (IBGE) - Número de estados brasileiros e o Distrito Federal (DF)
+Ministério do Meio Ambiente e Mudança do Clima (MMA), em banco de dados internos com informações de projetos, atividades e acordos realizados em parceria com o MMA para adoção de planos de contingência de desastres, abrangendo a proteção de animais.
+Forma De Disponibilização: Site do MMA.
+Procedimento De Cálculo: Somatório do nº de estados brasileiros + DF com algum projeto ou atividade realizado em parceria com o MMA para adoção de planos de contingência de desastres, abrangendo a proteção de animais.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 277
+Entrega: 694
+Indicador: 9617
+Denominação: Percentual da massa recuperada de resíduos recicláveis orgânicos
+Sigla: RECICLA
+Índice De Referência: 0.6
+Em Apuração: Sim
+Data De Apuração: 2022-04-01 00:00:00
+Unidade De Medida: %
+Descrição: No Brasil, a fração orgânica representa cerca de 50% dos RSU e possui grande potencial de valorização por meio de iniciativas descentralizadas e em diferentes escalas, podendo ser implementadas por municípios de todos os portes. Indicador presente no plano Nacional de Resíduos Sólidos (Planares), portanto, deve ser apurado anualmente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última referência é de abril/2022
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Massa total destinada para tratamento biológico
+Massa total e RSU coletada
+Fonte De Dados Das Variáveis De Cálculo: Plano Nacional de Resíduos Sólidos (Planares)
+Forma De Disponibilização: Plano Nacional de Resíduos Sólidos (Planares)
+Procedimento De Cálculo: Massa total destinada para tratamento biológico dividida pela massa total e RSU coletada vezes 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 277
+Entrega: 689
+Indicador: 9613
+Denominação: Percentual da população total com acesso à sistemas de coleta seletiva de resíduos secos
+Sigla: COLSELET
+Índice De Referência: 37.8
+Em Apuração: Sim
+Data De Apuração: 2022-04-01 00:00:00
+Unidade De Medida: %
+Descrição: Os sistemas de coleta seletiva de resíduos secos exercem a principal influência nos índices de recuperação de materiais recicláveis, sendo um importante serviço desempenhado em diversos municípios. Referências internacionais apontam que a coleta seletiva é responsável por pelo menos 60% de toda a massa reciclada. Entretanto, sua abrangência e eficiência carecem de ampliação.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última referência é abril/2022
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: População total com acesso à sistemas de coleta seletiva de resíduos secos
+População total com acesso à coleta de resíduos sólidos
+Fonte De Dados Das Variáveis De Cálculo: Plano Nacional de Resíduos Sólidos (Planares)
+Forma De Disponibilização: Plano Nacional de Resíduos Sólidos (Planares)
+Procedimento De Cálculo: População total com acesso à sistemas de coleta seletiva de resíduos secos dividida pela População total com acesso à coleta de resíduos sólidos vezes 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Entrega: 952
+Indicador: 9941
+Denominação: Percentual de estações de monitoramento da qualidade do ar integradas ao Sistema MonitorAr
+Sigla: MONITORAR
+Índice De Referência: 45.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: %
+Descrição: O indicador demonstra a porcentagem de UFs que realizam o monitoramento da qualidade do ar que estão conectadas e integradas aos sistemas de gestão federais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: UFs que realizam monitoramento e Ufs que realizam monitoramento conectadas aos sistemas federais.
+Fonte De Dados Das Variáveis De Cálculo: Consultas permanentes do MMA aos órgãos ambientais estaduais
+Forma De Disponibilização: Site do MMA e sistema MonitorAr.
+Procedimento De Cálculo: Checar se houve alteração no quantitativo de Ufs que realizam monitoramento e nas Ufs conectadas aos sistemas federais.
+Limitações: Somente números inteiros
+Notas Explicativas: Número de Ufs.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 285
+Entrega: 981
+Indicador: 9973
+Denominação: Percentual de municípios que implementam ações ou instrumentos do Programa Nacional de Manejo Populacional de cães e gatos
+Sigla: PNMPCG
+Índice De Referência: 2.0
+Em Apuração: Sim
+Unidade De Medida: %
+Descrição: Considerando que a colaboração entre a União, Estados, Distrito Federal e Municípios é fundamental para o sucesso do programa, um dos focos iniciais do Programa será alcançar o maior número de municípios que realizem a adesão e a implementação do Programa. Por essa razão, o indicador monitora o alcance do Programa nos municípios brasileiros. Na apuração inicial, considerou-se o número de instrumentos de repasses celebrados pelo MMA e os diferentes parceiros na temática de proteção e defesa de caninos e felinos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Primeira semana do mês de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para o cálculo deste indicador serão considerados: 
+(1) número de municípios por região do brasileira com algum projeto ou atividade realizado em parceria com o MMA na temática;
+(2) número de municípios por região do brasileira.
+Fonte De Dados Das Variáveis De Cálculo: Plataformas de governo que gerenciam os projetos com repasses de recursos; SICAD;
+Ministério do Meio Ambiente e Mudança do Clima (MMA), em banco de dados internos com informações de projetos, atividades e acordos realizados em parceria com o MMA no âmbito do Programa.
+Instituto Brasileiro de Geografia e Estatística (IBGE) - Número de municípios brasileiros: 5570, em 14/07/2023.
+Forma De Disponibilização: Site do MMA.
+Procedimento De Cálculo: Municípios com algum projeto ou atividade realizado em parceria com o MMA na temática/nº de municípios
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 285
+Entrega: 984
+Indicador: 9975
+Denominação: Percentual de municípios que implementaram o Censo Animal
+Sigla: CENSOANI
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: %
+Descrição: A apuração inicial foi zero, pois os dados serão coletados a partir da operacionalização do  Cadastro Nacional de Animais Domésticos (SinPatinhas).
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Na primeira semana do mês de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Para o cálculo deste indicador serão considerados: 
+(1) número de municípios municípios que aderiram ao Cadastro Nacional de Animais Domésticos (SinPatinhas).
+(2) número de municípios brasileiros.
+Fonte De Dados Das Variáveis De Cálculo: A informação será capturada no Cadastro Nacional de Animais Domésticos (SinPatinhas) que está em desenvolvimento pelo Ministério do Meio Ambiente e será implementado até o exercício de 2024.
+Instituto Brasileiro de Geografia e Estatística (IBGE) - Número de municípios brasileiros: 5570, em 14/07/2023.
+Forma De Disponibilização: Com a operacionalização do SICAD, os dados estarão disponíveis em painéis automáticos; no site do MMA.
+Procedimento De Cálculo: Somatório dos municípios que aderiram ao SICAD/nº de municípios brasileiros
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Entrega: 961
+Indicador: 9953
+Denominação: Percentual do Projeto Realizado
+Sigla: AGROTOX
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: O indicador descreve a porcentagem de execução do projeto, desse modo, o indicador aplicado é 100% do projeto realizado. O indicador se refere ao projeto realizado, de modo que é relevante para a apuração de continuidade de novos projetos relacionados a mesma temática. Podendo, a depender do resultado desse projeto, ser proposto a realização de novos projetos.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Execução do Projeto
+Fonte De Dados Das Variáveis De Cálculo: IBAMA
+Forma De Disponibilização: IBAMA
+Procedimento De Cálculo: O cálculo considera a execução e divulgação dos resultados
+Notas Explicativas: 15% (estabelecer diretrizes, requisitos e financiamento)
+35% (estabelecer procedimentos e execução da ação)
+70% (executa ação)
+100% (analisar a execução da ação e divulgação dos resultados)
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Entrega: 713
+Indicador: 9640
+Denominação: Percentual dos acidentes ambientais envolvendo produtos perigosos ocorridos em empreendimentos licenciados pelo Ibama com controle ambiental realizado
+Sigla: PRODPERIG
+Índice De Referência: 60.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: Para cada processo de acidente ambiental ocorrido, é gerado um Processo SEI e encaminhado às equipes da área de emergências ambientais do IBAMA para ações de controle ambiental necessárias. Tais ações são acompanhadas e avaliadas por meio do indicador apresentado, visando melhoria nas condições de atendimento ao acidente, da prestação de serviços ao cidadão, prevenção de acidentes e mitigação dos impactos ambientais. Esse indicador é monitorado pelo IBAMA desde o ano de 2016, cujo diagnóstico inicialmente apontou um baixo percentual de realização de controle ambiental pelas equipes do IBAMA, falhas no processo administrativo. A análise do diagnóstico permitiu implantar ações melhorias. A continuidade de seu acompanhamento permitirá análises mais aprofundadas da situação e a continuidade de proposição de melhorias, inclusive determinando adoção de ações preventivas por parte do empreendedor para evitar ocorrência de acidentes ambientais e/ou ações corretivas visando minimizar o impacto ambiental causado.
+Período Ou Data A Que Se Refere: O indicador será medido a cada trimestre ( jan-mar / abr-jun / jul-set / out-dez) e anualmente (01/jan a 31/dez).
+Data De Divulgação/Disponibilização: Apurações trimestrais terão o resultado publicado na última semana do mês subsequente ao término do trimestre. Apuração anual terá publicação do indicador na pr
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Nº de acidentes ambientais envolvendo produtos perigosos ocorridos em empreendimentos licenciados pelo IBAMA com controle ambiental realizado
+B = Nº de acidentes ambientais envolvendo produtos perigosos ocorridos em empreendimentos licenciados pelo IBAMA informados
+Fonte De Dados Das Variáveis De Cálculo: IBAMA
+Forma De Disponibilização: Resultado do Indicador encaminhado pela área responsável à CPLAN/DIPLAN/IBAMA para encaminhamentos e divulgação.
+Procedimento De Cálculo: Número de acidentes ambientais envolvendo produtos perigosos ocorridos em empreendimentos licenciados pelo IBAMA com controle ambiental realizado / Número de acidentes ambientais envolvendo produtos perigosos ocorridos em empreendimentos licenciados pelo IBAMA informados * 100
+Limitações: O indicador será calculado de forma anual consolidado para todo o Brasil. No entanto, será também avaliado o indicador por região brasileira, mas que neste momento não será apresentado por ausência de linha base para estabelecimento do percentual anual atingido.
+Notas Explicativas: Inserção dos dados do atendimento dos acidentes ocorridos pelas equipes do IBAMA em planilha controle para avaliação mensal, trimestral e anual, visando melhoria da atuação das equipes de emergências ambientais do IBAMA. Entende-se por controle ambiental, qualquer ação que envolva análise documental, solicitação de informações, notificação, autos de infração, vistoria no local, dentre outras.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Entrega: 743
+Indicador: 11002
+Denominação: Quantidade de bifenilas policloradas (PCBs )destinadas de forma ambientalmente adequadas
+Sigla: PCBs
+Índice De Referência: 24000.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: tonelada
+Descrição: O indicador demonstra a quantidade de substâncias químicas destinadas de forma ambientalmente adequada.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de substâncias químicas destinadas de forma ambientalmente adequada
+Fonte De Dados Das Variáveis De Cálculo: Acompanhamento regular do MMA por meio do Projeto PCB
+Forma De Disponibilização: Site do MMA e Página do Projeto PCB
+Procedimento De Cálculo: Checar a ocorrência de novas ações de destinação de PCBs
+Limitações: Somente números, unidade de medida: toneladas
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Entrega: 708
+Indicador: 9652
+Denominação: Quantidade de CO emitido por veículos leves de passageiros da fase Proconve L-8, em emissão em tráfego real
+Sigla: CO
+Índice De Referência: 2000.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é mensurado durante a homologação de motores realizada pelo Ibama. Ele é um dos poluentes de interesse para a qualidade do ar, e também indica a evolução de restrições de emissões no âmbito do Proconve. Por se tratar de verificação em tráfego real, também apresenta resultados mais próximos das emissões dos veículos em uso. A medição deste indicador já ocorre no âmbito do processo de homologação de veículos e motores pelo Ibama e atualmente é medido em mg/km.
+Período Ou Data A Que Se Refere: 31 de janeiro, para emissões homologadas entre 1 de janeiro e 31 de dezembro do ano anterior.
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Emissões de CO
+Fonte De Dados Das Variáveis De Cálculo: Ibama, por relato, ao final de janeiro, a partir dos processos de homologação de motores e veículos.
+Forma De Disponibilização: Ibama, ao final de janeiro.
+Procedimento De Cálculo: Somatória de emissões de CO, em tráfego real, em mg/km, para veículos Proconve L-8, dividido pelo total de licenças emitidas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Entrega: 702
+Indicador: 9625
+Denominação: Quantidade de mercúrio importado
+Sigla: MERC
+Índice De Referência: 11879.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: kg
+Descrição: O Brasil não dispõe de minas de cinábrio, tampouco de produção local de mercúrio, fazendo com que todo o mercúrio utilizado no Brasil seja importado. Considerando que a importação é a porta de entrada do mercúrio no Brasil, e que o Ibama é órgão anuente para esta importação, o indicador faz a mensuração da disponibilidade de mercúrio no país a partir de um ponto específico da cadeia. Trata-se de uma informação disponível no Comex Stat e também em registros operação a operação, autorizados pelo Ibama. A partir das duas fontes, é possível obter o total oficial de importações desta NCM, e a partir das informações do Ibama, qual o uso pretendido desta substância no país - requisito para cumprimento da Convenção de Minamata.
+Período Ou Data A Que Se Refere: Apuração em 31 de janeiro, para importações de mercúrio ocorridas até 31 de dezembro do ano anterior.
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Mercúrio importado
+Fonte De Dados Das Variáveis De Cálculo: Ibama
+Forma De Disponibilização: Ibama, por relato ao final de janeiro, e Comex Stat (http://comexstat.mdic.gov.br/pt/geral)
+Procedimento De Cálculo: Somatório da quantidade de mercúrio importada em um ano pelo Brasil.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Entrega: 734
+Indicador: 9658
+Denominação: Quantidade de NMHC + NOX emitidos por veículos leves de passageiros da fase Proconve L-8, em emissão em tráfego real
+Sigla: NMHC + NOX
+Índice De Referência: 160.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é mensurado durante a homologação de motores realizada pelo Ibama. Ele é um dos poluentes de interesse para a qualidade do ar, e também indica a evolução de restrições de emissões no âmbito do Proconve. Por se tratar de verificação em tráfego real, também apresenta resultados mais próximos das emissões dos veículos em uso. A medição deste indicador já ocorre no âmbito do processo de homologação de veículos e motores pelo Ibama e atualmente é medido em mg/km.
+Período Ou Data A Que Se Refere: 31 de janeiro, para emissões homologadas entre 1 de janeiro e 31 de dezembro do ano anterior.
+Data De Divulgação/Disponibilização: 31 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Emissões de NMHC + NOX
+Fonte De Dados Das Variáveis De Cálculo: Ibama, por relato, ao final de janeiro, a partir dos processos de homologação de motores e veículos.
+Forma De Disponibilização: Ibama, ao final de janeiro.
+Procedimento De Cálculo: Somatório de emissões de NMHC + NOX, em tráfego real, em mg/km, para veículos Proconve L-8, dividido pelo total de licenças emitidas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1190
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Indicador: 9484
+Denominação: Número de municípios apoiados pelo MMA com iniciativas para o aperfeiçoamento da gestão ambiental municipal de forma integrada realizadas
+Sigla: GESTAMBIENTAL
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: É importante considerar o quantitativo de municípios beneficiados pelas iniciativas de qualificação técnica, de adesão a sistema com ferramentas de apoio à gestão ambiental municipal e de projetos fomentados pois é a administração pública municipal a principal beneficiária dos recursos a serem providos por este programa.
+Período Ou Data A Que Se Refere: Setembro a Setembro
+Data De Divulgação/Disponibilização: última semana de outubro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A fórmula possui as seguintes variáveis relacionadas a iniciativas de aperfeiçoamento da gestão ambiental municipal: adesão a cursos, workshops, acordos de cooperação e de projetos e adesão ao uso de ferramentas ofertadas pelo MMA para apoio à gestão.
+Fonte De Dados Das Variáveis De Cálculo: Nº de municípios representados na lista de matrículas dos cursos online a serem ofertados no ambiente virtual de aprendizagem do MMA e nas listas de presença de workshops. Será checado também se os municípios capacitados oficializaram parceria com o MMA para utilização do sistema de apoio à gestão de áreas verdes urbanas (Cadastro Ambiental Urbano), para execução de projetos municipais relacionados a áreas verdes ou para acordos de cooperação técnica
+Forma De Disponibilização: Em 2024, os indicadores do Programa poderão ser disponibilizados por meio de painel no site do MMA
+Procedimento De Cálculo: Somatório de municípios  nas listas de cursos EaD e presenciais adicionados ao somatório de acordos com o MMA para municípios utilizarem o Cadastro Ambiental Urbano e executarem projetos municipais relacionados a  (sem repetição de municípios, mesmo que possuam mais de uma das iniciativas elencadas)
+Limitações: Número inteiro. Cuidados para não somar em duplicidade, caso o município possua mais de uma iniciativa de aperfeiçoamento da gestão ambiental municipal
+Notas Explicativas: Indicador pode ser utilizado para medição da efetividade das articulações e divulgações  do governo federal
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 285
+Indicador: 9490
+Denominação: Percentual de municípios que implementam ações ou instrumentos da Agenda Nacional de Proteção, Defesa, Bem-estar e Direitos Animais
+Sigla: DEFANIMAL
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: Para estabelecer a linha de base, o indicador corresponde ao percentual de municípios brasileiros com projetos de proteção, defesa e direitos animais em parceria com a união. As próximas aferições serão considerados projetos, ações e atividades que forem desenvolvidos nos municípios.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Na primeira semana do mês de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Municípios que implementam ações ou instrumentos 
+Total de municípios
+Fonte De Dados Das Variáveis De Cálculo: Instituto Brasileiro de Geografia e Estatística (IBGE) - Número de estados brasileiros e o Distrito Federal (DF) - Número de municípios brasileiros: 5570, fonte IBGE em 14/07/2023
+Ministério do Meio Ambiente e Mudança do Clima (MMA), em banco de dados internos com informações de projetos, atividades e acordos realizados em parceria com o MMA para fomentar a proteção, defesa e bem-estar animal, com vistas à conscientização, prevenção e combate a práticas prejudiciais aos direitos animais, à biodiversidade e ao meio ambiente.
+Informações do SICAD.
+Forma De Disponibilização: Site do MMA.
+Procedimento De Cálculo: Percentual de municípios conforme PNMPCG e CENSOANI
+Limitações: O indicador escolhido permite captar a difusão no país da implementação da Agenda Nacional de Proteção, Defesa e Bem-estar Animal, com vistas à conscientização, prevenção e combate a práticas prejudiciais aos direitos animais, à biodiversidade e ao meio ambiente. Contudo, não possibilita o monitoramento de todas as entregas previstas no Objetivo, pois existem unidades de medidas diferentes entre as entregas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Indicador: 9486
+Denominação: Percentual de UFs que geram dados de monitoramento da qualidade do ar, água e solo, integradas aos sistemas de monitoramento federais
+Sigla: QUALIAR
+Índice De Referência: 10.0
+Em Apuração: Não
+Data De Apuração: 0023-06-29 00:00:00
+Unidade De Medida: %
+Descrição: O indicador demonstra a porcentagem de UFs que realizam o monitoramento da qualidade do ar, da água e do solo que estão conectadas e integradas aos sistemas de gestão federais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: UFs que realizam monitoramento e Ufs que realizam monitoramento conectadas aos sistemas federais.
+Fonte De Dados Das Variáveis De Cálculo: Consultas permanentes do MMA aos órgãos ambientais estaduais
+Forma De Disponibilização: Site do MMA e sistemas MonitorAr, MonitorAgua e Singac.
+Procedimento De Cálculo: Checar se houve alteração no quantitativo de Ufs que realizam monitoramento e nas Ufs conectadas aos sistemas federais.
+Limitações: Somente números inteiros
+Notas Explicativas: Número de Ufs.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Indicador: 9481
+Denominação: Quantidade de substâncias químicas perigosas destinadas de forma ambientalmente adequada
+Sigla: RECIC
+Índice De Referência: 24000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: tonelada
+Descrição: O indicador demonstra a quantidade de substâncias químicas destinadas de forma ambientalmente adequada.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro de cada ano
+Periodicidade: Indisponível
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de substâncias químicas destinadas de forma ambientalmente adequada
+Fonte De Dados Das Variáveis De Cálculo: Acompanhamento regular do MMA por meio do Projeto PCB
+Forma De Disponibilização: Site do MMA e Página do Projeto PCB
+Procedimento De Cálculo: Checar a ocorrência de novas ações de destinação de PCBs
+Limitações: Somente números, unidade de medida: toneladas
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 277
+Indicador: 9476
+Denominação: Taxa de recuperação de recicláveis secos dos resíduos sólidos urbanos
+Sigla: RECIC
+Índice De Referência: 2.2
+Em Apuração: Não
+Data De Apuração: 2020-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O índice de recuperação de resíduos (IRR) constitui-se em um dos principais indicadores do Planares, e relaciona-se diretamente com relevantes princípios e objetivos da Lei, no tocante ao desvio de resíduos sólidos da disposição final
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: CO116: Quantidade de RDO e RPU coletada pelo agente público 
+CO117: Quantidade de RDO e RPU coletada pelos agentes privados 
+CO142: Quantidade de RDO e RPU coletada por outros agentes executores 
+CS009: Quantidade total de materiais recicláveis recuperados 
+CS148: Qtd. recolhida na coleta seletiva executada por associações ou cooperativas de catadores COM parceria/apoio da Prefeitura
+Fonte De Dados Das Variáveis De Cálculo: Sistema Nacional de Informações sobre Saneamento Básico (SNIS)
+Forma De Disponibilização: Glossário de Indicadores - Resíduos Sólidos (SNIS)
+Procedimento De Cálculo: Quantidade total de materiais recicláveis recuperados (CS009) divido pela soma de: Quantidade de RDO e RPU coletada pelo agente público + Quantidade de RDO e RPU coletada pelos agentes privados + Quantidade de RDO e RPU coletada por outros agentes executores + Qtd. recolhida na coleta seletiva executada por associações ou cooperativas de catadores COM parceria/apoio da Prefeitura, multiplicado por 100.
+Limitações: Calculado somente se os campos CO116 e CO117 preenchidos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1190
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 277
+Enunciado: Aumentar a reciclagem de resíduos secos e orgânicos no Brasil.
+Descrição: Pretende-se aumentar a taxa de reciclagem de resíduos secos e orgânicos por meio de 3 estratégias: implementação da Lei de Incentivo à Reciclagem (Lei nº 14.260/2021), que prevê a dedução de imposto de renda para apoio a projetos de incentivo à reciclagem; apoio a projetos de compostagem associada a agricultura urbana e periurbana; e o apoio a projetos municipais ou de consórcios públicos visando a melhoria da gestão de resíduos sólidos (por meio de implantação/ampliação da coleta seletiva; apoio a estruturação de associações/cooperativas de materiais reutilizáveis ou recicláveis; entre outros). O valor social das ações pretendidas perpassa o aumento da renda dos catadores materiais reutilizáveis e recicláveis e a produção de alimentos e plantas medicinais visando, sobretudo, a segurança alimentar de populações carentes. Quanto a reciclagem de resíduos secos também temos o instrumento de logística reversa, em especial de embalagens em geral que contribuirá para o aumento da reciclagem
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 280
+Enunciado: Promover a gestão adequada de substâncias químicas, resíduos perigosos e emergências ambientais, minimizando os efeitos adversos ao meio ambiente e à saúde humana.
+Descrição: As substâncias químicas são parte de nossa vida moderna, sendo utilizadas numa grande variedade de produtos, proporcionando vários benefícios à sociedade. Por outro lado, estão associadas a danos potenciais à saúde humana e ao meio ambiente, em todo o seu ciclo de vida, desde a sua produção à geração de resíduos perigosos e sua destinação final, quando seus riscos não são devidamente controlados.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 281
+Enunciado: Promover a qualidade do meio ambiente urbano por meio do apoio aos estados e municípios para aprimoramento da gestão ambiental de forma integrada.
+Descrição: Apoio federal a estados e municípios para fortalecimento de suas capacidades institucionais, por meio de ações de diversas naturezas como: qualificação técnica, aporte ferramental e recursos financeiros, quando disponíveis, para apoiar o trabalho de gestores e técnicos da administração pública das áreas de meio ambiente e planejamento urbano que se relacionam principalmente com a gestão das áreas verdes urbanas. A boa gestão das áreas verdes impactam diretamente a vida dos cidadãos. São práticas fundamentais para o desenvolvimento sustentável e o aumento de resiliência das cidades em relação às mudanças do clima. Ferramentas adequadas e boas práticas de gestão desses espaços podem contribuir para a redução de uma série de desastres como inundações, deslizamentos, ondas de calor, perda de biodiversidade, impactos na saúde, entre outros, e, consequentemente, para a melhoria da qualidade de vida nas cidades.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 283
+Enunciado: Ampliar a disponibilidade e integração das informações para a sociedade sobre a qualidade do ar, da água e do solo.
+Descrição: A falta de informações implica em lacunas importantes em relação ao conhecimento da situação da qualidade do ar, da água e do solo no Brasil, impossibilitando que medidas sejam adotadas para o seu controle. Sem informações sobre o cenário vigente, não é possível conduzir ações de planejamento a curto e longo prazo para controle e mitigação da concentração de poluentes nas matrizes ambientais. Com isso, este objetivo específico visa o aprimorando do levantamento de informações sobre qualidade do ar, água e solo, com o objetivo final de proteger a saúde da população e o meio ambiente decorrentes da exposição a esses poluentes.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Objetivo Específico: 285
+Enunciado: Fomentar a proteção, defesa e bem-estar animal, com vistas à conscientização, prevenção e combate a práticas prejudiciais aos direitos animais, à biodiversidade e ao meio
+ambiente.
+Descrição: Promover a proteção, defesa e bem-estar e direitos animais, por meio de ações educativas, mobilização social, interlocução com os poderes constituídos e regulamentação de diretrizes e normas, com o propósito de conscientizar a sociedade e combater práticas prejudiciais aos direitos animais, à biodiversidade e ao meio ambiente. Além disso, busca-se elaborar, implementar e fomentar programas, projetos e ações que visem à proteção, defesa, bem-estar e direitos animais, bem como o combate de práticas prejudiciais aos animais, como maus-tratos e abandono; estabelecer medidas e diretrizes para garantir o bem-estar e a qualidade de vida dos animais, considerando suas necessidades físicas, emocionais e comportamentais.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 1190
+
+Exercício: 2025
+Programa: 1190
+Objetivo: 1317
+Enunciado: Promover a gestão ambiental urbana e rural por meio do controle da poluição e contaminação, bem como pela mitigação dos impactos negativos das atividades humanas, com vistas à melhoria da qualidade ambiental e de vida e da proteção dos direitos animais nas cidades e no campo.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1190
+
+Exercício: 2025
+Programa: 1190
+Título: Qualidade Ambiental nas Cidades e no Campo
+Tipo: Finalístico
+Órgão: 44000.0
+Público-Alvo: População urbana e rural; Catadores de materiais recicláveis; Famílias da agricultura familiar, povos e comunidades tradicionais, jovens e mulheres.
+Descrição Do Problema: A reciclagem no Brasil enfrenta desafios complexos como infraestrutura insuficiente, baixa conscientização da população e políticas públicas ineficientes. Os baixos índices de coleta seletiva, processamento inadequado e lacunas em educação ambiental contribuem para a destinação incorreta dos resíduos.
+A gestão inadequada de substâncias químicas perigosas, podem representar riscos para a saúde humana e o meio ambiente. A falta de controle e monitoramento na produção, transporte, armazenamento e descarte dessas substâncias pode resultar em vazamentos, contaminação do solo e da água, além de danos à fauna e flora.
+A qualidade do meio ambiente urbano é afetada pela poluição do ar, da água e dos solos, pela falta de áreas verdes e espaços públicos, além da gestão inadequada de resíduos sólidos. Por exemplo, a emissão de poluentes provenientes de veículos, indústrias e queima de combustíveis fósseis, o lançamento de esgotos e resíduos industriais não tratados nos corpos d'água, e a escassez de parques, praças e áreas de lazer.
+Falta de acesso fácil e compreensível às informações relevantes sobre a qualidade ambiental e deficiência da indisponibilidade e integração das informações para a sociedade. Essa falta de integração dificulta a identificação de tendências, a tomada de decisões e a implementação de ações efetivas para lidar com problemas ambientais.
+Ausência de políticas públicas de inclusão socioprodutiva sustentáveis de base agroecológica, agrícolas e não agrícolas que alcancem de forma efetiva as famílias da agricultura familiar, povos e comunidades tradicionais, jovens e mulheres, que promovam a gestão ambiental dos territórios rurais.
+Inefetividade das políticas públicas e regulamentações que garantam o respeito pelos direitos dos animais, proibindo práticas cruéis, como maus-tratos, abuso e exploração desnecessária. Falta maior conscientização da população sobre os direitos animais, bem como práticas e programas educacionais, campanhas de sensibilização e divulgação de informações sobre proteção animal e a conservação do meio ambiente.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

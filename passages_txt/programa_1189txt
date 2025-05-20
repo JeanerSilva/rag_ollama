@@ -1,0 +1,982 @@
+passage: Programa Número 1189
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 271
+Entrega: 646
+Indicador: 9592
+Denominação: Metros cúbicos de créditos florestais virtuais saneados, suspensos ou bloqueados nos sistemas federais de controle. (m3)
+Sigla: CREDFLO
+Índice De Referência: 60000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: m³
+Descrição: As operações denominadas Traçamento e Registro de Exploração feitas no Sinaflor pelo empreendedor é o mecanismo de migração de crédito para o Sistema DOF e deve ser feito individualmente para cada tora após o romaneio da mesma, devendo ser equivalente a espécie e a volumetria autorizada por árvore. Assim, eventuais inconsistências identificadas nessas operações podem estar relacionadas com possível geração e migração de créditos indevidos de madeira para o Sistema DOF, que podem ser utilizados para “esquentar” madeira de origem ilegal, principalmente de Terras Indígenas e Unidades de Conservação.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Primeira quinzena de abril de cada ano
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Metros cúbicos de madeira com inconsistências e/ou ilegais bloqueados nos sitemas de controle (SINAFLOR e DOF)
+Fonte De Dados Das Variáveis De Cálculo: Sistemas Sinaflor e DOF
+Forma De Disponibilização: Painéis Analíticos da Produção Madeireira (https://dd.serpro.gov.br/)
+Procedimento De Cálculo: Somatório de metros cúbicos de madeira com inconsistências e/ou ilegais bloqueados nos sitemas de controle (SINAFLOR e DOF)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 676
+Indicador: 9606
+Denominação: Número de comunidades apoiadas
+Sigla: REPESC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador permite aferir o aumento da participação social e política das comunidades atendidas frente ao desafio socioambiental e para promover a transição do modelo de desenvolvimento econômico atual para a bioeconomia azul. O indicador será aplicado nas reservas extrativistas ou outras categorias de Unidades de Conservação em biomas aquáticos (dulcícolas ou marinhos costeiros).
+Período Ou Data A Que Se Refere: Janeiro-dezembro
+Data De Divulgação/Disponibilização: Ultima semana de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de UCs (NUCs), Número de empreendimentos atendidos (NEA) e o Número de pessoas (NP).
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Nacional de Unidades de Conservação (CNUC).
+Forma De Disponibilização: Publicação na última semana de janeiro de 2025, na página da Secretaria Nacional de Bieoconomia mantida no website do MMA.
+Procedimento De Cálculo: Número de UCs (NUCs) e/ou Número de empreendimentos atendidos (NEA) + Número de pessoas (NP) = Números de instrumentos de ordenamento ou fomento do uso sustentável dos recursos pesqueiros (NIOF)
+Limitações: Desconsiderar casas decimais.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Entrega: 2165
+Indicador: 11505
+Denominação: Número de comunidades atendidas com iniciativas de turismo de base comunitária
+Sigla: TUR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador de comunidades atendidas foi estabelecido tendo em vista que o turismo de base comunitária só faz sentido quando atende uma comunidade, não sendo possível individualizar por família.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Comunidades atendidas.
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: A partir da execução das ações previstas por este MMA (editais, convênios etc.)
+Procedimento De Cálculo: Somatório do número de comunidades atendidas.
+Notas Explicativas: Desagregação para identificação do número de pessoas atendidas, bem como de mulheres, jovens e crianças.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 266
+Entrega: 631
+Indicador: 9576
+Denominação: Número de editais de concessão florestal lançados
+Sigla: CONCE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O edital de licitação é o instrumento administrativo necessário para concessão de uma floresta pública, previsto na Lei 11.284/2006, contendo os procedimentos, regras e critérios técnicos para que o poder concedente (no caso, a União), representado pelo órgão gestor, possa selecionar, no mercado, a melhor proposta possível e estabelecer um contrato com entidade concessionária do setor privado para exploração econômica de uma floresta pública federal.
+Período Ou Data A Que Se Refere: 1º semestre de 2023.
+Data De Divulgação/Disponibilização: Nos meses de fevereiro, maio, agosto e novembro de cada ano.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "NEP", variável dependente que representa a soma de editais publicados para licitações de concessões de florestas públicas federais; e "Edital_Publicado", que correspondente ao valor unitário (igual a "1"), indicando cada edital publicado.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Eletrônico de Informações (SEI) do SFB/MMA.
+Forma De Disponibilização: Acesso público pelo portal digital do SFB/MMA na rede mundial de computadores.
+Procedimento De Cálculo: NEP = ∑Edital_Publicado(i), onde "NEP" (Número de Editais Publicados) é o indicador relativo à soma dos editais de licitação para concessão florestal publicados até a data de apuração do indicador; "Edital_Publicado" corresponde a cada edital publicado, com valor de "1" no somatório "NEP"; e "i" é o indexador de cada respectivo edital publicado e computado no somatório (variando de 1 até o número total de editais publicados no período).
+Soma algébrica do número de editais de licitação para concessões de florestas públicas federais publicados.
+Limitações: O indicador é apenas um somador de índices unitários, portanto devem ser utilizados apenas números inteiros no cálculo.
+Notas Explicativas: Considerando a baixa complexidade do indicador, não há necessidade de notas explicativas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 258
+Entrega: 615
+Indicador: 9552
+Denominação: Número de editais de delegação publicados para prestação de serviços de apoio à visitação em Unidades de Conservação - Ucs
+Sigla: VISIT
+Índice De Referência: 73.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador descreve os editais de delegação publicados. Cada edital pode gerar uma quantidade variável de delegações firmadas, considerando a natureza da delegação, a natureza do serviço delegado e o contexto social da UC.
+Período Ou Data A Que Se Refere: Referencial é anual
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Editais de delegação
+Fonte De Dados Das Variáveis De Cálculo: SEI, base de dados da Coordenação de Estruturação de Delegações de Serviços de Apoio à Visitação ICMBIO
+Forma De Disponibilização: BI uso público ICMBIO
+Procedimento De Cálculo: Somatório do nº de editais de delegação e parceria publicados para prestação de serviços de apoio à visitação em UCs
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 258
+Entrega: 611
+Indicador: 9542
+Denominação: Número de empreendimentos fomentados por meio de assessoria e capacitação para negócios florestais
+Sigla: FOMENT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de empreendimentos (associações, cooperativas, redes de comercialização e empresas)  fomentados foi considerado um indicador de fácil contabilidade e capaz de responder a entrega proposta
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: 31 de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Empreendimentos fomentados
+Fonte De Dados Das Variáveis De Cálculo: Controle de projetos e inciativas
+Forma De Disponibilização: Relatório de Gestão do SFB
+Procedimento De Cálculo: Análise dos dados dos projetos e das iniciativas de fomento
+Limitações: Não se aplica
+Notas Explicativas: O número de empreendimentos fomentados no ano de referência tratam-se das associações, cooperativas, redes de comercialização e empresas que receberam apoio para negócios florestais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 666
+Indicador: 9598
+Denominação: Número de famílias atendidas com Assitência Técnica e Extensão Rural - ATER
+Sigla: ATER
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Número de famílias atendidas com Assitência Técnica e Extensão Rural - ATER
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: segunda quinzena do mês de janeiro do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de famílias atendidas
+Fonte De Dados Das Variáveis De Cálculo: base de dados validada pelo MMA.
+Forma De Disponibilização: Cadúnico, dados abertos do MMA, dentre outros.
+Procedimento De Cálculo: somatório das famílias elegíveis para o recebimento da assistência técnica.
+Notas Explicativas: A família receberá assistência técnica e extensão rural (ATER) para aprimorar sua tecnicas de produção e comercialização dos produtos da sociobiodiversidade.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 657
+Indicador: 9594
+Denominação: Número de famílias atendidas pelo Programa de Apoio à Conservação Ambiental - Bolsa Verde
+Sigla: CONSERV
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: unidade
+Descrição: Número de familias elegiveis a receber o pagamento do benefício trimestral nos territorios pré definidos pelo Comite gestor do Programa Bolsa Verde. Entende-se que o presente indicador melhor traduz os objetivos do programa, o qual busca conciliar a conservação ambiental  à melhoria das condições de vida e à elevação da renda da população em situação vulnerável.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: segunda quinzena do mês de janeiro do ano seguinte.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de famílias atendidas
+Fonte De Dados Das Variáveis De Cálculo: base de dados validada pelo MMA.
+Forma De Disponibilização: Cadúnico, dados abertos do MMA, dentre outros.
+Procedimento De Cálculo: somatório das famílias elegíveis inseridas na folha de pagamento
+Notas Explicativas: Entende-se por "famílias atendidas", aquelas que atendem cumulativamente às condições expressas no Art. 4º e 5º  da Lei 12512/2011 e estejam inseridas na folha de pagamento do agente operador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Entrega: 2158
+Indicador: 11504
+Denominação: Número de famílias do público-alvo atendidas com assessoria técnica e extensão rural socioambiental
+Sigla: ATER
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador número de famílias atendidas é a melhor forma de se medir a melhoria de qualidade de vida do público alvo, aliado à conservação ambiental.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de famílias atendidas
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: A partir da execução das ações previstas pelo MMA (editais, convênios etc.)
+Procedimento De Cálculo: Somatório do número de famílias atendidas.
+Notas Explicativas: Desagregação para identificação do número de pessoas atendidas, bem como de mulheres, jovens e crianças.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Entrega: 2156
+Indicador: 11502
+Denominação: Número de famílias do público-alvo atendidas com inclusão socioprodutiva
+Sigla: SOCIOPROD
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador número de famílias atendidas é a melhor forma de se medir a melhoria de qualidade de vida do público alvo, aliado à conservação ambiental.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Útltima semama do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de famílias atendidas.
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: A partir da execução das ações previstas pelo MMA (editais, convênios etc.)
+Procedimento De Cálculo: Somatório do número de famílias atendidas.
+Notas Explicativas: desagregação para identificação do número de pessoas atendidas, bem como de mulheres, jovens e crianças.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 1377
+Indicador: 10478
+Denominação: Número de instrumentos de compatibilização de direitos celebrados ou tornados permanentes, ou em fase de finalização
+Sigla: DIRET
+Índice De Referência: 23.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Existem mais de um  instrumento de compatibilização de direitos para os casos de sobreposição. Alguns tipicamente institucionais do ICMBio são: Termos de Compromisso e Planos Específicos de Gestão. Outros podem envolver a participação de mais de um ente administrativo da esfera governamental, tais como:  Planos Conjuntos de Administração (senso PNGATI), Emissão de Contrato de Direito Real de Uso (CDRU), Acordos de Cooperação Técnica e Planos Específicos de Trabalho.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Última semana de janeiro (referente ao ano anterior)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Instrumentos de compatibilização de direitos celebrados ou tornados permanentes, ou em fase de finalização
+Fonte De Dados Das Variáveis De Cálculo: Registro em processos do SEI/ICMBio.
+Forma De Disponibilização: Inicialmente, consulta à COGCOT/DISAT/ICMBio.
+Procedimento De Cálculo: Somatório dos instrumentos celebrados ou tornados permanentes, ou em fase de finalização
+Limitações: Número inteiro
+Notas Explicativas: Serão contabilizados os instrumentos de compatibilização, termos de compromisso, acordos de convivência, planos específicos de gestão, dentre outros instrumentos análogos.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 1378
+Indicador: 10483
+Denominação: Número de instrumentos formalizados para o desenvolvimento de empreendimentos comunitários de uso ou manejo de recursos naturais em unidades de conservação federais
+Sigla: MANEJ
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Apura tanto o esforço institucional quanto é indicativo da promoção ou viabilização de condições necessárias para a promoção de atividades ou empreendimentos, de iniciativa de povos e comunidades tradicionais, sujeitas a procedimentos autorizativos a cargo da CGPT, e que, uma vez viabilizadas, contribuem para o desenvolvimento socioeconômico em unidades de conservação
+Período Ou Data A Que Se Refere: janeiro a dezembo
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ∑ I = soma de "instrumentos" viabilizados pela CGPT no período em referência (do inicio de 2024 até a data de apuração, com data final de contabilização de resultados no final de 2027)
+PE = plano específico de uso de recursos naturais
+PGL = plano de gestão local de recurso pesqueiro aprovado;
+PO = portaria de ordenamento do uso de recurso natural;
+AMFC = autorização/aprovação para manejo florestal comunitário (AMFC), incluindo aprovação de plano de manejo florestal sustentável comunitário e emissão de autorização de exploração;
+AMCC = aprovação para o manejo comunitário de crocodilianos em unidade de conservação, incluindo autorização para plano de manejo de crocodilianos e definição de cota de abate;
+AMCQ = aprovação para manejo comunitário de quelônios em unidade de conservação, incluindo autorização; para o manejo comunitário de quelônios e autorização para cota anual de apanha de filhotes no âmbito de manejo comunitário;
+IN = instrução normativa para regramento de exploração ou manejo de recursos naturais;
+APP = anuênica para a pesca do pirarucu
+Fonte De Dados Das Variáveis De Cálculo: Registro em processos do SEI/ICMBio
+Forma De Disponibilização: Inicialmente, consulta à CGPT/DISAT/ICMBio
+Procedimento De Cálculo: Saldo acumulado de instrumentos viabilizados no período em referência, contabilizando-se os instrumentos formalizados a partir do início de 2024 até a data de apuração no final de cada ano, com resultado final dos 4 anos sendo apurado no final de 2027.
+Limitações: O que se contabiliza são números naturais, sem possibilidade de fração.
+Notas Explicativas: (i) No caso da autorização/aprovação para manejo florestal comunitário (AMFC), são contabilizados, além de Planos de Manejo Florestal Sustentável Comunitário aprovados, autorizações de exploração e renovações de autorização de exploração; (ii) O que se contabiliza são quantos instrumentos foram formalizados do início de 2024 até o final de 2027, com apurações de desempenho anuais; (iii)  A linha de base em 2024 deve ser zero, de modo a se contar os instrumentos viabilizados a partir de 2024.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 262
+Entrega: 619
+Indicador: 9558
+Denominação: Número de notificações de produtos oriundos de acesso ao Patrimônio Genético e ao Conhecimento Tradicional Associado
+Sigla: PGCTA
+Índice De Referência: 15000.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: A notificação de produto é o instrumento declaratório que antecede o início da atividade de exploração econômica de produto acabado ou material reprodutivo oriundo de acesso ao patrimônio genético ou ao conhecimento tradicional associado, no qual o usuário declara o cumprimento dos requisitos desta Lei e indica a modalidade de repartição de benefícios, quando aplicável, a ser estabelecida no acordo de repartição de benefícios.
+Período Ou Data A Que Se Refere: Janeira a dezembro
+Data De Divulgação/Disponibilização: Ao final do ano
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Número de notificações de produtos oriundos de acesso ao Patrimônio Genético e ao Conhecimento Tradicional Associado.
+Fonte De Dados Das Variáveis De Cálculo: sisgen.gov.br
+Forma De Disponibilização: https://sisgen.gov.br/paginas/publicidade.aspx
+Procedimento De Cálculo: Somatório do número de notificações de produtos oriundos de acesso ao Patrimônio Genético e ao Conhecimento Tradicional Associado.
+Notas Explicativas: A notificação de produto é o instrumento declaratório que antecede o início da atividade de exploração econômica de produto acabado ou material reprodutivo oriundo de acesso ao patrimônio genético ou ao conhecimento tradicional associado, no qual o usuário declara o cumprimento dos requisitos desta Lei e indica a modalidade de repartição de benefícios, quando aplicável, a ser estabelecida no acordo de repartição de benefícios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 669
+Indicador: 9600
+Denominação: Número de organizações socioprodutivas comunitárias atendidas
+Sigla: SOCIOPROD
+Índice De Referência: 20.0
+Em Apuração: Não
+Data De Apuração: 2023-07-19 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de um indicador simples  capaz de dimensionar ações diretas da União nas cadeias ou redes da sociobiodiversidade.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número absoluto de organizações apoiadas.
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA.
+Forma De Disponibilização: Dados abertos do MMA.
+Procedimento De Cálculo: Somatório do número absoluto de organizações apoiadas.
+Limitações: número inteiro positivo.
+Notas Explicativas: Em um primeiro momento, o indicador é um número inteiro. O Uso é direito. Contudo, em um segundo momento, o indicador de entrega será o Índice de Fortalecimento das Cadeias Produtivas da Sociobiodiversidade (IFCPS). Esse indicador medirá o grau de avanço no fortalecimento das cadeias produtivas ligadas à sociobiodiversidade, incorporando critérios como o incremento da produção sustentável, o aumento da renda e bem-estar das comunidades envolvidas, além da conservação dos ecossistemas e da diversidade biológica.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Entrega: 3376
+Indicador: 12711
+Denominação: Número de polos territoriais de conservação da agrobiodiversidade e produção agroecológica implementados
+Sigla: Polo Proambiente
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Unidade territórial (Polo) é a melhor unidade de medida para avaliar a evolução da conservação da transição produtiva agroecológica/agroextrativista na atividade rural (não havendo número fixo de famílias por território).
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semama de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de polos Territoriais de conservação e produção agroecológica implementados
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: A partir da execução das ações previstas pelo MMA (editais, convênios etc.)
+Procedimento De Cálculo: Somatório do número de polos Territoriais de conservação e produção agroecológica implementados
+Notas Explicativas: Unidade territorial rural de conservação da agrobiodiversidade, composto por áreas geograficamente contínuas ou isoladas, com o desenvolvimento de atividades socioprodutivas  sustentáveis de base agroecológica, agroextrativistas agrícola e/ou não agrícola, beneficiando territórios e famílias da agricultura familiar, povos indígenas, povos e comunidades tradicionais, gerando adicionalidades de cobertura florestal, conservação do solo, da água e da biodiversidade. Apesar da unidade de medida do indicador ser unidade territorial, será possível avaliar também a área com recuperação de vegetação nativa, área com desmatamento evitado, área com formação de corredores ecológicos e agroecológicos, entre outros.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 271
+Entrega: 640
+Indicador: 9586
+Denominação: Número de publicações disponibilizadas no Sistema Nacional de Informações Florestais
+Sigla: INFLOREST
+Índice De Referência: 11.0
+Em Apuração: Sim
+Data De Apuração: 0223-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Publicação de informações florestais no portal do SNIF, com relatórios e dados aberto publicado no site do SNIF
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Até o fim do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Informações disponibilizadas
+Fonte De Dados Das Variáveis De Cálculo: Produção das publicações e apresentação dos dados no Portal do SNIF
+Forma De Disponibilização: snif.florestal.gov.br
+Procedimento De Cálculo: Somatório das informações disponibilizadas
+Notas Explicativas: As publicações são realizadas por estados a medida que finalizamos um bioma apresentamos por biomas, os relatórios e dados abertos serão apresentados no portal do SNIF
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Entrega: 3377
+Indicador: 12712
+Denominação: Número de territórios com estratégia de gestão ambiental e socioprodutiva de paisagens rurais implementadas
+Sigla: Território Gesta
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Cada território terá a implementação de uma estratégia de gestão ambiental e socioprodutiva da paisagem, sendo que o impacto da estratégia não pode ser medido em nível de propriedade rural, mas sim em nível de território (não havendo número fixo de famílias por territótio).
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana que cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de territórios com estratégia implementada
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: A partir da execução das ações previstas pelo MMA (editais, convênios etc.)
+Procedimento De Cálculo: Somatório do número de territórios com estratégia implementada
+Limitações: Sem limitações
+Notas Explicativas: Cada território terá a implementação de uma estratégia de gestão ambiental e socioprodutiva da paisagem, sendo que o impacto da estratégia não pode ser medido em nível de propriedade rural, mas sim em nível de território (não havendo número fixo de famílias por território).
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 673
+Indicador: 9604
+Denominação: Número de territórios contemplados com intrumentos de gestão socioambiental
+Sigla: GESTSOCIO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Número de territórios contemplados com instrumentos de gestão socioambiental.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: 31 de dezembro de cada ano do cliclo do PPA
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número absoluto de territórios contemplados com instrumentos de gestão socioambiental.
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: Dados abertos do MMA.
+Procedimento De Cálculo: Somatório do número absoluto de territórios contemplados com instrumentos de gestão socioambiental.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 271
+Entrega: 643
+Indicador: 9588
+Denominação: Percentual das unidades de conservação federais com levantamento ocupacional
+Sigla: UCFED
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: O indicador afere o incremento anual de unidades de conservação em que se tem o levantamento de dados relativos aos aspectos socioeconômicos,  espaciais, de identificação ou caracterização familiar e de documentação necessários para as respectivas ações de gestão. Se trata de um indicador novo que mede o conjunto de esforços institucionais no qual o ICMBio busca implementar e dar escala as ações de regularização fundiária, ampliação do acesso a politicas publicas, de garantia de direitos de PCTs e de famílias em situação de vulnerabilidade socioeconômica.
+Período Ou Data A Que Se Refere: 1 de janeiro a 31 de dezembro
+Data De Divulgação/Disponibilização: Última semana de março será publicado o resultado do exercício anterior (a partir de 2025 que contabiliza o ciclo de 2024)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ucs com levantamento ocupacional
+Fonte De Dados Das Variáveis De Cálculo: Consulta a DISAT/ICMBIO
+Forma De Disponibilização: Sistematização de informações oriundas da CGPT, CGSAM e CGTER pela DISAT.
+Procedimento De Cálculo: Soma simples do numero de Ucs com ao menos um levantamento ocupacional parcial atualizado.
+Limitações: Número natural
+Notas Explicativas: Unidades de Conservação atendidas com levantamento ocupacional parcial ou total
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 258
+Entrega: 608
+Indicador: 9535
+Denominação: Percentual de implementação por módulos do Cadastro Nacional de Pagamento por Serviços Ambientais
+Sigla: PSA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador visa refletir o percentual de implementação, por módulo, do Cadastro Nacional de Pagamento por Serviços Ambientais.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana de abril de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Percentual de desenvolvimento de módulos do Cadastro.
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Bioeconomia/MMA
+Forma De Disponibilização: O percentual de desenvolvimento de módulos do Cadastro poderá ser informado pelo DPEB/SBC/MMA. O cadastro está sendo desenvolvido via Acordo de Cooperação MMA/BID.
+Procedimento De Cálculo: Percentual de desenvolvimento dividido em 2025 - 10%  / 2026 - 30% / 2027 - 100%.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Entrega: 682
+Indicador: 9609
+Denominação: Percentual do conjunto das RESEX, RDS e FLONA com população tradicional reconhecida com ao menos um dos instrumentos atualizados para a garantia de direitos (perfil da família beneficiária ou Contrato de Concessão de Direito Real de Uso - CCDRU)
+Sigla: GADIR
+Índice De Referência: 8.5
+Em Apuração: Sim
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: %
+Descrição: Indicador em percentual das Unidades de Conservação que têm os instrumentos para o reconhecimento de famílias tradicionais atualizados. A contabilização das Unidades que têm pelo menos um instrumento atualizado nos indica quais são os territórios protegidos que já contam com esse reconhecimento para a garantia dos direitos territoriais e  indicação de políticas públicas. O percentual é um número mais representativo que o valor absoluto, uma vez que traz a contabilização em relação ao universo de unidades e serem contempladas nessa entrega.
+O índice de referência contabiliza os instrumentos atualizados e não os existentes.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Numerador:  será o número de unidades (Resex, Flonas e RDS) com instrumentos atualizados
+Denominador  fixo de 94 -  refere-se ao nº de Resex, Flonas e RDS identificadas para o reconhecimento de famílias tradicionais
+Fonte De Dados Das Variáveis De Cálculo: Levantamento de famílias do ICMBIO e Diário Oficinal da União (Perfil de família beneficiária e CCDRU)
+Forma De Disponibilização: CGPT/DISAT/ICMBio
+Procedimento De Cálculo: Contabilizar o número de unidades que fez atualizações ou novos levantamentos de famílias nas unidades de conservação ou que publicaram perfil de família beneficiária ou CCDRU em Diário Oficial da União.
+Limitações: Uma casa decimal.
+Notas Explicativas: São contabilizadas RESEX, FLONA e RDS que contam com ao menos um dos seguintes instrumentos atualizados: perfil de família beneficiária, CCDRU ou cadastro de famílias. No caso das FLONAs somente são contabilizadas as que tem população tradicional em seu interior reconhecidas pelo ICMBio.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 266
+Entrega: 637
+Indicador: 9583
+Denominação: Volume de madeira em tora produzido (m3)
+Sigla: VMAD
+Índice De Referência: 2000000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: m³
+Descrição: Medida mais frequente e de fácil entendimento no mercado florestal
+Métrica de produto de maior valor e de fácil apuração e controle em concessões florestais para o manejo sustentável.
+Período Ou Data A Que Se Refere: Trimestral (31 de março, 30 de junho, 30 de setembro e 31 de dezembro)
+Data De Divulgação/Disponibilização: Nos meses de fevereiro, maio, agosto e novembro de cada ano.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: volume de madeira
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadeia de Custódia - SCC
+Forma De Disponibilização: Acesso público pelo portal digital do SFB/MMA na rede mundial de computadores.
+Procedimento De Cálculo: Soma algébrica do volume de madeira de cada contrato apurado trimestralmente.
+Limitações: Os valores são de grande escala, portanto, é mais adequado não utilizar casas decimais
+Notas Explicativas: Considerando a baixa complexidade do indicador, não há necessidade de notas explicativas.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 258
+Entrega: 1514
+Indicador: 10695
+Denominação: Volume médio de recursos alocados em Projetos das cadeias da biodiversidade
+Índice De Referência: 500000.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: R$
+Descrição: A seleção do volume médio de recursos alocados em projetos financiados como indicador é uma medida fidedigna do comprometimento da administração pública com o fomento a pesquisas de relevância no campo da bioeconomia. Também é um resultado de fácil aferição após a contratação desses projetos decorrentes de chamadas públicas, com objetivo de promoção e agregação de valor em cadeias da biodiversidade brasileira.
+Período Ou Data A Que Se Refere: 01/01/2025
+Data De Divulgação/Disponibilização: janeiro do ano seguinte ao início do PPA, após a elaboração e divulgação do relatório anual de atividades do MCTI
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = Volume médio de recursos alocados em projetos e estudos de CT&I para promoção, fortalecimento e agregação de valor em cadeias da biodiversidade brasileira (R$)
+X = Volume total de recursos alocados em projetos e estudos de CT&I para promoção, fortalecimento e agregação de valor em cadeias da biodiversidade brasileira (R$)
+Y = Número de Estudos e Projetos aprovados para promoção, fortalecimento e agregação de valor em cadeias da biodiversidade brasileira
+Fonte De Dados Das Variáveis De Cálculo: Resultados das chamadas públicas do CNPq, FINEP, EMBRAPII e oriundas de cooperação internacional, vinculadas ao MCTI, relacionadas à temática de bioeconomia
+Forma De Disponibilização: Sites do MCTI, CNPq, FINEP, EMBRAPII e parceiros que promovam ações em parceria com o MCTI nos temas correlatos à bioeconomia.
+Procedimento De Cálculo: A obtenção das informações sobre o número e o valor dos projetos financiados é disponibilizada de forma aberta e precisa nas páginas da internet do CNPq e FINEP, por exemplo, após a avaliação final dos mesmos e de eventuais recursos. Nesses sites é possível, inclusive, acompanhar com facilidade todas as etapas dos processos que envolvem as chamadas públicas, desde seu lançamento até o resultado final, uma vez que os cronogramas são parte do descritivo desses editais. 
+https://www.gov.br/cnpq/pt-br
+http://www.finep.gov.br/chamadas-publicas/chamadaspublicas?situacao=aberta&start=10
+A Embrapii também divulga a lista de unidades e projetos apoiados em suas chamadas públicas:
+https://embrapii.org.br/chamadas-publicas/
+Limitações: Não há impedimento para obtenção dos dados do indicador.
+O indicador é de fácil obtenção.
+Não há série histórica porque se trata de novo Objetivo Geral, vinculado ao MMA, com entrega pelo MCTI.
+Entretanto, ressalta-se que o MCTI ordinariamente lançou chamadas públicas e efetuou repasse de recursos nessa área de conhecimento e essas informações são disponíveis.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 271
+Entrega: 898
+Indicador: 9885
+Denominação: Volume médio de recursos alocados em projetos de C,T,I aprovados para apoio à bioeconomia florestal
+Índice De Referência: 500000.0
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: R$
+Descrição: A seleção do volume médio de recursos alocados em projetos (ou estudos) efetivamente aprovados como indicador é uma medida fidedigna do comprometimento da administração pública com o fomento a projetos (ou informações) de relevância no campo da bioeconomia florestal. Também é um resultado de fácil aferição após a contratação desses projetos decorrentes de chamadas públicas (ou de estudos sobre temas relevantes da bioeconomia florestal).
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referencia do indcador
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao início do PPA, após a elaboração e divulgação do relatório anual de atividades do MCTI.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: N = Volume médio de recursos alocados em projetos e estudos de CT&I aprovados para apoio à bioeconomia florestal (R$)
+X = Volume total de recursos alocados em projetos e estudos de CT&I aprovados para apoio à bioeconomia florestal
+Y = Número de Estudos e Projetos aprovados para Bioeconomia Florestal
+Fonte De Dados Das Variáveis De Cálculo: Resultados das chamadas públicas do CNPq, FINEP, EMBRAPII e oriundas de cooperação internacional, vinculadas ao MCTI, relacionadas à temática de bioeconomia
+Forma De Disponibilização: Sites do MCTI, CNPq, FINEP, EMBRAPII e parceiros que promovam ações em parceria com o MCTI nos temas correlatos à bioeconomia.
+Procedimento De Cálculo: A obtenção das informações sobre o número e valor dos projetos aprovados é disponibilizada de forma aberta e precisa nas páginas da internet do CNPq e FINEP, por exemplo, após a avaliação final dos mesmos e de eventuais recursos. Nesses sites é possível, inclusive, acompanhar com facilidade todas as etapas dos processos que envolvem as chamadas públicas, desde seu lançamento até o resultado final, uma vez que os cronogramas são parte do descritivo desses editais. 
+https://www.gov.br/cnpq/pt-br
+http://www.finep.gov.br/chamadas-publicas/chamadaspublicas?situacao=aberta&start=10
+A Embrapii também divulga a lista de unidades e projetos apoiados em suas chamadas públicas:
+https://embrapii.org.br/chamadas-publicas/ 
+Sobre estudos contratados, a COBIO/MCTI acompanha na plataforma Transferegov a execução de convênios e TEDs celebrados. Os dados da plataforma vinculados a este indicador também são acessíveis para consulta pública.
+Limitações: Não há impedimento para obtenção dos dados do indicador.
+Não há série histórica porque se trata de novo Objetivo Geral, vinculado ao MMA, com entrega pelo MCTI.
+Entretanto, ressalta-se que o MCTI lançou chamadas públicas e efetuou repasse de recursos que já atenderam a essa área de conhecimento e tais informações são disponíveis.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+passage: Programa Número 1189
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 266
+Indicador: 9461
+Denominação: Área de florestas públicas federais concedidas e em produção de produtos e serviços florestais
+Sigla: CONCED
+Índice De Referência: 1288000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-12 00:00:00
+Unidade De Medida: ha
+Descrição: O "Índice de Referência" adotado, em termos de área de florestas públicas federais concedidas com contratos vigentes até essa data (mensurada em hectares), é calculado simplesmente somando-se as áreas de Unidades de Manejo Florestal (UMFs) dos 22 (vinte e dois) contratos de concessões florestais vigentes.
+Período Ou Data A Que Se Refere: Data de apuração do indicador: 12/07/2023; Período de apuração: de 2008 a 2023.
+Data De Divulgação/Disponibilização: Nos meses de fevereiro, maio, agosto e novembro de cada ano.
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "S" é a variável dependente, resultante da soma das áreas das UMFs com contratos vigentes (em hectares); "Area_UMFp" é a variável independente que correspondente à área de cada Unidade de Manejo Florestal (UMF) com contrato de concessão florestal vigente.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadeia de Custódia (SCC) e Sistema Eletrônico de Informações (SEI) do SFB/MMA.
+Forma De Disponibilização: Publicação trimestral no portal digital do SFB/MMA na rede mundial de computadores.
+Procedimento De Cálculo: S = ∑Area_UMFp(i), onde "S" é o indicador relativo à soma das áreas de UMFs com contratos de concessões vigentes, "Area_UMFp(i)" é a área (em hectare) de cada UMF "i" com contrato vigente, e "i" é o indexador da UMF computada (variando de 1 até o número de UMFs com contratos vigentes).
+Soma das áreas de concessões relativas às UMFs com contratos vigentes na data da apuração do indicador (em hectares).
+Limitações: A unidade de mensuração "hectare", que equivale a 10.000,00 (dez mil) metros quadrados de área no sistema métrico, deve ser expressa até os centésimos (duas casas decimais).
+Notas Explicativas: O indicador é bastante simples, cujo valor a ser apurado, trimestralmente, consiste do resultado de uma simples soma algébrica de áreas de concessões com contratos vigentes, portanto de conhecimento técnico comum, não necessitando de explicações complementares.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 271
+Indicador: 9464
+Denominação: Área inventariada pelo Inventário Florestal Nacional do Brasil
+Sigla: INVENFLOR
+Índice De Referência: 513000000.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: ha
+Descrição: É calculado a partir da área do território em hectares onde o Inventário Florestal Nacional finalizou a coleta de dados.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Dezembro do ano corrente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Amostrais de Coleta de Dado de Campo
+Fonte De Dados Das Variáveis De Cálculo: Sistema IFN, node todos os dados são inseridos.
+Forma De Disponibilização: Os dados serão apresentados por meio do SNIF, bem com o indicador de realização do IFN
+Procedimento De Cálculo: O Inventário florestal é realizado por meio de lotes, que correspondem a um polígono que é uma fração do território. O Valor em área é calculado pela área dos lotes em que as unidades amostrais foram realizadas.
+Limitações: Não são consideradas as áreas do território que apresentam restrições de acesso as equipe de coleta de dados
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Indicador: 9470
+Denominação: Número de famílias atendidas pelo Programa Bolsa Verde e outras políticas de fomento a atividades produtivas sustentáveis
+Sigla: BOLSA VERDE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O Programa Bolsa Verde contempla famílias que já estão inseridas em outras políticas de fomento às atividades produtivas rurais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: segunda quinzena do mês de janeiro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de familias atendidas
+Fonte De Dados Das Variáveis De Cálculo: base de dados validada pelo MMA
+Forma De Disponibilização: Cadúnico, dados abertos do MMA, dentre outros
+Procedimento De Cálculo: somatório das famílias elegíveis inseridas na folha de pagamento.
+Notas Explicativas: Entende-se por "famílias atendidas", aquelas que atendem cumulativamente às condições expressas no Art. 4º e 5º  da Lei 12512/2011 e estejam inseridas na folha de pagamento do agente operador.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 258
+Indicador: 9453
+Denominação: Número de negócios da bioeconomia apoiados, incubados e acelerados que promovam contribuições inovadoras e sustentáveis no âmbito socioambiental
+Sigla: NEGBIO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: Este indicador mensura a oferta de diferentes tipos de apoio (como assessoria técnica e gerencial aos negócios, educação financeira, formação profissional, acesso ao crédito e a demais políticas públicas, assessoria produtiva e de inclusão social) ao desenvolvimento de negócios baseados no uso sustentável da biodiversidade operados por associações, cooperativas, empresas, startups e empreendimentos de povos e comunidades tradicionais, agricultores familiares, famílias beneficiárias de UCs, comunidades de pescadores artesanais e empresas convencionais.
+Período Ou Data A Que Se Refere: janeiro a dezembro.
+Data De Divulgação/Disponibilização: Final de dezembro.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Negócios da bioeconomia
+Fonte De Dados Das Variáveis De Cálculo: Secretaria Nacional de Bioeconomia / MMA
+Forma De Disponibilização: Relatórios de execução de projetos e ações da SBC e demais secretarias do MMA.
+Procedimento De Cálculo: Somatório do número de negócios apoiados.
+Origem: PPA
+Momento: 8400
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 262
+Indicador: 9457
+Denominação: Número de pesquisas e desenvolvimento tecnológicos registrados no Sisgen
+Sigla: PESQ
+Índice De Referência: 72000.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O Sistema Nacional de Gestão do Patrimônio Genético e do Conhecimento Tradicional Associado - SisGen - é um sistema eletrônico criado pelo Decreto nº 8.772, de 11 de maio de 2016, que regulamenta a Lei nº 13.123, de 20 de maio de 2015, como um instrumento para auxiliar o Conselho de Gestão do Patrimônio Genético – CGen – na gestão do patrimônio genético. Acesso ao patrimônio genético é a pesquisa ou o desenvolvimento tecnológico realizado sobre amostra de patrimônio genético ou conhecimento tradicional associado.
+Período Ou Data A Que Se Refere: 01/01/2024 a 31/12/2024
+Data De Divulgação/Disponibilização: 31/12/2024
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de cadastros de acesso em https://sisgen.gov.br/paginas/publicidade.aspx
+Fonte De Dados Das Variáveis De Cálculo: https://sisgen.gov.br/paginas/publicidade.aspx
+Forma De Disponibilização: Número de atividades cadastradas em https://sisgen.gov.br/paginas/publicidade.aspx
+Procedimento De Cálculo: Somatório do número de cadastros para o período previsto
+Notas Explicativas: O Sistema Nacional de Gestão do Patrimônio Genético e do Conhecimento Tradicional Associado - SisGen - é um sistema eletrônico criado pelo Decreto nº 8.772, de 11 de maio de 2016, que regulamenta a Lei nº 13.123, de 20 de maio de 2015, como um instrumento para auxiliar o Conselho de Gestão do Patrimônio Genético – CGen – na gestão do patrimônio genético. Acesso ao patrimônio genético é a pesquisa ou o desenvolvimento tecnológico realizado sobre amostra de patrimônio genético.
+Origem: PPA
+Momento: 8400
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Indicador: 11497
+Denominação: Número de territórios com instrumentos de Gestão Ambiental Rural implementados
+Sigla: AGROECO
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Demonstra a quantidade de territórios com estratégias de gestão ambiental e socioprodutiva da paisagem implementadas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Última semana do ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: número de territórios com estratégia implementada
+Fonte De Dados Das Variáveis De Cálculo: SNPCT/MMA
+Forma De Disponibilização: A partir da execução das ações previstas pelo MMA (editais, convênios etc.)
+Procedimento De Cálculo: Somatório do número de territórios com estratégia implementada
+Notas Explicativas: Cada território terá a implementação de uma estratégia de gestão ambiental e socioprodutiva da paisagem, sendo que o impacto da estratégia não pode ser medido em nível de propriedade rural, mas sim em nível de território (não havendo número fixo de famílias por território).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1189
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 258
+Enunciado: Promover o desenvolvimento do ecossistema de negócios e inovação da bioeconomia com ênfase no uso sustentável da biodiversidade.
+Descrição: Com vistas à promover o uso sustentável da biodiversidade como parte da estratégia de sua conservação, pretende-se potencializar o ecossistema de negócios e cadeias de produtos da biodiversidade, com incentivos à inovação tecnológica aplicada, apoio ao desenvolvimento de negócios multiescaláveis, estratégias de diferenciação de produtos, disseminação de conhecimento e formação profissional, além do financiamento adequado às singularidades dessas cadeias. A aplicação das salvaguardas e a repartição justa e equitativa de benefícios para povos e comunidades tradicionais e agricultores familiares devem ser promovidos, de forma a desenvolver a bioeconomia sustentável e socialmente justa.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 262
+Enunciado: Ampliação do acesso ao patrimônio genético, com repartição justa e equitativa de benefícios.
+Descrição: A ampliação das atividades de pesquisa e desenvolvimento com o patrimônio genético é o agente impulsionador de um círculo virtuoso de fomento da economia oriunda do uso do patrimônio genético e aumento da repartição de benefícios para a conservação e uso sustentável da biodiversidade.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 266
+Enunciado: Oferecer produtos e serviços florestais provenientes do manejo de florestas públicas federais, por meio das concessões florestais.
+Descrição: O Serviço Florestal Brasileiro (SFB), desde a aprovação do marco legal para gestão de florestas públicas em 2006 (Lei nº 11.284, de 2 de março de 2006), tem concedido para organizações do setor privado, mediante certames licitatórios de técnica e preço, áreas internas em florestas públicas federais para o manejo técnico e controlado (portanto sustentável) visando a exploração econômica de produtos e serviços florestais. Com essa estratégia institucionalmente aprovada, pretende-se precipuamente manter a presença física e exercer a autoridade constitucional do Estado brasileiro no interior dessas florestas, mediante parcerias com organizações do setor privado, para assim atingir os objetivos conservacionistas das políticas ambientais.
+É importante destacar-se que as organizações concessionárias florestais federais representam o braço operacional do SFB nas áreas de florestas concedidas, pois uma vez instaladas fisicamente no interior dessas áreas as concessionárias assumem, com base em contrato celebrado com o poder concedente (no caso, a União), um extenso conjunto de obrigações prevendo atividades necessárias para a concretização do tripé de benefícios essenciais almejados por essa estratégia conservacionista, que podem ser assim expostos:
+1) benefícios ambientais: proteção da floresta contra invasões, danos ambientais com causas antrópicas e exploração ilegal de recursos naturais presentes nas áreas de concessões (tais como madeiras e minérios);
+2) benefícios econômicos: desenvolvimento local e microrregional alavancado pela renda com a exploração de produtos e serviços florestais no mercado, pela concessionária, resultante do manejo florestal, destacando-se que essa renda será repartida, com base nos critérios previstos no art. 39 da Lei 11.284/2006 e nos contratos, com o poder concedente (mediante pagamentos de outorgas à União), e entre os Estados e Municípios onde se localizam as áreas de concessões, os órgãos do Poder Executivo federal que contribuem, em sua
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 271
+Enunciado: Produzir, consolidar e disponibilizar informações florestais e de cadeias da sociobiodiversidade.
+Descrição: Coletar dados em campo sobre a as florestas do Brasil, por meio do Inventario Florestal Nacional - IFN e disponibilização dos resultados para a sociedade. Por meio do planejamento, coleta, processamento e análise de dados biofísicos e socioambientais sobre os recursos florestais e a sua utilização por populações rurais, para a produção de informações e conhecimento sobre a quantidade, qualidade e condições dos recursos florestais em suas diversas fitofisionomias e distribuição espacial, incluindo aspectos como a composição florística, área com cobertura florestal, volume de madeira, estoques de biomassa e carbono, saúde e vitalidade das florestas, fragmentação florestal e uso local de produtos e serviços ambientais.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 273
+Enunciado: Melhorar a situação socioeconômica dos povos e comunidades tradicionais e promover a gestão sustentável dos seus territórios.
+Descrição: O objetivo é promover a gestão territorial e ambiental dos territórios de povos e comunidades tradicionais, assim como dos recursos naturais ali presentes, por meio de valoração e incentivos as cadeias produtivas da sociobiodiversidade, pagamentos de beneficios financeiros as populações elegíveis, assistencia técnica e fomento às atividades produtivas rurais.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8400
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Objetivo Específico: 539
+Enunciado: Promover a gestão ambiental em territórios rurais com iniciativas de base agroecológica, da sociobiodiversidade e da agroindústria, com conservação ambiental e recuperação de áreas degradadas.
+Descrição: Promover a gestão ambiental em territórios rurais, com foco no fortalecimento dos sistemas de governança locais, de práticas produtivas agroecológicas, conservacionistas e climaticamente resilientes, por meio da inclusão socioprodutiva de base agroecológica, da agrobiodiversidade e da sociobiodiversidade, com a elaboração e fortalecimento de instrumentos de gestão e assessoramento técnico e extensão rural socioambiental em comunidades rurais da agricultura familiar, povos indígenas, povos e comunidades tradicionais, contribuindo para a conservação ambiental, a recuperação de áreas degradadas, a mitigação e adaptação aos efeitos da mudança do clima, a segurança alimentar e nutricional, a justiça socioambiental, econômica, geracional e de gênero, visando o manejo sustentável dos recursos naturais e da sociobiodiversidade.
+Órgão: 44000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+passage: Programa Número 1189
+
+Exercício: 2025
+Programa: 1189
+Objetivo: 1319
+Enunciado: Promover a transição para uma economia que estimule as cadeias de valor da biodiversidade, as soluções baseadas na natureza e o modo de vida e os conhecimentos dos povos e comunidades tradicionais, de forma inclusiva, com repartição justa e equitativa de seus resultados.
+Descrição: Promover o desenvolvimento de uma economia que estimule as cadeias de valor da biodiversidade, aplicando conhecimento científico e tradicional para seu uso sustentável, e que reconheça o valor e o modo de vida e os conhecimentos dos povos e comunidades tradicionais, com repartição justa e equitativa de seus resultados.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 1189
+
+Exercício: 2025
+Programa: 1189
+Título: Bioeconomia para um Novo Ciclo de Prosperidade
+Tipo: Finalístico
+Órgão: 44000.0
+Público-Alvo: Empresas, start-ups, associações, cooperativas e empreendimentos de agricultores familiares e Povos e Comunidades Tradicionais; Academia e Instituições de Pesquisa; Famílias beneficiárias de UCs e comunidades de pescadores artesanais.
+Descrição Do Problema: O modelo econômico vigente não valoriza a biodiversidade, os sistemas de produções sustentáveis e o conhecimento tradicional. Consequentemente é provoca a degradação dos recursos, perda da biodiversidade, degradação do solo, das águas e ameaça especialmente o modo de vida de povos indígenas e povos e comunidades tradicionais.
+A bioeconomia, como novo campo de políticas públicas, se propõe a desenvolver um portfólio de instrumentos que estimule o desenvolvimento econômico, a geração de prosperidade consistente com a conservção da biodiversidade, os recursos naturais e o modo de vida dos povos e comunidades tradicionais. Visando gerar resultados consistentes na economia, na conservação e no bem estar dos guardiões da nossa biodiversidade, deve produzir produtos, processos e serviços que utilizem o conhecimento técnico, científico e tradicional, ancorados em negócios e mercados que operam em diversas escalas. A despeito à onda de adesão aos princípios ASG (ambiental, social e governança), permanece um hiato entre as práticas corporativas e a bioeconomia.
+A Bioeconomia deve resolver o problema da desconexão entre as políticas de inovação e tecnologia, desenvolvimento de negócios, instrumentos economicos e financeiros desarticuladas aos resultados socioambientais, por meio da criação de novos espaços de diálogos entre os setores públicos, privados, academia e sociedade civil.
+A ausência de dados cientificos, economicos e de mercados contibui para manter o status quo do modelo vigente que resulta na baixa eficiencia das políticas que tem se apresentado insuficientes para minimizar os danos à biodiversidade e os impactos para as mudanças climáticas, fortalecendo a conexão entre mercado, economia e meio ambiente.
+Causa Do Problema: Atualmente atividades econômicas com uso intensivo dos recursos naturais (como agronegócio, uso intensivo de combustíveis fósseis, garimpo ilegal, entre outras) têm impactado fortemente o meio ambiente, gerando altas emissões de carbono na atmosfera, provocando eventos climáticos extremos.
+Evidências Do Problema: Ausência do conceito e da Politica Nacional de Bioeocnomia; Aumento do desmatamento em todos os biomas; Eventos climáticos extremos cada vez mais frequentes;  Ausência de dados e informações que subsidiem a formulação de políticas públicas;  Baixo IDH das populações nos campo, nas florestas e nas aguas. Recursos do patrimônio genético sendo acessados sem a devida repartição justa e equitativa dos benefícios com povos e comunidades tradicionais; Falta de acesso, disponibilidade e qualidade dos dados e informações sobre florestas e cadeias de valor associadas à sociobiodiversidade, além do baixo valor agregados aos seus produtos e serviços. Ausência de instrumentos financeiros adequados. Dificuldade em converter a pesquisa científica sobre a  biodiversidade em produtos e serviços e desenvolvimento tecnológico.
+Justificativa Para A Intervenção: A Bioeconomia, como modelo emergente no Brasil, deve ser implementada como modelo de desenvolvimento econômico justo e ético, que gere produtos, processos e serviços, baseados no uso sustentável de recursos biológicos, em especial da biodiversidade brasileira, norteado pelos conhecimentos científicos e tradicionais, suas inovações e tecnologias, e pelo respeito aos limites dos ecossistemas, com o propósito de gerar renda e bem-estar para o povo, em especial àqueles que habitam as águas, os campo e as florestas, valorizando a sociobiodiversidade e contribuindo para o alcance do equilíbrio e da justiça climática.
+Evolução Histórica: Lei 13.123/2015 (Lei da Biodiversidade), Marco Legal da Ciência Tecnologia e Inovação (MCTI), Lei 14.119 (Lei de Pagamento por Serviços Ambientais). SNUC, Concessões, PGPMBIO, PLANAVEG, PRONAF, plano safra, Regime tributário, PEVS, censo IBGE, PIB Verde (LEI 13493/2017).
+Comparações Internacionais: União Europeia, Organização para a Cooperação e Desenvolvimento Econômico – OCDE, Colômbia, Costa Rica, EUA e Africa do Sul são exemplos de países e grupos de países com políticas e programas de bioeconomia.
+Relação Com Os Ods: 1.b;2.3;2.4;2.5;2.a;8.9;9.4;10.1;10.2;12.2;12.b;14.1;14.7;14.b;15.6;15.9;15.b;15.c;17.14;17.16.
+Agentes Envolvidos: MDA, SFB, ICMBIO, EMBRAPA, MAPA, MDIC, MCTI, MF.
+Articulação Federativa: Haverá participação e articulação com os estados e municípios para a construção e implementação das Política Nacional de Bioeconomia e do Plano Nacional de Bioeconomia.
+Enfoque Transversal: Políticas públicas voltadas para a agricultura familiar e povos e comunidades tradicionais; programas de financiamento da agricultura familiar; politica de apoio à comercialização da agricultura familiar, como o Programa de Aquisição de Alimentos, Política de Garantia de Preços Mínimos e o Programa Nacional de Alimentação Escolar. Inovação, neoindustrialização, tributação, energia, água e saneamento, política de desenvolvimento regional, política de segurança alimentar e combate à fome. Politica Nacional de Povos e Comunidades Tradicionais, Política Nacional de Gestão Ambiental e Territorial Indígena.
+Marco Legal: Decreto 11.349/2023; Lei 14.119/2021; Decreto 6040/2007, Lei 13.123/2015; Portaria MAPA 1221/2019; Lei 9985/2000, Lei no. 13.243/2016 (Marco legal de Ciência, Tecnologia e Inovação), Decreto no. 8.772/2016 (Regulamenta a Lei da Biodiversidade).
+Planos Nacionais, Setoriais E Regionais: Planos de Ação para Prevenção e Controle do Desmatamento; Plano Nacional de Cadeias de Produtos da Sociobiodiversidade; Marco Legal da Ciência, Tecnologia e Inovação, Política de Pagamento por Serviços Ambientais; Planos de Desenvolvimento Regional (PDR, Norte, Nordeste e Centro-Oeste). PPCDAM.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

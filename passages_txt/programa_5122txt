@@ -1,0 +1,623 @@
+passage: Programa Número 5122
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 249
+Entrega: 533
+Indicador: 9430
+Denominação: Número de aldeias com implantação de infraestruturas de abastecimento de água concluídas
+Índice De Referência: 84.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de novas aldeias beneficiadas com infraestrutura de abastecimento de água em determinado ano. Esse número, somado ao número de aldeias que já possuem infraestrutura, reflete a cobertura abastecimento de água em comunidades indígenas do Brasil.
+Período Ou Data A Que Se Refere: Último dia de cada mês
+Data De Divulgação/Disponibilização: Último dia útil do mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Considera-se 'Infraestrutura de Abastecimento de Água': SAA (Sistema de Abastecimento de Água), SSAA (Sistema Simplificado de Abastecimento de Água) e SAC (Solução Coletiva de Abastecimento de Água). Deve-se levar em consideração somente as aldeias que não possuíam infraestrutura de abastecimento de água antes da intervenção da SESAI ou qualquer outra entidade governamental ou não governamental. Não devem ser consideradas aldeias beneficiadas com obras de reforma e/ou ampliação de infraestruturas preexistentes, tampouco aldeias abastecidas por veículo (carro pipa) ou soluções alternativas individuais (SAI).
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI referentes aos relatórios de acompanhamento de obras de implantação de infraestrutura de abastecimento de água executadas pela Sesai contratadas com recurso empenhado do PAC; Processos SEI referentes aos relatórios de acompanhamento de obras de implantação de infraestrutura de abastecimento de água executadas pela Sesai com algum aditivo de recurso proveniente do PAC.
+Forma De Disponibilização: Planilha padronizada.
+Procedimento De Cálculo: 1. Levantar o número de ldeias beneficiadas com a conclusão de obras de implantação de infraestrutura de abastecimento de água executadas pela Sesai, contratadas com recurso empenhado do PAC.
+2. Levantar o número de aldeias beneficiadas com a conclusão de obras de implantação de infraestrutura de abastecimento de água executadas pela Sesai com algum aditivo de recurso proveniente do PAC.
+3. Somar os quantitativos levantados no itens 1 e 2.
+Limitações: Existem diversos fatores que podem impor restrições significativas ao cálculo dos indicadores, os quais estão relacionados a dificuldades de acesso que comprometem a logística de execução da obra. Por exemplo, o comportamento sazonal dos fenômenos climáticos em determinadas regiões, especialmente nas aldeias localizadas na Amazônia Legal. Em algumas situações, essas aldeias possuem acesso limitado durante os períodos de cheia e vazante dos rios que levam à localidade. Além disso, outros desafios estão relacionados aos custos de mobilização, que impactam nos contratos; à vigência da nova lei de licitações; e à capacidade técnica, operacional e financeira das empresas em algumas regiões.
+Notas Explicativas: a) O número de aldeias beneficiadas nem sempre corresponderá ao número de obras concluídas. Isso significa que, ocasionalmente, uma mesma obra de infraestrutura de abastecimento de água poderá atender  mais de uma aldeia indígena devido a proximidade entre as mesmas. b) Serão consideradas 'obras concluídas' aquelas que tiverem o Termo de Recebimento da Obra devidamente emitido pela entidade responsável no ano vigente, independentemente se essas obras foram iniciadas nos anos anteriores.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 249
+Entrega: 2815
+Indicador: 12180
+Denominação: Número de aldeias com novas obras de implantação ou reforma de Módulos Sanitários Domiciliares (MSD) concluídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de aldeias com novas obras de implantação ou reforma de Módulos Sanitários Domiciliares (MSD) concluídas. O número de aldeias com novas obras de implantação e reforma de MSD concluídas somado ao número de aldeias que possuem MSD reflete a cobertura de melhorias sanitárias domiciliares em comunidades
+Período Ou Data A Que Se Refere: Último dia de cada mês
+Data De Divulgação/Disponibilização: Último dia útil do mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Considera-se para este indicador somente novas obras de MSD (Módulos Sanitários Domiciliares coletivos e individuais). Deve-se levar em consideração tanto as obras executadas pela SESAI quanto aquelas executadas por outra entidade governamental ou não-governamental.
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI referentes aos relatórios de acompanhamento de novas obras de Módulos Sanitários Domiciliares (MSD); Processos SEI referentes a parcerias da SESAI com outras entidades governamentais ou não governamentais para doação de Módulos Sanitários Domiciliares (MSD) em comunidades indígenas.
+Forma De Disponibilização: Planilha padronizada.
+Procedimento De Cálculo: 1. Levantar o número de aldeias com novas obras de implantação ou reforma de Módulos Sanitários Domiciliares (MSD) concluídas pelos DSEI no ano vigente (independente do ano da contratação e início da obra). 
+2. Levantar o número de aldeias com novas obras de implantação ou reforma de Módulos Sanitários Domiciliares (MSD) concluídas por outras entidades no ano vigente (independente do ano da contratação e início da obra).
+3. Somar os quantitativos levantados nos itens 1 e 2.
+Limitações: Existem diversos fatores que podem impor restrições significativas ao cálculo dos indicadores, os quais estão relacionados a dificuldades de acesso que comprometem a logística de execução da obra. Por exemplo, o comportamento sazonal dos fenômenos climáticos em determinadas regiões, especialmente nas aldeias localizadas na Amazônia Legal. Em algumas situações, essas aldeias possuem acesso limitado durante os períodos de cheia e vazante dos rios que levam à localidade. Além disso, outros desafios estão relacionados aos custos de mobilização, que impactam nos contratos; à vigência da nova lei de licitações; e à capacidade técnica, operacional e financeira das empresas em algumas regiões.
+Notas Explicativas: a) O número de novas obras de implantação e reforma de Módulos Sanitários Domiciliares (MSD) concluídas pode conter um ou mais MSD uma vez que as obras procuram contemplar todas as famílias da comunidade.
+b)Serão consideradas 'obras concluídas' aquelas que tiverem o Termo de Recebimento da Obra devidamente emitido pela entidade responsável no ano vigente, independentemente se essas obras foram iniciadas nos anos anteriores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 249
+Entrega: 535
+Indicador: 9434
+Denominação: Número de aldeias com reforma de infraestruturas de abastecimento de água concluídas
+Índice De Referência: 12.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador refere-se ao número de aldeias com infraestruturas de abastecimento de água que requerem reparos devido ao mau funcionamento ou à capacidade operacional insuficiente. Essa métrica avaliará a capacidade da SESAI em manter as infraestruturas de abastecimento de água existentes, com foco especial naquelas que apresentam problemas conhecidos em sua operação.
+Período Ou Data A Que Se Refere: Último dia de cada mês
+Data De Divulgação/Disponibilização: Último dia útil do mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Considera-se 'Infraestrutura de Abastecimento de Água': SAA (Sistema de Abastecimento de Água), SSAA (Sistema Simplificado de Abastecimento de Água) e SAC (Solução Coletiva de Abastecimento de Água). Deve-se levar em consideração somente as obras concluídas em infraestruturas preexistentes.
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI referentes aos relatórios de acompanhamento de obras de reforma e/ou ampliação de infraestruturas de abastecimento de água; Processos SEI referentes a parcerias da SESAI com outras entidades governamentais ou não governamentais para a reforma e/ou ampliação de infraestruturas de abastecimento de água em comunidades indígenas.
+Forma De Disponibilização: Planilha padronizada.
+Procedimento De Cálculo: 1. Levantar o número de aldeias beneficiadas com a conclusão de obras de reforma e/ou ampliação de infraestruturas de abastecimento de água, executadas pelos DSEI, no ano vigente (independente do ano da contratação e início da obra). 
+2. Levantar o número de aldeias beneficiadas com a conclusão de obras de reforma e/ou ampliação de infraestruturas de abastecimento de água, executadas por outra entidade, no ano vigente (independente do ano da contratação e início da obra). 
+3. Somar os quantitativos levantados nos itens 1 e 2.
+Limitações: Os condicionantes que podem causar restrições importantes para o cálculo dos indicadores estão relacionados a fatores como dificuldades de acesso, comprometendo a logística de execução da obra.  Exemplos: comportamento sazonal dos intemperes em algumas regiões, especificamente aquelas aldeias localizadas na amazônia legal. Há casos em que aldeias tem acesso limitado ao período de cheia e vazante dos rios que dão acesso a localidade. Outro ponto complicado está relacionado as custos de mobilização, que impactam nos contratos.
+Notas Explicativas: a) O número de aldeias beneficiadas nem sempre corresponderá ao número de obras concluídas. Isso significa que, ocasionalmente, uma mesma obra de infraestrutura de abastecimento de água poderá atender  mais de uma aldeia indígena devido a proximidade entre as mesmas. b) Serão consideradas 'obras concluídas' aquelas que tiverem o Termo de Recebimento da Obra devidamente emitido pela entidade responsável no ano vigente, independentemente se essas obras foram iniciadas nos anos anteriores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 2822
+Indicador: 12187
+Denominação: Número de ampliações concluídas de Unidades Básicas de Saúde Indígena (UBSI) em aldeias indígenas
+Índice De Referência: 6.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de ampliação de Unidades Básicas de Saúde Indígena (UBSI).
+Período Ou Data A Que Se Refere: Último dia útil de cada mês
+Data De Divulgação/Disponibilização: mensal
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Considera-se para este  indicador somente obras de UBSI (Unidade Básica de Saúde tipos I, II e III). As obras realizadas em outros estabelecimentos de saúde, ou seja, sede de Polo Base (tipo I ou II) e CASAI, não serão consideradas. Deve-se levar em consideração tanto as obras executadas pela SESAI quanto aquelas executadas por outra entidade governamental ou não-governamental.
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI referentes aos relatórios de acompanhamento de obras de Unidades Básicas de Saúde Indígena (UBSI); Processos SEI referentes a parcerias da SESAI com outras entidades governamentais ou não governamentais para doação de Unidades Básicas de Saúde Indígena (UBSI) em comunidades indígenas.
+Forma De Disponibilização: Planilha padronizada.
+Procedimento De Cálculo: 1. Levantar o número de ampliação de Unidades Básicas de Saúde Indígena (UBSI) concluídas pelos DSEI no ano vigente (independente do ano da contratação e início da obra). 
+2. Levantar o número de ampliação  de Unidades Básicas de Saúde Indígena (UBSI) concluídas por outras entidades no ano vigente (independente do ano da contratação e início da obra).
+3. Somar os quantitativos levantados nos itens 1 e 2.
+Limitações: Existem diversos fatores que podem impor restrições significativas ao cálculo dos indicadores, os quais estão relacionados a dificuldades de acesso que comprometem a logística de execução da obra. Por exemplo, o comportamento sazonal dos fenômenos climáticos em determinadas regiões, especialmente nas aldeias localizadas na Amazônia Legal. Em algumas situações, essas aldeias possuem acesso limitado durante os períodos de cheia e vazante dos rios que levam à localidade. Além disso, outros desafios estão relacionados aos custos de mobilização, que impactam nos contratos; à vigência da nova lei de licitações; e à capacidade técnica, operacional e financeira das empresas em algumas regiões.
+Notas Explicativas: a) O número de ampliação de Unidades Básicas de Saúde Indígena (UBSI) concluídas nem sempre corresponderá ao número de aldeias beneficiadas. O número de aldeias beneficiadas com as obras tende a ser maior porque as UBSI estão localizadas em comunidades estrategicamente localizadas para atender outras ao redor.
+b)Serão consideradas 'obras concluídas' aquelas que tiverem o Termo de Recebimento da Obra devidamente emitido pela entidade responsável no ano vigente, independentemente se essas obras foram iniciadas nos anos anteriores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 2711
+Indicador: 12071
+Denominação: Número de obras concluídas de implantação de Unidades Básicas de Saúde Indígena (UBSI) em aldeias indígenas
+Índice De Referência: 21.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de obras de implantação de Unidades Básicas de Saúde Indígena (UBSI).
+Período Ou Data A Que Se Refere: Último dia útil de cada mês
+Data De Divulgação/Disponibilização: mensal
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Considera-se para este  indicador somente obras de UBSI (Unidade Básica de Saúde tipos I, II e III). As obras realizadas em outros estabelecimentos de saúde, ou seja, sede de Polo Base (tipo I ou II) e CASAI, não serão consideradas. Deve-se levar em consideração tanto as obras executadas pela SESAI quanto aquelas executadas por outra entidade governamental ou não-governamental.
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI referentes aos relatórios de acompanhamento de obras de Unidades Básicas de Saúde Indígena (UBSI); Processos SEI referentes a parcerias da SESAI com outras entidades governamentais ou não governamentais para doação de Unidades Básicas de Saúde Indígena (UBSI) em comunidades indígenas.
+Forma De Disponibilização: Planilha padronizada.
+Procedimento De Cálculo: 1. Levantar o número de obras de implantação de Unidades Básicas de Saúde Indígena (UBSI) concluídas pelos DSEI no ano vigente (independente do ano da contratação e início da obra). 
+2. Levantar o número de obras de implantação de Unidades Básicas de Saúde Indígena (UBSI) concluídas por outras entidades no ano vigente (independente do ano da contratação e início da obra).
+3. Somar os quantitativos levantados nos itens 1 e 2.
+Limitações: Existem diversos fatores que podem impor restrições significativas ao cálculo dos indicadores, os quais estão relacionados a dificuldades de acesso que comprometem a logística de execução da obra. Por exemplo, o comportamento sazonal dos fenômenos climáticos em determinadas regiões, especialmente nas aldeias localizadas na Amazônia Legal. Em algumas situações, essas aldeias possuem acesso limitado durante os períodos de cheia e vazante dos rios que levam à localidade. Além disso, outros desafios estão relacionados aos custos de mobilização, que impactam nos contratos; à vigência da nova lei de licitações; e à capacidade técnica, operacional e financeira das empresas em algumas regiões.
+Notas Explicativas: a) O número de obras de implantação de Unidades Básicas de Saúde Indígena (UBSI) concluídas nem sempre corresponderá ao número de aldeias beneficiadas. O número de aldeias beneficiadas com as obras tende a ser maior porque as UBSI estão localizadas em comunidades estrategicamente localizadas para atender outras ao redor.
+b)Serão consideradas 'obras concluídas' aquelas que tiverem o Termo de Recebimento da Obra devidamente emitido pela entidade responsável no ano vigente, independentemente se essas obras foram iniciadas nos anos anteriores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 490
+Indicador: 9372
+Denominação: Percentual das gestantes indígenas com no mínimo 6 consultas de pré-natal
+Índice De Referência: 49.1
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Avaliar as condições de acesso, variação da cobertura do atendimento e qualidade da assistência pré-natal. Se analisado em associação com outros indicadores, tais como a mortalidade materna e infantil, pode fornecer subsídios para identificar situações de desigualdade e tendências que demandem ações e estudos específicos.
+Período Ou Data A Que Se Refere: Último dia de cada quadrimestre
+Data De Divulgação/Disponibilização: quadrimestral
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Dimensiona o percentual de gestantes com acesso ao pré-natal com 6 ou mais consultas na população residente em determinado espaço geográfico, no período considerado.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Atenção à Saúde Indígena (SIASI)
+Forma De Disponibilização: Planilha em formato de Excel
+Procedimento De Cálculo: Para cálculo desse indicador são utilizados dois módulos do SIASI: gestação (população gestante) e acompanhamento gestacional. 
+1º Passo: O número de consultas realizadas de pré-natal é calculado pelo número de atendimentos de médicos e enfermeiros que foram cadastrados no módulo “Acompanhamento Gestacional” até a finalização da gestação, em localidade do tipo "aldeia" e "acampamento” ativas até a data de referência. São consideradas somente as gestações finalizadas no período de análise.
+2º Passo: Para a limpeza dos dados, são desconsideradas duplicidades dos atendimentos realizados em um mesmo dia por diferentes profissionais. No banco de acompanhamento gestacional, são excluídos acompanhamentos realizados por outras categorias profissionais. No filtro de motivo de finalização (“ST_MOTIVO_FINALIZACAO”), são excluídos os abortos (“ABO”). 
+3º Passo: Os dados são organizados em uma tabela dinâmica com as informações: profissionais médicos e enfermeiros – variável “DS_CBO_FAMILIA” (filtro); identificação do local do atendimento, incluindo as Unidades de Referência – variável: “TP_LOCAL_ATENDIMENTO” (colunas); gestante - variável “CO_SEQ_GESTACAO” (linhas); “DSEI_GESTAO” (linhas); e número de consultas por mulher – variável “CO_SEQ_ACOMP_GESTACAO” (valores - contagem).
+4º Passo: Relaciona-se os dados (PROCV ou linkage) do total geral de consultas no banco “Cadastro da gestante” (população de gestante) a partir da variável "CO_SEQ_GESTACAO" para estratificar as gestações de acordo com o número de consultas e identificar as gestantes que não realizaram consultas de pré-natal.
+5º Passo: Com o banco já relacionado, gera-se uma nova tabela dinâmica com as variáveis: “DSEI_GESTAO” (linhas), “N_CONSULTAS_PRE_NATAL” (colunas) e “CO_SEQ_GESTACAO” (valores - contagem). Essa dinâmica organiza de forma crescente o número de consultas realizadas. 
+6º Passo: O cálculo do numerador é realizado pela soma das gestações finalizadas (exceto as finalizadas por aborto) que tiveram acesso a 6 ou mais consultas de pré-natal no local e período analisado.
+7º Passo: O cálculo do denominador é o total de gestantes residentes e ativas em aldeias/acampamentos que estão sob a responsabilidade do Subsistema de Atenção à Saúde Indígena do SUS (SasiSUS) e que tiveram gestações finalizadas (exceto as finalizadas por aborto) no mesmo local e período.
+Limitações: A falta de consistência das informações sobre finalização da gestação no SIASI dificulta a análise. 
+A subenumeração das consultas e do número de gestantes no território de análise pode interferir no cálculo do indicador.
+A subnotificação da informação no SIASI.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 249
+Entrega: 536
+Indicador: 9440
+Denominação: Percentual de aldeias com coleta e análise de qualidade da água para consumo humano no ano
+Índice De Referência: 7.6
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: A coleta e análise de água é uma atividade que deve ser realizada rotineiramente nas aldeias com sistemas de abastecimento de água implantados ou em mananciais utilizados pelas comunidades indígenas para seu uso no cotidiano. No subsistema de saúde indígena, a frequência com que são coletadas as amostras para análise da qualidade da água é influenciada pelas condições de acesso nas localidades onde estes sistemas estão em operação e a capacidade de organização dos serviços de saneamento dos DSEI incluída a logística necessária, disponibilidade de profissionais contratados para executar as ações em todas as suas etapas: da coleta à análise, disponibilidade de insumos e pactuações com municípios da área de abrangência de cada DSEI que disponham de laboratórios para apoiar esta ação.
+Os parâmetros prioritários analisados são os seguintes: (a) turbidez; (b) microbiológicos (coliformes e E. Coli) e (c) Residual do Agente Desinfetante (parâmetro Cloro Residual Livre).
+O monitoramento da qualidade da água para consumo humano ainda é incipiente nos territórios indígenas, havendo necessidade de se estruturar o serviço de forma a ampliar a sua cobertura superando as barreiras de acesso geográfico presentes em diversas localidades, com a adequada condição logística para a sua realização.  
+Atualmente consideram-se os seguintes cenários/critérios para estabelecer a frequência da coleta e análise da água nos sistemas implantados ou mananciais, considerando-se que o ponto de coleta ideal é onde a água é consumida pela população:
+(i) pelo menos um dos pontos coletados e analisados em todas as visitas é ponto de consumo de água, sendo que em aldeias com infraestruturas de abastecimento de água deve ser o ponto mais distante no qual a água é distribuída pela infraestrutura;
+(ii) na coleta realizada no ponto de consumo de água há análise, pelo menos, dos parâmetros de turbidez e microbiológicos (coliformes e E. Coli) e em sistemas que realizam a cloração da água, também do parâmetro de cloro residual livre;
+(iii) Pelo menos 9 coletas/ano: DSEI nos quais em menos de 50% das aldeias o acesso é aéreo ou fluvial; 
+(iv) Pelo menos 6 coletas/ano: DSEI nos quais em mais de 50% das aldeias o acesso é aéreo ou fluvial.
+Período Ou Data A Que Se Refere: Último dia de cada mês
+Data De Divulgação/Disponibilização: anual (ano subsequente)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de aldeias com coleta e análise da qualidade da água = número de aldeias com coleta e análise de algum parâmetro de qualidade da água
+Fator de atendimento aos critérios = 1, se critérios descritos no item 1.10. forem cumpridos; = 0, se critérios descritos no item 1.10. NÃO forem cumpridos
+Número total de aldeias = número de aldeias existentes em março de 2023 (referência fixa)
+Fonte De Dados Das Variáveis De Cálculo: 1) SIASI;
+2) Plano de Monitoramento da Qualidade da Água em Áreas Indígenas (PMQAI);
+3) Dados enviados mensalmente pelos DSEI ao Departamento de Determinantes Ambientais da Saúde Indígena/Secretaria Especial de Saúde Indígena;
+4) SISAGUA.
+Forma De Disponibilização: Planilha e/ou painel.
+Procedimento De Cálculo: O índice de referência foi calculado adotando os critérios de números de coletas no ano indicados no item 1.10. e considerando análise de 4 parâmetros, sem especificação de quais, pois a consolidação de dados do ano de base (2022) não permitiu essa análise. Como há o surgimento de aldeias novas a cada ano, para o cálculo do indicador fixou-se o denominador como o número total de aldeias existentes em março de 2023 de acordo com extração do SIASI (6.663 aldeias).
+Passo a passo para cálculo:
+1) Identificar nos dados mensais de coleta e análise de água nas aldeias enviados por cada DSEI as aldeias nas quais a atividade atendeu os critérios especificados para o ponto de coleta e parâmetros para análise no mês, ou seja, se houve coleta de água em um ponto de consumo e análise dos parâmetros de turbidez, coliformes totais e E. Coli, além de cloro residual livre caso a aldeia possua infraestrutura de abastecimento de água na qual é realizada a cloração da água, nesse ponto;
+2) No início do ano seguinte, após o envio dos dados referentes ao último mês do ano anterior e realizado o Passo 1 para todos os meses, realizar a contagem do número de vezes que cada aldeia foi identificada no Passo 1;
+3) Avaliar, com base na contagem do Passo 2, o atendimento dos critérios de frequência especificados para o DSEI ao qual cada aldeia pertence;
+4) Somar aldeias que atenderam todos os critérios;
+5) Dividir o resultado do somatório pelo número total de aldeias (fixo, correspondente à referência de março de 2023).
+Limitações: Subnotificação de visitas ou de informações dentro de cada visita dentro dos dados enviados pelos DSEI; O DSEI não realizar o planejamento logístico de transporte para realizar as visitas e/ou de compra de insumos para realizar as análises; Ausência de trabalhador para realizar as coletas e análises de água; A heterogeneidade de condições entre os DSEI gera diferenças significativas entre as capacidades de realização das coletas e análises de água.
+Notas Explicativas: Visitas para coleta e análise da qualidade da água consistem em atividade realizada rotineiramente pelos DSEI, idealmente mensalmente. No entanto, para que essa atividade seja considerada eficiente, foram definidos os critérios de avaliação, conforme apresentado no item de descrição do indicador (1.10.). Tendo em vista que um dos critérios diz respeito à frequência das visitas no ano, não é possível mensurar o indicador em uma periodicidade inferior a esse prazo. Além disso, trata-se de uma meta NÃO cumulativa.
+Exceções relacionadas à frequência podem ser concedidas caso ocorra alguma alteração no planejamento do DSEI causada por força maior ou devido à contratação de responsável pela atividade ao longo do ano de referência (no caso de não haver nenhum anteriormente).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 497
+Indicador: 9380
+Denominação: Percentual de crianças indígenas menores de 1 ano com no mínimo 6 acompanhamentos alimentar e nutricional realizados
+Índice De Referência: 65.4
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Monitorar a situação do acompanhamento do estado nutricional das crianças menores de 1 ano;
+Subsidiar o planejamento para a realização de ações voltadas ao restabelecimento das condições adequadas de saúde e nutrição da população acompanhada.
+Período Ou Data A Que Se Refere: Último dia de cada quadrimestre
+Data De Divulgação/Disponibilização: Quadrimestral
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Este indicador dimensiona o percentual de crianças menores de 1 ano de idade (11m29d) que estão sob responsabilidade do Subsistema de Atenção à Saúde Indígena do SUS (SasiSUS) que tiveram seu estado nutricional acompanhado conforme os critérios estabelecidos pela Vigilância Alimentar e Nutricional. O acompanhamento do estado nutricional das crianças menores de 1 anos é orientado por um calendário mínimo de consultas de assistência à saúde, conforme recomendação do Ministério da Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Atenção à Saúde Indígena (SIASI)
+Forma De Disponibilização: Planilha em formato de Excel
+Procedimento De Cálculo: Para o cálculo desse indicador serão utilizados dois módulos do SIASI: demográfico e vigilância alimentar e nutricional.
+1º Passo: São consideradas consultas de acompanhamento da vigilância alimentar e nutricional todos os atendimentos em menores de 1 ano (11m29d) que estão sob a responsabilidade do Subsistema de Atenção à Saúde Indígena do SUS (SasiSUS) que realizaram pelo menos seis consultas de acompanhamento alimentar e nutricional no local e período analisado.
+2º Passo: Para o cálculo do numerador é analisado somente as crianças que completaram 12 meses que possuem registro de, no mínimo, 6 (seis) atendimentos com avaliação do estado nutricional, em localidade do tipo "aldeia" e "acampamento” ativas, do módulo de vigilância alimentar e nutricional.
+3º Passo: Para a limpeza dos dados são desconsiderados os atendimentos realizados em aldeias extintas, duplicidades de dados e as consultas em crianças que vieram a óbito anteriormente à data de referência.
+4º Passo: O cálculo do denominador é realizado com a extração de todas as crianças que completaram 12 meses no ano analisado, do módulo demográfico, na mesma data de referência da extração do numerador. 
+5° passo: Para a limpeza dos dados, são desconsiderados registros duplicados (mesmo nome do indivíduo, nome da mãe e data de nascimento), indígenas registrados em aldeias extintas após a data de referência, indígenas com data de nascimento inválida (ano anterior a 1900). 
+6º Passo: O cálculo final é obtido com o fator multiplicador (100).
+Limitações: O cálculo da percentagem exige uma maior precisão na identificação dos denominadores da população, o que requer a atualização continuada da população infantil, especialmente dos menores de um ano. Portanto, qualquer comparação entre unidades de análises de distinta dimensão das populações deve ser realizada com cautela.
+Subnotificação da informação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 461
+Indicador: 9341
+Denominação: Percentual de crianças indígenas menores de 1 ano com no mínimo 6 consultas de crescimento e desenvolvimento
+Índice De Referência: 43.1
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Monitorar e avaliar o acesso das crianças menores de um ano às consultas preconizadas de crescimento e desenvolvimento infantil e subsidiar a gestão para tomada de decisões que impactem na redução da morbimortalidade infantil.
+Período Ou Data A Que Se Refere: Último dia de cada trimestre
+Data De Divulgação/Disponibilização: trimestralmente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Dimensiona o percentual de crianças que estão sob a responsabilidade do Subsistema de Atenção à Saúde Indígena do SUS (SasiSUS) com acesso às consultas de crescimento e desenvolvimento infantil preconizadas para a idade, sendo realizadas por médico ou enfermeiro, na população residente em determinado espaço geográfico, no período considerado. Para uma assistência com qualidade à saúde das crianças menores de 1 ano (11m29d), é necessária a realização de pelo  menos 6 consultas de rotina.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Atenção à Saúde Indígena (SIASI)
+Forma De Disponibilização: Planilha em formato de Excel
+Procedimento De Cálculo: Para o cálculo desse indicador serão utilizados dois módulos do SIASI: demográfico e morbidades.
+1º Passo: As consultas de CeD foram convencionadas como código CID-10 “Z00.1” notificadas no Módulo de Morbidades do SIASI Local. 
+2º Passo: São consideradas consultas de CeD todos os atendimentos em crianças menores de 1 ano (11m29d) que estão sob a responsabilidade do SasiSUS realizadas por médicos e enfermeiros, em localidade do tipo "aldeia" e "acampamento” ativas até a data de referência.
+3º Passo: Para a limpeza dos dados são desconsiderados os atendimentos realizados em aldeias extintas e as consultas em crianças que vieram a óbito anteriormente à data de referência.
+4º Passo: Para cálculo do numerador, são somadas apenas as crianças que completaram 12 meses e que possuem registro de, no mínimo, 6 (seis) consultas realizadas (até a idade de 11m e 29 dias.)
+5º Passo: Para cálculo do denominador,  são somadas todas as crianças que completaram 12 meses no ano analisado. 
+6° passo: Para a limpeza dos dados, são desconsiderados registros duplicados (mesmo nome do indivíduo, nome da mãe e data de nascimento), indígenas registrados em aldeias extintas após a data de referência, indígenas com data de nascimento inválida (ano anterior a 1900). 
+7º passo: O cálculo final é obtido com o fator multiplicador (100).
+Limitações: É um indicador exclusivo do SasiSUS que implica: a não existência de parâmetros (tanto para cálculo como para comparação de resultados) no âmbito da saúde pública e discussão contínua para aprimoramento do cálculo e avaliação dos resultados.
+Subnotificação da informação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 363
+Indicador: 9217
+Denominação: Percentual de crianças indígenas menores de um ano com esquema vacinal completo
+Índice De Referência: 76.05
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador dimensiona o percentual de crianças indígenas menores de 1 ano com esquema vacinal completo, de acordo com a idade, em determinado espaço geográfico, no período considerado. Estima o nível de proteção da população indígena contra doenças evitáveis por imunização, mediante o total cumprimento do esquema básico de vacinação individual.
+Período Ou Data A Que Se Refere: Último dia de cada trimestre
+Data De Divulgação/Disponibilização: trimestralmente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Crianças indígenas menores de um ano: crianças indígenas atendidas pelo SasiSUS com idade até 364 dias (0 ano 11 meses e 29 dias).
+Esquema vacinal completo na idade de referência: conjunto de todas as vacinas preconizadas pelo calendário nacional de vacinação, de acordo com a dose para completar o esquema de vacinação (única ou última dose), na idade recomendada.
+Total de crianças indígenas menores de um ano: soma de todas as crianças indígenas atendidas pelo SasiSUS com idade até 364 dias (0 ano 11 meses e 29 dias).
+Determinado local: área de abrangência do Distrito Sanitário Especial Indígena (DSEI).
+Determinado período: período de tempo no qual as crianças completaram o esquema vacinal.
+Fonte De Dados Das Variáveis De Cálculo: Planilha padronizada em Excel
+Forma De Disponibilização: Recebimento das planilhas pelo SEI
+Procedimento De Cálculo: Para o cáculo deste indicador, utiliza-se de planilhas padronizadas enviadas pelos 34 DSEI trimestralmente.
+1º passo: Recebimento das planilhas enviadas trimestralmente pelos 34 DSEI, com correção das inconsistências no preenchimento do instrumento (incluindo erros de digitação da população e doses aplicadas). 
+2º passo: Devolução das planilhas com erro para correção e re-envio pelos DSEI.
+3º passo: Consolidação dos dados dos 34 DSEI em uma única planilha em excel.
+4º passo: Cálculo do númerador, composto pela soma de todas as crianças indígenas sob responsabilidade do Subsistema de Atenção à Saúde Indígena do SUS (SasiSUS) menores de um ano de idade (0 ano 11 meses e 29 dias) que estão com os esquemas completos (única ou última dose) para todas as vacinas preconizadas para sua idade, segundo o calendário vacinal, no momento da apuração do dado. Ou seja, o dado não é fixado para todo o ano, podendo variar de acordo com a atualização do censo vacinal a cada escala da equipe no seu território de abrangência.
+5º passo: Cálculo do denominador, soma do total de crianças indígenas sob responsabilidade do SasiSUS menores de um ano de idade (0 ano 11 meses e 29 dias) existentes no local avaliado, no momento da apuração do dado. Ou seja, essa população não é fixa para todo o ano, podendo variar de acordo com a atualização do censo demográfico a cada escala da equipe no seu território de abrangência.
+6º passo: Cálculo final com uso do fator multiplicador (100) para obtenção do indicador por DSEI e geral.
+Limitações: O cálculo da porcentagem exige uma maior precisão na identificação dos denominadores da população, o que requer a atualização continuada da população dos menores de um ano. Portanto, qualquer comparação entre unidades de análise de distinta dimensão das populações deve ser realizada com cautela.
+Subnotificação da informação.
+Utilização de planilha para obtenção dos dados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 505
+Indicador: 9388
+Denominação: Percentual de gestantes indígenas com no mínimo 1 consulta odontológica durante o pré-natal
+Índice De Referência: 36.2
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador dimensiona o percentual de gestações finalizadas, cadastradas no SIASI, com acesso aos serviços odontológicos para assistência individual por meio da realização do pré-natal odontológico, excluindo-se as consultas de urgência, emergência, retorno ou manutenções
+Período Ou Data A Que Se Refere: Último dia de cada quadrimestre
+Data De Divulgação/Disponibilização: Quadrimestralmente
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Gestações finalizadas que tiveram no mínimo um atendimento durante a gestação. É necessário que a gestante tenha no mínimo uma consulta com médico/enfermeiro e uma com o cirurgião-dentista.                                                                                                                                                                                                                                                                                                                                                                                                                     Determinado local: área de abrangência do Distrito Sanitário Especial Indígena (DSEI).
+Determinado período
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Atenção à Saúde Indígena (SIASI)
+Forma De Disponibilização: Planilha em formato de Excel
+Procedimento De Cálculo: Para cálculo desse indicador são utilizados dois módulos do SIASI: gestação (população gestante) e acompanhamento gestacional. 
+1º Passo: O número de consultas realizadas de pré-natal é calculado pelo número de atendimentos de cirurgião dentista que foram cadastrados no módulo “Acompanhamento Gestacional” até a finalização da gestação, em localidade do tipo "aldeia" e "acampamento” ativas até a data de referência. São consideradas somente as gestações finalizadas no período de análise.
+2º Passo: Para a limpeza dos dados, são desconsideradas duplicidades dos atendimentos realizados em um mesmo dia por diferentes profissionais. No banco de acompanhamento gestacional, são excluídos acompanhamentos realizados por outras categorias profissionais, ficando apenas o CBO cirurgião dentista. No filtro de motivo de finalização (“ST_MOTIVO_FINALIZACAO”), são excluídos os abortos (“ABO”). 
+3º Passo: Os dados são organizados em uma tabela dinâmica com as informações: profissionais cirurgião dentista – variável “DS_CBO_FAMILIA” (filtro); identificação do local do atendimento, incluindo as Unidades de Referência – variável: “TP_LOCAL_ATENDIMENTO” (colunas); gestante - variável “CO_SEQ_GESTACAO” (linhas); “DSEI_GESTAO” (linhas); e número de consultas por mulher – variável “CO_SEQ_ACOMP_GESTACAO” (valores - contagem).
+4º Passo: Relaciona-se os dados (PROCV ou linkage) do total geral de consultas no banco “Cadastro da gestante” (população de gestante) a partir da variável "CO_SEQ_GESTACAO" para estratificar as gestações de acordo com o número de consultas e identificar as gestantes que não realizaram consultas de pré-natal odontológico.
+5º Passo: O cálculo do numerador é realizado pela soma das gestações finalizadas (exceto as finalizadas por aborto) que tiveram acesso no mínimo a 1 consulta odontológica durante o pré-natal no local e período analisado.
+6º Passo: O cálculo do denominador é o total de gestantes cadastradas no SIASI que estão sob a responsabilidade do Subsistema de Atenção à Saúde Indígena do SUS (SasiSUS) e que tiveram gestações finalizadas (exceto as finalizadas por aborto) no mesmo local e período.
+Limitações: A falta de consistência das informações sobre finalização da gestação no SIASI dificulta a análise. A sub numeração das consultas e do número de gestantes no território de análise pode interferir no cálculo do indicador. Subnotificação da informação no SIASI.
+Notas Explicativas: Avaliar o acesso ao cuidado em saúde bucal no período gestacional; incentivar a integração dos profissionais das Emsi; avaliar o cumprimento de diretrizes e normas para o acompanhamento de pré-natal integral na APS; demostrar a capacidade que a EMSI tem de coordenar o cuidado da gestante para que ela tenha um acompanhamento de pré-natal efetivo.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 500
+Indicador: 9384
+Denominação: Percentual de óbitos em crianças indígenas menores de um ano de idade investigados
+Índice De Referência: 80.07
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Este indicador dimensiona o percentual de óbitos de crianças indígenas menores de um ano que foram investigados, em determinado local e período. A investigação de óbito em menores de 1 ano permite identificar os fatores que influenciam na mortalidade infantil e a ocorrência de óbitos evitáveis. Sua investigação é obrigatória em todos os serviços de saúde. A investigação do óbito infantil compreende várias fases. O processo se inicia com a identificação do óbito e prossegue com a coleta de dados em várias fontes, como a entrevista com a família e registros dos serviços de saúde, por meio da utilização dos formulários de investigação do óbito. Esses dados reunidos permitirão à equipe de vigilância de óbitos e comitês em qualquer nível de gestão realizar a análise das informações e orientar as intervenções para reduzir os óbitos evitáveis.
+Óbito infantil é o número de óbitos em menores de um ano de idade (até 11 meses e 29 dias), compreendendo os componentes de mortalidade infantil - Neonatal precoce (0 a 6 dias), Neonatal tardio (7 a 27 dias) e Pós-Neonatal (28 a 364 dias).
+Período Ou Data A Que Se Refere: Último dia de cada quadrimestre
+Data De Divulgação/Disponibilização: Quadrimestral
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de óbitos: soma do número absoluto de mortes.
+Crianças indígenas menores de um ano: crianças indígenas atendidas pelo SasiSUS com idade até 364 dias (0 ano 11 meses e 29 dias).
+Notificados: óbitos registrados no SIASI.
+Investigados: são os óbitos que foram investigados dentro do prazo estipulado pela Portaria.
+Determinado local: área de abrangência do Distrito Sanitário Especial Indígena (DSEI).
+Determinado período: período de tempo no qual os óbitos ocorreram.
+Fonte De Dados Das Variáveis De Cálculo: Susitema de Informação da Atenção à Saúde Indígena - SIASI
+Forma De Disponibilização: Extração direta do banco de dados do SIASI
+Procedimento De Cálculo: Para cálculo desse indicador é utilizado o módulo demográfico do SIASI. Pode sofrer alteração no decorrer do ano, conforme atualização demográfica.
+1º Passo: Abrir o banco de óbito extraído do SIASI, formato Excel.
+2º Passo: Inserir uma tabela dinâmica.
+3º Passo: Seleciona a variável "NATIMORTO" opção "NÃO" (desconsidera-se os óbitos classificados como fetais CID: P95, Z37.1, Z37.3, Z37.4, Z37).
+4º Passo: Seleciona a variável "FX_ETARIA1" opção "Menor de ano".
+5º Passo: Seleciona-se a variável "CO_SEQ_INDIO" para contagem dos óbitos.
+6º Passo: Seleciona a variável "DSEI_GESTAO" (obtenção dos dados por DSEI).
+7º Passo: Seleciona-se a variável que contém a situação da investigação do óbito "ST_INVESTIGACAO" no referido banco de dados.
+8º Passo: O cálculo do numerador do indicador nacional é realizado pelo somatório do número absoluto de óbitos infantis (0 a 11 meses e 29 dias) investigados (opção "S") ocorridos há mais de 120 dias da data de extração (prazo máximo para conclusão da investição do óbito infantil).
+9º Passo: O cálculo do denominador do indicador nacional é realizado pelo somatório do número total de óbitos infantis, ocorridos há mais de 120 dias da data de extração (prazo máximo para conclusão da investição do óbito infantil), notificados  e registrados no sistema .
+6º Passo: O cálculo final é obtido com o fator multiplicador (100).
+Limitações: A baixa cobertura de eventos pode distorcer a análise de implementação das ações de investigação.
+O indicador não dimensiona a qualidade e integralidade das ações de investigação, com a necessidade de informações adicionais para tomada de decisão.
+Subnotificação da informação.
+Notas Explicativas: Para análise desse indicador, consideram-se óbitos investigados aqueles que tiveram a etapa de investigação de responsabilidade do DSEI concluída com a elaboração da “Ficha síntese, conclusões e recomendações” pelo Grupo Técnico de Vigilância do Óbito.
+Para os óbitos ocorridos no município, considera-se óbito investigado aquele que teve o processo de investigação disparado pelo Comitê de Óbito Municipal/Estadual (com participação do DSEI).
+As informações dos óbitos deverão ser atualizadas no SIASI quando a investigação for concluída.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Entrega: 515
+Indicador: 9396
+Denominação: Porcentagem de trabalhadores qualificados para atuação em contexto intercultural
+Índice De Referência: 13.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Dimensiona anualmente o percentual de trabalhadores do DSEI que tiveram no mínimo 1 participação em qualquer processo de qualificação para atuação em contexto intercultural. Entende-se por contexto intercultural, um espaço dinâmico no qual indígenas e não indígenas se põem em inter-relação imbuídos de modos particulares de enxergar o mundo e os processos de saúde e doença, considerando a desigualdades históricas presentes nesta relação.
+O uso desse indicador permite identificar a capacidade da SESAI em qualificar seus profissionais para atuação em contexto intercultural, considerando a educação permanente como um processo contínuo que visa a otimização do processo de trabalho; evidenciar lacunas e cenários que demandem estratégias específicas; contribuir como um dos fatores para análise de qualidade da assistência à saúde indígena e subsidiar processos de planejamento, gestão, monitoramento e avaliação de políticas voltadas à educação permanente no âmbito da saúde indígena
+Período Ou Data A Que Se Refere: Último dia de cada mês
+Data De Divulgação/Disponibilização: O DSEI informará mensalmente no SESAI/RH. Após qualificação dos dados a SESAI divulgará os resultados de forma trimestral no painel SESAI (http://sesai.com.br/p
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de trabalhadores (as) que participaram ao menos uma vez de ação de qualificação para atuação em contexto intercultural no período considerado e o Número total de trabalhadores (as) que atuam na atenção à saúde indígena.
+Fonte De Dados Das Variáveis De Cálculo: Numerador: SESAI -RH
+Denominador: SESAI-RH
+Forma De Disponibilização: Página oficial da SESAI/MS
+Procedimento De Cálculo: 1º Passo: Mensalmente o profissional/equipe de educação permanente de cada DSEI incluirá a informação sobre participação dos profissionais do DSEI em atividade do tipo 'Qualificação dos trabalhadores em contexto intercultural" no sistema SESAI-RH
+2º Passo: Será extraído pelo gestor do sistema SESAI-RH o banco de dados deste sistema, nele será filtrado nos campos referente a atividade de educação permanente, o tipo de atividade na variável "CO_SEQ_TIPO_ATIVIDADE_SESAI" somente as cadastradas como 'Qualificação dos trabalhadores em contexto intercultural" para o mês/ano específico de monitoramento na variável 'DT_INICIO" e "DT_FIM". 
+3º passo: Quantificar o numero de trabalhadores com qualificação profissional em contexto intercultural no ano/mês específico de analise para cada DSEI e para o conjunto deles = NUMERADOR
+4º passo: Quantificar o número total de trabalhadores cadastrados no sistema SESAI-RH por DSEI e para o conjunto deles = DENOMINADOR
+Fator de multiplicação= 100
+Limitações: Não mede a qualidade das ações, devendo ser associado a monitoramento e avaliação com enfoque qualitativo. A educação permanente é uma ferramenta de gestão do trabalho em saúde que pode sofrer interferência das condições infraestrutura, recursos humanos, dinâmica de trabalho específicas do DSEI, entre outros. 
+Até 2023, o indicador do Plano de trabalho anual, planejado a partir do Plano Distrital da Saude Indígena, considerava para as formações em contexto intercultural apenas os profissionais contratados pelas conveniadas, não abrangendo todos os profissionais da saúde indígena, tais como bolsistas, Médicos do Programa Mais Médicos, Servidores Públicos, entre outros. 
+Pode haver diferença na estimativa do indicador devido a mudança no calculo para 2023, além disso, ressalta-se que este indicador não mensura a qualidade das qualificações profissionais.
+Notas Explicativas: Até 2023, este era o indicador do Plano Distrital da Saúde Indígena (PDSI), sendo informado o quantitativo de profissionais qualificados mensalmente para o Sistema de Convênios (SICONV), referente apenas aos profissionais contratados pelas conveniadas. A partir de 2024 está sendo proposto que as qualificações sejam realizadas para todos os profissionais que atuam no SASI/SUS, independentemente da forma de contratação ou vínculo, e que a informação de treinamento seja inserida diretamente no sistema SESAI-RH. Dessa forma, o DSEI incluirá no SESAI-RH, mensalmente, a informação de participação dos trabalhadores em atividades de educação permanente do tipo 'Qualificação em contexto intercultural".
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5122
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 249
+Indicador: 9415
+Denominação: Número de aldeias beneficiadas com obras de infraestrutura de abastecimento de água potável
+Índice De Referência: 96.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere às aldeias beneficiadas com obras de implantação ou reforma de infraestruturas de abastecimento de água.
+Período Ou Data A Que Se Refere: Último dia de cada mês
+Data De Divulgação/Disponibilização: Último dia útil do mês.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Considera-se 'Infraestrutura de Abastecimento de Água': SAA (Sistema de Abastecimento de Água), SSAA (Sistema Simplificado de Abastecimento de Água) e SAC (Solução Coletiva de Abastecimento de Água).
+Fonte De Dados Das Variáveis De Cálculo: Processos SEI referentes aos relatórios de acompanhamento de obras de implantação e reforma de infraestrutura de abastecimento de água executadas pela Sesai, seja por contratação de empresa especilizada ou por execução direta com aquisição de materiais e mão-de-obra dos Distritos, independente da fonte de recurso; Processos SEI referentes aos relatórios de acompanhamento de obras de implantação e reforma de infraestrutura de abastecimento de água executadas por empresas de saneamento (municipais, estaduais ou privadas) ou demais entidades governamentais e não governamentais.
+Forma De Disponibilização: Planilhas padronizadas.
+Procedimento De Cálculo: 1. Levantar o número de aldeias beneficiadas com a conclusão de obras de implantação e reforma de infraestrutura de abastecimento de água executadas pela Sesai, seja por contratação de empresa especilizada ou por execução direta com aquisição de materiais e mão-de-obra dos Distritos, independente da fonte de recurso.
+2. Levantar o número de aldeias beneficiadas com a conclusão de obras de implantação e reforma de infraestrutura de abastecimento de água executadas por empresas de saneamento (municipais, estaduais ou privadas) ou demais entidades governamentais e não governamentais.
+3. Somar os quantitativos levantados nos itens 1 e 2.
+Limitações: Existem diversos fatores que podem impor restrições significativas ao cálculo dos indicadores, os quais estão relacionados a dificuldades de acesso que comprometem a logística de execução da obra. Por exemplo, o comportamento sazonal dos fenômenos climáticos em determinadas regiões, especialmente nas aldeias localizadas na Amazônia Legal. Em algumas situações, essas aldeias possuem acesso limitado durante os períodos de cheia e vazante dos rios que levam à localidade. Além disso, outros desafios estão relacionados aos custos de mobilização, que impactam nos contratos; à vigência da nova lei de licitações; e à capacidade técnica, operacional e financeira das empresas em algumas regiões.
+Notas Explicativas: a) O número de aldeias beneficiadas nem sempre corresponderá ao número de obras concluídas. Isso significa que, ocasionalmente, uma mesma obra de infraestrutura de abastecimento de água poderá atender  mais de uma aldeia indígena devido a proximidade entre as mesmas. b) Serão consideradas 'obras concluídas' aquelas que tiverem o Termo de Recebimento da Obra devidamente emitido pela entidade responsável no ano vigente, independentemente se essas obras foram iniciadas nos anos anteriores.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Indicador: 9207
+Denominação: Taxa de mortalidade infantil por causas evitáveis
+Índice De Referência: 19.01
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: taxa
+Descrição: De acordo com a Rede Interagencial de Informações para a Saúde - RIPSA (2008), este indicador estima o risco de morte dos nascidos vivos durante o seu primeiro ano de vida.
+De maneira geral, reflete as condições de desenvolvimento socioeconômico e infraestrutura ambiental, bem como o acesso e a qualidade dos recursos disponíveis para atenção à saúde materna e da população infantil.
+Período Ou Data A Que Se Refere: último dia de cada trimestre
+Data De Divulgação/Disponibilização: trimestralmente
+Periodicidade: Trimestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Total de óbitos: soma do número absoluto de mortes.
+Crianças indígenas menores de um ano: crianças indígenas atendidas pelo SasiSUS com idade até 364 dias (0 ano 11 meses e 29 dias).
+Causas evitáveis: grupo de causas de morte que poderiam ser evitadas por alguma ação de saúde (reduzíveis por ações adequadas de diagnóstico e tratamento; reduzíveis por ações adequadas de promoção à saúde, vinculadas a ações adequadas de atenção à saúde; reduzíveis por ação de imunoprevenção; reduzíveis por adequada atenção à mulher na gestação; reduzíveis por adequada atenção à mulher no parto; e reduzíveis por adequada atenção ao recém-nascido).
+Total de Nascidos vivos indígenas: soma do número de crianças indígenas nascidas vivas de mães residentes em terra e territórios indígenas atendidas pelo SasiSUS.
+Determinado local: área de abrangência do Distrito Sanitário Especial Indígena (DSEI).
+Determinado período: período de tempo no qual os óbitos e os nascimentos ocorreram.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informação da Atenção à Saúde Indígena - SIASI
+Forma De Disponibilização: Extração direta do banco de dados do SIASI
+Procedimento De Cálculo: Para cálculo desse indicador é utilizado o módulo demográfico do SIASI. Pode sofrer alteração no decorrer do ano, conforme atualização demográfica.
+Obtenção do número de óbitos:
+1º Passo: Abrir o banco de óbito extraído do SIASI, formato Excel.
+2º Passo: Inserir numa nova aba a tabela de causas evitáveis de morte.
+3º Passo: Inserir no banco de dados a variável "EVITABILIDADE".
+4º Passo: Inserir uma tabela dinâmica.
+5º Passo:  Seleciona a variável "NATIMORTO" opção "NÃO" (desconsidera-se os óbitos classificados como fetais CID: P95, Z37.1, Z37.3, Z37.4, Z37).
+6º Passo: Seleciona a variável "FX_ETARIA1" opção "Menor de ano".
+7º Passo: Seleciona-se a variável "CO_SEQ_INDIO" para contagem dos óbitos.
+8º Passo: Seleciona a variável "EVITABILIDADE" opções de "causas reduzíveis".
+6º Passo: Seleciona a variável "DSEI_GESTAO" (obtenção dos dados por DSEI).
+7º Passo: O dado do numerador do indicador nacional é realizado pelo somatório do número absoluto de óbitos infantis (0 a 11 meses e 29 dias).
+Obtenção do número de nascidos vivos:
+1º Passo: Abrir o banco de nascidos vivos extraído do SIASI, formato Excel.
+2º Passo: Inserir uma tabela dinâmica.
+3º Passo:  Seleciona a variável "NATIMORTO" opção "NÃO".
+5º Passo: Seleciona-se a variável "CO_SEQ_INDIO" para contagem dos nascimentos.
+6º Passo: Seleciona a variável "DSEI_GESTAO" (obtenção dos dados por DSEI).
+7º Passo: O dado do numerador do indicador nacional é realizado pelo somatório do número absoluto de nascidos vivos.
+Para calcular o indicador utiliza-se uma planilha Excel para consolidar as informações extraídas de cada banco de dados. O cálculo final é obtido com o fator multiplicador 1000.
+Limitações: De acordo com a RIPSA, uma das limitações deste indicador é referente as imprecisões no seu calculo especialmente quando se trata de pequenas populações, situação verificada na saúde indígena quando os dados são desagregados por DSEI.
+O indicador é superestimado quando o total de nascimentos não atinge 1000 nascidos vivos por ano; segundo recomendação da RIPSA, preconiza-se a demonstração do total de óbitos para uma avaliação mais adequada do coeficiente.
+Pode haver necessidade de informações adicionais sobre a composição do indicador, que podem sinalizar a adoção de intervenções diferenciadas sobre a qualidade da atenção à saúde (mortalidade neonatal) ou sobre o ambiente (mortalidade pós-neonatal).
+Subnotificação da informação.
+Notas Explicativas: O cálculo das metas regionalizadas teve como base as TMI de cada Distrito. Para os DSEI com TMI até 8,0/mil nv, foi aplicado o mesmo percentual de redução anual pactuado para a meta nacional. Para os DSEI com TMI abaixo de 8,0/mil nv, os percentuais de redução foram ajustados ao longo dos quatro anos, considerando já se alcançar um valor muito abaixo da referência nacional (8,47/mil nv). Para o DSEI Bahia, considerando que, na data da extração da informação, não houve óbito registrado no SIASI em 2022, adotou-se a mediana da série histórica (2010-2022).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5122
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 186
+Enunciado: Reduzir a mortalidade infantil indígena por causas evitáveis
+Descrição: O objetivo do indicador é estabelecer a redução da mortalidade infantil por causas evitáveis, que poderiam ter sido redutíveis por ações efetivas dos serviços de saúde. Esse tipo de óbito pode ser considerado como evento sentinela da qualidade da assistência à saúde e também reflete as condições de desenvolvimento socioeconômico e infra-estrutura ambiental.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Objetivo Específico: 249
+Enunciado: Garantir o acesso à água para consumo humano em aldeias indígenas.
+Descrição: Desenvolver ações para fornecer água potável a 368 aldeias indígenas, no período de 2024 a 2027, é uma prioridade. Isso será alcançado por meio de obras de implantação, reforma ou ampliação de Sistemas de Abastecimento de Água (SAA) ou Soluções Alternativas Coletivas de Abastecimento de Água (SAC), conforme definido no Anexo XX da portaria de consolidação GM/MS n°5 de 2017, alterada pela portaria GM/MS n.°888 de 2021. A Sesai será responsável por elaborar projetos básicos e executivos para viabilizar essas implantações. Além disso, serão adotadas medidas para aumentar o número de aldeias com coleta e análise de água para consumo humano. Isso será feito para garantir a qualidade da água, avaliando sua potabilidade e auxiliando na implementação das ações de controle necessárias para torná-la própria para o consumo.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+passage: Programa Número 5122
+
+Exercício: 2025
+Programa: 5122
+Objetivo: 1295
+Enunciado: Promover e qualificar a oferta de ações e serviços de saúde e saneamento ambiental, considerando os diferentes contextos étnico-culturais da população indígena, em articulação e fortalecimento dos saberes e práticas tradicionais
+Descrição: A Secretaria de Saúde Indígena (SESAI) é a área do Ministério da Saúde (MS) responsável por coordenar a Política Nacional de Atenção à Saúde dos Povos Indígenas (PNASPI) e o processo de gestão do Subsistema de Atenção à Saúde Indígena (SasiSUS) no âmbito do Sistema Único de Saúde (SUS). Sua criação, em 2010, originou-se da necessidade de reformulação da gestão da saúde indígena no país, reivindicada pelos próprios povos indígenas. Assim, a SESAI é uma conquista destes povos, que são os únicos que contam com um subsistema de atenção à saúde dentro do SUS. 
+Para implementar o modelo assistencial adotado no SasiSUS, a SESAI executa suas ações por meio dos Distritos Sanitários Especiais Indígenas (DSEI), que se definem como espaços territoriais etnoculturais e populacionais dinâmicos. As ações de atenção primária à saúde indígena e de saneamento básico são realizadas nas terras e territórios onde vivem os povos indígenas e são desenvolvidas respeitando os saberes e as práticas tradicionais de saúde, mediante a organização da rede de atenção integral, hierarquizada e articulada com o SUS. Os territórios sob a responsabilidade de cada DSEI podem abranger mais de um município e/ou Estado. 
+Em sua atuação, a SESAI leva em consideração a diversidade das medicinas tradicionais indígenas, à qual requer que estratégias de articulação entre o sistema oficial de saúde e os saberes e práticas indígenas sejam elaboradas no âmbito local, a partir do diálogo intercultural estabelecido com os diferentes sujeitos e comunidades indígenas, de modo a contemplar suas especificidades epistêmicas.
+Outras importantes ações desempenhadas pela SESAI dizem respeito à implementação e manutenção de Sistemas de Abastecimento de Água (SAA), de infraestrutura dos estabelecimentos de saúde, monitoramento da qualidade da água, ações preventivas e corretivas relacionadas ao abastecimento de água, bem como a garantia de logística de transporte, comunicação e gestão de insumos e medicamentos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5122
+
+Exercício: 2025
+Programa: 5122
+Título: Saúde Indígena
+Tipo: Finalístico
+Órgão: 36000.0
+Público-Alvo: População indígena.
+Descrição Do Problema: Os povos indígenas no Brasil apresentam maior carga de morbimortalidade principalmente por causas evitáveis, quando comparados com a população não indígena. A deterioração das condições socioambientais relacionadas às ameaças territoriais e à expansão das frentes econômicas (extrativismo, trabalho assalariado temporário, projetos de desenvolvimento e aumento das atividades ilegais como o desmatamento e a mineração) impacta no modo de vida dos povos indígenas e tem agravado problemas antigos, como a malária e a situação de insegurança alimentar, além de criarem novas questões a serem enfrentadas, como a contaminação por mercúrio. Além das questões socioambientais, problemas relacionados ao componente programático da vulnerabilidade têm se agravado, causados pela baixa capacidade de resolução dos serviços de Atenção Primária em Terras Indígenas e pela falta de articulação com os serviços de média e alta complexidade, associada ao preconceito e às barreiras culturais que dificultam o acesso aos serviços de saúde em grande parte dos territórios. Deve-se destacar também as condições deficitárias do saneamento básico em grande parte das Terras Indígenas. O contexto intercultural, caracterizado pela diversidade de compreensões sobre o processo “saúde, doença e cura”, demanda uma atenção à saúde diferenciada, que reconheça as medicinas tradicionais desses povos, seu direito à cultura, participação e controle social.
+Causa Do Problema: Contaminação química e biológica da água, solo e ar; condições deficitárias de saneamento, especialmente pela falta de água potável em quantidade e qualidade, a falta das condições sanitárias como Módulos Sanitários Domiciliares (MSD) e/ou esgoto, que favorece o surgimento de doenças de veiculação hídricas, as verminoses, das arboviroses, além da Febre Tifoide e Cólera; questões territoriais (associadas a não demarcação, falta de proteção territorial, desmatamento, ocupação e exploração irregular do território; entre outros, baixa adequação de políticas públicas que atendam às especificidades étnicas e culturais dos povos indígenas que, somadas às características geográficas, representam barreiras de acesso às políticas instituídas); Falta de insumos e regularidade nas ações de saúde; Deficiência na quantidade de profissionais; Baixa qualificação técnica de recursos humanos atuantes na atenção à saúde indígena;  Qualificação deficiente de recursos humanos para atuação no contexto intercultural; Baixa densidade de serviços de média e alta complexidade nas regiões ondem vivem a maioria dos povos indígenas; Falta de integração entre os serviços de Atenção Primária e a rede de referência; Dificuldade de gestão logística; Insegurança alimentar e nutricional; Vulnerabilidades socioculturais decorrentes das interações com a sociedade não-indígena; Discriminação étnico-racial; Acesso e uso indiscriminado a substâncias psicoativas; Fragilidade das ações de promoção à saúde indígena; Insuficiência e baixa qualificação das ações de educomunicação em saúde voltadas à população indígena; Necessidade de ampliar a efetividade da vigilância epidemiológica para prevenção e controle de doenças e agravos, a falta de uma modelagem de processo voltada para o gerenciamento de informação. Baixa priorização em tecnologias sociais para redução do déficit de saneamento ambiental e estabelecimentos de saúde indígena; estímulo ineficiente ao autocuidado e à valorização dos saberes tradicionais indígenas; Fragmentação do cuidado longitudinal em saúde; Participação deficiente do controle social nas atividades de planejamento, monitoramento e avaliação das ações de saúde.
+Evidências Do Problema: Desde a implantação do Subsistema de Atenção à Saúde Indígena, a taxa de mortalidade infantil indígena caiu de 74,6/1000 nascidos vivos (em 2000) para 30,67/1000 nascidos vivos (dado extraído em 31/03/2023), havendo uma diminuição de 58,8% da ocorrência de óbitos infantis, o que evidencia que a oferta de atenção primária à saúde numa perspectiva intercultural e a garantia de saneamento básico a populações de difícil acesso melhoram as condições de vida desses povos. Em relação à falta de saneamento básico, os indicadores apresentam resultados aquém da população não indígena. Atualmente, das mais de 6.000 aldeias existentes no Brasil, aproximadamente 50% delas possuem uma infraestrutura de abastecimento de água, e esse indicador fica mais precário quando se trata daquelas aldeias localizadas na região Norte, em função das distâncias e dificuldade relacionadas à logística para acesso àquelas localidades. Dessa mesma linha destaca-se o esforço da SESAI para a implantação e manutenção de Sistemas de Abastecimento de Água (SAA) e de outros equipamentos de infraestrutura dos estabelecimentos de saúde. Essa ação exige um enorme esforço, tanto no que se refere a novas construções como também à sua manutenção, destacando-se ainda o passivo existente de infraestrutura das Unidades Básicas de Saúde Indígena (UBSI), Polo Bases, alojamentos para profissionais que cumprem escalas complexas nos territórios indígenas, bem como as demandas crescentes de acesso a saneamento básico e água potável, que acabam implicando na qualidade do serviço ofertado às comunidades indígenas.
+Justificativa Para A Intervenção: A formulação e a operacionalização das ações de atenção à saúde constituem uma rede pautada no cuidado, com foco na família indígena, cujas necessidades de saúde devem ser atendidas de forma a respeitar a singularidade dos povos indígenas e garantir a integralidade da atenção, em consonância com as políticas e os programas do SUS, especialmente em face da estratégia de saúde da família. Sua implementação, conforme os princípios estabelecidos na Política Nacional de Atenção à Saúde Indígena (PNASPI), justifica a implementação do SasiSUS, que requer a adoção de um modelo diferenciado de organização dos serviços de saúde prestados à população indígena, não apenas voltados para prevenção, promoção, proteção e recuperação da saúde e controle de doenças e agravos, mas também à garantia do exercício da cidadania por essa população.
+Evolução Histórica: Até a Constituição Federal de 1988, os povos indígenas eram tutelados pelo Estado Nacional e as ações de saúde ofertadas a essas populações se caracterizavam por um modelo de atenção campanhista médico-curativo. A partir da criação do subsistema de atenção à saúde indígena pela Lei 9.836/1999, passou-se a ofertar atenção primária à saúde desses povos nas mais de 6.000 aldeias existentes no país, primeiramente, sob gestão da Funasa, até 2010, e posteriormente sob gestão da Secretaria de Saúde Indígena, até os dias de hoje. 
+Com relação ao saneamento básico em áreas indígenas, destaca-se o esforço da SESAI em garantir o acesso à água potável em quantidade e qualidade. Em 2010, ano de criação da SESAI, existiam 1.761 aldeias com infraestrutura de abastecimento de água implantada e, em 2022, esse número ampliou-se para 3.483 aldeias beneficiadas, um aumento de cerca de 100% em relação ao momento anterior. Essa sensibilidade parte do princípio de que o acesso à água potável de qualidade e em qualidade vem ao encontro das ações de controle e prevenção de doenças e agravos a essa população.
+Comparações Internacionais: Comparando-se com a Austrália, Chile e Nova Zelândia, o Brasil apresenta a estrutura de política pública mais fortalecida em termos de reconhecimento das necessidades da saúde e da participação indígena. Contudo, o SasiSUS apresenta problemas de gestão e de representatividade da comunidade indígena, falhando na garantia de implementação das decisões do controle social (Ferdinand et al. 2020).
+
+Ferdinand, A., Lambert, M., Trad, L., Pedrana, L., Paradies, Y., & Kelaher, M. (2020). Indigenous engagement in health: lessons from Brazil, Chile, Australia and New Zealand. International Journal for Equity in Health, 19(1), 1-12. https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-020-1149-1
+Relação Com Os Ods: Objetivo 2: acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura. 
+Objetivo 3: assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades. 
+Objetivo 5: alcançar a igualdade de gênero e empoderar todas as mulheres e meninas. 
+Objetivo 6: assegurar a disponibilidade e gestão sustentável da água e saneamento para todos.
+Objetivo 10: redução das desigualdades – reduzir as desigualdades dentro dos países e entre eles;
+Objetivo 11: tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. 
+Objetivo 12: assegurar padrões de produção e de consumo sustentáveis. 
+Objetivo 13: ação contra a mudança climática global; 
+Objetivo 15: vida terrestre.
+Agentes Envolvidos: Comunidades indígenas, controle social, organizações indígenas e sociais, profissionais, gestores distritais, municipais, estaduais e Federais, entidades privadas sem fins lucrativos e universidades e institutos de pesquisa (municipais, estaduais e federais), envolvidos na execução dos serviços de atenção à saúde dos Povos Indígenas.
+Articulação Federativa: Secretarias do Ministério da Saúde; Secretarias Estaduais de Saúde; Secretarias Municipais de Saúde; Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome; Fundação Nacional dos Povos Indígenas; Ministério dos Povos Indígenas; Ministério dos Direitos Humanos e Cidadania; Ministério da Integração Nacional, universidades e institutos de pesquisa (municipais, estaduais e federais).
+Enfoque Transversal: Articulação com a Política Federal de Saneamento Básico (Lei nº 11.445/2011), Política Nacional e Resíduos Sólidos (Lei nº 12.305/10), Política Nacional de Meio Ambiente (Lei nº 6.938/1981), Política Nacional de Recursos Hídricos (Lei nº9.433/1997), Política Nacional de Educação em Saúde Ambiental (Lei nº 9.795/1999). Política Nacional de Vigilância em Saúde (Resolução n° 588/2018). Política Nacional de Atenção Integral à Saúde da Criança (Portaria n° 1.130, de 05 de agosto de 2015). Política Nacional de Atenção Integral à Saúde da Mulher. Política Nacional de Alimentação e Nutrição. Política Nacional de Gestão Territorial e Ambiental de Terras Indígenas (Decreto n° 7.747, de 05 de junho de 2012), Política Nacional de Promoção da Saúde (Portaria de Consolidação nº 2 de 28 de setembro de 2017), Política Nacional de Atenção Básica (Portaria nº 2.488, de 21 de outubro de 2011).), Política Nacional de Atenção Básica (Portaria nº 2.488, de 21 de outubro de 2011), Política Nacional de Educação Popular em Saúde (Portaria nº 2.761, de 19 de novembro de 2013), Política Nacional de Gestão Estratégica e Participativa (Portaria n.º 3.027, de 26 de novembro de 2007), Política Nacional de Práticas Integrativas e Complementares no SUS (Portaria nº 971GM/MS de 3 de maio de 2006). Política Nacional de Saúde Bucal (Lei nº LEI Nº 14.572 DE 08 DE MAIO DE 2023.)
+Marco Legal: Constituição Federal, Título VIII Capítulo VIII- Indio Art. 193-231; Artigo 165;  Lei nº 8.080/1990; Lei nº 8.142/90; Lei nº 9.836/1999; Lei nº 12.314/2010; Lei Complementar nº 141/2012; Decreto nº 3.156/1999; Decreto nº 7.508; Portaria nº 254/2002; Resolução nº 453/2012; Portaria nº 15/2014; Portaria nº 519/2015; Portaria nº 2.656/2007; Portaria nº 2.663/2017; Portaria GM/MS nº 2914/2011; Lei nº 11.445/2007; Lei nº 12.305/10; Portaria GM/MS nº 3.021/2020.; Lei nº 13.123/2015; Portaria GM/MS nº 3.021/2020; Portaria nº 755/2012; Portaria Conjunta n. 4.094/2018
+
+Lei nº 6.938, 31/08/1981; Constituição Federal/1988; Lei n.º 8.080, 19/09/1990; Medida Provisória nº 1.911-8, 29/07/1999; Decreto n.º 3.156, 27/08/1999; Lei n.º 9.836, 23/09/1999; Resolução CONAMA n.º 275, 25/04/2001; Resolução CONAMA n.º 358, 29/4/2005; Lei n.º 11.445, 05/1/2007; Portaria de Consolidação nº 5 28/09/2017, Anexo XX; Lei Complementar n.º 141, 13/01/2012; Portaria n.º 1.419, 8/6/2017; Resolução CONAMA nº 237/1997; Resolução Conama nº 396/2008; RDC nº 222/2018; Portaria de Consolidação nº 4, de 28 de setembro de 2017, Anexo VIII; Lei 12.305 de 2 de agosto de 2010. Decreto n° 8.892, 27/10/2016; Resolução CONAMA nº 430, 13/05/2011; Resolução CONAMA nº 357, 17/03/2005; Programa Nacional de Saneamento Rural (PNSR).
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Saúde 2024-2027; e
+Plano Distrital de Saúde Indígena 2024-2027.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

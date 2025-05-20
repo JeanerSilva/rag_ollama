@@ -1,0 +1,803 @@
+passage: Programa Número 2314
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 48
+Entrega: 55
+Indicador: 8850
+Denominação: Índice de Cobertura do Segmento Fechado de Previdência Complementar
+Sigla: ICRPC
+Índice De Referência: 3.86
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Mensurar a taxa da população ocupada que está ativa nas Entidades Fechadas de Previdência Complementar.
+O acompanhamento do Índice de cobertura do segmento fechado de previdência complementar é importante porque permite medir a adesão efetiva dos trabalhadores ao sistema.
+Além disso, ajuda a identificar possíveis lacunas na cobertura previdenciária, indicando se há uma parcela significativa de trabalhadores que não está aderindo ao sistema e perdendo a oportunidade de garantir uma renda complementar na aposentadoria. Essas informações são fundamentais para direcionar ações e políticas que visem ampliar a proteção previdenciária da população ocupada e promover uma maior participação nas Entidades Fechadas de Previdência Complementar.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: 50 dias após a data a que se refere o indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: População das EFPC: representa o somatório dos participantes ativos, aposentados e pensionistas das Entidades Fechadas de Previdência Complementar.
+
+População Ocupada IBGE: representa  a quantidade de pessoas de 14 anos ou mais de idade, ocupadas na semana de referência
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Políticas e Diretrizes de Previdência Complementar com base em dados da Superintendência Nacional de Previdência Complementar e do Instituto Brasileiro de Geografia e Estatística.
+Forma De Disponibilização: Dados da população das Entidades Fechadas de Previdência Complementar no endereço https://infger.previc.gov.br:8443/Relatorios.
+Dados do Instituto Brasileiro de Geografia e Estatística disponíveis no endereço https://www.ibge.gov.br/estatisticas/sociais/populacao.html.
+Procedimento De Cálculo: Para acessar as informações de população das Entidades Fechadas de Previdência Complementar são utilizados os relatórios predefinidos constantes no link: https://infger.previc.gov.br:8443/Relatorios disponibilizado pela Superintendência Nacional de Previdência Complementar, sendo necessário autenticação de usuário fornecida pela própria autarquia.
+
+Os dados da População Ocupada são obtidos por meio do site do Instituto Brasileiro de Geografia e Estatística, no link: https://www.ibge.gov.br/estatisticas/sociais/populacao.html.
+
+Em seguida, aplica-se a fórmula de cálculo.
+Limitações: Poderá ocorrer limitação na aferição do indicador caso haja descontinuidade do acesso aos relatórios da Superintendência Nacional de Previdência Complementar ou da pesquisa Pesquisa Nacional por Amostra de Domicílios Contínua do Instituto Brasileiro de Geografia e Estatística.
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 106
+Entrega: 192
+Indicador: 8988
+Denominação: Índice de Produtividade Recursal
+Sigla: IPR
+Índice De Referência: 115.0
+Em Apuração: Não
+Data De Apuração: 2023-05-18 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador pretende acompanhar a quantidade média de recursos analisados
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade Total de Processos analisados:  total de processos em diligência ou julgados no Conselho de Recursos da Previdência Social, considerando-se todos os processos com emissão de Decisório, ou seja, de Acórdão, decisão colegiada.
+Fonte De Dados Das Variáveis De Cálculo: Dados disponibilizados pela Empresa de Tecnologia e Informações da Previdência Social.
+Forma De Disponibilização: Relatórios Estatísticos do Banco de Gestão do CRPS - BG-CRPS
+Procedimento De Cálculo: Para acessar as informações, o Conselho de Recursos da Previdência Social utiliza os relatórios disponibilizados no Painel BG-CRPS, cujo tratamento se dará através do quantitativo de processos analisados: diligências + acórdãos divididos pelo total de processos que foram recebidos no CRPS pelo INSS
+Limitações: Considerando as bases de dados do Sistema de Recursos do Conselho de Recursos da Previdência Social (sem gestão direta por parte do Conselho de Recursos da Previdência Social) e de forma manual pelas Unidades Julgadoras, podem ocorrer inconsistências sistêmicas ou, até mesmo, a descontinuidade do acesso às bases de gestão ou aos aplicativos da Microsoft 365.
+Notas Explicativas: São considerados como analisados  os processos que são submetidos a decisões colegiadas, com emissão de Acórdão, decisões emitidas em mesa ou diligências e ainda os encaminhamentos à PMF.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 106
+Entrega: 194
+Indicador: 8990
+Denominação: Índice de Reforma de Decisão
+Sigla: IRD
+Índice De Referência: 25.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: %
+Descrição: O Índice de Reforma de Decisão traduz o percentual de reformas das decisões do Conselho de Recursos da Previdência Social. Melhorar a qualidade dos processos julgados implica em redução de reforma das decisões, tendo em vista que muitas reformas dizem respeito à falta de clareza dos acórdãos ou desacordo com a jurisprudência e alterações normativas.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Total de recursos especiais com decisão de provimento total ou provimento parcial + embargos providos ou providos parcialmente + revisões aceitas e;
+
+Total de recursos julgados
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados da Empresa de Tecnologia e Informações da Previdência Social
+Forma De Disponibilização: Dados disponibilizados na Base de Gestão( BG-CRPS) do Conselho de Recursos da Previdência Social.
+Procedimento De Cálculo: Primeiramente os dados são colhidos a partir das fontes indicadas (Empresa de Tecnologia e Informações da Previdência Social). O sistema BG-CRPS já apresentaria o cálculo do índice. Esse valor final, juntamente com os dados que serviram de base, são divulgados na página oficial do Conselho de Recursos da Previdência Social de acordo com a frequência estabelecida.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 104
+Entrega: 261
+Indicador: 9087
+Denominação: Número de Pessoas Informadas nas Ações Educativas do Programa de Educação Previdenciária
+Sigla: PEP
+Índice De Referência: 149342.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoa
+Descrição: Mensura a entrega de disseminação do conhecimento previdenciário nas ações de educação previdenciária, uma vez que indica quantas pessoas foram informadas nas ações do Programa de Educação Previdenciária.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: 10 dias após a data que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade Total de Pessoas Informadas nas Ações Educativas do PEP: Número de pessoas informadas nas ações educativas do Programa de Educação Previdenciária.
+Fonte De Dados Das Variáveis De Cálculo: SPEP: Sistema de Acompanhamento das Ações do Programa de Educação Previdenciária.
+Forma De Disponibilização: Sistema de Acompanhamento do Plano de Ação do Instituto Nacional do Seguro Social, disponível em https://planoacaov2.prevnet/
+Procedimento De Cálculo: Obtenção dos números consolidados pelo sistema de acompanhamento das ações do Programa de Educação Previdenciária e divulgados mensalmente no Sistema de Acompanhamento do Plano de Ação anual do Instituto Nacional do Seguro Social.
+Limitações: -
+Notas Explicativas: Cálculo da quantidade de pessoas informadas é acumulativo, chegando ao final do ano (resultado de dezembro) com a soma de todos os meses do ano.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 124
+Entrega: 215
+Indicador: 9024
+Denominação: Número de Profissionais de RPPS com Certificação Profissional
+Sigla: CPRPPS
+Índice De Referência: 4296.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: profissional capacitado
+Descrição: A certificação dos profissionais de Regimes Próprios de Previdência Social visa a melhoria do processo de escolha dos dirigentes, conselheiros, membros de comitê de investimentos e dos responsáveis pela gestão dos recursos, mediante a exigência de requisitos mínimos de qualificação pessoal e técnica desses profissionais.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data que se refere
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade Total de Certificações dos Profissionais de RPPS: número de certificações dos profissionais de Regimes Próprios de Previdência Social em todo o território nacional.
+Fonte De Dados Das Variáveis De Cálculo: Os dados são obtidos junto às três Entidades Certificadoras credenciadas desta Certificação Profissional:
+
+- Instituto TOTUM de Desenvolvimento e Gestão Empresarial LTDA (atua tanto no mercado regulado, por meio de acreditações junto ao Sistema Brasileiro de Certificação, quanto em iniciativas de autorregulação),
+
+- APIMEC - Brasil (Associação dos Analistas e Profissionais de Investimentos do Mercado de Capitais do Brasil) e
+
+- ABIPEM (Associação Brasileira de Instituições de Previdência Estaduais e Municipais).
+
+Existe uma rotina estabelecida junto às entidades certificadoras de envio periódico de informações ao Departamento dos Regimes de Previdência no Serviço Público.
+Forma De Disponibilização: Dados obtidos por meio de coleta de informações junto às entidades certificadoras.
+Procedimento De Cálculo: Rotina de envio de relatórios de monitoramento estabelecida junto às Entidades Certificadoras (existe uma rotina estabelecida junto às entidades certificadoras de envio periódico de informações ao Departamento dos Regimes de Previdência no Serviço Público); e
+Somatório do total de profissionais certificados.
+Limitações: Falhas na rotina de envio de informações por parte das entidades certificadoras.
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 124
+Entrega: 217
+Indicador: 9026
+Denominação: Número de Regimes Próprios de Previdência Social com Certificação do Pró-Gestão RPPS
+Sigla: Pró-Gestão RPPS
+Índice De Referência: 192.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: certificados acumulados
+Descrição: O Pró-Gestão é um programa de certificação do Regime Próprio para assegurar que as melhores práticas de gestão previdenciária sejam aplicadas e garantir mais transparência para os segurados e para a sociedade sobre como essa gestão é realizada.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade Total de RPPS Certificados no Pró-Gestão: número de Regimes Próprios de Previdência Social certificados no Pró-Gestão em todo o território nacional.
+Fonte De Dados Das Variáveis De Cálculo: Os dados são obtidos junto às três Entidades Certificadoras credenciadas desta Certificação Profissional Pró-Gestão:
+
+- Instituto TOTUM de Desenvolvimento e Gestão Empresarial LTDA (atua tanto no mercado regulado, por meio de acreditações junto ao Sistema Brasileiro de Certificação, quanto em iniciativas de autorregulação)
+- Fundação VANZOLIN (realiza certificações de produtos e sistemas de gestão para organizações e instituições públicas e privadas)
+- Instituto de Certificação Qualidade Brasil (ICQ BRASIL - organismo de certificação)
+Forma De Disponibilização: Dados obtidos por meio de coleta de informações junto às entidades certificadoras.
+Procedimento De Cálculo: Rotina de envio de relatórios de monitoramento estabelecida junto às Entidades Certificadoras (existe uma rotina estabelecida junto às entidades certificadoras de envio periódico de informações ao Departamento dos Regimes de Previdência no Serviço Público); e
+Somatório do total de entidades certificadas.
+Limitações: Falhas na rotina de envio de informações por parte das entidades certificadoras.
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 155
+Entrega: 295
+Indicador: 9133
+Denominação: Número de Unidades com Teleperícia Funcionais
+Sigla: PMUT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Quantidade de unidades com o serviço de teleperícia ativo. Será contabilizada a unidade que possuir os equipamentos necessários para a prestação do serviço e estiver com o serviço configurado e disponibilizado para a população.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de Unidades com Teleperícia Ativa: número total de unidades com o serviço de telepericia configurado e disponibilizado para a população.
+Fonte De Dados Das Variáveis De Cálculo: Bancos de Dados da Perícia Médica Federal - através da ferramenta Base de Gestão e Painel de Eficiência do Instituto Nacional do Seguro Social.
+Forma De Disponibilização: Comunicação Administrativa através de Painel de informações da Perícia Médica Federal e Painel de Eficiência do Instituto Nacional do Seguro Social.
+Procedimento De Cálculo: Extração de Bancos de Dados da Perícia Médica Federal - através da ferramenta Base de Gestão.
+Limitações: -
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 155
+Entrega: 267
+Indicador: 9102
+Denominação: Percentual de Requerimentos de Benefícios Previdenciários Concluídos de Forma Automática
+Sigla: PERAUT
+Índice De Referência: 30.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Acompanhar a evolução da automatização da análise de requerimentos de benefícios previdenciários, contribuindo para a celeridade do reconhecimento de direitos previdenciários à população.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: Até o dia 10 do mês subsequente ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de Benefícios Concluídos de Maneira Automática: quantidade total de benefícios previdenciários decididos de maneira automática, excluindo-se os benefícios por incapacidade.
+Fonte De Dados Das Variáveis De Cálculo: Quantidade de benefícios previdenciários com decisão automática estão disponíveis no Sistema Único de Informações de Benefícios (SUIBE)
+Quantidade de benefícios previdenciários requeridos estão disponíveis no sistema BG Tarefas.
+Forma De Disponibilização: Extração mensal pela Diretoria de Benefícios e Relacionamento com o Cidadão
+Procedimento De Cálculo: 1) Extração do número de benefícios previdenciários (excluindo os benefícios por incapacidade) decididos com matrícula de conclusão igual a 979797, no Sistema Único de Informações de Benefícios.
+
+2) Extração do número de benefícios previdenciários requeridos  (excluindo os benefícios por incapacidade) , com dado proveniente do sistema BG Tarefas e disponível para acesso no Painel de Eficiência.
+
+3) Divisão do item 1 pelo item 2.
+
+4) Multiplicação do resultado do item 3 por 100.
+Limitações: Para o cálculo do indicador, são considerados os filtros abaixo:
+
+1) Excluir do cálculo as seguintes espécies de benefícios:
+
+11:Amparo Previdenc. Invalidez- Trab. Rural
+12:Amparo Previdenc. Idade - Trab. Rural
+16:Auxilio União
+18:Auxílio Inclusão À Pessoa com Deficiência
+30:Renda Mensal Vitalícia por Incapacidade
+31:Auxílio Por Incapacidade Temporária Previdenciário
+32:Aposentadoria Por Incapacidade Permanente Prev
+36:Auxílio-Acidente Previdenciário
+40:Renda Mensal Vitalícia por Idade
+56:Pensão Vitalícia Sindrome Talidomida
+60:Benefício Indenizatório a Cargo da União (Zica Vírus)
+85:Pensão Vitalícia Seringueiros
+86:Pensão Vitalícia Dependentes Seringueiro
+87:Amp. Social Pessoa Portadora Deficiencia
+88:Amparo Social ao Idoso
+89:Pensão Esp. Vitimas Hemodiálise-Caruaru
+91:Auxílio Por Incapacidade Temporária Acidentário
+92:Aposentadoria Por Incapacidade Permanente Acid
+94:Auxílio Acidente
+95:Auxílio Suplementar Acidente Trabalho
+96:Pensao Especial Hanseniase Lei 11520/07
+98:Benef.Assist.Ao Trab Portuário Avulso
+Notas Explicativas: 1) O resultado deste indicador é o cruzamento de informações de duas bases de dados diferentes. Após implementados os ajustes necessários no sistema BG Tarefas, todos os dados do indicador poderão ser extraídos deste sistema. 
+
+2) Os benefícios por incapacidade são excluídos do cálculo por dependerem de ato presencial ou análise humana (perícia médica) para sua conclusão, impossibilitando a conclusão automatizada. 
+
+3) Os benefícios de legislação especial e benefícios assistenciais foram excluídos do cálculo por não se tratar de benefícios custeados pela Previdência Social.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 155
+Entrega: 272
+Indicador: 9104
+Denominação: Percentual de Segurados Reabilitados
+Sigla: PSRP
+Índice De Referência: 11.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Mensura a capacidade do Instituto Nacional do Seguro Social de reabilitar segurados, ampliando a eficiência do serviço de reabilitação profissional, com a recolocação desses segurados no mercado de trabalho.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano
+Data De Divulgação/Disponibilização: Até o dia 10 do mês subsequente ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total de Segurados Reabilitados: número total de segurados reabilitados.
+
+Total de Segurados em Reabilitação Profissional: número total de segurados no Programa de Reabilitação Profissional.
+Fonte De Dados Das Variáveis De Cálculo: Boletim Estatístico da Reabilitação Profissional.
+Forma De Disponibilização: Sistema de Acompanhamento do Plano de Ação do Instituto Nacional do Seguro Social, disponível em https://planoacaov2.prevnet/
+Procedimento De Cálculo: 1) Extração do número de segurados reabilitados, no Boletim Estatístico da Reabilitação Profissional.
+
+2) Extração do número de segurados em programa de Reabilitação Profissional, no Boletim Estatístico da Reabilitação Profissional.
+
+3) Divisão do item 1 pelo item 2.
+
+4) Multiplicação do resultado do item 3 por 100.
+Limitações: -
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 155
+Entrega: 294
+Indicador: 9132
+Denominação: Tempo Médio de Espera do Agendamento de Perícia Médica
+Sigla: TMEA-PM
+Índice De Referência: 62.12
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: dias
+Descrição: Representa a média de dias que o Segurado espera para ter a sua perícia médica realizada para obtenção de algum benefício junto ao Instituto Nacional do Seguro Social. Inicia-se a contagem a partir da data em que o Segurado entra em contato com o Instituto Nacional do Seguro Social mediante solicitação de algum benefício e decorre esse prazo até que o segurado seja efetivamente atendido e tenha sua perícia realizada.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Trimestral
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Data da Solicitação: data em que foi realizada a solicitação do agendamento.
+
+Data do Agendamento: data em que será realizado o atendimento agendado.
+
+Total de Agendamentos da Unidade: todos os agendamentos solicitados no mesmo período de análise, na competência.
+Fonte De Dados Das Variáveis De Cálculo: Bancos de Dados da Perícia Médica Federal - através da ferramenta Base de Gestão.
+Forma De Disponibilização: Comunicação Administrativa através de Painel de informações da Perícia Médica Federal.
+Procedimento De Cálculo: Extração de todos os registros de agendamentos para uma determinada Unidade. Soma-se a diferença entre a data de solicitação e a data do agendamento de todos os agendamentos naquele período (total de dias de espera) e divide-se esse valor pela quantidade total de agendamentos da Unidade, obtendo-se o valor médio desse indicador.
+Limitações: -
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2314
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 48
+Indicador: 8846
+Denominação: Montante de Ativos do Regime de Previdência Complementar
+Sigla: ATRPC
+Índice De Referência: 2.37
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: R$ trilhão
+Descrição: Acompanhar o crescimento da poupança previdenciária do Regime de Previdência Complementar formada pelos ativos de investimentos das Entidades de Previdência Complementar, incluindo entidades fechadas, abertas e seguradoras.
+Acompanhar o crescimento da poupança previdenciária do Regime de Previdência Complementar é crucial para garantir a segurança financeira dos participantes e a sustentabilidade do sistema. Isso envolve verificar se os recursos estão sendo adequadamente gerenciados e investidos, avaliar a rentabilidade dos investimentos realizados pelas Entidades de Previdência Complementar e promover a transparência e a prestação de contas. 
+Além disso, o acompanhamento permite o planejamento estratégico e a tomada de decisões informadas para garantir que os recursos estejam disponíveis para honrar os benefícios contratados no futuro, proporcionando uma renda complementar na aposentadoria aos participantes.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: 60 dias após a data a que se refere o indicador
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Ativos de Investimentos das Entidades Fechadas de Previdência Complementar: representa o montante de recursos de investimentos dos planos de benefícios administrados pelas Entidades Fechadas de Previdência Complementar.       
+
+Ativos de Investimentos das Entidades Abertas de Previdência Complementar: representa o valor do montante de recursos de investimentos dos produtos de previdência administrados pelas Entidades Abertas de Previdência Complementar e Seguradoras.
+Fonte De Dados Das Variáveis De Cálculo: Departamento de Políticas e Diretrizes de Previdência Complementar com base em dados da Superintendência Nacional de Previdência Complementar e da Superintendência de Seguros Privados.
+Forma De Disponibilização: Relatório Gerencial de Previdência de Previdência Complementar, link: https://www.gov.br/previdencia/pt-br/assuntos/previdencia-complementar/dados-abertos-de-previdencia-complementar
+Procedimento De Cálculo: Os valores são obtidos a partir de informações da Superintendência Nacional de Previdência Complementar e da Superintendência de Seguros Privados.
+Para acessar as informações sobre as Entidades Fechadas de Previdência Complementar, são utilizados os relatórios predefinidos constantes no link: https://infger.previc.gov.br:8443/Relatorios disponibilizado pela Superintendência Nacional de Previdência Complementar. É necessária autenticação de usuário autorizado pela Superintendência Nacional de Previdência Complementar.
+No caso das Entidades Abertas de Previdência Complementar, o Departamento de Políticas e Diretrizes de Previdência Complementar recebe periodicamente planilha predefinida enviada pela Superintendência de Seguros Privados contendo as informações necessárias.
+Limitações: Descontinuidade do acesso aos relatórios da Superintendência Nacional de Previdência Complementar ou atraso e descontinuidade do envio das planilhas da Superintendência de Seguros Privados.
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 124
+Indicador: 9018
+Denominação: Percentual de RPPS com Classificação “A” e “B” no Índice de Situação Previdenciária
+Sigla: FortRPPS
+Índice De Referência: 26.0
+Em Apuração: Não
+Data De Apuração: 2022-11-30 00:00:00
+Unidade De Medida: %
+Descrição: O Índice de Situação Previdenciária é um indicador relacionado à gestão e transparência, situação financeira e situação atuarial, que é calculado com base no envio de demonstrativos pelos Regimes Próprios de Previdência Social, graduando-se a pontuação conforme a periodicidade prevista para a apresentação dos demonstrativos, grau de cobertura das despesas do Regimes Próprios de Previdência Social com as receitas por ele auferidas e cobertura dos compromissos previdenciários.
+Período Ou Data A Que Se Refere: Julho do ano anterior até Julho do ano corrente
+Data De Divulgação/Disponibilização: Novembro de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de RPPS com Classificação "A" e "B" no ISP: Total de Regimes Próprios de Previdência Social com notas "A" e "B" no Índice de Situação Previdenciária.
+
+Número Total de RPPS: Total de Regimes Próprios de Previdência Social ativos na data da aferição do indicador.
+Fonte De Dados Das Variáveis De Cálculo: Sistemas governamentais: Sistema de Informações dos Regimes Públicos de Previdência Social, Sistema de Gestão de Consultas e Normas do Regime Próprio de Previdência Social e Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro.
+Forma De Disponibilização: Por meio do endereço https://www.gov.br/previdencia/pt-br/assuntos/rpps/indicador-de-situacao-previdenciaria.
+Procedimento De Cálculo: Extração de dados nos sistemas: Sistema de Informações dos Regimes Públicos de Previdência Social (CADPREV), Sistema de Gestão de Consultas e Normas do Regime Próprio de Previdência Social (GESCON) e Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (SICONFI). 
+
+O SICONFI alimenta o CADPREV com relação a demonstrativos contábeis e o GESCON alimenta quanto ao envio das atualizações normativas; e
+
+Aplica-se a fórmula de cálculo.
+Limitações: O cálculo dos resultados depende de um sistema que está sob a governança da área de Tecnologia da Informação do Ministério da Previdência Social. Atualmente a Diretoria de Tecnologia da Informação do órgão provedor está terceirizando a manutenção desse sistema e esta terceirização está em fase de contratação. Caso o sistema não esteja operante não é possível calcular os resultados do Índice de Situação Previdenciária.
+Notas Explicativas: .
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 104
+Indicador: 8964
+Denominação: Proporção de Trabalhadores em Idade Ativa que Participam de Algum Regime de Previdência Social
+Sigla: TCPIA
+Índice De Referência: 69.8
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: %
+Descrição: Como a contribuição é condição necessária para participar da Previdência Social e, assim, estar coberto em relação aos riscos sociais, o indicador mensura o percentual de trabalhadores entre 16 e 59 anos de idade que informaram contribuir para algum regime de previdência social (Regime Geral de Previdência Social ou Regime Próprio de Previdência Social) ou que exerçam atividades rurais no formato que os tornam segurados do Regime Geral de Previdência Social.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro de cada ano.
+Data De Divulgação/Disponibilização: Ano seguinte ao de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Pessoas Ocupadas Participantes de Algum RPS: número de pessoas de 16 a 59 anos de idade ocupadas e participantes de Regimes de Previdência Social.
+
+Número de Pessoas Ocupadas: número de pessoas de 16 a 59 anos de idade ocupadas
+Fonte De Dados Das Variáveis De Cálculo: Pesquisa Nacional por Amostra de Domicílios Contínua, realizada pela Fundação Instituto Brasileiro de Geografia e Estatística.
+Forma De Disponibilização: Informe da Previdência Social disponível em:
+https://www.gov.br/previdencia/pt-br/assuntos/previdencia-social/informes-de-previdencia-social.
+Procedimento De Cálculo: 1 - Baixar os microdados da Pesquisa Nacional por Amostra de Domicílios Contínua da página do Instituto Brasileiro de Geografia e Estatística;
+2 - Organizar os dados;
+3 - Selecionar as variáveis relevantes;
+4 - Executar os scripts de seleção das variáveis que caracterizam a situação de contribuição a regime de previdência ou exercício de atividades rurais em formato que caracterizam situação de segurado especial do Regime Geral de Previdência Social; e
+5 - Agregar os dados e calcular o percentual de cobertura.
+Limitações: A metodologia a ser utilizada para a identificação de segurados especiais depende da disponibilidade de dados. 
+Em 2020 e 2021 foram suprimidas da Pesquisa Nacional por Amostra de Domicílios Contínua algumas variáveis que permitiam capturar de forma mais ampla o número de trabalhadores exercendo atividades como segurados especiais. Voltando a haver a disponibilidade dessas variáveis é possível aplicar essa metodologia.
+Notas Explicativas: É importante analisar os dados de acordo com a metodologia utilizada para identificação do número de trabalhadores rurais passíveis de serem considerados como segurados especiais do Regime Geral de Previdência Social. Além disso, é possível fazer a abertura da cobertura da população ocupada em idade ativa por sexo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 155
+Indicador: 9094
+Denominação: Tempo Médio de Decisão dos Requerimentos de Benefícios Previdenciários
+Sigla: TMD
+Índice De Referência: 90.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: dias
+Descrição: Permite acompanhar o tempo que o Instituto Nacional do Seguro Social leva para analisar e fornecer resposta aos cidadãos sobre seus requerimentos de benefícios previdenciários.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: Até o dia 10 do mês subsequente ao mês a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Data de Despacho do Benefício: data em que o benefício foi concluído, ou seja concedido ou indeferido.
+
+Data de Habilitação: data em que o benefício foi requerido junto ao Instituto Nacional do Seguro Social.
+
+Quantidade de Benefícios Despachados: total de benefícios despachados, concedidos ou indeferidos.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Único de Informações de Benefícios
+Forma De Disponibilização: Extração mensal pela Diretoria de Benefícios e Relacionamento com o Cidadão
+Procedimento De Cálculo: No Sistema Único de Informações de Benefícios selecionar “Registros”  em Consultas Personalizadas.
+
+Em “Registros” :
+Clicar em “Seleções Aceleradoras” e selecionar a “Competência Concessão”  de acordo com a competência desejada
+Clicar em “Variáveis” e selecione APS, Espécie, NB, DER, DDB
+Clicar em “Seleções”;
+Clicar em “Categóricas”;
+- Em “Acordo Internacional”  selecionar igual a  “Não”;
+- Em “APS”  selecione a agência desejada
+- Em “Despacho”  selecionar diferente de 03 e 04;
+- Em “Espécie”  selecionar diferente de 11, 12, 16, 18, 30, 40,  56, 60, 85,86, 87, 88,  89, 96 e 98; e
+- Em “GEX”  selecione a gerência correspondente à APS
+
+Executar  
+
+2ª Extração
+Selecionar “Concessão”
+Selecionar “Indeferidos”
+Selecionar  “Registros”  em Consultas Personalizadas
+Em “Registros”
+Clicar em “Seleções Aceleradoras” e
+o selecionar a “Competência Concessão”  de acordo com a competência da 1ª Extração
+Clicar em “Variáveis” e selecione
+- APS, Espécie, NB, “DER”, “Dt Indeferimento”
+Clicar em “Seleções”;
+Clicar em “Categóricas”;
+- Em “APS”  selecione a agência desejada
+- Em “Espécie”  selecionar diferente de 11, 12, 16, 18, 30, 40,  56, 60, 85,86, 87, 88,  89, 96 e 98; e
+- Em “GEX”  selecione a gerência correspondente à APS
+Executar  
+
+CÁLCULO DO TMD
+Calcular de cada NB da 1ª Extração  a diferença ente as datas (DDB – DER) para conseguir o tempo de concessão de cada registro.
+Calcular de cada NB da 2ª Extração a diferença entre as datas (Dt Indeferimento – DER) para conseguir o tempo de indeferimento de cada registro.
+Somar o resultado das diferenças das datas, dos dois cálculos anteriores, e dividir pelo total de benefícios concedidos e de indeferidos das duas extrações (quantidade).
+Limitações: Para o cálculo do indicador, são considerados os filtros abaixo:
+
+1) Excluir do cálculo as seguintes espécies de benefícios:
+
+11:Amparo Previdenc. Invalidez- Trab. Rural
+12:Amparo Previdenc. Idade - Trab. Rural
+16:Auxilio União
+18:Auxílio Inclusão À Pessoa com Deficiência
+30:Renda Mensal Vitalícia por Incapacidade
+40:Renda Mensal Vitalícia por Idade
+56:Pensão Vitalícia Sindrome Talidomida
+60:Benefício Indenizatório a Cargo da União (Zica Vírus)
+85:Pensão Vitalícia Seringueiros
+86:Pensão Vitalícia Dependentes Seringueiro
+87:Amp. Social Pessoa Portadora Deficiencia
+88:Amparo Social ao Idoso
+89:Pensão Esp. Vitimas Hemodiálise-Caruaru
+96:Pensao Especial Hanseniase Lei 11520/07
+98:Benef.Assist.Ao Trab Portuário Avulso
+
+2) Excluir do cálculo os despachos 03 (concessão em fase recursal)  e 04 (concessão decorrente de ação judicial)
+
+3) Excluir do cálculo os requerimentos de Acordos Internacionais (Acordo Internacional = Não)
+Notas Explicativas: Os benefícios de legislação especial e benefícios assistenciais foram excluídos do cálculo por não se tratar de benefícios custeados pela Previdência Social.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 106
+Indicador: 8970
+Denominação: Tempo Médio de Tramitação de Recurso no Conselho de Recursos da Previdência Social
+Sigla: TMTR-CRPS
+Índice De Referência: 269.0
+Em Apuração: Não
+Data De Apuração: 2023-06-19 00:00:00
+Unidade De Medida: dias
+Descrição: Acompanhar o tempo médio de tramitação dos processos de recurso no âmbito do Conselho de Recursos da Previdência Social em conjunto com a produtividade e a qualidade das decisões, a fim de permitir, por meio do equilíbrio da demanda, a duração razoável do processo administrativo previdenciário recursal.
+Período Ou Data A Que Se Refere: Dezembro de cada ano
+Data De Divulgação/Disponibilização: 30 dias após a data a que se refere o indicador
+Periodicidade: Mensal
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: Data de Recebimento do Recurso: data do recebimento do processo de recurso para julgamento é a data de chegada do recurso no Conselho de Recursos da Previdência Social no período de referência.
+
+Data de Emissão da Decisão: data de julgamento do recurso pelo Conselho de Recursos da Previdência Social, é a data de emissão do Decisório no período de referência.
+Fonte De Dados Das Variáveis De Cálculo: Dados disponibilizados pela Empresa de Tecnologia e Informações da Previdência Social, por meio de sistemas específicos e bases de gestão.
+Forma De Disponibilização: Informações disponibilizadas pela Empresa de Tecnologia e Informações da Previdência Social.
+Procedimento De Cálculo: Os dados são compostos pela base de gestão do Sistema de Recursos do Conselho de Recursos da Previdência Social extraída pela Empresa de Tecnologia e Informações da Previdência Social.
+Limitações: Como os dados são alimentados pela Empresa de Tecnologia e Informações da Previdência Social, e extraídos pelo CRPS, considerando as bases de dados do Sistema de Recursos do Conselho de Recursos da Previdência Social (sem gestão direta por parte do Conselho de Recursos da Previdência Social), podem ocorrer inconsistências sistêmicas ou, até mesmo, a descontinuidade do acesso às bases de gestão.
+Notas Explicativas: Atualmente, são considerados como julgados os processos que são submetidos a decisões colegiadas, com emissão de Acórdão, mais as decisões monocráticas, nos termos do art. 55 da Portaria nº 4.061/2022. Somados a isso, serão considerados como analisados o total de processos com decisões de mesa ou diligências e ainda os encaminhamentos à PMF
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2314
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 48
+Enunciado: Fomentar o Regime de Previdência Complementar, com a Ampliação da Cobertura e da Garantia da Proteção Social aos Participantes.
+Descrição: O fomento do Regime de Previdência Complementar estimula o desenvolvimento de uma cultura de poupança e investimento entre os trabalhadores brasileiros. Ao oferecer uma opção adicional de planejamento financeiro para o futuro, incentiva-se que as pessoas se preocupem mais com suas finanças pessoais e adotem hábitos de poupança a longo prazo, gerando um impacto positivo, não apenas na aposentadoria, mas, também na construção de uma base financeira mais sólida ao longo da vida.
+A ampliação do Regime de Previdência Complementar contribui para a sustentabilidade do sistema previdenciário como um todo. Ao permitir que parte dos benefícios de aposentadoria seja suprida pelos recursos acumulados pelos participantes nos planos de previdência complementar, os regimes públicos de previdência social sofrem menos pressão financeira, resultando, assim, numa maior estabilidade e sustentabilidade do sistema previdenciário e garantindo que as gerações futuras também tenham acesso a uma proteção social adequada.
+Órgão: 33000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 104
+Enunciado: Ampliar a Cobertura Previdenciária, com Foco na Educação e Comunicação, para Proteção do Cidadão
+Descrição: Ampliar o percentual da população ocupada em idade ativa que está inserida em algum regime de previdência social contando, portanto, com proteção no caso de ocorrência de algum dos riscos sociais cobertos pelo seguro social.
+Órgão: 33000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 106
+Enunciado: Promover a Melhoria Contínua da Qualidade e Reduzir o Tempo de Julgamento das Decisões Recursais
+Descrição: O recurso administrativo no Conselho de Recursos da Previdência Social tem como objetivo revisar uma decisão anteriormente emitida, podendo invalidá-la ou modificá-la. Isso está de acordo com a Lei nº 9.784/1999 e busca garantir o bem-estar e a justiça social, que são objetivos fundamentais da Ordem Social estabelecida na Constituição Federal. É essencial que os processos recursais sejam tratados dentro de um prazo razoável, para garantir o reconhecimento administrativo dos direitos, promovendo eficiência na resolução dos casos sem a necessidade de recorrer ao sistema judiciário. Isso traz economia de recursos públicos. Além disso, é importante melhorar constantemente as análises e decisões, para garantir a segurança jurídica necessária ao bom funcionamento da Previdência Social.
+Órgão: 33000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 124
+Enunciado: Fortalecer a Gestão dos Regimes Próprios de Previdência Social
+Descrição: Incentivar o fortalecimento da gestão dos Regimes Próprios significa fomentar a institucionalização de procedimentos e ações que resguardem o patrimônio desses regimes e assim o direito dos beneficiários.
+Órgão: 33000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Objetivo Específico: 155
+Enunciado: Promover a Melhoria Contínua da Qualidade na Prestação dos Serviços e Benefícios Previdenciários
+Descrição: Essencial para garantir a proteção social e o bem-estar dos cidadãos, a melhoria contínua da qualidade na prestação dos serviços e benefícios previdenciários requer medidas de gestão que busquem assegurar que os cidadãos recebam os benefícios a que têm direito de forma justa, célere e confiável, observando o prazo legal de até quarenta e cinco dias para o primeiro pagamento ser efetuado, após a data da apresentação, pelo segurado, da documentação necessária a sua concessão, conforme previsto no §5º do Artigo 41-A da Lei 8.213, de 1991.
+Tais medidas perpassam a agilidade na análise e decisão de processos previdenciários, investimentos em automação, reposição de mão de obra e eficiência nos serviços prestados.
+Desta forma, promover a melhoria contínua da qualidade na prestação dos serviços previdenciários é uma entrega de alto valor social, ao passo em que favorece a atuação da Previdência Social como um mecanismo de proteção social, contribuindo para a distribuição de renda, reduzindo a desigualdade e a pobreza.
+Órgão: 33000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2314
+
+Exercício: 2025
+Programa: 2314
+Objetivo: 1286
+Enunciado: Assegurar o Acesso à Previdência Social, Melhorando a Prestação dos Serviços, Ampliando a Cobertura Previdenciária, Promovendo a Equidade, a Sustentabilidade e o Fortalecimento dos Regimes, para Garantia da Proteção Social
+Descrição: O Objetivo Geral é aumentar o bem-estar social por meio de uma melhor e mais célere prestação de serviços previdenciários, garantindo o pagamento de benefícios previdenciários dentro dos prazos legais, assim como aumentando a base de cobertura previdenciária e, por conseguinte, melhorando a sustentabilidade econômica, financeira e atuarial do sistema previdenciário brasileiro.
+Embora seja difícil estimar metas quantitativas em função da diversidade de variáveis intervenientes na expansão da cobertura previdenciária, espera-se que, com as ações a serem desenvolvidas, ocorra sua ampliação entre trabalhadores e trabalhadoras em idade ativa, especialmente entre os que têm renda superior a um salário-mínimo.
+No que diz respeito aos Regimes Próprios de Previdência Social espera-se o fortalecimento da gestão visando maior equilíbrio financeiro, econômico e atuarial.
+Por fim, em relação ao Regime de Previdência Complementar os resultados esperados são: o incremento dos ativos totais do regime, inclusive do seu percentual sobre o Produto Interno Bruto brasileiro; o aumento de participantes e seus familiares protegidos pelo regime; o aumento de patrocinadores e instituidores que ofereçam planos de benefícios para seus trabalhadores, trabalhadoras e membros; redução das assimetrias regulatórias; adequação dos incentivos tributários; fortalecimento da educação financeira e previdenciária; maior conversão em renda das reservas da previdência complementar; e a racionalização da estrutura legal e infralegal aplicável ao regime a fim de promover a segurança jurídica e o incentivo ao desempenho excelente da governança e da gestão das Entidades Fechadas de Previdência Complementar.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2314
+
+Exercício: 2025
+Programa: 2314
+Título: Previdência Social: Promoção, Garantia de Direitos e Cidadania
+Tipo: Finalístico
+Órgão: 33000.0
+Público-Alvo: O público-alvo é toda a sociedade brasileira, uma vez que o fortalecimento da previdência social como instrumento de preservação da renda e da proteção social e de garantia da sustentabilidade do sistema de previdência no Brasil é de interesse coletivo. Destaca-se como prioridade: o grupo de pessoas com rendimentos provenientes de qualquer forma de ocupação e que não esteja vinculado ao Regime Geral de Previdência Social; o conjunto de trabalhadores e trabalhadoras que tem renda superior a um salário-mínimo, mas não contribuem para o Regime Geral de Previdência Social; os Regimes Próprios de Previdência Social e aqueles e aquelas a eles vinculados, bem como as trabalhadoras, trabalhadores, servidoras e servidores públicos para quem tenha sido ofertado plano de benefícios de Regime de Previdência Complementar pelo respectivo patrocinador ou instituidor.
+Descrição Do Problema: O problema abrange os aspectos centrais da Previdência Social, principalmente na amplitude da cobertura previdenciária, na qualidade e celeridade na prestação de serviços e na sustentabilidade financeira dos regimes. Trata-se de uma questão pública que não possui uma solução única bem definida e que devido as suas diversas variáveis e atores envolvidos o tornam complexo.
+Embora a filiação a um regime de previdência social seja obrigatória e importante sob diversas dimensões da proteção social, o que se observa é a existência de um grande contingente de pessoas trabalhadoras que exercem atividade laboral sem estar filiado ou, ainda que filiado, sem contribuir para o Regime Geral de Previdência Social. Essa situação ocorre tanto entre trabalhadores e trabalhadoras empregadas, que exercem suas atividades sem estar formalizados pelos seus empregadores, como entre contribuintes individuais, que exercem suas atividades sem efetuar o recolhimento de suas contribuições para o citado Regime. Ou seja, a informalidade previdenciária atinge não apenas o empregado e a empregada, mas também o trabalhador e a trabalhadora por conta própria.
+Em relação a operacionalização do Regime Geral de Previdência Social observa-se baixa eficiência na prestação dos serviços previdenciários pelo Instituto Nacional do Seguro Social, dificultando o acesso aos direitos previdenciários de forma célere e resolutiva que, aliada à baixa cobertura previdenciária, impacta negativamente na sustentabilidade do Regime Geral de Previdência Social.
+Há também o desequilíbrio financeiro, econômico e atuarial dos Regimes Próprios de Previdência Social, com geração de custos excessivos para as futuras gerações e potencial comprometimento do pagamento de benefícios previdenciários dos servidores e servidoras, bem como de seus dependentes. Por fim, no que diz respeito ao Regime de Previdência Complementar, identificam-se os seguintes problemas: a) em relação ao segmento fechado: o baixo crescimento nos últimos anos (em termos de ativos, de ingresso de novos patrocinadores e de número de participantes); b) em relação segmento aberto: conversão insuficiente das reservas em benefícios de renda.
+Causa Do Problema: São múltiplos os condicionantes para a existência de trabalhadores e trabalhadoras sem cobertura previdenciária e que favorecem a informalidade: 
+•  A insuficiente fiscalização do mercado de trabalho;
+•  O custo de formalização para empregadores e empregadoras, especialmente para atividades de baixa rentabilidade;
+•  A baixa renda levando a que contribuintes individuais prefiram utilizar a renda para satisfazer necessidades imediatas;
+•  A dinâmica econômica nas últimas décadas que levou à prevalência de empregos com baixa produtividade em setores pouco dinâmicos; e
+•  A baixa qualificação da mão-de-obra. 
+Não deve ser desconsiderado o custo de participação no Regime Geral de Previdência Social para os trabalhadores por conta própria, embora essa situação tenha sido alvo de diversas iniciativas nos últimos 15 anos. Outro elemento que surge nos últimos anos como um fator de aumento do trabalho informal é o avanço do trabalho por aplicativo, cuja dinâmica, flexibilidade e baixos rendimentos traz um grande desafio para a estrutura do Regime Geral de Previdência Social, desenhada para atender situações de trabalho mais tradicionais.
+Em relação à operacionalização do Regime Geral de Previdência Social pelo Instituto Nacional do Seguro Social, as principais causas do problema são:
+•  Aumento no número de requerimentos, o que pode ser atribuído ao cenário pós pandemia, à oscilação do desemprego e à desigualdade social;
+•  Redução no quadro funcional do Instituto Nacional do Seguro Social e da Perícia Médica Federal, com aposentadoria e vacância de grande número de servidores e servidoras, e falta de reposição desta mão de obra;
+•  Necessidade de qualificação e aperfeiçoamento dos servidores e das servidoras, impactando a qualidade da análise dos processos de benefícios;
+•  Baixo nível de conhecimento da população em relação aos seus deveres e direitos previdenciários;
+•  Necessidade de aperfeiçoamento na qualificação das bases de dados; e
+•  Complexidade e diversidade de parâmetros da legislação previdenciária.
+Nos Regimes Próprios de Previdência Social a causa do problema é estrutural e por diversos fatores: mudança no perfil etário dos segurados e beneficiários; somente em 1988 com a Emenda Constitucional nº 20/1998 que se alteraram os critérios para a concessão das aposentadorias voluntárias, passando a exigir tempo mínimo no cargo efetivo, no serviço público, mais o cumprimento conjunto dos critérios de tempo de contribuição e idade; legislação de entes que permitiam a incorporação de vantagens e gratificações sem a contribuição correspondente; período anterior com ausência de estudos atuariais para a definição das alíquotas de contribuição, que eram fixadas sem estarem adaptadas à necessidade local; ausência de profissionalização na gestão dos Regimes Próprios de Previdência Social, dentre outros.
+Por fim, no Regime de Previdência Complementar as causas do problema estão listadas abaixo:
+•  Legislação desatualizada;
+•  Assimetrias regulatórias entre os segmentos aberto e fechado da previdência complementar;
+•  Incentivos tributários insuficientes ou sem focalização adequada;
+•  Baixo nível de educação financeira e previdenciária da população;
+•  Ausência da adesão automática dos participantes aos planos de benefícios.
+•  Baixos estímulos à adesão de novos patrocinadores privados;
+•  Ingerência sobre os atos regulares de gestão;
+•  Regras de investimento incompatíveis com a natureza de longo prazo do Regime de Previdência Complementar; e
+•  Excesso normativo, que aumenta os custos e riscos de observância das Entidades Fechadas de Previdência Complementar.
+Evidências Do Problema: A cobertura previdenciária dos trabalhadores brasileiros, ou seja, a proporção de trabalhadores e trabalhadoras que conta com a proteção dos regimes de previdência social, é um indicador importante para acompanhamento das políticas públicas de proteção social. A partir da análise da Pesquisa Nacional por Amostra de Domicílios, é possível saber o nível de cobertura previdenciária da população economicamente ativa. Além disso, é importante acompanhar a cobertura da proteção previdenciária e assistencial da população idosa (60 anos ou mais) e seu impacto na redução da pobreza para esse público. 
+Em 2021, observou-se a expansão da população ocupada: o total de pessoas com idade entre 16 e 59 anos que se declaravam ocupadas ou se encaixavam na categoria de segurado especial aumentou para 83,0 milhões. No entanto, a quantidade de trabalhadores cobertos pela previdência social não aumentou no mesmo patamar, alcançando 57,9 milhões em 2021. Com isso, o percentual de pessoas cobertas pela Previdência Social foi de 69,8% nesse ano (redução de 1,1 ponto percentual em relação ao ano anterior). Os dados indicam a existência de cerca de 25 milhões de pessoas em idade ativa, entre 16 e 59 anos, que trabalham, mas não têm proteção previdenciária, sendo que 12,5 milhões têm rendimentos inferiores ao salário-mínimo.
+Quando se observa os dados da proteção social entre idosos, isto é, a proporção de idosos, pessoas com 60 anos ou mais, que tem algum benefício previdenciário ou assistencial e/ou contribui para a previdência social, em 2021, verifica-se que 81,3%, dessa população está socialmente protegida. Esse número representa uma ligeira queda em relação ao ano anterior, que foi de 81,5%. A quantidade de pessoas idosas protegidas aumentou para 25,4 milhões, e o total de idosos e idosas desprotegida chegou a 5,8 milhões (contra 5,6 milhões no ano anterior). Foram identificados 21,9 milhões de beneficiários da previdência social (70,2% da população idosa), 1,6 milhão de contribuintes e 1,1 milhão de beneficiários do Benefício de Prestação Continuada. 
+O que se evidencia é que, apesar da relativamente alta cobertura previdenciária da população ativa e da proteção social dos idosos e das idosas, quando comparada com outros países do mesmo nível de desenvolvimento do Brasil, ainda existe um grande contingente de pessoas que estão fora da estrutura da proteção social. 
+O nível de pobreza da população brasileira é afetado significativamente pelas aposentadorias e pensões pagas pela Previdência Social. O indicador de impacto dos benefícios assistenciais e previdenciários sobre a pobreza compara as taxas de pobreza e pobreza extrema observadas com aquelas que o Brasil teria se o poder público não concedesse qualquer benefício previdenciário e/ou assistencial. Em 2021, assumindo a condição de pobreza como rendimento domiciliar per capita inferior a R$ 606,00 (meio salário-mínimo), havia 68,3 milhões de pessoas em condição de pobreza. Desconsiderando-se os benefícios previdenciários e assistenciais, a quantidade de pessoas em situação de pobreza seria de 97,7 milhões nesse ano. Assim, em 2021, tais benefícios retiraram da pobreza 29,4 milhões de pessoas, reduzindo a taxa de pobreza em 13,8 pontos percentuais.
+Segundo o IPEA "As crescentes transformações observadas no mundo do trabalho, com significativas alterações nas relações de trabalho, possuem implicações para a participação previdenciária dos cidadãos e têm justificado demandas por novos arranjos na previdência social que permitam manter ou expandir a cobertura previdenciária...” (Boletim Políticas Sociais, versão preliminar, 2023).  
+Outro fato relevante é o envelhecimento populacional observado no país, com tendência à inversão da pirâmide etária, com impacto direto na sustentabilidade e nas políticas de Previdência Social.
+Verifica-se um acréscimo progressivo no número de requerimentos do Instituto Nacional do Seguro Social, e o aumento da fila. Em dezembro de 2022, o estoque de requerimentos de reconhecimento inicial de direitos estava em 887 mil, aumentando para quase 1,17 milhões no final do mês de março de 2023, excluídos os requerimentos de benefícios por incapacidade que dependem da perícia médica.
+No Instituto Nacional do Seguro Social, desde o advento da reforma da previdência, que provocou uma aposentação em massa de servidores e servidoras, esse número vem reduzindo significativamente e, de forma inversamente proporcional. A autarquia vem tentando automatizar a prestação de serviço, a fim de minimizar esse declínio. O quadro de pessoal era de 27.133 em março de 2022, chegando ao mês de janeiro de 2023 com 24.410, demonstrando um leve aumento em março para 24.615, reflexo das últimas chamadas dos novos aprovados no concurso realizado no ano anterior.
+A partir desse novo olhar, o Instituto Nacional do Seguro Social (INSS) visou ampliar a cobertura previdenciária por meios de canais digitais, alterando significativamente o fluxo de atendimento do seu público-alvo, transformando os processos físicos em eletrônicos. Os agendamentos, requerimentos e envio dos documentos necessários para reconhecimento do direito passaram a ser realizados por meio da ferramenta “Meu INSS”, principal canal da previdência, totalizando uma média de 40 milhões de acessos por mês, responsável por metade dos requerimentos protocolados. A Central de Teleatendimento 135, que presta atendimento por telefone, é outro meio de acesso da população aos serviços do Instituto Nacional do Seguro Social, atendendo mensalmente por volta de 5,7 milhões de chamadas.
+Além desses canais, o Instituto Nacional do Seguro Social também celebra Acordos de Cooperação Técnica com diversas entidades do poder público e do setor privado, com o objetivo em ampliar o acesso do cidadão aos serviços previdenciários e assistenciais, principalmente, em locais remotos.
+Através dessa modalidade de canal, o Instituto Nacional do Seguro Social mantém, atualmente, mais de 3.400 Acordos de Cooperação Técnica, para fins de requerimento de benefícios e serviços previdenciários, cabendo destaque para o acordo celebrado com a Fundação Nacional do Índio e com a Defensoria Pública da União. Toda essa estrutura foi responsável pela recepção de mais de 2,2 milhões de atendimentos no ano de 2022.
+O Programa de Educação Previdenciária é uma iniciativa para informar a população sobre os direitos e deveres previdenciários, a fim de aumentar o número de contribuintes e consequentemente promover a sustentabilidade do RGPS. Na mesma onda da informatização, o Programa de Educação Previdenciária vem avançando permitindo ao Instituto Nacional do Seguro Social criar canais nas redes sociais (Youtube, Twitter, Facebook e Instagram), a fim de alcançar um público mais abrangente.  Ao mesmo tempo, o Instituto Nacional do Seguro Social vem buscando parcerias e criou um projeto do Programa de Educação Previdenciária nas escolas a fim de formar profissionais da educação com foco na disseminação do conhecimento previdenciário, buscando também outras parcerias, como no caso da EMATER/DF, que tem como público-alvo o trabalhador e a trabalhadora rural.
+Outro fator externo que vem contribuindo para a evasão do público-alvo da previdência é a variação da taxa de desemprego, que desde o ano de 2020 vem apresentando altos e baixos, conforme a série histórica de dados da Pesquisa Nacional por Amostra de Domicílios Contínua, que são coletados pelo Instituto Brasileiro de Geografia e Estatística. A constante variação da taxa de desemprego/ocupação contribui para a exclusão da proteção social cuja qual o trabalhador e a trabalhadora teriam direito. Este é o grande desafio da previdência, assegurar os direitos de centenas de trabalhadores e trabalhadoras do Brasil.
+O Anuário Estatístico de Previdência Social dos Regimes Próprios de Previdência Social apresenta que o resultado financeiro dos Regimes Próprios de Previdência Social e do Sistema de Proteção Social dos Militares das Forças Armadas dos Estados, Distrito Federal, Municípios, União e Fundo Constitucional do Distrito Federal encontrava-se em 2021 no patamar de mais de 221 bilhões negativos.
+Em relação ao déficit atuarial da União, Estados/Distrito Federal e Municípios o anuário apresenta um déficit de 4,6 bilhões em 2021.
+Embora a proporção entre os ativos da previdência complementar e o Produto Interno Bruto tenha passado de 20% para 27% do Produto Interno Bruto, entre 2013 e 2022, esse crescimento se deu apenas no segmento aberto. Este, por sua vez, é responsável por apenas 5% do valor dos benefícios pagos.
+O pequeno crescimento da previdência complementar fechada tem se sustentado nos planos instituídos, planos família e na previdência complementar dos servidores públicos. Entre 2013 e 2022, as Entidades Fechadas de Previdência Complementar tiveram um incremento de 634 mil participantes, enquanto as Entidades Abertas de Previdência Complementar alcançaram mais de 4 milhões de novos contratos.
+Conforme dados da Superintendência Nacional de Previdência Complementar, de 2010 a 2022 os ativos totais do sistema cresceram 10,8% em termos reais (menos de 1% ao ano). Nos últimos quatro anos (2019 a 2022) o crescimento real foi de -0,2%.
+A taxa de adesão voluntária aos planos com patrocínio privado é historicamente baixa (cerca de 64%, conforme a Associação Brasileira das Entidades Fechadas de Previdência Complementar), enquanto a experiência da Fundação de Previdência Complementar do Servidor Público Federal revelou uma taxa de permanência de 96% dos participantes aderidos automaticamente, confirmando que a inscrição automática é um instrumento muito importante, conforme evidenciado pela experiência internacional (acima de 90% onde foi implementada, conforme a Organização para a Cooperação e o Desenvolvimento Econômico).
+Diante disso, ao longo dos anos, identificou-se a necessidade de promover uma análise qualitativa, de forma a aprimorar a regulação e a identificar possíveis excessos regulatórios.
+Justificativa Para A Intervenção: A existência de um grande contingente de trabalhadores e trabalhadoras sem proteção previdenciária é altamente negativa para a estabilidade social, pois leva a que haja na sociedade brasileira grupos altamente vulneráveis à pobreza no caso da ocorrência de algum dos riscos sociais. Na ocorrência da situação de pobreza os custos para toda a sociedade são grandes, seja para garantir um mínimo de condições de sobrevivência a esses grupos, seja em termos da desagregação social que a pobreza, em um ambiente de desigualdade social elevada, pode promover.
+Nessa perspectiva, ampliar a cobertura do Regime Geral de Previdência Social para o maior número possível de trabalhadores e trabalhadoras é fundamental para o atingimento dos objetivos fundamentais da República, que constam do art. 3º da Constituição Federal, bem como das diretrizes e objetivos estratégicos deste Plano Plurianual. 
+Para aumentar a cobertura previdenciária, é necessário também prover educação financeira e previdenciária à população brasileira, ação que vai permitir ao trabalhador e à trabalhadora um melhor entendimento sobre seus deveres e direitos previdenciários.
+Em momentos de crise econômica, especialmente, o Regime Geral de Previdência Social exerce um papel fundamental, injetando mensalmente mais de 54,5 bilhões de reais na economia com o pagamento de 32,5 milhões de benefícios, muitas vezes sendo a principal fonte de renda da família. A transferência de renda pela Previdência Social supera o repasse do Fundo de Participação dos Municípios em 73,6% dos municípios brasileiros.
+Apesar disso, ainda são milhares de segurados e seguradas aguardando uma resposta sobre seus requerimentos de benefício. Com mais de 1 milhão de requerimentos aguardando resolução pelo Instituto Nacional do Seguro Social (excluídos os benefícios por incapacidade), é imperioso que a Previdência Social invista na redução deste estoque e em estratégias sustentáveis que propiciem celeridade e resolutividade na entrega dos serviços previdenciários à sociedade brasileira.
+Uma das estratégias de maior relevância é o compartilhamento, a integração e o aperfeiçoamento das bases de dados governamentais, propiciando uma melhor qualificação dos dados cadastrais dos usuários, que são o insumo para o reconhecimento de direitos previdenciários.
+Em relação aos Regimes Próprios de Previdência Social é imprescindível a busca da sustentabilidade, por meio do fortalecimento da gestão e de incremento nos mecanismos de supervisão.
+O Regime de Previdência Complementar, especialmente no segmento fechado, é importante instrumento de proteção adicional ao trabalhador e à trabalhadora, contribuindo de forma decisiva para o aumento da proteção social, por meio da manutenção do poder aquisitivo das famílias. Além disso, a previdência complementar é fundamental para a formação de poupança interna e de longo prazo, ampliando a capacidade de investimento do país, contribuindo para o crescimento econômico.
+Os desafios decorrentes do aumento da longevidade da população e as recentes alterações paramétricas na previdência pública reforçam a importância do fortalecimento da previdência complementar como instrumento de preservação da renda e da proteção social e de garantia da sustentabilidade do sistema de previdência no Brasil.
+Além disso, a intervenção alinha-se ao papel do Estado em relação ao Regime de Previdência Complementar e às atribuições específicas do Ministério da Previdência Social e de suas unidades responsáveis pela previdência complementar.
+Portanto, impõe-se a adoção de medidas para interromper a tendência à estagnação observada nos últimos anos nos planos ofertados por patrocinadores e instituidores privados, notadamente pela remoção de barreiras normativas ao empreendedorismo e à inovação nas Entidades Fechadas de Previdência Complementar, por um lado, e para estimular a criação de novos planos de benefícios direcionados ao público elegível, mas atualmente não participante do Regime de Previdência Complementar, estimado em 9,2 milhões de participantes, bastante superior ao número de participantes ativos atual.
+Evolução Histórica: O problema da existência de um contingente importante de trabalhadores e trabalhadoras que não participam do Regime Geral de Previdência Social é antigo e foi objeto de programas em Planos Plurianuais anteriores. Isso evidencia como o problema apresentado é estrutural e dificilmente pode ser resolvido em curto prazo. Medidas de ampliação da cobertura no âmbito previdenciário já foram adotadas e tiveram sucesso, de certa maneira evidenciando a multiplicidade de fatores causais para essa situação estrutural. Durante a década de 2000 a 2010 observou-se a ampliação da cobertura previdenciária e uma expansão significativa do número de trabalhadores e trabalhadoras contribuintes do Regime Geral de Previdência Social. Na década seguinte, significativamente marcada pela grande recessão de 2014 a 2016, a evolução do número de contribuintes do Regime Geral de Previdência Social foi muito menos significativa, embora ainda positiva. A presente década se inicia com a crise sanitária decorrente da Covid-19, que teve efeitos importantes sobre o mercado de trabalho, bem como a expansão do trabalho por aplicativo, que traz novos desafios para a participação de trabalhadores e trabalhadoras na previdência social.
+De forma semelhante, em Planos Plurianuais anteriores já se buscavam ações destinadas a melhorar a qualidade dos serviços bem como o acesso e a manutenção do cidadão no sistema previdenciário.
+A busca pela eficiência e tempestividade no atendimento das demandas dos cidadãos e das cidadãs pressupõe a implementação de medidas que qualifiquem a análise dos requerimentos, a atualização dos cadastros de segurados e seguradas bem como a permanência destes no Regime Geral de Previdência Social. 
+Apesar de algumas ações já terem sido adotadas, como a automação de análise de algumas espécies de requerimentos, o aumento da demanda por benefícios previdenciários, assim como a redução aguda do quadro de servidores e servidoras do Instituto Nacional do Seguro Social e da Perícia Médica Federal, ocasionaram impacto significativo na qualidade dos serviços prestados à sociedade.
+Ainda estão em andamento os investimentos em sistemas e na modernização do atendimento, com vistas à redução da burocracia e do tempo de espera para conclusão dos processos, contribuindo para tornar mais célere o reconhecimento de direitos.
+O uso de novas tecnologias tem ampliado o acesso aos serviços da previdência. Por outro lado, a simplificação de usabilidade e linguagem é fundamental para tornar estas novas tecnologias mais acessíveis e ampliar seu uso.
+Nos Regimes Próprios de Previdência Social, de acordo com os dados históricos contidos no Anuário Estatístico publicado em 2022, é possível observar a evolução das despesas com benefícios previdenciários, havendo aumento significativo de mais de R$ 100 bilhões entre 2014 e 2021 para Estados, Distrito Federal e Municípios.
+No que diz respeito ao Regime de Previdência Complementar, ciclos anteriores do Plano Plurianual contemplaram objetivos voltados a melhorar a sustentabilidade e a fortalecer ações de inclusão e manutenção do cidadão e da cidadã no sistema previdenciário, como, por exemplo, no programa “Previdência Social” do Plano Plurianual 2016-2019.
+Conforme referido anteriormente, há uma estagnação do Regime de Previdência Complementar, notadamente no segmento fechado, pois entre 2010 e 2022 os ativos totais cresceram apenas 10,8% em termos reais (menos de 1% ao ano) e o número de participantes ativos cresceu de 2,45 milhões em 2010, para 3,1 milhões em 2022, mesmo considerando a previdência complementar dos servidores públicos.
+Comparações Internacionais: É de conhecimento geral que a seguridade social em outros países converge para o mesmo foco. Há grande ênfase na simplificação dos registros administrativos aos contribuintes, e alta nos investimentos em serviços eletrônicos, aplicativos, e desenvolvimento de tecnologia da informação e de algoritmos para atendimento aos serviços básicos aos cidadãos e às cidadãs.
+O processo de envelhecimento populacional tem exigido esforços contínuos de ajuste dos sistemas previdenciários de diversos países. O aumento da idade para as novas aposentadorias tornou-se uma tônica entre o resto do mundo, onde ao menos 46 países já aprovaram aumento da idade de aposentadoria. A idade mínima de 65 anos para homens já vigora no México, na Argentina e no Chile. Além do Brasil, apenas 12 outros países possuem aposentadoria por tempo de contribuição sem exigência de idade mínima, a maioria deles com sistemas pequenos e de baixa cobertura.
+De acordo com a Organização Mundial de Saúde o número de pessoas com idade superior a 60 anos chegará a 2 bilhões de pessoas até 2050 e isso representará um quinto da população mundial. 
+Segundo dados do Ministério da Saúde, o Brasil, em 2016, tinha a quinta maior população idosa do mundo, e, em 2030, o número de idosos ultrapassará o total de crianças entre zero e 14 anos.
+O processo de envelhecimento populacional tem exigido esforços contínuos de ajuste dos sistemas previdenciários de diversos países. 
+De acordo com o Anuário 2022 a média de idade da servidora e do servidor ativo no Brasil é de 44 anos, e a média de idade do servidor aposentado do sexo masculino é de 66 anos e da servidora aposentada é de 63 anos.
+Há grande ênfase na implementação de políticas públicas direcionadas ao desenvolvimento dos indicadores sociais e ao aumento da proteção social de seus cidadãos e cidadãs.
+Cabe destacar que a Previdência Social brasileira é sui generis, pois nosso sistema tem caráter solidário e intergeracional, além de diversas nuances que a tornam alicerce da seguridade social brasileira e ponto crucial para o reconhecimento de direitos a outras políticas transversais a exemplo do Benefício de Prestação Continuada da Lei Orgânica da Assistência Social e do Seguro-Desemprego do Pescador Artesanal.
+Outro ponto a se destacar é que em vários países membros da Organização para a Cooperação e Desenvolvimento Econômico o montante dos ativos da previdência complementar supera o Produto Interno Bruto, indicando existir um potencial de crescimento significativo a ser perseguido pelo Brasil.
+O Brasil tem uma relação, entre ativos totais e Produto Interno Bruto, de 12% no caso da previdência complementar fechada contra uma média mundial de 32% – 39º lugar, ou se for considerada toda a previdência complementar, de 25% – 16º lugar, ainda abaixo da média. Se forem levados em conta somente os países da Organização para a Cooperação e o Desenvolvimento Econômico, a média de referência se eleva para 66,9% (fonte: PensionsEurope, 2021).
+No contexto latino-americano, o Brasil está abaixo de Costa Rica, Jamaica, Uruguai e Colômbia, todos com relação entre ativos totais e Produto Interno Bruto acima de 29,5%. Vale salientar que apenas Brasil e Dinamarca possuem poupanças previdenciárias totais significativamente maiores que seus fundos de pensão.
+Relação Com Os Ods: O presente programa visa a prestação de serviços de qualidade aos cidadãos; o aumento da inclusão previdenciária, especialmente da população mais vulnerável; a maior sustentabilidade dos regimes de previdência e se relaciona intrinsecamente com diversos objetivos globais da Agenda 2030 para os Objetivos de Desenvolvimento Sustentável, em especial com quatro deles: 
+Objetivo 1 - Erradicação da pobreza; 
+Objetivo 8 - Emprego digno e crescimento econômico; 
+Objetivo 10 - Redução das desigualdades; e
+Objetivo 16 - Paz, Justiça e Instituições Eficazes.
+Agentes Envolvidos: Os principais agentes estatais identificados são:
+•  Ministério da Previdência Social (MPS);
+•  Ministério do Trabalho e Emprego (MTE);
+•  Ministério da Fazenda (MF);
+•  Instituto Nacional do Seguro Social (INSS);
+•  Superintendência Nacional de Previdência Complementar (Previc);
+•  Superintendência de Seguros Privados (Susep);
+•  Empresa de Tecnologia de Informação da Previdência Social (Dataprev);
+•  Tribunais de Contas;
+•  Controladoria Geral da União (CGU); e
+•  Regimes Próprios de Previdência Social (RPPS). 
+
+No âmbito da sociedade civil destacam-se:
+•  Conselho Nacional de Previdência Social (CNPS);
+•  Conselho Nacional de Previdência Complementar (CNPC);
+•  Confederações de trabalhadores e empregadores; e
+•  Conselho Nacional de Seguros Privados (CNSP).
+Articulação Federativa: Este programa possui articulação com os entes federados na busca por tornar os Regimes Próprios de Previdência Social sustentáveis, com melhora direta das contas públicas e da capacidade de atendimento às demandas da sociedade por bens e serviços públicos.
+Também ocorrerá articulação federativa em relação às iniciativas de consolidação da implantação do Regime de Previdência Complementar pelos entes subnacionais. Dos 2.144 entes que possuem Regimes Próprios de Previdência Social, 1.907 já aprovaram as leis de instituição do Regime de Previdência Complementar e 643 tiveram o convênio de adesão a plano de benefícios de Entidades Fechadas de Previdência Complementar aprovado pela Superintendência Nacional de Previdência Complementar.
+Enfoque Transversal: Como mencionado no item “Causa do Problema”, os condicionantes da cobertura previdenciária são variados. Isso, por si só, já evidencia que o tratamento dessa questão deve se dar de forma transversal, envolvendo não apenas o desenho da política previdenciária, mas também a política trabalhista, a política econômica e a política de desenvolvimento a ser adotada.
+Além disso, por meio do Instituto Nacional do Seguro Social, são operacionalizados importantes benefícios assistenciais, como o Benefício de Prestação Continuada ao Idoso e à Pessoa com Deficiência e o Seguro Desemprego do Pescador Artesanal (Seguro Defeso), políticas de assistência social e trabalhistas, respectivamente.
+Importante ressaltar o papel do Ministério da Fazenda, especialmente no que se refere à redução de assimetrias regulatórias entre os segmentos aberto e fechado e à adequação dos incentivos tributários. Ainda a respeito da previdência complementar, é essencial promover o alinhamento da Superintendência Nacional de Previdência Complementar com a regulação estabelecida pelo Conselho Nacional de Previdência Complementar, com as diretrizes da política definidas pela Secretaria de Regime Próprio e Complementar do Ministério da Previdência Social e com os agentes do sistema financeiro, como o Conselho Monetário Nacional, a Comissão de Valores Mobiliários, a Superintendência de Seguros Privados e o Banco Central do Brasil.
+Marco Legal: A Previdência Social é regida por diversos normativos, tendo entre suas peças legais mais importantes as seguintes:
+•  Constituição Federal de 1988; 
+•  Leis nº 8.212 e 8.213 de 1991; 
+•  Lei nº 9.250 de 1995; 
+•  Lei nº 9.532 de 1997; 
+•  Lei nº 9.717 de 1998; 
+•  Lei nº 10.887 de 2004;
+•  Lei nº 11.053 2004;
+•  Lei nº 12.154 de 2009;
+•  Decreto nº 3.048 de 1999; 
+•  Decreto nº 4.942 de 2003;
+•  Decreto nº 7.123 de 2010;
+•  Leis Complementares nº 108 e 109 de 2001;
+•  Lei Complementar nº142 de 2013; e
+•  Resoluções do Conselho Nacional de Previdência Complementar.
+Planos Nacionais, Setoriais E Regionais: Não se aplica, tendo em vista que a política de previdência e o programa são de abrangência uniforme em todo o território nacional.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

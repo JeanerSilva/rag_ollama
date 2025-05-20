@@ -1,0 +1,936 @@
+passage: Programa Número 5120
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 493
+Entrega: 1705
+Indicador: 10948
+Denominação: Número de estabelecimentos de saúde que geram informações de custos no sistema APURASUS
+Sigla: NESTACUSTPURASUS
+Índice De Referência: 475.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Refere-se a estabelecimentos de saúde que apuram e gerem seus indicadores de custos
+Período Ou Data A Que Se Refere: último dia do mês
+Data De Divulgação/Disponibilização: Dia 10 do mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Os termos das fórmulas de cálculo são cada um dos estabelecimentos de saúde que apuram e geram seus indicadores de custos.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Apuração e Gestão de Custos do SUS (APURASUS).
+Forma De Disponibilização: Sistema de Planejamento e Monitoramento do Ministério da Saúde (SIPLAM);  Comunicação administrativa
+Procedimento De Cálculo: Técnico com permissão e qualificação para acessar a base de dados do APURASUS constrói uma consulta em SQL para obter, por estabelecimento de saúde, o último mês de referência para o qual foram inseridas informações de custos. Essa consulta é exportada em formato csv. O arquivo gerado é aberto em software estatístico para classificação do estabelecimento de saúde quanto ao status de alimentação. É realizado um cálculo de  subtração  entre a data de apuração no mês vigente, que deve ser inferior ao dia 10, e a data do dia 1 do mês da última inserção de dados. Caso o número de dias seja inferior a 365, o estabelecimento de saúde ganhará status "SIM" para alimentação. Ou seja, será um estabelecimento contabilizado para o indicador. Por fim, será somado o número de estabelecimentos com status "SIM", por Unidade da Federação, e enviado um relatório com essa informação para a área responsável pelo SIPLAM.
+Limitações: Nível de ingerência federal
+Notas Explicativas: O Programa Nacional de Gestão de Custos (PNGC) é de adesão voluntária. Apesar do esforço federal para promover a captação de novos parceiros, manutenção dos atuais e de suporte técnico contínuo, o gestor local (municipal, estadual ou distrital) é o principal responsável pela continuidade no PNGC e pelo controle dos seus processos e, por conseguinte, pela alimentação adequada e tempestiva dos dados de custos no APURASUS. Dessa forma, é possível que ocorram oscilações no número de estabelecimentos de saúde por Unidade da Federação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 493
+Entrega: 1706
+Indicador: 10949
+Denominação: Número de estudos elaborados na área de Economia e Desenvolvimento em Saúde
+Sigla: NESTUECONOMSAÚDE
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador reflete a quantidade de documentos elaborados em Economia e Desenvolvimento em Saúde.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: todo dia 10 de cada mês da competência
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Os termos da fórmula de cálculo são cada um dos documentos elaborados em Economia e Desenvolvimento em Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna
+Forma De Disponibilização: Meio eletrônico e/ou físico: SEI (Sistema Eletrônico de Informações) e Portal Eletrônico da Biblioteca Virtual em Saúde- Economia da Saúde (BVS-ECOS)- https://economia.saude.bvs.br/
+Procedimento De Cálculo: Soma dos estudos produzidos durante o período.
+Limitações: -
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 491
+Entrega: 1686
+Indicador: 10927
+Denominação: Número de iniciativas de disseminação de evidências em saúde realizadas
+Sigla: NIDISSEMEVIDENCI
+Índice De Referência: 50.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Produtos solicitados e elaborados pela equipe interna ou por parceiros e entregues à área solicitante para promoção do uso de evidências científicas para apoio à tomada de decisão em saúde. Os produtos podem ser: fichas técnicas, resumos e quadros explicativos, policy briefs, cartilhas temáticas, comunicações diversas de resultados de pesquisas, apoio à construção de planos de tradução do conhecimento, entre outros. Esses produtos podem ser elaborados por meio de parcerias ou pela equipe técnica especializada do Departamento. Para a contagem do indicador serão considerados os mais diversos formatos: pdf, vídeos, painéis de informação, entre outros. (Fonte: Carta de serviços)
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 01/02 do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Produtos de tradução e disseminação do conhecimento entregues, a partir dos estudos secundários e pesquisas avaliativas, realizadas no âmbito Decit.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de monitoramento de metas PPA. Trata-se de informação compilada de registros administrativos que documentam a forma de execução e o resultado final dos estudos realizados.
+Forma De Disponibilização: Comunicação Administrativa em relatório de execução do PPA. Os produtos são entregues às áreas internas que os utilizam para revisão/melhoria das ações.
+Procedimento De Cálculo: 1. Registro de produto de comunicação elaborado em planilha de monitoramento de entregas do PPA (Trata-se de informação compilada de registros administrativos que documentam a forma de execução e o resultado final dos estudos realizados.)
+2. Cálculo do indicador.
+3. Planilhas e pastas internas de controle e monitoramento.
+Limitações: O indicador pretende registrar a estruturação de serviço de tradução e disseminação do conhecimento do Departamento de Ciência e Tecnologia. Portanto, o indicador não mede o alcance e públicos atendidos pelos produtos de tradução e disseminação do conhecimento. Ainda, o indicador não detalha a diferença entre os formatos utilizados e as temáticas abordados.
+Notas Explicativas: Os produtos de tradução e disseminação do conhecimento diferenciam-se dos produtos de comunicação para a sociedade e orientação para os profissionais da saúde no combate à desinformação em ciência em saúde. Além disso, esses produtos serão elaborados a partir dos estudos secundários e pesquisas avaliativas, realizadas no âmbito da Coordenação-Geral de Evidências em Saúde (CGEvi).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 2639
+Indicador: 11986
+Denominação: Número de instituições fabris e de desenvolvimento de tecnologias de informação e conectividade (TIC) estruturadas ou modernizadas
+Sigla: NINSTESTRMODERN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: No âmbito das ações do Plano de Investimentos na Saúde serão firmados projetos para a estruturação ou modernização de plantas fabris e estruturas para o desenvolvimento de TICs, por intermédio de convênios, contrato de repasse e termos de execução descentralizada.
+Período Ou Data A Que Se Refere: Último dia do semestre
+Data De Divulgação/Disponibilização: Último dia útil do semestre
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma: Adição das estuturas modernizadas no ano vigente.
+Estruturas fabris: Instituições responsáveis pela produção de medicamentos, vacinas, dispositivos médicos.
+Estruturas para o desenvolvimento de tecnologias de informação e conectividade: Instituições com capacidade de desenvolver tecnologias de informação e conectividade para saúde.
+Instituição estruturada: estrutura nova ou ampliada.
+Instituição modernizada: estrutura já existente com projeto de modernização.
+Ano vigente: ano corrente (01 de janeiro a 31 de dezembro)
+Fonte De Dados Das Variáveis De Cálculo: Transfere Gov, Sistema Eletrônico de Informação (SEI), Diário Oficial da União e Sistema Integrado de Admnistração Financeira (SIAFI).
+Forma De Disponibilização: Sistema de Planejamento e Monitoramento - SIPLAM
+Procedimento De Cálculo: Os Projetos firmados são acompanhados durante o processo de firmatura e empenho/descentralização. Esse processo de acompanhamento se dá pela verificação sistemática do Transfere Gov, do Sistema Eletrônico de Informação (SEI), do Diário Oficial da União e do Sistema Integrado de Admnistração Financeira (SIAFI).
+Limitações: Comportamento sazonal em razão da disponibilidade orçamentária, do período de recebimento de propostas e do andamento dos projetos.
+Notas Explicativas: As etapas para formalizar projetos para modernização fabril são:
+1) Análise e aprovação do projeto
+2) Descentraliazação ou Empenho 
+3) Firmatura do instrumento
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1710
+Indicador: 11016
+Denominação: Número de instrumentos formalizados para o fortalecimento do Complexo Econômico-Industrial da Saúde (CEIS)
+Sigla: NINSTCEIS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Os instrumentos novos ou revisados visam a convergência e a indução de medidas, programas e políticas para dar celeridade e efetividade à ação pública, com foco no estimulo da produção e da inovação nacional em tecnologias estratégicas de uso em saúde,  o fortalecimento das redes colaborativas, a convergência regulatória, a segurança jurídica, a  sustentabilidade dos investimentos e o aperfeiçoamento dos mecanismos para otimização do uso do poder de compra do Estado. Os instrumentos visam contribuir para a redução da vulnerabilidade tecnológica do SUS e ampliar o acesso.
+Período Ou Data A Que Se Refere: Último dia do trimestre
+Data De Divulgação/Disponibilização: Ultimo dia útil do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma : Adição dos instrumetnhos que forem formalizados no ano vigente
+Instrumentos formalizados: Ações, programas e medidas (portarias, Decretos, Normas, Leis, Acordos, Parcerias etc) voltados para o estimulo da produção e da inovação nacional em tecnologias de uso em saúde.
+Ano vigente: ano corrente (01 de janeiro a 31 de dezembro)
+Fonte De Dados Das Variáveis De Cálculo: Diário Oficial da União e informes do GECEIS (Grupo Executivo do Complexo Econômico-Industrial da Saúde).
+Forma De Disponibilização: Sistema de Planejamento e Monitoramento - SIPLAM
+Procedimento De Cálculo: Os instrumentos formalizados, a depender da natureza, são monitorados sistematicamente pelo Diário Oficial da União e pelos informes do GECEIS (Grupo Executivo do Complexo Econômico-Industrial da Saúde).
+Limitações: Comportamento sazonal em razão do recebimento de propostas dos órgãos integrantes do GECEIS e das entidades que compõe o Fórum de Articulação com a Sociedade
+Notas Explicativas: As etapas para formalizar instrumentos para o desenvolvimento da inovação e da produção local de tecnologias em saúde são:
+1) Prospecção de ações, programas e medidas que possam dar celeridade e efetividade à ação pública no âmbito do CEIS;
+2) Delineamento e formatação de propostas no âmbito dos grupos de Trabalho do GECEIS;
+3) Discussão e aprovação no âmbito do GECEIS;
+4) Formalização da ações, programas ou medidas aprovada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 491
+Entrega: 1684
+Indicador: 10925
+Denominação: Número de pesquisas avaliativas de politicas, programas e projetos de saúde ofertadas
+Sigla: NPESQAVALPOLPROG
+Índice De Referência: 12.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Pesquisas avaliativas solicitadas e elaboradas pela equipe interna ou por parceiros e entregues à área solicitante para promoção do uso de evidências científicas para apoio à tomada de decisão em saúde.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 01/02 do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Nº de pesquisas avaliativas fomentadas ou elaboradas e entregues
+Fonte De Dados Das Variáveis De Cálculo: Trata-se de informação compilada de registros administrativos que documentam a forma de execução e o resultado final dos estudos realizados.
+Forma De Disponibilização: Comunicação Administrativa em relatório de execução do PPA. Os estudos são entregues às áreas demandantes que os utilizam para revisão/melhoria das intervenções.
+Procedimento De Cálculo: Passo 1: Recebimento da solicitação da pesquisas avaliativas via Sistema Eletrônico de Informação.
+Passo 2: Registro da solicitação do estudo na planilha de monitoramento interno.
+Passo 3: Registro da finalização do estudo na planilha de monitoramento interno.
+Passo 4: Envio das pesquisas avaliativas à area demandante via Sistema Eletrônico de Informação.
+Passo 5: Somatório das pesquisas avaliativas entregues
+Limitações: O alcance do indicador depende do nº de solicitações das áreas do Ministerio da Saúde para realização de pesquisas avaliativas.
+Notas Explicativas: Para o cálculo do indicador considerou-se apenas pesquisas avaliativas elaboradas internamentes ou de contratação direta pela Coordenação Geral de Evidências em Saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 490
+Entrega: 1679
+Indicador: 10921
+Denominação: Número de pesquisas prioritárias e estratégicas fomentadas
+Sigla: NPESQESTRATEG
+Índice De Referência: 85.0
+Em Apuração: Não
+Data De Apuração: 2023-06-14 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de medir o quantitativo de pesquisas prioritárias, definidas por meio da Agenda Nacional de Prioridades de Pesquisa em Saúde (ANPPS) e Agenda de Prioridades de Pesquisas do Ministério da Saúde (APPMS), que são fomentadas, considerando o universo das pesquisas estratégicas fomentadas pelo Decit/SECTICS/MS durante o período de 2024 a 2027.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Primeira quinzena do mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Pesquisas prioritárias fomentadas pelo Departamento de Ciência e Tecnologia - DECIT, considerando os citérios vigentes para considerar uma pesquisa prioritária: 1) Agenda Nacional de Prioridades de Pesquisa em Saúde - ANPPS; 2) Agenda de Prioridades de Pesquisa do Ministério da Saúde - APPMS; 3) demandas em caráter de emergência em saúde pública; 5) pesquisas cujas temáticas foram definidas por Oficina de Prioridades em Pesquisa, como aquelas fomentadas por meio do Programa Pesquisa para o SUS – PPSUS; 6) pesquisas que visem promover e fortalecer o Programa Nacional de Genômica e Saúde de Precisão – Genomas Brasil.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão alimentados em planilha gerencial a partir das informações disponibilizadas:
+- No site do TransfereGov (https://ted.transferegov.sistema.gov.br/ted/programa/consulta), a partir da formalização das pesquisas via TED ou convênio;
+- Informações do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, disponibilizados no site (https://www.gov.br/cnpq/pt-br), a respeito da contratação dos projetos aprovados por meio de chamada pública;
+- Consulta dos termos de referências elaborados e encaminhados ao CNPq, para os projetos contratados por meio de contratação direta via CNPq.
+Forma De Disponibilização: Pesquisa Saúde, relatórios
+Procedimento De Cálculo: Etapa única: contabilizar as pesquisas prioritárias e estratégicas fomentadas, considerando:  ANPPS; APPMS; emergência em saúde pública; pesquisas cujas temáticas foram definidas por Oficina de Prioridades em Pesquisa, como aquelas fomentadas por meio do Programa Pesquisa para o SUS – PPSUS; pesquisas que visem promover e fortalecer o Programa Nacional de Genômica e Saúde de Precisão – Genomas Brasil.
+Limitações: O indicador restringe-se a apontar o número de pesquisas científicas e tecnológicas fomentadas, na medida em que visa a incentivar a
+produção do conhecimento científico. O indicador, entretanto, não identificará os resultados qualitativos das pesquisas realizadas, tampouco refletirá a distribuição territorial e a aplicabilidade das evidências e das soluções tecnológicas decorrentes das pesquisas
+Notas Explicativas: As pesquisas prioritárias serão consideradas àquelas cujos temáticas estejam contidas na Agenda Nacional de Prioridades em Pesquisa (ANPPS) e Agenda de Prioridades de Pesquisa do Ministério da Saúde (APPMS).
+Consideram-se pesquisas estratégicas aquelas cujos resultados tragam novos conhecimentos em diversas áreas e situações de saúde e proponham a utilização da produção científica e tecnológica no aprimoramento de políticas, programas e ações de saúde pública, buscando mitigar ou resolver problemas de saúde da população e do SUS. 
+Durante o primeiro ano e o último ano do PPA, estão previstas a 8ª (2024) e 9ª (2027) edições do Programa de Pesquisa para o SUS (PPSUS), desse modo, serão fomentadas um quantitativo maior de pesquisas concentradas nestes anos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 496
+Entrega: 1718
+Indicador: 11255
+Denominação: Número de procedimentos de pesquisa atendidos
+Sigla: NPROCEDPESQUISA
+Índice De Referência: 6750.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Procedimento é um conjunto de acessos às Plataformas Tecnológicas de Pesquisa da Fiocruz com a finalidade de responder a uma pergunta dentro de um projeto de pesquisa. Esses procedimentos fortalecem o desenvolvimento tecnológico nacional e contribuem para o alcance de autonomia, suficiência e racionalidade dos processos e produtos disponíveis no cuidado da saúde da população.
+Período Ou Data A Que Se Refere: Junho e dezembro de cada ano. Apuração semestral.
+Data De Divulgação/Disponibilização: Julho e janeiro.
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de procedimentos de pesquisa atendidos
+Fonte De Dados Das Variáveis De Cálculo: SAGE Fiocruz (www.sage.fiocruz.br)
+Forma De Disponibilização: Disponibilizado anualmente no Portal Fiocruz ( https://portal.fiocruz.br/vppcb-vice-presidencia-de-pesquisa-e-colecoes-biologicas) ou semestralmente em consulta oa Sistema SAGE
+Procedimento De Cálculo: A mensuração é realizada pelo sistema Sage por meio de extração de relatório com o produto "procedimentos de pesquisa atendidos". O produto é composto por informações do sistema da “Rede de Plataformas Tecnológicas da Fiocruz”, site https://clicktime.symantec.com/15uBY64TQLK8YwDNuVbVm?h=2Ny_fLsuwORaSoTnccNSGJsgjT4sh29MDzGQLoklU4=& u=http://plataformas.fiocruz.br (que monitora os acessos e os procedimentos de pesquisa em andamento no
+conjunto de unidades técnico-científicas da Fiocruz) e também, por resultados das áreas afins, tais como: Pesquisa Clínica, Coleções Biológicas da Fiocruz , RFBB (Rede Fiocruz de Biobancos) e BBS-FIOCRUZ (Biobanco Biodiversidade e Saúde).
+Limitações: O SAGE é o Sistema de Apoio a Gestão Estratégica da Fiocruz e não está integrado com o sistema de Plataformas Tecnológicas da Fiocruz,  logo as metas programadas e executadas são preenchidas manualmente sendo necessária alimentação semestral. Outra limitação são possíveis instabilidades nos sistemas.
+Notas Explicativas: -
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1709
+Indicador: 11008
+Denominação: Número de projetos firmados para o desenvolvimento de serviços tecnológicos e soluções para informação e conectividade
+Sigla: NPROJSOLUCONECTI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Os projetos para o desenvolvimento de serviços tecnológicos e soluções para informação e conectividade, se darão por intermédio de convênios, contrato de repasse e termos de execução descentralizada, entre outros possíveis de serem firmados pelo Ministério da Saúde, como parcerias, acordos de transferência ou encomendas tecnológicas, encomendas verticais, concursos de inovação etc.
+Período Ou Data A Que Se Refere: ÚItimo dia do trimestre
+Data De Divulgação/Disponibilização: Ultimo dia útil do trimestre
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Soma: Adição dos projetos que forem firmados no ano vigente
+Projetos firmados: Projetos com instrumentos firmados e com descentralização (TEDS) ou com empenho (convênio ou Contrato de repasse) realizados
+Ano vigente: ano corrente (01 de janeiro a 31 de dezembro)
+Fonte De Dados Das Variáveis De Cálculo: Transfere Gov, Sistema Eletrônico de Informação (SEI), Diário Oficial da União e Sistema Integrado de Admnistração Financeira (SIAFI).
+Forma De Disponibilização: Sistema de Planejamento e Monitoramento - SIPLAM
+Procedimento De Cálculo: Os Projetos firmados são acompanhados durante o processo de firmatura e empenho/descentralização. Esse processo de acompanhamento se dá pela verificação sistemática do Transfere Gov, do Sistema Eletrônico de Informação (SEI), do Diário Oficial da União e do Sistema Integrado de Admnistração Financeira (SIAFI).
+Limitações: Comportamento sazonal em razão da disponibilidade orçamentária e do período de recebimento de propostas
+Notas Explicativas: As etapas para  formar projetos para o desenvolvimento e a inovação de tecnologias em saúde são:
+1) Análise e aprovação do projeto
+2) Descentraliazação ou Empenho 
+3) Firmatura do instrumento
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1707
+Indicador: 10951
+Denominação: Número de projetos firmados para o desenvolvimento e a inovação em tecnologias em saúde
+Sigla: NPROJDESENVINOSA
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: No âmbito do Programa para o Desenvolvimento do Complexo Industrial da Saúde (PROCIS)  são firmados projetos para o fortalecimento da inovação em tecnologias de uso em saúde, por intermédio de convênios, contrato de repasse e termos de execução descentralizada, entre outros possíveis de serem firmados pelo Ministério da Saúde (como encomendas tecnológicas, encomendas verticais, compensação tecnológica, concursos de inovação etc).
+Período Ou Data A Que Se Refere: Útlimo dia do trimestre
+Data De Divulgação/Disponibilização: Ultimo dia útil do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma : Adição dos projetos que forem firmados no ano vigente
+Projetos firmados: Projetos com instrumentos firmados e com descentralização (TEDS) ou com empenho (convênio ou Contrato de repasse) realizados
+Ano vigente: ano corrente (01 de janeiro a 31 de dezembro).
+Fonte De Dados Das Variáveis De Cálculo: Transfere Gov, Sistema Eletrônico de Informação (SEI), Diário Oficial da União e Sistema Integrado de Admnistração Financeira (SIAFI).
+Forma De Disponibilização: Sistema de Planejamento e Monitoramento - SIPLAM/MS
+Procedimento De Cálculo: Os Projetos firmados são acompanhados durante o processo de firmatura e empenho/descentralização. Esse processo de acompanhamento se dá pela verificação sistemática do Transfere Gov, do Sistema Eletrônico de Informação (SEI), do Diário Oficial da União e do Sistema Integrado de Admnistração Financeira (SIAFI).
+Limitações: Comportamento sazonal em razão da disponibilidade orçamentária e do período de recebimento de propostas
+Notas Explicativas: As etapas para  formar projetos para o desenvolvimento e a inovação de tecnologias em saúde são:
+1) Análise e aprovação do projeto
+2) Descentraliazação ou Empenho 
+3) Firmatura do instrumento.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1708
+Indicador: 10952
+Denominação: Número de projetos firmados voltados para a ampliação e qualificação da produção local de tecnologias em saúde
+Sigla: NPROJQUALILOCAL
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: No âmbito do Programa para o Desenvolvimento do Complexo Industrial da Saúde (PROCIS)  são firmados projetos para a ampliação e qualificação da produção local de tecnologias em saúde, por intermédio de convênios, contrato de repasse e termos de execução descentralizada, entre outros possíveis de serem firmados pelo Ministério da Saúde (como encomendas tecnológicas, encomendas verticais, compensação tecnológica, concursos de inovação etc).
+Período Ou Data A Que Se Refere: Último dia do trimestre
+Data De Divulgação/Disponibilização: Ultimo dia útil do trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma : Adição dos projetos que forem firmados no ano vigente
+Projetos firmados: Projetos com instrumentos firmados e com descentralização (TEDS) ou com empenho (convênio ou Contrato de repasse) realizados
+Ano vigente: ano corrente (01 de janeiro a 31 de dezembro)
+Fonte De Dados Das Variáveis De Cálculo: Transfere Gov, Sistema Eletrônico de Informação (SEI), Diário Oficial da União e Sistema Integrado de Admnistração Financeira (SIAFI).
+Forma De Disponibilização: Sistema de Planejamento e Monitoramento - SIPLAM
+Procedimento De Cálculo: Os Projetos firmados são acompanhados durante o processo de firmatura e empenho/descentralização. Esse processo de acompanhamento se dá pela verificação sistemática do Transfere Gov, do Sistema Eletrônico de Informação (SEI), do Diário Oficial da União e do Sistema Integrado de Admnistração Financeira (SIAFI).
+Limitações: Comportamento sazonal em razão da disponibilidade orçamentária e do período de recebimento de propostas
+Notas Explicativas: As etapas para  formar projetos para o desenvolvimento e a inovação de tecnologias em saúde são:
+1) Análise e aprovação do projeto
+2) Descentraliazação ou Empenho 
+3) Firmatura do instrumento
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 490
+Entrega: 1683
+Indicador: 10923
+Denominação: Número de sequências genômicas completas geradas
+Sigla: NSEQGENOMICASHUM
+Índice De Referência: 8000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O Programa Genomas Brasil tem entre suas metas estimular a geração de dados genômicos e fenotípicos da população brasileira, foco em genômica clínica (doenças raras, oncológicas, cardiovasculares e infectocontagiosas) e populacional, com a finalidade de compartilhamento responsável dos dados para fins de pesquisa. Os dados servirão como um grande fórum de descobertas, possibilitando que estudos possam identificar as principais características genéticas da nossa população para prever e prevenir doenças, assim como para desenvolver novos tratamentos e novas estratégias de diagnóstico. Com isso, será possível gerar novos conhecimentos e tecnologias (diagnósticas e terapêuticas) com base no genoma da população brasileira, possibilitando a aceleração da translação das técnicas de saúde de precisão para a prática clínica.
+Período Ou Data A Que Se Refere: último dia do semestre
+Data De Divulgação/Disponibilização: Indicador será atualizado na última quinzena de cada semestre
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Genomas Sequenciados = número de genomas completos sequenciados de indivíduos da população brasileira
+Fonte De Dados Das Variáveis De Cálculo: Instituições acadêmicas que colaboram com o Programa Nacional de Genômica e Saúde de Precisão - Genomas Brasil
+Forma De Disponibilização: Indicador será disponibilizado na página web (em construção) do Departamento de Ciência e Tecnologia da Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde do Ministério da Saúde (Decit/SECTICS/MS)
+Procedimento De Cálculo: 1. Requisição e recebimento de relatório de monitoramento das fontes de dados, ou seja, das instituições acadêmicas que colaboram com o Programa Genomas Brasil;
+2. Registro da quantidade de genomas completos sequenciados em planilha de monitoramento;
+3. Cálculo do indicador (somatório da quantidade de genomas sequenciados estratificados por UF);
+4. Disponibilização do indicador na página web do Decit.
+Limitações: A possível limitação amostral regional, por Unidade Federativa, impossibilitou estimar o indicador especificamente, mantendo-o a nível Regional (Estados).
+Notas Explicativas: A regionalização do indicador (amostragem) foi proposta de acordo com a distribuição da população brasileira considerando o censo do IBGE de 2022
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1712
+Indicador: 11076
+Denominação: Percentual de conclusão da obra da nova planta de oncológicos de Farmanguinhos/Fiocruz
+Sigla: PONCOFARMANGUINH
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador serve para mensurar o andamento da obra da planta de oncológicos de Farmanguinhos de acordo com o planejado, possibilitando a tomada de decisão, caso necessária.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 30 de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "Número de etapas da obra concluídas": refere-se às etapas realizadas dentro do projeto da fábrica de oncológicos. "Número total de etapas da obra": refere-se à quantidade de etapas previstas para a conclusão bem sucedida do projeto.
+Fonte De Dados Das Variáveis De Cálculo: Relatório no SAGE ( Sistema de Apoio a Gestão Estratégica da Fiocruz).
+Forma De Disponibilização: O valor do indicador para o período será apurado através de relatório do SAGE (Sistema de Apoio à Gestão Estratégica), considerando-se registro referente ao projeto.
+Procedimento De Cálculo: O procedimento de cálculo, levando em consideração a versão do sistema fonte dos dados em 2023, será: Passo 1 - acessar o Sistema de Apoio à Gestão Estratégica da Fiocruz; passo 2 - selecionar o ano a ser apurado; passo 3 - selecionar a subunidade correspondente à inciaitiva do projeto da fábrica de oncológicos; passo 4 - Selecionar relatório de metas físicas executadas (Relatório de Metas Físicas por Ação Por Projeto - Previstas / Executadas (Atual / Acumulado); passo 5 - gerar relatório; passo 6 - selecionar forma extração dos dados (planilha eletrônica, pdf ou impressão); apurar o % de execução do ano para a fábrica de oncológicos. OBS: Considerar as limitações descritas na ficha da entrega. Algumas considerações devem ser observadas: i- por falta de orçamento, a iniciativa pode não estar registrada no SAGE, impedindo a apuração. ii- caso o sistema mude no período da vigência do PPA 2024-2027 um novo procedimento será necessário.
+Limitações: O SAGE é o Sistema de Apoio a Gestão Estratégica que ainda possui suas metas programadas e executadas preenchidas manualmente pelos responsáveis dos projetos, sendo sujeito a erros humanos. Além disso, o sistema encontra-se em fase de atualização no ano de formulação desta entrega, portanto, pode haver mudanças quando à forma de registro e apuração dos dados do indicador.
+Notas Explicativas: O tratamento da oncologia é feito por diferentes formas farmacêuticas, em especial, pelos sólidos orais e injetáveis.  Nestes dois seguimentos, existe uma enorme necessidade de fabricação de medicamentos tanto antigos mas de grande necessidade para o uso terapêutico para diversos tipos de câncer diferentes, quanto para ter uma opção pública que possa diminuir os preços praticados para os medicamentos mais modernos para o tratamento do câncer. Além disso, os novos tratamentos para o HIV aids também serão disponibilizados como injetáveis de longa duração e, como o Brasil tem um dos principais programas desta área, torna-se imperioso ter uma opção pública que possa não somente ser um agente de absorção desta tecnologia como também poder reduzir os valores praticados, assim como manutenção do fornecimento mesmo quando estes medicamentos não sejam mais financeiramente viáveis.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1711
+Indicador: 11059
+Denominação: Percentual de obra concluída, incluindo as atividades de qualificação, validação e regulamentação do empreendimento
+Sigla: PCONCCIBS
+Índice De Referência: 17.84
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Este indicador consiste na conclusão das fases de Qualificação, Validação e Regulamentação definitiva de todo o Complexo Industrial de Biotecnologia em Saúde - CIBS.
+Período Ou Data A Que Se Refere: De janeiro a junho (apuração em 15 de junho), e de julho a dezembro (apuração em 15 de dezembro); de cada ano.
+Data De Divulgação/Disponibilização: Junho e Dezembro
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: O cálculo no Primavera P6 (software para gestão de projetos) é feito de duas formas: quando se escolhe o momento de calcular ou tornando o calculo automático e, assim, qualquer alteração é calculada. Porém, o padrão de cálculo do Primavera é que se decida o momento em que deseja calcular a rede de atividades já, relacionada, ou seja, o cálculo manual. Para calcular o projeto, basta: Clique no botão Schedule, ou; Pressionar F9 no teclado. 
+No Primavera P6 são imputados os marcos, entregas, e todo o detalhamento das atividades do empreendimento, com seus respectivos prazos e duração. O acompanhamento das atividades é realizado atraves do sistema do Primavera P6, e conforme essas atividades são realizadas o sistema calcula automaticamente o percentual de execução física do empreendimento.
+
+Algumas premissas foram aplicadas para elaboração do Cronograma do projeto, e assim gerado uma  linha de base (base Line). Desta forma, pode ser feito o acompanhamento e controle das Redes e etapas do projeto, através do gráfico da Curva S e uma visão macro das redes de projetos (forma resumida das atividades, já detalhadas em um cronograma, onde se tem a visão das etapas do projeto e na linha do tempo através do grafico de gantt, uma das formas de layout disponivel no software Primavera P6).
+Para gerar uma curva S de acompanhamento físico com critério para se obter avanço percentual(%), foi elaborado uma EAP (Estrutura Analítica de Projeto) e houve uma distribuição através de Recurso Ponderador.
+Fonte De Dados Das Variáveis De Cálculo: A fonte de fornecimento de dados para o cálculo do indicador é obtido através da metodologia aplicada pelo software Primavera P6, que gera um arquivo .XER, e mensalmente é exportado com os dados do projeto. Essa metodologia consiste na Técnica de Planejamento, controle de projetos, aliados às melhores prática do PMBok.
+Forma De Disponibilização: Através de visualizações em formato PDF é disponiblizada a visualização das Redes de Projeto do CIBS,  com suas atividades tanto na forma macro, quanto abertas ao nível de estrutura de tópicos necessárias, ilustrados pelos gráficos de gantt e Curva S.
+A visualização da Curva S pode ser feita em relatório, imagem salva em formato PDF, como arquivo à parte, de acordo com a demanda, e necessidade dos Stakeholders.
+Procedimento De Cálculo: O cálculo é feito com base na distribuição do Recurso (chamado Recurso Ponderador), onde foram atribuídas as Etapas do cronograma, e pesos. Como somatório deste Recurso, foi atribuído o Peso = 10.000.000, que equivale a 100%.
+Neste sentido,a ferramenta Primavera P6 preconiza as seguintes orientações:
+Pesos:
+Dar preferência para trabalhar com peso “Labor”, pois com este é possível visualizar a curvas “S” de forma mais abrangente no próprio primavera, com curva Base Line X Curva de Avanço Físico Atual X Curva de Tendência.
+Criar apenas  1 (um) único recurso e nomear como “Recurso Ponderador” e inseri apenas um em cada atividade.
+Distribuição dos Pesos:
+Acessar a WBS/EAP no Primavera P6, adicionar a coluna Est Weight, e distribuir os percentuais referente ao peso de cada macroatividade.
+A distribuição dos percentuais e pesos podem ser realizadas manualmente no Est Weight de determinadas atividades, afim de direcionar melhor o peso dessas atividades, ou automaticamente, utilizando o menu:  Tools - Top Down Estimation.
+Linha de base (Base Line):
+Após o detalhamento do projeto com os pesos distribuidos, relacionamentos de sucessorase predecessoras finalizados, o Primavera gera uma linha de base, a qual funciona como uma cópia da meta do projeto. (Linha de base também é chamada de Plano de Meta).
+Esta linha de base é utilizada para comparações e análise da variação corrente ou não do projeto, ao longo do tempo, em relação ao planejado. À partir destas comparações métricas, é póssível realizar as análises de desempenhos, e variações percentuais.
+Progresso do Cronograma: 
+O padrão de progresso global de uma rede tem como base uma execução mensal, onde é pré-estabelecido um dia da semana para execução do “Data Date”. Para o CIBS foi estabelecido como o 15º dia do mês como Data Date de progresso. A consolidação da Rede de Projetos nesta fase do projeto, deverá ser mensal.
+Data Date: 
+À partir da definição da Data Date, se torna possível a analise do registro de cálulo do projeto.
+Curva S:
+A geração da Curva S de acompanhamento físico do projeto, e obtenção do avanço percentual(%), são extraídos com base na EAP (Estrutura Analítica de Projeto) e distribuição através de Recurso Ponderador.
+Para o CIBS, foram estabelecidos preliminarmente os pesos gerais de todo o projeto, discriminados em tabela e descritos abaixo:
+Rede Documentação: Peso= 15.000 (0,15%);
+Rede de Gestão: Peso= 135.000 (1,35%);
+Rede de Projetos: Peso= 965.000 (9,65%);
+Rede de Serviços Iniciais: Peso= 480.000 (4,80%);
+Rede de Suprimentos: Peso=3.000.000 (30%)
+Rede de Construção: Peso= 4.836.200 (48,36%);
+Rede de Qualificação, Validação e Regulamentação: Peso= 568.800 (5,68%);
+Totalizando: Peso= 10.000.000 (100%).
+Limitações: A realização das metas estão ligadas diretamente à emissão da Ordem de Início dos Serviços, prevista para 01/09/2023, assim como o prazo de execução de 48 meses, conforme cronograma atual. A emissão da OIS está na iminência da definição do aporte de recursos por parte do BNDES ao Fundo Investidor. (Obs.: os prazos previstos anteriormente estão em revisão).
+Notas Explicativas: Para a devida apuração das metas apresentadas foram adotadas as premissas com referência à situação contratual atual (junho/23) com o Fundo de Investimento declarado vencedor da licitação, para construção do empreendimento no modelo de locação sob medida ("built to suit" - BTS). O contrato BTS foi assinado em 02/09/2022, sendo necessária a Suspensão Contratual assinada em 06/09/2022 pelo período de 180 dias, em decorrência das dificuldades apresentadas pelo BNDES na disponibilização dos recursos. O contrato foi reestabelecido em 06/03/2023, e o prazo para emissão da Ordem de Início dos Serviços (OIS) está prevista até 01/09/2023. Todas as metas estabelecidas foram constituídas à partir do Cronograma preliminar apresentado pelo Fundo Investidor, que iniciará a contagem de prazo da construção do empreendimento da data de emissão da OIS. De acordo com o cronograma apresentado, as premissas utilizadas no levamento das metas são: I. Data de Emissãa da Ordem de Início dos Serviços (OIS) em 01/09/2023; II. Mobilização constante no contrato = 2 meses; III. Início da Rede de Obras em 06/11/2023: IV. Prazo de Construção do empreendimento pelo Fundo Investidor: 48 meses (01/11/2027); V. Rede de Qualificação, Validação, e Regulamentação: 12 meses (30/10/2028). (Obs.: os prazos previstos anteriormente estão em revisão).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1713
+Indicador: 11085
+Denominação: Percentual de operacionalização da fábrica de fator VIII recombinante
+Sigla: PFABRICFATORVIII
+Índice De Referência: 63.13
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador representa o avanço global do projeto em relação ao seu escopo completo até a produção nacional do medicamento fator VIII recombinante.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: 3ª quinta feira de cada mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Entregas com pesos atribuídos conforme custo e/ou complexidade.
+Fonte De Dados Das Variáveis De Cálculo: Software primavera/oracle
+Forma De Disponibilização: Relatório mensal do projeto, disponibilizado para as instâncias de governança da Hemobrás
+Procedimento De Cálculo: O percentual de execução de cada atividade é informado conforme a sua natureza (se obra, medição; se equipamento, aquisição, instalação, etc; se atividades executadas por equipe própria (ex.: elaboração de documentos), avanço informado ou entrega validada. Cada atividade tem um peso estabelecido conforme o seu custo planejado. A partir das informações de avanço em cada subcronograma atualizado, o sistema consolida todos os cronogramas e calcula a média global de execução ponderada pelo peso de cada atividade nos seus respectivos subcronogramas.
+Limitações: Algumas atividade são importantes para o projeto, mas tem um peso baixo devido ao seu valor
+Notas Explicativas: "O projeto conta com 14 subcronogramas integrados. O percentual informado é um percentual global de execução, podendo existir diferênças sgnificativas em termos de avanço entre os subcronogramas.
+Também é importante destacar que os subcronogramas tem níveis de detalhamento distinto, com os mais detalhados com 8 níveis de decomposição e os menos detalhados com 5 níveis. Atualmente todos os cronogramas estão com linha de base salva.
+Devido à quantidade de subcronogramas, a complexidade do projeto e aos diversos riscos existentes, podem ocorrem mudanças de linha de base, provocando redução do percentual de execução apurado."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Entrega: 1714
+Indicador: 11089
+Denominação: Percentual de operacionalização da fábrica de hemoderivados
+Sigla: PFABHEMODERIVADO
+Índice De Referência: 57.71
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de execução acumulado do cronograma global de engenharia e de transferência de tecnologia
+Período Ou Data A Que Se Refere: Último dia do mês.
+Data De Divulgação/Disponibilização: 3ª quinta feira de cada mês
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Entregas com pesos atribuídos conforme custo e/ou complexidade
+Fonte De Dados Das Variáveis De Cálculo: Cronogramas e planilhas de engenharia e de transferência de tecnologia (MS Project e Excel)
+Forma De Disponibilização: Relatório mensal do projeto, disponibilizado para as instâncias de governança da Hemobrás
+Procedimento De Cálculo: 1) Medição e atesto das etapas executadas; 2) Inserção dos avanços em cronograma/planilhas; 3) cálculo da média ponderada dos indicadores
+Limitações: A integração dos avanços de engenharia e de transferência de tecnologia não é feita sistemicamente, havendo uso de diferentes plataformas de dados. Alguns pacotes de trabalho ainda estão pendentes de contratação, prejudicando a precisão das metas anuais.
+Notas Explicativas: As metas anuais poderão sofrer variações quando do detalhamento e contratação dos pacotes de trabalho ainda remanescentes.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5120
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 493
+Indicador: 10947
+Denominação: Número de entes federativos com novos Núcleos de Economia da Saúde implantados por região
+Sigla: NNUCLEOECONOMSAU
+Índice De Referência: 8.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador - Número de NES institucionalizados - mostra o processo de institucionalização da Economia da Saúde nas esferas estadual, municipal e do DF.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: todo dia 10 de cada mês da competência.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Os termos da fórmula de cálculo são cada um dos Núcleos de Economia da Saúde institucionalizados.
+Fonte De Dados Das Variáveis De Cálculo: Normativa municipal, estadual ou distrital de institucionalização do NES
+Forma De Disponibilização: Meio de publicação oficial dos Estados, Municípios e do DF
+Procedimento De Cálculo: Acompanhamento do início do processo de implantação do NES até a publicação da normativa de sua institucionalização em meio de publicação oficial.
+Notas Explicativas: O processo de implantação do NES pelos entes federativos é voluntária. Dessa forma, o indicador é passível de ser afetado por fatores gerenciais e políticos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 491
+Indicador: 10924
+Denominação: Número de estudos secundários ofertados para apoiar à tomada de decisão no SUS
+Sigla: NESTUDSECUNDARIO
+Índice De Referência: 39.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Estudos secundários de resposta rápida são solicitados e elaborados pela equipe interna ou por parceiros, e entregue à área solicitante para promoção do uso de evidências cientificas para apoio à tomada de decisão em saúde. Estudos secundário são estudos rápidos que sintetizam evidências já disponíveis na literatura com o intuito de facilitar o uso de evidências na tomada de decisão.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: 01/02 do ano posterior
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Estudos secundários elaborados e ofertados.
+Fonte De Dados Das Variáveis De Cálculo: Planilha de monitoramento interna. Trata-se de informação compilada de registros administrativos que documentam a forma de execução e o resultado final dos estudos realizados.
+Forma De Disponibilização: Comunicação Administrativa em relatório de execução do PPA. Os estudos são entregues às áreas demandantes que utilizam as evidências levantadas para o processo de tomada de decisão sobre as intervenções.
+Procedimento De Cálculo: Passo 1: Recebimento da solicitação do estudo secundário via Sistema Eletrônico de Informação.
+Passo 2: Registro da solicitação do estudo na planilha de monitoramento interno.
+Passo 3: Registro da finalização do estudo na planilha de monitoramento interno.
+Passo 4: Envio do estudo secundário à area demandante via Sistema Eletrônico de Informação.
+Passo 5: Somatório dos estudos secundários entregues
+Limitações: O alcance do indicador depende da solicitação das áreas técnicas do Ministério da Saúde para realização de estudos secundários.
+Notas Explicativas: Para elaboração de estudos secundários, tem-se como referência o documento "Serviço de Produção de Evidências para Apoio à Tomada de Decisão. Serviço de produção de evidências para apoio à tomada de decisão: portfólio de produtos"
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 496
+Indicador: 11250
+Denominação: Número de projetos de pesquisa em saúde e ambiente em desenvolvimento
+Sigla: NPROJPESQSAUAMB
+Índice De Referência: 1840.0
+Em Apuração: Não
+Data De Apuração: 2023-07-14 00:00:00
+Unidade De Medida: unidade
+Descrição: Numero de projetos de pesquisa em andamento para a geração de conhecimento científico.	
+Há uma tendência em trabalhar em rede, diminuindo o quantitativo de projetos, por outro lado aumentando sua complexidade.	
+Contribui para todos os ODS, com ênfase nos ODS 3 e 6.
+Período Ou Data A Que Se Refere: Junho e dezembro de cada ano (Apuração semestral)
+Data De Divulgação/Disponibilização: Julho e janeiro.
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de projetos de pesquisa em desenvolvimento no ano
+Fonte De Dados Das Variáveis De Cálculo: Relatórios da Fiocruz
+Forma De Disponibilização: SAGE - Sistema de Apoio a Gestão Estratégica da Fiocruz
+Procedimento De Cálculo: Gerar relatório no SAGE - Sistema de Apoio a Gestão Estratégica da Fiocruz com o total de projetos de pesquisa em andamento no conjunto de unidades técnico-cientificas da instituição
+Limitações: O SAGE é o Sistema de Apoio a Gestão Estratégica que ainda possui suas metas programadas e executadas preenchidas manualmente pelos responsáveis dos projetos, sendo sujeito a erros humanos. Além disso, o sistema encontra-se em fase de atualização no ano de formulação desta entrega, portanto, pode haver mudanças quando à forma de registro e apuração dos dados do indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Indicador: 10950
+Denominação: Número de projetos e instrumentos voltados para o desenvolvimento, inovação e produção local formalizados
+Sigla: NPROJINOVAÇAOLOC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é composto por projetos e instrumentos formalizados para o fortalecimento do Complexo Econômico-Industrial da Saúde publicados. 
+
+Os projetos fomentados se dão no âmbito do Programa para o Desenvolvimento do Complexo Industrial da Saúde (PROCIS) e têm como objetivo  o desenvolvimento tecnológico, a transferência de tecnologia, a inovação e a produção nacionais, visando ampliar o acesso a tecnologias no âmbito do Sistema Único de Saúde (SUS) e promover a eficiência produtiva do Complexo Econômico-Industrial da Saúde (CEIS). 
+
+Já os instrumentos de que trata o indicador visam a convergência e a indução de ações, programas e medidas para dar celeridade e efetividade à ação pública, com foco no estimulo da produção e da inovação nacional em tecnologias de uso em saúde,  o fortalecimento das redes colaborativas, a convergência regulatória, a segurança jurídica, a  sustentabilidade dos investimentos e o aperfeiçoamento dos mecanismos para uso estratégico do poder de compra do Estado.
+
+Tanto os projetos como os instrumentos visam contribuir para a redução da vulnerabilidade tecnológica do SUS.
+Período Ou Data A Que Se Refere: Último dia do trimestre
+Data De Divulgação/Disponibilização: Ultimo dia útil de cada trimestre
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Soma : Adição dos projetos e instrumentos que forem firmados no ano vigente.
+Projetos firmados: Projetos com instrumentos firmados com descentralização (TEDS) ou com empenho (convênio ou Contrato de repasse) realizados.
+Instrumentos firmados: Ações, programas e medidas (portarias, Decretos, Normas, Leis, Acordos, Parcerias etc) voltados para o estimulo da produção e da inovação nacional em tecnologias de uso em saúde
+Ano vigente: ano corrente (01 de janeiro a 31 de dezembro)
+Fonte De Dados Das Variáveis De Cálculo: Projetos firmados: Transfere Gov, pelo Sistema Eletrônico de Informação (SEI), pelo Diário Oficial da União (DOU) e pelo Sistema Integrado de Admnistração Financeira (SIAFI);
+Instrumentos formalizados: Diário Oficial da União e informes do GECEIS (Grupo Executivo do Complexo Econômico-Industrial da Saúde).
+Forma De Disponibilização: Comunicação no sistema dePlanejamento e Monitoramento - SIPLAM
+Procedimento De Cálculo: Os Projetos firmados são acompanhados durante o processo de firmatura e empenho/descentralização. Esse processo de acompanhamento se dá pela verificação sistemática do Transfere Gov, do Sistema Eletrônico de Informação (SEI), do Diário Oficial da União e do Sistema Integrado de Admnistração Financeira (SIAFI).
+
+Os instrumentos formalizados, a depender da natureza, são monitorados sistematicamente pelo Diário Oficial da União e pelos informes do GECEIS (Grupo Executivo do Complexo Econômico-Industrial da Saúde).
+Limitações: Comportamento sazonal em razão da disponibilidade orçamentária e do período de recebimento de propostas
+Notas Explicativas: As etapas para  formalizar projetos para o desenvolvimento da inovação e da produção local de tecnologias em saúde são:
+1) Análise e aprovação do projeto
+2) Descentralização ou Empenho 
+3) Firmatura do instrumento 
+
+As etapas para formalizar instrumentos para o desenvolvimento da inovação e da produção local de tecnologias em saúde são:
+1) Prospecção de ações, programas e medidas que possam dar celeridade e efetividade à ação pública no âmbito do CEIS;
+2) Delineamento e formatação de propostas no âmbito dos grupos de Trabalho do GECEIS;
+3) Discussão e aprovação no âmbito do GECEIS;
+4) Formalização da ações, programas ou medidas aprovada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 490
+Indicador: 10918
+Denominação: Percentual de pesquisas prioritárias fomentadas
+Sigla: PPESQUISAPRIORIT
+Índice De Referência: 87.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mede o esforço do Decit/SECTICS/MS em fomentar pesquisas prioritárias em saúde, definidas na agenda, no âmbito da PNCTIS, e no contexto epidemiológico e internacional, de forma a impulsionar a ciência e tecnologia no país e promover a utilização da produção científica e tecnológica no aprimoramento de políticas, programas e ações de saúde pública, buscando mitigar ou resolver os problemas de saúde da população e do SUS, com foco nas prioridades em saúde.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: Primeira quinzena do mês subsequente.
+Periodicidade: Mensal
+Polaridade: Não se aplica
+Variáveis De Cálculo: Pesquisas prioritárias fomentadas pelo Departamento de Ciência e Tecnologia - DECIT, considerando os critérios vigentes para considerar uma pesquisa prioritária: 1) Agenda Nacional de Prioridades de Pesquisa em Saúde - ANPPS; 2) Agenda de Prioridades de Pesquisa do Ministério da Saúde - APPMS; 3) demandas em caráter de emergência em saúde pública; 5) pesquisas cujas temáticas foram definidas por Oficina de Prioridades em Pesquisa, como aquelas fomentadas por meio do Programa Pesquisa para o SUS – PPSUS; 6) pesquisas que visem promover e fortalecer o Programa Nacional de Genômica e Saúde de Precisão – Genomas Brasil.
+
+Consideram-se pesquisas estratégicas aquelas cujos resultados das pesquisas fomentadas tragam novos conhecimentos em diversas áreas e situações de saúde e proponham a utilização da produção científica e tecnológica no aprimoramento de políticas, programas e ações de saúde pública, buscando mitigar ou resolver problemas os problemas de saúde da população e do SUS.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão alimentados em planilha gerencial a partir das informações disponibilizadas:
+- No site do TransfereGov (https://ted.transferegov.sistema.gov.br/ted/programa/consulta), por meio da formalização das pesquisas via TED ou convênio;
+- Informações do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, disponibilizados no site (https://www.gov.br/cnpq/pt-br), a respeito da contratação dos projetos aprovados por meio de chamada pública;
+- Consulta dos termos de referências elaborados e encaminhados ao CNPq, para os projetos contratados por meio de contratação direta via CNPq.
+Forma De Disponibilização: Monitoramento por meio do Sistema de Planejamento e Monitoramento - SIPLAM
+Procedimento De Cálculo: Etapa 1: contabilizar as pesquisas estratégicas fomentadas.
+Etapa 2: contabilizar, das pesquisas estratégicas fomentadas (etapa 1), àquelas que são prioritárias, considerando: ANPPS; APPMS; emergência em saúde pública; pesquisas cujas temáticas foram definidas por Oficina de Prioridades em Pesquisa, como aquelas fomentadas por meio do Programa Pesquisa para o SUS – PPSUS; pesquisas que visem promover e fortalecer o Programa Nacional de Genômica e Saúde de Precisão – Genomas Brasil.
+Etapa 3: dividir o resultado da etapa 2 pela etapa 1 e multiplicar por 100.
+Limitações: O indicador restringe-se a apontar o número de pesquisas científicas e tecnológicas fomentadas, na medida em que visa a incentivar a
+produção do conhecimento científico. O indicador, entretanto, não identificará os resultados qualitativos das pesquisas realizadas, tampouco
+refletirá a distribuição territorial e a aplicabilidade das evidências e das soluções tecnológicas decorrentes das pesquisas.
+Notas Explicativas: O Decit/SCTIE/MS foi criado no ano 2000, tendo fomentado mais de seis mil pesquisas científicas e tecnológicas em saúde. A meta prevista para o PPA 2020 - 2023, de 1200 pesquisas financiadas, é inferior a meta cumulativa do PPA 2016-2019, de competência do Decit/SCTIE/MS, uma vez que a estratégia de fomento à pesquisas deste Planejamento está voltada ao desenvolvimento de pesquisas científicas e tecnológicas de médio e grande porte, resultando em projetos mais robustos e que possam trazer resultados de maior impacto para o SUS.
+Não obstante, no âmbito do Programa Pesquisa para o SUS (PPSUS), serão realizadas chamadas públicas estaduais, que incluirão o
+financiamento de pesquisas de pequeno porte, direcionadas à resolução de problemas de saúde local, bem como à redução das
+desigualdades regionais, em busca do pleno desenvolvimento científico e tecnológico em saúde do País.
+Consideram-se pesquisas prioritárias àquelas cujas temáticas estejam contidas na Agenda Nacional de Prioridades em Pesquisa (ANPPS) e Agenda de Prioridades de Pesquisa do Ministério da Saúde (APPMS); respondam a demandas em caráter de emergência em saúde pública; sejam definidas por Oficina de Prioridades em Pesquisa, como aquelas fomentadas por meio do Programa Pesquisa para o SUS – PPSUS; ou visem promover e fortalecer o Programa Nacional de Genômica e Saúde de Precisão – Genomas Brasil.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5120
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 490
+Enunciado: Fomentar pesquisas prioritárias estratégicas em saúde, desenvolvidas em modelo colaborativo e/ou multicêntrico, com base em uma agenda prioritária nacional, orientando as aplicações de recursos a partir de critérios alinhados às necessidades de equidade, aplicabilidade e de sustentabilidade no Sistema Único de Saúde.
+Descrição: O fomento a pesquisas prioritárias estratégicas em saúde remete aos esforços de fortalecer e qualificar o sistema de ciência, tecnologia e inovação em saúde, de forma que os recursos sejam utilizados de forma estratégica e alinhada com as necessidades da população, otimizando o impacto das pesquisas no enfrentamento dos principais problemas de saúde pública e do SUS e o aprimoramento de políticas, programas e ações de saúde pública, buscando mitigar ou resolver problemas os problemas de saúde da população e do SUS.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 491
+Enunciado: Ampliar a capacidade de sintetizar e disseminar evidências, e promover pesquisas avaliativas para apoio à tomada de decisão no Sistema Único de Saúde.
+Descrição: Para que os gestores públicos tomem decisões mais assertivas pautadas pela ciência, é necessária produção de estudos que sintetizam tudo que há na literatura científica sobre um tema em questão relacionado a um problema público de saúde. Dessa maneira, a ampliação da capacidade realização de síntese de evidências e disseminação clara e acessível, além da produção de mais estudos avaliativos em políticas de saúde são fundamentais para que o Ministério da Saúde realize tomadas de decisão de qualidade em benefício da população brasileira. Valor social do OE: racionalidade e economicidade do recurso público na tomada de decisão em saúde; qualidade técnico-científica na elaboração e execução de políticas públicas de saúde.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 493
+Enunciado: Promover o uso racional dos recursos do SUS, por meio do fortalecimento dos Núcleos de Economia da Saúde.
+Descrição: Os núcleos estaduais e municipais de economia da saúde podem fornecer informações sobre o uso eficiente e equitativo dos recursos disponíveis, como também apoiar no uso dos sistemas, tais como: SIOPS, BPS, CATMAT e APURASUS. Os núcleos constituem a rede de economia da saúde - Rede ECOS. Esta rede é capaz de conectar os núcleos e integrá-los com o objetivo de produzir e disseminar conhecimento, apoiar a implementação de políticas públicas e fomentar a formação de técnicos e gestores do SUS.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 494
+Enunciado: Estimular o desenvolvimento, a inovação e a produção local de tecnologias, serviços e conectividade, por meio do fortalecimento do Complexo Econômico-Industrial da Saúde (CEIS), de forma a promover a redução da vulnerabilidade tecnológica do SUS, a ampliação do acesso a saúde e fortalecer a soberania nacional
+Descrição: O Complexo Econômico-Industrial da Saúde (CEIS) se configura enquanto cadeia produtiva que conforma as bases tecnológicas do sistema de inovação e produção em saúde e integra todas as atividades que perpassam o sistema de saúde, onde se dá a produção e o acesso à medicamentos, vacinas, hemoderivados, dispositivos médicos e serviços de comunicação e conectividade, essenciais para a efetividade das ações assistenciais, de prevenção, diagnóstico, promoção e reabilitação em saúde. O estímulo à inovação e à produção local dessas tecnologias críticas visa alcançar a transformação produtiva e o avanço científico e tecnológico necessários para a gradativa redução da vulnerabilidade tecnológica do SUS.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Objetivo Específico: 496
+Enunciado: Gerar conhecimento científico, produtos e serviços mediante o fortalecimento da pesquisa em saúde e ambiente.
+Descrição: Quanto maior for o alcance da infraestrutura institucional de pesquisa em saúde e ambiente, maior será o desenvolvimento cientifico nacional e portanto mais e melhores bioprodutos, inovações em atenção a saúde e conhecimentos científicos serão disponibilizados para a sociedade na forma, por exemplo, de novos procedimentos diagnósticos e insumos terapeuticos.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5120
+
+Exercício: 2025
+Programa: 5120
+Objetivo: 1339
+Enunciado: Promover o desenvolvimento científico e tecnológico para produção, inovação e avaliação em saúde a fim de atender a população de forma equitativa, sustentável, acessível, considerando a sociobiodiversidade territorial e contribuindo para a prosperidade econômica, social e redução da dependência de insumos para a saúde.
+Descrição: Promover o desenvolvimento científico e tecnológico para produção, inovação e avaliação em saúde afim de atender a população de forma equitativa, sustentável, acessível, considerando a  sociobiodiversidade territorial e contribuindo para a prosperidade econômica, social e redução da dependência de insumos para a saúde.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5120
+
+Exercício: 2025
+Programa: 5120
+Título: Pesquisa, Desenvolvimento, Inovação, Produção e Avaliação de Tecnologias em Saúde
+Tipo: Finalístico
+Órgão: 36000.0
+Público-Alvo: População em geral;
+Gestores públicos;
+Instituições de ensino e pesquisa e pesquisadores vinculados;
+Profissionais de saúde;
+Usuários do SUS nas esferas de governo (federal, estadual, municipal e distrital).
+Descrição Do Problema: As tecnologias em saúde são ofertadas de forma intempestiva, desigual, iníqua e insuficiente para a população.
+Causa Do Problema: • Descompasso entre o desenvolvimento científico, tecnológico, produtivo, avaliativo e as necessidades de saúde da população;
+• Investimento insuficiente em pesquisa, inovação, capacitação de recursos humanos e a padronização de metodologias em Avaliação de Tecnologias de Saúde- ATS e produção em saúde;
+• Insuficiência de recursos para atender a demanda crescente do SUS;
+• Baixa institucionalização da economia da saúde no âmbito do SUS;
+• Dependência externa de produtos de tecnologia em saúde; 
+• Baixo uso de evidências científicas para a tomada de decisão pelos gestores;
+• Excesso de demandas no Poder Judiciário (Judicialização da saúde);
+• Marco regulatório desfavorável à inovação; 
+• Baixa inovação na área de genômica e saúde de precisão que causam dependência externa de tecnologias; 
+• Dificuldade de gestão da avaliação e da incorporação de tecnologias em saúde de forma integrada no SUS; 
+•Formação/capacitação incipiente de profissionais da saúde e pesquisadores; 
+• Relação distante entre as universidades e indústria e entre gestores e pesquisadores;
+• Dependência internacional de produtos e serviços considerados estratégicos, acarretando uma permanente vulnerabilidade no atendimento da população usuária do SUS;
+• Crescente déficit comercial da saúde, vinculado ao déficit de conhecimento, tecnologia e de inovação;
+• Abandono da política de desenvolvimento produtivo e tecnológico para autossuficiência nacional em vacinas, medicamentos e dispositivos médicos produzidos pela rede de laboratórios públicos e privados; 
+• Desarticulação e desestruturação dos programas e ações de investimento em pesquisa, desenvolvimento e inovação, e investimentos na modernização da infraestrutura pública de produção tecnológica para saúde; 
+• Cancelamento de projetos em curso sem justificativa técnica fundamentada causando a paralização de pesquisas, impossibilitando a conclusão de infraestruturas tecnológicas em andamento do Complexo Econômico Industrial da Saúde (CEIS); 
+• Desmobilização das iniciativas públicas para o aproveitamento do uso do poder de compra do SUS no sentido de impulsionar investimentos produtivos e qualificação da cadeia de valor e processos de transferências de tecnologia.
+Evidências Do Problema: A cobertura universal de saúde no Brasil baseia-se nos princípios da equidade e da integralidade dos cuidados em saúde e, a despeito dos avanços conquistados, ainda se convive com uma realidade desigual e excludente do acesso, que se reflete em impactos evidentes na saúde da população. 
+
+Em países em desenvolvimento, como o Brasil, a oferta de tecnologias de forma intempestiva nos sistemas públicos de saúde pode não trazer resultados para a saúde e aumentar a desorganização do sistema, pois a possibilidade de incorporar tecnologia irrelevante ou danosa é um risco real. 
+
+Nesse sentido, o Plano de Ação em Pesquisa Clínica do Brasil aponta que a fragilidade das estratégias de promoção da saúde, de prevenção e de controle clínico de doenças favorece a ocorrência anual de mais de um milhão de internações processadas pelo SUS, que demandam recurso aproximado de R$ 1,8 bilhões de reais.  Tal situação suscita a necessidade de reorganização assistencial do SUS e impacta de forma significativa nos gastos em saúde. 
+
+Esse cenário corrobora com fatores responsáveis pelo agravamento da crise do sistema de saúde e, portanto, uma maior atração de investimentos em pesquisas clínicas pode contribuir para superá-los. Destaca-se que o Conselho de Ciência da OMS, identificou a genômica como o foco de seu primeiro estudo, dadas as implicações significativas para a saúde pública; seus muitos usos bem-sucedidos no enfrentamento de doenças infecciosas, cânceres e outras doenças crônicas; e as novas oportunidades de implementação de tecnologias. 
+
+Ampliar a equidade na implantação dessas tecnologias é essencial para alcançar os imensos benefícios potenciais para a saúde humana e dependem, essencialmente, da superação dos obstáculos à implementação que exigem planejamento, financiamento, formação e treinamento ampliado de recursos humanos e fornecimento de instrumentos, materiais e infraestrutura computacional. 
+
+A OMS recomenda que os ministérios dos governos, as agências financiadoras e as organizações científicas da academia e da indústria colaborem para estabelecer planos sobre como usar a genômica, construir e expandir a capacidade técnica, assim como, procurar reunir recursos por meio da implementação de programas regionais.
+Justificativa Para A Intervenção: A ampliação e o aprimoramento do desenvolvimento científico e tecnológico, em avaliação de tecnologia em saúde, está diretamente relacionado à melhoria na elaboração e gestão das políticas públicas, favorecendo assim a diminuição de morbimortalidades, a otimização da aplicação de recursos e a melhoria da qualidade de vida da população.
+
+O fomento à pesquisa, a produção e tradução de evidências em saúde para subsidiar o processo decisório, a avaliação de tecnologias em saúde ao SUS, e o fortalecimento da agenda do Complexo Econômico-Industrial da Saúde contribuem para a ampliação do acesso às tecnologias em saúde e a melhoria das ações, serviços e produtos de saúde, ofertados pelo SUS à população.
+
+Vale ressaltar, ainda, que todo o conhecimento gerado pode auxiliar na elaboração/aprimoramento de políticas públicas efetivas que ampliem o acesso e a oferta de tecnologias de saúde adequadas às necessidades da população. Desta forma, a gestão e incorporação racional e otimizada de novas tecnologias em saúde possibilita a promoção e proteção da saúde da população brasileira e a redução das desigualdades regionais, melhorando, assim, a alocação dos recursos disponíveis que visam a sustentabilidade do sistema de saúde brasileiro.
+
+Além disso, é definido como estratégia prioritária reverter o processo de desindustrialização e promover a reindustrialização (nova industrialização) de amplos e novos setores e daqueles associados à transição para a economia digital e verde.
+
+É imperativo elevar a taxa de investimentos públicos e privados e reduzir o custo do crédito a fim de avançar com uma reindustrialização nacional de novo tipo, acoplada aos novos desenvolvimentos da ciência e da tecnologia. Faz parte desse esforço o desafio de reverter a desnacionalização do parque produtivo brasileiro, e modernizá-lo. Para tal, se faz necessária a reconstrução da agenda do Complexo Econômico-Industrial da Saúde, visando fortalecer a produção e inovação do setor da saúde.
+Evolução Histórica: Nos últimos anos, a intensificação de ações voltadas ao desenvolvimento científico e tecnológico em saúde resultaram na construção da Política Nacional de Ciência, Tecnologia e Inovação em Saúde (PNCTIS), no estabelecimento de estratégias de CT&IS nos Planos Plurianuais do Governo Federal, no fortalecimento da representação da saúde no Sistema Nacional de Ciência, Tecnologia e Inovação, no estabelecimento das prioridades em pesquisa em saúde (por meio da Agenda Nacional de Prioridades de Pesquisa em Saúde e da Agenda de Prioridades de Pesquisa do Ministério da Saúde e das especificidades de saúde pública regionais), resultaram ainda na instituição do Programa Genomas Brasil, por meio da Portaria nº 1.949, de 4 de agosto de 2020, com vistas a transformação do modelo de atenção à saúde e desenvolvimento econômico e social do país.
+
+No âmbito Legal, a aprovação do Marco Legal da Ciência Tecnologia e Inovação, por meio da Lei nº 13.243, de 11 de janeiro de 2016, é considerado um avanço para o país e todos os setores de governo. Mais recentemente, a Política Nacional de Inovação Tecnológica na Saúde, instituída por meio do Decreto nº 9.245, de 20/12/2017 e a Política Nacional de Inovação, instituída pelo Decreto nº 10.534, de 28 /10/2020, ambas no âmbito da administração pública federal, corroboraram para apoiar as ações governamentais voltadas ao fomento e apoio à inovação. 
+
+O fomento de pesquisas em saúde, bem como o aprimoramento do sistema de acompanhamento e análise ética das pesquisas em seres humanos no país, são avanços amparados pela PNCTIS, com impactos positivos no fomento de pesquisas e transferência de tecnologias. 
+
+Nos últimos quatro anos, a esfera de gestão federal do SUS investiu mais de 450 milhões (incluindo os recursos destinados às pesquisas de covid-19) em gastos diretos, sem contar os projetos atendidos em programas de renúncia fiscal para o SUS. Isso representa mais de 980 pesquisas no período 2019 a 2022, atendendo a eixos prioritários e estratégicos, apoiando a redução das desigualdades regionais no fomento à pesquisa e o fortalecimento de centros de pesquisas e parceiros como o CNPq, Fundações de Amparo à Pesquisa e outras instituições que contribuem para o avanço científico-tecnológico em saúde no Brasil. Ainda foram desenvolvidas 235 sínteses de evidências para apoiar em decisões estratégicas relacionadas as políticas, programas e ações.
+
+O Ministério da Saúde, em 2007, estabeleceu como estratégia prioritária o fortalecimento do Complexo Econômico-Industrial da Saúde (CEIS), no âmbito do Sistema Único de Saúde (SUS). Desde então, a agenda compôs o rol de prioridades no âmbito do Ministério da Saúde, sendo ainda, contemplada e priorizada nas diversas políticas industriais implementadas pelo Governo Federal. Entre 2008 e 2014 a agenda do CEIS foi contemplada e priorizada nas políticas industriais do governo federal, tornando-se um pilar das agendas de inovação, desenvolvimento e produção na área da saúde. No âmbito dos trabalhos do Grupo Executivo do Complexo Econômico-Industrial da Saúde (GECEIS), criado em 2008, foram realizadas reuniões plenárias nas quais foram apresentadas medidas tributárias, creditícias, tarifárias e regulatórias. O GECIS subsidiou as listas de produtos estratégicos apresentadas pelo Ministério da Saúde, e foi também ambiente de divulgação dos resultados das rodadas de seleção de projetos de Parcerias para o Desenvolvimento Produtivo (PDP) e assinatura dos Termos de Compromisso das PDP.
+
+Em relação ao fluxo para incorporação de tecnologias no Sistema Único de Saúde (SUS) foi normatizado pela primeira vez, por meio da Portaria n° 152, de 19 de janeiro de 2006 e Portaria nº 3.323, de 27 de dezembro de 2006, sob a coordenação da Secretaria de Atenção à Saúde (SAS). No ano de 2008, a Portaria n° 2.587, de 30 de outubro (revogada pela Portaria nº 203, de 07/02/2012) transferiu a coordenação da Comissão de Incorporação de Tecnologias (CITEC) para a Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde (SECTICS/MS). Em 2009 houve a intensificação de ações voltadas ao processo de incorporação e uso das tecnologias no sistema de saúde, que resultaram na criação da Política Nacional de Gestão de Tecnologia em Saúde (PNGTS), no fortalecimento do uso de evidências a fim de subsidiar as instâncias decisórias quanto à incorporação e monitoramento da utilização de tecnologias no sistema de saúde, além de orientar os profissionais de saúde e usuários em relação à segurança e aprimorar a política pública voltada ao SUS. 
+
+A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) é instituída pela Lei nº 12.401, de 28 de abril de 2011, substituindo a CITEC. É responsabilidade da Conitec, assessorar o MS na incorporação, exclusão ou alteração, bem como na constituição e alteração de protocolos clínicos e diretrizes terapêuticas pelo SUS de novas tecnologias em saúde.  Nos últimos anos a avaliação e incorporação de tecnologias em saúde teve grande avanço por meio de programas, da participação social, processo de elaboração e revisão de Protocolos Clínicos e Diretrizes Terapêuticas e melhoria na gestão da política pública direcionada ao Sistema Único de Saúde.
+Comparações Internacionais: Enquanto que as nações mais bem posicionadas nos rankings dos Índices Globais de Inovação e de Competitividade - como a Coreia, o Japão, a Alemanha e os Estados Unidos da América - investem de 2,5% a 4% do seu Produto Interno Bruto (PIB) em ciência, tecnologia e inovação (CT&I), o Brasil investe apenas 1,2% do seu PIB neste setor. 
+
+De acordo com os Índices Globais de Inovação e Competitividade, instrumento elaborado pela Organização Mundial da Propriedade Intelectual (WIPO, na sigla em inglês) e responsável por medir o desempenho dos ecossistemas da inovação de 132 economias e identificar as tendências globais mais recentes em matéria de inovação, aponta que, a despeito do Brasil ter avançado três posições, passando da 57ª para a 54ª posição no ranking em 2022,  o país ainda está em desvantagem em relação a outros países com economia de renda média, como Vietnã (48ª), República Islâmica do Irã (53ª) e Filipinas (59ª) e que atualmente apresentam as taxas mais aceleradas de inovação.
+
+Em áreas em ampla ascensão, como é o caso da genômica e saúde de precisão, outros países têm investido recursos na construção de um banco de dados diversificado que pode informar milhares de estudos sobre uma variedade de condições de saúde, como é o caso do Programa All of Us, dos Estados Unidos, que vai obter dados de um milhão de pessoas para acelerar e promover a medicina de precisão. Na Europa, a iniciativa '1+ Milhão de Genomas' tem o potencial de melhorar a prevenção de doenças, permitir tratamentos mais personalizados e apoiar pesquisas inovadoras por meio da criação de uma infraestrutura de dados europeia para dados genômicos e a implementação de regras nacionais comuns que permitam o acesso a esses dados. 
+
+Ainda na área de medicina de precisão e divulgação do conhecimento, a Biblioteca Nacional de Medicina dos EUA (NLM) desenvolveu os recursos para disponibilizar a hospedagem e a curadoria de repositórios e dados de conhecimento biomédico da NLM que possibilitaram o acesso de informações de qualidade a provedores e pesquisadores em todo o mundo. 
+
+O fato de estas nações terem compreendido que a CT&I é um vetor essencial para a geração de desenvolvimento social e econômico sustentáveis faz que elas sejam pouco dependentes/vulneráveis do ponto de vista tecnológico. Assim, o acesso da população destas nações a novas tecnologias, incluindo as da área da saúde, é ampliado e tem como consequência uma melhor promoção do bem-estar social. Frente o exposto, o problema da oferta de tecnologias em saúde de forma intempestiva, desigual, iníqua e insuficiente à população brasileira só há de ser superados com o crescimento impulsionado pela inovação, promovendo e apoiando políticas científicas, tecnológicas e de inovação em nosso país.
+
+Considerando o sistema de produção, ciência e tecnologia, além do destaque à crescente dependência internacional de produtos e insumos do Brasil (U$ 20 bilhões em importações), ainda foi possível notar a vulnerabilidade mundial de insumos farmacêuticos ativos. Cabe destacar a vulnerabilidade e risco de desabastecimento na área farmacêutica e vacinas. 
+
+Frente ao episódio pandêmico da covid-19 pode-se registrar também uma regressão tecnológica na área de dispositivos médicos, gerando uma movimentação mundial na demanda de ventiladores pulmonares. Neste contexto, mais de 100 países estabeleceram barreiras às exportações em saúde durante a pandemia. Outro fator relevante ao cenário mundial é a alta concentração de propriedade intelectual em saúde em apenas 10 países (88% de todas as patentes em Saúde). Entretanto, mesmo diante dos desafios globais de mercado, o Brasil é reconhecido como maior vetor de integração produtiva com a América Latina e Africa.
+Relação Com Os Ods: ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todas as pessoas, em todas as idades.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação
+ODS 12 - Consumo e produção responsáveis: Assegurar padrões de produção e de consumo sustentáveis.
+Agentes Envolvidos: Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq;
+Fundação de Amparo à Pesquisa - FAPs;
+Fundação Oswaldo Cruz - Fiocruz;
+Instituições de Ensino e Pesquisa;
+Hospitais de excelência e demais parceiros dos programas de renúncia fiscal;
+Complexo Econômico-Industrial da Saúde (CEIS);
+Entidades de representação do setor da saúde (setor de base química e biotecnológica; setor de base mecânica, eletrônica e de materiais; setor de informação e conectividade e; setor de serviços);
+Instâncias de participação, controle social e sociedade civil;
+Tribunais de contas; 
+Universidades; 
+Secretarias estaduais e municipais de saúde; 
+Núcleos de Economia da Saúde (NES);
+Agência Nacional de Saúde Suplementar (ANS);
+Agência Nacional de Vigilância Sanitária (Anvisa);
+Conselho Nacional de Saúde (CNS), ;
+Conselho Nacional de Secretários de Saúde (Conass); 
+Conselho Nacional de Secretarias Municipais de Saúde (Conasems);
+Conselho Federal de Medicina (CFM);
+Associação Médica Brasileira (AMB);
+Núcleo de Avaliação de Tecnologias em Saúde (NATS);
+Organizações não governamentais;
+Entidades sem fins lucrativos;
+Representantes de associações de pacientes;
+Núcleos e instituições de avaliação de tecnologias em saúde.
+Articulação Federativa: A nova estrutura do Ministério da Saúde reforça o compromisso do Governo Federal com a retomada ao estímulo ao desenvolvimento do Complexo Econômico-Industrial da Saúde (CEIS) e o resgate de uma gestão participativa no SUS, com a recriação de diversas instâncias de participação social como o Grupo Executivo do Complexo Econômico-Industrial da Saúde (GECEIS). 
+
+A Recriação do GECEIS tem como finalidade instituir um ambiente institucional de articulação, promoção e formulação de ações em saúde com vistas a fortalecer a produção e a inovação para atender ao SUS assegurando o acesso universal, equânime e integral da saúde. O Grupo Executivo conta com a participação de 20 instituições públicas. Ainda, atua de forma articulada e colaborativa com diversos representantes de instâncias de participação, controle social, representações da sociedade civil, e demais entidades consideradas relevantes para agenda.
+Enfoque Transversal: Há interesse em agendas externas como na agenda do Ministério da Ciência Tecnologia e Inovação voltado para promoção da propriedade intelectual e transferência de tecnologias; além de indicadores nacionais de ciência e tecnologia e inovação. Essas temáticas são de grande relevância para o fomento a novas tecnologias e protocolos clínicos e diretrizes terapêuticas para o SUS. Ademais a parte de avaliação, gestão e compartilhamento/transferência de tecnologias é fundamental na persecução das diretrizes de atuação colaborativa entre os agentes Estatais voltando para o aprimoramento das experiências junto ao SUS. 
+
+No âmbito do Complexo Econômico-Industrial da Saúde (CEIS) tem-se transversalidade com a agenda de diversas pastas, no escopo estruturante, a articulação com o Ministério da Ciência Tecnologia e Inovação se concentra nas ações de fomento e inovação (Estratégia Nacional de Ciência e Tecnologia, Estratégia Nacional de Propriedade Intelectual) e com o Ministério do Desenvolvimento, Indústria, Comércio e Serviços no estabelecimento de medidas voltadas para a saúde na estrutura da política industrial brasileira. Com o Ministério da Fazenda, a articulação envolve questões tributárias, econômicas e de mercado. Em complemento, no âmbito dos trabalhos do Grupo Executivo do Complexo Econômico-Industrial (GECEIS) são previstas diversas ações transversais envolvendo outras instituições.   
+
+No que tange à Economia da Saúde, e devido ao seu caráter transversal por excelência, a articulação e parceria com diferentes atores é fundamental. São de grande interesse as parcerias com o Instituto Brasileiro de Geografia e Estatística (IBGE) e o Instituto de Pesquisa Econômica Aplicada (IPEA) para a elaboração de estudos e troca de dados e informações; as parcerias com o Conselho Nacional de Saúde (CNS), o Conselho Nacional de Secretários de Saúde (Conass), o Conselho de Secretarias Municipais de Saúde (Conasems), Núcleos de Economia da Saúde (NES) e Secretarias de Saúde, para o fomento a criação e fortalecimento dos NES, auxílio na gestão de custos e aprimoramento de ferramentas; e ainda a interlocução com órgãos como: Receita Federal, Secretaria do Tesouro Nacional, Tribunal Superior Eleitoral, Tribunal de Contas da União, Associação dos Tribunais de Contas e Ministério Público Federal.
+Marco Legal: Constituição Federal da Presidência da República: artigo 200, inciso V, que estabelece entre as competências do SUS a de “incrementar, em sua área de atuação, o desenvolvimento científico e tecnológico e a inovação”, buscando reduzir a dependência de iniciativas estrangeiras para suprir as demandas nacionais de saúde. Prevê ainda a articulação, coordenação e cooperação entre entes públicos e privados, com vistas a promover o desenvolvimento científico, tecnológico e a inovação (Art. 219 A e B).
+
+Lei 8.080, de 19 de setembro de 1990: que define no campo de atuação do SUS a competência de articular políticas e programas de saúde e de Ciência Tecnologia e Inovação.
+
+Lei nº 12.401, de 28 de abril de 2011: Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a assistência terapêutica e a incorporação de tecnologia em saúde no âmbito do Sistema Único de Saúde - SUS.
+
+Decreto nº 7.646, de 21 de dezembro de 2011: Dispõe sobre a Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde e sobre o processo administrativo para incorporação, exclusão e alteração de tecnologias em saúde pelo Sistema Único de Saúde - SUS, e dá outras providências.
+
+Portaria nº 2.915 de 12 de dezembro de 2011: Institui a Rede Brasileira de Avaliação de Tecnologias em Saúde (REBRATS).
+
+Portaria/GM nº 2.690, de 05 de novembro de 2009: Institui, no âmbito do Sistema Único de Saúde (SUS), a Política Nacional de Gestão de Tecnologias em Saúde;
+
+Portaria de consolidação nº 03, de 28 de setembro de 2017: Consolidação das normas sobre as redes dos Sistema Único de Saúde.
+
+Marco Legal da Ciência, Tecnologia e Inovação (Lei 13.243/2016), regulamentado pelo Decreto 9.283/2018, que altera nove leis com foco no estímulo ao desenvolvimento científico, à pesquisa, à capacitação científica e tecnológica e à inovação. 
+
+Lei 8.142/1990, de 28 de dezembro de 1990: Dispõe sobre a participação da comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências.
+
+Lei do Plano Plurianual; LDO; LOA.
+
+Nova estrutura regimental do Ministério da Saúde trazendo alterações nas competências da Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde (SECTICS) -
+
+Decretos nº 11.358 e nº 11.391, ambos de janeiro de 2023, e também das competências previstas para o Departamento do Complexo Econômico - Industrial em Saúde (DECEIIS).
+
+Decreto nº 11.464, de 03 de abril de 2023: Dispõe sobre o Grupo Executivo do Complexo Econômico-Industrial da Saúde (GECEIS).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

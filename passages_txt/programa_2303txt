@@ -1,0 +1,1646 @@
+passage: Programa Número 2303
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 424
+Indicador: 9301
+Denominação: Número de indicadores de sustentabilidade agro-socioambiental disponibilizados em plataformas digitais
+Sigla: IS-Agro
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Um mínimo de 10 indicadores serão gerados e terão métricas disponibilizadas em plataformas digitais para apoiar políticas públicas.  Para cada indicador serão organizadas, interpretadas e disponibilizadas métricas em plataformas digitais visando a transparência e acesso pela sociedade. Serão também fomentados e elaborados projetos de pesquisa, desenvolvimento e inovação (PD&I) para a avaliação e adaptação das metodologias de obtenção de indicadores agro-socioambientais, considerando as particularidades da agricultura brasileira.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: x = indicador gerado e validado
+i = ano do período do PPA, variando de 1 a 4
+Fonte De Dados Das Variáveis De Cálculo: GT IS-Agro (Embrapa)
+Forma De Disponibilização: Publicações e relatórios institucionais
+Procedimento De Cálculo: Compilação dos indicadores elaborados e validados, a partir da documentação do GT IS-Agro, a cada ano. Cumulativo
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 423
+Indicador: 9300
+Denominação: Número de instituições parceiras nacionais e internacionais em projetos da Embrapa/ano
+Sigla: PAR-Projetos
+Índice De Referência: 300.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é o registro do número de instituições nacionais e internacionais que são parceiras formalizadas em projetos da Embrapa registrados no sistema de gestão de projetos Ideare, por ano. Os projetos têm duração de 2 a 4 anos.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A=número de instituições parceiras nacionais em projetos de pesquisa em execução a cada ano.
+B= número de instituições parceiras internacionais em projetos de pesquisa em execução a cada ano.
+i = ano de vigência do PPA, variando de 1 a 4
+Fonte De Dados Das Variáveis De Cálculo: IDEARE - Sistema de Gestão da Programação SEG (Sistema Embrapa de Gestão)
+Forma De Disponibilização: Relatórios institucionais das áreas responsáveis
+Procedimento De Cálculo: Compilação de projetos de pesquisa e desenvolvimento com instituições de origem internacional ou nacional registrados no Ideare, vigentes entre 01/01/2022 e 31/12/2022.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 332
+Indicador: 9178
+Denominação: Número de pessoas capacitadas em eventos/cursos realizados para a rede de ATER e setor produtivo/ano
+Sigla: CAP-TT
+Índice De Referência: 66057.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: pessoas capacitadas
+Descrição: O indicador CAP-TT refere-se ao número de pessoas capacitadas em eventos presenciais ou virtuais realizados pela Embrapa a cada ano, em cursos, palestras, seminários, sessões técnicas, dias-de-campo.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de pessoas capacitadas em eventos presenciais no ano de referência
+B= número de pessoas capacitadas em eventos virtuais no ano de referência
+i= ano de referência, variando de 1 a 4
+Fonte De Dados Das Variáveis De Cálculo: Sistemas AGE Embrapa (Sistema de apoio à gestão de eventos)
+Sistema e-Campo (Vitrine de capacitações on-line da Embrapa)
+Forma De Disponibilização: Portal Embrapa (www.embrapa.br)
+Procedimento De Cálculo: Compilação dos dados dos dois sistemas (cursos, dias de campo e outras modalidades de capacitação), considerando as pessoas que concluíram as capacitações para as quais estavam  inscritas, no ano base.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2819
+Indicador: 12184
+Denominação: Número de projetos aprovados no edital de seleção/ano
+Sigla: PIE 3
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador vai acompanhar o número de projetos aprovados no edital de seleção, em relação ao número total previsto de projetos (17). Os projetos aprovados terão os recursos descentralizados para execução em cada uma das Unidades das OEPA.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: x = projetos aprovados no edital de seleção/ano
+i = ano do PPA, variando de 1 a 4
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório gerencial, SEI (comunicação administrativa)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 152
+Indicador: 8958
+Denominação: Número de recursos genéticos vegetais, animais e de microrganismos para a alimentação e agricultura conservados ex situ e documentados
+Sigla: RGEN
+Índice De Referência: 269156.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador RGEN refere-se ao número total de acessos (amostras) únicos de recursos genéticos vegetais, animais e de microorganismos em instalações de conservação (ex-situ) em instalação de médio ou longo prazo, com registro no sistema do Banco Genético da Embrapa. Esse indicador foi utilizado para o reporte do Brasil em relação à meta ODS 2.5 (indicador 2.5.1) até o ano de 2021 (https://odsbrasil.gov.br/objetivo2/indicador251).Em dezembro de 2022, o número de acessos era: Recursos Genéticos Vegetal: 208.124 acessos distintos; Recursos Genéticos Microorganismos: 59.991 Linhagens; Recursos Genéticos Animais: 1.041 animais
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano-base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte do ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número total de acessos únicos de recursos genéticos vegetais e animais em instalações de conservação
+i = ano de referência, variando de 0 a 4 (x0=índice de referência)
+Fonte De Dados Das Variáveis De Cálculo: Banco Alelo - Embrapa Recursos Genéticos
+Forma De Disponibilização: https://alelo.cenargen.embrapa.br/numeros/Executar?acao=BGE.numeros
+Procedimento De Cálculo: Recursos genéticos vegetais: O componente vegetal do indicador é calculado como o número total de acessos únicos de recursos genéticos de plantas protegidos em instalações de conservação de médio a longo prazo. Inclui todos os acessos nas coleções de base e acessos exclusivos armazenados em instalações de conservação a médio prazo, como coleções ativas, somente quando esses acessos sejam considerados como sendo parte das coleções de base nacionais. Recursos genéticos animais: Para o componente animal, o indicador é calculado como o número de raças locais armazenadas dentro de uma coleção de bancos de genes com uma quantidade de material genético armazenado que é necessário para reconstituir a raça (com base nas Diretrizes sobre Criação de recursos genéticos animais, FAO, 2012, http://www.fao.org/docrep/016/i3017e/i3017e00.htm).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 425
+Indicador: 9302
+Denominação: Número de tecnologias desenvolvidas e caracterizadas quanto ao potencial de mercado relacionadas a políticas públicas
+Sigla: TEC-PP
+Índice De Referência: 250.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere a ativos tecnológicos e pré-tecnológicos desenvolvidos no ano-base e caracterizados quanto ao potencial de  mercado que contribuem para a implementação de políticas públicas federais. Essa contribuição é de grande importância, pois a Embrapa detém  conhecimento científico e tecnológico e desenvolve soluções e estratégias eficazes para enfrentar desafios e problemas sociais contemplados pelas políticas públicas.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de ativos tecnológicos e pré-tecnológicos que foram vinculados a políticas públicas federais qualificados no sistema GESTEC a partir de entregas de resultados obtidos no ano-base, a partir do nível 5 da escala de maturidade tecnológica TRL/MRL.
+Fonte De Dados Das Variáveis De Cálculo: Gestec (Embrapa)
+Forma De Disponibilização: Relatórios e/ou planilhas institucionais
+Procedimento De Cálculo: Consulta por extração de dados do sistema GESTEC, geração de planilha Excel e contagem de resultados das categorias Ativos tecnológicos e Ativos pré-tecnológicos qualificados a partir de resultados obtidos no ano-base e que estejam vinculados a políticas públicas cadastradas no sistema.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 54
+Indicador: 8927
+Denominação: Número de tecnologias disponibilizadas para o enfrentamento de desafios ambientais dos setores agropecuário, agroindustrial e floresta
+Sigla: TEC-AMBIENTAL
+Índice De Referência: 406.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: TEC-AMBIENTAL vai indicar o quantitativo de tecnologias desenvolvidas pela Embrapa e parceiros nos temas mencionados que já estão disponíveis para uso pelos públicos-alvo.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: i = ano de referência, varia de 0 a 4; x0 = índice de referência (2022)
+x = número de ativos tecnológicos disponíveis para transferência ao público alvo relacionados aos temas da entrega, em cada ano
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão dos Ativos Tecnológicos - GESTEC; desenvolvido pela Embrapa, tem como objetivo principal o cadastramento e a manutenção do acervo de ativos tecnológicos produzidos pela Embrapa
+Unidade Gestora: Gerência-Geral de Gestão de Projetos de PD&I Abrangência: Corporativa
+Forma De Disponibilização: Portal da Embrapa (www.embrapa.br)
+Procedimento De Cálculo: Seleção de temas relacionados ao conteúdo da entrega; consulta de ativos vinculados aos temas selecionados a cada ano por BI; reporte de total cumulativo
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 149
+Indicador: 8953
+Denominação: Número de tecnologias disponibilizadas para o enfrentamento de desafios econômicos dos setores agropecuário, agroindustrial e florestal
+Sigla: TEC-ECONOMICO
+Índice De Referência: 380.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: TEC-ECONOMICO vai indicar o quantitativo de tecnologias desenvolvidas pela Embrapa e parceiros nos temas mencionados que já estão disponíveis para uso pelos públicos-alvo.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: i = ano de referência, varia de 0 a 4; 
+x0 = índice de referência (2022) (acumulado em 2022)
+x = número de ativos tecnológicos qualificados disponíveis para os públicos-alvo relacionados aos temas da entrega, em cada ano.
+
+
+(somatório xi, sendo que i varia de 0 a 4)
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão dos Ativos Tecnológicos - GESTEC; desenvolvido pela Embrapa, tem como objetivo principal o cadastramento e a manutenção do acervo de ativos tecnológicos produzidos pela Embrapa
+Unidade Gestora: Gerência-Geral de Gestão de Projetos de PD&I Abrangência: Corporativa
+Forma De Disponibilização: Portal da Embrapa (www.embrapa.br)
+Procedimento De Cálculo: Seleção de temas relacionados ao conteúdo da entrega; consulta de ativos vinculados aos temas selecionados a cada ano por BI; reporte de total cumulativo.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 139
+Indicador: 10607
+Denominação: Número de tecnologias disponibilizadas para o enfrentamento de desafios sociais dos setores agropecuário, agroindustrial e florestal
+Sigla: TEC-SOCIAL
+Índice De Referência: 330.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: TEC-SOCIAL vai indicar o quantitativo de tecnologias desenvolvidas pela Embrapa e parceiros nos temas mencionados que já estão disponíveis para uso pelos públicos-alvo.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: i = ano de referência, varia de 0 a 4; x0 = índice de referência (acumulado em 2022)
+x = número de ativos tecnológicos qualificados disponíveis para disponíveis para os públicos-alvo relacionados aos temas da entrega, em cada ano
+
+(somatório xi, sendo que i varia de 0 a 4)
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão dos Ativos Tecnológicos - GESTEC; desenvolvido pela Embrapa, tem como objetivo principal o cadastramento e a manutenção do acervo de ativos tecnológicos produzidos pela Embrapa
+Unidade Gestora: Gerência-Geral de Gestão de Projetos de PD&I Abrangência: Corporativa
+Forma De Disponibilização: Portal da Embrapa (www.embrapa.br)
+Procedimento De Cálculo: Seleção de ativos relacionados aos públicos-alvo da entrega; consulta de ativos vinculados aos temas selecionados a cada ano por BI; reporte de total cumulativo
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 151
+Indicador: 8957
+Denominação: Número de tecnologias e soluções técnicas de ativos de PESQUISA e inovação, desenvolvidas e disponibilizadas a cadeia, com foco em SAF-Cacau, entre 2024/27
+Sigla: INOVACACAU
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: SOMATÓRIO acumulado do número dos resultados das: tecnologias e soluções técnicas GERADAS dos ativos de PESQUISA e inovação, desenvolvidas e disponibilizadas a cadeia, voltadas para os produtores, trabalhadores, técnicos, e todos os outros públicos da cadeia: assistidos, beneficiados e/ou contemplados, com um ou mais serviços, prestados diretamente pela CEPLAC, ou indiretamente via PARCERIAS, nos diferentes biomas de atuação, no Ano e durante o ciclo do PPA - 2024/27. Cujo objetivo, tem como foco o aumento de produção e produtividade, a melhoria da qualidade, agregação de valor aos produtos da cadeia com incorporação e recuperação de área degradada via SAF-Cacau
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro a maio do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: X = tecnologias e soluções técnicas GERADAS dos ativos de PESQUISA e inovação, desenvolvidas e disponibilizadas a cadeia
+Fonte De Dados Das Variáveis De Cálculo: Relatório semestral e anual CEPLAC/SDI/MAPA
+Forma De Disponibilização: Relatório semestral anual CEPLAC/SDI/MAPA
+Procedimento De Cálculo: SOMATÓRIO acumulado do número dos resultados das: tecnologias e soluções técnicas GERADAS dos ativos de PESQUISA e inovação, desenvolvidas e disponibilizadas a cadeia, voltadas para os produtores, trabalhadores, técnicos, e todos os outros públicos da cadeia: assistidos, beneficiados e/ou contemplados, com um ou mais serviços, prestados diretamente pela CEPLAC, ou indiretamente via PARCERIAS, nos diferentes biomas de atuação, no Ano e durante o ciclo do PPA - 2024/27. Cujo objetivo, tem como foco o aumento de produção e produtividade, a melhoria da qualidade, agregação de valor aos produtos da cadeia com incorporação e recuperação de área degradada via SAF-Cacau
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Entrega: 203
+Indicador: 9006
+Denominação: Número de tecnologias, pesquisas e inovações geradas para o aprimoramento do Sistema de Previsão de Tempo e Clima anualmente
+Sigla: SISPREV
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: unidade
+Descrição: SISPREV refere-se ao número de implementações tecnológicas, metodológicas, pesquisas e aprimoramentos dos
+modelos de previsão de tempo e clima (dinâmico e estatístico) e das técnicas operacionais de previsão do tempo e
+de clima.
+Período Ou Data A Que Se Refere: JANEIRO - DEZEMBRO
+Data De Divulgação/Disponibilização: PRIMEIRA SEMANA DE FEVEREIRO
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = ativos tecnológicos disponíveis relacionados aos temas da entrega em cada ano.
+i = ano
+Fonte De Dados Das Variáveis De Cálculo: Dados fornecidos pelas coordenações CGMN e CGMADP
+Coordenação-Geral de Modelagem Numérica – CGMN
+Coordenação-Geral de Meteorologia Aplicada, Desenvolvimento e Pesquisa - CGMADP
+Forma De Disponibilização: Portal do INMET (portal.inmet.gv.br), Intranet, relatórios etc.
+Procedimento De Cálculo: Acompanhamento dos conteúdos relacionados nas duas coordenações.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2848
+Indicador: 12215
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2925
+Indicador: 12290
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2921
+Indicador: 12284
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2911
+Indicador: 12274
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2908
+Indicador: 12271
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2907
+Indicador: 12270
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2904
+Indicador: 12269
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2901
+Indicador: 12268
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2893
+Indicador: 12259
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evoluçã
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2891
+Indicador: 12256
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2889
+Indicador: 12255
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2888
+Indicador: 12254
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2887
+Indicador: 12252
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2882
+Indicador: 12248
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2881
+Indicador: 12247
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2880
+Indicador: 12245
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2879
+Indicador: 12244
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativ
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2875
+Indicador: 12241
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2872
+Indicador: 12239
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2869
+Indicador: 12235
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2865
+Indicador: 12230
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2862
+Indicador: 12229
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano bas
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano bas
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2860
+Indicador: 12227
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2856
+Indicador: 12224
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano bas
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2914
+Indicador: 12277
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2846
+Indicador: 12213
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2845
+Indicador: 12212
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2844
+Indicador: 12211
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2843
+Indicador: 12210
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 0202-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2842
+Indicador: 12209
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2839
+Indicador: 12206
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE - 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2838
+Indicador: 12205
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2831
+Indicador: 12198
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentagem
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2923
+Indicador: 12287
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2918
+Indicador: 12281
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2916
+Indicador: 12279
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2883
+Indicador: 12249
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira - SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2867
+Indicador: 12233
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2853
+Indicador: 12220
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentagem %
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada)
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2847
+Indicador: 12214
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar a evolução da expansão, reestruturação e/ou modernização da unidade por ano. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual.
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2840
+Indicador: 12207
+Denominação: Percentual das instalações expandidas/reestruturadas/modernizadas
+Sigla: PIE - 2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar o número de novas Unidades que serão expandidas, reestruturadas e/ou modernizadas por ano calendário. Após contratação dos Objetos Contratuais (licitação pública) o andamento da execução contratual será mensurado, utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme definido nos instrumentos contratuais (cronograma físico financeiro), sendo ordenado e disponibilizado em forma de relatório anual sua evolução (% da obra executada).
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: Medição direta em percentual
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 2255
+Indicador: 11619
+Denominação: Percentual (%) de instalação das novas infraestruturas de P, D & I agropecuária
+Sigla: PIE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador vai acompanhar anualmente a percentagem de execução das obras do centro de pesquisa.
+O Centro de Pesquisa em São Luís (Embrapa Cocais) teve seu projeto técnico-científico aprovado no ano de 2009  sem contudo, possuir ainda base física instalada,
+Nos anos de 2022 e de 2023 a iniciativa foi contemplada com recursos de emendas parlamentares, estando em fase final de elaboração de projetos executivos e devidas autorizações para início de sua edificação.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: B1 = % de execução da obra da Unidade no Maranhão em 2024
+B2 = % de execução da obra da Unidade no Maranhão em 2025
+B3 = % de execução da obra da Unidade no Maranhão em 2026
+B4 = % de execução da obra da Unidade no Maranhão em 2027
+Y = % da infraestrutura implantada no ano base (total acumulado)
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação dos objetos contratuais específicos por meio de licitação pública, estes serão mensurados utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 430
+Indicador: 9307
+Denominação: Percentual (%) de instalação das novas infraestruturas de P, D & I agropecuária
+Sigla: PIE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentagem
+Descrição: O indicador vai acompanhar anualmente a percentagem de execução das obras do centro de pesquisa.
+O Centro de Pesquisa em  Alagoas (Embrapa Alimentos e Territórios) teve seu projeto técnico-científico aprovado no ano de 2016 pelo Conselho de Administração da Empresa (CONSAD), operando, a partir do ano de 2017 apenas com quadro técnico disponibilizado. 
+Nos anos de 2022 e de 2023 a iniciativa foi contemplada com recursos de emendas parlamentares, estando em fase final de elaboração de projetos executivos e devidas autorizações para início de sua edificação.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A1 = % de execução da obra da Unidade em Alagoas em 2024
+A2 = % de execução da obra da Unidade em Alagoas em 2025
+A3 = % de execução da obra da Unidade em Alagoas em 2026
+A4 = % de execução da obra da Unidade em Alagoas em 2024
+
+Y = % da infraestrutura implantada no ano base (total acumulado)
+Fonte De Dados Das Variáveis De Cálculo: Relatório de execução de obras e Sistema Integrado de Administração Financeira -SIAFI
+Forma De Disponibilização: Planilha, relatório de obras, SEI (comunicação administrativa)
+Procedimento De Cálculo: Após a contratação do objeto (instalações físicas) por meio de licitação pública, este será mensurado utilizando-se o cronograma de obras aprovado (relatório mensal de obras disponibilizado em documento administrativo) e os pagamentos efetuados (SIAFI), conforme as fases de implantação da obra, sendo ordenado e disponibilizado em forma de relatório anual sua evolução.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 3363
+Indicador: 12704
+Denominação: Percentual do orçamento executado em relação ao planejado
+Sigla: EXEC-PAC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: porcentagem (%)
+Descrição: O indicador reporta o percentual médio de execução do orçamento recebido e repassado, em relação ao orçamento original do PAC-Embrapa em 2023, em relação às 43 Unidades da Embrapa. Registre-se que em 2024 houve cancelamento de parte dos recursos previstos no PAC para a implementação e modernização das Unidades da Embrapa, o que será reportado nos eventos de monitoramento.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x0 = orçamento planejado; x1 = orçamento executado
+Fonte De Dados Das Variáveis De Cálculo: Registros administrativos da Unidade responsável pelo monitoramento do PAC na Embrapa (APAC-EX)
+Forma De Disponibilização: Planilha de reporte das entregas do PAC-Embrapa para a Casa Civil
+Procedimento De Cálculo: % de orçamento executado/planejado em cada uma das 43 Unidades da Embrapa; % média anual do orçamento executado
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Entrega: 428
+Indicador: 9306
+Denominação: Tecnologias emergentes e em áreas portadoras de futuro desenvolvidas/ano
+Sigla: TEC-EMERGE
+Índice De Referência: 93.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador de entrega refere-se ao número de ativos pré-tecnológicos e tecnológicos desenvolvidos pela programação de pesquisa, desenvolvimento e inovação (PD&I) da Embrapa, no ano, relacionados às temáticas da entrega focadas em tecnologias emergentes. Os ativos pré-tecnológicos são resultados obtidos por meio de projetos de pesquisa e desenvolvimento; desenvolvimento e validação, e projetos de inovação aberta com o setor produtivo. Geralmente, esses resultados não podem ser utilizados diretamente pelo setor produtivo e, portanto, servem de base e/ou são “embarcados” em produtos e processos (ativos tecnológicos). São exemplos de ativos pré-tecnológicos: coleção biológica; metodologia técnico-científica; banco de dados; ativos de base biotecnológica e procedimento informatizado. Por sua vez, os ativos tecnológicos são produtos e processos produzidos pela Embrapa como consequência final das ações desenvolvidas e dos esforços realizados durante a execução de projetos de PD&I. São eles: cultivar; reprodutor, matriz ou linhagem; processo agropecuário; processo industrial; produto/insumo agropecuário ou industrial; máquinas e/ou implementos; software para clientes externos e ativos cartográficos
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: agosto do ano base e janeiro do ano seguinte, referente ao ano base
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Ativos pré-tecnológicos
+B = Ativos tecnológicos
+i= ano de referência, variando de 1 a 4
+Fonte De Dados Das Variáveis De Cálculo: Ideare - Sistema Embrapa de Gestão
+Forma De Disponibilização: Relatórios e/ou planilhas institucionais
+Procedimento De Cálculo: Consulta por ferramenta de Business Intelligence para extração de dados do sistema Ideare. Geração de planilha Excel e contagem de resultados das categorias Ativos tecnológicos e Ativos pré-tecnológicos
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2303
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Indicador: 8840
+Denominação: Impacto econômico em R$ das soluções tecnológicas agropecuárias transferidas à sociedade
+Sigla: IE-TEC
+Índice De Referência: 89.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: bilhões de reais (R$)
+Descrição: As estimativas dos impactos econômicos das soluções tecnológicas agropecuárias são realizadas a partir do método do excedente econômico, utilizado por instituições de pesquisa agrícolas para demonstrar a efetividade da pesquisa. Anualmente, a Embrapa avalia os impactos de uma seleção (amostra) de tecnologias que foram adotadas pelo setor produtivo. O indicador proposto se refere ao somatório dos impactos econômicos das tecnologias selecionadas e é utilizado pela Embrapa para demonstrar à sociedade o retorno, em reais (R$), que a pesquisa pública propicia ao setor produtivo agropecuário. Mais precisamente, o indicador mede o efeito na renda dos produtores que adotam as tecnologias que fazem parte dessa seleção. O valor do índice de referência para o indicador corresponde à média destes impactos nos últimos quatro anos (2019-2022), período no qual foram avaliadas, em média, 163 tecnologias anualmente. A avaliação de impactos de tecnologias é um processo institucionalizado na Embrapa desde 2001 e resulta na divulgação do Balanço Social da Embrapa a cada ano.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano anterior ao ano base
+Data De Divulgação/Disponibilização: abril do ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Indicador: 9294
+Denominação: Número de parcerias com atores dos ecossistemas de inovação nacional e internacionais no ano
+Sigla: PAR_INOV
+Índice De Referência: 456.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador considera os contratos e convênios para pesquisa, desenvolvimento e inovação assinados pela Embrapa com parceiros nacionais e internacionais no ano base. Os contratos e convênios com outras instituições de PD&I e empresas criam o ambiente e as condições legais para os esforços de cooperação técnica e científica, essenciais para o compartilhamento de competências, infraestrutura e recursos financeiros necessários para a construção de  novos conhecimentos e desenvolvimento de tecnologias aplicadas aos problemas dos setores agropecuário, agroindustrial e florestal
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano base
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano base
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: i = ano no período do PPA, variando de 1 a 4
+Fonte De Dados Das Variáveis De Cálculo: SAIC - Sistema Administrativo de Informações Contratuais (Embrapa)
+Forma De Disponibilização: Portal da Embrapa
+Procedimento De Cálculo: Compilação de instrumentos jurídicos firmados com instituições e empresas de origem internacional ou nacional relacionados a ações de PD&I registrados no SAIC no ano base
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2303
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 37
+Enunciado: Aumentar o compartilhamento, aplicação e geração de conhecimentos técnico-científicos para superação dos desafios econômicos, sociais e ambientais dos setores agropecuário, agroindustrial e florestal.
+Descrição: O objetivo considera as constantes incertezas e desafios dos setores agropecuário, agroindustrial e florestal no ambiente tropical, para se tornarem cada vez mais sustentáveis. Tem foco no processo de inovação, que tem início na pesquisa científica e no desenvolvimento tecnológico para a geração de novos conhecimentos e novas aplicações para esses conhecimentos gerados, e que deve ser contínuo para permitir que os atores públicos e privados tenham prontidão para enfrentar desafios do presente e do futuro.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Objetivo Específico: 38
+Enunciado: Ampliar as ações de PD & I em parceria com agentes dos ecossistemas de inovação nacionais e internacionais para o enfrentamento dos desafios de futuro dos setores agropecuário, agroindustrial e florestal.
+Descrição: O fortalecimento das capacidades do setor agropecuário em superar desafios para a produção sustentável, no presente e no futuro, vai depender da efetiva incorporação de tecnologias e conhecimentos gerados nos ambientes produtivos. As parcerias entre instituições de ciência e tecnologia com outros atores públicos e privados, nacionais e internacionais, são determinantes para a relevância e robustez das soluções geradas, que precisam ter viabilidade técnica, econômica e social. Além disso, o desenvolvimento conjunto de tecnologias permite racionalizar recursos financeiros e compartilhar infraestruturas e competências para as ações de PD&I. Outro aspecto relevante da aproximação de atores nos ecossistemas são as contribuições técnico-científicas para elaboração, implementação e avaliação de políticas públicas baseadas em evidências para o setor agropecuário.
+Órgão: 22000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2303
+
+Exercício: 2025
+Programa: 2303
+Objetivo: 1277
+Enunciado: Fortalecer a capacidade do setor agropecuário na superação dos desafios econômicos, sociais e ambientais, por meio da geração, compartilhamento e aplicação de conhecimento técnico-científico.
+Descrição: O Programa ‘Pesquisa, Desenvolvimento e Inovação (PD&I) Agropecuária’ vem sendo formatado nos últimos ciclos do PPA para garantir a continuidade, o fortalecimento e a integração das ações de pesquisa e desenvolvimento tecnológico para a inovação na agropecuária brasileira, contribuindo para o aumento contínuo da competitividade da agropecuária no Brasil, além da geração de empregos qualificados. Além disso, o programa  é focado em gerar prontidão dos diversos atores públicos e privados para enfrentar os desafios específicos e estratégicos de sustentabilidade da agricultura, no presente e no futuro, beneficiando a sociedade como um todo. 
+ O Programa de Pesquisa, Desenvolvimento e Inovação Agropecuária demonstra o compromisso estratégico do governo com ciência e inovação como funções públicas,  contribui para a comunicação com atores externos, além de ampliar as oportunidades de  investimentos estrangeiros para o país, uma vez que empresas e instituições internacionais tendem a buscar ambientes propícios à inovação e ao desenvolvimento tecnológico.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2303
+
+Exercício: 2025
+Programa: 2303
+Título: Pesquisa e Inovação Agropecuária
+Tipo: Finalístico
+Órgão: 22000.0
+Público-Alvo: Produtor rural; empresas ou indústrias voltadas aos processos de produção agropecuária, florestal ou agroindustrialização; empresas ou indústrias de insumos agropecuários; consumidor de produtos agropecuários; e a sociedade.
+Descrição Do Problema: Insuficiência na geração e adoção de soluções inovadoras voltadas para a sustentabilidade e competitividade do setores agropecuário, agroindustrial e florestal; demanda crescente por tecnologias, conhecimento e inovação para garantir o desenvolvimento contínuo da agropecuária brasileira; demanda crescente por ​​tecnologias, conhecimento e inovação para a inclusão social e produtiva e o desenvolvimento regional; demanda crescente por tecnologias para o enfrentamento da pressão sobre os biomas, da mudança do clima, e para o uso sustentável dos recursos genéticos, das fontes renováveis de energia, da biodiversidade, do solo e água na agropecuária; demanda crescente por ​​tecnologias, conhecimento e inovação que reduzam os custos de produção, aumentem a produtividade, assegurem a qualidade, agreguem valor a alimentos e a outros produtos agropecuários, florestais e agroindustriais
+Causa Do Problema: - Articulação e coordenação insuficientes das instituições que atuam com pesquisa e inovação para agropecuária;
+- Políticas públicas pouco integradas para promover a inovação no setor ;
+- Baixa qualificação técnica e gerencial dos produtores;
+- Desestruturação das instituições de Assistência Técnica e Extensão Rural (ATER), associada à baixa qualificação dos seus técnicos
+- Precariedade na integração dos sistemas de informações públicas e insuficiência de dados e análises estratégicos;
+- Integração deficiente entre a pesquisa, assistência técnica e extensão rural, para efetiva adoção de inovação;
+- Demanda constante pela geração de conhecimento e tecnologia adequadas para o setor agropecuário;
+- Baixa acessibilidade digital no campo; 
+- Baixo nível de organização dos produtores em algumas cadeias produtivas;
+- Ambiente de negócio pouco propício/amigável à inovação
+Evidências Do Problema: A dependência de recursos naturais e processos biológicos e as consequências da mudança do clima conferem maior risco aos sistemas de produção agropecuária, ao que se somam riscos relacionados ao mercado e à complexidade da transformação digital. A crescente demanda mundial por água, alimentos e fibras, impulsionada pelo aumento da população nos países em desenvolvimento, da longevidade, do poder aquisitivo, da urbanização e pelos novos padrões de consumo, pressionam os sistemas agroalimentares para um desenvolvimento com uso mais adequado dos recursos naturais e dos insumos para a produção.
+Reduções na produtividade da agropecuária e perdas de biodiversidade fazem parte dos cenários da mudança do clima. Segundo a FAO (2016), 75% dos alimentos do mundo são gerados a partir de apenas 12 plantas e 5 espécies animais, tornando o sistema alimentar global altamente vulnerável e demandando aumento da capacidade adaptativa dos sistemas agrícolas.
+Nas últimas cinco décadas, os avanços na pesquisa agropecuária impulsionaram as exportações agrícolas e promoveram grandes avanços na disponibilidade de alimentos seguros e diversificados para a população brasileira, mas nos últimos anos houve aumento na insegurança alimentar moderada ou grave em domicílios urbanos (14%) e rurais (21,9%) (IBGE, 2018), o que foi agravado durante a pandemia de Covid-19 (Rede PENSSAN, 2022). 
+A participação do agronegócio no PIB brasileiro mantém-se, há mais de 10 anos, acima dos 20%, explicitando a importância do setor para o equilíbrio da balança comercial do País. As projeções do Mapa mostram que o País apresentará um incremento significativo para a maioria dos produtos agrícolas da atual pauta de exportações até 2026/2027. Investimentos acelerados em P&D na agricultura nos próximos anos serão cruciais para apoiar o crescimento da produção de alimentos com base em uso racional de recursos naturais.
+Justificativa Para A Intervenção: Considerando que o avanço tecnológico da agricultura nacional foi promovido em parte pelas políticas públicas do Estado, é essencial que o conhecimento para o enfrentamento dos novos desafios seja produzido nacionalmente e gere bem público. O papel do Estado não se limita à intervenção na macroeconomia ou ao financiamento de pesquisa e desenvolvimento, mas é também visto como empreendedor, que assume riscos e cria mercados. Com o apoio dos avanços tecnológicos, a agricultura por meio da assistência técnica, manejo, crédito, estruturação produtiva e acesso aos mercados também vem gerando resultados positivos ao longo dos anos. O fomento e a busca de novas metodologias e sistemas produtivos mais sustentáveis, com o apoio da tecnologia e o conhecimento sobre os recursos naturais e sócio-culturais são estratégicos e devem ser pensados no longo prazo, com constância de propósito e capacidade de antecipação de caminhos/riscos, e assim ter efeito atrativo para a atuação do setor privado e sociedade civil organizada. Investimentos contínuos em P&D na agricultura e uma boa capacidade de promover a incorporação dos conhecimentos/tecnologias gerados serão cruciais para apoiar o crescimento da produção de alimentos com base em uso racional de recursos naturais. 
+Reduções nos investimentos em PD&I agropecuária podem representar riscos à competitividade da agricultura e, consequentemente, ao crescimento da economia brasileira. É também necessário investir em portfólio de pesquisas pautado em tecnologias emergentes e áreas portadoras de futuro, como biologia avançada, agricultura digital e de precisão para gerar a prontidão necessária para o enfrentamento de desafios futuros.
+Pesquisa e Inovação agropecuária foram objetos de programas específicos nos quatro últimos ciclos do PPA, considerando a importância do setor para a economia brasileira.
+Evolução Histórica: Os resultados de PD&I refletem todos os anos no aumento da produção, na qualidade dos alimentos, no aumento das exportações, na oferta de fontes alternativas de energia, na conservação ambiental e na geração de conhecimentos estratégicos para o País. Nas últimas cinco décadas, os avanços da pesquisa e inovação agropecuária públicas impulsionaram as exportações agrícolas, e promoveram grandes avanços na disponibilidade de alimentos seguros e diversificados para a população brasileira (https://www.embrapa.br/visao-de-futuro/trajetoria-do-agro). A produção de grãos cresceu 397% em 40 anos, sendo que a área plantada aumentou apenas 45% e o país ainda mantém cerca de 60% de sua área com vegetação nativa. O rebanho bovino, por sua vez, aumentou em mais de 100%, com a diminuição relativa da área de pastagens, e o ganho de produtividade do setor florestal chegou a 140%.  Além disso, o Brasil tem tido avanços consideráveis na adoção de técnicas de cultivo mais sustentáveis, como o já consolidado sistema de plantio direto, que evitou milhões de toneladas de perda do solo por erosão, a fixação biológica de nitrogênio e a adoção de sistemas mais complexos de produção, como a integração lavoura-pecuária-florestas (ILPF). Há forte pressão social, nacional e internacional, para que a produção agropecuária caminhe para sistemas mais integrados, com utilização mais racional de insumos, principalmente em relação a defensivos e fertilizantes químicos.
+Especificamente em relação à produção do Cacau no Brasil, obteve-se o maior pico de produção do produto com aproximadamente 460 mil toneladas, em 1985,  posicionando-se como um dos líderes na produção no cenário mundial. Em 2003, a produção declinou para 170 mil ton., impactada pela incidência da doença Vassoura de Bruxa, contribuiu para inverter a condição de país exportador para importador de cacau. Entretanto, nos anos subsequentes a produção cresceu, registrando em 2017 um crescimento de 38,71% em relação ao ano de 2003.
+Comparações Internacionais: A produtividade da agropecuária entre 1975 e 2017 tem impulsionado o setor, graças à evolução anual a uma taxa média de 3,43%, superior à da agricultura americana, de 1,38% ao ano. Em 2017, o Brasil teve um Índice de Orientação Agrícola (índice que permite a comparação do dispêndio relativo de um governo em agropecuária) de 0,22, enquanto a média global foi de 0,26. Os gastos brutos em P&D em 2018 representaram 1,3% do PIB, o que coloca o país no 27º lugar no ranking de 126 países. Atualmente, o Brasil ocupa o primeiro lugar mundial como exportador de soja em grão, café, açúcar, suco de laranja e carne de frango; o segundo lugar em carne bovina, milho, óleo e farelo de soja; o terceiro como exportador de algodão; e o quarto em carne suína. A produção mundial de cacau alcançou 4,587 milhões de toneladas em 2017/18. Desse total, a produção do continente Africano representou 73%, as Américas 16%, e a Ásia e Oceania 11%. A Costa do Marfim tornou-se o principal país produtor com 44% da produção, sendo que o Brasil ocupou o 5º lugar com 4% do total produzido.
+As políticas agrícolas dos países europeus em comparação à brasileira são bastantes similares e cobrem uma vasta gama de domínios, que visam uma parceria entre a agricultura e a sociedade e entre a Europa e os seus agricultores. A UE apoia financeiramente os agricultores e incentiva práticas sustentáveis e respeitadoras do meio ambiente de maneira sustentável, investindo simultaneamente no desenvolvimento das zonas rurais e suas comunidades tradicionais. Os Estados-Membros recebem fundos do orçamento europeu de acordo com regras estabelecidas a nível da EU e também controla a forma como a legislação é aplicada e até que ponto é eficaz, coordenando também as alterações necessárias. Destina-se a apoiar os agricultores e melhorar a produtividade agrícola, garantindo um fornecimento estável de alimentos a preços acessíveis, a gestão sustentável dos recursos naturais, mantendo as áreas rurais e sua economia rural viva, promovendo empregos na agricultura, indústrias agroalimentares e setores associados.
+Relação Com Os Ods: ODS 1 - Acabar com a pobreza em todas as suas formas, em todos os lugares.
+ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+ODS 4 – Assegurar a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.
+ODS 5 - Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.
+ODS 6 - Assegurar a disponibilidade e gestão sustentável da água e saneamento para todos.
+ODS 7 - Assegurar o acesso confiável, sustentável, moderno e a preço acessível à energia para todos.
+ODS 8 - Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos.
+ODS 9 - Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
+ODS 10 - Reduzir a desigualdade dentro dos países e entre eles.
+ODS 11 – Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis.
+ODS 12 - Assegurar padrões de produção e de consumo sustentáveis.
+ODS 13 - Tomar medidas urgentes para combater a mudança climática e seus impactos, 
+ODS 14 - Conservação e uso sustentável dos oceanos, dos mares e dos recursos marinhos para o desenvolvimento sustentável.
+ODS 15 - Proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, gerir de forma sustentável as florestas, combater a desertificação, deter e reverter a degradação da terra e deter a perda de biodiversidade.
+ODS 16 - Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis.
+ODS 17 - Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
+Agentes Envolvidos: Atores públicos envolvidos com pesquisa e desenvolvimento de tecnologias e organização de informação (Embrapa, Ceplac, OEPAs, Conab, INMET, Universidades Públicas e Institutos de Pesquisa; IBGE); atores públicos envolvidos com Assistência Técnica e Extensão Rural (ATER); agentes públicos e privados envolvidos com fomento para inovação; e formuladores de políticas públicas relacionadas à inovação no campo.
+Articulação Federativa: A efetividade do programa vai depender do acionamento de atores nas esferas estaduais e municipais, principalmente em relação à assistência técnica e extensão rural, modernização de infra-estrutura (conectividade no campo), e à coleta de informações sobre adoção de tecnologias.
+As demandas por inovação tecnológica no ambiente produtivo pressupõem a participação das organizações estruturadas dos produtores rurais nas unidades da federação, bem como das entidades de fomento à pesquisa e universidades com programas de iniciação científica e de pós-graduação, estruturação e melhoria da competitividade das cadeias produtivas e arranjos florestais.
+Enfoque Transversal: O Programa tem grande transversalidade com os demais programas relacionados à agricultura e recursos naturais, principalmente os Programas Agropecuária Sustentável e Defesa Agropecuária, além dos Programas Agricultura Familiar e Agroecologia (MDA); Segurança Alimentar e Nutricional e Combate à Fome (MDS); Enfrentamento da emergência climática (MMA); Proteção e recuperação da biodiversidade (MMA);  Bioeconomia (MMA) e Ciência, Tecnologia e Inovação para o Desenvolvimento Social (MCTI). Também é possível a interação com programas que tratem de desenvolvimento regional e uso da terra, transição energética e saúde única.
+O Programa possui também relação direta com a Política Agrícola, o Plano Agrícola e Pecuário, o Plano Nacional de Mudanças Climáticas e a Política Nacional de Segurança Alimentar e Nutricional.
+Ainda nesse contexto, verifica-se interface com o Sistema Nacional de Assistência Técnica e Extensão Rural, com atuação nacional, estadual e municipal.
+Marco Legal: - Lei nº 8.171/1991, que dispõe sobre a Política Agrícola nacional, reconhece a pesquisa agrícola e tecnológica como ação e instrumento da política agrícola (art. 4, inciso II) e determina (art. 14) "que os programas de desenvolvimento científico e tecnológico, tendo em vista a geração de tecnologia de ponta, merecerão nível de prioridade que garanta a independência e os parâmetros de competitividade internacional à agricultura brasileira;
+- Marco Legal de Ciência, Tecnologia e Inovação, 2018
+- Lei nº 12.897/2013, que institui a Agência Nacional de Assistência Técnica e Extensão Rural – ANATER, regulamentada pelo Decreto 8.252 de 2014 e, a Lei nº 13.710/2018 que institui a Política Nacional de Incentivo à Produção de Cacau de Qualidade; Decreto nº 7.390/2010, que institui a Política Nacional sobre Mudança do Clima
+Planos Nacionais, Setoriais E Regionais: Plano ABC+, 2020-2030; Plano Nacional de Adaptação à Mudança do Clima – PNA, 2016; Programa Nacional da Diversidade Biológica - PRONABIO e a Comissão Nacional da Biodiversidade; Programa Nacional de Solos do Brasil (PronaSolos), 2018; Política Nacional de iLPF; PPCDAm; PPCerrado; Política Nacional de Biocombustíveis (RENOVABIO); Programa Nacional de Bioinsumos; Programa Nacional de Zoneamento Agrícola e de Risco Climático (ZARC); Plano Nacional de Fertilizantes (PNF); Política Nacional de Incentivo à Agricultura e Pecuária de Precisão; Plano Nacional de Desenvolvimento de Florestas Plantadas; Plano Nacional de Recuperação da Vegetação Nativa (PLANAVEG); Fundo de Desenvolvimento da Cacauicultura do Pará – Funcacau e Programa Renorbio do CNPq, além de participar do Parque Científico e Tecnológico do Sul da Bahia – PCTSB
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

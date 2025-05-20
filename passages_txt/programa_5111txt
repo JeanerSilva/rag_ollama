@@ -1,0 +1,2792 @@
+passage: Programa Número 5111
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 466
+Entrega: 1597
+Indicador: 10769
+Denominação: Censo Escolar realizado
+Índice De Referência: 1.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O Censo Escolar da Educação Básica, realizado anualmente, em todo o país, proporciona a obtenção de estatísticas sobre as condições de oferta e atendimento do sistema educacional brasileiro. Reúne informações sobre todas as etapas e modalidades de ensino da Educação Básica, compondo um quadro detalhado sobre matrículas, docentes, turmas e escolas. Além de permitir a elaboração de uma cesta de indicadores sobre essa realidade, os dados e informações apuradas pela pesquisa subsidiam a operacionalização de importantes políticas públicas, programas governamentais e ações do Ministério da Educação, tais como o Fundeb, os programas de Alimentação Escolar, do Livro Didático, o Dinheiro Direto na Escola, o Transporte Escolar e outros, além de subsidiar a ação supletiva do MEC de apoio às escolas, aos estados e aos municípios.
+Período Ou Data A Que Se Refere: Última quarta-feira do mês de maio do ano de referência do indicador
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Censo escolar realizado
+
+O Censo Escolar da Educação Básica, realizado anualmente, em todo o país, proporciona a obtenção de estatísticas sobre as condições de oferta e atendimento do sistema educacional brasileiro. Reúne informações sobre todas as etapas e modalidades de ensino da Educação Básica, compondo um quadro detalhado sobre matrículas, docentes, turmas e escolas. Além de permitir a elaboração de uma cesta de indicadores sobre essa realidade, os dados e informações apuradas pela pesquisa subsidiam a operacionalização de importantes políticas públicas, programas governamentais e ações do Ministério da Educação, tais como o Fundeb, os programas de Alimentação Escolar, do Livro Didático, o Dinheiro Direto na Escola, o Transporte Escolar e outros, além de subsidiar a ação supletiva do MEC de apoio às escolas, aos estados e aos municípios.
+Fonte De Dados Das Variáveis De Cálculo: Inep/MEC
+Forma De Disponibilização: Portal do Inep: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar
+Procedimento De Cálculo: O Censo Escolar da Educação Básica, realizado anualmente, em todo o país, proporciona a obtenção de estatísticas sobre as condições de oferta e atendimento do sistema educacional brasileiro. Reúne informações sobre todas as etapas e modalidades de ensino da Educação Básica, compondo um quadro detalhado sobre matrículas, docentes, turmas e escolas. Além de permitir a elaboração de uma cesta de indicadores sobre essa realidade, os dados e informações apuradas pela pesquisa subsidiam a operacionalização de importantes políticas públicas, programas governamentais e ações do Ministério da Educação, tais como o Fundeb, os programas de Alimentação Escolar, do Livro Didático, o Dinheiro Direto na Escola, o Transporte Escolar e outros, além de subsidiar a ação supletiva do MEC de apoio às escolas, aos estados e aos municípios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 460
+Entrega: 1541
+Indicador: 10720
+Denominação: Número de alunos beneficiados
+Índice De Referência: 79878.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de alunos beneficiados por meio da UAB  (abrange formação inicial – licenciaturas área da educação)
+
+O indicador representa o esforço da CAPES, concretizado na concessão de vagas e no apoio à contínua ocupação das mesmas pelo corpo discente de licenciaturas, ofertadas a distância.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de matrículas em cursos de nível superior de Pedagogia ou Licenciaturas na UAB no ano.
+Fonte De Dados Das Variáveis De Cálculo: Sisuab
+Forma De Disponibilização: Editais e documentos das diretorias da DED
+Procedimento De Cálculo: Adição dos números de vagas, considerando CPF diferentes
+Notas Explicativas: Para as matrículas cadastradas no SisUAB, é possível desagregar por sexo e idade. Porém, cabe ressaltar que o campo de cadastro dessas informações não é obrigatório nessas plataformas (há um número significativo de cadastros sem resposta). Para os beneficiados ingressantes por meio de editais "equidade" (política afirmativa", esse cadastro será obrigatório. A Capes também atua para aprimorar a coleta dessas informações no futuro.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 461
+Entrega: 1548
+Indicador: 10728
+Denominação: Número de alunos beneficiados
+Índice De Referência: 23985.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de alunos beneficiados por meio da UAB (abrange formação continuada - especializações da área da educação) 
+
+O indicador representa o esforço da CAPES, concretizado na concessão de vagas e no apoio à contínua ocupação das mesmas pelo corpo discente de especializações, ofertadas a distância
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de alunos beneficiados em cursos de especialização na UAB direcionados à formação continuada para professores e profissionais da educação.
+Fonte De Dados Das Variáveis De Cálculo: Sisuab
+Forma De Disponibilização: Editais e documentos da DED
+Procedimento De Cálculo: Adição dos números de vagas, considerando CPF diferentes
+Notas Explicativas: Para as matrículas cadastradas no SisUAB, é possível desagregar por sexo e idade. Porém, cabe ressaltar que o campo de cadastro dessas informações não é obrigatório nessas plataformas (há um número significativo de cadastros sem resposta). A Capes também atua para aprimorar a coleta dessas informações no futuro.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 466
+Entrega: 1594
+Indicador: 10765
+Denominação: Número de avaliações realizadas
+Índice De Referência: 2.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de avaliações aplicadas (Saeb, Pisa, Pirls etc)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de avaliações realizadas.
+Fonte De Dados Das Variáveis De Cálculo: Inep/MEC
+Forma De Disponibilização: Os dados das avaliações internacionais são disponibilizados ao público pelas agências internacionais responsáveis pelo estudo e ficarão disponíveis em seus sítios eletrônicos, ao passo que seus resultados são divulgados por meio de relatórios internacionais e nacionais.
+Portal do Inep: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais
+Procedimento De Cálculo: Número absoluto das avaliações, nacionais e internacionais, aplicadas no ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 461
+Entrega: 3378
+Indicador: 12713
+Denominação: Número de bolsas ofertadas para concluintes de licenciaturas e licenciados que sejam contratados pela rede pública de ensino com diagnóstico de carência de docentes (Bolsa Mais Professores)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: A oferta de bolsas visa a indução ao ingresso na carreira docente em áreas com carência de professores.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de implementação das bolsas
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de bolsas ofertadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de pagamento de bolsas da CAPES (SCBA)
+Forma De Disponibilização: Relatórios gerenciais
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 460
+Entrega: 3380
+Indicador: 12715
+Denominação: Número de bolsas ofertadas para ingressantes de licenciaturas com alto desempenho no ENEM (Bolsa Atratividade Pé-de-Meia Licenciaturas)
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de bolsas ofertadas para ingressantes de licenciaturas com alto desempenho no ENEM (Bolsa Atratividade Pé-de-Meia Licenciaturas)
+Período Ou Data A Que Se Refere: Ano (janeiro a dezembro) em que as bolsas foram ofertadas.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de bolsas ofertadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de pagamento de bolsas da CAPES (SCBA)
+Forma De Disponibilização: Relatórios gerenciais
+Procedimento De Cálculo: Considerar o número de bolsistas contemplados em cada ano. A apuração deverá ser feita por CPF distinto.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 454
+Entrega: 1470
+Indicador: 10617
+Denominação: Número de concluintes do AVAMEC em competências digitais, tecnologia e inovação
+Índice De Referência: 66260.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de concluintes nos cursos de Oferta de cursos de formação continuada em competências digitais, tecnologia e inovação no AVAMEC, que é o ambiente virtual colaborativo de aprendizagem que permite a concepção, administração e desenvolvimento de diversos tipos de ações formativas, como cursos a distância, complemento a cursos presenciais, projetos de pesquisa, projetos colaborativos e diversas outras formas de apoio educacional a distância ao processo ensino-aprendizagem.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de concluintes (certificados emitidos) em cursos sobre competências digitais, tecnologia e inovação no Ambiente Virtual de Aprendizagem do MEC (AVAMEC)
+Fonte De Dados Das Variáveis De Cálculo: Plataforma AVAMEC
+Forma De Disponibilização: Plataforma AVAMEC, em https://avamec.mec.gov.br/, a qualquer momento.
+Procedimento De Cálculo: Contagem simples do número total de concluintes nos cursos relacionados no AVAMEC. Foram considerados seis cursos relevantes (Formação do Programa de Inovação Educação Conectada; Uso de Recursos Educacionais Digitais; Aplicações do Pensamento Computacional para os Anos Finais do Ensino Fundamental; Aplicações do Pensamento Computacional para os Anos Iniciais do Ensino Fundamental; Introdução ao Pensamento Computacional; A Importância de Analisar a Qualidade da Internet). Para se extrair o relatório com o total de concluintes nos cursos AVAMEC no ano de 2022 foram seguidos os seguintes passos: entra-se na área de Gestão da plataforma, depois em Relatórios, Tipo de Relatório (participantes), Tipo de Participante (cursistas) e Adicionar Turmas (Inicio 2021 com conclusão em 2022 e início 2022 com conclusão em 2022), aplica-se o filtro de Situação do Cursista(aprovado), com data de término (01/01/2022 a 31/01/2022) e os campos que serão apresentados no relatório (nome completo, sexo, estado, município, telefone, situação do curso, data de vínculo, data de início e data de término). Uma soma simples gera o resultado.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 462
+Entrega: 1563
+Indicador: 10749
+Denominação: Número de concluintes do Curso Formação em Conselhos Escolares, no AVAMEC
+Índice De Referência: 3000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mensura o número de concluintes do Curso Formação em Conselhos Escolares, no AVAMEC.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A: Número de concluintes no curso de formação em Conselhos Escolares na Avamec, no ano
+Fonte De Dados Das Variáveis De Cálculo: AVAMEC
+Forma De Disponibilização: Plataforma AVAMEC, em https://avamec.mec.gov.br/
+Procedimento De Cálculo: Somatório de concluintes do Curso Formação em Conselhos Escolares, no AVAMEC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 39
+Entrega: 1372
+Indicador: 10966
+Denominação: Número de creches e pré-escolas pactuadas entre o FNDE e entes federativos no âmbito do Novo PAC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador informa o quantitativo total de creches e pré-escolas pactuadas entre o FNDE e entes federativos no âmbito do Novo PAC.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = número de creches e pré escolas pactuadas, no ano.
+Fonte De Dados Das Variáveis De Cálculo: FNDE/MEC
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 460
+Entrega: 1540
+Indicador: 10717
+Denominação: Número de docentes beneficiados
+Índice De Referência: 6285.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de docentes beneficiados por meio do Parfor
+
+O indicador representa o esforço da CAPES, concretizado na concessão de vagas e no apoio à contínua ocupação das mesmas pelo corpo discente, partícipes dos programas voltados à formação inicial, em serviço.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de docentes matriculados no âmbito do PARFOR no ano.
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Freire
+Forma De Disponibilização: Editais e documentos da DEB
+Procedimento De Cálculo: Adição dos números de vagas, considerando CPF diferentes.
+Notas Explicativas: Para as matrículas cadastradas na Plataforma Freire (Pibid, RP, Parfor), é possível desagregar por sexo, raça e deficiência, pois essas informações são autodeclaradas pelos beneficiados.  Porém, cabe ressaltar que o campo de cadastro dessas informações não é obrigatório nessas plataformas (há um número significativo de cadastros sem resposta). Para os beneficiados ingressantes por meio de editais "equidade" (política afirmativa", esse cadastro será obrigatório. A Capes também atua para aprimorar a coleta dessas informações no futuro.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 461
+Entrega: 1544
+Indicador: 10725
+Denominação: Número de docentes beneficiados
+Índice De Referência: 8170.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de docentes beneficiados por meio do Proeb
+
+O indicador representa o esforço da CAPES, concretizado na concessão de vagas e no apoio à contínua ocupação das mesmas pelo corpo discente de cursos stricto sensu, ofertados em rede
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de docentes beneficiados nos mestrados do ProEB
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Freire
+Forma De Disponibilização: Editais e documentos da DED
+Procedimento De Cálculo: Adição dos números de vagas, considerando CPF diferentes
+Notas Explicativas: Para as matrículas cadastradas no SisUAB, é possível desagregar por sexo e idade. Porém, cabe ressaltar que o campo de cadastro dessas informações não é obrigatório nessas plataformas (há um número significativo de cadastros sem resposta). A Capes também atua para aprimorar a coleta dessas informações no futuro.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 458
+Entrega: 1536
+Indicador: 10711
+Denominação: Número de entes apoiados
+Índice De Referência: 268.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador contabiliza os entes beneficiados com o recurso orçamentário (empenho) para a aquisição mobiliários e equipamentos para educação básica, no ano.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: entes apoiados com mobiliários e equipamentos
+Fonte De Dados Das Variáveis De Cálculo: SIMEC
+Forma De Disponibilização: Relatórios extraídos do SIMEC
+Procedimento De Cálculo: Extração de relatórios do  SIMEC e contabilização dos entes pela CGPES/DIGAP, por meio de planilha, em janeiro do ano subsequente. Necessário remover CNPJ duplicado para não haver contabilização do ente mais de uma vez.
+Notas Explicativas: O apoio técnico e financeiro do FNDE prestado no âmbito do Plano de Ações Articuladas - PAR, tem caráter suplementar e voluntário pela União às redes públicas de educação básica dos Estados, do Distrito Federal e dos Municípios para destinação às unidades escolares, por isso sugerimos a contabilização dos entes federados.
+A indicação das necessidades a serem atendidas no âmbito do PAR depende das demandas apresentadas pelos entes federados na etapa de planejamento de cada ciclo, bem como da disponibilidade de recursos orçamentários, conforme disposto na Lei 12.695/2012 e Resoluções do Conselho Deliberativo do FNDE
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Entrega: 1508
+Indicador: 10684
+Denominação: Número de entes atendidos com kits de material escolar
+Índice De Referência: 80.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador contabiliza os entes beneficiados com o recurso orçamentário (empenho) para a aquisição de kits de materiais escolares para os estudantes das redes de Educação Básica, no ano.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: entes  atendidos com kits de material escolar
+
+Número de entes que receberam empenho para aquisição de kits de materiais escolares para os estudantes das redes de Educação Básica, no ano, por meio do PAR.
+Fonte De Dados Das Variáveis De Cálculo: SIMEC
+Forma De Disponibilização: Site do FNDE: https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/par
+Procedimento De Cálculo: Extração de relatórios do SIMEC e contabilização dos entes pelo FNDE, em janeiro do ano subsequente. Necessário remover CNPJ duplicado para não haver contabilização do ente mais de uma vez.
+Notas Explicativas: O apoio técnico e financeiro do FNDE prestado no âmbito do Plano de Ações Articuladas - PAR, tem caráter suplementar e voluntário pela União às redes públicas de educação básica dos Estados, do Distrito Federal e dos Municípios para destinação às unidades escolares, por isso sugerimos a contabilização dos entes federados. 
+A indicação das necessidades a serem atendidas no âmbito do PAR depende das demandas apresentadas pelos entes federados na etapa de planejamento de cada ciclo, bem como disponibilidade de recursos orçamentários, conforme disposto na Lei 12.695/2012 e Resoluções do Conselho Deliberativo do FNDE.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 433
+Entrega: 1376
+Indicador: 10480
+Denominação: Número de entes federados apoiados no âmbito do Compromisso Nacional Criança Alfabetizada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O Compromisso Nacional Criança Alfabetizada oferecerá apoio técnico e financeiro às redes de ensino, buscando contribuir para a alfabetização dos estudantes. Para o atingimento da meta nacional de porcentagem de crianças alfabetizadas ao final do 2º ano, é importante que um grande volume de redes de ensino adiram ao apoio do Ministério. Dessa forma, justifica-se a necessidade de um indicador de monitoramento do percentual de redes aderidas ao programa no PPA.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de entes federados apoiados no âmbito do CNCA
+Fonte De Dados Das Variáveis De Cálculo: Plataforma de monitoramento do SIMEC
+Forma De Disponibilização: Solicitar à Subsecretaria de Tecnologia da Informação e Comunicação (STIC) a planilha exportada do SIMEC com os dados de adesão das redes de ensino e somar o número de redes aderidas.
+Procedimento De Cálculo: Solicitar à Subsecretaria de Tecnologia da Informação e Comunicação (STIC) a planilha exportada do SIMEC com os dados de adesão das redes de ensino e somar o número de redes aderidas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 433
+Entrega: 1382
+Indicador: 10493
+Denominação: Número de entes federados com ações de formação continuada no âmbito do Compromisso Criança Alfabetizada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O Compromisso Nacional Criança Alfabetizada oferecerá apoio técnico e financeiro às redes de ensino em cinco eixos – entre eles, a Formação de proﬁssionais de educação e melhoria das práticas pedagógicas e de gestão escolar, que busca contribuir para qualificação dos gestores e professores das redes de ensino para o trabalho com a etapa da alfabetização. Para o atingimento da meta nacional de porcentagem de crianças alfabetizadas ao final do 2º ano, é importante que um grande volume de redes de ensino ofereçam ações de formação continuada. Dessa forma, justifica-se a necessidade de um indicador de monitoramento do número de entes federados que aderiram ao Compromisso com ações de formação continuada em curso.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de entes federados com ações de formação continuada no âmbito do CNCA
+Fonte De Dados Das Variáveis De Cálculo: Plataforma do AVAMEC interativo
+Forma De Disponibilização: Plataforma AVAMEC, em https://avamec.mec.gov.br/
+Procedimento De Cálculo: Somatório do número de entes federados com ações de formação continuada no âmbito do Compromisso Criança Alfabetizada
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 439
+Entrega: 1422
+Indicador: 10545
+Denominação: Número de entes federados com programas locais institucionalizados em ato normativo
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de entes federados com programas locais institucionalizados em ato normativo
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de entes federados que submeteram suas políticas de educação integral em tempo integral no Simec, no âmbito do Programa Escola em Tempo Integral.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios gerenciais da SEB/MEC
+Forma De Disponibilização: Relatório de Gestão MEC
+Procedimento De Cálculo: Total de entes federados com programas locais institucionalizados em ato normativo.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 462
+Entrega: 1557
+Indicador: 10739
+Denominação: Número de escolas apoiadas
+Índice De Referência: 15358.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas apoiadas pelo PDDE Educação e Família
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Total de escolas apoiadas pelo Programa Dinheiro Direto na Escola (PDDE) Escola e Comunidade
+Fonte De Dados Das Variáveis De Cálculo: Plataforma PDDE interativo
+Forma De Disponibilização: https://pddeinterativo.mec.gov.br/educacao-e-familia
+Procedimento De Cálculo: Total de escolas apoiadas pelo PDDE Educação e Família
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 444
+Entrega: 1436
+Indicador: 10565
+Denominação: Número de escolas beneficiadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas no âmbito da Educação Bilingue de Surdos, beneficiadas com criação de Brinquedoteca Bilíngue e Laboratório Audiovisual
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:  escolas beneficiadas com recursos para aquisição de brinquedoteca bilingue e laboratório Audiovisual
+Fonte De Dados Das Variáveis De Cálculo: SECADI/MEC
+Forma De Disponibilização: Relatório de gestão - Secadi
+Procedimento De Cálculo: Soma das escolas no âmbito da Educação Bilingue de Surdos, beneficiadas com criação de Brinquedoteca Bilíngue e Laboratório Audiovisual
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 454
+Entrega: 3402
+Indicador: 12743
+Denominação: Número de escolas com o Medidor Educação Conectada instalado
+Índice De Referência: 56694.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Os dados sobre a qualidade de conexão à Internet divulgados no portal do Medidor Educação Conectada são coletados por meio do Sistema de Medição de Tráfego Internet (Simet), em duas versões: firmware e software. Tal sistema foi desenvolvido pelo Núcleo de Informação e Coordenação do Ponto Br (NIC.br), entidade civil, de direito privado, sem fins lucrativos, vinculada ao Comitê Gestor da Internet no Brasil (CGI.br).
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de escolas com o Medidor Educação Conectada instalado
+Fonte De Dados Das Variáveis De Cálculo: Portal Educação Conectada - MEC
+Fonte: Nic.Br
+Forma De Disponibilização: https://medidor.educacaoconectada.mec.gov.br/
+Procedimento De Cálculo: Número total de escolas com o Medidor Educação Conectada instalado
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 456
+Entrega: 1479
+Indicador: 10629
+Denominação: Número de escolas com o Medidor Educação Conectada instalado
+Índice De Referência: 56694.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Os dados sobre a qualidade de conexão à Internet divulgados no portal do Medidor Educação Conectada são coletados por meio do Sistema de Medição de Tráfego Internet (Simet), em duas versões: firmware e software. Tal sistema foi desenvolvido pelo Núcleo de Informação e Coordenação do Ponto Br (NIC.br), entidade civil, de direito privado, sem fins lucrativos, vinculada ao Comitê Gestor da Internet no Brasil (CGI.br).
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de escolas com o Medidor Educação Conectada instalado
+Fonte De Dados Das Variáveis De Cálculo: Portal Educação Conectada - MEC
+Fonte: Nic.Br
+Forma De Disponibilização: https://medidor.educacaoconectada.mec.gov.br/
+Procedimento De Cálculo: Número total de escolas com o Medidor Educação Conectada instalado
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 449
+Entrega: 1455
+Indicador: 10599
+Denominação: Número de escolas do campo empenhadas para receber recursos por meio do PDDE Campo e/ou PDDE Água
+Índice De Referência: 3503.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas do campo empenhadas para receber recursos por meio do PDDE Campo e/ou PDDE Água.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:   escolas do campo empenhadas para receber recursos por meio do Programa Dinheiro Direto na Escola (PDDE) Campo e/ou PDDE Água
+Fonte De Dados Das Variáveis De Cálculo: https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Forma De Disponibilização: https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Procedimento De Cálculo: soma das escolas que receberam empenho
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 443
+Entrega: 1434
+Indicador: 10560
+Denominação: Número de escolas empenhadas para receber recursos de acessibilidade arquitetônica
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas empenhadas para receber recursos de acessibilidade arquitetônica (PDDE Escola acessível)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:  escolas de educação básica empenhadas  para receber recursos de acessibilidade arquitetônica
+Fonte De Dados Das Variáveis De Cálculo: Sistema PDDE Info disponível em https://www.fnde.gov.br/pddeinfo/situacaoatendimentoentidade/situacaoatendimentoentidade/situacaoatendimentoentidade
+Forma De Disponibilização: Relatório de gestão - SECADI/MEC
+Sistema PDDE Info
+Procedimento De Cálculo: Soma das escolas que receberam recursos para acessibilidade arquitetônica (PDDE Escola acessível)
+Notas Explicativas: O indicador aponta as escolas enviadas para pagamento ao FNDE (empenhadas), nem todas receberão recursos financeiros tendo em vista pendencias impeditivas ao recebimento previstas em Resolução. Todavia, o número de escolas enviada ao FNDE não corresponde ao universo total de escolas passíveis de atendimento do programa, definidas pela SECADI, pois nem todas as escolas elegíveis completam a elaboração do plano de trabalho.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 443
+Entrega: 1432
+Indicador: 10557
+Denominação: Número de escolas empenhadas para receber recursos para aquisição de equipamentos e materiais pedagógicos para o AEE
+Índice De Referência: 6652.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas empenhadas para receber recursos para aquisição de equipamentos e materiais pedagógicos para o AEE (PDDE-SRM) 
+
+O indicador informa as escolas empenhadas para descentralização de recursos, que corresponde ao total de escolas enviadas ao FNDE pelo MEC após terem o plano de trabalho aprovado.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:  escolas empenhadas para receber recursos para aquisição de equipamentos e materiais pedagógicos para o AEE
+Fonte De Dados Das Variáveis De Cálculo: Sistema PDDE Info de pagamento do FNDE, acessível em https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Forma De Disponibilização: sistema PDDE INFO do FNDE): https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Procedimento De Cálculo: Soma de escolas empenhadas
+Limitações: O empenho das escolas não pagas poderá ser cancelado para aproveitamento em outro programa.
+É possível que as escolas não pagas venham a receber este recurso no ano subsequente, caso o empenho tenha permanecido em RAP
+Notas Explicativas: O indicador aponta as escolas enviadas para pagamento ao FNDE (empenhadas), nem todas receberão recursos financeiros tendo em vista pendencias impeditivas ao recebimento previstas em Resolução. Todavia, o número de escolas enviada ao FNDE não corresponde ao universo total de escolas passíveis de atendimento do programa, definidas pela SECADI, pois nem todas as escolas elegíveis completam a elaboração do plano de trabalho.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 458
+Entrega: 3012
+Indicador: 12374
+Denominação: Número de escolas em Tempo Integral pactuadas entre o FNDE e entes federativos no âmbito do Novo PAC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador contabiliza a quantidade de escolas de educação básica em Tempo Integral pactuadas entre o FNDE e entes federativos no âmbito do Novo PAC.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: fevereiro do ano seguinte ao ano de referência do indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: escolas em Tempo Integral 
+pactuadas entre o FNDE e entes federativos no âmbito do Novo PAC
+Fonte De Dados Das Variáveis De Cálculo: FNDE/MEC
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 450
+Entrega: 1463
+Indicador: 10604
+Denominação: Número de escolas indígenas empenhadas para receber recursos por meio do PDDE Campo e/ou PDDE Água
+Índice De Referência: 500.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas indígenas empenhadas para receber recursos por meio do PDDE Campo e/ou PDDE Água.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:  escolas indígenas empenhadas para receber recursos por meio do Programa Dinheiro Direto na Escola (PDDE) Campo e/ou PDDE Água.
+Fonte De Dados Das Variáveis De Cálculo: https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Forma De Disponibilização: https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Relatório de Gestão - Secadi/MEC
+Procedimento De Cálculo: Total de escolas indígenas apoiadas por meio do PDDE
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 452
+Entrega: 1466
+Indicador: 10613
+Denominação: Número de escolas quilombolas empenhadas para receber recursos por meio do PDDE Campo e/ou PDDE Água
+Índice De Referência: 51.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de escolas quilombolas empenhadas para receber recursos por meio do PDDE Campo e/ou PDDE Água.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:  escolas quilombolas empenhadas para receber recursos por meio do Programa Dinheiro Direto na Escola (PDDE) Campo e/ou PDDE Água.
+Fonte De Dados Das Variáveis De Cálculo: https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Forma De Disponibilização: https://www.fnde.gov.br/pddeinfo/pddeinfo/escola/consultar
+Procedimento De Cálculo: soma das escolas quilombolas que receberam empenho
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Entrega: 1412
+Indicador: 10533
+Denominação: Número de estados apoiados no ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de estados com apoio técnico e financeiro
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de Unidades Federativas que receberam apoio para implantação da nova Política Nacional do Ensino Médio, no ano
+Fonte De Dados Das Variáveis De Cálculo: Dados gerenciais do Programa no âmbito da SEB/MEC
+Forma De Disponibilização: Painel de Monitoramento do Novo Ensino Médio
+Procedimento De Cálculo: Número de estados atendidos pela Política Nacional de Ensino Médio
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Entrega: 1496
+Indicador: 10659
+Denominação: Número de estudantes atendidos
+Índice De Referência: 32427043.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de estudantes atendidos por meio do PNLD, no ano.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A:  estudantes atendidos no âmbito do PNLD.
+Fonte De Dados Das Variáveis De Cálculo: Censo do INEP e Processamento do FNDE.
+Forma De Disponibilização: Portal do FNDE: https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/programas-do-livro
+Procedimento De Cálculo: Totalização dos estudantes atendidos
+Notas Explicativas: O PNLD atualmente é executado em ciclos de 4 anos, ou seja, os títulos escolhidos em cada edital e distribuídos às escolas serão utilizados por um período de 4 (quatro) anos. Diante disso, todos os anos são feitas compra(s) inicial(ais) e compras de reposição para os editais vigentes, essas últimas visam complementar nas escolas os livros que por alguma externalidade não puderam ser reutilizados, bem como aqueles que são consumíveis.
+ Há de se ressaltar, acerca da operação do PNLD, que a definição da quantidade de estudantes e escolas a serem atendidos é feita com base nos dados do Censo disponíveis no momento da compra, que é realizada no ano anterior ao atendimento, em um processo denominado projeção (ou predição, a depender da metodologia aplicada) de alunado. No caso do atendimento para o ano letivo de 2023, por exemplo, os cálculos foram feitos em 2022, com base no Censo 2021. Nesse contexto, o censo de referência só pode ser disponibilizado pelo INEP no ano seguinte às entregas dos materiais, pois enquanto aquele Instituto elabora o Censo, este FNDE deve adquirir e entregar os objetos de modo a viabilizar harmonia com o início do ano letivo. Assim, a compra dos livros é feita no ano anterior a sua utilização e, nesse momento, o último censo disponível é o de 2 (dois) anos anteriores ao momento de contratação e distribuição.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Entrega: 1505
+Indicador: 10673
+Denominação: Número de estudantes atendidos no âmbito do PNAE
+Índice De Referência: 39958732.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número total de estudantes atendidos no âmbito do PNAE, por modalidade e etapa de ensino
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Não se aplica
+Variáveis De Cálculo: A:  estudantes atendidos no âmbito do PNAE.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Integrado de Gestão da Alimentação Escolar (SIGAE)
+Forma De Disponibilização: Os dados de estudantes atendidos podem ser obtidos por meio do Portal de Dados Abertos do FNDE, a partir do Conjunto de Dados “Alunos Atendidos pelo PNAE”, disponível em https://www.gov.br/fnde/pt-br/acesso-a-informacao/dados-abertos. Os dados são atualizados anualmente.
+Procedimento De Cálculo: Somar a quantidade de estudantes da educação básica pública das redes estadual, distrital e municipal considerados no repasse efetuado aos entes estadual, distrital e municipal adimplentes com o Programa no ano.
+Notas Explicativas: O número de estudantes atendidos se refere à quantidade de alunos considerados no cálculo dos repasses efetivamente realizados exclusivamente aos entes estaduais, distrital e municipais adimplentes com o Programa, desde que tenha recebido, pelo menos, uma parcela no exercício. Assim, mesmo que o ente tenha recebido apenas uma parcela, os alunos matriculados na rede são todos considerados como atendidos. Além disso, o número de estudantes considerados no cálculo dos repasses é aquele constante no Censo Escolar do ano anterior ao do atendimento. O indicador, portanto, não reflete a quantidade de estudantes matriculados no exercício do atendimento e também não se refere aos alunos que efetivamente consumiram a alimentação escolar. Ao acessar o Portal de Dados Aberto do FNDE para conhecer o número de alunos atendidos é importante que sejam excluídos da soma aqueles estudantes do Atendimento Educacional Especializado (AEE) e do Programa de Fomento do Ensino Médio (EMTI), pois já estão sendo contabilizados em outras etapas e modalidades, já que os estudantes do AEE são exclusivamente aqueles matriculados no contraturno e os do EMTI recebem per capita complementar. Essa exclusão evita a dupla contagem dos estudantes. Na apuração deste indicador já serão excluídos esses estudantes dessas duas modalidades.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 466
+Entrega: 1595
+Indicador: 10766
+Denominação: Número de exames realizados
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de exames aplicados (Enem, Encceja, Celpe-brás etc)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de exames realizados.
+Fonte De Dados Das Variáveis De Cálculo: Inep/MEC
+Forma De Disponibilização: Portal do Inep: https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais
+Procedimento De Cálculo: Número absoluto do número de exames da educação básica aplicados no ano. Os dados são disponibilizados a partir dos resultados e do final da aplicação. (Disponibilização das notas aos participantes dos exames e respostas aos recursos interpelados, quando for o caso).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 460
+Entrega: 1537
+Indicador: 10715
+Denominação: Número de licenciandos beneficiados
+Índice De Referência: 57682.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de licenciandos beneficiados por meio dos Programas Residência Pedagógica e Pibid.
+O indicador representa o esforço da CAPES, concretizado na ocupação das vagas concedidas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de licenciados beneficiados pelo Pibid
+B: número de licenciados beneficiados pelo RP
+C: Número de egressos de licenciaturas beneficiados em estágio profissional da Capes
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Freire e o ADD_Bolsas
+Forma De Disponibilização: Editais e documentos da DEB
+Procedimento De Cálculo: Adição dos números de vagas concedidas, considerando CPF distintos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Entrega: 1420
+Indicador: 10542
+Denominação: Número de matrículas apoiadas
+Índice De Referência: 361461.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de matrículas em tempo integral de ensino médio
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de matrículas apoiadas no âmbito do Programa Ensino Médio em Tempo Integra (EMTI), no ano
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar da Educação Básica (Inep/MEC)
+Forma De Disponibilização: Censo Escolar — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira | Inep (www.gov.br)
+Procedimento De Cálculo: Computa-se o número total de estudantes de ensino médio matriculados nas escolas de EMTI segundo dados do Censo Escolar
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 39
+Entrega: 1365
+Indicador: 10460
+Denominação: Número de matrículas em creche apoiadas por meio do Programa de Apoio à Manutenção da Educação Infantil - Novas turmas e Novos estabelecimentos
+Índice De Referência: 29387.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mede a quantidade de matrículas em creche criadas com o apoio do Programa EI Manutenção.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de matrículas em creches apoiadas no âmbito do Programa EI Manutenção
+Fonte De Dados Das Variáveis De Cálculo: O número de matrículas é declarado pelos municípios apoiados pelo EI Manutenção na plataforma SIMEC.
+Forma De Disponibilização: O dado pode ser obtido na plataforma SIMEC, a qualquer momento,
+Procedimento De Cálculo: Soma do número de matrículas declarado por cada município
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 39
+Entrega: 1368
+Indicador: 10463
+Denominação: Número de matrículas em pré-escola apoiadas por meio do Programa de Apoio à Manutenção da Educação Infantil - Novas turmas e Novos estabelecimentos
+Índice De Referência: 12901.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mede a quantidade de matrículas em pré-escola criadas com o apoio do Programa EI Manutenção.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de matrículas em pré-escolas apoiadas no âmbito do Programa EI Manutenção
+Fonte De Dados Das Variáveis De Cálculo: O número de matrículas é declarado pelos municípios apoiados pelo EI Manutenção na plataforma SIMEC.
+Forma De Disponibilização: O dado pode ser obtido na plataforma SIMEC, a qualquer momento.
+Procedimento De Cálculo: Soma do número de matrículas declarado por cada município.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 463
+Entrega: 1575
+Indicador: 10757
+Denominação: Número de municípios apoiados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de municípios apoiados no âmbito da estruturação ou revisão dos Planos de Carreira e Remuneração (PCRs) para os profissionais do magistério público da educação básica.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de municípios apoiados.
+Fonte De Dados Das Variáveis De Cálculo: O indicador terá como fonte de informação os registros administrativos da SASE/MEC quanto ao número de municípios apoiados (n) cumulativamente e o número oficial de municípios dado pelo IBGE (N).
+Forma De Disponibilização: Ao final de cada exercício a partir dos registros administrativos da SASE
+Procedimento De Cálculo: Soma do número de municípios apoiados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 465
+Entrega: 1580
+Indicador: 10761
+Denominação: Número de municípios apoiados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de municípios que recebem apoio técnico para a elaboração dos planos decenais
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de novos municípios que receberam apoio técnico da SASE/MEC para a elaboração dos planos decenais de educação
+Fonte De Dados Das Variáveis De Cálculo: O indicador terá como fonte de informação os registros administrativos da SASE/MEC quanto ao número de municípios apoiados (n) cumulativamente e o número oficial de municípios dado pelo IBGE (N).
+Forma De Disponibilização: Ao final de cada exercício a partir dos registros administrativos da SASE.
+Procedimento De Cálculo: A partir do número de municípios apoiados cumulativamente ao final de cada exercício se procede a divisão pelo número oficial de municípios do Brasil, e por região
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 458
+Entrega: 3013
+Indicador: 12375
+Denominação: Número de obras concluídas no ano
+Índice De Referência: 521.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador contabiliza a quantidade de obras de creches, escolas, quadras e cobertura de quadras concluídas no ano.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador
+Data De Divulgação/Disponibilização: : Fevereiro do ano seguinte ao ano de referência do indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: obras de creches, escolas, quadras e coberturas de quadras concluídas no ano
+Fonte De Dados Das Variáveis De Cálculo: FNDE/MEC
+Forma De Disponibilização: Relatório do Módulo Obras 2.0 do SIMEC.
+Procedimento De Cálculo: somatório de obras de creches, escolas, quadras e cobertura de quadras concluídas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 458
+Entrega: 1519
+Indicador: 10701
+Denominação: Número de obras paralisadas e inacabadas repactuadas no ano, nos termos da MP 1.174/2023
+Índice De Referência: 129.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador contabiliza o quantitativo total de Obras Repactuadas por meio do Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica, instituído pela Medida Provisória nº 1.174/2023.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: obras repactuadas no ano
+Fonte De Dados Das Variáveis De Cálculo: Relação de Obras paralisadas e inacabadas que foram repactuadas, conforme dados disponíveis no SIMEC/Obras2.0
+Forma De Disponibilização: Relatório do Obras 2.0 no SIMEC
+Procedimento De Cálculo: Extração de relatório do Obras 2.0 no SIMEC e contabilização das obras paralisadas e inacabadas que foram respactuadas no ano
+Notas Explicativas: A retomada depende substancialmente dos entes federados, conforme disposto na Medida Provisória nº 1.174, de 12 de maio de 2023 e na Portaria Conjunta MEC/MGI/CGU nº 82, de 10 de julho de 2023 que dispõe sobre as repactuações entre o Fundo Nacional de Desenvolvimento da Educação - FNDE e os entes federativos no âmbito do Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica, bem como da disponibilidade de recursos orçamentários e financeiros, A faixa de execução das obras foi utilizada como base para definição da meta.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 435
+Entrega: 1398
+Indicador: 10520
+Denominação: Número de secretarias estaduais ou municipais de educação que acessaram a plataforma de avaliações disponibilizada pelo MEC pelo menos três vezes por ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de secretarias estaduais ou municipais de educação que acessaram a plataforma de avaliações disponibilizada pelo MEC pelo menos três vezes por ano
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de entes federados com professores que acessaram a Plataforma de Avaliações Diagnósticas e Formativas do MEC pelo menos 3x ao ano
+Fonte De Dados Das Variáveis De Cálculo: Relatórios gerencias da SEB/MEC
+Forma De Disponibilização: Relatório de Gestão MEC
+Procedimento De Cálculo: Total de secretarias estaduais ou municipais de educação que acessaram a plataforma de avaliações disponibilizada pelo MEC pelo menos três vezes por ano.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 463
+Entrega: 1579
+Indicador: 10758
+Denominação: Número de unidades federativas apoiadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O número de entes estaduais e distrital apoiados cumulativamente
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de unidades federativas apoiadas.
+Fonte De Dados Das Variáveis De Cálculo: O indicador terá como fonte de informação os registros administrativos da SASE/MEC quanto ao número de entes estaduais e distrital apoiados (n) cumulativamente e o número oficial de entes dado pelo IBGE (N).
+Forma De Disponibilização: Ao final de cada exercício a partir dos registros administrativos da SASE.
+Procedimento De Cálculo: Contagem do número de entes estatuais e distrital apoiados cumulativamente ao final de cada exercício.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 465
+Entrega: 1588
+Indicador: 10764
+Denominação: Número de unidades federativas apoiadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O número de entes estaduais e distrital apoiados cumulativamente.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de novos UF (estados) que receberam apoio técnico da SASE/MEC para a elaboração dos planos decenais de educação
+Fonte De Dados Das Variáveis De Cálculo: O indicador terá como fonte de informação os registros administrativos da SASE/MEC quanto ao número de entes estaduais e distrital apoiados (n) cumulativamente e o número oficial de entes dado pelo IBGE (N).
+Forma De Disponibilização: Ao final de cada exercício a partir dos registros administrativos da SASE.
+Procedimento De Cálculo: Contagem do número de entes estatuais e distrital apoiados cumulativamente ao final de cada exercício.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 449
+Entrega: 1454
+Indicador: 10590
+Denominação: Número de vagas em cursos de formação continuada apoiadas
+Índice De Referência: 1150.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Vagas ofertadas pela SECADI/MEC, por meio de TED, no âmbito do programa Escola da Terra
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Indicador = A
+A: Número total de vagas  ofertadas em cursos de formação continuada no âmbito da Educação do Campo
+Fonte De Dados Das Variáveis De Cálculo: SIMEC, módulo TED
+Forma De Disponibilização: Relatório de Gestão MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 449
+Entrega: 1453
+Indicador: 10588
+Denominação: Número de vagas em cursos de formação inicial apoiadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Vagas ofertadas e apoiadas pela SECADI/MEC no âmbito do Procampo
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de vagas em cursos de formação inicial apoiadas no âmbito da Educação do Campo
+Fonte De Dados Das Variáveis De Cálculo: SIMEC, módulo TED
+Forma De Disponibilização: Relatório de Gestão do MEC
+Procedimento De Cálculo: Número total de vagas em cursos de formação inicial apoiadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 450
+Entrega: 1459
+Indicador: 10601
+Denominação: Número de vagas em cursos de formação inicial apoiadas no ano
+Índice De Referência: 220.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas em cursos de formação inicial apoiadas no ano (Prolind)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de vagas ofertadas em formação inicial, no âmbito da educação escolar indígena
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão - Secadi/MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 441
+Entrega: 1425
+Indicador: 10549
+Denominação: Número de vagas ofertadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas em formação continuada para professores e profissionais da educação básica em relações étnico-raciais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de vagas ofertadas em formação continuada em Educação para as Relações Étnico-raciais
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED – SECADI/MEC
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC.
+Forma De Disponibilização: SECADI – Relatório de Gestão
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização realizado no ano de referência do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 441
+Entrega: 1427
+Indicador: 10550
+Denominação: Número de vagas ofertadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mensura o número de vagas ofertadas em formação continuada em educação direitos humanos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Indicador = A
+A = Número de vagas ofertadas em formação continuada em Educação em Direitos Humanos
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED – SECADI
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: SECADI – Relatório de Gestão
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização no ano de referência do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 441
+Entrega: 1428
+Indicador: 10552
+Denominação: Número de vagas ofertadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas em formação continuada para professores e profissionais da educação básica em Educação Ambiental
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de vagas ofertadas em formação continuada em Educação Ambiental
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED – SECADI
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC.
+Forma De Disponibilização: Relatório de Gestão SECADI
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização no ano de referência do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 443
+Entrega: 1431
+Indicador: 10555
+Denominação: Número de vagas ofertadas
+Índice De Referência: 16150.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mensura o número de vagas ofertadas em formação continuada em Educação Especial
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de vagas ofertadas em formação continuada em Educação Especial
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/ SPO/TED
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão – SECADI/MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 450
+Entrega: 1461
+Indicador: 10603
+Denominação: Número de vagas ofertadas
+Índice De Referência: 2159.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas em formação continuada no âmbito da educação escolar indígena (Saberes Indígenas na Escola)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de vagas ofertadas em formação continuada, no âmbito da educação escolar indígena
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão SECADI/MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 452
+Entrega: 1464
+Indicador: 10608
+Denominação: Número de vagas ofertadas
+Índice De Referência: 600.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas em formação continuada em educação escolar quilombola.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de vagas ofertadas em formação continuada no âmbito da educação escolar quilombola
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED – SECADI
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão - SECADI/MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 439
+Entrega: 1424
+Indicador: 10547
+Denominação: Número de vagas ofertadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas em curso de formação continuada para lideranças e profissionais da educação básica em educação em tempo integral.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de vagas de formação continuada para lideranças e profissionais da educação sobre Educação em tempo Integral ofertadas, no ano
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 444
+Entrega: 1435
+Indicador: 10562
+Denominação: Número de vagas ofertadas
+Índice De Referência: 4800.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ofertadas em formação continuada de professores e profissionais da educação básica em educação bilingue de surdos
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de vagas ofertadas em formação continuada de professores e profissionais da educação básica em educação bilingue de surdos
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão SECADI
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Entrega: 1417
+Indicador: 10539
+Denominação: Número de Vagas ofertadas
+Índice De Referência: 41855.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas de formação continuada ofertadas para os profissionais da educação que atuam no ensino médio
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de vagas de formação continuada no âmbito da Política Nacional do Ensino Médio ofertadas, no ano
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC
+Forma De Disponibilização: Relatório de Gestão MEC
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização com empenho realizado no ano de referência do indicador
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Entrega: 1500
+Indicador: 10667
+Denominação: Número de veículos pactuados com recursos federais pelos entes no âmbito do Caminho da Escola
+Índice De Referência: 5760.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador demonstra a quantidade de veículos pactuados com os entes federados, exclusivamente com o repasse de recursos federais, sem considerar os veículos contratados para pagamento com recursos próprios ou com financiamento junto a bancos oficiais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Quantidade de veículos pactuados com os entes federados com recursos federais no período.
+Fonte De Dados Das Variáveis De Cálculo: Base de dados do Plano de Ações Articuladas
+Forma De Disponibilização: Monitore o Caminho da Escola — Fundo Nacional de Desenvolvimento da Educação (www.gov.br)
+Procedimento De Cálculo: Soma dos veículos objeto de pactuação com os entes federados no período.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 448
+Entrega: 1446
+Indicador: 10580
+Denominação: Número vagas ampliadas no ano
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas ampliadas de Educação de Jovens e Adultos (EJA)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de vagas financiadas pelo MEC para novas matrículas de Educação de Jovens e Adultos (EJA), no ano, no âmbito do Pacto Nacional pela Superação do Analfabetismo e Qualificação da EJA
+Fonte De Dados Das Variáveis De Cálculo: SECADI/MEC
+Forma De Disponibilização: Relatório de Gestão - Secadi/MEC
+Procedimento De Cálculo: soma das vagas  de EJA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 462
+Entrega: 1560
+Indicador: 10748
+Denominação: Percentual de Diretores Escolares com formação continuada em Gestão Escolar
+Índice De Referência: 19.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mensura o percentual de Diretores Escolares com formação continuada em Gestão Escolar
+Período Ou Data A Que Se Refere: Novembro do ano de referência do indicador
+Data De Divulgação/Disponibilização: Outubro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de Diretores Escolares com formação continuada em Gestão Escolar
+B: Total de diretores escolares
+Fonte De Dados Das Variáveis De Cálculo: SAEB (Inep/MEC)
+Forma De Disponibilização: SAEB - Resultados. Disponível em https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb/resultados
+Procedimento De Cálculo: Número de Diretores Escolares com formação continuada em Gestão Escolar/ Total de diretores escolares X 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Entrega: 1502
+Indicador: 10668
+Denominação: Percentual de entidades executoras atendidas no âmbito do PNATE
+Índice De Referência: 94.09
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: (Quantidade de entidades executoras que receberam recursos dividida pela quantidade de entidades executoras com estudantes que residem em área rural e que utilizam transporte escolar) x 100
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Quantidade de entidades executoras que receberam recursos 
+B: Quantidade de entidades executoras com estudantes que residem em área rural e que utilizam transporte escolar
+Fonte De Dados Das Variáveis De Cálculo: SIGEF
+Forma De Disponibilização: Página do FNDE em Monitore o PNATE – Painel BI de repasses - Monitore o PNATE - Acesse os relatórios dinâmicos — Fundo Nacional de Desenvolvimento da Educação (www.gov.br)
+Procedimento De Cálculo: Quantidade de entidades executoras que receberam recursos dividida pela quantidade de entidades executoras com estudantes que residem em área rural e que utilizam transporte escolar) x 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Entrega: 1506
+Indicador: 10677
+Denominação: Percentual de escolas atendidas por meio do PDDE Básico
+Índice De Referência: 88.88
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mensura o percentual de escolas atendidas por meio do PDDE Básico (empenhadas).
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de escolas atendidas por meio do Programa Dinheiro Direto na Escola (PDDE) Básico 
+B: Número de escolas passíveis de atendimento
+Escolas passíveis de atendimento são todas as escolas ativas, públicas, esfera municipal e estadual e distrital E as escolas privadas de Ed. especial com Certificação de Entidade Beneficentes de Assistencia Social (CEBAS)
+Fonte De Dados Das Variáveis De Cálculo: Bases de dados do FNDE ( Sistema de Ações Educacionais – SAE)
+Forma De Disponibilização: Site do FNDE: https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/pdde
+Procedimento De Cálculo: Total de escolas que receberam repasses do PDDE Básico/ total de escolas passíveis de atendimento  x 100.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 454
+Entrega: 3406
+Indicador: 12748
+Denominação: Percentual de escolas com computadores de mesa, portáteis e tablets para uso dos estudantes (laboratório de informática, laboratório específico para a educação profissional, biblioteca e sala de aula)
+Índice De Referência: 56.3
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Escolas que declaram ter os equipamentos listados disponíveis na escola para utilização de alunos no processo de ensino e aprendizagem. Os equipamentos informados devem estar em condições de uso. Equipamentos que estão temporariamente desligados, sem utilização momentânea, aguardando instalação, em condições de conserto ou encaixotados, são informados. Equipamentos alugados pela escola ou pela rede de ensino também são informados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de escolas que informaram possuir computadores de mesa, portáteis ou tablets em uso dos estudantes
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar da Educação Básica (Inep/MEC)
+Forma De Disponibilização: Disponíveis nos microdados do Censo Escolar do INEP, na data de divulgação dos dados. Disponível no site: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Dos microdados do Censo Escolar do INEP, listar as escolas com Dependência municipal e estadual (categorias 2 e 3), em Situação de Funcionamento “em atividade” (categoria 1), gerando o universo (denominador) de escolas consideradas. A partir daí, listar as escolas que informaram ter computadores de mesa OU portáteis OU tablets em uso pelos alunos (categoria 1, sim, em cada respectiva questão), gerando o numerador. Uma divisão simples revela a razão entre os dois.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 456
+Entrega: 1481
+Indicador: 10635
+Denominação: Percentual de escolas com computadores de mesa, portáteis e tablets para uso dos estudantes (laboratório de informática, laboratório específico para a educação profissional, biblioteca, sala de aula e
+Índice De Referência: 56.3
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Escolas que declaram ter os equipamentos listados disponíveis na escola para utilização de alunos no processo de ensino e aprendizagem. Os equipamentos informados devem estar em condições de uso. Equipamentos que estão temporariamente desligados, sem utilização momentânea, aguardando instalação, em condições de conserto ou encaixotados, são informados. Equipamentos alugados pela escola ou pela rede de ensino também são informados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de escolas que informaram possuir computadores de mesa, portáteis ou tablets em uso dos estudantes
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar da Educação Básica (Inep/MEC)
+Forma De Disponibilização: Disponíveis nos microdados do Censo Escolar do INEP, na data de divulgação dos dados. Disponível no site: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Dos microdados do Censo Escolar do INEP, listar as escolas com Dependência municipal e estadual (categorias 2 e 3), em Situação de Funcionamento “em atividade” (categoria 1), gerando o universo (denominador) de escolas consideradas. A partir daí, listar as escolas que informaram ter computadores de mesa OU portáteis OU tablets em uso pelos alunos (categoria 1, sim, em cada respectiva questão), gerando o numerador. Uma divisão simples revela a razão entre os dois.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 433
+Entrega: 1388
+Indicador: 10509
+Denominação: Percentual de estados que aplicaram avaliações da alfabetização no âmbito do Compromisso Criança Alfabetizada
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O Compromisso Nacional Criança Alfabetizada oferecerá apoio técnico e financeiro às redes de ensino em cinco eixos – entre eles, a Formação de proﬁssionais de educação e melhoria das práticas pedagógicas e de gestão escolar, que busca contribuir para qualificação dos gestores e professores das redes de ensino para o trabalho com a etapa da alfabetização. Para o atingimento da meta nacional de porcentagem de crianças alfabetizadas ao final do 2º ano, é importante que um grande volume de redes de ensino ofereçam ações de formação continuada. Dessa forma, justifica-se a necessidade de um indicador de monitoramento do percentual de entes federados que aderiram ao Compromisso com ações de formação continuada em curso.
+Período Ou Data A Que Se Refere: Ano letivo anterior à aplicação das provas estaduais
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A/B x 100
+A: UF que aplicaram avaliações de alfabetização no âmbito do CNCA
+B: Total de Ufs (27)
+Fonte De Dados Das Variáveis De Cálculo: declaração dos estados na plataforma de monitoramento no SIMEC
+Forma De Disponibilização: Relatório de Gestão MEC
+Procedimento De Cálculo: Número de estados que aplicaram avaliações da alfabetização/nº de estados x 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Entrega: 3375
+Indicador: 12708
+Denominação: Percentual de estudantes elegíveis atendidos pelo programa Pé-de-Meia na rede pública
+Índice De Referência: 98.81
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador se refere ao percentual de estudantes elegíveis ao Programa que receberam o incentivo ao menos uma vez. Tal indicador expressa se o programa está de fato atingindo seu público-alvo.
+Período Ou Data A Que Se Refere: janeiro a dezembro do ano de referência do indicador
+Data De Divulgação/Disponibilização: Mês de maio de 2025, 2026 e 2027
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A/B*100
+A = Estudantes atendidos pelo programa
+B = Estudantes elegíveis
+Fonte De Dados Das Variáveis De Cálculo: Sistema Gestão Presente (SGP), do Ministério da Educação.
+Forma De Disponibilização: Consulta ao Sistema Gestão Presente (SGP)
+Procedimento De Cálculo: O indicador é composto por duas variáveis: (A) o total de estudantes atendidos pelo programa, ou seja, que tenham recebido algum incentivo financeiro ao menos uma vez); e (B) o total de estudantes elegíveis ao recebimento do incentivo, ou seja, i) o total estudantes que é estudante do ensino médio das redes públicas e tem entre 14 e 24 anos ou que é estudante da educação de jovens e adultos (EJA) das redes públicas e tem entre 19 e 24 anos; ii) que é integrante de uma família inscrita no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) e que tenha renda, por pessoa, de até meio salário mínimo; e iii) que possui Cadastro de Pessoa Física (CPF) regular. Para o cálculo do indicador, divide-se A por B e multiplica-se o resultado por 100. Ambas as variáveis são extraídas do Sistema Gestão Presente do Ministério da Educação.
+Limitações: Os dados são reportados pelas redes de ensino municipais, estaduais, distrital e federais ofertantes de ensino médio público.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 462
+Entrega: 1564
+Indicador: 10750
+Denominação: Percentual de Fóruns Permanentes de Educação apoiados
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador é definido como a razão percentual entre o número de Fóruns Permanentes de Educação Estaduais, Distrital e Nacional apoiados pelo MEC e o número de Fóruns Permanentes de Educação Estaduais, Distrital e Nacional existentes. Em se tratando de iniciativa de apoio técnico inovadora com foco nos Fóruns Permanentes de Educação, a base de apoio técnico será construída na forma de plataforma digital onde registros administrativos permitirão a verificação do indicador quantitativo proposto, bem como de aspectos qualitativos do apoio despendido aos Fóruns.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Fóruns permanentes de educação estaduais, distrital e nacional apoiados pelo MEC
+B: Fóruns permanentes de educação estaduais, distrital e nacional existentes
+Fonte De Dados Das Variáveis De Cálculo: O indicador terá como fonte de informação os registros administrativos da SASE/MEC quanto ao número de Fóruns permanentes de educação Estaduais, Distrital e Nacional apoiados e os existentes..
+Forma De Disponibilização: O indicador será calculado e disponibilizado pela Secretaria de Articulação Intersetorial e com os Sistemas de Ensino do Ministério da Educação (SASE/MEC).
+Procedimento De Cálculo: Apuração do número total de Fóruns Permanentes de Educação Estaduais, Distrital e Nacional apoiados e divide-se pelo número de Fóruns Permanentes de Educação Estaduais, Distrital e Nacional existentes.
+Limitações: O indicador pode variar positivamente ou negativamente em função do número de Fóruns Permanentes de Educação que façam adesão às iniciativas de apoio técnicos disponibilizadas.
+Notas Explicativas: Manteve-se a unidade de medida percentual, pois além dos Fóruns de cada estado e Distrito Federal, há também o apoio ao Fórum Nacional, que será considerado no âmbito da região centro-oeste. O número absoluto geraria uma distorção nesse caso.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 436
+Entrega: 1407
+Indicador: 10528
+Denominação: Percentual de redes que aderiram à Política Nacional para a Qualidade da Educação nos Anos Finais do Ensino Fundamental
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: A Política Nacional para a Qualidade da Educação nos Anos Finais do Ensino Fundamental oferecerá apoio às redes de ensino, buscando contribuir para a aprendizagem e fluxo dos estudantes, o que, por consequência, melhoraria o IDEB. Para o atingimento da meta nacional do IDEB, é importante que um grande volume de redes de ensino tenha avanços no indicador. Logo, é importante monitorar quantas redes de ensino estão implantando a Política com apoio do Ministério da Educação.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Janeiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A/B x 100
+A: Número de redes públicas de Educação que aderiram à Política Nacional para a Qualidade da Educação nos anos finais do EF
+B: Total de redes públicas de Educação que ofertam os anos finais do Ensino Fundamental
+Fonte De Dados Das Variáveis De Cálculo: Número de redes adesas: SIMEC
+Número de redes de ensino: Censo Escolar
+Forma De Disponibilização: Número de redes adesas: SIMEC, semanalmente
+Número de redes de ensino: INEP, anualmente
+Procedimento De Cálculo: número de redes adesas / número de redes de ensino existentesx100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Entrega: 1415
+Indicador: 10537
+Denominação: Percentual de unidades escolares que ofertam ensino médio apoiadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de unidades escolares de ensino médio que receberam apoio técnico e financeiro
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A/B x 100
+A: Número de escolas públicas de Ensino Médio (EM) que receberam apoio por meio do Programa Dinheiro Direto na Escola (PDDE) EM
+B: Total de escolas públicas de EM (20.401 em 2023)
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar da Educação Básica (Inep/MEC)
+Forma De Disponibilização: Censo Escolar — Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira | Inep (www.gov.br)
+Procedimento De Cálculo: Quantidade de escolas que receberam apoio técnico e financeiro dividido pelo total de escolas de ensino médio (conforme dados do Censo Escolar).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5111
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Indicador: 10531
+Denominação: IDEB do Ensino Médio para a rede pública
+Índice De Referência: 3.9
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: índice numérico
+Descrição: O Índice de Desenvolvimento da Educação Básica (Ideb) reúne, em um só indicador, os resultados de dois conceitos: o fluxo escolar e as médias de desempenho nas avaliações. A taxa de rendimento (aprovação) é obtida a partir do Censo Escolar, realizado anualmente pelo Inep. As médias de desempenho utilizadas são as médias da proficiência em língua portuguesa e matemática, padronizadas para um indicador entre 0 e 10. O Ideb é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb).
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: A divulgação do IDEB ocorre a cada dois anos (anos ímpares), sempre no mês de setembro do ano subsequente à apuração
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A x B
+A: Média de proficiência em LP e Matemática dos estudantes do 3º ano do EM de escolas públicas 
+B: Taxa de aprovação na etapa do EM dos estudantes das escolas públicas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Avaliação da Educação Básica (Saeb) e Censo Escolar
+Forma De Disponibilização: Portal do INEP (https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados )
+Procedimento De Cálculo: Realiza-se o download das planilhas: (i) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (ensino médio) – Brasil; (ii) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (ensino médio) – unidades da Federação e regiões; e (iii) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (ensino médio) – municípios, no portal do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). • Utilizam-se as variáveis: “Ideb 2005 (N x P)”, “Ideb 2007 (N x P)”, “Ideb 2009 (N x P)”, “Ideb 2011 (N x P)”, “Ideb 2013 (N x P)”, “Ideb 2015 (N x P)”, “Ideb 2017 (N x P)”, “Ideb 2019 (N x P)” e “Projeções”.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 436
+Indicador: 10525
+Denominação: IDEB dos anos finais do Ensino Fundamental para a rede pública
+Índice De Referência: 4.9
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: índice numérico
+Descrição: O Índice de Desenvolvimento da Educação Básica (Ideb) reúne, em um só indicador, os resultados de dois conceitos: o fluxo escolar e as médias de desempenho nas avaliações. A taxa de rendimento (aprovação) é obtida a partir do Censo Escolar, realizado anualmente pelo Inep. As médias de desempenho utilizadas são as médias da proficiência em língua portuguesa e matemática, padronizadas para um indicador entre 0 e 10. O Ideb é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb).
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: A divulgação do IDEB ocorre a cada dois anos (anos ímpares), sempre no mês de setembro do ano subsequente à apuração
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A x B
+A: Média de proficiência em LP e Matemática dos estudantes do 9º ano de escolas públicas 
+B: Taxa de aprovação na etapa do EF2 dos estudantes das escolas públicas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Avaliação da Educação Básica (Saeb) e Censo Escolar
+Forma De Disponibilização: Portal do INEP (https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados)
+Procedimento De Cálculo: Realiza-se o download das planilhas: (i) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (anos finais do EF e ensino médio) – Brasil; (ii) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (anos finais do EF e ensino médio) – unidades da Federação e regiões; e (iii) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (anos finais do EF e ensino médio) – municípios, no portal do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). • Utilizam-se as variáveis: “Ideb 2005 (N x P)”, “Ideb 2007 (N x P)”, “Ideb 2009 (N x P)”, “Ideb 2011 (N x P)”, “Ideb 2013 (N x P)”, “Ideb 2015 (N x P)”, “Ideb 2017 (N x P)”, “Ideb 2019 (N x P)” e “Projeções”.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 435
+Indicador: 10510
+Denominação: IDEB dos anos iniciais do Ensino Fundamental para a rede pública
+Índice De Referência: 5.5
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: índice numérico
+Descrição: O Índice de Desenvolvimento da Educação Básica (Ideb) reúne, em um só indicador, os resultados de dois conceitos: o fluxo escolar e as médias de desempenho nas avaliações. A taxa de rendimento (aprovação) é obtida a partir do Censo Escolar, realizado anualmente pelo Inep. As médias de desempenho utilizadas são as médias da proficiência em língua portuguesa e matemática, padronizadas para um indicador entre 0 e 10. O Ideb é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb).
+Período Ou Data A Que Se Refere: 31/12 do ano a que se refere o indicador
+Data De Divulgação/Disponibilização: A divulgação do IDEB ocorre a cada dois anos (anos ímpares), sempre no mês de setembro do ano subsequente à apuração
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: A x B
+A: Média de proficiência em LP e Matemática dos estudantes do 5º ano de escolas públicas 
+B: Taxa de aprovação na etapa do EF1 dos estudantes das escolas públicas
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Avaliação da Educação Básica (Saeb) e Censo Escolar
+Forma De Disponibilização: Portal do INEP (https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados )
+Procedimento De Cálculo: Realiza-se o download das planilhas: (i) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (anos iniciais do EF) – Brasil; (ii) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (anos iniciais do EF) – unidades da Federação e regiões; e (iii) Taxa de aprovação, Nota Saeb, Ideb e Projeções até 2021 (anos iniciais do EF) – municípios, no portal do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). • Utilizam-se as variáveis: “Ideb 2005 (N x P)”, “Ideb 2007 (N x P)”, “Ideb 2009 (N x P)”, “Ideb 2011 (N x P)”, “Ideb 2013 (N x P)”, “Ideb 2015 (N x P)”, “Ideb 2017 (N x P)”, “Ideb 2019 (N x P)” e “Projeções”.
+Limitações: O IDEB é mensurado bianualmente. Além disso, o IDEB não avalia outros aspectos relevantes da educação, tais como proficiência em outras áreas do conhecimento além de língua portuguesa e matemática, desenvolvimento de habilidades socioemocionais, qualidade da educação em escolas indígenas, do campo e quilombolas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 461
+Indicador: 10675
+Denominação: Número de vagas em programas para a formação continuada de professores da educação básica
+Índice De Referência: 32155.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas em programas para a formação continuada de professores da educação básica  (Proeb e especializações UAB).
+
+O indicador representa o esforço da CAPES, concretizado na concessão de vagas e no apoio à contínua ocupação das mesmas pelo público beneficiado.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador
+Data De Divulgação/Disponibilização: Mês de fevereiro do ano seguinte ao ano de referência do indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= número de vagas em programas para a formação continuada de professores da Educação Básica
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Freire, Sisuab e o ADD_Bolsas
+Forma De Disponibilização: Editais e documentos da DED
+Procedimento De Cálculo: Adição dos números de vagas, considerando CPF diferentes
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 460
+Indicador: 10662
+Denominação: Número de vagas em programas para a formação inicial de professores da educação básica
+Índice De Referência: 143845.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número de vagas em programas para a formação inicial de professores da educação básica (Pibid, PRP, Parfor, Licenciaturas UAB).
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador
+Data De Divulgação/Disponibilização: Mês de fevereiro do ano seguinte ao ano de referência do indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de licenciados beneficiados pelo Pibid
+B: número de licenciados beneficiados pelo RP
+C: Número de egressos de licenciaturas beneficiados em estágio profissional (novo Programa da CAPES)
+D: Número de docentes matriculados no âmbito do PARFOR
+E: Número de matrículas em cursos de nível superior em pedagogia ou licenciatura na UAB
+Fonte De Dados Das Variáveis De Cálculo: Plataforma Freire, Sisuab e ADD_Bolsas
+Forma De Disponibilização: Editais e documentos da DEB e DED
+Procedimento De Cálculo: Adição dos números de vagas
+Notas Explicativas: Para as matrículas cadastradas na Plataforma Freire (Pibid, RP, Parfor), é possível desagregar por sexo, raça e deficiência, pois essas informações são autodeclaradas pelos beneficiados. Para as matrículas cadastradas no SisUAB, é possível desagregar por sexo e idade. Porém, cabe ressaltar que o campo de cadastro dessas informações não é obrigatório nessas plataformas (há um número significativo de cadastros sem resposta). Para os beneficiados ingressantes por meio de editais "equidade" (política afirmativa", esse cadastro será obrigatório. A Capes também atua para aprimorar a coleta dessas informações no futuro.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 441
+Indicador: 10546
+Denominação: Número de vagas ofertadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mensura o número de vagas ofertadas em formação continuada para professores e profissionais da educação básica em educação para as relações étnico-raciais (ERE), em educação em direitos humanos (EDH) e em educação ambiental.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador
+Data De Divulgação/Disponibilização: entre os meses de janeiro/fevereiro do ano seguinte ao ano de referência do indicador.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A + B + C
+A = Vagas ofertadas em ERE (Educação para as Relações Étnico-raciais)
+B = Vagas ofertadas em EDH (Educação em Direitos Humanos) 
+C = Vagas ofertadas em Educação Ambiental
+Fonte De Dados Das Variáveis De Cálculo: SIMEC/SPO/TED - SECADI/MEC
+O indicador é extraído de informações constantes dos termos de descentralização (TED’s) com as IES, registrados no SIMEC. Permite a construção de séries históricas, está no âmbito da autonomia da gestão e tem compatibilidade entre os indicadores de formação de todas as modalidades de educação da SECADI.
+Forma De Disponibilização: site do MEC, Relatório de Gestão
+Procedimento De Cálculo: Soma das vagas ofertadas constantes dos Termos de Descentralização  realizado no ano de referência do indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 449
+Indicador: 10585
+Denominação: Número total de matrículas de estudantes em escolas do campo da educação básica
+Índice De Referência: 4862053.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mensura o número total de matrículas de estudantes em escolas do campo da educação básica
+Período Ou Data A Que Se Refere: Maio de cada ano civil
+Data De Divulgação/Disponibilização: Março do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de matrículas de estudantes em escolas do campo (Localização: Rural) da Educação Básica.
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Soma das matrículas de estudantes em escolas do campo da educação básica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 450
+Indicador: 10591
+Denominação: Número total de matrículas de estudantes em escolas indígenas da educação básica
+Índice De Referência: 275035.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Ampliar o número total de matrículas em escolas indígenas da educação básica
+Período Ou Data A Que Se Refere: Maio de cada ano civil
+Data De Divulgação/Disponibilização: Março do ano seguinte
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de matrículas de estudantes em escolas indígenas (localização diferenciada: terra indígena E modalidade Educaçao Indígena) da Educação Básica
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Considera-se as matrículas em escolas ativas, públicas e privadas, localizadas em terra indígena
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 452
+Indicador: 10598
+Denominação: Número total de matrículas de estudantes em escolas quilombolas da educação básica
+Índice De Referência: 283020.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número total de matrículas de estudantes em escolas quilombolas da educação básica
+Período Ou Data A Que Se Refere: Mês de maio de cada ano civil
+Data De Divulgação/Disponibilização: Mês de março do ano seguinte ao ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de matrículas de estudantes em escolas localizadas em comunidade quilombola (localização diferenciada: área onde se localiza comunidade de remanescente de quilombo) da Educação Básica
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Soma das matrículas de  estudantes em escolas quilombolas da educação básica.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 444
+Indicador: 10566
+Denominação: Número total de matrículas de estudantes surdos, deficientes auditivos e surdos cegos na educação básica
+Índice De Referência: 61594.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número total de matrículas de estudantes surdos, deficientes auditivos e surdos cegos na educação básica.
+Período Ou Data A Que Se Refere: Mês de maio de cada ano civil
+Data De Divulgação/Disponibilização: Mês de março do ano seguinte ao ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de matrículas de estudantes surdos, deficientes auditivos e surdos cegos na Educação Básica
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Soma das matrículas de estudantes surdos, deficientes auditivos e surdos cegos na educação básica (inclui classes comuns e classes exclusivas)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 443
+Indicador: 10553
+Denominação: Número total de matrículas em classes comuns da educação básica de alunos com deficiência, TGD e altas habilidades/ superdotação
+Índice De Referência: 1372985.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: O indicador mensura o número total de matrículas em classes comuns da educação básica de alunos com deficiência, TGD e altas habilidades/ superdotação
+Período Ou Data A Que Se Refere: Mês de maio de cada ano civil
+Data De Divulgação/Disponibilização: Mês de março do ano seguinte ao ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Indicador = A
+A = Número total de matrículas em classes comuns da Educação Básica de alunos com deficiência, Transtorno Global do Desenvolvimetno (TGD) e altas habilidades/superdotação
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Soma das matrículas de estudantes em classes comuns da educação básica de alunos com deficiência, TGD e altas habilidades/ superdotação. (inclui todas as vagas, todas idades e escolas públicas e privadas)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 448
+Indicador: 10576
+Denominação: Número total de matrículas na Educação de Jovens e Adultos
+Índice De Referência: 2774428.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Número total de matrículas na Educação de Jovens e Adultos
+Período Ou Data A Que Se Refere: Mês de maio de cada ano civil
+Data De Divulgação/Disponibilização: Mês de março do ano seguinte ao ano de referência
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número total de matrículas na Educação de Jovens e Adultos
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Soma das matrículas de Educação de Jovens e Adultos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 39
+Indicador: 8832
+Denominação: Percentual da população de 0 a 3 anos que frequenta escola/creche
+Índice De Referência: 38.7
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: %
+Descrição: O Indicador expressa o percentual da população de 0 a 3 anos de idade que frequenta a escola/creche em relação à população total dessa faixa etária.
+Período Ou Data A Que Se Refere: Segundo trimestre de cada ano civil.
+Data De Divulgação/Disponibilização: Primeira semana de julho do ano seguinte ao ano de referência.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Para identificação da população que compõe o público-alvo da meta se utiliza a idade em anos completos considerando a data de referência de 31 de março, seguindo o que estabelece a Resolução CNE/CEB nº 06, de 21 de outubro de 2010.
+
+A: População de 0 a 3 anos que frequenta a escola/creche
+B: População de 0 a 3 anos
+Fonte De Dados Das Variáveis De Cálculo: Pnad-C
+Forma De Disponibilização: https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171-pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html?=&t=microdados
+Procedimento De Cálculo: População 𝑑𝑒 0 𝑎 3 𝑎𝑛𝑜𝑠 𝑞𝑢𝑒 𝑓𝑟𝑒𝑞𝑢e𝑛𝑡𝑎 𝑎 𝑒𝑠𝑐𝑜𝑙𝑎 ou 𝑐𝑟𝑒𝑐ℎ𝑒 / População 𝑑𝑒 0 𝑎 3 𝑎𝑛𝑜s x 100.
+ Segundo o Relatório de monitoramento das metas do PNE, publicado pelo Inep/MEC, os procedimentos para cálculo são os seguintes:
+
+Cria-se a variável “idade_cne” que indica a idade que a pessoa completa até o dia 31 de março, utilizando-se as variáveis V20081 e V20082 respectivamente para mês e ano de nascimento. As pessoas que não apresentam informação sobre o mês (V20081) ou ano (V20082) de nascimento, tiveram a idade imputada de acordo com o valor conhecido da variável V20095. A variável para a idade, denominada “idade_cnei”, é a variável da idade completa até 31 de março com imputação quando for o caso. 
+ 
+• Com base na variável V30026 é criada uma variável dummy (“estuda”) igual a 1 caso a pessoa esteja frequentando a escola ou creche, e igual a 0 caso não esteja frequentando a escola ou creche. 
+ 
+• Utilizando-se do peso da pessoa na amostra (V10287), estima-se a proporção de pessoas com idade-cnei entre 0 e 3 anos que frequentam a escola/creche. 
+ 
+• Realizam-se as desagregações por: grandes regiões; unidades da federação (uf); sexo (V2007 ou V0302); raça/cor (V2010 ou V0404); local de residência (urbana ou rural - V1022 ou V4728); e rendimento mensal domiciliar per capita (VDI5008 ou V4742) para cada ano da Pnad (ano ou V0101). 
+ 
+• Para o ano de 2016 a 2022 são utilizadas as variáveis da PNAD-C equivalentes às mencionadas acima e o mesmo procedimento aqui descrito
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 439
+Indicador: 10540
+Denominação: Percentual de alunos da educação básica pública que pertencem ao público-alvo da ETI e que estão em jornada de tempo integral
+Índice De Referência: 18.2
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador é apurado para o monitoramento das metas do PNE 2014-2024 (Indicador 6A PNE)
+Período Ou Data A Que Se Refere: Mês de maio de cada ano civil (Censo Escolar)
+Data De Divulgação/Disponibilização: Primeira semana de julho do ano seguinte ao ano de referência.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A/B x 100
+A: Número de alunos de escolas públicas da educação básica presencial e que não pertencem à Educaçao de Jovens e Adultos (EJA) nem à Educação Profissional e Tecnológica (EPT) de nível médio (subsequente ou concomitante) e que estão em jornada de tempo integral
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/inep-data/painel-de-monitoramento-do-pne
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 458
+Indicador: 10641
+Denominação: Percentual de entes apoiados no PAR para infraestrutura em relação ao total de entes federados
+Índice De Referência: 28.86
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador considera a proporção de entes beneficiados com o recurso orçamentário (empenho) para infraestrutura escolar (dimensão 4 do PAR), em relação aos que solicitaram o apoio, para o ano.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência
+Data De Divulgação/Disponibilização: Última semana de janeiro do ano posterior ao empenho dos recursos.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número entes apoiados com recurso orçamentário (empenho) para infraestrutura escolar 
+B: Quantidade de entes que solicitaram apoio para ações de infraestrutura escolar
+Fonte De Dados Das Variáveis De Cálculo: SIMEC
+Forma De Disponibilização: Extração de relatórios de Planejamentos do PAR e de Obras do SIMEC.
+
+Site do FNDE: https://www.gov.br/fnde/pt-br/acesso-a-informacao/acoes-e-programas/programas/par
+Procedimento De Cálculo: Contagem de entes que receberam empenho no exercício para ações de infraestrutura escolar no âmbito do PAR; Contagem de entes que cadastraram planejamentos na dimensão de infraestrutura escolar do PAR para o ano. Realização da comparação entre os dois resultados. Necessário remover CNPJ duplicado antes da comparação, para não haver contabilização do ente mais de uma vez.
+Notas Explicativas: O apoio técnico e financeiro do FNDE prestado no âmbito do Plano de Ações Articuladas - PAR, tem caráter suplementar e voluntário pela União às redes públicas de educação básica dos Estados, do Distrito Federal e dos Municípios para destinação às unidades escolares, por isso sugerimos a contabilização dos entes federados.
+A indicação das necessidades a serem atendidas no âmbito do PAR depende das demandas apresentadas pelos entes federados na etapa de planejamento de cada ciclo, bem como da disponibilidade de recursos orçamentários, conforme disposto na Lei 12.695/2012 e Resoluções do Conselho Deliberativo do FNDE
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 465
+Indicador: 10713
+Denominação: Percentual de entes federativos com planos decenais de educação aprovados pelo poder legislativo dos respectivos entes
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Relação percentual entre o número de entes federativos com planos decenais de educação aprovados pelo poder legislativo após a aprovação do novo Plano Nacional de Educação (PNE) e o número total de entes federativos (5595)
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Última semana de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de entes federativos com Novos Planos Decenais de Educação aprovados pelo poder legislativo do respectivo ente
+B: Número de entes federativos (IBGE: 5.595)
+Fonte De Dados Das Variáveis De Cálculo: O indicador terá como fonte de informação os registros administrativos da SASE/MEC quanto ao número de entes federativos com planos decenais de educação aprovados (n) e o número oficial de entes dado pelo IBGE (N).
+Forma De Disponibilização: Ao final de cada exercício a partir dos registros administrativos da SASE.
+Procedimento De Cálculo: A partir do número de entes federativos com planos decenais de educação aprovados ao final de cada exercício se procede a divisão pelo número oficial de entes federativos no Brasil, multiplicando o resultado por 100 (cem).
+Notas Explicativas: O indicador é condcionado à aprovação pelo Congresso Nacional do novo Plano Nacional de Educação (PNE) a vigir de 2024 a 2034, visto que os planos decenais de educação de estados e municípios devem ser elaborados em consonância com o PNE.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 456
+Indicador: 10619
+Denominação: Percentual de escolas conectadas à internet banda larga
+Índice De Referência: 70.09
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: A internet é via banda larga quando possui conexão à internet com velocidade igual ou superior a 256 kbps e de forma ininterrupta, dispensando a utilização da linha telefônica e a conexão discada. A banda larga veio em substituição à internet do tipo discada (dial-up), que tem como principal característica a velocidade padrão de até 56kbps e o fato de ocupar a linha telefônica. [CONCEITO UTILIZADO PELO CENSO ESCOLAR]
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Conforme o cronograma do Censo Escolar, normalmente na última semana de janeiro do ano seguinte ao da coleta de dados.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de escolas estaduais e municipais que declararam possuir Internet Banda Larga
+B: número total de escolas
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar do INEP
+Forma De Disponibilização: Disponíveis nos microdados do Censo Escolar do INEP, na data de divulgação dos dados.
+Procedimento De Cálculo: Dos microdados do Censo Escolar do INEP, listar as escolas com Dependência municipal e estadual (categorias 2 e 3), em Situação de Funcionamento “em atividade” (categoria 1), com uma ou mais matrículas válidas na Educação Básica (categoria 1) gerando o universo (denominador) de escolas consideradas. A partir daí, listar as escolas que declararam possuir Internet Banda Larga (categoria 1, sim), gerando o numerador. Uma divisão simples revela a razão entre os dois.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 462
+Indicador: 10683
+Denominação: Percentual de escolas públicas de educação básica ativas com Conselho Escolar em funcionamento
+Índice De Referência: 72.9
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de escolas públicas de educação básica ativas com Conselho Escolar em funcionamento
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Março do ano seguinte ao ano de referência do indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de escolas públicas de educação básica ativas com Conselho Escolar
+B: Número de escolas públicas de educação básica ativas
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar (Inep/MEC)
+Forma De Disponibilização: https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados
+Procedimento De Cálculo: Número total de escolas públicas de educação básica ativas com Conselho Escolar / Número total de escola públicas de educação básica ativas x 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 454
+Indicador: 10606
+Denominação: Percentual de escolas que declaram ter acesso à Internet para uso nos processos de ensino e aprendizagem
+Índice De Referência: 56.26
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Indicador de taxa de escolas que declaram ter acesso à Internet para uso nos processos de ensino e aprendizagem no Censo Escolar do INEP.
+Período Ou Data A Que Se Refere: Janeiro a dezembro.
+Data De Divulgação/Disponibilização: Conforme o cronograma do Censo Escolar, normalmente na última semana de janeiro do ano seguinte ao da coleta de dados.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de escolas com dependência municipal e estadual em atividade que declararam utilizar Internet para uso nos processos de ensino e aprendizagem
+Fonte De Dados Das Variáveis De Cálculo: Censo Escolar/Inep.
+Forma De Disponibilização: Disponíveis nos microdados do Censo Escolar do Inep, na data de divulgação dos dados.
+Procedimento De Cálculo: (Número de escolas que informaram ter internet para os processos de ensino e aprendizagem / Número total de escolas Municipais e Estaduais, em situação “ativa”) x 100
+Dos microdados do Censo Escolar do INEP, listar as escolas com Dependência municipal e estadual (categorias 2 e 3), em Situação de Funcionamento “em atividade” (categoria 1), gerando o universo (denominador) de escolas consideradas. A partir daí, listar as escolas que declararam possuir Acesso à Internet - Para uso nos processos de ensino e aprendizagem (categoria 1, sim), gerando o numerador. Uma divisão simples revela a razão entre os dois.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 433
+Indicador: 10491
+Denominação: Percentual de estudantes alfabetizados ao final do 2º Ano do ensino fundamental
+Índice De Referência: 43.6
+Em Apuração: Não
+Data De Apuração: 2021-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: A pesquisa Alfabetiza Brasil desenvolvida pelo INEO em 2023 levou à definição de um padrão associado a habilidades básicas de leitura e de escrita que foram desenvolvidas por um estudante alfabetizado, próximo do que é, hoje, estabelecido pelos sistemas de avaliação de estados e municípios. O percentual de estudantes alfabetizados será identificado a partir dos resultados do Saeb a ser aplicado nacionalmente, de maneira amostra, aos alunos do 2º ano do Ensino Fundamental.
+Período Ou Data A Que Se Refere: Dois anos anteriores à aplicação da prova do Saeb para o 2º ano do Ensino Fundamental.
+Data De Divulgação/Disponibilização: Setembro do ano subsequente à aplicação da prova do Saeb de 2º ano.
+Periodicidade: Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de crianças matriculados no 2º ano do EF com desempenho em LP igual ou superior a 743 pontos no SAEB
+B: Número de crianças matriculados no 2º ano do EF
+Fonte De Dados Das Variáveis De Cálculo: Fonte: Alfabetiza Brasil, Saeb/Inep
+Forma De Disponibilização: INEP
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Indicador: 10627
+Denominação: Percentual de municípios atendidos por pelo menos quatro dos seguintes programas do FNDE: PAR, Pnate, PDDE, PNAE e PNLD
+Índice De Referência: 94.02
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: [Quantidade dos municípios atendidos por pelo menos quatro dos seguintes programas do FNDE: PAR, Pnate, PDDE, PNAE e PNLD/ 5570 (total de municípios brasileiros)]x100
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência
+Data De Divulgação/Disponibilização: Fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número de municípios atendidos por pelo menos 4 dos seguintes programas: PAR, Pnate, Programa Dinheiro Direto na Escola (PDDE), PNAE e PNLD
+B: Total de municípios (5.570)
+Fonte De Dados Das Variáveis De Cálculo: SIGEF/DIFIN e CGPLI – FNDE
+Forma De Disponibilização: Extração de Base de dados do SIGEF pela TI/CGEOF-FNDE (PAR, Pnate, PDDE, PNAE), mais os municípios atendidos pelo PNLD (CGPLI/FNDE) e tratamento por planilha CGPLO/CGEDI-FNDE, entre janeiro e fevereiro do ano subsequente.
+Procedimento De Cálculo: Contagem dos municípios atendidos pelos programas PAR, Pnate, PDDE, PNAE e PNLD, sendo que a extração da base do SIGEF apresentará dados dos programas PAR, Pnate, PDDE e  PNAE, e a CGPLI/FNDE apresentará os dados para o PNLD.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 466
+Indicador: 10721
+Denominação: Percentual de realização de pesquisas, exames e avaliações da educação básica, conforme planejamento anual
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador sintetiza o percentual de atingimento das metas previstas nas 3 entregas, referentes à realização dos exames, avaliações e pesquisas educacionais, conforme planejamento anual.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano de referência do indicador.
+Data De Divulgação/Disponibilização: Fevereiro do ano seguinte ao ano de referência do indicador
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Número de pesquisas, exames e avaliações da educação básica realizados no ano 
+B = Número de pesquisas, exames e avaliações da educação básica previstos para o ano
+Fonte De Dados Das Variáveis De Cálculo: Inep/MEC
+Forma De Disponibilização: O indicador será disponibilizado nos eventos de monitoramento do PPA
+Procedimento De Cálculo: O cálculo é realizado dividindo-se a quantidade dos exames, avaliações e pesquisas realizadas pela quantidade de exames, avaliações e pesquisas previstas para cada uma das entregas 1, 2 e 3, multiplicando-se, em seguida, por 100 (cem), resultando em um valor dado em percentual, com valor máximo de 100%.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 463
+Indicador: 10705
+Denominação: Relação percentual entre o rendimento bruto médio mensal dos profissionais do magistério das redes públicas da educação básica, com nível superior completo, e o rendimento bruto médio mensal dos demai
+Índice De Referência: 82.6
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador representa a razão (expressa como um percentual, ou seja, uma fração de 100) entre o rendimento bruto médio mensal dos profissionais do magistério das redes públicas de educação básica com nível de instrução superior completo e o rendimento bruto médio mensal dos demais profissionais com algum vínculo empregatício e com mesmo nível de instrução. O indicador pode variar de 0% a valores superiores a 100%. O percentual de 100% expressa que a média salarial mensal dos profissionais do magistério e dos demais profissionais é equivalente (Fonte: Inep, 2020, p. 540, disponível em <https://download.inep.gov.br/publicacoes/institucionais/plano_nacional_de_educacao/relatorio_do_quarto_ciclo_de_monitoramento_das_metas_do_plano_nacional_de_educacao.pdf>)
+
+O indicador proposto é atualmente utilizado para aferir a Meta 17 do PNE 2014-2024, sendo a melhor fonte hoje disponível para verificação da evolução da a valorização dos profissionais do magistério público da educação.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Mês de junho
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Rendimento bruto médio mensal dos profissionais do magistério das redes públicas de educação básica, com nível de instrução superior completo
+B: Rendimento bruto médio mensal dos demais profissionais assalariados, com nível de instrução superior completo
+Fonte De Dados Das Variáveis De Cálculo: Indicador é apurado anualmente pelo Inep de acordo com os dados da PNAD contínua e publicado no Painel de Monitoramento do PNE e no Relatórios de Monitoramento do PNE 2014-2024.
+PNAD contínua (IBGE)
+Forma De Disponibilização: Relatório de Monitoramento do PNE (https://www.gov.br/inep/pt-br/areas-de-atuacao/gestao-do-conhecimento-e-estudos-educacionais/estudos-educacionais/relatorios-de-monitoramento-do-pne)
+
+Painel de Monitoramento do PNE (https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/inep-data/painel-de-monitoramento-do-pne)
+Procedimento De Cálculo: O procedimento de cálculo se encontra descrito na Ficha Técnica do indicador 17A da meta 17 do PNE 2014-2024 (Inep 2022, p. 539-542). Disponível em: https://download.inep.gov.br/publicacoes/institucionais/plano_nacional_de_educacao/relatorio_do_quarto_ciclo_de_monitoramento_das_metas_do_plano_nacional_de_educacao.pdf
+Limitações: O indicador pode variar positivamente ou negativamente a depender do que ocorre com a massa salarial dos profissionais da educação e com a massa salarial dos demais profissionais de ensino superior. Desse modo, a elevação do indicador pode decorrer da redução da massa salarial dos demais profissionais de nível superior, não necessariamente representando ganho na massa salarial dos profissionais do magistério.
+Notas Explicativas: Recomenda-se que o indicador seja cotejado com as curvas do rendimento bruto médio mensal dos profissionais da educação e dos demais profissionais de nível superior.
+
+O MEC manifesta-se pela manutenção do OE e suas entregas relacionadas (apoio técnico aos municípios e aos estados para estruturação ou revisão dos PCRs);
+Já há MIN cadastrada que colabora com o OE: "Aperfeiçoamento da Lei nº 11.738..."
+
+Sugestão de nova redação do OE: "Apoiar os entes federados na estruturação ou revisão de planos de carreira e remuneração, principalmente no que se refere ao cumprimento do piso salarial profissional nacional e à garantia da hora-atividade na jornada de trabalho."
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5111
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 39
+Enunciado: Ampliar o acesso à Educação Infantil (creches e pré-escolas) por meio da expansão das matrículas com qualidade e equidade visando garantir o direito à educação e a redução das desigualdades, priorizando grupos vulneráveis em sua diversidade, em cumprimento ao Plano Nacional de Educação.
+Descrição: Ampliar o acesso à Educação Infantil (creches e pré-escolas) por meio da expansão das matrículas com qualidade e equidade visando garantir o direito à educação e a redução das desigualdades, priorizando grupos vulneráveis em sua diversidade, em cumprimento ao Plano Nacional de Educação.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 433
+Enunciado: Garantir, por meio do regime de colaboração com os entes federativos, a alfabetização das crianças até o final do 2º ano do Ensino Fundamental e a recomposição das aprendizagens na alfabetização do 3º ao 5º ano dessa etapa.
+Descrição: Garantir, por meio do regime de colaboração com os entes federativos, a alfabetização das crianças até o final do 2º ano do Ensino Fundamental e a recomposição das aprendizagens na alfabetização do 3º ao 5º ano dessa etapa.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 435
+Enunciado: Garantir, por meio do regime de colaboração com os entes federativos, a aprendizagem do 3º ao 5º ano do Ensino Fundamental, visando à recomposição das aprendizagens que foram prejudicadas pelo período da pandemia da COVID-19 e à garantia do direito à aprendizagem.
+Descrição: Garantir, por meio do regime de colaboração com os entes federativos, a aprendizagem do 3º ao 5º ano do Ensino Fundamental, visando à recomposição das aprendizagens que foram prejudicadas pelo período da pandemia da COVID-19 e à garantia do direito à aprendizagem.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 436
+Enunciado: Melhorar a qualidade da educação nos anos finais do Ensino Fundamental, com vistas à promoção de um ensino significativo, acolhedor e equitativo para os adolescentes, que favoreça o desenvolvimento pleno de suas potencialidades.
+Descrição: Melhorar a qualidade da educação nos anos finais do Ensino Fundamental, com vistas à promoção de um ensino significativo, acolhedor e equitativo para os adolescentes, que favoreça o desenvolvimento pleno de suas potencialidades.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 438
+Enunciado: Melhorar o acesso, a permanência e o desempenho dos estudantes de Ensino Médio mediante o apoio às redes de ensino para o fortalecimento da Política Nacional do Ensino Médio, em articulação com os entes federados.
+Descrição: Melhorar o acesso, a permanência e o desempenho dos estudantes de Ensino Médio mediante o apoio às redes de ensino para o fortalecimento da Política Nacional do Ensino Médio, em articulação com os entes federados.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 439
+Enunciado: Percentual de alunos da educação básica pública que pertencem ao público-alvo da ETI e que estão em jornada de tempo integral.
+Descrição: Ampliar o número de matrículas em tempo integral em todas as etapas e modalidades da educação básica por meio do Programa Escola em Tempo Integral, visando a redução da desigualdade e priorizando os grupos mais vulnerabilizados.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 441
+Enunciado: Promover ações para o reconhecimento e valorização da diversidade a partir do apoio à formação em educação para as relações étnico-raciais, em educação em direitos humanos e em educação ambiental na escola.
+Descrição: Promover ações para o reconhecimento e valorização da diversidade a partir do apoio à formação em educação para as relações étnico-raciais, em educação em direitos humanos e em educação ambiental na escola.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 443
+Enunciado: Promover, em colaboração com os sistemas de ensino, políticas para a Educação Especial na perspectiva Inclusiva
+Descrição: Promover, em colaboração com os sistemas de ensino, políticas para a Educação Especial na perspectiva Inclusiva
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 444
+Enunciado: Promover, em colaboração com os sistemas de ensino, políticas para a Educação Bilingue de Surdos.
+Descrição: Promover, em colaboração com os sistemas de ensino, políticas para a Educação Bilingue de Surdos
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 448
+Enunciado: Promover, em colaboração com os sistemas de ensino, políticas para a Educação de Jovens e Adultos na Educação Básica.
+Descrição: Promover, em colaboração com os sistemas de ensino, políticas para a Educação de Jovens e Adultos
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 449
+Enunciado: Promover, em colaboração com os sistemas de ensino, políticas para a Educação escolar do Campo
+Descrição: Promover, em colaboração com os sistemas de ensino, políticas para a Educação escolar do Campo
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 450
+Enunciado: Promover, em colaboração com os sistemas de ensino, políticas para a Educação escolar indígena
+Descrição: Promover, em colaboração com os sistemas de ensino, políticas para a Educação escolar indígena
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 452
+Enunciado: Promover, em colaboração com os sistemas de ensino, políticas para a Educação escolar quilombola
+Descrição: Promover, em colaboração com os sistemas de ensino, políticas para a Educação escolar quilombola
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 454
+Enunciado: Inserir a educação digital nos ambientes escolares, em todos os níveis e modalidades, e fomentar o uso pedagógico de tecnologias digitais na educação básica.
+Descrição: Inserir a educação digital nos ambientes escolares, em todas as etapas e modalidades, e fomentar o uso pedagógico de tecnologias digitais na Educação Básica.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 456
+Enunciado: Prover acesso à internet banda larga, e a equipamentos para a utilização pedagógica nas escolas da rede pública de educação básica, inclusive em escolas do campo, indígenas e quilombolas.
+Descrição: Prover acesso à internet banda larga, e a equipamentos para a utilização pedagógica nas escolas da rede pública de educação básica, inclusive em escolas do campo, indígenas e quilombolas.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 457
+Enunciado: Prestar assistência financeira, técnica e material às escolas das redes públicas da educação básica, por meio de programas suplementares de educação, fortalecendo os critérios equitativos desses programas de forma a reduzir a desigualdade entre os sistemas educacionais, promovendo a equidade, valorizando a diversidade e considerando as especificidades locais e dos estudantes.
+Descrição: Prestar assistência financeira, técnica e material às escolas das redes públicas da educação básica, por meio de programas suplementares de educação, fortalecendo os critérios equitativos desses programas de forma a reduzir a desigualdade entre os sistemas educacionais, promovendo a equidade, valorizando a diversidade e considerando as especificidades locais e dos estudantes.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 458
+Enunciado: Apoiar técnica, pedagógica e financeiramente a rede física escolar da educação básica pública para construção, reforma, ampliação e aquisição de equipamentos e mobiliário, garantindo condições adequadas de funcionamento, acessibilidade e sustentabilidade socioambiental e atendendo às demandas e especificidades das etapas e modalidades da educação básica, considerando, inclusive, as populações do campo, quilombolas, indígenas, pessoas com deficiência, pessoas surdas, a educação de jovens e adulto
+Descrição: Apoiar técnica, pedagógica e financeiramente a rede física escolar da educação básica pública para construção, reforma, ampliação e aquisição de equipamentos e mobiliário, garantindo condições adequadas de funcionamento, acessibilidade e sustentabilidade socioambiental e atendendo às demandas e especificidades das etapas e modalidades da educação básica, considerando, inclusive, as populações do campo, quilombolas, indígenas, pessoas com deficiência, pessoas surdas, a educação de jovens e adultos e a ampliação gradativa da educação em tempo integral.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 460
+Enunciado: Oferecer aos que almejam a carreira do magistério, aos licenciandos e aos professores e profissionais da educação básica em exercício a formação inicial, por meio de graduações e cursos sequenciais ofertados de forma presencial e a distância.
+Descrição: Oferecer aos que almejam a carreira do magistério, aos licenciandos e aos professores e profissionais da educação básica em exercício a formação inicial, por meio de graduações e cursos sequenciais ofertados de forma presencial e a distância.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 461
+Enunciado: Oferecer aos professores e profissionais da educação básica a formação continuada por meio de especializações, mestrados e doutorados, ofertados de forma presencial e a distância.
+Descrição: Oferecer aos professores e profissionais da educação básica a formação continuada por meio de especializações, mestrados e doutorados, ofertados de forma presencial e a distância.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 462
+Enunciado: Fortalecer a gestão democrática e participativa, em articulação intersetorial com os sistemas de ensino, na elaboração, implementação e acompanhamento das políticas públicas voltadas para a garantia da educação básica e dos demais direitos das crianças, adolescentes, jovens e adultos.
+Descrição: Fortalecer a gestão democrática e participativa, em articulação intersetorial com os sistemas de ensino, na elaboração, implementação e acompanhamento das políticas públicas voltadas para a garantia da educação básica e dos demais direitos das crianças, adolescentes, jovens e adultos.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 463
+Enunciado: Promover, em articulação com os sistemas de ensino estaduais e municipais, a valorização dos profissionais do magistério público da educação, apoiando e estimulando a estruturação ou revisão de planos de carreira e remuneração, principalmente no que se refere ao cumprimento do piso salarial profissional nacional e à garantia da hora-atividade na jornada de trabalho.
+Descrição: Promover, em articulação com os sistemas de ensino estaduais e municipais, a valorização dos profissionais do magistério público da educação, apoiando e estimulando a estruturação ou revisão de planos de carreira e remuneração, principalmente no que se refere ao cumprimento do piso salarial profissional nacional e à garantia da hora-atividade na jornada de trabalho.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 465
+Enunciado: Apoiar o desenvolvimento de capacidades estatais dos entes federativos para planejamento e gestão de políticas educacionais.
+Descrição: Apoiar o desenvolvimento de capacidades estatais dos entes federativos para planejamento e gestão de políticas educacionais.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Objetivo Específico: 466
+Enunciado: Realizar levantamentos estatísticos, exames e avaliações para a Educação Básica, buscando o aprimoramento contínuo e a disseminação das informações de forma a oferecer subsídios que contribuam para a indução da melhoria do ensino ofertado.
+Descrição: Realizar levantamentos estatísticos, exames e avaliações para a Educação Básica, buscando o aprimoramento contínuo e a disseminação das informações de forma a oferecer subsídios que contribuam para a indução da melhoria do ensino ofertado.
+Órgão: 26000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5111
+
+Exercício: 2025
+Programa: 5111
+Objetivo: 1281
+Enunciado: Elevar a qualidade e promover a equidade em todas as etapas e modalidades da Educação Básica, em regime de colaboração com os sistemas de ensino, valorizando os profissionais da Educação Básica, promovendo o acesso, a permanência, a conclusão de suas etapas, a trajetória regular e a aprendizagem em níveis adequados, com vistas à superação das desigualdades e à valorização da diversidade, na perspectiva do desenvolvimento integral, da inclusão, da sustentabilidade e da justiça social, em consonância com o Plano Nacional de Educação.
+Descrição: Elevar a qualidade e promover a equidade em todas as etapas e modalidades da Educação Básica, em regime de colaboração com os sistemas de ensino, valorizando os profissionais da Educação Básica, promovendo o acesso, a permanência, a conclusão de suas etapas, a trajetória regular e a aprendizagem em níveis adequados, com vistas à superação das desigualdades e à valorização da diversidade, na perspectiva do desenvolvimento integral, da inclusão, da sustentabilidade e da justiça social, em consonância com o Plano Nacional de Educação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5111
+
+Exercício: 2025
+Programa: 5111
+Título: Educação Básica Democrática, com qualidade e equidade
+Tipo: Finalístico
+Órgão: 26000.0
+Público-Alvo: • Pessoas em idade escolar;
+• Pessoas que não acessaram ou não concluíram a educação básica em idade escolar;
+• Profissionais da educação básica;
+• Comunidade escolar;
+• Com atenção especial para as seguintes populações, tais como: campo, povos indígenas, comunidades quilombolas, pessoas com deficiência, TEA, altas habilidades/superdotação e surdos;
+• Com atenção especial para os seguintes marcadores de desigualdade, tais como: nível socioeconômico, cor/raça, gênero e orientação sexual.
+Descrição Do Problema: Declínio na qualidade da educação básica, com níveis de aprendizagem e desempenho insatisfatórios; persistência de desigualdades/iniquidades quanto ao acesso, permanência e conclusão dos estudantes nas etapas e modalidades de ensino.
+Causa Do Problema: •	Insuficiência de oferta de vagas em creches e pré-escolas;
+•	Carência de práticas pedagógicas voltadas à alfabetização de crianças na idade certa;
+•	 Defasagem idade-série;
+•	Dificuldades na implementação do Novo Ensino Médio;
+•	Baixa oferta da educação em tempo integral;
+•	Implementação insuficiente da educação para as relações étnico-raciais, história e cultura afro-brasileira e indígena, ed. ambiental para a sustentabilidade e ed. para direitos humanos;
+•	Violência nas escolas;
+•	Ausência de ferramentas de inclusão;
+•	 Pessoas com deficiência, TEA, altas habilidades/superdotação, surdos, indígenas, quilombolas, negros, população LGBTQI+ e outros grupos/estudantes sem acesso, permanência e qualidade na educação básica, invisíveis na média (estatística estudantil);
+•	Formação inadequada em áreas específicas;
+•	Inadequação da infraestrutura escolar considerando a acessibilidade e as especificidades das diferentes modalidades da educação básica;
+•	 Falta de conectividade nas escolas;
+•	Dificuldade no acesso de ferramentas tecnológicas, inclusive internet;
+•	Necessidade de aprimoramento dos programas suplementares de educação, seguindo parâmetros de equidade e valorizando a diversidade;
+•	 insuficiente acesso ao transporte escolar público pela maioria dos estudantes brasileiros residentes em área rural
+•	Falta de infraestrutura nas escolas;
+•	Formação inicial e continuada inadequada e/ou ineficiente;
+•	Carência de profissionais - quanti/quali;
+•	 Falta de estrutura de apoio aos professores;
+•	Baixa Participação da família na escola e na vida escolar;
+•	Ineficácia da Gestão democrática e falta de apoio aos conselhos escolares;
+•	Baixa participação de instâncias colegiadas de participação social;
+•	Insuficiência de articulação interfederativa;
+•	Problemas de gestão;
+•	Ineficiência das capacidades estatais dos entes federativos;
+•	Atividade docente desvalorizada e pouco atrativa;
+•	Falta de valorização dos docentes, qualificação e investimentos na carreira;
+•	Necessidade de aprimoramento no levantamento e disseminação de informações estatísticas sobre a educação básica;
+•	Necessidade de aplicação e aprimoramento dos exames e avaliações da educação básica .
+Evidências Do Problema: A meta 1 do PNE estabelece que a cobertura de educação infantil no Brasil deve ser ampliada de modo que, até o final da vigência do plano, seja alcançada a universalização do atendimento na faixa etária de 4 a 5 anos de idade e, de outro, a cobertura de, pelo menos, 50% das crianças de 0 a 3 anos de idade.
+Em 2019, o Brasil alcançou a cobertura de 37,0% das crianças de 0 a 3 anos em escola/creche, o que representa cerca de 3,9 milhões de crianças atendidas. A Meta 1 do PNE, para ser alcançada, implica que cerca de 1,4 milhões de crianças de 0 a 3 precisam ser incluídas em creche no Brasil até 2024. O indicador de desigualdade de acesso à creche entre os 20% mais pobres e os 20% mais ricos da população de 0 a 3 anos chega, em 2019, a 27,3 p.p., muito acima, portanto, do que estabelece a Estratégia 1.2 do PNE (10,0 p.p.). Embora o Indicador aponte para um crescimento da cobertura durante o período do PNE, não é possível saber como a pandemia de covid-19 terá afetado a frequência escolar da população de 0 a 3 anos em 2020 e 2021, visto não existirem dados da Pnad-c sobre a frequência escolar da população nessa faixa etária para aquele biênio. A análise tendencial do Indicador 1B sugere que, até 2024, o Brasil não deve ultrapassar o índice de 45% de cobertura de 0 a 3 anos, ficando aquém do que estabelece o PNE. Dados divulgados em junho/2023 pelo INEP/MEC apontam que o percentual da população de 0 a 3 anos que frequentam escola/creche foi de 37,3% em 2022.
+
+GRÁFICO 1 – Percentual da população de 0 a 3 anos que frequentava a escola ou creche – Brasil – 2013 e 2022 (anexo)
+
+Já na faixa de 4 a 5 anos, o número de crianças frequentando escola ou creche entre 2013 e 2019 praticamente não variou, ficando em torno de 5 milhões de atendidos. Portanto, a melhora da taxa de atendimento, que alcançou 94,1% em 2019, se deve mais à queda na população de 4 a 5 anos do que ao aumento da oferta. Para se atingir a Meta 1 do PNE, é necessária a inclusão de cerca de 300 mil crianças de 4 a 5 anos em pré-escola. A Meta 1 de universalização da pré-escola para o ano de 2016 não foi alcançada. A análise tendencial do Indicador 1A entre 2004 e 2019 sugere que a meta pode ser alcançada entre 2020 e 2024. Contudo o impacto da pandemia nos anos de 2020 e 2021 pode ter revertido os avanços, como sugerem as estimativas de frequência escolar da população de 5 anos para os anos de 2020 e 2021.  Dados divulgados em junho/2023 pelo INEP/MEC apontam que o percentual da população de 4 e 5 anos que frequentam escola/creche foi de 93% em 2022.
+A ausência de dados de escolarização para a população de 0 a 4 anos de idade para os anos de 2020 e 2021 não permite que os indicadores de cobertura da Meta 1 sejam aferidos para aqueles anos. Contudo, é possível verificar o que ocorreu com a escolarização das crianças de 5 anos durante a pandemia e, assim, avaliar o provável impacto da pandemia para os demais grupos no indicador de cobertura. A cobertura no atendimento de crianças de 5 anos caiu dramaticamente, chegando a 84,9% em 2021, patamar muito inferior ao estimado em 2019 (97,2%) e abaixo da linha de base do PNE em 2013 (90,9%). É de se esperar que o mesmo tenha ocorrido para o grupo de 0 a 4 anos, impactando, assim, negativamente a trajetória de crescimento dos Indicadores. Permanece a necessidade de políticas para estimular os municípios a atenderem com prioridade, em creches, as crianças do grupo de renda mais baixa, em virtude da maior demanda nesse grupo.
+
+GRÁFICO 2 – Percentual da população de 4 a 5 anos que frequentava a escola ou creche – Brasil – 2013-2019 e 2022 (anexo)
+
+Alfabetização de crianças
+
+O monitoramento da Meta 5 do PNE passa a utilizar, a partir de 2019, indicadores adaptados provindos da avaliação do Saeb para o 2º ano do ensino fundamental pautados pelos resultados de alfabetização e letramento em Língua Portuguesa e Matemática. Em relação à proficiência em Língua Portuguesa, os resultados da avaliação do 2º ano do ensino fundamental do Saeb 2019 apontam que cerca de 40% dos estudantes apresentam proficiência localizada nos níveis 5 (nível da média nacional) e 6 da escala, cerca de 15% nos dois níveis mais elevados (7 e 8) e aproximadamente 11% nos níveis mais elementares (1 e 2). Nota-se ainda que há cerca de 4,6% dos estudantes cuja proficiência em Língua Portuguesa está situada abaixo do nível 1, indicando que eles provavelmente não dominam qualquer uma das habilidades específicas do 2º ano do ensino fundamental que compuseram a avaliação, nem sequer aquelas de menor complexidade do nível 1. Analisando-se os resultados pelas grandes regiões do País e suas unidades federativas, é possível observar significativas desigualdades. Enquanto a concentração de estudantes nos níveis 5 e 6 da escala de Língua Portuguesa foi de cerca de 47,5%, 41,6% e 41,5% nas regiões Sul, Sudeste e Centro-Oeste, respectivamente, os resultados são menores nas regiões Norte (31%) e Nordeste (36,4%). Nos dois níveis mais elevados da escala (7 e 8), os percentuais de alunos variam de cerca de 18% no Sudeste e no Sul a 7,6% no Norte.
+Quanto à proficiência em Matemática, a avaliação demonstrou que aproximadamente 33% dos estudantes se encontram nos níveis 5 e 6. Cerca de 17% têm proficiência localizada nos níveis 7 e 8, os mais elevados da escala, enquanto cerca de 13% apresentam proficiência localizada nos dois primeiros níveis (1 e 2). Verifica-se, ainda, que 2,8% desses estudantes estão situados abaixo do nível 1, o que indica que eles provavelmente não dominam nenhuma das habilidades mensuradas pela avaliação. No tocante às regiões do País e às unidades federativas, observam-se significativas disparidades. O percentual de alunos situados nos níveis 5 e 6 nas regiões Sul (38%), Sudeste (34,3%) e Centro-Oeste (32,9%) foi superior ao das regiões Norte (28%) e Nordeste (29%). Nos níveis 7 e 8, o Sudeste (19,5%) e o Sul (18,8%) foram seguidos por Nordeste (15,5%), Centro-Oeste (14%) e Norte (12,3%). Já nos níveis mais baixos da escala (1 e 2), constata-se que a região Norte contabilizou o maior percentual de alunos (18,7%), quase o dobro da região Sul (9,5%). Abaixo do nível 1, estão posicionados 4,2% dos estudantes nas regiões Norte e Nordeste, pouco mais de 2% nas regiões Sudeste e Centro-Oeste e 1,2% na região Sul.
+Para além desses dados, o INEP conduziu pesquisa (Pesquisa Alfabetiza Brasil) com professores alfabetizadores de todo o Brasil para definir referenciais de alfabetização – isto é, em que nível se considera que uma criança está alfabetizada. De acordo com esses referenciais, houve queda no percentual de estudantes alfabetizados ao final do 2º Ano do ensino fundamental. Em 2019 eram 60,3% das crianças alfabetizadas, passando para 43,6% alfabetizadas em 2021.
+
+GRÁFICO 3 – Distribuição dos estudantes pelos padrões – Brasil – Saeb 2019 e 2021 (anexo)
+
+Ensino Fundamental
+
+O Brasil retrocedeu na cobertura educacional da população de 6 a 14 anos de idade de 98%, em 2020, para 95,9%, em 2021, reflexo da crise escolar causada pela pandemia de covid-19. Esse recuo ocorrido em apenas um ano, representa, em perspectiva histórica, um retrocesso de cerca de dez anos no indicador, visto que, para 2011, ele foi estimado em 96,1% (Brasil. Inep, 2019). Tal retrocesso coloca o indicador de cobertura em um patamar inferior à linha de base do PNE de 2013, quando o índice estimado foi de 96,9%. Em números absolutos, o quantitativo de crianças e jovens de 6 a 14 anos fora da escola sem o ensino fundamental concluído alcança, em 2021, a marca de pouco mais de um milhão, um patamar próximo ao estimado para o ano de 2011. Os efeitos da pandemia sobre a cobertura escolar no ensino fundamental foram sentidos em todas as regiões e estados da Federação. Entre as 27 unidades da Federação, 21 obtiveram, em 2021, indicador de cobertura inferior ao da linha de base estimada em 2013. Dados divulgados em junho/2023 pelo INEP/MEC apontam que o Percentual da população de 6 a 14 anos que frequenta ou que já concluiu o ensino fundamental alcançou 96,3% em 2022.
+
+GRÁFICO 4 – Percentual da população de 6 a 14 anos que frequentava ou que já tinha concluído o ensino fundamental – Brasil – 2013-2022 (anexo)
+
+Ensino Médio
+
+O primeiro objetivo da Meta 3 do PNE é alcançar a universalização do acesso à escola para a população de 15 a 17 anos, o que deveria ter ocorrido até 2016. Cinco anos depois desse prazo, isso ainda não foi concretizado: em 2021, 95,3% dos jovens de 15 a 17 anos de idade frequentavam a escola ou possuíam a educação básica completa. Dados divulgados em junho/2023 pelo INEP/MEC apontam que esse índice caiu para 94,4% em 2022.
+
+GRÁFICO 5 – Percentual da população de 15 a 17 anos que frequentava a escola ou havia concluído a educação básica – Brasil – 2013-2022 (anexo)
+
+A Meta 3 do PNE também busca integrar a adequação idade-ano escolar estabelecendo que, pelo menos, 85% dos adolescentes dessa faixa etária estejam matriculados no ensino médio. O caminho para o alcance de tal objetivo ainda é longo: em 2022, com base na Pnad Contínua, a estimativa para o indicador 3B é de que 76,7%. dos jovens de 15 a 17 anos de idade estavam frequentando ou já tinham concluído a educação básica, índice 8,3 p.p. abaixo da meta de 85%. 
+
+GRÁFICO 6 – Percentual da população de 15 a 17 anos que frequentava o ensino médio ou havia concluído a educação básica – Brasil – 2013-2022 (anexo)
+O detalhamento das evidências relativas a modalidades de ensino, infraestrutura escolar, gestão, fluxo, conectividade e formação dos profissionais consta do arquivo anexo ao SIOP, intitulado “Educação Básica – SIOP – anexo” e complementa as informações consignadas neste campo.
+Justificativa Para A Intervenção: A atuação do governo federal, por meio do Ministério da Educação, para combater o problema do declínio da qualidade da educação básica está ancorada nos preceitos da Constituição Federal (art. 205 a 215 e 231) e da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), e justifica-se pelo evidente retrocesso nos níveis de cobertura educacional e de aprendizagem causados, sobremaneira, pelo período pandêmico. Assim, faz-se necessário o desenvolvimento de estratégias para a recomposição das aprendizagens; diminuição da distorção idade-série; elevação da frequência escolar e redução dos índices de evasão e de abandono escolar; bem como ações para superação das desigualdades, avanço do desempenho e da promoção escolar em todas as etapas e modalidades.
+Evolução Histórica: Entre 2003 e 2016, o governo federal investiu fortemente na educação da população brasileira, desenvolvendo políticas públicas com base em uma visão sistêmica da educação, com iniciativas da creche à pós-graduação. Antigos programas foram ampliados e aperfeiçoados, ao passo que novos foram criados. Os programas educacionais existentes, até então fortemente centrados no ensino fundamental, foram aperfeiçoados e ampliados para todas as etapas da educação básica, como é o caso da alimentação e transporte escolar, além do livro didático. Ao mesmo tempo, novos e relevantes programas foram criados, a exemplo do Proinfância, do Caminho da Escola e do Brasil Alfabetizado, no âmbito da educação básica. 
+Um novo padrão de relacionamento entre a União e os governos estaduais, distrital e municipais foi estabelecido com o Plano de Ações Articuladas (PAR), trazendo uma lógica de apoio prioritário aos entes federados que mais precisam e mais transparência aos repasses de recursos discricionários do governo federal, materializando a cooperação federativa em educação. Importante mencionar, ainda, a entrada na agenda pública de temas estratégicos como a inclusão educacional das pessoas com deficiência e a valorização da diversidade humana, com a implementação de políticas de cotas, entre outras medidas. Merece registro a ampla e democrática discussão em torno da construção do Plano Nacional de Educação 2014-2024, que trouxe 20 metas e uma série de estratégias para a educação básica em todas as suas etapas e para a educação superior, além das modalidades de ensino do país.
+Contudo, todas essas conquistas foram comprometidas. Entre 2019 e 2022, o Ministério da Educação (MEC) e suas autarquias passaram por fortes retrocessos institucionais, orçamentários e normativos. Esse período foi marcado pela falta de planejamento; descontinuidade de políticas relevantes; desarticulação com os sistemas de ensino estaduais e municipais; incapacidade de execução orçamentária; e omissões perante os desafios educacionais brasileiros. A educação foi duramente atingida por um governo que fugiu às pautas fundamentais da educação, promovendo um verdadeiro desmonte das políticas públicas em curso e colocando na pauta temas ultraconservadores. Associado a isso, veio a tragédia da pandemia da Covid-19, cujos efeitos foram ainda mais severos juntos aos estudantes e profissionais da educação brasileiros pelo descaso do governo. 
+A atenção da nova gestão do Ministério da Educação deverá voltar os olhos para o enfrentamento dos efeitos da pandemia na educação. Uma política nacional, coordenada pelo MEC em pactuação com os estados e municípios, universidades, institutos federais e demais redes, com foco no combate à evasão escolar, garantia da segurança alimentar, acesso à tecnologia e conectividade, e recomposição das aprendizagens é uma das principais prioridades. Outros temas, como a revisão das políticas de alfabetização, de formação de professores e do chamado novo ensino médio, também estão incluídos entre as prioridades para o início da nova gestão. (Fonte: Relatório do Grupo Técnico de Educação - Comissão de Transição Governamental 2022).
+Nesse contexto, a expectativa é de que a retomada das ações prioritárias da nova gestão esteja refletida no PPA 2024-2027, com o aperfeiçoamento e ampliação de programas e iniciativas já consolidados anteriormente (até 2016), bem como com a criação de novas políticas públicas a serem entregues a sociedade com vistas à superação das desigualdades e melhoria nos índices de aprendizagem, de acesso, permanência e conclusão em todos os níveis, etapas e modalidades educacionais.
+Comparações Internacionais: PISA - O Programa Internacional de Avaliação de Estudantes é uma avaliação da Organização para a Cooperação e Desenvolvimento Econômico – OCDE, aplicada a cada três anos, que oferece informações sobre o desempenho dos estudantes na faixa etária dos 15 anos, idade em que se pressupõe o término da escolaridade básica obrigatória na maioria dos países. O estudo avalia três domínios — leitura, matemática e ciências — em todos os ciclos ou edições. A pesquisa também avalia domínios chamados inovadores, como Pensamento Criativo e Letramento Financeiro.  Os resultados do Pisa permitem que cada país avalie os conhecimentos e as habilidades de seus estudantes em comparação com os de outros países, aprenda com as políticas e práticas aplicadas em outros lugares e formule suas políticas e programas educacionais, visando à melhora da qualidade e da equidade dos resultados de aprendizagem. O PISA 2018 apontou que o Brasil tem baixa proficiência em Leitura, Matemática e Ciências, se comparado com outros 78 países que participaram da avaliação. Os resultados revelam que 68,1% dos estudantes brasileiros, com 15 anos de idade, não possuem nível básico de Matemática, considerado como o mínimo para o exercício pleno da cidadania. Em Ciências, o número chega 55% e em Leitura, 50%. 
+Quando comparado com os países da América do Sul analisados pelo Pisa, o Brasil é pior país em Matemática empatado estatisticamente com a Argentina, com 384 e 379 pontos, respectivamente. Uruguai (418), Chile (417), Peru (400) e Colômbia (391) estão na frente. Em Ciências, o país também fica em último lugar, junto com os vizinhos Argentina e Peru, com empate de 404 pontos. Estão melhor classificados Chile (444), Uruguai (426) e Colômbia (413). Quando o assunto é Leitura, o Brasil é o segundo pior do ranking sul-americano, com 413 pontos, ao lado da Colômbia (412). Em último lugar, estão Argentina (402) e Peru (401). Se comparado à média dos países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), o Brasil apresenta resultados ainda piores nas três áreas avaliadas. Em termos de escolarização, o Brasil (384) está três anos e meio atrás dos países da OCDE (489) quando o assunto é proficiência em Matemática. Quanto a Ciências, o Brasil (404) está três anos atrás da OCDE (489) em termos de escolarização. Em relação ao nível de escolarização de proficiência em Leitura, o PISA 2018 revela que os estudantes brasileiros (413) estão dois anos e meio abaixo dos países da OCDE (487). Houve nova aplicação do Pisa em 2022, cujos resultados estão previstos para dezembro de 2023. 
+
+PIRLS – O Estudo Internacional de Progresso em Leitura – PIRLS é uma iniciativa realizada a cada cinco anos pela International Association for the Evaluation of Educational Achievement – IEA, cooperativa internacional de instituições nacionais de pesquisa, acadêmicos e analistas que trabalham para avaliar, entender e melhorar a educação em todo o mundo. O PIRLS avalia habilidades de leitura dos estudantes do 4º ano do ensino fundamental, com o objetivo de analisar tendências de compreensão leitora, além de coletar informações sobre os contextos de aprendizagem, para caracterizar o processo de leitura dos estudantes avaliados nos países que participam do estudo. Os resultados do PIRLS permitem que cada país avalie os conhecimentos e as habilidades de leitura de seus estudantes em relação aos demais países participantes. A troca de experiências, a partir dos resultados obtidos, pode contribuir para o permanente aprimoramento da qualidade da educação e para a equidade dos resultados de aprendizagem. 
+O Brasil participou pela primeira vez da edição do PIRLS 2021, em uma amostra de escolas públicas e privadas, abrangendo todo o território nacional. Os resultados da avaliação apontam que cerca de 38% dos estudantes brasileiros não dominam as habilidades básicas de leitura e só 13% dos alunos do 4º ano do ensino fundamental têm nível de aprendizado adequado, enquanto em 21 países esse percentual não passa de 5%. Dentre eles, Irlanda (2%), Finlândia (4%), Inglaterra (3%), Singapura (3%) e Espanha (5%). O relatório também apontou que 24% dos alunos brasileiros dominam apenas as habilidades básicas de leitura. Somente 13% dos avaliados no país podem ser considerados proficientes em compreensão da leitura no 4º ano de escolarização, pois alcançaram nível alto ou avançado desta habilidade. A pontuação média alcançada pelos estudantes brasileiros (419 pontos) está no nível mais baixo da escala pedagógica de proficiência, com quatro níveis, sendo significativamente inferior a outros 58 países, de total de 65 países e regiões de referência participantes. O Brasil ficou atrás de países como Turquia (496), Azerbaijão (440), Uzbequistão (437) e Omã (429). Os países com melhores desempenhos foram Singapura (587 pontos); Irlanda (577 pontos) e Hong Kong (573). 
+
+ERCE – O Estudo Regional Comparativo e Explicativo – Erce é uma avaliação internacional direcionada aos países da América Latina e Caribe, realizada, periodicamente, desde 1997. O Brasil participa do Erce desde o início da avaliação. Conduzido pelo Laboratório Latinoamericano de Avaliação da Qualidade da Educação – LLECE, ligado à Oficina Regional de Educação para América Latina e Caribe – OREALC/UNESCO Santiago, o Erce monitora os avanços na aprendizagem dos estudantes da região. Os estudantes são avaliados em leitura, escrita, matemática e ciências. Além disso, o Erce também busca identificar fatores associados à aprendizagem. No Brasil, os testes e questionários são aplicados em turmas do 4º ano (apenas leitura, escrita e matemática) e 7º ano do ensino fundamental. Em 2019, foi realizada a quarta edição da avaliação, na qual o Brasil apresentou notas acima da média regional em todas as áreas avaliadas. O destaque está no 4º ano, etapa na qual o Brasil ficou posicionado entre os três países com melhor desempenho da região em leitura e matemática, superando a média regional em 51 e 46 pontos, respectivamente. Adicionalmente, em todas as áreas e séries avaliadas, os resultados do Brasil em 2019 superaram os obtidos pelo país na edição anterior (Terce 2013). Também é interessante analisar, como indicadores de equidade interna ao país, as diferenças de resultados entre os estudantes de menor e maior desempenho, bem como entre meninos e meninas. Nesse sentido, observa-se que, com exceção de ciências e Leitura no 7º ano, a diferença de resultados entre os alunos com menor e maior desempenho é um pouco maior no Brasil do que ocorre em nível regional. A respeito do desempenho de meninas e meninos, como na maioria dos países da região, destaca-se que no Brasil que não há diferenças estatisticamente significativas nos resultados de ciências entre ambos os sexos. Em leitura, por outro lado, tanto no 4º quanto no 7º ano, as meninas brasileiras superam os meninos, compartilhando essa tendência com a maioria dos países da região, que têm o desafio de oferecer melhores oportunidades de aprendizado em leitura para os meninos, para trazer suas conquistas mais próximas das obtidas pelas meninas. Em matemática, os resultados por gênero variam um pouco entre as séries, já que no 4º ano o Brasil apresenta resultados semelhantes para meninos e meninas, o que segue a tendência regional, enquanto no 7º ano os meninos obtêm resultados um pouco melhores que as meninas, o que diverge do que foi observado na maioria dos países da região, nos quais não há diferenças entre gêneros para este nível e área de aprendizagem. Ao se considerar os níveis de desempenho esperados para alcançar os Objetivos da Agenda 2030 para o Desenvolvimento Sustentável estabelecidos pelas Nações Unidas, verifica-se que o Brasil tem uma proporção significativa de alunos que atingem os níveis esperados de desempenho no 4º ano, tanto em leitura (72,4%) quanto em matemática (69%), o que supera os resultados observados no nível regional. No que diz respeito ao 7º ano, em geral os resultados do Brasil são um pouco melhores do que os resultados regionais, sendo que leitura é a área em que os alunos apresentam melhor desempenho. No entanto, existe uma proporção significativa de alunos que não atingem os níveis de desempenho esperados, especialmente em Matemática, área na qual apenas 28,8% dos alunos o fazem (e, portanto, 71,2% ainda não o fazem). O Brasil já participa das atividades preparatórias para a próxima edição do Erce, que será realizada em 2025.
+
+ICCS – O Estudo Internacional de Educação Cívica e Cidadania – ICCS é uma iniciativa realizada a cada seis anos pela IEA. O estudo é único dedicado à educação cívica e a cidadania em escala internacional. O ICCS avalia os alunos matriculados no 8º ano e também coleta informações de professores em cada escola, com ênfase nos professores que atuam em disciplinas relacionadas com a educação cívica e a cidadania. A edição do ICCS 2022 foi a primeira em que o Brasil participou e foi aplicada em uma amostra de escolas públicas e privadas, abrangendo todo o território nacional. Os resultados desta aplicação estão previstos para novembro de 2023. 
+TIMSS - O Estudo Internacional de Tendências em Matemática e Ciências –TIMSS fornece dados sobre o desempenho nessas áreas do conhecimento do 4º e 8º ano do ensino fundamental em diferentes países. A avaliação do TIMSS é aplicada a cada quatro anos, desde 1995, e é organizada pela IEA. Cerca de 70 países usam os dados de tendências do TIMSS para monitorar a eficácia de seus sistemas educacionais em um contexto global, e mais países se unem ao estudo a cada ciclo de avaliação. O Brasil participará do estudo pela primeira vez na edição de 2023, que contará com testes em formato digital (no computador), acompanhando a difusão do uso da tecnologia nas escolas e na sociedade.
+Relação Com Os Ods: Objetivo 4 dos ODS: Assegurar a educação inclusiva e equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos. 
+
+4.1 Até 2030, garantir que todas as meninas e meninos completem o ensino primário e secundário livre, equitativo e de qualidade, que conduza a resultados de aprendizagem relevantes e eficazes.
+4.2 Até 2030, garantir que todos as meninas e meninos tenham acesso a um desenvolvimento de qualidade na primeira infância, cuidados e educação pré-escolar, de modo que eles estejam prontos para o ensino primário.
+4.4 Até 2030, aumentar substancialmente o número de jovens e adultos que tenham habilidades relevantes, inclusive competências técnicas e profissionais, para emprego, trabalho decente e empreendedorismo.
+4.5 Até 2030, eliminar as disparidades de gênero na educação e garantir a igualdade de acesso a todos os níveis de educação e formação profissional para os mais vulneráveis, incluindo as pessoas com deficiência, povos indígenas e as crianças em situação de vulnerabilidade.
+4.6 Até 2030, garantir que todos os jovens e uma substancial proporção dos adultos, homens e mulheres estejam alfabetizados e tenham adquirido o conhecimento básico de matemática.
+4.7 Até 2030, garantir que todos os alunos adquiram conhecimentos e habilidades necessárias para promover o desenvolvimento sustentável, inclusive, entre outros, por meio da educação para o desenvolvimento sustentável e estilos de vida sustentáveis, direitos humanos, igualdade de gênero, promoção de uma cultura de paz e não violência, cidadania global e valorização da diversidade cultural e da contribuição da cultura para o desenvolvimento sustentável.
+4.a Construir e melhorar instalações físicas para educação, apropriadas para crianças e sensíveis às deficiências e ao gênero, e que proporcionem ambientes de aprendizagem seguros e não violentos, inclusivos e eficazes para todos.
+4.c Até 2030, substancialmente aumentar o contingente de professores qualificados, inclusive por meio da cooperação internacional para a formação de professores, nos países em desenvolvimento, especialmente os países menos desenvolvidos e pequenos Estados insulares em desenvolvimento.
+
+Objetivo 13 dos ODS: Tomar medidas urgentes para combater a mudança climática e seus impactos
+13.3 Melhorar a educação, aumentar a conscientização e a capacidade humana e institucional sobre mitigação, adaptação, redução de impacto e alerta precoce da mudança do clima.
+Agentes Envolvidos: •	Ministério da Educação e todos os órgãos e entidades a eles vinculados; 
+•	Secretarias de Educação dos municípios, dos estados e do Distrito Federal; 
+•	Redes de ensino municipais, estaduais e do Distrito Federal; 
+•	Demais órgão e entidades públicos que atuem direta ou indiretamente na Educação Básica pública e gratuita ou sem fins lucrativos; 
+•	Entidades representativas vinculadas à Educação Básica pública e gratuita ou sem fins lucrativos; 
+•	Organismos internacionais; 
+•	Agentes públicos que atuem nos órgãos e entidades envolvidos com a execução de políticas públicas voltadas à Educação Básica pública e gratuita ou sem fins lucrativos;
+•	Agentes privados conveniados com o poder público e sem fins lucrativos que atuem na Educação Básica.
+Articulação Federativa: O MEC busca, em articulação e em regime de colaboração com os entes subnacionais, implementar políticas públicas que visam garantir o pleno exercício do direito à educação, compreendendo a universalização do acesso e a melhoria da qualidade da educação básica em todas as suas dimensões. As ações estratégicas do MEC são desenvolvidas por meio da prestação de apoio técnico e financeiro, em caráter suplementar, aos estados, ao Distrito Federal e aos municípios, promovendo a equidade, a qualidade das aprendizagens escolares, a valorização e a qualificação dos profissionais que atuam na educação básica.
+Portanto, é importante ressaltar que o alcance do Objetivo do Programa depende fortemente também dos esforços de estados, Distrito Federal e municípios. É, pois, um desafio que só será alcançado com o trabalho conjunto de toda a Federação, dado que a educação é competência comum (Constituição Federal de 1988, art. 23) dos entes federados e estes devem organizar, em regime de colaboração, seus sistemas de ensino, com suas respectivas prioridades de atuação constitucionalmente estabelecidas (ao município, educação infantil e ensino fundamental; ao estado, ensinos fundamental e médio; e à União, educação superior).
+Enfoque Transversal: As ações desenvolvidas no âmbito da educação básica têm interface com as seguintes agendas transversais: 
+•	Criança e adolescentes
+•	Mulheres 
+•	Igualdade racial
+•	Povos indígenas 
+•	Agenda Verde
+Marco Legal: Leis e Decretos (instituição das políticas relacionadas aos objetivos e entregas do PPA):
+
+•	Constituição Federal: art. 205 a 215 e 231
+•	Lei nº 9.394/1996 – LDB
+•	Lei nº 13.005/2014 - PNE 2014-2024
+•	Medida Provisória nº 1.174, de 12 de maio de 2023
+•	Decreto nº 6.094, de 24 de abril de 2007
+•	
+Portarias MEC (relacionadas aos objetivos e entregas do PPA):
+
+•	Portaria MEC nº 1.462, de 19 de agosto de 2019
+•	Portaria Conjunta MEC/MGI/CGU nº 82, de 10 de julho de 2023
+
+Portarias e Resoluções FNDE (relacionadas aos objetivos e entregas do PPA):
+
+•	Resolução CD/FNDE nº 4 – 04/05/2020 - Estabelece os critérios para o apoio técnico e financeiro às redes públicas de educação básica dos estados, dos municípios e do Distrito Federal, no âmbito do quarto ciclo (2021-2024) do Plano de Ações Articuladas – PAR.
+
+•	Resolução CD/FNDE nº 24 – 09/12/2021 - Altera a Resolução CD/FNDE nº 4/2020.
+Planos Nacionais, Setoriais E Regionais: •	Plano Nacional de Educação – Lei nº 13.005, de 25 de junho de 2014.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

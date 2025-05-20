@@ -1,0 +1,517 @@
+passage: Programa Número 5602
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 398
+Entrega: 2077
+Indicador: 11414
+Denominação: Mapeamentos Entregues
+Sigla: ME
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se da contratação de estudo nacional para mapeamento dos territórios periféricos brasileiros, a partir da metodologia dos assentamentos precários do Brasil Urbano.
+A métrica para quantificação da entrega será o número de concentrações urbanas mapeadas.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: ME = Mapeamentos Entregues
+NCUM = Número de concentrações urbanas mapeadas
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da Secretaria e de outros Ministérios.
+Forma De Disponibilização: SIOP
+Endereço eletrônico da Secretaria: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/periferias>
+Procedimento De Cálculo: Passo 1. Aferir se o estudo para mapeamento de territórios periféricos foi contratado e entregue.
+Passo 2. Quantificar o número de concentrações urbanas mapeadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Entrega: 2776
+Indicador: 12139
+Denominação: Novo PAC: empreendimentos entregues no subeixo Urbanização de Favelas (eixo Cidades Sustentáveis e Resilientes)
+Sigla: PAC_urbanizacao
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: Número de empreendimentos entregues no subeixo Urbanização de Favelas - eixo Cidades Sustentáveis e Resilientes, do Novo PAC, por ano e região
+Período Ou Data A Que Se Refere: A definir
+Data De Divulgação/Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo PAC
+Periodicidade: A definir
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PAC_urbanizacao = somatório de empreendimentos entregues no subeixo Urbanização de Favelas (eixo Cidades Sustentáveis e Resilientes)
+
+OBRAENTREGUE_urbanizacao = empreendimento entregue no subeixo Urbanização de Favelas (eixo Cidades Sustentáveis e Resilientes)
+Fonte De Dados Das Variáveis De Cálculo: Base de dados de gestão da carteira de investimento (MCID e CAIXA)
+Forma De Disponibilização: A ser definida pelo instâncias de governança e gestão do Novo Programa de Aceleração do Crescimento (Novo PAC)
+Procedimento De Cálculo: 1. Receber os dados primários do agente financeiro (CAIXA)
+2. Atualizar as bases de dados de gestão da carteira de investimentos do MCID
+3. Apurar a quantidade de empreendimentos entregues por ano e região.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Entrega: 1131
+Indicador: 10147
+Denominação: Número de famílias atendidas com melhorias habitacionais
+Sigla: NFAMH
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: famílias atendidas
+Descrição: Trata-se de indicador de processo que mensura a quantidade de famílias atendidas com a melhoria habitacional em periferias urbanas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NFAMH= Número de famílias atendidas com melhorias habitacionais em periferias urbanas
+FAMH = Famílias atendidas com melhorias habitacionais em periferias urbanas
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da Secretaria Nacional de Periferias e Base de dados da Caixa Econômica Federal.
+Forma De Disponibilização: Painel de acompanhamento de programas finalísticos no endereço eletrônico do Ministério das Cidades; a ser disponibilizado em: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/programas-finalisticos-e-acoes-orcamentarias>
+Procedimento De Cálculo: 1. Solicitar à Caixa, agente operador do FDS, o número de contratos de melhoria habitacional concluídos dentro do período em análise no âmbito do Programa de Regularização Fundiária e Melhoria Habitacional. 
+2. Somar o número de famílias atendidas ou beneficiadas informado nesses documentos. ou 
+3. Realizar contagem direta a partir da base de dados utilizada.
+Limitações: Precisão dos dados, que é feita mediante à estimativa do total de pessoas beneficiadas na região de intervenção.
+Variação sazonal das famílias ao longo do desenvolvimento da intervenção.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Entrega: 1136
+Indicador: 10152
+Denominação: Número de famílias atendidas com regularização fundiária urbana de interesse social
+Sigla: NFARFU
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: famílias atendidas
+Descrição: Trata-se de indicador de processo que mensura a quantidade de famílias atendidas com a regularização fundiária de lotes urbanizados.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NFARFU= Número de famílias atendidas com regularização fundiária urbana de interesse social
+FAREGMEL = Famílias atendidas com a regularização fundiária urbana no Programa Regularização fundiária e melhoria habitacional
+FATED = Famílias atendidas com a regularização fundiária urbana por intermédio de Termos de execução Descentralizada
+FAPP = Famílias atendidas com a regularização fundiária urbana no Programa Papel Passado
+FADC = Famílias atendidas com a regularização fundiária urbana nos demais contratos
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da Secretaria Nacional de Periferias e Base de dados da Caixa Econômica Federal.
+Forma De Disponibilização: Painel de acompanhamento de programas finalísticos no endereço eletrônico do Ministério das Cidades; a ser disponibilizado em: <https://www.gov.br/cidades/pt-br/acesso-a-informacao/acoes-e-programas/programas-projetos-acoes-obras-e-atividades/programas-finalisticos-e-acoes-orcamentarias>
+Procedimento De Cálculo: 1. Solicitar à Caixa, agente operador do FDS e mandatária da união, o número de contratos de regularização fundiária concluídos dentro do período em análise. 
+2. Somar o número de famílias atendidas ou beneficiadas no Programa Regularização fundiária e melhoria habitacional, no Programa Papel Passado, por intermédio de Termos de execução Descentralizada e demais contratos que venham a ser firmados no período.
+Limitações: Precisão dos dados, que é feita mediante à estimativa do total de pessoas beneficiadas na região de intervenção.
+Variação sazonal das famílias ao longo do desenvolvimento da intervenção.
+Notas Explicativas: O arcabouço jurídico da regularização fundiária é relativamente recente, se comparado com outras formas de registro de imóveis. Tais procedimentos, tanto jurídicos, como técnico-administrativos, precisam ser internalizados pelos órgãos executores da ação e este aprendizado tende a variar caso a caso. Além disso, dada a extensão continental do Brasil, as questões fundiárias interverem de formas diversas em cada região. Desta forma, tanto a mensuração de prazos, quanto o montante de famílias abarcadas por uma intervenção apoiada, podem ser impactados por tais fatores, como também por outros que venham a ser identificados no decorrer do desenvolvimento da ação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Entrega: 1147
+Indicador: 10163
+Denominação: Número de famílias beneficiadas
+Sigla: QFB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: trata-se de indicador que mensura a quantidade de famílias beneficiadas.
+Período Ou Data A Que Se Refere: Janeiro a junho e julho a dezembro
+Data De Divulgação/Disponibilização: Mês subsequente
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: QFB = Quantidade de famílias beneficiadas
+FB = Famílias beneficiadas
+Fonte De Dados Das Variáveis De Cálculo: base de dados interna da Secretaria/Ministério das Cidades.
+Forma De Disponibilização: Endereço eletrônico do do Ministério das Cidades. 
+https://www.gov.br/cidades/pt-br
+Procedimento De Cálculo: contagem direta a partir da base de dados utilizada.
+Limitações: Não há linha de base
+Notas Explicativas: Os itens de composição dos investimentos previstos (como: reservatórios de lote; unidades de biorretenção em geral, incluindo, biovaletas e jardins de chuva; trincheiras e poços de infiltração; pavimentos permeáveis; reservatórios de retenção ou detenção integrados à paisagem urbana; banhados construídos; hortas comunitárias; sistemas de aproveitamento de águas pluviais; intervenções de engenharia natural para estabilização de encosta, prevenção e recuperação de processos erosivos; e plantio de árvores) são intervenções inovadoras que buscam estar vinculadas à melhoria da qualidade de vida das pessoas, com vistas à adaptação climática. Diante do exposto, esta Secretaria trabalhará com o número de famílias diretamente beneficiadas pelas intervenções.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 400
+Entrega: 1153
+Indicador: 10167
+Denominação: Número de iniciativas de participação de popular em aglomerados subnormais apoiadas
+Sigla: NIPP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de indicador de produto que conta a quantidade de iniciativas de participação popular em aglomerados subnormais apoiadas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: QIPP = Número de iniciativas apoiadas de participação popular
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da Secretaria
+Forma De Disponibilização: Endereço eletrônico do Ministério das Cidades
+www.gov.br/cidades/pt-br
+Procedimento De Cálculo: O indicador refere-se estritamente ao número de iniciativas apoiadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 398
+Entrega: 1120
+Indicador: 10132
+Denominação: Quantidade de iniciativas apoiadas de Assessoria Técnica
+Sigla: QIA-AT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador refere-se estritamente às intervenções apoiadas com assessoria técnica.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NIAAT = Número de iniciativas apoiadas
+Fonte De Dados Das Variáveis De Cálculo: Base de dados interna da Secretaria.
+Forma De Disponibilização: Endereço eletrônico do Ministério das Cidades. 
+https://www.gov.br/cidades/pt-br
+Procedimento De Cálculo: A quantidade de iniciativas apoiadas de Assessoria Técnica é igual ao número de iniciativas de AT apoiadas pela Secretaria Nacional de Periferias, no âmbito do Programa Periferia Viva.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Entrega: 2814
+Indicador: 12179
+Denominação: Valor alocado para seleção (R$)
+Sigla: VURB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: R$
+Descrição: Recursos onerosos e não onerosos alocados para a urbanização de assentamentos precários
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: VI OGU 2024: Valor do investimento com recursos do Orçamento Geral da União referente à 2024
+VI OGU 2025: Valor do investimento com recursos do Orçamento Geral da União referente à 2025
+VI OGU 2026: Valor do investimento com recursos do Orçamento Geral da União referente à 2026
+VI FIN 2024: Valor do investimento com recursos de Financiamento referente à 2024
+VI FIN 2025: Valor do investimento com recursos de Financiamento referente à 2025
+VI FIN 2026: Valor do investimento com recursos de Financiamento referente à 2026
+Limitações: Para efeitos de compatibilização com o período do PPA, foram desconsiderados os valores referentes a 2023.
+O Valor Investido Planejado após 2026 está consolidado.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Entrega: 2810
+Indicador: 12175
+Denominação: Valor alocado para seleção (R$)
+Sigla: VREURB
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: R$
+Descrição: Recursos não onerosos alocados para a a regularização fundiária urbana.
+Período Ou Data A Que Se Refere: Janeiro a Dezembro
+Data De Divulgação/Disponibilização: 31/12
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: VREURB = Valor alocado para seleção (R$)
+Vinst = valor individual dos instrumentos selecionados
+Fonte De Dados Das Variáveis De Cálculo: Portarias de Seleção do Ministério das Cidades.
+Forma De Disponibilização: Endereço eletrônico do Ministério das Cidades e do Novo PAC
+Procedimento De Cálculo: Verificar as portarias de seleção para o objeto
+Somar os valores das intervenções selecionadas
+Limitações: Para efeitos de compatibilização com o período do PPA, foram desconsiderados os valores referentes a 2023.
+O Valor Investido Planejado após 2026 está consolidado.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5602
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Indicador: 10126
+Denominação: Número de domicílios com pelo menos uma inadequação (redução do crescimento)
+Sigla: ID
+Índice De Referência: 24474449.0
+Em Apuração: Não
+Data De Apuração: 2019-12-31 00:00:00
+Unidade De Medida: domicílio, em  unidade, atendido
+Descrição: O conceito de domicílios inadequados é o déficit habitacional qualitativo. Tem o papel de revelar as múltiplas e diversas deficiências que tornam um imóvel incapaz de fornecer uma boa qualidade de vida para seus moradores.
+A solução dessas carências passa pela adoção de diferentes políticas públicas, que vão desde a regularização fundiária (titulação) de domicílios localizados em núcleos urbanos informais, até melhorias habitacionais e a provisão de serviços básicos de infraestrutura (água, esgotamento sanitário, luz e coleta de lixo), entre outros.
+A separação entre déficit habitacional e inadequação de domicílios (ou déficit qualitativo) reflete a necessidade de se reconhecer a complexidade da dinâmica habitacional. Enquanto a inadequação domiciliar aponta para a garantia de um determinado padrão de qualidade de moradia, o déficit habitacional remete às necessidades de reposição de moradias (moradias irrecuperáveis) e/ou mesmo de construção de novas, em função de domicílios compartilhados ou em coabitação. Já a inadequação domiciliar, vai em direção à ideia de que as famílias/pessoas estão habitando um determinado tipo de domicílio que não é capaz de atender às necessidades ou serviços que uma habitação deveria suprir com qualidade. Entre esses serviços estão o abrigo adequado às intempéries (cobertura adequada), o acesso à água, luz, banheiro, propriedade da terra, adensamento, entre outros. Nesse sentido, a inadequação de domicílios reflete problemas na qualidade de vida dos moradores. Não estão relacionados ao dimensionamento do estoque de habitações e sim as especificidades internas. Sob esse ponto de vista, num primeiro momento, os domicílios inadequados não necessariamente precisam ser repostos. A inadequação pode ser reduzida, ou mesmo eliminada, quando os atributos que estão faltando ou que são ofertados de forma precária forem fornecidos ou repostos.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: 2020
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: ID: Inadequação de Domicílios (déficit habitacional qualitativo)
+
+A: Infraestrutura urbana (água, luz, lixo e esgoto)
+B: Inexistência de banheiro exclusivo
+C: Adensamento de domicílios
+D: Inadequação fundiária urbana
+E: Cobertura inadequada
+F: Armazenamento de água
+G: Piso Inadequado
+Fonte De Dados Das Variáveis De Cálculo: Elaboração do indicador: Fundação João Pinheiro (FJP); Diretoria de Estatística e Informações (Direi)
+Dados básicos: Instituto Brasileiro de Geografia e Estatística (IBGE); Pesquisa Nacional por Amostra de Domicílios Contínua (PNADC);
+Cadastro Único (CadUnico)
+Forma De Disponibilização: A Fundação João Pinheiro, do Governo do Estado de Minas Gerais, tradicionalmente calcula o indicador e o disponibiliza em seu site na internet, em <https://fjp.mg.gov.br/deficit-habitacional-no-brasil/>
+
+Os procedimentos metodológicos para apuração do indicador estão descritos no relatório “Metodologia do déficit habitacional e da inadequação de domicílios no Brasil – 2016-2019”, disponível em <https://fjp.mg.gov.br/wp-content/uploads/2020/12/04.03_Relatorio-Metodologia-do-Deficit-Habitacional-e-da-Inadequacao-de-Domicilios-no-Brasil-2016-2019-v-1.0_compressed.pdf>.
+Procedimento De Cálculo: O cálculo para o número de domicílios com pelo menos uma inadequação considera:
+
+• Que o domicílio possua pelo menos uma inadequação, ou seja, Infraestrutura urbana (água, luz, lixo e esgoto) ou Inexistência de banheiro exclusivo ou Adensamento de domicílios ou Inadequação fundiária urbana ou Cobertura inadequada ou Armazenamento de água ou Piso Inadequado.
+
+• Apenas os domicílios não classificados como deficit habitacional em função de sua estrutura física se
+tornam elegíveis para serem avaliados como inadequados. São excluídas as habitações precárias
+(improvisadas e rústicas), além dos domicílios do tipo cômodo. A partir daí, são obtidos os
+domicílios particulares permanentes duráveis.
+
+• Exclusivamente os domicílios urbanos. Como as variáveis consideradas para a inadequação são
+características das áreas urbanas, são excluídos os domicílios localizados nas áreas rurais.
+
+• A obtenção do total dos domicílios particulares permanentes duráveis urbanos inadequados se dá
+pela soma dos domicílios com ao menos uma inadequação. Para evitar efeitos de dupla contagem,
+mesmo que um único domicílio tenha mais de um tipo de inadequação, seu cômputo para o total de
+domicílios classificados como inadequados só ocorre uma única vez. Fonte: FUNDAÇÃO JOÃO PINHEIRO. Diretoria de Estatística e Informações.
+Metodologia do deficit habitacional e da inadequação de domicílios no Brasil: 2016 - 2019. Belo Horizonte: FJP, 2021.
+Limitações: Periodicidade da contratação do estudo. 
+
+Dificuldade metodológica de alinhar a totalidade de domicílios inadequados com aqueles atendidos pelo MCID nas periferias urbanas. Entretanto, o atendimento às famílias nas periferias pode contribuir para a redução do índice de domicílios inadequados.
+Notas Explicativas: Destaca-se, que apesar da política de urbanização de assentamentos precários, de melhoria habitacional e de regularização fundiária tentarem combater o déficit habitacional qualitativo (inadequação de domicílios) sua atuação ainda é muito limitada. Não chegamos a atender nem 5% do universo de inadequações com o referencial monetário disponibilizado.
+Além disso, iniciamos contato com a Fundação João Pinheiro para que o estudo possa diferenciar as inadequações localizadas em territórios periféricos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 398
+Indicador: 10124
+Denominação: Taxa de Ampliação do Acesso de Políticas Públicas nas Periferias Urbanas
+Sigla: TAAPP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-26 00:00:00
+Unidade De Medida: %
+Descrição: A Taxa de Ampliação do Acesso de Políticas Públicas nas Periferias Urbanas é um indicador que mede o aumento no acesso e na disponibilidade de novas políticas públicas em aglomerados subnormais, que são áreas precárias e de baixo desenvolvimento socioeconômico localizadas nas periferias urbanas. Esse indicador busca avaliar o progresso e o impacto das iniciativas governamentais voltadas para melhorar a qualidade de vida e reduzir as desigualdades socioterritoriais nessas regiões, considerando o número de aglomerados subnormais existentes.
+A taxa de ampliação é expressa como um percentual e indica a proporção de novas políticas públicas em relação ao número total de aglomerados subnormais existentes nas periferias urbanas. Quanto maior o valor da taxa de ampliação, maior é o acesso às novas políticas públicas em relação à quantidade de aglomerados subnormais existentes.
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NAPP: Número de aglomerados subnormais atendidos com novas políticas públicas implantadas nas periferias urbanas.
+NAS: Número total de aglomerados subnormais nas periferias urbanas (IBGE, 2019).
+Fonte De Dados Das Variáveis De Cálculo: Dado interno da Secretaria e de outros órgãos e o número total de aglomerados subnormais nas periferias urbanas (IBGE, 2019).
+Forma De Disponibilização: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/tipologias-do-territorio/15788-aglomerados-subnormais.html 
+Publicação aglomerados subnormais (IBGE, 2019)
+Procedimento De Cálculo: Passo 1: TO será igual a 0, pois não é possível mensurar de antemão a quantidade de políticas públicas incidentes nas periferias urbanas. 
+
+Passo 2: Apure o número de novas políticas públicas aplicadas nas periferias urbanas e georreferencie. A apuração observará a quantidade de novos equipamentos públicos implantandos em aglomerados subnormais e/ou proximidades (de forma a garantir o acesso dessa população aos equipamentos públicos e/ou políticas sociais). 
+
+Passo 3: Utilizar o número de aglomerados subnormais, ano base 2019 (13.151).
+
+Passo 4: Use a fórmula a seguir para calcular a TAANPP:
+
+TAAPP = (NAPP / NAS) * 100
+
+Passo 5: A TAAPP será expressa como um percentual e indicará a proporção de novas políticas públicas em relação ao número de aglomerados subnormais existentes no ponto de partida (T0). Um valor maior indica um maior acesso às novas políticas públicas em relação à quantidade de aglomerados subnormais no início do período analisado.
+Limitações: Uma das principais limitações do indicador é a falta de disponibilidade dos dados de políticas públicas em periferias urbanas. 
+Será necessária uma intensa articulação com os órgãos setoriais para a obtenção dos dados.
+Notas Explicativas: Informações complementares necessárias à análise dos resultados, como indicações conjunturais, exceções, mudanças conceituais e metodológicas ao longo de uma série de coletas, condições específicas de cálculo, dentre outras que auxiliem uma melhor interpretação dos resultados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 400
+Indicador: 10130
+Denominação: Taxa de Participação Social nos aglomerados subnormais
+Sigla: TPS
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: porcentagem (%)
+Descrição: O indicador de Taxa de Participação Social nas Periferias Urbanas é utilizado para medir o nível de engajamento e participação dos moradores das periferias urbanas em relação às políticas públicas que afetam suas comunidades. 
+Utiliza-se como denominador os aglomerados subnormais e áreas de abrangência diretamente influenciadas (raio de 5km).
+Período Ou Data A Que Se Refere: Janeiro a dezembro
+Data De Divulgação/Disponibilização: Abril do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: NAI: Número de aglomerados subnormais com iniciativas apoiadas, mapeadas e mobilizadas.
+NAS: Número total de aglomerados subnormais nas periferias urbanas (IBGE, 2019).
+Fonte De Dados Das Variáveis De Cálculo: Dado interno da Secretaria e de outros órgãos e o número total de aglomerados subnormais nas periferias urbanas (IBGE, 2019).
+Forma De Disponibilização: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/tipologias-do-territorio/15788-aglomerados-subnormais.html 
+Publicação aglomerados subnormais (IBGE, 2019)
+Procedimento De Cálculo: Passo 1) TO será igual a 0, pois não é possível mensurar de antemão as iniciativas de participação popular apoiadas, mapeadas e mobilizadas.
+Passo 2) Apure o número de iniciativas apoiadas, mapeadas e mobilizadas em aglomerados subnormais.
+Passo 3) Utilizar o número de aglomerados subnormais, ano base 2019 (13.151).
+Passo 4) Use a fórmula a seguir para calcular a TPS: TPS = (∑NAI / NAS) * 100
+Passo 5) A TPS será expressa como um percentual e indicará a proporção de iniciativas de participação popular apoiadas, mapeadas e mobilizadas.
+Limitações: Mapear geograficamente as iniciativas apoiadas, mapeadas e mobilizadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5602
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 398
+Enunciado: Ampliar o acesso de políticas públicas integradas nas periferias urbanas
+Descrição: Ampliar o acesso da população das periferias urbanas às políticas públicas de educação, saúde, cultura, entre outros que venham a ser acrescentados ao longo da execução do PPA 2024-2027.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 399
+Enunciado: Melhorar a qualidade de vida urbana, condições de habitabilidade e segurança da posse em periferias urbanas
+Descrição: Melhorar a qualidade de vida urbana, condições de habitabilidade e segurança da posse em periferias urbanas por intermédio de ações de urbanização de assentamentos precários, regularização fundiária urbana de interesse social, melhoria habitacional e intervenções urbanas para adaptação climática nas periferias.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Objetivo Específico: 400
+Enunciado: Fortalecer a participação popular nas políticas públicas em periferias urbanas
+Descrição: Promover o engajamento e a voz dos moradores das periferias urbanas no processo de formulação, implementação e monitoramento das políticas públicas, por meio do mapeamento, mobilização e apoio a iniciativas periféricas.
+Órgão: 56000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 5602
+
+Exercício: 2025
+Programa: 5602
+Objetivo: 1259
+Enunciado: Reduzir as desigualdades socioterritoriais, integralizar as políticas públicas nos territórios periféricos e fortalecer o protagonismo da população local no processo decisório das intervenções e na promoção das potencialidades das periferias brasileiras.
+Descrição: Mudanças na economia brasileira influenciaram diretamente os padrões de produção da cidade, atraindo um imenso contingente da população rural em condições precárias de vida para as áreas urbanas. Diante desse êxodo, a população autoconstruiu suas moradias em áreas de baixa aptidão à ocupação e distantes dos eixos de desenvolvimento urbano, caracterizando o processo de produção das periferias. As periferias tornam-se territórios com pouca presença de políticas sociais e de serviços públicos fornecidos pelo Estado, quase totalmente intocados pelas políticas públicas. O Programa Periferia Viva contribui para a redução da desigualdade socioterritorial por intermédio da integração de políticas públicas, melhoria da qualidade de vida urbana, das condições de habitabilidade, da segurança da posse e do fortalecimento da participação popular.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5602
+
+Exercício: 2025
+Programa: 5602
+Título: Periferia Viva
+Tipo: Finalístico
+Órgão: 56000.0
+Público-Alvo: Famílias de baixa renda residentes nas periferias urbanas
+Descrição Do Problema: Mudanças na economia brasileira influenciaram diretamente os padrões de produção da cidade, atraindo um imenso contingente da população rural em condições precárias de vida para as áreas urbanas. Diante desse êxodo, a população autoconstruiu suas moradias em áreas de baixa aptidão à ocupação e distantes dos eixos de desenvolvimento urbano, caracterizando o processo de produção das periferias. As periferias tornam-se territórios com pouca presença de políticas sociais e de serviços públicos fornecidos pelo Estado, quase totalmente intocados pelas políticas públicas.
+Causa Do Problema: • Sobreposição de vulnerabilidades multidimensionais nas periferias urbanas
+• Omissão histórica de políticas públicas sociais nos territórios periféricos
+• Distribuição desigual do orçamento público 
+• Políticas públicas setoriais desarticuladas
+• Fragilidade do diálogo entre poder público e as comunidades
+• Ausência ou inadequação de infraestrutura urbana e equipamentos públicos
+• Concentração da inadequação edilícia nas periferias
+• Irregularidade fundiária urbana
+• Periferias concentram situação de fragilidade urbano-ambiental
+Evidências Do Problema: • Aglomerados subnormais:  5,1 milhões de domicílios (IBGE, 2019)
+• Inadequação Habitacional: 24,8 milhões de domicílios (Fundação João Pinheiro, 2019)
+• Piores condições de vida na cidade (tipologia Intraurbana): 10,4 milhões de domicílios (IBGE, 2017)
+Justificativa Para A Intervenção: Neste ambiente de carências multidimensionais e de potencialidades das periferias urbanas, a implementação de políticas públicas por intermédio de programas setoriais se torna cada vez mais limitada e começam a requerer um pacto de priorização que envolva diversas políticas públicas, articulação interfederativa e o protagonismo da população local, neste contexto, propõe-se o Programa Periferia Viva, que objetiva reduzir as desigualdades socioterritoriais, integrando as políticas públicas nos territórios periféricos, fortalecendo o protagonismo da população local no processo decisório das intervenções e promovendo as potencialidades das periferias brasileiras.
+Evolução Histórica: Inadequação Habitacional: 
+2016 – 23.072.869
+2017 – 23.665.050
+2018 – 23.668.325
+2019 – 24.893.961
+Comparações Internacionais: National Slum-Upgrading Program (NSUP) Programa de Urbanização de Favelas da Indonésia, ultima evolução do Programa, inicialmente chamado Kampung Improvement Program (KIP – 1974-1991), (IUIDP 1985-1997); UPP (1998-2005);  e PNPM (2007-2014) um dos primeiros programas de urbanização de favelas do mundo, visa reduzir a pobreza urbana e a prestação de serviços públicos.
+Relação Com Os Ods: O Programa Periferia Viva relaciona-se com o ODS#11 - Tornar as cidades e assentamentos humanos inclusivos, seguros, resilientes e sustentáveis” e os seguintes subitens:
+• 11.3 Até 2030, aumentar a urbanização inclusiva e sustentável, e as capacidades para o planejamento e gestão de assentamentos humanos participativos, integrados e sustentáveis, em todos os países.
+• 11.4 Fortalecer esforços para proteger e salvaguardar o patrimônio cultural e natural do mundo.
+• 11.5 Até 2030, reduzir significativamente o número de mortes e o número de pessoas afetadas por catástrofes e substancialmente diminuir as perdas econômicas diretas causadas por elas em relação ao produto interno bruto global, incluindo os desastres relacionados à água, com o foco em proteger os pobres e as pessoas em situação de vulnerabilidade.
+• 11.6 Até 2030, reduzir o impacto ambiental negativo per capita das cidades, inclusive prestando especial atenção à qualidade do ar, gestão de resíduos municipais e outros.
+• 11.7 Até 2030, proporcionar o acesso universal a espaços públicos seguros, inclusivos, acessíveis e verdes, particularmente para as mulheres e crianças, pessoas idosas e pessoas com deficiência.
+• 11.a Apoiar relações econômicas, sociais e ambientais positivas entre áreas urbanas, periurbanas e rurais, reforçando o planejamento nacional e regional de desenvolvimento
+• 11.b Até 2020, aumentar substancialmente o número de cidades e assentamentos humanos adotando e implementando políticas e planos integrados para a inclusão, a eficiência dos recursos, mitigação e adaptação às mudanças climáticas, a resiliência a desastres; e desenvolver e implementar, de acordo com o Marco de Sendai para a Redução do Risco de Desastres 2015-2030, o gerenciamento holístico do risco de desastres em todos os níveis
+• 11.c Apoiar os países menos desenvolvidos, inclusive por meio de assistência técnica e financeira, para construções sustentáveis e resilientes, utilizando materiais locais
+Agentes Envolvidos: Entes subnacionais, órgãos federais, comunidades, coletivos, universidades, organizações da sociedade civil e instituições financeiras.
+Articulação Federativa: O programa será implementado de forma articulada entre os três entes da federação: União, Estados e Municípios.
+Enfoque Transversal: O Programa possui enfoque transversal com políticas públicas que incidam sobre os territórios periféricos, como por exemplo: saúde, educação, cultura, habitação, saneamento, mobilidade urbana, segurança pública, entre outros.
+Marco Legal: Lei n° 10.257 de 10 de junho de 2001 – Estatuto das Cidades
+Lei nº 11.888 de 24 de dezembro de 2008 – Assistência Técnica Gratuita
+Lei nº 12.608 de 10 de abril de 2012 - Política Nacional de Proteção e Defesa Civil
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Adaptação à Mudança do Clima (PNA);
+Plano Nacional de Saneamento Básico (PLANSAB);
+Plano Nacional de Habitação (PlanHab 2040);
+Plano Nacional de Mobilidade Urbana (PlanMob);
+Plano Regional de Desenvolvimento da Amazônia (PRDA);
+Plano Regional de Desenvolvimento do Centro-Oeste (PRDCO);
+Plano Regional de Desenvolvimento do Nordeste (PRDNE);
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

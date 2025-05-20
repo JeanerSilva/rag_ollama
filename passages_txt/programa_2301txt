@@ -1,0 +1,1234 @@
+passage: Programa Número 2301
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 418
+Entrega: 2109
+Indicador: 11462
+Denominação: Ampliação do número de órgãos com planos de transformação digital pactuados
+Sigla: OPTD
+Índice De Referência: 77.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número total de órgãos com plano de transformação digital pactuado e em andamento.
+Período Ou Data A Que Se Refere: ad hoc
+Data De Divulgação/Disponibilização: ad hoc
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: PTD = planos de transformação digital pactuados
+Fonte De Dados Das Variáveis De Cálculo: Departamento da SGD
+Forma De Disponibilização: Ad hoc
+Procedimento De Cálculo: Soma direta do total de PTDs vigentes no período
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 418
+Entrega: 2108
+Indicador: 11461
+Denominação: Ampliação do perceptual de serviços públicos digitais utilizando a API de Avaliação
+Sigla: %APIAV
+Índice De Referência: 25.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Ampliação do percentual de serviços públicos digitais utilizando a interface de aplicação programada (API) de Avaliação.
+Período Ou Data A Que Se Refere: ad hoc
+Data De Divulgação/Disponibilização: ad hoc
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = total de serviços públicos digitais utilizando a API de Avaliação
+n = total de serviços públicos digitais passíveis de utilização de API de Avaliação
+Fonte De Dados Das Variáveis De Cálculo: A API
+Forma De Disponibilização: Ad hoc
+Procedimento De Cálculo: Consulta ao sistema de controle da API
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 424
+Entrega: 1295
+Indicador: 10371
+Denominação: % de Módulos do Novo Sistema de Informações e Relacionamento das Empresas Estatais desenvolvidos e implementados
+Sigla: não se aplica
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Pretende-se que o Novo Sistema de Informações e de Relacionamento das Empresas Estatais seja um instrumento de gestão, monitoramento e avaliação das empresas estatais por parte da Sest, dos ministérios setoriais e dos diversos atores relacionados. Os indicadores de gestão das estatais será medido por meio desse sistema, aprimorando, dessa forma, a maneira de exercer a propriedade estatal e de se apurar a execução e atingimento das políticas públicas traçadas para cada empresa.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Até a última semana de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "S = Percentual de desenvolvimento e implementação de todos os módulos do Novo Sistema de Informações e Relacionamento das Empresas Estatais
+MP = Percentual de desenvolvimento e implementação das funcionalidades relacionadas ao módulo política de pessoal e previdência complementar das estatais
+MG = Percentual de desenvolvimento e implementação das funcionalidades relacionadas ao módulo de governança e avaliação das estatais (monitoramento, avaliação, governança, assuntos societários, política de remuneração e relacionamento com conselheiros das estatais)
+MO = Percentual de desenvolvimento e implementação das funcionalidades relacionadas ao módulo de orçamento das empresas estatais"
+Fonte De Dados Das Variáveis De Cálculo: Novo Sistema de Informações e Relacionamento das Empresas Estatais
+Forma De Disponibilização: Disponibilização do sistema aos usuários
+Procedimento De Cálculo: Será medido a partir das entregas da empresa contratada para o desenvolvimento do sistema, com base em todas as demandas e especificações definidas em contrato.
+Limitações: As implementações parciais dos módulos do sistema de informações e relacionamento das empresas estatais podem requerer melhorias, ajustes, evoluções e integrações posteriores a este ciclo do PPA e esta entrega passará a ter a sua conclusão definitiva postergada, a depender dos obstáculos e limitações evidenciadas no decorrer do desenvolvimento do sistema.
+Notas Explicativas: Não se aplica a correspondência aos ODSs.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Entrega: 1282
+Indicador: 10339
+Denominação: Indice de maturidade em gestão de documentos de arquivos alcançados pelos órgãos e entidades da Administração Pública Federal
+Sigla: IMGD
+Índice De Referência: 38.5
+Em Apuração: Sim
+Data De Apuração: 2024-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O Índice de Maturidade em Gestão de Documentos (iMGD) é um modelo desenvolvido pelo Arquivo Nacional como parte da estratégia de aprimorar a governança do Siga. Seu objetivo é avaliar o grau de conformidade dos órgãos e entidades com as normas e boas práticas de gestão de documentos. Além de apoiar a governança do Siga, o iMGD serve como uma ferramenta de gestão para os responsáveis pelas unidades que gerenciam documentos, proporcionando uma visão clara da situação atual e dos objetivos a serem alcançados. O iMGD também auxilia na formulação de estratégias e no desenvolvimento da capacidade institucional para identificar problemas, avaliar resultados e promover melhorias contínuas na gestão de documentos.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Estratégia – contempla as práticas referentes à formalização do compromisso institucional e o planejamento das ações de gestão de documentos durante seu ciclo de vida (produção, utilização e destinação). Possui como linhas de ação os processos de: Elaborar e implementar a Política de Gestão de Documentos; Elaborar e implementar a política interna de preservação digital; Realizar análise do contexto institucional; Realizar gerenciamento de riscos e Promover a capacitação em gestão de documentos aos agentes públicos do órgão. 
+y = Produção – contempla as práticas relacionadas a regulamentação de procedimentos para otimizar a produção de documentos (determinar quais, quando e como os documentos serão produzidos, capturados, organizados e acessados). Possui como linhas de ação os processos de: Padronizar os procedimentos de protocolo; Controlar a produção dos documentos; Implementar rotinas de classificação de documentos na produção e Gerenciar o acesso aos documentos.  
+z = Utilização – contempla as práticas que envolvem a organização da documentação acumulada, controle de arquivamento, acesso e segurança, bem como a manutenção/armazenamento e preservação dos documentos. Possui como linhas de ação os processos de: Tratar a documentação acumulada; Estabelecer procedimentos de arquivamento; Assegurar a infraestrutura de armazenamento adequada; Estabelecer e aplicar medidas de segurança/ contingência para os casos de emergência; e Assegurar o acesso aos documentos.
+w = Destinação – contempla as práticas referentes aos procedimentos de controle de prazos, avaliação, transferência, eliminação e recolhimento dos documentos. Possui como linhas de ação os processos de: Instituir a Comissão Permanente de Avaliação de Documentos (CPAD); Gerenciar prazos de guarda e destinação dos documentos; Realizar a transferência de documentos; Realizar a eliminação de documentos e Realizar o recolhimento de documentos.
+Fonte De Dados Das Variáveis De Cálculo: Levantamento do Índice de Maturidade (LIM) dos órgãos setoriais do SIGA
+Forma De Disponibilização: Relatórios Anuais institucionais e Relatórios de Monitoramento
+Procedimento De Cálculo: Considera diversos componentes e linhas de ação, conforme exposto: https://www.gov.br/arquivonacional/pt-br/siga/monitoramento/diagnostico/Referencial_iMGDPDF_20250306.pdf
+Limitações: Baixa consciência dos gestores dos órgãos avaliados sobre a gestão de documentos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Entrega: 1282
+Indicador: 12781
+Denominação: Indice de maturidade em gestão de documentos de arquivos alcançados pelos órgãos e entidades da Administração Pública Federal
+Sigla: IMGD
+Índice De Referência: 38.5
+Em Apuração: Sim
+Data De Apuração: 2024-06-01 00:00:00
+Unidade De Medida: unidade
+Descrição: O Índice de Maturidade em Gestão de Documentos (iMGD) é um modelo desenvolvido pelo Arquivo Nacional como parte da estratégia de aprimorar a governança do Siga. Seu objetivo é avaliar o grau de conformidade dos órgãos e entidades com as normas e boas práticas de gestão de documentos. Além de apoiar a governança do Siga, o iMGD serve como uma ferramenta de gestão para os responsáveis pelas unidades que gerenciam documentos, proporcionando uma visão clara da situação atual e dos objetivos a serem alcançados. O iMGD também auxilia na formulação de estratégias e no desenvolvimento da capacidade institucional para identificar problemas, avaliar resultados e promover melhorias contínuas na gestão de documentos.
+Período Ou Data A Que Se Refere: Anual
+Data De Divulgação/Disponibilização: Janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Estratégia – contempla as práticas referentes à formalização do compromisso institucional e o planejamento das ações de gestão de documentos durante seu ciclo de vida (produção, utilização e destinação). Possui como linhas de ação os processos de: Elaborar e implementar a Política de Gestão de Documentos; Elaborar e implementar a política interna de preservação digital; Realizar análise do contexto institucional; Realizar gerenciamento de riscos e Promover a capacitação em gestão de documentos aos agentes públicos do órgão. 
+y = Produção – contempla as práticas relacionadas a regulamentação de procedimentos para otimizar a produção de documentos (determinar quais, quando e como os documentos serão produzidos, capturados, organizados e acessados). Possui como linhas de ação os processos de: Padronizar os procedimentos de protocolo; Controlar a produção dos documentos; Implementar rotinas de classificação de documentos na produção e Gerenciar o acesso aos documentos.  
+z = Utilização – contempla as práticas que envolvem a organização da documentação acumulada, controle de arquivamento, acesso e segurança, bem como a manutenção/armazenamento e preservação dos documentos. Possui como linhas de ação os processos de: Tratar a documentação acumulada; Estabelecer procedimentos de arquivamento; Assegurar a infraestrutura de armazenamento adequada; Estabelecer e aplicar medidas de segurança/ contingência para os casos de emergência; e Assegurar o acesso aos documentos.
+w = Destinação – contempla as práticas referentes aos procedimentos de controle de prazos, avaliação, transferência, eliminação e recolhimento dos documentos. Possui como linhas de ação os processos de: Instituir a Comissão Permanente de Avaliação de Documentos (CPAD); Gerenciar prazos de guarda e destinação dos documentos; Realizar a transferência de documentos; Realizar a eliminação de documentos e Realizar o recolhimento de documentos.
+Fonte De Dados Das Variáveis De Cálculo: Levantamento do Índice de Maturidade (LIM) dos órgãos setoriais do SIGA
+Forma De Disponibilização: Relatórios Anuais institucionais e Relatórios de Monitoramento
+Procedimento De Cálculo: Considera diversos componentes e linhas de ação, conforme exposto: https://www.gov.br/arquivonacional/pt-br/siga/monitoramento/diagnostico/Referencial_iMGDPDF_20250306.pdf
+Limitações: Baixa consciência dos gestores dos órgãos avaliados sobre a gestão de documentos.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Entrega: 2234
+Indicador: 11596
+Denominação: Índice de processos negociais abertos com entidades sindicais
+Sigla: Não se aplica
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-01-24 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual de processos negociais abertos com entidades sindicais signatárias do Protocolo da Mesa Nacional de Negociação Permanente (MNNP) e os acordos vigentes no período.
+Período Ou Data A Que Se Refere: De janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Janeiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: P = Quantidade de processos negociais abertos com entidades sindicais no ano;
+Q = Termos de acordos vigentes no ano; e
+N = Total de entidades sindicais signatárias do Protocolo da MNNP
+Fonte De Dados Das Variáveis De Cálculo: - Protocolo da Mesa Nacional de Negociação Permanente (Despacho de 13/07/2023, publicado no DOU de 14/07/2023);
+- Regimento Interno da Mesa Nacional de Negociação Permanente (Portaria SGPRT/MGI nº 3.634, de 13/07/2023);
+- Relatórios gerenciais da Diretoria de Relações de Trabalho no Serviço Público da Secretaria de Relações de Trabalho do Ministério da Gestão e da Inovação em Serviços Públicos (DERET/SRT/MGI).
+Forma De Disponibilização: Comunicação administrativa. Dados disponibilizados pela Diretoria de Relações de Trabalho no Serviço Público, da Secretaria de Relações de Trabalho do Ministério da Gestão e da Inovação em Serviços Públicos (DERET/SRT/MGI) , por meio do e-mail sgprt.deret@economia.gov.br.
+Procedimento De Cálculo: 1. (P) Identificar a quantidade total de processos negociais abertos com entidades sindicais - relatório gerencial, via e-mail sgprt.deret@economia.gov.br;
+2. (Q) Quantidade de acordos vigentes no ano - relatório gerencial interno da DERET/SRT/MGI - para as Mesas Centrais, considerar o calendário de reuniões ordinárias estabelecido pelo Regimento Interno da MNNP e, para as Mesas Específicas e Temporárias, considerar o calendário de reuniões estabelecido pela SRT/MGI - obter relatório gerencial através do e-mail sgprt.deret@economia.gov.br; 
+3. (N) Total de entidades sindicais signatárias do Protocolo da MNNP - relatório gerencial  interno da DERET/SRT/MGI; E
+3. Realizar o cálculo ((P + Q)/N x 100).
+Limitações: - Serão considerados apenas os processos negociais abertos com as entidades signatárias do Protocolo da MNNP;
+- Serão considerados os processos negociais abertos através da Mesa Central e da Mesa Específica e Temporária da MNNP.
+- Não será objeto de monitoramento a participação de entidades representativas nas Mesas Setoriais da MNNP;
+- Indicador limitado a uma casa decimal.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Entrega: 508
+Indicador: 9391
+Denominação: Índice geral de assinaturas eletrônicas avançadas Gov.br realizadas
+Sigla: IGAEAGOVBr
+Índice De Referência: 3900000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de assinaturas eletrônicas avançadas realizadas no Portal de Assinatura Eletrônica da Plataforma Gov.br e por aplicações públicas integradas por API à plataforma de assinaturas eletrônicas do ITI
+Período Ou Data A Que Se Refere: Mês maio de 2023
+Data De Divulgação/Disponibilização: 1º dia útil do mês subsequente ao mês apurado
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x representa uma assinatura eletrônica avançada gov.br realizada através das soluções providas pelo ITI para a Plataforma gov.br.
+Fonte De Dados Das Variáveis De Cálculo: Instituto Nacional de tecnologia da Informação (ITI)
+Forma De Disponibilização: Comunicação administrativa do ITI à SGD/MGI
+Procedimento De Cálculo: Cidadãos com conta gov.br níveis "Prata" e "Ouro", podem realizar assinaturas eletrônicas avançadas gov.br através das soluções providas pelo ITI para a Plataforma gov.br, quais sejam, o  Portal de Assinatura Eletrônica gov.br (https://assinador.iti.br) ou aplicação pública integrada via API. O ITI consolida o total mensal de assinaturas eletrônicas avançadas gov.br realizadas através das soluções providas.
+Limitações: Não se aplica.
+Notas Explicativas: O valor é computado automaticamente pela plataforma de assinaturas eletrônicas do ITI. É composto pelo total de assinaturas eletrônicas avançadas realizadas no Portal de Assinatura Eletrônica da Plataforma Gov.br e por aplicações públicas integradas por API à plataforma de assinaturas eletrônicas do ITI, por usuários PRATA e OURO da Plataforma Gov.br.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Entrega: 503
+Indicador: 9389
+Denominação: Índice geral de assinaturas eletrônicas qualificadas realizadas
+Sigla: IGAEQ
+Índice De Referência: 30000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de assinaturas eletrônicas qualificadas realizadas
+Período Ou Data A Que Se Refere: maio de 2023
+Data De Divulgação/Disponibilização: 1º dia útil do mês subsequente ao mês apurado
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x representa uma assinatura eletrônica qualificada realizada no Portal de Assinatura Eletrônica gov.br.
+Fonte De Dados Das Variáveis De Cálculo: Instituto Nacional de tecnologia da Informação (ITI)
+Forma De Disponibilização: Comunicação administrativa do ITI à SGD/MGI
+Procedimento De Cálculo: O  Portal de Assinatura Eletrônica gov.br (https://assinador.iti.br), mantido e operado pelo ITI para a Plataforma gov.br, permite a realização de assinaturas eletrônicas qualificadas por cidadãos que possuam certificados digitais ICP-Brasil em nuvem. O ITI consolida o total mensal de assinaturas eletrônicas qualificadas realizadas no Portal.
+Limitações: Não se aplica.
+Notas Explicativas: O valor é computado automaticamente pela plataforma de assinaturas eletrônicas do ITI. É composto pelo total de assinaturas eletrônicas qualificadas realizadas no Portal de Assinatura Eletrônica da Plataforma Gov.br, por usuários PRATA e OURO da Plataforma Gov.br detentores de certificados digitais ICP-Brasil em nuvem.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Entrega: 489
+Indicador: 9374
+Denominação: Integração dos cadastros administrativos federais existentes ao CIN
+Sigla: ICA
+Índice De Referência: 1.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-02 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de cadastros administrativos existentes no governo federal que realizarem sua integração ao banco da CIN.
+Período Ou Data A Que Se Refere: 30/12/2022
+Data De Divulgação/Disponibilização: ad hoc
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de cadastros administrativos federais integrados ao CIN
+Fonte De Dados Das Variáveis De Cálculo: Sistema próprio SGD (Plataforma de registro Civil)
+Forma De Disponibilização: Painel
+Procedimento De Cálculo: Soma simples dos cadastros que aderirem via plataforma
+Limitações: Hoje não há um levantamento confiável do total de cadastros administrativos existentes no Estado Brasileiro.
+Notas Explicativas: Esse índice ainda está em construção. Hoje não há levantamento de quantos cadastros administrativos existem, portanto não temos como calcular o percentual e optamos pelo número de aderentes.
+.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Entrega: 2660
+Indicador: 12021
+Denominação: Número acumulado de arquivos públicos, privados e comunitários participantes do Sistema Nacional de Arquivos (SINAR)
+Sigla: Não se aplica
+Índice De Referência: 647.0
+Em Apuração: Não
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Buscar organizações públicas eficazes é um dos objetivos da Agenda 2030. Nessa perspectiva ter órgãos e organizações públicas, privadas e comunitárias capazes de garantir o direto de acesso à informação e à memória do país é fundamental para o fortalecimento da cidadania. Nessa perspectiva, no próximo quadriênio, a presidência do Conselho Nacional de Arquivos (Conarq), na figura da Direção-Geral do Arquivo Nacional (AN), pretende envidar esforços para realização de um Prodc para assessoramento técnico, a fim de acelerar a participação de arquivos públicos, privados e comunitários no Sistema Nacional de Arquivos (Sinar), com o auxílio da Secretaria Executiva do Conarq. O Sinar tem por finalidade implementar a política nacional de arquivos.
+Período Ou Data A Que Se Refere: trimestral
+Data De Divulgação/Disponibilização: Abril / Julho / Outubro / Janeiro
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = documentos recebidos dos Órgãos do SINAR (conjunto de órgãos e entidades públicas ou privadas responsáveis pela gestão, preservação e acesso a documentos e arquivos no Brasil)
+Fonte De Dados Das Variáveis De Cálculo: Pesquisas/resultados das ações censitárias realizadas
+Forma De Disponibilização: Relatório elaborado pela SE-CONARQ
+Procedimento De Cálculo: Não se aplica
+Limitações: Os arquivos públicos, privados e comunitários não enviarem as informações solicitadas e não participarem da conferência nacional de arquivos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Entrega: 498
+Indicador: 9381
+Denominação: Número de certificados avançados emitidos
+Sigla: NCDGOVBr
+Índice De Referência: 610000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de certificados digitais avançados Gov.br emitidos por mês
+Período Ou Data A Que Se Refere: maio de 2023
+Data De Divulgação/Disponibilização: 1º dia útil do mês subsequente ao mês apurado
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x é o total de certificados digitais avançados gov.br emitidos, por mês, pela ACgov.br;
+ACgov.br é uma autoridade certificadora mantida e operada pelo ITI para a Plataforma gov.br.
+Fonte De Dados Das Variáveis De Cálculo: Instituto Nacional de tecnologia da Informação (ITI)
+Forma De Disponibilização: Comunicação administrativa do ITI à SGD/MGI
+Procedimento De Cálculo: Cidadãos com conta gov.br níveis "Prata" e "Ouro", quando realizam assinaturas eletrônicas avançadas gov.br através das soluções providas pelo ITI para a Plataforma gov.br, quais sejam, o  Portal de Assinatura Eletrônica gov.br (https://assinador.iti.br) ou aplicação pública integrada via API, têm um certificado digital avançado gov.br emitido, com validade de 1 ano. O ITI consolida o total mensal de certificados digitais avançados gov.br emitidos.
+Limitações: Não se aplica.
+Notas Explicativas: O valor é computado automaticamente pela plataforma de emissões de certificados digitais avançados do ITI. É composto pelo total de emissões bem sucedidas de certificados digitais avançados para usuários PRATA e OURO da Plataforma Gov.br.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Entrega: 492
+Indicador: 9377
+Denominação: Número de certificados ICP-Brasil emitidos
+Sigla: NCDICPBr
+Índice De Referência: 836000.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de certificados digitais ICP-Brasil emitidos por mês
+Período Ou Data A Que Se Refere: maio de 2023
+Data De Divulgação/Disponibilização: 2ª semana do mês seguinte ao mês apurado
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x é o total de certificados digitais emitidos, por mês, pela AC;
+n é o total de AC credenciadas na ICP-Brasil.
+Fonte De Dados Das Variáveis De Cálculo: Instituto Nacional de tecnologia da Informação (ITI)
+Forma De Disponibilização: https://numeros.iti.gov.br/
+Procedimento De Cálculo: Semanalmente, as Autoridades Certificadoras (AC) credenciadas na Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) enviam ao ITI informações dos certificados digitais por elas emitidos. O ITI recepciona as informações e faz a consolidação do total de certificados emitidos, por mês, por todas as AC credenciadas.
+Limitações: O valor pode sofrer ajustes ao longo do ano devido a eventuais atrasos no envio dos dados pelas ACs ao ITI.
+Notas Explicativas: O valor é computado mensalmente pelo ITI, a partir das informações enviadas de certificados digitais emitidos pelas Autoridades Certificadoras (ACs) credenciadas na ICP-Brasil.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Entrega: 1280
+Indicador: 10335
+Denominação: Número de documentos acessados
+Sigla: Não se aplica
+Índice De Referência: 2011431.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de documentos consultados presencialmente por usuários do Arquivo Nacional, no Rio de Janeiro e em Brasília, e os representantes digitais de documentos visualizados no SIAN.
+Período Ou Data A Que Se Refere: trimestral
+Data De Divulgação/Disponibilização: Abril / Julho / Outubro / Janeiro
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = arquivos digitais gerados pela digitalização de documentos, visualizados pelos usuários no SIAN. 
+y = documentos físicos agendados para consulta presencial pelos usuários ou para pesquisa em acervo pelos técnicos do atendimento a distância, na Unidade Rio de Janeiro e na Unidade Brasília.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informações do Arquivo Nacional (SIAN); Requisições de documentos para consulta.
+Forma De Disponibilização: Relatórios Anuais institucionais e Relatórios de Monitoramento
+Procedimento De Cálculo: Somatório dos documentos físicos consultados presencialmente nas unidades Rio de Janeiro e Brasília, mais os representantes digitais dos documentos visualizados.
+Limitações: Poucos documentos disponibilizados à consulta pública pelas áreas de processamento; Problemas tecnológicos que impeçam o acesso à rede do Arquivo Nacional.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Entrega: 1275
+Indicador: 10326
+Denominação: Número de documentos digitalizados
+Sigla: Não se aplica
+Índice De Referência: 809.834
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Entende-se como documento preservado em condições de acesso à consulta pública, aquele que foi submetido ao conjunto de ações orientadas para assegurar sua preservação, sejam elas de natureza analógica, ou digital, e  aos procedimentos técnicos orientados para sua identificação, organização e sistematização por meio de instrumentos de recuperação da informação com o objetivo de promover o seu acesso, de modo que estejam prontamente disponíveis para o atendimento de usuárias/os no tempo imediato de sua solicitação.
+Período Ou Data A Que Se Refere: trimestral
+Data De Divulgação/Disponibilização: Abril / Julho / Outubro / Janeiro
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Documentos preservados em condições de acesso público
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Informações do Arquivo Nacional (SIAN)
+Forma De Disponibilização: Relatórios Anuais institucionais e Relatórios de Monitoramento
+Procedimento De Cálculo: Somatório do número de páginas de documentos ou de documentos preservados em condições em acesso
+Limitações: Número de servidores em abono permanência e dificuldade de encontrar com facilidade pessoal técnico qualificado para realização do trabalho
+Notas Explicativas: Nas áreas de digitalização e preservação, a capacidade produtiva é calculada com base no número de páginas preservadas ou digitalizadas, já que cada página representa uma unidade de trabalho físico (geração de uma imagem digital ou preservação de uma folha).
+Desta forma, a produtividade por hora, equipamento ou operador é medida em páginas, não em documentos.
+O uso de “objeto digital” como unidade de medida no PPA 2024-2027 não demonstra a variabilidade de páginas contidas nos documentos arquivísticos. Tendo como referência os documentos digitalizados nos últimos 3 meses pelo Arquivo Nacional, inferimos que um documento textual, por exemplo, possui em média 44 páginas, enquanto documentos cartográficos e iconográficos frequentemente geram apenas uma ou duas imagens.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 263
+Entrega: 556
+Indicador: 9485
+Denominação: Número de famílias beneficiadas em programas habitacionais de interesse social
+Sigla: Não se aplica.
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Esse indicador reflete o número de famílias que foram beneficiadas em programas habitacionais de interesse social, a partir de imóveis da União, destinados pela SPU, refletindo a função socioambiental dessas áreas federais.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Última semana de março
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x é o número de famílias beneficiadas em programas habitacionais de interesse social.
+Fonte De Dados Das Variáveis De Cálculo: Secretaria do Patrimônio da União (SPU/MGI)
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Dados conforme consolidação do Relatório Mensal SPU (GAIA/Casa Civil - Gabinete Adjunto de Informações em Apoio à Decisão). Para obtenção do número de famílias beneficiadas filtrar o ano de referência na coluna "K" da planilha (DPFUS_09_dt_assinatura), desmarcar as "Declarações de Interesse de Serviço Público" na coluna "I" (DPFUS_05_ds_instrumento_destinacao), selecionar apenas a opção "24. Provisão Habitacional e Regularização Fundiária de Interesse Social" na coluna "Q" (DPFUS_16_ds_uso)  e somar os valores da coluna "N" (DPFUS_12_nu_familias_beneficiadas).
+Limitações: Sem comentários adicionais.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 263
+Entrega: 549
+Indicador: 9475
+Denominação: Número de imóveis disponibilizados para políticas públicas
+Sigla: Não se aplica
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se do somatório do número de imóveis da União destinados para políticas públicas.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Última semana de março
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x é o número de imóveis públicos disponibilizados para políticas públicas.
+Fonte De Dados Das Variáveis De Cálculo: Secretaria do Patrimônio da União (SPU/MGI)
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Dados conforme consolidação do Relatório Mensal SPU (GAIA/Casa Civil - Gabinete Adjunto de Informações em Apoio à Decisão). Para obtenção do número de destinações filtrar o ano de referência na coluna "K" da planilha (DPFUS_09_dt_assinatura), desmarcar as "Declarações de Interesse de Serviço Público" na coluna "I" (DPFUS_05_ds_instrumento_destinacao) e contar os valores da coluna "J" (DPFUS_06_ds_situacao).
+Limitações: Sem comentários adicionais.
+.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 298
+Entrega: 2157
+Indicador: 11503
+Denominação: Número de Ministérios atendidos pelo COLABORAGOV
+Sigla: Não se aplica.
+Índice De Referência: 6.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Quantidade de Órgãos atendidos pelos serviços de suporte administrativo no âmbito do ColaboraGov.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Fevereiro do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de Ministérios que são atendidos pelo ColaboraGov
+Fonte De Dados Das Variáveis De Cálculo: Secretaria de Serviços Compartilhados / MGI
+Forma De Disponibilização: Painel de informações gerenciais do ColaboraGov
+Procedimento De Cálculo: Atualizar a contagem no Canal de Informações do Projeto.
+Limitações: Restrições levantadas no TAP do Projeto.
+Resistência à mudança: Resistência por parte de dirigentes nos ministérios em aceitar o novo modelo de gestão de serviços. A mudança para um modelo de centralização de serviços pode ser difícil para alguns funcionários que estão acostumados com o modelo anterior. Eles podem resistir à mudança e ter dificuldades em se adaptar a novos processos e sistemas, bem como influenciar negativamente a nova proposta;
+Complexidade de implementação: A implantação da centralização de serviços pode ser complexa e requerer um investimento significativo em recursos financeiros e de pessoal, bem como a implementação de novos processos e sistemas de suporte;
+Perda de controle local: Com a centralização de serviços, algumas funções podem ser removidas do controle local e centralizadas em um único local. Isso pode levar a uma perda de controle sobre essas funções e afetar a capacidade das equipes locais de resolver problemas rapidamente;
+Dependência de terceiros: Deficiência de qualificação profissional para o desenvolvimento da implantação do modelo de centralização. Insuficiência de colaboradores para a prestação dos serviços que serão centralizados. Isso pode levar a problemas de qualidade e controle, além de afetar a flexibilidade e a capacidade de resposta;
+Aumento dos riscos de segurança: A centralização de dados e informações pode aumentar o risco de segurança, especialmente se esses dados estiverem em um único local. É importante implementar medidas adequadas de segurança cibernética para minimizar esses riscos;
+Falhas na implementação: A implementação de serviços compartilhados pode falhar se não for gerenciada corretamente. É importante que o ministério tenha uma estratégia clara, um plano de implementação bem definido e uma equipe dedicada para gerenciar a transição para o novo modelo.
+Notas Explicativas: Por se tratar de um projeto de alta complexidade e que mobiliza capacidades técnico-administrativas e capacidades políticas, interministerialmente, avaliamos que a dinâmica que envolve a mobilização dessas dimensões pode afetar a execução prevista.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 418
+Entrega: 1252
+Indicador: 10315
+Denominação: Número de municípios aderidos à Rede Gov.br
+Sigla: RedeGM
+Índice De Referência: 161.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Total de municípios que já aderiram formalmente à Rede Gov.br.
+Período Ou Data A Que Se Refere: Mês imediatamente anterior ou Ad hoc
+Data De Divulgação/Disponibilização: Mensal ou Ad hoc
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: REDEGM = municípios com adesão formal à rede Gov.br.
+Fonte De Dados Das Variáveis De Cálculo: Sistema próprio SGD (Rede Gov.br)
+Forma De Disponibilização: Painel
+Procedimento De Cálculo: Soma direta do número ou consulta ao dado de painel.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 418
+Entrega: 1261
+Indicador: 10316
+Denominação: Número de serviços incluídos no Corpus do VLIBRAS
+Sigla: SVLB
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Número total de serviços incluídos no VLIBRAS.
+Período Ou Data A Que Se Refere: Semestre imediatamente anterior
+Data De Divulgação/Disponibilização: Mês seguinte ao encerramento do semestre
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: SVLB = serviços no VLibras.
+Fonte De Dados Das Variáveis De Cálculo: Sistema próprio (VLIBRAS)
+Forma De Disponibilização: Ad hoc
+Procedimento De Cálculo: Consulta ao sistema
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Entrega: 2235
+Indicador: 11597
+Denominação: Percentual de produtos de dados inseridos ou evoluídos no Observatório de Pessoal
+Sigla: Não se aplica
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Calcula o percentual de atingimento da meta de Produtos de dados inseridos ou evoluídos no Observatório de Pessoal previstos no ano.
+Período Ou Data A Que Se Refere: ano anterior
+Data De Divulgação/Disponibilização: março do ano subsequente
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = quantidade de produtos de dados inseridos ou evoluídos no Observatório de Pessoal no ano 
+n = quantidade de Produtos de dados inseridos ou evoluídos no Observatório de Pessoal previstos no ano
+Fonte De Dados Das Variáveis De Cálculo: Observatório de Pessoal
+Forma De Disponibilização: O Observatório de Pessoal possui um cadastro de produtos de dados, que permite uma contabilização. Após o indicador apurado, pretende-se dar publicidade ao atingimento de metas via catálogo do próprio Observatório, tanto dos novos produtos de dados inseridos quanto os previstos. Além disso, o Observatório também cumpre o plano de dados abertos do MGI, que também é público.
+Procedimento De Cálculo: Apuração do quantitativo de produtos de dados criados no período.
+Levantamento através de controles internos dos produtos de dados evoluídos.
+Comparação dos produtos de dados evoluídos com a última atualização no Observatório.
+Cálculo do indicador.
+Limitações: - Cooperação dos gestores das políticas de pessoal
+- Manutenção da estratégia de fortalecimento da transparência ativa
+- Os percentuais almejados preveem eventuais replanejamentos, que podem ocasionar o não atingimento dos 100%, normal em projetos que dependem de várias áreas.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Entrega: 510
+Indicador: 9393
+Denominação: Percentual dos municípios com mais de 300 mil habitantes integrados a algum serviço da ID Digital
+Sigla: %GDM
+Índice De Referência: 48.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual do total de municípios com mais de 300 mil habitantes que utilizem alguma das soluções ou plataformas de governo digital da SGD, a exemplo do Login Gov.br, do Portal Único, APIs de interoperabilidade ou consulta de dados e informações, dentre outras.
+Período Ou Data A Que Se Refere: Janeiro a dezembro do ano anterior
+Data De Divulgação/Disponibilização: Em definição
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: MA = municípios aderentes a alguma solução 
+M> = municípios com mais de 300 mil habitantes
+Fonte De Dados Das Variáveis De Cálculo: SGD e IBGE
+Forma De Disponibilização: ad hoc
+Procedimento De Cálculo: Levantamento e soma, na plataforma, do número total de municípios utilizadores, e corte pelo dado mais recente de censo demográfico para municípios maiores que 300 mil habitantes.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Entrega: 570
+Indicador: 9499
+Denominação: Quantidade de formações e iniciativas em temáticas estratégicas ofertadas
+Sigla: TPFOE
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-12-30 00:00:00
+Unidade De Medida: quantidade
+Descrição: Quantidade de formações e iniciativas em temáticas estratégicas para fortalecer instituições e políticas públicas e impulsionar um Estado mais verde, inclusivo e digital.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de 2025
+Data De Divulgação/Disponibilização: fev do ano subsequente (nesse caso fev26)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x= quantidade de formações e iniciativas em temáticas estratégicas
+Fonte De Dados Das Variáveis De Cálculo: SUAP, EV.G, Repositório da Enap, Observatório da Enap.
+Forma De Disponibilização: Portal da Enap, seção acesso a informação, subseção transparência e prestação de contas, Painel PPA
+Procedimento De Cálculo: Coleta dos dados das bases do Observatório Enap
+Limitações: Sem comentários adicionais.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 298
+Entrega: 613
+Indicador: 9543
+Denominação: Taxa de adesão de Estados aos serviços e soluções de gestão
+Sigla: Não se aplica
+Índice De Referência: 0.0
+Em Apuração: Sim
+Unidade De Medida: percentual
+Descrição: Mede o percentual de Estados que pactuaram a implementação de soluções de modernização da gestão oferecidos. Esse indicador busca avaliar o nível de adesão e aceitação das ferramentas e práticas propostas, visando promover uma administração pública mais eficiente e inovadora.
+Período Ou Data A Que Se Refere: De janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = número de Estados que aderiram aos serviços e soluções de gestão 
+y = número total de Estados
+Fonte De Dados Das Variáveis De Cálculo: Painéis internos da Secretaria de Gestão e da Inovação
+Forma De Disponibilização: Painéis internos da Secretaria de Gestão e Inovação e relatórios digitais
+Procedimento De Cálculo: Somatório dos entes federativos que aderiram aos serviços e soluções de gestão
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 534
+Entrega: 2124
+Indicador: 11479
+Denominação: Valor total acumulado com compras centralizadas
+Sigla: não se aplica
+Índice De Referência: 3501715096.53
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: reais
+Descrição: Identificar o volume de contratações efetivadas, permitindo inferir o grau de abrangência alcançado nas licitações realizadas e a concretização, em termos financeiros, da economia estimada nas compras centralizadas.
+Período Ou Data A Que Se Refere: De janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Total contratado em compras centralizadas.
+Fonte De Dados Das Variáveis De Cálculo: ComprasGov, Painel de Compras
+Forma De Disponibilização: Painéis internos da Secretaria de Gestão e Inovação e relatórios digitais
+Procedimento De Cálculo: Identifica-se o valor total contratado em compras centralizadas.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Entrega: 2091
+Indicador: 11442
+Denominação: Variação na quantidade de certificados emitidos para agentes públicos estaduais e municipais em ação de desenvolvimento síncrona da Enap
+Sigla: PAPC
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Variação da quantidade certificados emitidos para agentes públicos estaduais e municipais em ações de desenvolvimento síncronas da Enap em relação ao ano anterior.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 dezembro de 2025
+Data De Divulgação/Disponibilização: fev do ano subsequente (nesse caso fev26)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: y= quantidade de certificado emitido para agente público estadual e municipal ano 2
+x= quantidade de certificado  emitido para agente público estadual e municipal ano 1"
+Fonte De Dados Das Variáveis De Cálculo: Certificados: no SUAP, refere-se à situação "concluído" atribuída automaticamente após fechamento de turma.
+Forma De Disponibilização: Portal da Enap, seção acesso a informação, subseção transparência e prestação de contas, Painel PPA
+Procedimento De Cálculo: Coleta dos dados (certificados emitidos) da base do SUAP
+Limitações: Sem comentários adicionais.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Entrega: 2105
+Indicador: 11449
+Denominação: Variação na quantidade de certificados emitidos para agentes públicos estaduais e municipais em curso da EV.G
+Sigla: PAPCEVG
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Variação na quantidade de certificados emitidos para agentes públicos estaduais e municipais em ações do catálogo da Escola Virtual Gov - EV.G em relação ao ano anterior.
+Período Ou Data A Que Se Refere: 01 de janeiro a 31 de dezembro de 2025
+Data De Divulgação/Disponibilização: fev do ano subsequente (nesse caso fev26)
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: y= quantidade de certificado emitido para agente público estadual e municipal em curso da EV.G ano 2
+x= quantidade de certificado emitido para agente público estadual e municipal em curso da EV.G ano 1
+Fonte De Dados Das Variáveis De Cálculo: Na EV.G, refere-se à situação de aluno "aprovado".
+Forma De Disponibilização: Portal da Enap, seção acesso a informação, subseção transparência e prestação de contas, Painel PPA
+Procedimento De Cálculo: Coleta dos dados (certificados emitidos) das bases da EV.G
+Limitações: Sem comentários adicionais.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2301
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 424
+Indicador: 10359
+Denominação: Indicador de Governança das Empresas Estatais - IG-SEST
+Sigla: IG-Sest
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-01-02 00:00:00
+Unidade De Medida: percentual
+Descrição: A partir do indicador já apurado pela Sest, construído com base na aplicação de questionário que abrange diversos eixos temáticos, propõe-se a alteração nos temas abordados de modo a incluir maior número de questões relacionadas às políticas públicas, como, por exemplo, responsabilidade ambiental e social, e que permitam o acompanhamento e a execução dessas. Assim, se tomará como referência a média dos indicadores das empresas estatais e busca-se, a partir de diretrizes de governança expedidas pela Sest, a melhoria do índice ano a ano.
+Período Ou Data A Que Se Refere: Ano anterior ao da aplicação do questionário
+Data De Divulgação/Disponibilização: segunda quinzena de dezembro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "IG*: % de variação entre a média do IG-Sest das empresas estatais em relação e a apuração do índice no exercício anterior
+N: Média do IG-Sest das empresas estatais no ano de apuração
+S: Média do IG-Sest das empresas estatais no ano de apuração anterior ao que se calcula"
+Fonte De Dados Das Variáveis De Cálculo: Resposta aos questionários encaminhados pela Sest às empresas estatais federais
+Forma De Disponibilização: Em dezembro de cada ano, no site da Sest na internet
+Procedimento De Cálculo: "A avaliação do IG-Sest é realizada por meio de aplicação de questionário, cujas questões são respondidas pelas próprias estatais participantes.
+O questionário aborda diversos temas (por exemplo, ""Políticas Públicas e Responsabilidade Social"" e ""Prestação de contas à sociedade""), e a metodologia atual de cálculo do indicador permite que sejam atribuídos pesos às questões, de modo a dar maior evidência a aspectos considerados mais relevantes ou para os quais haja a necessidade de maior grau de incentivo às boas práticas. 
+O Indicador de Governança de cada empresa é representado por uma nota entre 0 (pior) e 10 (melhor), calculada pela média ponderada das suas respostas."
+Limitações: O IG-Sest tem como objetivo principal induzir boas práticas de governança nas empresas estatais e ser instrumento de acompanhamento contínuo dessas empresas. Entretanto, não se trata de um instrumento impositivo de diretrizes do governo federal para as empresas estatais, vez que essas empresas possuem autonomia e gestão próprias. Portanto, eventuais aumentos nas médias dos resultados anuais apurados no IG-Sest poderão não se materializar, dadas as limitações próprias deste instrumento, que é não impositivo.
+Notas Explicativas: Metas para os ODSs: 5.c, 8.4, 8.5, 12.6
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 298
+Indicador: 9539
+Denominação: Indice de adesão às soluções de modernização sobre responsabilidade da SEGES pública
+Sigla: não se aplica
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador "Percentual de adesão às soluções de modernização sobre responsabilidade da SEGES" avalia a taxa de adesão e implementação das soluções de modernização propostas pela Secretaria de Gestão (SEGES)TransformaGov, TaxiGov, Almoxarifado Virtual, Compra Direta de Passagens,  TramitaGov.Br e Sistema de Processo Eletrônico.
+Período Ou Data A Que Se Refere: De janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: "i1 - % de execução dos Planos de Gestão Estratégica e Transformação Institucional
+i2 - % de implantação do Programa de Gestão
+i3 - % de órgãos e entidades aderentes à soluções da Central de Serviço Compartilhado (AVN, TáxiGov e Compra Direta de passagens)
+i4 - % de órgãos e entidades com processo eletrônico (solução digital, barramento e protocolo digital)"
+Fonte De Dados Das Variáveis De Cálculo: Painéis internos da Secretaria de Gestão e Inovação
+Forma De Disponibilização: Painéis internos da Secretaria de Gestão e Inovação e relatórios digitais
+Procedimento De Cálculo: Identifica-se forma isolada cada índice, conforme descrito nas variáveis de cálculo. Após, soma-se os valores e divide por 4.
+Limitações: não se aplica
+Notas Explicativas: não se aplica
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 534
+Indicador: 11475
+Denominação: Índice federativo de uso do ComprasGov
+Sigla: não se aplica
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Avalia o grau de adoção e utilização do sistema ComprasGov por diversos entes federativos no âmbito das compras governamentais. O ComprasGov é uma plataforma eletrônica desenvolvida para centralizar e otimizar os processos de compras públicas, buscando maior eficiência, transparência e economia de recursos.
+Período Ou Data A Que Se Refere: De janeiro a dezembro de cada ano
+Data De Divulgação/Disponibilização: Última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Número total de estados, municípios participantes do ComprasGov.
+B: Número de estados, municípios que efetivamente realizam compras por meio do ComprasGov.
+Fonte De Dados Das Variáveis De Cálculo: ComprasGov, Painel de Compras
+Forma De Disponibilização: Painéis internos da Secretaria de Gestão e Inovação e relatórios digitais
+Procedimento De Cálculo: Identifica-se o número total de estados, municípios e órgãos da administração pública participantes, bem como o número destes que efetivamente usam e realizam compras por meio do ComprasGov.
+Após, faz a relação entre o número de estados, municípios e órgãos da administração pública que efetivamente realizam compras por meio do ComprasGov com o Número total de estados, municípios e órgãos da administração pública participantes do ComprasGov, multiplicando o resultado por 100."
+Limitações: Não se aplica
+Notas Explicativas: Não se aplica
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Indicador: 10323
+Denominação: Número de documentos disponibilizados à consulta pública no Sistema de Informações do Arquivo Nacional
+Sigla: não se aplica
+Índice De Referência: 2446002.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de documentos disponibilizados no Sistema de Informações do Arquivo Nacional (SIAN) de forma analógica e digital.
+Período Ou Data A Que Se Refere: trimestral
+Data De Divulgação/Disponibilização: abril/ julho/ outubro/ janeiro
+Periodicidade: Trimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de documentos disponibilizados
+Fonte De Dados Das Variáveis De Cálculo: SIAN
+Forma De Disponibilização: Relatórios Anuais institucionais e Relatórios de Monitoramento
+Procedimento De Cálculo: Somatório dos documentos disponíveis para acesso.
+Limitações: Número de servidores em abono permanência e dificuldade de encontrar com facilidade pessoal técnico qualificado para realização do trabalho
+Notas Explicativas: Sem comentários adicionais
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Indicador: 9020
+Denominação: Percentual acumulado de CINs emitidas pela população
+Sigla: %CIN
+Índice De Referência: 0.05
+Em Apuração: Não
+Data De Apuração: 2023-01-01 00:00:00
+Unidade De Medida: percentual
+Descrição: Indica o percentual da população brasileira que já tem a CIN em mãos.
+Período Ou Data A Que Se Refere: Segundo semestre de 2022 até 31/12/2022, período em que o documento começou a ser emitido no país.
+Data De Divulgação/Disponibilização: O indicador é disponibilizado semanalmente em painel próprio do Ministério da Justiça
+Periodicidade: Semanal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de CINs emitidas. Numero de nacionais.
+Fonte De Dados Das Variáveis De Cálculo: Ministério da Justiça e IBGE
+Forma De Disponibilização: Painel (MJ) e tabelas (IBGE)
+Procedimento De Cálculo: Divisão simples quando da necessidade de apuração.
+Limitações: Não se aplica.
+Notas Explicativas: Não se aplica.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Indicador: 9495
+Denominação: Percentual de necessidades de desenvolvimento informadas pelos órgãos e entidades que enviarem seu respectivo relatório no prazo legal com execução de ações de desenvolvimento
+Sigla: Não se aplica.
+Índice De Referência: 35.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Levantamento, nos órgãos e entidades, da execução de ações de desenvolvimento para o atendimento das necessidades de desenvolvimento apresentadas pelos órgãos integrantes do SIPEC nos respectivos Planos de Desenvolvimento de Pessoas.
+Período Ou Data A Que Se Refere: 1º de janeiro a 31 de dezembro de cada ano
+Data De Divulgação/Disponibilização: 31 de março de cada ano
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = Número de necessidades de desenvolvimento com execução de ações de desenvolvimento
+y = Número total de necessidades de desenvolvimento identificadas
+Fonte De Dados Das Variáveis De Cálculo: A amostra de relatórios não é a mesma todo ano, devido à criação ou extinção de órgãos.
+Forma De Disponibilização: Relatório Consolidado elaborado pelo Órgão Central do SIPEC.
+Procedimento De Cálculo: Levantamento dados a partir dos relatórios de execução enviados pelos órgãos integrantes do SIPEC, conforme art. 23. da Instrução Normativa SGP/ENAP/SEDGG/ME nº 21, de 1º de fevereiro de 2021.
+Limitações: Não existe confronto com informações de outros sistemas, como SIAPE e SIAFI, por exemplo. As análises são realizadas unicamente com base no que foi informado, manualmente, no Portal SIPEC pelos órgãos e entidades.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 418
+Indicador: 10309
+Denominação: Taxa de municípios com mais de 300 mil habitantes utilizando ao menos uma das soluções de governo digital providas pela SGD
+Sigla: %GDM
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Percentual do total de municípios com mais de 300 mil habitantes que utilizem alguma das soluções ou plataformas de governo digital da SGD, a exemplo do Login Gov.br, do Portal Único, APIs de interoperabilidade ou consulta de dados e informações, dentre outras.
+Período Ou Data A Que Se Refere: Semestralmente imediatamente anterior
+Data De Divulgação/Disponibilização: Em definição
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios com população acima de 300 mil
+Fonte De Dados Das Variáveis De Cálculo: SGD e IBGE
+Forma De Disponibilização: Ad hoc
+Procedimento De Cálculo: Número de municípios com população acima de 300 mil utilizando plataforma SGD dividido pelo total de municípios na condição demográfica.
+Limitações: Sem comentários adicionais.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 263
+Indicador: 9455
+Denominação: Valor total dos imóveis destinados para políticas públicas
+Sigla: Não se aplica.
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: R$ bilhão
+Descrição: Trata-se do somatório do valor de avaliação, em bilhão de reais, dos imóveis destinados para políticas públicas. Tendo em vista a diversidade de imóveis, tanto em localização, tamanho, caracterização e usos, o valor de avaliação permitirá a  comparação e o acompanhamento no tempo do objetivo específico.
+Período Ou Data A Que Se Refere: Janeiro a dezembro de cada exercício
+Data De Divulgação/Disponibilização: Última semana de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: x = valor de avaliação dos imóveis destinados para políticas públicas.
+Fonte De Dados Das Variáveis De Cálculo: Secretaria do Patrimônio da União (SPU/MGI)
+Forma De Disponibilização: Comunicação administrativa
+Procedimento De Cálculo: Dados conforme consolidação do Relatório Mensal SPU (GAIA/Casa Civil - Gabinete Adjunto de Informações em Apoio à Decisão). Para obtenção do valor total dos imóveis destinados filtrar o ano de referência na coluna "K" da planilha (DPFUS_09_dt_assinatura), desmarcar as "Declarações de Interesse de Serviço Público" na coluna "I" (DPFUS_05_ds_instrumento_destinacao) e somar todos os valores da coluna "H" (DPFUS_04_valor_imovel).
+Limitações: Sem comentários adicionais.
+Notas Explicativas: Sem comentários adicionais.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2301
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 126
+Enunciado: Implantar o sistema de identificação do cidadão com o estabelecimento da Carteira de Identidade Nacional.
+Descrição: Implantar e consolidar a CIN como documento único e suficiente de identificação do cidadão brasileiro, reduzindo burocracias, falhas de segurança, fraudes em benefícios e fragilidades correlatas ao sistema atual, em uma solução de identificação única e digital.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 263
+Enunciado: Ampliar a destinação de imóveis da União para políticas públicas, com foco na habitação de interesse social
+Descrição: Por meio da destinação de imóveis da União, inclusive os oriundos do INSS, pretende-se retomar a função socioambiental das áreas federais, sob gestão da SPU, mitigando desigualdades sociais, econômicas e territoriais. Pretende-se contribuir para ampliar o número de unidades habitacionais; ampliar a regularização fundiária; reduzir riscos sociais e ambientais em territórios vulneráveis; qualificar a infraestrutura urbana; fomentar políticas públicas locais; e ampliar o número de imóveis da União com destinação.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 286
+Enunciado: Fortalecer as capacidades estatais pelo aperfeiçoamento do sistema de carreiras e de gestão de pessoas, pela qualificação no recrutamento e desenvolvimento de competências e pela democratização das relações de trabalho na Administração Pública Federal.
+Descrição: Aprimorar e divulgar as políticas de gestão de pessoas e aperfeiçoar os sistemas de carreiras da Administração Pública Federal com a participação dos servidores públicos federais nas decisões que afetam o seu trabalho, garantindo o respeito aos seus direitos e deveres. Adicionalmente, desenvolver e aperfeiçoar programas de recrutamento, formação e inovação para agentes públicos com base nas competências necessárias para a implementação de políticas públicas, incluindo as questões relacionadas à igualdade de raça, gênero, diversidade e desenvolvimento sustentável.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 298
+Enunciado: Impulsionar a adesão aos sistemas estruturantes de gestão para a promoção da inovação, da transformação e da ampliação da capacidade do Estado para geração de valor na prestação de serviços públicos.
+Descrição: Promover a transformação e a expansão da capacidade do Estado para gerar valor na prestação de serviços públicos a partir da adoção de sistemas estruturantes de gestão, de abordagens inovadoras e colaborativas na administração pública, buscando aprimorar a eficiência, qualidade e alcance dos serviços oferecidos aos cidadãos. Assim, o Estado busca se tornar mais ágil, eficaz e adaptável às necessidades da sociedade, com foco na entrega de serviços públicos de excelência, que atendem de forma mais assertiva e abrangente às demandas da população.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 418
+Enunciado: Ampliar a transformação digital na União e nos demais entes federados.
+Descrição: Evoluir e aprofundar a transformação digital dos serviços e meio de interação do Estado com o cidadão em nível federal e fomentar a adoção das plataformas federais ou de plataformas próprias na transformação digital de estados e municípios
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 419
+Enunciado: Ampliar o acesso aos documentos, por meio do fortalecimento da gestão de documentos e arquivos, sob coordenação do Arquivo Nacional, assegurando o direito à informação e à memória do País.
+Descrição: Fortalecer e expandir a atuação do Arquivo Nacional na gestão de documentos, recolhimento, processamento técnico, preservação e acesso ao patrimônio arquivístico, garantindo o pleno cumprimento de sua missão e promovendo o direito à informação e memória do País.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 424
+Enunciado: Promover o alinhamento entre as empresas estatais federais e as políticas públicas.
+Descrição: Dada a mudança de estrutura e diretrizes às quais a Sest se submete, sem o foco voltado à desestatização das empresas federais, faz-se necessária uma mudança institucional no sentido de aprimorar a governança dessas empresas e de fortalecer as mesmas. Nesse contexto inclui-se o aprimoramento das relações com todos os atores envolvidos com as empresas estatais, principalmente os ministérios setoriais, como forma de acompanhar o planejamento e verificar a execução das políticas públicas. Além disso, cabe à Sest apoiar as empresas na busca de uma governança calcada no desenvolvimento sustentável e inclusivo.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Objetivo Específico: 534
+Enunciado: Induzir políticas estratégicas de compras e parcerias governamentais que impulsionem o desenvolvimento econômico e social inclusivo, solidário e sustentável.
+Descrição: Promover e incentivar a implementação de políticas estratégicas de compras e parcerias governamentais que tenham como objetivo impulsionar o desenvolvimento econômico e social inclusivo, solidário e sustentável. Assim, compras e parcerias feitas pelo governo serão direcionadas para apoiar projetos e iniciativas que promovam a inclusão social, a solidariedade entre os cidadãos e a sustentabilidade ambiental e econômica, de modo a fortalecer a economia, promover a justiça social e garantir a preservação do meio ambiente, criando uma sociedade mais equitativa e próspera para todos.
+Órgão: 46000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2301
+
+Exercício: 2025
+Programa: 2301
+Objetivo: 1267
+Enunciado: Ampliar e qualificar a gestão, os serviços e as políticas governamentais, para a sociedade e a administração pública, apoiando e potencializando a inovação e o fortalecimento das capacidades do Estado.
+Descrição: Ampliar a capacidade de atuação do Estado, de forma a torná-lo mais efetivo na prestação de serviços públicos, agindo como um motor para o desenvolvimento econômico, social e inclusivo, com foco na gestão, governança, transparência e participação social, por meio do fortalecimento das instituições e dos agentes que formulam e implementam políticas públicas, o aprimoramento de órgãos públicos e atores-chave relacionados às políticas econômicas, a oferta de serviços públicos digitais e a consolidação dos recursos estratégicos do estado, como as empresas estatais e o patrimônio público.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2301
+
+Exercício: 2025
+Programa: 2301
+Título: Transformação do Estado para a Cidadania e o Desenvolvimento
+Tipo: Finalístico
+Órgão: 46000.0
+Público-Alvo: Demais órgãos do Governo Federal, sociedade em geral
+Descrição Do Problema: Pode-se descrever o problema como a dificuldade do Estado em responder à crescente complexidade dos desafios sociais, ambientais e econômicos. Esse problema se reflete em desafios de instituições públicas, que dizem respeito aos agentes públicos, e em desafios de ordem social, em especial na interface entre cidadãos e serviços públicos.
+Causa Do Problema: As causas do problema podem ser definidas em alguns eixos. 
+Primeiramente, é necessário observar a crescente transformação digital no país, refletindo-se no uso da internet pela população brasileira. Essa nova realidade impõe ao Governo Federal a oferta de serviços públicos digitais, que devem ser estruturados a partir da seleção e desenvolvimento de servidores capacitados, implementação de infraestrutura tecnológica e ampliação da capacidade de governança do Estado.
+Um segundo aspecto é relacionado ao baixo quantitativo de concursos públicos realizados nos últimos anos. Para a formulação e implementação de políticas públicas efetivas, é necessário atrair e reter talentos para a Administração Pública, por meio de negociações com entidades coletivas, oferta de programas de capacitação e ampliação da força de trabalho.
+Um terceiro aspecto é o enfraquecimento da governança sobre os recursos estratégicos do Estado, como empresas estatais e patrimônio público. Uma baixa capacidade de projetar uma visão relevante para os recursos do Estado, aliado ao enfraquecimento do processo decisório sobre ações importantes, levam à necessidade de uma renovação nos instrumentos de gestão estratégica e governança sobre estes recursos.
+Por fim, a crescente complexidade das demandas sociais reflete-se na criação de instrumentos de gestão que, por vezes, ampliam a complexidade do próprio Setor Público em operar esse arcabouço. Dessa forma, são necessárias ações de inovação na gestão governamental para qualificar processos e gerar novas capacidades estatais.
+Evidências Do Problema: Conforme Pesquisa Latinobarômetro, disponível em Banco Interamericano de Desenvolvimento (BID), 2017, Governments that Serve - Innovations that Improve Service Delivery to Citizens  (fonte: Accenture. Digital Disruption: The Growth Multiplier disponível em  https://www.accenture.com/us-en/insight-digital-disruption-growth-multiplier), 71% da confiança no governo é determinada por fatores relacionados aos serviços prestados tais como a igualdade no tratamento, o fornecimento de informações adequadas, a qualidade do atendimento e a capacidade de resposta dos serviços às necessidades do cidadão . Neste contexto, a adoção de tecnologias digitais é fator relevante para atender às crescentes expectativas dos cidadãos e, consequentemente, aumentar a confiança da população na capacidade do governo. Além disso, no que diz respeito à transformação digital do governo, é estimado que a cada 1% de crescimento na digitalização do governo, crescem, proporcionalmente, 0,5% do PIB do país; 0,13 pontos do Índice de Desenvolvimento Humano (IDH) e 1,9% do comércio internacional.
+Dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) “Acesso à Internet e à televisão e posse de telefone móvel celular para uso pessoal”, relativa ao ano de 2021, aponta que houve um aumento no número de domicílios com internet, chegando a 90,0% dos lares brasileiros. Em termos absolutos, são 65,6 milhões de domicílios conectados. Entre os 183,9 milhões de pessoas com mais de 10 anos de idade no país; 84,7% utilizaram a internet no período de referência da Pnad TIC, em 2021. A pesquisa mostra, ainda, crescimento na conectividade em áreas rurais, que saiu de 57,8% e chegou em 74,7% dos domicílios em 2021. https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/34954-internet-ja-e-acessivel-em-90-0-dos-domicilios-do-pais-em-2021 . Posta esta contextualização, comprova-se a importância da digitalização de serviços públicos e de acesso às políticas públicas.
+Em julho de 2023, 4181 serviços estão disponíveis de maneira digital aos usuários, o que corresponde a 90% dos serviços digitalizáveis no nível federal. No Painel de Monitoramento dos Serviços Federais é possível visualizar as principais estatísticas dos serviços públicos federais disponíveis no portal gov.br. A ferramenta traz dados como a evolução da transformação digital na oferta de serviços, a avaliação da satisfação dos usuários, a quantidade de acessos às páginas de serviço e o feedback sobre a utilidade das informações apresentadas. https://www.gov.br/governodigital/pt-br/transformacao-digital/central-de-qualidade/painel-de-monitoramento-de-servicos-federais 
+Segundo estudo da consultoria McKinsey, a expansão da Identidade Digital (ID) no Brasil pode alavancar o PIB em 3% até o ano de 2030. Somente obtendo documentos de forma desagregada estima-se que os brasileiros gastem cerca de R$ 7 bilhões. Esse mesmo documento cita relatório do Banco Mundial destacando que as iniciativas de identificação permitem que a população use serviços bancários de mais de 1,7 bilhão de indivíduos e ajudam a economizar cerca de 110 bilhões de horas por meio de serviços governamentais digitais simplificados e acesso a populações vulneráveis a serviços e benefícios sociais. Fonte: https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth 
+No que tange à potencialização das empresas estatais, faz-se importante avalia a evolução do IG-Sest, o indicador que permite acompanhar o desempenho da qualidade da governança das empresas estatais federais. Em 5 ciclos de avaliação aplicados, percebe-se clara evolução dos resultados. Importante destacar que o indicador vem sendo aperfeiçoado a cada ciclo, incorporando elementos para incremento da acuracidade da medida. Nos quatro primeiros ciclos, por exemplo, o indicador saiu de 4,15 para 8,48. No 5º ciclo, quando o indicador passou a considerar diretrizes da OCDE e passou por reformulação geral, o indicador apresentou resultado 8,07. Neste contexto, evidencia-se a necessidade de uma atuação estratégica do Estado permitindo a evolução dos requisitos de governança relacionados às empresas estatais. https://www.gov.br/economia/pt-br/assuntos/empresas-estatais-federais/igsest 
+No âmbito da gestão dos imóveis de propriedade da União, destaca-se a destinação de imóveis para atendimento de demandas interesse socioambiental, em especial, a demanda de habitação de interesse social para população de menor renda nas diversas regiões do país, em articulação com o Programa Minha Casa Minha Vida, bem como para a implantação de equipamentos públicos, e as intervenções que ampliem o acesso da população à infraestrutura, em especial, em intervenções previstas nos projetos prioritários do Governo Federal, como o novo PAC. No início de 2023, foi criado formulário eletrônico para que movimentos sociais e entidades apresentassem demandas por destinação de imóveis da União para regularização fundiária e unidades habitacionais de interesse social. Até o início de julho/2023, foram recebidas 256 demandas de 105 entidades com atuação em 50 municípios de 14 estados e do DF. 
+A recuperação do quantitativo e valorização dos servidores públicos mostra-se premente. Conforme dados do Painel Estatístico de Pessoal (PEP), o quadro de servidores em maio de 2021 (584,9 mil servidores) foi inferior ao quantitativo observado em 2011 (585,1 mil). A análise histórica das informações mostra queda a partir de 2017 – ano em que o governo federal contava com 634.157 servidores. O número de ingresso (especialmente por meio de concurso público) sofreu forte queda e o número de aposentadorias, somente no período de 2019 a 2022 foi de quase 75 mil.
+Justificativa Para A Intervenção: Justifica-se essa intervenção pela necessidade de um olhar estratégico sobre a gestão governamental, em especial seus instrumentos, processos, governança, tecnologias e recursos. Esse olhar busca ampliar a capacidade Estatal de forma a tornar o Estado mais efetivo – não apenas do ponto de vista fiscal, mas pela qualificação das entregas, gerando valor público e agindo como um motor para o desenvolvimento econômico, social e inclusivo.
+Evolução Histórica: A questão do aperfeiçoamento da gestão pública já foi objeto de PPAs anteriores. Por exemplo, no PPA 2012/2015 e no PPA 2016/2019, já contavam com Programas de com foco no provimento de serviços públicos com maior qualidade e na realização de ações estruturais e democráticas para que o Brasil caminhe em direção ao desenvolvimento pleno e ampla justiça social. Os programas também focavam em novas tecnologias de gestão, de forma a ampliar o uso das tecnologias de informação, incorporar indicadores de resultado às políticas públicas, aprimorar a coordenação intersetorial e intergovernamental e valorizar, de forma sustentável e responsável, os servidores públicos federais. 
+Não se identificou, no PPA 2019-2023, Programa com tais características. 
+Além do PPA, algumas iniciativas já apontam para o foco do Programa aqui proposto. Por exemplo, o Programa de Gestão Estratégica e Transformação do Estado (TransformaGov), instituído pelo decreto 10.382/2020, que objetiva avaliar e modernizar a gestão estratégica dos órgãos integrantes da administração pública federal direta, autárquica e fundacional. O intuito é otimizar a implementação de políticas públicas, conferir mais eficiência ao gasto público e entregar mais valor à sociedade.
+O programa reúne um conjunto de soluções de curto e médio prazo já desenvolvidas para apoiar os órgãos da administração pública federal no desenvolvimento de novas soluções de aprimoramento da gestão. O TransformaGov compreende ações em cinco dimensões: 
+•	Governança e gestão estratégica
+•	Gestão de pessoas
+•	Processos
+•	Infraestrutura e logística
+•	Arranjos institucionais e estruturas organizacionais
+Na dimensão “Governança e gestão estratégica”, o programa prevê apoio aos órgãos atendidos no alinhamento entre a Estratégica Nacional de Desenvolvimento Econômico e Social (ENDES), as estratégias setoriais, o Plano Plurianual (PPA) e o planejamento estratégico dos órgãos. Esse alinhamento permite ao Estado definir as políticas públicas que pretende entregar com o orçamento disponível.
+Na dimensão “Processos”, o TransformaGov busca a simplificação, a digitalização, a integração e a centralização dos processos finalísticos, gerenciais e de suporte dos órgãos da administração pública federal.
+Já na área de “Arranjos institucionais e estruturas organizacionais”, o programa foca na utilização dos sistemas estruturantes da administração pública federal, parcerias e descentralização administrativa, revisão de macroprocessos e estruturas gerenciais.
+Na dimensão de "Infraestrutura e logística" o programa apoia a implementação a adoção de medidas de racionalização e economia na ocupação predial e nas atividades logísticas. 
+Por fim, a dimensão “Gestão de Pessoas” tem foco no dimensionamento da força de trabalho e otimização dos processos de gestão de pessoas.
+Comparações Internacionais: O Estado Brasileiro enfrenta inúmeras dificuldades em lidar com a crescente complexidade dos desafios sociais, ambientais e econômicos, especialmente quando comparado a outros países. Embora o Brasil seja uma das maiores economias emergentes do mundo e possua vastos recursos naturais, ainda enfrenta obstáculos significativos em sua capacidade de implementar políticas públicas eficazes e garantir o desenvolvimento sustentável em face das mudanças globais.
+
+A seguir, analisaremos algumas políticas que dão sustentação ao Programa Transformação do Estado para a Cidadania e o Desenvolvimento.
+
+1. Transformação Digital
+O Índice de Governo Eletrônico (EGDI) é uma pesquisa realizada a cada dois anos pelas Nações Unidas, desde 2003. Ela é a média ponderada das pontuações normalizadas nas três mais importantes dimensões do governo eletrônico, a saber: (i) o escopo e a qualidade dos serviços online quantificados como Índice de Serviços Online (OSI); (ii) o estado do desenvolvimento da infraestrutura de telecomunicações ou o Índice de Infraestrutura de Telecomunicações (TII); e (iii) o capital humano inerente ou o Índice de Capital Humano (HCI). Cada um destes índices é uma medida composta que pode ser extraída e analisada independentemente.  
+
+Dentre estas três dimensões, o índice de Serviços online (OSI) está mais aderente às competências do MGI.
+
+Em sua última edição (2022), o OSI compreendeu a verificação de 180 questões. O país avaliado recebeu uma pontuação de 1 para cada serviço ou recurso que estava prontamente disponível e acessível por meio de um canal de atendimento. Caso o recurso de destino não estiver disponível é atribuído 0. Também se introduziu uma nova escala de avaliação graduada para refletir melhor a variabilidade observada na prestação de serviços transacionais em meios físicos e canais digitais. Para um subconjunto de perguntas relacionadas a capacidade de concluir transações foram concedidos pontos em uma escala de 0-3. Em termos de resultados, o Brasil saiu da 55ª posição em 2010 para ocupar a 14ª posição em 2022.
+
+2. Patrimônio Público
+Uma das políticas relacionadas ao patrimônio público é que destina bens públicos para outros entes federativos ou famílias. No Brasil, por vezes, há a necessidade de superar desafios relacionados à complexidade legal e à falta de clareza nos processos de transferência. A burocracia excessiva pode retardar ou dificultar a destinação adequada de bens públicos para usos específicos, prejudicando o aproveitamento desses recursos em benefício da população.
+
+Em contraste, alguns países, como Canadá e Alemanha, possuem sistemas mais eficientes para a destinação de bens públicos para governos locais ou para grupos específicos, com mecanismos que facilitam a transferência legal e transparente de propriedades para atender a necessidades específicas da sociedade.
+
+3. Capacitação de Servidores Públicos
+Como principais tendências e boas práticas internacionais destacam-se a descentralização da gestão das formações para melhor adequar às necessidades das diferentes áreas governamentais; o fortalecimento da cultura de aprendizagem contínua, para se adaptar a desafios e demandas em constante mudança; o estímulo a redes colaborativas e comunidades de prática, que reconhece a expertise dos servidores em resolver problemas públicos e promove o compartilhamento de conhecimentos e experiências; e o investimento à formação de instrutores especializados em temas estratégicos para garantir a qualidade desses cursos. Para impulsionar a inovação, destacam-se a criação de unidades especializadas que incubam e aceleram a solução de problemas públicos e as comunidades virtuais oficiais para comunicação e troca de experiências entre servidores de todo os níveis de Governo.
+
+Além disso, pelas experiências internacionais, é possível apontar diferentes tipos de arranjos e parcerias para avançar essa agenda no setor público: Chile e Peru tiveram apoio técnico e financiamento direto de instituições como Banco Mundial, Banco Interamericano de Desenvolvimento e o Centro Latinoamericano de Administração para o Desenvolvimento (CLAD) para importantes reformas estatais e de pessoal ao longo de mais de uma década. Já países europeus recorrem frequentemente à União Europeia e à cooperação internacional para compartilhar melhores práticas. Estados Unidos, Reino Unido, Canadá e Singapura permitem a competição entre empresas públicas e privadas para prestar serviços de consultoria de inovações em todo o Governo.
+
+A Escola Nacional de Administração Pública - ENAP atua alinhada às tendências globais de formação e inovação no setor público, procurando aprimorar seus programas e oferecer oportunidades de desenvolvimento de competências e capacidades estatais necessárias para atender demandas contemporâneas da sociedade.
+
+4. Empresas Estatais
+A partir do advento da “Lei das Estatais” – lei nº 13.303/2016 – e do Decreto de regulamentação nº 8.945/2016, foram instituídas regras de governança, práticas de gestão de riscos e de controles internos, assim como requisitos de transparência, que orientaram as empresas estatais a aperfeiçoar suas políticas e estruturas corporativas, buscando aderência com boa parte dos parâmetros e diretrizes de governança e gestão preconizados pela OCDE, os quais são internacionalmente reconhecidos e referência para os seus países membros.
+
+Nesse contexto, é fundamental que instrumentos de avaliação de governança, de coordenação e gestão, além da melhoria da transparência, tais como o IG-Sest e o novo Sistema de informações e relacionamento das empresas estatais, sejam aprimorados e implementados tendo como referência as melhores práticas internacionais, com vistas à valorização da propriedade estatal e ao cumprimento efetivo das políticas públicas e missões para as quais essas empresas foram constituídas.
+Relação Com Os Ods: Objetivo 8. Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todas e todos
+Objetivo 9. Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação
+Objetivo 16. Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas em todos os níveis
+Objetivo 17. Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável
+Agentes Envolvidos: Órgãos da esfera federal, sociedade em geral
+Articulação Federativa: A articulação federativa do programa se dará a partir da construção colaborativa de instrumentos, estratégias e soluções para os temas de transformação digital, gestão pública e patrimônio da união. A colaboração poderá acontecer por meio de construção de instâncias colegiadas, parcerias, acordos, além do constante diálogo, necessário para a elaboração de políticas de gestão efetivas.
+Enfoque Transversal: O Programa encontra pontos em comum com políticas voltadas à diversidade e inclusão, com um olhar importante para raça, gênero e demais diversidades, aplicando instrumentos de gestão pública para promover essas pautas dentro da administração pública e com atores-chave. Dessa forma, a atuação transversal do programa se dá tanto por oferecer ferramentas de gestão para as políticas transversais, quanto pela inclusão de uma perspectiva de diversidade para os mesmos instrumentos. 
+Além disso, o Programa está relacionado à implementação de ações de Tecnologia da Informação (em especial no caso da digitalização de políticas e serviços), processos de compras governamentais que atendem outros Ministérios, destinação de imóveis em articulação com programas de habitação e relação com empresas estatais supervisionadas por diversos ministérios.
+Marco Legal: O Programa traz avanços em termos de gestão para que os órgãos federais possam otimizar suas entregas para a sociedade. Desta forma, encontramos relação direta com a legislação vigente, tanto no âmbito constitucional, quanto nível legal e infralegal brasileiro.
+Planos Nacionais, Setoriais E Regionais: Planejamento Estratégico Institucional – PEI
+Lei Orçamentária Anual - LOA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

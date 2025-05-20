@@ -1,0 +1,2316 @@
+passage: Programa Número 2310
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 136
+Entrega: 982
+Indicador: 9976
+Denominação: Índice de ações que impactam no combate ao trabalho análogo ao de escravo e tráfico de pessoas
+Sigla: NETE1
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: índice numérico
+Descrição: O indicador revela o esforço da Inspeção do Trabalho como um todo, de forma direta e indireta, que gera impacto na política de repressão do trabalho análogo ao de escravo e do tráfico de pessoas. O índice considera tanto ações diretas, como ações não específicas, mas que ocorrem em atividade rural, assim como ações de inteligência fiscal
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: número de ações do GEFM
+B: número de ações fiscais de combate ao trabalho análogo ao de escravo das unidades regionais da Inspeção do Trabalho
+C: número de ações de fiscalização rural
+D: número de ações de inteligência fiscal específica para trabalho análogo ao de escravo e tráfico de pessoas
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados da Inspeção do Trabalho
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Soma ponderada do número de ações fiscais do GEFM, número de ações de combate ao trabalho analógo ao escravo desenvolvidas pelas Regionais, número de ações de fiscalização rural e número de ações de inteligência fiscal em trabalho análogo ao escravo e tráfico de pessoas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1219
+Indicador: 10271
+Denominação: Número de acidentes ou doenças do trabalho analisados
+Sigla: NESST1
+Índice De Referência: 1520.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de análises de acidentes ou doenças do trabalho pelos Auditores-Fiscais
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de acidentes ou doenças do trabalho analisados
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do SFITWEB, com aferições mensais, na primeira quinzena do mês subsequente.
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Somatório das análises de acidentes ou doenças do trabalho
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 140
+Entrega: 1024
+Indicador: 10016
+Denominação: Número de ações fiscais com crianças e adolescentes afastados de situação de trabalho infantil
+Sigla: NETI1
+Índice De Referência: 761.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O presente indicador permite avaliar o desempenho da Auditoria Fiscal do Trabalho na realização de ações voltadas à efetiva constatação de trabalho infantil. Além disso, o indicador direciona a realização de ações fiscais planejadas e efetivas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de ações fiscais com crianças e adolescentes afastados de situação de trabalho infantil
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Apuração do quantitativo de relatórios de inspeção que contém na aba “2.3 Trabalho Infantil”  indicação de crianças e adolescentes afastados de situação de trabalho infantil.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 140
+Entrega: 1035
+Indicador: 10029
+Denominação: Número de capacitações EAD sobre trabalho infantil na ENIT para integrantes de organizações governamentais e não governamentais
+Sigla: NETI3
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a disponibilização de cursos, em formato EAD, por meio da plataforma da Escola Nacional da Inspeção do Trabalho, sobre noções gerais do trabalho infantil
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cursos, em formato EAD, sobre trabalho infantil disponibilizdos por meio da plataforma da ENIT
+Fonte De Dados Das Variáveis De Cálculo: Escola Nacional da Inspeção do Trabalho - ENIT
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Apuração do quantitativo de cursos, em formato EAD, sobre trabalho infantil que foram disponibilizados por meio da plataforma da ENIT
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 932
+Indicador: 9916
+Denominação: Número de cenários e projeções elaborados
+Sigla: NCENPROJE
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Trata-se de publicação com informações de cenários e projeções por CBO  e UF para os dois anos e cinco anos seguintes
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cenários e projeções elaborados
+Fonte De Dados Das Variáveis De Cálculo: Projeto em desenvolvimento com apoio da OIT
+Forma De Disponibilização: Divulgação nos sites do Ministério do Trabalho e Emprego e da OIT
+Procedimento De Cálculo: Somatório de modelos de projeção elaborados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 133
+Entrega: 433
+Indicador: 9311
+Denominação: Número de clientes atendidos em operações de microcrédito produtivo orientado
+Sigla: NCMPO
+Índice De Referência: 4223431.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a quantidade de beneficiários de  operações de microcrédito produtivo orientado
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de clientes atendidos em operações de microcrédito produtivo orientado
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Gestão do PNMPO - SIMPO
+Forma De Disponibilização: Portal do Ministério do Trabalho e Emprego
+Procedimento De Cálculo: O indicador é calculado com base em extração de dados parametrizados para o período no SIMPO
+Limitações: A consolidação dos dados só está disponivel no final do 1º trimestre do exercício posterior  ao exercicio das contratações
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1238
+Indicador: 10300
+Denominação: Número de Comissões Nacionais Tripartites Temáticas setoriais instituídas
+Sigla: NESST5
+Índice De Referência: 5.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a instituição de Comissões Nacionais Tripartites Temáticas para acompanhar a implementação e necessidade de revisão das Normas Regulamentares vigentes e as novas que forem aprovadas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de Comissões Nacionais Tripartites Temáticas instituídas
+Fonte De Dados Das Variáveis De Cálculo: Secretaria de Inspeção do Trabalho / Ministério do Trabalho e Emprego
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Somatório de Comissões Nacionais Tripartites Temáticas instituídas
+Limitações: A quantidade de Comissões Nacionais Tripartites Temáticas - CNTT precisa ser aprovada na Comissão Tripartite Paritária Permanente - CTPP
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1224
+Indicador: 10281
+Denominação: Número de Comitês setoriais implantados
+Sigla: NESST3
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Os comitês setoriais envolverão governo, trabalhadores e empregadores na resolução de conflitos. Assim, a quantidade desses Comitês é a melhor forma de avaliar quantos segmentos estão sendo acompanhados de forma coletiva
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de Comitês setoriais implantados
+Fonte De Dados Das Variáveis De Cálculo: Relatórios produzidos ou colecionados pela Secretaria de Inspeção do Trabalho
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Somatório de de Comitês setoriais implantados
+Limitações: A quantidade de Comitês precisa ser validada pela Secretaria de Inspeção do Trabalho, para assegurar que os Comitês estão em regular funcionamento
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 382
+Entrega: 939
+Indicador: 9924
+Denominação: Número de Conferências Nacionais do Trabalho realizadas
+Sigla: NCN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a realização de Conferências Nacionais do Trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total  de Conferências Nacionais do Trabalho realizadas
+Fonte De Dados Das Variáveis De Cálculo: Processo Sei
+Forma De Disponibilização: Relatório de eventos realizados
+Procedimento De Cálculo: Mensuração do número de Conferências realizadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 382
+Entrega: 937
+Indicador: 9923
+Denominação: Número de Conferências Regionais do Trabalho realizadas
+Sigla: NCR
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a realização de Conferências Regionais do Trabalho com a finalidade de democratizar e reestruturar as relações do trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de Conferências Regionais do Trabalho realizadas
+Fonte De Dados Das Variáveis De Cálculo: Processo Sei
+Forma De Disponibilização: Relatório de eventos realizados
+Procedimento De Cálculo: Somatório do número de Conferências realizadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Entrega: 1639
+Indicador: 10830
+Denominação: Número de cursos sobre aprendizagem profissional disponíveis na ENIT
+Sigla: NEAPDZ2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a disponibilização de cursos sobre aprendizagem profissional na Escola Nacional da Inspeção do Trabalho - ENIT para contadores, empregadores e outros atores relacionados
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de cursos  sobre aprendizagem profissional disponibilizados na ENIT
+Fonte De Dados Das Variáveis De Cálculo: SEI e ENIT
+Forma De Disponibilização: Relatório de Gestão e Diretrizes da Fiscalização
+Procedimento De Cálculo: Verificação dos cursos no SEI e ENIT
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 830
+Indicador: 9783
+Denominação: Número de divulgação mensal da estatística ampliada sobre o mercado de trabalho
+Sigla: RAISDivMes
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é uma referência direta a quantidade de divulgações mensais efetivamente realizadas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de divulgações da estatística ampliada sobre o mercado de trabalho
+Fonte De Dados Das Variáveis De Cálculo: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho
+Forma De Disponibilização: Divulgação dispobilizada publicamente no sítio: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/estatisticas-trabalho
+Procedimento De Cálculo: Somatório das divulgações mensais realizadas
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Entrega: 1642
+Indicador: 10840
+Denominação: Número de encontros estaduais realizados sobre aprendizagem profissional
+Sigla: NEAPDZ4
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador acompanha a realização dos encontros estaduais sobre aprendizagem profissional
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de encontros estaduais realizados sobre aprendizagem profissional
+Fonte De Dados Das Variáveis De Cálculo: SEI
+Forma De Disponibilização: Relatório de Gestão e Diretrizes da Fiscalização
+Procedimento De Cálculo: Verificação dos encontros no SEI
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Entrega: 1629
+Indicador: 10820
+Denominação: Número de entidades formadoras de aprendizes fiscalizadas
+Sigla: NEAPDZ1
+Índice De Referência: 239.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador é o somatório de todas entidades formadoras efetivamente fiscalizadas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de entidades formadoras fiscalizadas.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho - SFITWeb
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Extração dos dados do CNAP e SFIT
+Notas Explicativas: É importante definir uma amostra de fiscalizações que seja válida para fins de orientação e correção de desvios, considerando as atuais limitações da Inspeção do Trabalho. Não se espera contemplar a totalidade das entidades.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 139
+Entrega: 1586
+Indicador: 10762
+Denominação: Número de eventos da Campanha Nacional pelo Trabalho Doméstico Decente
+Sigla: TEDOM2
+Índice De Referência: 6.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador aponta o número de eventos da Campanha Nacional pelo Trabalho Doméstico Decente, demonstrando as ações de sensibilização, informação e capacitação da sociedade em geral
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de eventos da Campanha Nacional pelo Trabalho Doméstico Decente realizados
+Fonte De Dados Das Variáveis De Cálculo: Página eletrônica da Secretaria de Inspeção do Trabalho
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Somatório de eventos da Campanha Nacional pelo Trabalho Doméstico Decente realizados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1230
+Indicador: 10290
+Denominação: Número de eventos realizados no âmbito da CANPAT
+Sigla: NESST4
+Índice De Referência: 9.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O número de eventos demonstra a quantidade de ações de conscientização que foram realizadas ao longo do ano no âmbito da Campanha. Dessa forma, é mais fácil ter a proporção do trabalho desenvolvido no período.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de eventos realizados pela coordenação nacional da CANPAT
+Fonte De Dados Das Variáveis De Cálculo: Secretaria de Inspeção do Trabalho / Ministério do Trabalho e Emprego
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Somatório de eventos realizados pela coordenação nacional da CANPAT
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 138
+Entrega: 1490
+Indicador: 10652
+Denominação: Número de fiscalizações de discriminação, assédio ou violência no trabalho
+Sigla: NEDIS1
+Índice De Referência: 3260.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador aponta a presença fiscal em matéria de combate a práticas discriminatórias, de assédio e outras violências nas relações de trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de fiscalizações de discriminação, assédio ou violência no trabalho realizadas
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados da Inspeção do Trabalho e Sistema eSocial
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Somatório das  fiscalizações de discriminação, assédio ou violência no trabalho
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Entrega: 1644
+Indicador: 10852
+Denominação: Número de jovens inseridos na aprendizagem profissional na Administração Pública
+Sigla: NJAP
+Índice De Referência: 9649.0
+Em Apuração: Não
+Data De Apuração: 2023-02-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a contratação de aprendizes na Administração Pública, seja direta, autárquica ou fundacional, nos níveis federais, estaduais e municipais
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeiro trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de jovens inseridos na aprendizagem profissional na Administração Pública
+Fonte De Dados Das Variáveis De Cálculo: Dados obtidos via Esocial, RAIS e CAGED
+Forma De Disponibilização: RAIS e CAGED
+Procedimento De Cálculo: Na RAIS, aplicar os seguintes filtros: total de aprendizes contratados no exercício, e CNPJ público ou CNAE (Administração pública, defesa e seguridade social; Autarquia Federal; Fundação Pública de Direito Público Estadual ou do Distrito Federal).
+Limitações: Para acessar as informações na RAIS e CAGED será necessário utilizar filtros específicos
+Notas Explicativas: Para o cálculo não considerar as empresas estatais, que são submetidas às mesmas regras que empresas privadas.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 132
+Entrega: 434
+Indicador: 9313
+Denominação: Número de jovens qualificados por meio de programas de qualificação e ações de custeio à aprendizagem profissional
+Sigla: QSPJuv
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha o número de jovens beneficiários das políticas de qualificação social e profissional, a partir de seu acesso às políticas promovidas pelo Ministério do Trabalho e Emprego
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: final do segundo trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de jovens qualificados por meio da aprendizagem profissional e de programas de qualificação voltados para a juventude
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de execução apresentados pelos parceiros.
+Forma De Disponibilização: Síntese dos indicadores apresentados pelos parceiros
+Procedimento De Cálculo: Somatório do público da juventude beneficiado pelas ações de qualificação social e profissional informados pelos parceiros.
+Notas Explicativas: O índice de referência é base zero em decorrência da reconstrução do Departamento de Políticas de Trabalho para a Juventude, bem como por não haver, até então, desagregação de políticas de qualificação específicas para o segmento que constituia apenas o público prioritário da política geral de qualificação.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 142
+Entrega: 1651
+Indicador: 10873
+Denominação: Número de malhas de FGTS de inadimplência e sonegação implementadas
+Sigla: TEFGTS4
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador mostra a quantidade de malhas implementadas refletindo a inteligência da auditoria fiscal do trabalho no intuito de direcionar as fiscalizações e atingir melhores resultados
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de malhas de FGTS de inadimplência e sonegação implementadas
+Fonte De Dados Das Variáveis De Cálculo: Projeto de implementação de malhas de FGTS
+Forma De Disponibilização: A quantidade de malhas constará no Relatório de Gestão
+Procedimento De Cálculo: Aferir o quantitativo de malhas implementadas pela SIT
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 2094
+Indicador: 11444
+Denominação: Número de materiais sobre relações do trabalho elaborados
+Sigla: NMRT
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-23 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a elaboração de materiais para distribuição à sociedade com a finalidade de disseminar pesquisas, dados e informações sobre relações do trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de materiais sobre relações do trabalho elaborados
+Fonte De Dados Das Variáveis De Cálculo: Secretaria de Relações do Trabalho
+Forma De Disponibilização: Secretaria de Relações do Trabalho
+Procedimento De Cálculo: Somatório de todos os materiais elaborados no período
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 897
+Indicador: 9911
+Denominação: Número de novas categorias de trabalhadores incluídas nas estatísticas públicas
+Sigla: CatTrab
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador apresenta o quantitativo de novas diferentes categorias de trabalhadores cujo exercício do trabalho está sendo refletido nas estatísticas públicas. Traduz a capacidade do Ministério do Trabalho e Emprego em sistematizar as diferentes formas de trabalho existentes no Brasil
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de novas categorias de trabalhadores incluídas nas estatísticas públicas
+Fonte De Dados Das Variáveis De Cálculo: Estatísticas públicas de trabalho (RAIS/CAGED)
+Forma De Disponibilização: Divulgações realizadas em pdet.mte.gov.br
+Procedimento De Cálculo: Somatório das novas categorias contempladas nas estatísticas públicas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1653
+Indicador: 10875
+Denominação: Número de novos estudos e pesquisas publicados visando a melhoria das condições de trabalho e proposição de políticas públicas de prevenção em segurança e saúde no trabalho
+Sigla: NEPP
+Índice De Referência: 17.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura os documentos institucionais provenientes de novos  estudos, pesquisas e diagnósticos sobre fatores determinantes de acidentes e doenças relacionadas ao trabalho.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeiro trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de novos  estudos, pesquisas e diagnósticos sobre fatores determinantes de acidentes e doenças relacionadas ao trabalho publicados
+Fonte De Dados Das Variáveis De Cálculo: Publicações institucionais da Fundacentro
+Forma De Disponibilização: Portal institucional
+Procedimento De Cálculo: Somatório de novos  estudos, pesquisas e diagnósticos sobre fatores determinantes de acidentes e doenças relacionadas ao trabalho publicados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 931
+Indicador: 9914
+Denominação: Número de observatórios regionais (unidade da federação, município e sub-região) participantes da rede
+Sigla: NObserva
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a ampliação da rede de Observatórios do Mercado de Trabalho permitindo que a produção de informações seja melhor aproveitada e espelhe mais consistentemente a realidade local, ajudando assim a desenhar e implementar políticas públicas mais aderentes às necessidades locais
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de observatórios regionais (unidade da federação, município e sub-região) participantes da rede
+Fonte De Dados Das Variáveis De Cálculo: Projeto da Rede de Observatórios do Trabalho
+Forma De Disponibilização: Divulgação no site dos observatórios
+Procedimento De Cálculo: Somatório dos observatórios regionais (unidade da federação, município e sub-região) participantes da rede
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 2102
+Indicador: 11447
+Denominação: Número de painéis de dados no Portal de Informações sobre Relações do Trabalho disponibilizados
+Sigla: NP
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-23 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha a evolução da disponibilização de painéis de dados no Portal de Informações sobre Relações do Trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de painéis de dados disponibilizados no Portal de Informações sobre Relações do Trabalho
+Fonte De Dados Das Variáveis De Cálculo: Portal de Informações sobre Relações do Trabalho
+Forma De Disponibilização: Portal de Informações sobre Relações do Trabalho
+Procedimento De Cálculo: Somatório de painéis disponibilizados no período
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 1205
+Indicador: 10246
+Denominação: Número de painéis de dados para promoção da igualdade de oportunidades no mercado de trabalho criados e/ou atualizados
+Sigla: PPI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a criação e atualização de um conjunto de painéis de dados para promoção da igualdade de oportunidades no mercado de trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeira semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de painéis de dados para promoção da igualdade de oportunidades no mercado de trabalho criados e/ou atualizados
+Fonte De Dados Das Variáveis De Cálculo: A definir após a elaboração do projeto.
+Forma De Disponibilização: A definir após a elaboração do projeto.
+Procedimento De Cálculo: Somatório do conjunto de painéis de dados para promoção da igualdade de oportunidades no mercado de trabalho criados e/ou atualizados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 132
+Entrega: 437
+Indicador: 9316
+Denominação: Número de parcerias firmadas para a qualificação em Tecnologia da Informação por meio de estratégia de empregabilidade para egressos do sistema de cotas das Instituições de Ensino Técnico e Superior
+Sigla: NPF
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-26 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha  as parcerias firmadas para a qualificação em Tecnologia da Informação por meio de estratégia de empregabilidade para egressos do sistema de cotas das Instituições de Ensino Técnico e Superior
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de parcerias firmadas para a qualificação em Tecnologia da Informação por meio de estratégia de empregabilidade para egressos do sistema de cotas das Instituições de Ensino Técnico e Superior
+Fonte De Dados Das Variáveis De Cálculo: Processo Sei
+Forma De Disponibilização: Publicação nos painéis de promoção da igualdade de oportunidades no mercado de trabalho
+Procedimento De Cálculo: Somatório das parcerias firmadas
+Notas Explicativas: Os painéis de promoção da igualdade de oportunidades no mercado de trabalho ainda serão desenvolvidos
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 137
+Entrega: 956
+Indicador: 9945
+Denominação: Número de PCD ou reabilitadas incluídas no mercado de trabalho formal por força direta da ação fiscal
+Sigla: NEPCD1
+Índice De Referência: 14900.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: pessoa
+Descrição: O número de PCD ou reabilitados incluídos no mercado de trabalho formal por força direta da ação fiscal se apresenta como o melhor indicador para monitorar a entrega por representar a realidade extraída do Sistema Federal de Inspeção do Trabalho.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de PCD ou reabilitadas incluídas no mercado de trabalho formal por força direta da ação fiscal
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho Web - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Somatório de pessoas com deficiência e reabilitadas incluídas no mercado de trabalho formal nos Relatórios de Inspeções, por força direta da ação fiscal, aferido no SFITWeb.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1652
+Indicador: 10874
+Denominação: Número de pessoas alcançadas por ações de difusão de conhecimentos técnicos e científicos em segurança e saúde no trabalho
+Sigla: NPA
+Índice De Referência: 126805.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de pessoas alcançadas pelas ações de difusão de conhecimento técnico-científico coordenadas pela Fundacentro ou parceiros institucionais
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeiro trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de pessoas alcançadas pelas ações de difusão de conhecimento técnico-científico coordenadas pela Fundacentro
+Fonte De Dados Das Variáveis De Cálculo: Portal da Fundação, redes sociais (Youtube, Twitter, etc); Biblioteca Eletrônica Científica Online Scielo (Revista Brasileira de Saúde Ocupacional - RBSO); e Fundacentro Escuta.
+Forma De Disponibilização: Portal institucional
+Procedimento De Cálculo: Somatório de pessoas alcançadas pelas ações de difusão de conhecimento técnico-científico coordenadas pela Fundacentro
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 156
+Entrega: 380
+Indicador: 9236
+Denominação: Número de profissionais capacitados pelo Ministério do Trabalho e Emprego para atuarem com mediação e negociação coletiva de trabalho
+Sigla: NC
+Índice De Referência: 57.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a evolução da capacitação ofertada aos servidores do Ministério do Trabalho e Emprego para atuarem como mediadores e aos representantes de entidades sindicais laborais para atuarem como negociadores
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de profissionais capacitados pelo Ministério do Trabalho e Emprego para atuarem com mediação e negociação coletiva de trabalho
+Fonte De Dados Das Variáveis De Cálculo: Processo Sei: relação de participantes concluintes
+Forma De Disponibilização: Os dados não são divulgados
+Procedimento De Cálculo: Indicador obtido por meio da mensuração da relação de  participantes concluintes
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 382
+Entrega: 943
+Indicador: 9930
+Denominação: Número de Semanas Nacionais de Promoção da Negociação Coletiva de Trabalho realizadas
+Sigla: NSN
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a realização de  Semanas Nacionais de Promoção da Negociação Coletiva de Trabalho voltadas para os servidores públicos do Ministério do Trabalho e Emprego e atores sociais do mundo do trabalho, visando divulgar, fortalecer, promover  e ampliar os conhecimentos e  atividades sobre negociações coletivas
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total  de Semanas Nacionais de Promoção da Negociação Coletiva de Trabalho realizadas
+Fonte De Dados Das Variáveis De Cálculo: Processo Sei
+Forma De Disponibilização: Relatório de eventos realizados
+Procedimento De Cálculo: Mensuração do número de Semanas Nacionais realizadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Entrega: 1641
+Indicador: 10838
+Denominação: Número de seminários nacionais sobre aprendizagem profissional realizados
+Sigla: NEAPDZ3
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura a realização de seminários nacionais sobre aprendizagem profissional
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de seminários nacionais sobre aprendizagem profissional  realizados
+Fonte De Dados Das Variáveis De Cálculo: SEI
+Forma De Disponibilização: Relatório de Gestão e Diretrizes da Fiscalização
+Procedimento De Cálculo: Verificação dos seminários no SEI
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 138
+Entrega: 1499
+Indicador: 10666
+Denominação: Número de seminários nacionais sobre discriminação, assédio e violência no trabalho
+Sigla: NEDIS3
+Índice De Referência: 3.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador aponta as iniciativas de sensibilização, informação e formação da sociedade em geral, incluindo o corpo fiscal, por parte da Inspeção do Trabalho, em matéria de combate a práticas discriminatórias, de assédio e outras violências nas relações de trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: Total de seminários em matéria de combate a práticas discriminatórias, de assédio e outras violências nas relações de trabalho realizados
+Fonte De Dados Das Variáveis De Cálculo: Página eletrônica da Secretaria de Inspeção do Trabalho
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Somatório de seminários em matéria de combate a práticas discriminatórias, de assédio e outras violências nas relações de trabalho realizados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 133
+Entrega: 258
+Indicador: 9076
+Denominação: Número de trabalhadores beneficiados por meio da concessão de financiamentos pelo Proger
+Sigla: NTBCFP
+Índice De Referência: 38006.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura, por meio de amostra, a quantidade de trabalhadores beneficiados pelo PROGER
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Média do estoque de empregados de amostra de empresas tomadoras de crédito do PROGER
+B = Número de operações do PROGER com empresas
+C = Número de pessoas físicas que receberam crédito do PROGER no período
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Geral de Admissões e Desligamentos - CAGED e Sistema de Acompanhamento de Aplicações Financeiras - SAEP
+Forma De Disponibilização: Divulgadas no Portal do FAT
+Procedimento De Cálculo: O indicador é calculado com base em extração de dados parametrizados para o período no SAEP
+Limitações: A consolidação dos dados só está disponivel no final do 1º trimestre do exercício posterior  ao exercicio das contratações.
+Notas Explicativas: A destinação de recursos para o PROGER não é obrigatória e depende de aprovação da Programação de Depósitos Especiais pelo CODEFAT
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 132
+Entrega: 436
+Indicador: 9315
+Denominação: Número de trabalhadores concluintes de cursos da Escola do Trabalhador 4.0
+Sigla: PCDET40
+Índice De Referência: 10000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha o número  de trabalhadores concluintes de cursos na Escola do Trabalhador 4.0
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeiro trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de trabalhadores concluintes de cursos da Escola do Trabalhador 4.0
+Fonte De Dados Das Variáveis De Cálculo: Power BI - Escola do Trabalhador 4.0
+Forma De Disponibilização: Síntese dos indicadores apresentados no Power BI da Escola do Trabalhador 4.0
+Procedimento De Cálculo: Somatório de trabalhadores concluintes de cursos da Escola do Trabalhador 4.0
+Notas Explicativas: As metas não foram desagregadas, porque, em regra, as vagas ofertadas incluem todos os públicos elencados com prioritários, porém não exclusivos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 131
+Entrega: 259
+Indicador: 9079
+Denominação: Número de unidades do SINE com modelo de atendimento implementado
+Sigla: SINEMOD
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Representa a quantidade de unidades de atendimento com modelo de atendimento implementado
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A= Total de unidades do SINE com modelo de atendimento implementado
+Fonte De Dados Das Variáveis De Cálculo: Planos de Ações e Serviços do Bloco de Gestão e Manutenção da Rede de Atendimento autorizados no exercício de referência
+Forma De Disponibilização: Planos de Ações e Serviços do Bloco de Gestão e Manutenção da Rede de Atendimento autorizados na Transferegov Mais Brasil no Programa Gestão e Manutenção da Rede de Atendimento do SINE no exercício de referência
+Procedimento De Cálculo: O indicador é calculado com base na extração da informação contida na aba "meta" da Transferegov
+Limitações: O atingimento das metas descritas guarda estrita dependência dos recursos alocados na ação orçamentária que custeia o Sistema Nacional de Emprego.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 132
+Entrega: 435
+Indicador: 9314
+Denominação: Número de vagas para qualificação social e profissional de trabalhadores pactuadas com todos os parceiros
+Sigla: QSPT
+Índice De Referência: 8000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha o número de vagas para qualificação social e profissional de trabalhadores pactuadas com todos os parceiros.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: final do segundo trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de vagas para qualificação social e profissional de trabalhadores pactuadas com todos os parceiros.
+Fonte De Dados Das Variáveis De Cálculo: Relatórios de execução apresentados pelos parceiros.
+Forma De Disponibilização: Síntese dos indicadores apresentados pelos parceiros
+Procedimento De Cálculo: Somatório de vagas para qualificação social e profissional de trabalhadores pactuadas com todos os parceiros.
+Notas Explicativas: As metas não foram desagregadas, porque, em regra, as vagas ofertadas incluem todos os públicos elencados com prioritários, porém não exclusivos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 933
+Indicador: 9918
+Denominação: Número de versões do eSocial disponibilizadas
+Sigla: NVD-eSocial
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de versões disponibilizadas para os respondentes do eSocial
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de versões do eSocial disponibilizadas
+Fonte De Dados Das Variáveis De Cálculo: A definir pelo Conselho Gestor do eSocial
+Forma De Disponibilização: Divulgação no site do eSocial
+Procedimento De Cálculo: Somatórios das versões do eSocial disponibilizadas
+Notas Explicativas: As versões do eSocial são definidas por meio de Portaria interministerial (Ministério do Trabalho e Emprego, Ministério da  Previdência Social e Ministério da Fazenda)
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Entrega: 1221
+Indicador: 10276
+Denominação: Número malhas fiscais de obrigações de segurança e saúde no trabalho em funcionamento
+Sigla: NESST2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador quantifica o número de malhas fiscais de obrigações de segurança e saúde no trabalho em funcionamento. Entende-se como malha fiscal o procedimento automatizado de identificação e tratamento de irregularidades.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de malhas fiscais de obrigações de segurança e saúde no trabalho em funcionamento
+Fonte De Dados Das Variáveis De Cálculo: Secretaria de Inspeção do Trabalho / Ministério do Trabalho e Emprego
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Somatório de de malhas fiscais de obrigações de segurança e saúde no trabalho em funcionamento
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 134
+Entrega: 328
+Indicador: 9169
+Denominação: Números de novos serviços disponibilizados no aplicativo da Carteira de Trabalho Digital
+Sigla: NSDIG
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador pretende medir o acréscimo de novos serviços digitais no aplicativo da Carteira de Trabalho Digital.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de novos serviços disponibilizados no aplicativo da Carteira de Trabalho Digital
+Fonte De Dados Das Variáveis De Cálculo: Aplicativo da Carteira de Trabalho Digital
+Forma De Disponibilização: Aplicativo da Carteira de Trabalho Digital
+Procedimento De Cálculo: O indicador será apurado somando-se o número de novos serviços disponibilizados no aplicativo no período considerado
+Limitações: O indicador pode ser impactato pelo não cumprimento das entregas por parte da Dataprev
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 139
+Entrega: 1596
+Indicador: 10768
+Denominação: Percentual de acerto na identificação de empregadores que mantém empregadas domésticas informais
+Sigla: TEDOM3
+Índice De Referência: 33.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador aponta o  percentual de empregadores com os quais foram encontrados empregados domésticos com registros irregulares
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: total de empregadores fiscalizados em que foram encontradas empregadas domésticas em situação de registro irregular; 
+B: total de empregadores domésticos fiscalizados no atributo registro.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Divisão aritmética simples, sendo o dividendo o total de empregadores domésticos em que foram encontradas empregadas domésticas em situação de registro irregular e, o divisor, o total de empregadores domésticos fiscalizados no atributo registro, e o quociente, multiplicado por 100.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 135
+Entrega: 1402
+Indicador: 10526
+Denominação: Percentual de acerto na identificação de empresas que mantêm empregados informais
+Sigla: TEINF3
+Índice De Referência: 36.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador aponta o percentual de empregadores fiscalizados nos quais foi detectada situação de informalidade
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = total de empresas fiscalizadas em que foram encontrados empregados em situação de registro irregular
+
+B =  total de empresas fiscalizadas
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho Web - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo a quantidade de empresas em que foram encontrados empregados em situação de registro irregular, por divisor a quantidade total de empresas fiscalizadas na atividade de Combate à Informalidade, e por quociente o valor decimal multiplicado por 100 correspondente ao percentual de empresas irregulares ante ao total inspecionado
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 135
+Entrega: 1384
+Indicador: 10496
+Denominação: Percentual de ações fiscais com empregados em situação de registro irregular com constatação de fraude ao vínculo
+Sigla: TEINF1
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador aponta o percentual de ações fiscais em que foram encontrados empregados irregulares nas quais havia arranjo contratual fraudulento (em oposição à mera falta de reconhecimento do vínculo de emprego).
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = total de ações fiscais com empregados em situação de registro irregular nas quais a irregularidade utilizava arranjo contratual fraudulento
+
+B = total de ações fiscais com empregados em situação de registro irregular
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados da Inspeção do Trabalho e Sistema eSocial
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo a quantidade de ações fiscais em que foram encontrados empregados em situação de registro irregular mediante arranjo formal fraudulento, por divisor a quantidade total de ações fiscais em que foram encontrados empregados em situação de registro irregular, e por quociente o valor decimal multiplicado por 100 correspondente ao percentual de empregadores que adotavam arranjo formal fraudulento na manutenção de empregados em situação de registro irregular.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 142
+Entrega: 1650
+Indicador: 10872
+Denominação: Percentual de alcance das empresas inadimplentes no FGTS
+Sigla: TEFGTS3
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador mostra a quantidade de empregadores inadimplentes  alcançados pela Inspeção do trabalho em relação ao total de empregadores inadimplentes no FGTS Digital, refletindo o melhor alcance da auditoria fiscal  do trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de empregadores inadimplentes  alcançados pela Inspeção do Trabalho
+B= total de empregadores inadimplentes no FGTS Digital
+Fonte De Dados Das Variáveis De Cálculo: FGTS Digital e Sistema de fiscalização e cobrança
+Forma De Disponibilização: Radar e Relatório de Gestão
+Procedimento De Cálculo: Acessar o Sistema de fiscalização e cobrança, apurar a quantidade de empregadores cobrados e/ou fiscalizados e a quantidade de empresas inadimplentes conforme dados declarados no FGTS Digital
+Notas Explicativas: O indicador constará no documento Diretrizes de Planejamento dos respectivos anos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 136
+Entrega: 993
+Indicador: 9994
+Denominação: Percentual de atendimento de denúncias de trabalho análogo ao de escravo e de tráfico de pessoas qualificadas como consistentes e contemporâneas pela DETRAE
+Sigla: NETE2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador revela a capacidade da Inspeção do Trabalho de atender as denúncias devidamente qualificadas, consistentes e com fatos contemporâneos que versam sobre trabalho análogo ao de escravo e tráfico de pessoas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de relatórios de Inspeção nos quais há atendimento de denúncia qualificada de trabalho análogo ao de escravo
+B = Total de denúncias consistentes e contemporâneas de trabalho análogo ao de escravo assim consideradas pela DETRAE
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados da Inspeção do Trabalho e Sistema Ipê
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo o número de Relatórios de Inspeção nos quais houve atendimento de uma denúncia considerada consistente e contemporânea de trabalho análogo ao de escravo pela DETRAE e por divisor o total de denúncias assim consideradas pela DETRAE.
+Notas Explicativas: O indicador foi criado durante a elaboração do PPA e ainda será apurado, podendo ser calculado inclusive para períodos anteriores ao atual PPA, com base nos dados do Sistema Federal de Inspeção do Trabalho.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 139
+Entrega: 1555
+Indicador: 10741
+Denominação: Percentual de atendimento de denúncias de trabalho doméstico análogo ao de escravo e de tráfico de pessoas, qualificadas como consistentes e contemporâneas pela DETRAE
+Sigla: TEDOM1
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador aponta o percentual de atendimento de denúncias de trabalho doméstico análogo ao de escravo e de tráfico de pessoas, qualificadas como consistentes e contemporâneas pela Divisão de Fiscalização para Erradicação do Trabalho Escravo - DETRAE.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de ações fiscais nas quais há atendimento de denúncia qualificada de trabalho escravo doméstico
+
+B = Total de denúncias de trabalho doméstico análogo ao de escravo e de tráfico de pessoas qualificadas como consistentes e contemporâneas pela Divisão de Fiscalização para Erradicação do Trabalho Escravo - DETRAE.
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados da Inspeção do Trabalho e Sistema eSocial
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo o número de número de ações fiscais nas  quais houve atendimento de uma denúncia considerada consitente e contemporânea de trabalho escravo doméstico pela DETRAE e por divisor o número total de denúncias assim consideradas pela DETRAE. O cociente é multiplicado por 100
+Notas Explicativas: O indicador foi criado durante a elaboração do PPA e ainda será apurado, podendo ser calculado inclusive para períodos anteriores ao atual PPA, com base nos dados da Divisão de Fiscalização para Erradicação do Trabalho Escravo (DETRAE).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 140
+Entrega: 1030
+Indicador: 10024
+Denominação: Percentual de crianças e adolescentes retirados nas piores formas de trabalho infantil em relação ao total dos afastados pela inspeção do trabalho
+Sigla: NETI2
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O número de crianças e adolescentes retirados das piores formas de trabalho infantil em relação ao número total de crianças e adolescentes retirados do trabalho infantil, possibilita a verificação do grau de prioridade que está sendo dado pela Inspeção do Trabalho no combate as piores formas de trabalho infantil. Além disso, com o estabelecimento de uma meta para o indicador há o direcionamento das ações da fiscalização para o  combate as piores formas de trabalho infantil.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = total de crianças e adolescentes afastados nas piores formas de trabalho infantil                                                                                                                                                                                                                                                                                                                                                        B = total de crianças e adolescentes afastados de situação de trabalho infantil
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Operação percentual, onde o dividendo é o número de crianças e adolescentes listados na aba "2.3 Trabalho Infantil" com marcação de uma das piores formas de trabalho infantil, o divisor é o número de crianças e adolescentes listados na aba "2.3 Trabalho Infantil", multiplicado por 100
+Notas Explicativas: O indicador foi criado durante a elaboração do PPA e ainda será apurado, podendo ser calculado inclusive para períodos anteriores ao atual PPA, com base nos dados da Divisão de Fiscalização para Erradicação do Trabalho Escravo (DETRAE).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 142
+Entrega: 1648
+Indicador: 10870
+Denominação: Percentual de implantação do FGTS Digital
+Sigla: TEFGTS1
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador permite o acompanhamento da implantação do sistema que irá trazer grandes transformações nos diversos processos relacionados ao cumprimento da obrigação de recolhimento do FGTS
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de Etapas Implantadas
+B = Total de Etapas Previstas
+Fonte De Dados Das Variáveis De Cálculo: Nota informativa devidamente registrada no SEI indicando que a etada foi concluída
+Forma De Disponibilização: SEI e Relatório de Gestão
+Procedimento De Cálculo: Acessar o SEI e verificar se a etapa foi implantada com sucesso.
+Notas Explicativas: A quantidade de etapas previstas para a implantação constará no documento Diretrizes de Planejamento dos respectivos anos.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 156
+Entrega: 381
+Indicador: 9238
+Denominação: Percentual de implantação do sistema de registro de instrumentos coletivos e mediações coletivas de trabalho
+Sigla: SI
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Acompanha o desenvolvimento do sistema que, fundamentalmente, envolve várias etapas, as quais serão entregues pelo desenvolvedor em momentos distintos.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de etapas do sistema implantadas
+B = Total de etapas previstas para implantação
+Fonte De Dados Das Variáveis De Cálculo: Informação obtida junto à DTI/MTE
+Forma De Disponibilização: Portal gov.br, onde será hospedado o sistema Mediador
+Procedimento De Cálculo: A DTI informará número de etapas do sistema que foram implantadas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 137
+Entrega: 969
+Indicador: 9958
+Denominação: Percentual de implantação dos itens de aperfeiçoamento do Cadastro de vagas de PCDs e reabilitadas no SINE
+Sigla: NEPCD3
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O percentual de implantação dos itens de aperfeiçoamento do Cadastro de vagas de PCD e reabilitadas no SINE se apresenta como o melhor indicador para representar atendimento das etapas previstas no cronograma de implantação
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: E1, E2, ...  En = Etapas da implantação dos itens de aperfeiçoamento do Cadastro de vagas de PCD no SINE
+P1, P2,...Pn = Pesos das Etapas
+Fonte De Dados Das Variáveis De Cálculo: Cronograma de implantação de aperfeiçoamento do Cadastro de vagas de PCD SINE
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Verificar o percentual alcançado do cronograma de implantação de aperfeiçoamento do Cadastro de vagas de PCD SINE
+Notas Explicativas: O percentual de implantação dos itens de aperfeiçoamento será estipulado de forma qualitativa, de acordo com o peso de cada etapa do cronograma a ser estabelecido.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Entrega: 834
+Indicador: 9789
+Denominação: Percentual de ocupações da Classificação Brasileira de Ocupações atualizadas nos últimos 5 anos e descritas no Quadro Brasileiro de Qualificações
+Sigla: CBOQBQatual
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Esse indicador busca refletir a necessidade de constante atualização da CBO, de forma que não incentiva a criação desnecessária de novas ocupações, mas sim a revisão constante da descrição das ocupações existentes. Considera-se CBO atualizada aquela que, além de ter passado por uma revisão, tenha sido incluída no QBQ
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de atualizações que passararm por processo de atualização no sistema da CBO nos últimos cinco anos e cujo conteúdo foi descrito no sistema do QBQ
+B = total de atualizações existentes no sistema da CBO
+Fonte De Dados Das Variáveis De Cálculo: Sistema eletrônico da CBO (Dataprev) e Sistema eletrônico do QBQ (FIPE)
+Forma De Disponibilização: A atualização das ocupações fica disponível na CBO e a conteúdo de qualificação relativo a ela fica disponível no QBQ.
+Procedimento De Cálculo: Cálculo pela CGEET/SEET a partir de informações disponíveis nas fontes relatadas.  O cálculo consiste na soma de todas as atualizações que passararm processo de atualização no sistema da CBO nos últimos cinco anos e cujo conteúdo foi descrito no sistema do QBQ dividido pelo total de atualizações existentes no sistema da CBO.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 136
+Entrega: 1004
+Indicador: 9997
+Denominação: Percentual de tratamento das denúncias de trabalho análogo ao de escravo e de tráfico de pessoas recebidas via sistema Ipê
+Sigla: NETE3
+Índice De Referência: 100.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador revela o percentual de denúncias recebias pela SIT através do Sistema Ipê (canal próprio) que são lidas, analisadas, qualificadas e encaminhadas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de denúncias triadas pela DETRAE
+B = Total de denúncias recebidas pelo Sistema Ipê
+Fonte De Dados Das Variáveis De Cálculo: Bancos de dados da Inspeção do Trabalho e Sistema Ipê
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo o número de denúncias triadas pela DETRAE e por divisor o número de denúncias recebidas pelo Sistema Ipê multiplicado por 100
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 134
+Entrega: 329
+Indicador: 9172
+Denominação: Percentual de uso da solução digital dos recursos do abono salarial
+Sigla: RECDIGABONO
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador pretende apontar qual a quantidade percentual de trabalhadores que se utilizaram dos serviços de recursos digitais por meio da Carteira de Trabalho Digital ou portal Gov.br para requerer a revisão do abono salarial.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total anual de Recursos Digitais para revisão do Abono Salarial
+B = Total anual de Recursos do Abono Salarial
+Fonte De Dados Das Variáveis De Cálculo: Base de Gestão do Abono Salarial
+Forma De Disponibilização: Relatório situacional e Portal do Ministério do Trabalho e Emprego
+Procedimento De Cálculo: A definir após a entrega pela Dataprev
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 134
+Entrega: 393
+Indicador: 9258
+Denominação: Percentual de uso das soluções digitais do seguro-desemprego para os trabalhadores domésticos
+Sigla: REQDIGTRABDOM
+Índice De Referência: 47.0
+Em Apuração: Não
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador apresenta a quantidade percentual de trabalhadores domésticos que solicitaram o seguro-desemprego com uso dos serviços digitais na Carteira de Trabalho Digital ou portal Gov.br.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total anual de solicitações digitais de Seguro-Desemprego do trabalhador doméstico
+B = Total anual de solicitações de Seguro-Desemprego do Trabalhador Doméstico
+Fonte De Dados Das Variáveis De Cálculo: Base de Gestão do Seguro-Desemprego
+Forma De Disponibilização: Relatório situacional e Portal do Ministério do Trabalho e Emprego
+Procedimento De Cálculo: Utilizar a base de gestão do seguro-desemprego e extrair a quantidade de solicitações de seguro-desemprego do trabalhador doméstico com o uso da variável "solução digital" e a quantidade total de solicitações. Dividir a primeira variável pela segunda, a fim de obter a quantidde percentual de solicitação do seguro-desemprego digital durante o ano.
+Limitações: Utilizar até uma casa decimal
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 134
+Entrega: 389
+Indicador: 9252
+Denominação: Percentual de uso das soluções digitais do seguro-desemprego para os trabalhadores formais (exceto trabalhadores domésticos)
+Sigla: REQDIGSD
+Índice De Referência: 72.0
+Em Apuração: Não
+Data De Apuração: 2023-06-28 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador pretende apontar qual a quantidade percentual de trabalhadores que solicitaram o seguro-desemprego por meio da Carteira de Trabalho Digital ou portal Gov.br.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total anual de solicitações de Seguro-Desemprego digital
+B = Total anual de solicitações de Seguro-Desemprego
+Fonte De Dados Das Variáveis De Cálculo: Base de Gestão do Seguro-Desemprego
+Forma De Disponibilização: Relatório situacional e Portal do Ministério do Trabalho e Emprego
+Procedimento De Cálculo: Utilizar a base de gestão do seguro-desemprego e extrair a quantidade de solicitações de seguro-desemprego com o uso da variável "indicador digital" e a quantidade total de solicitações. Dividir a primeira variável pela segunda, a fim de obter a quantidde percentual de solicitação digital do seguro-desemprego no ano.
+Limitações: Utilizar até uma casa decimal
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 131
+Entrega: 260
+Indicador: 9081
+Denominação: Taxa de eficiência nos encaminhamentos dos requerentes do seguro-desemprego
+Sigla: TXSD
+Índice De Referência: 10.01
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: taxa
+Descrição: Representa o percentual de encaminhamentos de requerentes do seguro-desemprego que resultaram em colocação
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de trabalhadores segurados colocados e recolocados pelo Sistema Nacional de Emprego - SINE no período              
+B = Total de segurados encaminhados
+Fonte De Dados Das Variáveis De Cálculo: Base de Gestão do seguro-desemprego
+Forma De Disponibilização: As informações são disponibilizadas na Base de Gestão da Intermediação de Mão de Obra (BGIMO)
+Procedimento De Cálculo: Acessar a Base de Gestão da Intermediação de Mão de Obra,  utilizar a consulta pré-definida (salva como modelo) para extração dos dados, sendo necessário atualizar os filtros temporais.
+Limitações: O atingimento das metas descritas guarda estrita dependência dos recursos alocados na ação orçamentária que custeia o Sistema Nacional de Emprego.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2310
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Indicador: 9776
+Denominação: Número de acessos ao Portal de Disseminação de Estatísticas de Trabalho
+Sigla: NAPDET
+Índice De Referência: 34836.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de acessos ao Portal de Disseminação de Estatísticas de Trabalho com vistas a gerar e disseminar informações estratégicas sobre trabalho, emprego, renda e relações do trabalho
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total anual de acessos ao Portal de Disseminação de Estatísticas de Trabalho
+Fonte De Dados Das Variáveis De Cálculo: Portal de Disseminação de Estatísticas de Trabalho
+Forma De Disponibilização: Portal de Disseminação de Estatísticas de Trabalho
+Procedimento De Cálculo: Somatório anual de acessos de usuários ao Portal de Disseminação de Estatísticas de Trabalho
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 382
+Indicador: 9921
+Denominação: Número de ações de fomento à democratização e reestruturação das relações do trabalho realizadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha as ações de fomento que consistem em eventos a serem organizados e capitaneados pelo Ministério do Trabalho e Emprego, em que necessariamente serão pautados temas e questões do mundo do trabalho de interesse tripartite. A realização desses eventos promoverá disseminação de conhecimentos, debates sobre questões trabalhistas e subsídios para implementação de políticas públicas sociais
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de ações de fomento à democratização e reestruturação das relações do trabalho realizadas
+Fonte De Dados Das Variáveis De Cálculo: Processo Sei
+Forma De Disponibilização: Relatório de eventos realizados
+Procedimento De Cálculo: Somatório do número de eventos realizados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 136
+Indicador: 9970
+Denominação: Número de ações fiscais de combate ao trabalho análogo ao de escravo e ao tráfico de pessoas
+Sigla: NOTE
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: unidade
+Descrição: Compreende a mensuração das ações fiscais de combate ao trabalho análogo ao de escravo e ao tráfico de pessoas, definidas como:
+1- Ação fiscal motivada por denúncia específica que contenha indícios de ocorrência de trabalho análogo ao de escravo ou tráfico de pessoas.
+2- Ação planejada motivada por estudo prévio de atividade econômica ou por atividade específica de inteligência fiscal que concluem por indícios de ocorrência de trabalho análogo ao de escravo ou tráfico de pessoas em um cenário específico.
+3- Ação que, não se encaixando nas hipóteses anteriores, resultou na constatação de trabalhadores submetidos ao trabalho análogo ao de escravo ou ao tráfico de pessoas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de relatórios de inspeção que tenham sido concluídos e aferidos no ano de referência e que contenham ementa relativa ao trabalho análogo ao escravo em situação diferente de NÃO APLICÁVEL ou NÃO FISCALIZADA.
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho Web - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Apuração em valores absolutos dos relatórios de inspeção concluídos e aferidos dentro do ano referência e que contenham ementa relativa ao trabalho análogo ao escravo em situação diferente de NÃO APLICÁVEL ou NÃO FISCALIZADA
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 138
+Indicador: 10624
+Denominação: Número de ambientes de trabalho fiscalizados com vistas ao combate à discriminação, assédio e violência
+Sigla: NODIS
+Índice De Referência: 2438.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Mensura o número de ambientes de trabalho fiscalizados com vistas ao combate à discriminação, assédio e violência, pois essa medição reflete o esforço da Inspeção do Trabalho para garantir a presença fiscal no enfrentamento às temáticas.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de ambientes de trabalho fiscalizados, com vistas ao combate à discriminação, ao assédio e a outras violências
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho Web - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Aferição do número absoluto de ambientes de trabalho fiscalizados, com vistas ao combate à discriminação, ao assédio e a outras violências.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 132
+Indicador: 9312
+Denominação: Número de beneficiados pelas políticas de qualificação social e profissional
+Sigla: NBQSP
+Índice De Referência: 100000.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: Acompanha o número de beneficiários das políticas de qualificação social e profissional voltadas para jovens e demais públicos no âmbito das políticas de trabalho, emprego e renda
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: final do segundo trimestre
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de trabalhadores qualificados pelas políticas de qualificação social e profissional
+Fonte De Dados Das Variáveis De Cálculo: Relatórios das execuções de todas as parcerias nas ações de qualificação social e profissional pactuadas com a SEMP; Power BI da Escola do Trabalhador 4.0
+Forma De Disponibilização: Plataforma TransfereGov e Power BI da Escola do Trabalhador 4.0
+Procedimento De Cálculo: Somatório de trabalhadores qualificados pelas ações de qualificação social e profissional informado pelos parceiros
+Notas Explicativas: As informações que são disponibilizadas na Plataforma TransfereGov referem-se a todas as parcerias pactuadas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 140
+Indicador: 10009
+Denominação: Número de crianças e adolescentes afastados da situação de trabalho infantil pela fiscalização
+Sigla: NOTI
+Índice De Referência: 2324.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: A principal atuação da Inspeção do Trabalho no combate ao trabalho infantil é a retirada de crianças e adolescentes de uma situação de trabalho infantil. Dessa forma, o número de crianças e adolescentes alcançados em situação de trabalho infantil demonstra parcela do trabalho realizado pela Auditoria Fiscal do Trabalho diretamente relacionado com a erradicação do trabalho infantil.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de crianças e adolescentes afastados da situação de trabalho infantil pela fiscalização
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Apuração do quantitativo de crianças e adolescentes listados na aba “2.3 Trabalho Infantil”
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 156
+Indicador: 9214
+Denominação: Número de mediações coletivas concluídas
+Sigla: NC
+Índice De Referência: 4129.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: unidade
+Descrição: O indicador se refere ao número de mediações coletivas que foram concluídas em determinado período.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de mediações concluídas
+Fonte De Dados Das Variáveis De Cálculo: Sistema Mediador
+Forma De Disponibilização: Os dados não são publicados
+Procedimento De Cálculo: Acessar o sistema por meio do link http://intranet2008prod/sistemas/mediador/Default.aspx; selecionar o ícone "mediação"; selecionar "consulta por situação"; selecionar o campo "mediação concluída"; e selecionar "exportar" para gerar a planilha com os resultados de mediações concluídas.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Indicador: 10266
+Denominação: Percentual das fiscalizações de segurança e saúde no trabalho com redução de riscos ocupacionais
+Sigla: POSST
+Índice De Referência: 25.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador consiste na razão entre o número de fiscalizações de segurança e saúde no trabalho em que houve redução dos riscos a que os trabalhadores estão expostos e o total de fiscalizações de segurança e saúde no trabalho.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = total de fiscalizações de segurança e saúde no trabalho em que houve redução dos riscos a que os trabalhadores estão expostos
+B = total de fiscalizações de segurança e saúde no trabalho
+Fonte De Dados Das Variáveis De Cálculo: Banco de dados do SFITWEB, com aferições mensais, na primeira quinzena do mês subsequente.
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo número de fiscalizações de segurança e saúde no trabalho em que houve redução dos riscos a que os trabalhadores estão expostos, por divisor número de fiscalizações de segurança e saúde no trabalho, e por quociente o valor decimal multiplicado por 100 correspondente ao percentual das fiscalizações de segurança e saúde no trabalho com redução de riscos ocupacionais
+Limitações: O indicador não reflete a redução de riscos ocupacionais em todos os estabelecimentos em que esses riscos estão presentes, mas somente naqueles em que houve fiscalização. Além disso, também em razão de limitações nos dados existentes, não é possível saber se o risco reduzido era um risco grave e quantos trabalhadores estavam originalmente expostos.
+Notas Explicativas: Considera-se que houve redução dos riscos quando o empregador regulariza uma situação em que havia descumprimento a item de norma regulamentadora ou quando o Auditor-Fiscal do Trabalho ordena a paralisação parcial ou total de obra, atividade, máquina ou equipamento, setor de serviço ou estabelecimento em razão de condição ou situação de trabalho que caracterize grave e iminente risco ao trabalhador.
+Para a variável B, considera-se o número de fiscalizações de segurança e saúde no trabalho todas aquelas nas quais houve a verificação de, ao menos, 5 ementas de Norma Regulamentadora por parte da Inspeção do Trabalho.
+
+Diferentemente de PPAs anteriores, nos quais se priorizava a quantidade de estabelecimentos inspecionados, busca-se aferir e incentivar o valor agregado à sociedade de redução de riscos nos ambientes de trabalho fiscalizados
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Indicador: 10811
+Denominação: Percentual de cumprimento de cotas de aprendizagem profissional
+Sigla: NOAPDZ
+Índice De Referência: 49.13
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador é dado pela média mensal do percentual de cumprimento de cotas de aprendizagem profissional do último dia de cada mês do ano. O percentual é dado pelo somatório de todas as vagas de aprendizagem efetivamente preenchidas pelas empresas obrigadas a cumprir a cota mínima de aprendizagem dividido pelo somatório da oferta legal total, multiplicado por 100.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de aprendizes efetivamente contratados pelas empresas obrigadas a manter cota de aprendizes
+
+B = Total de vagas disponíveis nas empresas de acordo com o art. 429 CLT
+Fonte De Dados Das Variáveis De Cálculo: eSocial
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Extração dos dados de bases de cálculo disponíveis e cotejamento com os dados de contratação de aprendizes.
+Limitações: Nos casos de empresas reincidentes e grandes descumpridoras da cota, quer seja pelo baixo valor das multas, eventuais flexibilizações em acordos judiciais ou outros motivos alheios à Inspeção do Trabalho, o cumprimento da cota é, praticamente, inelástico.
+Notas Explicativas: O indicador é uma importante fonte de informação que deve ser considerada em um escopo maior de análise, inclusive sobre o baixo cumprimento das leis trabalhistas e os processos conciliatórios promovidos e estimulados pelos órgãos de controle e fiscalização.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 137
+Indicador: 9940
+Denominação: Percentual de cumprimento de cotas de PCD ou reabilitadas no mercado de trabalho formal
+Sigla: POPCD
+Índice De Referência: 53.02
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador demonstra o percentual de preenchimento da cota legal, o que representa a realidade das cotas preenchidas, sendo, assim, o melhor indicador para o acompanhamento da efetividade da política pública
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de vagas de cumprimento de cotas de PCD ou reabilitadas ocupadas
+B = Total de vagas de cumprimento de cotas de PCD ou reabilitadas reservadas
+Fonte De Dados Das Variáveis De Cálculo: eSocial
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho
+Procedimento De Cálculo: 1. Extrair, a partir de dados do eSocial, todas as vagas ocupadas por pessoas com deficiência e reabilitadas
+2. Extrair, a partir de dados do eSocial, todas as vagas reservadas para pessoas com deficiência e reabilitadas
+3. Dividir o número 1 pelo número 2 e multiplicar por 100
+Notas Explicativas: As vagas reservadas referem-se àquelas previstas no art. 93 da Lei nº 8.213/1991. Sugere-se, ainda, para o cômputo do percentual de cumprimento da reserva legal, a exclusão, na base de cálculo, dos órgãos da Administração Pública Direta.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 139
+Indicador: 10722
+Denominação: Percentual de regularização das infrações mais recorrentes no trabalho doméstico
+Sigla: TODOM
+Índice De Referência: 6.34
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador calcula o percentual de regularização das infrações mais recorrentes no trabalho doméstico
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Total de fiscalizações do trabalho doméstico com formalização, regularização de remuneração, implementação de controle de jornada de trabalho ou recolhimento de FGTS. 
+B = Total de fiscalizações do trabalho doméstico com irregularidades na formalização,  remuneração, controle de jornada de trabalho ou recolhimento de FGTS
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho Web - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo a quantidade de  fiscalizações do trabalho doméstico com formalização, regularização de remuneração, implementação de controle de jornada de trabalho ou recolhimento de FGTS, por divisor o número total de fiscalizações do trabalho doméstico multiplicado por 100.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 134
+Indicador: 9167
+Denominação: Percentual médio de uso dos serviços digitais ofertados ao trabalhador
+Sigla: PSDIG
+Índice De Referência: 53.0
+Em Apuração: Não
+Data De Apuração: 2023-06-22 00:00:00
+Unidade De Medida: percentual
+Descrição: O indicador pretente mensurar o uso dos serviços digitais ofertados aos trabalhadores referentes à habilitação da carteira de trabalho digital, abono salarial e seguro-desemprego, constando as principais políticias públicas de trabalho.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: primeira semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Percentual de habilitação da carteira de trabalho digital 
+B = Percentual de uso da solução digital dos recursos do abono salarial
+C = Percentual de uso do seguro-desemprego
+D = total de serviços disponibilizados de forma digital
+
+
+
+sendo: Percentual de habilitação da carteira de trabalho digital = (total de carteiras de trabalho habilitadas digitalmente/total de carteiras de trabalho emitidas) x 100
+
+Percentual de uso da solução digital dos recursos do abono salarial =  Total anual de recursos digitais para revisão do Abono Salarial/Total anual de recursos do Abono Salarial) x 100
+
+Percentual de uso do seguro-desemprego = Total anual de solicitações de seguro-desemprego Digital/Total anual de solicitações de seguro-desemprego) x 100
+Fonte De Dados Das Variáveis De Cálculo: 1 - Base de Gestão CTPSWeb (carteira de trabalho emitida em meio físico) e Banco de dados da Dataprev (carteira de trabalho digital) 2 - Base de Gestão do Seguro-Desemprego
+3 - Base de Gestão do Abono Salarial
+Forma De Disponibilização: 1 - Carteira de Trabalho Digital - https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho                         2 - https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/seguro-desemprego
+Procedimento De Cálculo: As informações da Carteira de Trabalho Digital podem ser obtidas por meio da Base de dados da carteira de trabalho digital (Dataprev) e emitidas em meio físico na Base de Gestão da CTPSWeb.
+
+Utilizar a base de gestão do seguro-desemprego e extrair a quantidade de solicitações de seguro-desemprego com o uso da variável "indicador digital" e a quantidade total de solicitações. Dividir a primeira variável pela segunda, a fim de obter a quantidde percentual de solicitação digital do seguro-desemprego no ano.
+
+Procedimento de cálculo do abono salarial a definir após a entrega pela Dataprev
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 131
+Indicador: 9077
+Denominação: Taxa de eficiência nos encaminhamentos de trabalhadores
+Sigla: TFENC
+Índice De Referência: 11.16
+Em Apuração: Não
+Data De Apuração: 2023-06-01 00:00:00
+Unidade De Medida: taxa
+Descrição: O indicador se traduz em uma medida de eficiência do programa uma vez que busca mensurar o percentual de encaminhamentos que resultaram em colocação
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de fevereiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A=  Total de trabalhadores colocados e recolocados pelo Sistema Nacional de Emprego - SINE no período)
+B=  Total de encaminhamentos
+Fonte De Dados Das Variáveis De Cálculo: Base de Gestão da Intermediação de Mão de Obra
+Forma De Disponibilização: As informações estão publicadas no Painel de Gestão da IMO, disponível em https://app.powerbi.com/view?r=eyJrIjoiMjY4OWFhZTgtNDMyYy00YzllLWJkOWItZTNiMTUyOGZmNjQ3IiwidCI6IjNlYzkyOTY5LTVhNTEtNGYxOC04YWM5LWVmOThmYmFmYTk3OCJ9
+Procedimento De Cálculo: Acessar a Base de Gestão da Intermediação de Mão de Obra,  utilizar a consulta pré-definida (salva como modelo) para extração dos dados, sendo necessário atualizar os filtros temporais.
+Limitações: O atingimento das metas descritas guarda estrita dependência dos recursos alocados na ação orçamentária que custeia o Sistema Nacional de Emprego.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 135
+Indicador: 10488
+Denominação: Taxa de formalização dos empregados encontrados em situação de registro irregular
+Sigla: TOINF
+Índice De Referência: 28.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: taxa
+Descrição: O indicador calcula a taxa de empregados que tiveram seu vínculo de emprego formalizado em razão de ações de fiscalização, frente ao volume total de empregados encontrados em situação de registro irregular.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A: total de empregados formalizados em decorrência da ação fiscal
+
+B: total de empregados encontrados em situação de registro irregular durante as ações de fiscalização
+Fonte De Dados Das Variáveis De Cálculo: Sistema Federal de Inspeção do Trabalho Web - SFITWEB
+Forma De Disponibilização: Fornecimento das informações pela Secretaria de Inspeção do Trabalho.
+Procedimento De Cálculo: Divisão aritmética simples, tendo por dividendo a quantidade de empregados formalizados em decorrência de ações de fiscalização, por divisor o número de empregados encontrados em situação de registro irregular, e por quociente o valor decimal multiplicado por 100 correspondente ao percentual de regularização dos trabalhadores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 142
+Indicador: 10869
+Denominação: Taxa de inadimplência do FGTS
+Sigla: TOFGTS
+Índice De Referência: 6.5
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: taxa
+Descrição: O indicador é o valor total de débitos de FGTS  dividido pelo valor total de FGTS devido, pois reflete o resultado do esforço da Inspeção do Trabalho no sentido de se fazer cumprir a obrigação de recolhimento do FGTS.
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de janeiro
+Periodicidade: Anual
+Polaridade: Quanto menor melhor
+Variáveis De Cálculo: VD = valor total dos débitos no FGTS digital;
+VTD = Valor Total dos Recolhimentos no FGTS digital (igual ao valor total dos recolhimentos no FGTS digital + valor total dos débitos no FGTS digital).
+Fonte De Dados Das Variáveis De Cálculo: FGTS Digital.
+Forma De Disponibilização: Relatório de Gestão
+Procedimento De Cálculo: Extração dos dados de bases de cálculo disponíveis e cotejamento com os dados de recolhimentos
+Limitações: Inconsistências de bases de dados disponíveis, erros de declaração dos empregadores e multiplicidade de informações divergentes em bases de dados diferentes
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 133
+Indicador: 9027
+Denominação: Volume de crédito concedido
+Sigla: VCC
+Índice De Referência: 16.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: bilhões R$
+Descrição: O indicador se traduz em uma medida de eficácia do programa uma vez que busca mensurar o volume de recursos aplicados em programas de concessão de crédito coordenados pelo Ministério do Trabalho e Emprego
+Período Ou Data A Que Se Refere: janeiro a dezembro
+Data De Divulgação/Disponibilização: última semana de março
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: A = Volume de crédito concedido pelo PNMPO 
+B = Volume de crédito concedido pelo PROGER
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Acompanhamento de Apicações Financeiras - SAEP e Sistema de Gestão do PNMPO - SIMPO
+Forma De Disponibilização: As informações do Programa de Geração de Emprego e Renda são divulgadas no Portal do FAT (https://portalfat.mte.gov.br/publicacoes-2/informe-proger/) e as informações do PNMPO no Portal do Ministério do Trabalho e Emprego (https://portalfat.mte.gov.br/programas-e-acoes-2/programa-nacional-do-microcredito-produtivo-orientado-pnmpo/)
+Procedimento De Cálculo: O indicador é calculado com base em extração de dados parametrizados para o período de referência extraídas do SAEP e SIMPO
+Limitações: O alcance da meta prevista para o indicador depende sobremaneira de conjuntura econômica favorável ao crédito. A consolidação dos dados só está disponível no final do 1º trimestre do exercício posterior ao exercício das contratações.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2310
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 130
+Enunciado: Gerar e disseminar informações estratégicas sobre trabalho, emprego, renda e relações do trabalho
+Descrição: A necessidade de geração e disseminação de informações sobre trabalho, emprego e renda preconiza que a integração de atuação das Secretarias que formam o Ministério do Trabalho e Emprego demanda conhecimento das principais ações em curso, bem como seus resultados de forma rotineira, de modo a permitir uma maior integração das políticas públicas, assim como dos acessos destas ações por parte dos trabalhadores (do setor formal e informal), empregadores e entidades sindicais, colônias de pescadores, centrais sindicais, mediação coletiva, instrumentos coletivos e trabalho temporário.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 131
+Enunciado: Melhorar a eficiência da intermediação de mão de obra
+Descrição: No Brasil, o Sistema Nacional de Emprego, coordenado pelo Ministério do Trabalho e Emprego, promove ações voltadas a (re)inserção do trabalhador no mundo do trabalho. A intermediação de mão de obra (IMO) é um serviço prestado pelo Sistema, que visa a (re)colocar trabalhadores no mercado de trabalho, por meio de vagas captadas junto a empregadores. Esse objetivo específico, trata da alocação de diversos recursos de forma a reduzir o tempo de espera e a assimetria de informação, conjugando ações de orientação e qualificação profissional e melhoria em sistemas informatizados.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 132
+Enunciado: Promover a qualificação social e profissional
+Descrição: Ofertar ações de qualificação social e profissional a jovens e trabalhadores com vistas a sua inserção e permanência no mundo do trabalho
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 133
+Enunciado: Fomentar às atividades empreendedoras e o microcrédito produtivo orientado
+Descrição: Incentivar a massificação do microcrédito produtivo orientado de forma que as pessoas de mais baixa renda possam empreender, gerar renda, como também ser incluídas financeiramente, levando ao desenvolvimento econômico e social
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 134
+Enunciado: Aperfeiçoar o atendimento digital ao trabalhador
+Descrição: A oferta de serviços digitais proporciona ao trabalhador a possibilidade de acessar os serviços do Ministério do Trabalho e Emprego de forma remota, sem a necessidade de deslocamento a uma unidade física de atendimento. Além desta comodidade, possibilita que o trabalhador acompanhe todo o processo de atendimento às suas demandas, de forma ágil e segura. Com vistas a ampliar a utilização dos serviços digitais pelos usuários, é necessário acrescentar novos serviços e melhorar a usabilidade da interface.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 135
+Enunciado: Aumentar a formalização do vínculo de emprego por meio de ações da inspeção do trabalho
+Descrição: O vínculo de emprego formalizado é pressuposto para cumprimento da legislação trabalhista e incidência de suas medidas de proteção ao trabalhador. Cabe à Inspeção do Trabalho o enfrentamento à falta de registro do trabalhador, bem como às situações de fraude ao vínculo empregatício. A inserção do trabalhador no mercado formal de trabalho – ou o afastamento de formas contratuais fraudulentas que elidem o vínculo empregatício – permitem o usufruto de direitos como férias, 13º salário, controle de jornada, FGTS, além das contribuições previdenciárias que provêm auxílio na aposentadoria e em caso de doença, acidente ou morte. O trabalhador formal pode comprovar experiência no trabalho, o que lhe faculta o crescimento profissional, além de poder acessar crédito por meio da comprovação de renda, o que aquece a economia.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 136
+Enunciado: Combater a exploração do trabalho análogo ao escravo e do tráfico de pessoas
+Descrição: Objetiva ampliar e fortalecer a política pública de combate ao trabalho análogo ao de escravo e ao tráfico de pessoas através da fiscalização das relações de trabalho. Busca, em última instância, não tolerar a ocorrência de qualquer caso de trabalho análogo ao de escravo e ao tráfico de pessoas no Brasil. Em função da gravidade destas violações de direitos, entende-se que o Estado deve sempre maximizar sua capacidade de atuação e presença repressiva.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 137
+Enunciado: Ampliar o cumprimento da obrigação legal de acesso e inclusão das pessoas com deficiência e, ou, reabilitadas no mercado formal de trabalho de maneira acessível, inclusiva e sustentável
+Descrição: Todos os órgãos integrantes da Administração Pública devem respeitar as disposições da Convenção sobre os Direitos das Pessoas com Deficiência, ratificada pelo Congresso Nacional com status constitucional. Eventual afronta a tais dispositivos possibilita a responsabilização da União no âmbito internacional, tendo em vista que a República Federativa do Brasil se comprometeu a garantir a proteção do mercado de trabalho às pessoas com deficiência.
+O objetivo da Inspeção é promover uma inclusão sustentável no mercado de trabalho, por meio da ampliação do cumprimento da reserva legal de cargos para as pessoas com deficiência, de forma acessível, visando a promoção da diversidade e o respeito à igualdade de direitos. Ao fortalecer a participação de pessoas com deficiência no mercado formal, contribui-se para uma sociedade mais justa e sustentável, na qual todos têm a chance de desenvolver plenamente seu potencial.
+A ampliação do cumprimento da obrigação legal elimina estigmas e preconceitos além de promover benefícios diretos para as empresas, como aumento da criatividade, inovação e fortalecimento da imagem corporativa.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 138
+Enunciado: Assegurar a igualdade de oportunidades e de tratamento nos ambientes de trabalho das organizações por meio da exigência do cumprimento de medidas legais de prevenção da discriminação, assédio e violência no trabalho
+Descrição: A Inspeção do Trabalho tem papel fundamental na garantia de direitos trabalhistas e no combate às diversas formas de discriminação. Aos Auditores Fiscais do Trabalho incumbe a atribuição de assegurar o cumprimento da legislação, promovendo a inclusão social por meio do trabalho decente (CF/88, art. 21, XXIV, Lei nº 10.593/2002, art. 11, Decreto nº 4.552/2002, art. 1º, IN nº 3/21, art. 5º, V).
+Pretende-se promover a igualdade de oportunidades e de tratamento nas organizações, assegurando a proteção de mulheres e idosos e combatendo as diversas formas de discriminação. A finalidade é fomentar um mundo do trabalho inclusivo, seguro e sadio.
+Busca-se alcançar os objetivos constitucionais: construir uma sociedade livre, justa e solidária, garantir o desenvolvimento nacional, erradicar a marginalização, reduzir as desigualdades sociais e regionais e promover o bem de todos, sem preconceitos e discriminação (art. 3º, I a IV), e assegurar, no meio ambiente do trabalho, fundamentos que regem o Estado Brasileiro, como a dignidade da pessoa humana e o valor social do trabalho (art. 1º, III e IV).
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 139
+Enunciado: Assegurar a dignidade no trabalho das trabalhadoras domésticas
+Descrição: A dignidade no trabalho pode ser medida a partir dos parâmetros estabelecidos pela Organização Internacional do Trabalho – OIT, segundo os quais a promoção ao acesso ao emprego produtivo deve estar baseada na igualdade de oportunidade e nos direitos ao trabalho (especialmente liberdade sindical, direito de negociação coletiva, eliminação de todas as formas de discriminação em matéria de emprego e ocupação e erradicação de todas as formas de trabalho forçado e trabalho infantil, meio ambiente de trabalho seguro e saudável, na proteção social e na promoção do diálogo social). Indicadores como oportunidades de emprego, jornada de trabalho, conciliação entre o trabalho, vida pessoal e familiar, diálogo social e representação de trabalhadores e empregadores tem servido como medida para tal objetivo.
+O trabalho doméstico, há mais de cinquenta anos regulamentado no Brasil, está longe de uma realidade aceitável relativamente a esses parâmetros, o que se observa, por exemplo no alto índice de informalidade.
+Diante das circunstâncias apontadas, cabe à Inspeção do Trabalho atender prioritariamente às cerca de seis milhões de trabalhadoras domésticas, grupo majoritariamente composto por mulheres negras, com baixa escolaridade.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 140
+Enunciado: Retirar crianças e adolescentes de situação de trabalho infantil
+Descrição: A exploração do trabalho infantil trata-se de uma grave violação aos direitos fundamentais de crianças e adolescentes e é vedada por disposição Constitucional (art. 7°, inciso XXXIII). Além disso, o Brasil assumiu compromissos internacionais relacionados com a erradicação do trabalho infantil, entre os quais as Convenções n° 138 e 182 da OIT e os ODS. A Inspeção do Trabalho historicamente tem atuado para a retirada de crianças e adolescentes de situação de trabalho infantil e apresenta-se como uma das políticas públicas mais importantes para o enfrentamento desse problema. Dentro desse contexto, o objetivo específico está diretamente relacionado com as normas e compromissos assumidos pelo Brasil, bem como com a atuação da Inspeção do Trabalho.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 141
+Enunciado: Reduzir os riscos nos ambientes de trabalho
+Descrição: As fiscalizações de segurança e saúde no trabalho têm como objetivo principal a redução dos riscos ocupacionais a que os trabalhadores estão expostos. Como consequência da redução dos riscos ocupacionais, espera-se uma redução nas mortes e incapacidades relacionadas ao trabalho.
+Ainda, por meio de produção e difusão de conhecimentos em saúde e segurança no trabalho, pretende-se contribuir com a elaboração de políticas públicas voltadas à redução de riscos nos ambientes de trabalho e à promoção do trabalho decente.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 142
+Enunciado: Reduzir a inadimplência e a sonegação do FGTS relativo aos empregados formais, bem como garantir que os valores recolhidos sejam depositados nas contas individualizadas
+Descrição: A auditoria fiscal do trabalho vem buscando aperfeiçoar seus processos e procedimentos, de forma a conseguir ampliar o combate à inadimplência, à sonegação e a garantir o direito dos trabalhadores. Ferramentas como o FGTS Digital, o novo sistema de Fiscalização e Cobrança da Secretaria de Inspeção do Trabalho e a nova sistemática de confissão de débitos por parte do empregador (Art. 17A da Lei nº 8.036/90) vão possibilitar que a Inspeção do Trabalho avance nesse sentido. Essa atuação visa tutelar os direitos trabalhistas, com a promoção de maior segurança financeira para os empregados, possibilitando a regularização das relações de trabalho, coibindo, ainda, a concorrência desleal e criando um ambiente mais justo para os empregadores.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 143
+Enunciado: Ampliar a inclusão de jovens na aprendizagem profissional de qualidade
+Descrição: Com intuito de promover uma inclusão profissional segura, protegida e qualificada, ampliar a inclusão de jovens na aprendizagem é um instrumento capaz de promover mais e melhores trabalhos decentes para os jovens de 14 a 24 anos, inclusos na legislação específica da aprendizagem profissional.
+A Inspeção do Trabalho busca garantir a efetivação dos direitos basilares, indisponíveis e inalienáveis, contidos no art. 227 da Constituição Federal de 1988, em especial à profissionalização. A mesma Carta Magna dispõe que a aprendizagem profissional é um direito do trabalho para adolescentes a partir de 14 anos. Cumpre destacar que a fiscalização também dedica esforços para a fiscalização dos cursos de aprendizagem ministrados pelas entidades formadoras com o objetivo de garantir a qualidade mínima estabelecida pelos normativos vigentes.
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 156
+Enunciado: Promover a mediação e negociação coletiva, de forma a incentivar a solução extrajudicial de conflitos trabalhistas
+Descrição: A mediação coletiva no Brasil é política pública que tem por objetivo a resolução voluntária, pacífica, autônoma dos conflitos nas relações de trabalho. O Ministério do Trabalho e Emprego, ao conduzir a mediação, por meio do diálogo e da aproximação das partes, na busca de um acordo, fomenta que as entidades patronais e laborais realizem negociações coletivas, com vistas a solucionar os conflitos coletivos do mundo do trabalho
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Objetivo Específico: 382
+Enunciado: Democratizar e reestruturar as relações do trabalho
+Descrição: Num contexto laboral totalmente modificado pelas transformações sociais e de legislação ocorridas nos últimos anos, é nítida a importância da gestão democrática participativa nas relações de trabalho. A dignidade da pessoa humana constitui fundamento do Estado Democrático, sendo garantida também nos ambientes de trabalho. O exercício da democracia nas relações de trabalho concretiza o ideal de gestão participativa que está expresso na Constituição Federal e em Convenções da OIT, e cria ambiente favorável ao desenvolvimento de políticas de bem-estar, inclusivas e protetivas. Nesse sentido, o Ministério do Trabalho e Emprego, visando harmonizar os direitos dos trabalhadores com os interesses empresariais, exerce papel primordial na condução do diálogo social, fomentando ações e iniciativas que tenham temas de interesse comum das partes, relativos à políticas econômicas, laborais e sociais
+Órgão: 40000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+passage: Programa Número 2310
+
+Exercício: 2025
+Programa: 2310
+Objetivo: 1253
+Enunciado: Assegurar o trabalho decente, o acesso ao emprego e renda, proteção social e remuneração justa, garantindo segurança e saúde no trabalho, diálogo social, inclusão, acessibilidade e equidade no mundo do trabalho.
+Origem: PPA
+Momento: 8200
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 2310
+
+Exercício: 2025
+Programa: 2310
+Título: Promoção do Trabalho Decente, Emprego e Renda
+Tipo: Finalístico
+Órgão: 40000.0
+Público-Alvo: Trabalhadores, empregadores e crianças e adolescentes em situação de trabalho infantil
+Descrição Do Problema: O trabalhador encontra uma série de barreiras para acesso ao mercado de trabalho no Brasil. O elevado número de desempregados e de trabalhadores na informalidade evidencia essa dificuldade. Inúmeros são os fatores ligados a esse fenômeno; por exemplo, discriminações relativas a gênero e raça dificultam a entrada no mercado de trabalho. As pessoas com deficiência esbarram não só no preconceito, mas na ausência de acessibilidade no ambiente de trabalho. Os jovens, bem como inúmeros trabalhadores, são preteridos pela falta de experiência ou qualificação, considerando-se ainda que a oferta de qualificação é insuficiente frente ao número dos que dela necessitam.
+Para o trabalhador que ingressa no mercado, há inúmeras dificuldades a enfrentar devido ao déficit de trabalho decente. É muito comum o desrespeito à legislação trabalhista, porque o risco de punição por descumprimento é percebido como muito baixo. Temos um alto índice de acidentes de trabalho e de doenças ligadas ao trabalho. Um outro problema que se evidencia em nossa sociedade, em parte favorecido pela vulnerabilidade social, é a persistência do trabalho infantil, cujo combate é dificultado pela existência de uma cultura de valorização do trabalho precoce. A vulnerabilidade social leva o trabalhador a se submeter a assédio, violência, a trabalhos precários e com baixa renda, chegando mesmo ao trabalho análogo ao de escravo e ao tráfico laboral.
+No campo das relações de trabalho, os conflitos de interesses e a assimetria de forças na relação entre trabalhadores e empregadores se agrava pela ausência de diálogo social, o que resulta na alta demanda por mediações de conflitos por parte do Ministério.
+Se o cidadão que busca trabalhar sob vínculo empregatício enfrenta tais problemas, não menos fácil é a vida de quem busca empreender. A falta de conhecimentos técnicos e a dificuldade de acesso ao crédito fazem com que seja baixa a possibilidade de conseguir renda adequada para uma vida digna também por meio de trabalho por conta própria.
+Causa Do Problema: Barreiras para acesso ao trabalho: inexperiência (jovens), falta de qualificação, discriminações e ausência de acessibilidade e alto índice de desemprego. 
+Déficit de trabalho decente: tolerância social com a informalidade, desrespeito à legislação trabalhista (baixa percepção de riscos de punição por descumprimento), insuficiência de normas de segurança e saúde no trabalho e de políticas de apoio para seu cumprimento, cultura de valorização do trabalho precoce, vulnerabilidade social, alto índice de desemprego.
+Conflitos de interesses: assimetria de forças na relação entre trabalhadores e empregadores (hipossuficiência do trabalhador) e ausência de diálogo social.
+Ambiente desfavorável ao empreendedorismo: dificuldade de acesso ao crédito e falta de conhecimento técnico em gestão de negócios.
+Evidências Do Problema: Taxa de desemprego (desocupação): 8,8% (IBGE, 1º trimestre de 2023);
+Cerca de 45,0% dos Desocupados possuem tempo de procura de trabalho de 1 (um) mês a menos de 1 (um) ano, enquanto 23,8% 2 (dois) anos ou mais. (PNADC 1º TRIM, 2023);
+Taxa de subutilização: 18,9% (IBGE, 1º trimestre de 2023);
+Rendimento médio do trabalhador: R$ 2.891,00 (IBGE, fev-mar-abr de 2023);
+Diferença de remuneração entre homens brancos/amarelos e mulheres pretas/pardas é de cerca de 52,2%. (PNADC 1º TRIM, 2023);
+A remuneração feminina é 20,1% menor que a masculina. (PNADC 1º TRIM, 2023);
+Trabalhadores assalariados informais: 17,01 milhões (PNADC 1º TRIM, 2023);
+Crianças e adolescentes em situação de trabalho infantil: 1,8 milhões (PNADC, 2019);
+Trabalhadores resgatados de condições análogas à de escravo em 2022: 2.575 (Radar SIT);
+Óbitos por acidente de trabalho: 2.556 (2021);
+Apenas 53,45% das vagas reservadas para PCD estão ocupadas. (Radar SIT, 2021);
+Apenas 49,7% das vagas reservadas para aprendizes estão ocupadas. (e-Social, dez/2022);
+Inadimplência + sonegação anual projetada do FGTS: R$ 65,0 bilhões (SIT, 2022).
+Justificativa Para A Intervenção: A Constituição Federal de 1988 prevê, em seu art. 7°, os direitos dos trabalhadores urbanos e rurais, entre outros que visem à melhoria de sua condição social. O art. 21 da Constituição também estabelece que compete à União organizar, manter, e executar a inspeção do trabalho. A Lei nº 10.593/2002 estabelece as competências do Auditor-Fiscal do Trabalho e o Regulamento da Inspeção do Trabalho (Decreto n° 4.552/2002), por sua vez, apresenta a finalidade da Inspeção do Trabalho que é a de assegurar, em todo o território nacional, a aplicação das disposições legais, incluindo as convenções internacionais ratificadas, os atos e decisões das autoridades competentes e as convenções, acordos e contratos coletivos de trabalho, no que concerne à proteção dos trabalhadores no exercício da atividade laboral. Os problemas apresentados e evidenciados representam as violações mais graves aos direitos dos trabalhadores para as quais a Inspeção do Trabalho tem a missão legal de resolução ou de redução significativa.
+Além disso, as alterações de regulação são essenciais para acompanhar as tantas modificações do mundo do trabalho. O fenômeno da globalização exige que as relações de trabalho sejam repensadas para se adaptar e enquadrar à nova realidade do contexto mundial. Nesse sentido, faz-se necessária a participação de todos, Estado, empregadores e empregados para que se tenha uma unicidade da sociedade direcionada a um objetivo comum, no intuito de equacionar os problemas que envolvem essa questão a ser mediada.
+
+Considerando as mudanças já em curso dos processos produtivos, impulsionadas pela introdução de novas tecnologias, é importante que o governo federal estabeleça uma agenda sobre o futuro do trabalho e as competências requeridas para o novo trabalhador. Assim, compete ao poder público formular e coordenar as políticas relacionadas à formação e qualificação profissional, intermediação de mão de obra e de geração de emprego, trabalho e renda, de forma conectada às demandas do setor produtivo. No Brasil, a Secretaria de Qualificação e Fomento à Geração de Emprego e Renda do Ministério do Trabalho e Emprego é um dos órgãos competentes para realizar essas ações, com vistas à empregabilidade, à produtividade e ao empreendedorismo.
+
+Por fim, a promoção do trabalho decente gera importantes impactos, tanto sociais quanto econômicos. A redução da informalidade aumenta a proteção do trabalhador e ajuda a reduzir o déficit fiscal. A redução dos acidentes, adoecimentos e mortes ocupacionais reduz custos, sofrimento e gastos com saúde e previdência. O combate ao trabalho infantil e análogo ao de escravo resgata a dignidade das vítimas e previne barreiras aos produtos brasileiros. A aprendizagem profissional, inclusão de pessoas com deficiência e combate à discriminação reduzem a desigualdade e subutilização da força de trabalho.
+Evolução Histórica: O Brasil chegou a desenvolver nas últimas décadas diversas políticas públicas de ensino técnico e profissional, entre eles o PLANFOR - Plano Nacional de Qualificação do Trabalhador – (1996-2003), o PROEP - Programa de Expansão da Educação Profissional (1997-2003), o PNQ – Programa Nacional de Qualificação Profissional (2003-2012) e o PRONATEC - Programa Nacional de Acesso ao Ensino Técnico e Emprego - Lei nº 12.513 - (2012-2018). Tais políticas deram, de formas distintas, suas contribuições, mas os resultados gerais apontam para a necessidade de uma nova estratégia de qualificação. 
+Quanto à intermediação de mão de obra, em 1975 foi criado o Sistema Nacional de Emprego - SINE, por meio do Decreto nº 76.403, tendo dentre as suas competências a de prestar informações ao mercado consumidor de mão de obra sobre a disponibilidade de recursos humanos. Hoje o SINE realiza repasse de recursos por meio do fundo a fundo, da forma estabelecida na Lei nº 13.667, de 2018.
+Além disso, o Programa Nacional de Microcrédito Produtivo Orientado – PNMPO, foi regulamentado pela Lei nº 13.636, de 2018, com a finalidade específica de disponibilizar recursos para o microcrédito produtivo orientado a pessoas físicas e jurídicas empreendedoras de atividades produtivas de pequeno porte. 
+No que tange às relações de trabalho, o processo de diálogo social e de democratização sofreu grave revés com a decisão governamental de apoiamento irrestrito às mudanças na legislação trabalhista e sindical implementadas pela Reforma Trabalhista – Lei nº 13467/2017, sem qualquer diálogo e participação das representações sindicais dos trabalhadores, o que gerou, inclusive, reclamação na Organização Internacional do Trabalho – OIT. 
+Desta forma, torna-se necessário a recolocação do tema da democratização das relações do trabalho no centro da atividade ministerial, recuperando espaços para diálogo e interface com o movimento sindical dos trabalhadores e empregadores, tripartite e paritário, extensivo ao movimento sindical dos servidores públicos e à necessária regulamentação da Convenção 151, já ratificada pelo Estado brasileiro, que versa sobre direito de sindicalização e negociação coletiva na administração pública em todos os seus níveis (União, Estados e municípios). 
+Quanto aos serviços prestados ao trabalhador, seu aprimoramento foi objeto nos PPA anteriores. Em 2018, teve a implantação do Seguro-Desemprego Web - SDWEB e do aplicativo da CTPS Digital, sem a substituição do documento físico. O foco na modernização desses serviços nos próximos 4 anos representa uma continuidade do processo, porém mais efetivo, aperfeiçoando o atendimento digital. 
+Já a promoção do trabalho decente tem sido a principal estratégia adotada internacionalmente, apoiada e patrocinada pela OIT, como forma de aprimorar as relações e as condições laborais e tem sido um importante elemento dos programas de governo nas últimas décadas, em todos os PPA anteriores.
+Comparações Internacionais: O relatório da Organização Internacional do Trabalho (OIT) – WESO Trends, Perspectivas Sociais e de Emprego no Mundo, Tendências 2023 – projeta um baixo crescimento global do emprego; apenas 1,0% em 2023. Isso, possivelmente, implicará o aumento da submissão de trabalhadores e trabalhadoras a empregos de menor qualidade, mal remunerados, precários, sem proteção social e, às vezes, com número reduzido de horas (subutilizados); ampliando as desigualdades intensificadas pela crise da COVID-19, conforme o novo relatório da OIT. 
+Para o diretor do Escritório da OIT para Brasil – “um dos maiores desafios do mercado de trabalho no Brasil continua sendo a formalização das 39 milhões de pessoas (39,1% da população ocupada) que estão na economia informal, sem direitos trabalhistas.”
+Apesar dos dados da PNAD Contínua do IBGE referentes ao trimestre móvel terminado em outubro de 2022 sobre o mercado de trabalho no Brasil (108,7 milhões de pessoas na força de trabalho, sendo, 99,7 milhões de pessoas ocupadas; e 9,0 milhões de pessoas desempregadas, o que corresponde a uma taxa de desemprego de 8,3%), o diretor enfatiza que “os números não refletem as disparidades entre os grupos mais vulneráveis, visto que o desemprego segue afetando com mais impacto mulheres, pessoas jovens e negras e pardas.”
+Além disso, a precarização das relações de trabalho tornou-se um fenômeno mundial que afeta sensivelmente o diálogo equilibrado entre as empresas, trabalhadores e o governo. De acordo com a OIT, entre 2008 e 2014, ocorreram reformas legislativas laborais e de mercado de trabalho – em geral, desregulamentadoras e precarizantes – em mais de 110 países. Em adição, a Organização para a Cooperação e Desenvolvimento Econômico – OCDE afirma que, em muitos países, a capacidade de concretização das negociações coletivas está ameaçada pelo enfraquecimento das relações laborais; pelo crescimento de novas formas de emprego, muitas vezes precárias; e pela individualização progressiva das relações laborais.
+Em relação às novas formas de emprego, o novo paradigma do mercado de trabalho foi potencializado na última década pela interface de diversas novas tecnologias – inteligência artificial, internet das coisas, manufatura aditiva, biologia sintética, robótica autônoma, entre outras – que estão viabilizando a fusão dos mundos físico, digital e biológico. Neste contexto, instrumentalizado por sistemas ciberfísicos, derivam-se realidades até recentemente impensáveis, como a customização em massa de produtos e serviços. São inúmeras as implicações para o mercado de trabalho, empresas, governos e sociedade como um todo. Por se tratar de um desafio mundial, a OIT, o Fórum Econômico Mundial e o Banco Mundial têm abordado o tema futuro do trabalho e aumento da produtividade do trabalhador com bastante intensidade na última década. Assim, as principais economias mundiais têm avançado na construção de suas estratégias produtivas para acompanharem, de forma competitiva, as transformações impulsionadas pelo desenvolvimento da indústria 4.0.
+Relação Com Os Ods: No que se refere à atuação da inspeção do trabalho para mitigar os problemas identificados para elaboração deste Programa do PPA, observa-se uma convergência com os seguintes objetivos de desenvolvimento sustentável: ODS 1 – Erradicação da pobreza, ODS – Saúde e bem estar, ODS 4 – Educação de qualidade, ODS 5 – Igualdade de gênero, ODS 8 – Trabalho Decente e Crescimento Econômico, ODS 9 – Indústria, inovação e infraestrutura, ODS 10 – Redução das desigualdades, ODS 12 – Consumo e produção responsáveis e ODS 16 – Paz, justiça e instituições eficazes.
+
+Especificamente à problemática de elevado número de trabalhadores submetidos a condições análogas às de escravo e ao tráfico laboral há uma relação com as metas 8.3 e 8.7. Quanto ao elevado número de crianças e adolescentes em situação de trabalho infantil há uma relação com as metas 8.3, 8.7, 4.1 e 16.2.
+
+No âmbito do elevado número de acidentes e doenças relacionadas ao trabalho as seguintes metas do ODS são relacionadas: 8.3, 8.8, 3.4 e 9.2. Quanto ao combate ao alto índice de informalidade do trabalhador observa-se uma relação com as metas 8.3, 8.8 e 1.3. Ainda, as ações desenvolvidas no tocante à existência de discriminação estrutural, assédio e violência nos ambientes de trabalho relacionam-se às metas 8.3, 8.5, 8.8, 5.1, 5.4, 9.2, 10.2, 10.3 e 10.4. A atuação quanto à existência de discriminação estrutural, assédio e violência nos ambientes de trabalho está alinhada às metas 8.3, 8.5, 8.8, 5.1, 5.4, 9.2, 10.2, 10.3 e 10.4.
+A atuação para combater a insuficiência no cumprimento da obrigação legal de acesso e inclusão das pessoas com deficiência e reabilitada no mercado formal de trabalho relaciona-se às metas 8.3, 8.8, 1.3, 5.1, 5.4, 10.2, 10.3 e 10.4. Por sua vez, quanto à insuficiência no cumprimento da obrigação legal de inclusão de aprendizes no mercado de trabalho há uma relação com as metas 8.2, 8.3, 8.6, 8.b, 1.3, e 4.4. Ainda, o combate à inadimplência, sonegação do FGTS e para que valores recolhidos sejam depositados nas contas dos trabalhadores relaciona-se às metas 8.3, 8.8, 9.2, 12.b.
+O programa relaciona-se, principalmente, aos ODS 1 – Erradicação da pobreza, ODS – Saúde e bem-estar, ODS 4 – Educação de qualidade, ODS 5 – Igualdade de gênero, ODS 8 – Trabalho Decente e Crescimento Econômico, ODS 9 – Indústria, inovação e infraestrutura, ODS 10 – Redução das desigualdades, ODS 12 – Consumo e produção responsáveis e ODS 16 – Paz, justiça e instituições eficazes.
+
+Quanto às demais linhas de atuação deste Programa, tais como democratização das relações do trabalho, qualificação profissional, aprendizagem profissional, intermediação de mão de obra, fomento às atividades empreendedoras e o microcrédito produtivo orientado e ofertas de serviços digitais ao trabalhador observa-se uma maior relação ao ODS 8 - Trabalho Decente e Crescimento Econômico.
+Agentes Envolvidos: Entidades sindicais, Ministério Público do Trabalho, Conselhos e Associações Profissionais, Sistema S, Ministério da Educação, Ministério da Ciência, Tecnologia e Inovação, Ministério da Mulher, Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Ministério dos Direitos Humanos e da Cidadania, Secretaria Estaduais, Distritais e Municipais de Emprego/Trabalho, Organização Internacional do Trabalho e organizações da sociedade civil.
+Articulação Federativa: A articulação federativa manifesta-se por um processo de diálogo e pactuação entre os entes federados que refletem na gestão de políticas e serviços públicos prestados. Nesse sentido, as Superintendências Regionais e as unidades instituídas pelas esferas de governo que integrarem o Sistema Nacional de Emprego (Sine) são atores que atuam no atendimento ao trabalhador. No âmbito do Sine, a rede de atendimento é financiada e gerida pela União e pelos entes federativos que aderem ao Sine, com transferência de recursos via fundos do trabalho. Inclusive, a Lei 13.667, de 17 de maio de 2018, que dispõe sobre o Sine, enfatiza a articulação das distintas esferas de governo em suas diretrizes. A necessidade de relacionar-se com governos estaduais e municipais também é evidente nas áreas de competência de modernização do sistema de relações de trabalho e do sistema sindical.
+A Inspeção do Trabalho é executada predominantemente de forma descentralizada, por meio das unidades regionais do Ministério do Trabalho e Emprego, uma vez que compete à União organizar, manter e executar a inspeção do trabalho (art. 21, XXIV, da Constituição Federal de 1988). Na atuação da inspeção do trabalho, é fundamental a coordenação com órgãos, fóruns e conselhos, como os conselhos tutelares e o Fórum Nacional de Prevenção e Erradicação do Trabalho Infantil (FNPETI), no âmbito da Atividade de Combate ao Trabalho Infantil.
+Enfoque Transversal: As políticas públicas retratadas no Programa apresentam transversalidade com diversos setores e órgãos do governo. Tais como entidades sindicais, Ministério Público do Trabalho, Conselhos e Associações Profissionais, Sistema S, Ministério da Educação, Ministério da Ciência, Tecnologia e Inovação, Ministério da Mulher, Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, Ministério dos Direitos Humanos e da Cidadania, Secretaria Estaduais, Distritais e Municipais de Emprego/Trabalho, Organização Internacional do Trabalho e organizações da sociedade civil.
+
+O combate à informalidade é relacionado à política de proteção social. Já o combate ao trabalho infantil e a promoção da aprendizagem são relacionados às políticas de proteção à criança e ao adolescente e de educação. Por exemplo, na normativa que regulamenta a Inspeção do Trabalho na sua atuação no combate ao trabalho infantil (IN SIT/MTP nº 02/2021) se destacam: art. 54, parágrafo único, e art. 59: previsão expressa de encaminhamento das crianças e adolescentes encontrados em situação de trabalho infantil para a rede de proteção à criança e ao adolescente; art. 51: determinação as unidades descentralizada da Inspeção do Trabalho promover articulação e integração com órgãos e entidades que compõem a rede de proteção a crianças e adolescentes nas unidades federativas para elaborar diagnósticos e eleger prioridades no planejamento anual; art.52: previsão de atuação do coordenador da atividade de combate ao trabalho infantil junto aos fóruns estaduais de combate ao trabalho infantil e proteção ao adolescente trabalhador.
+
+O combate à discriminação, ao trabalho análogo ao de escravo e a inclusão de pessoas com deficiência são relacionados às políticas de promoção da igualdade.
+
+A CTPS Digital é o documento base para políticas públicas de emprego, envolvendo a intermediação de mão de obra, formação profissional, contratos de aprendizagem, comprovação de vínculos e acesso a benefícios da previdência. 
+
+As políticas ativas no âmbito do Sine dialogam com a intermediação de mão de obra, com a qualificação profissional e com o estímulo à inclusão produtiva por meio do fomento ao empreendedorismo e do incentivo à formalização de empreendimentos.
+Marco Legal: Constituição Federal de 1988;
+Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho);
+Decreto nº 10.854, de 10 de novembro de 2021 (Regulamenta disposições relativas à legislação trabalhista e institui o Programa Permanente de Consolidação, Simplificação e Desburocratização de Normas Trabalhistas Infralegais e o Prêmio Nacional Trabalhista, e altera o Decreto nº 9.580, de 22 de novembro de 2018); 
+Decreto nº 6.481, de 12 de junho de 2008 (Regulamenta os artigos 3o, alínea “d”, e 4o da Convenção 182 da Organização Internacional do Trabalho (OIT) que trata da proibição das piores formas de trabalho infantil e ação imediata para sua eliminação, aprovada pelo Decreto Legislativo no 178, de 14 de dezembro de 1999, e promulgada pelo Decreto no 3.597, de 12 de setembro de 2000, e dá outras providências);
+Decreto nº 4.552, de 27 de dezembro de 2002 (Aprova o Regulamento da Inspeção do Trabalho);
+Decreto nº 3.298, de 20 de dezembro de 1999 (Regulamenta a Lei no 7.853, de 24 de outubro de 1989, dispõe sobre a Política Nacional para a Integração da Pessoa Portadora de Deficiência, consolida as normas de proteção, e dá outras providências);
+Lei Complementar nº 150, de 1º de junho de 2015 (Dispõe sobre o contrato de trabalho doméstico);
+Lei nº 13.636, de 20 de março de 2018 (Dispõe sobre o Programa Nacional de Microcrédito Produtivo Orientado – PNMPO);
+Lei nº 13.667, de 17 de maio de 2018 (Dispõe sobre o Sistema Nacional de Emprego (Sine), criado pelo Decreto nº 76.403, de 8 de outubro de 1975;
+Lei nº 10.593, de 6 de dezembro de 2002 (Dispõe sobre a organização da carreira da Auditoria-Fiscal do Trabalho);
+Lei nº 10.097, de 19 de dezembro de 2000 (Altera dispositivos da Consolidação das Leis do Trabalho – CLT);
+Lei nº 9.029/1995, de 13 de abril de 1995 (Proíbe a exigência de atestados de gravidez e esterilização, e outras práticas discriminatórias, para efeitos admissionais ou de permanência da relação jurídica de trabalho, e dá outras providências); 
+Lei nº 12.984/2014, de 2 de junho de 2014 (Define o crime de discriminação dos portadores do vírus da imunodeficiência humana (HIV) e doentes de aids).
+Lei nº 7.437/1985, de 20 de dezembro de 1985 (Inclui, entre as contravenções penais a prática de atos resultantes de preconceito de raça, de cor, de sexo ou de estado civil, dando nova redação à Lei nº 1.390, de 3 de julho de 1951 - Lei Afonso Arinos); 
+Lei nº 7.716/1989, de 5 de janeiro de 1989 (Define os crimes resultantes de preconceito de raça ou de cor); 
+Lei nº 10.778/2003, de 24 de novembro de 2003 (Estabelece a notificação compulsória, no território nacional, do caso de violência contra a mulher que for atendida em serviços de saúde públicos ou privados); 
+Lei nº 10.741/2003, de 1º de outubro de 2003 (Dispõe sobre o Estatuto da Pessoa Idosa e dá outras providências); 
+Lei nº 13.146/2015, de 6 de julho de 2015 (Institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência); 
+Lei nº 8.213/91, de 24 de julho de 1991 (Dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências);
+Lei nº 7.998, de 11 de janeiro de 1990 (Regula o Programa do Seguro-Desemprego, o Abono Salarial, institui o Fundo de Amparo ao Trabalhador (FAT), e dá outras providências;
+Lei.º 8.019, de 11 de abril de 1990 (Altera a legislação do Fundo de Amparo ao Trabalhador (FAT), e dá outras providências);
+Resoluções do Conselho Deliberativo do Fundo de Amparo ao Trabalhador – CODEFAT;
+Portaria Interministerial MTPS/MMIRDH nº 4 de 11 de maio de 2016 (Dispõe sobre as regras relativas ao Cadastro de Empregadores que tenham submetido trabalhadores a condições análogas à de escravo);
+Portaria MTP nº 671, de 8 de novembro de 2021 (Regulamenta disposições relativas à legislação trabalhista, à inspeção do trabalho, às políticas públicas e às relações de trabalho);
+Instrução Normativa MTP nº 2, de 8 de novembro de 2021 (Dispõe sobre os procedimentos a serem observados pela Auditoria-Fiscal do Trabalho nas situações elencadas);
+Convenções nº 138 da OIT (sobre idade mínima para o trabalho);
+Convenção nº 182 da OIT (sobre proibição das piores formas de trabalho infantil e ação imediata para sua eliminação)  
+Recomendação OIT nº 204, de 12 de junho de 2015 (Transição da Economia Informal para a Formal).
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Combate à Informalidade do Trabalhador Empregado – PLANCITE; 
+Plano Nacional dos Trabalhadores Rurais - PLANATRE (Portaria Interministerial SGPR/MTE nº 2/2014); 
+O Plano Nacional de Prevenção e Erradicação do Trabalho Infantil; 
+Plano Nacional de Segurança e Saúde no Trabalho.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não

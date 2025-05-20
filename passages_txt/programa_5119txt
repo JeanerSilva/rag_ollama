@@ -1,0 +1,1321 @@
+passage: Programa Número 5119
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Entrega: 265
+Indicador: 9093
+Denominação: Número de Centros de Especialidades Odontológicas (CEO) implantados com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 1183.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Centros de Especialidades Odontológicas (CEO) implantados com cofinanciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado. 
+São considerados Centros de Especialidades Odontológicas credenciados e cofinanciados os que possuem portaria de credenciamento publicada, habilitação ativa no CNES, estejam enviando produção SIA ou SISAB e estejam sendo cofinanciados pelo Ministério da Saúde.
+
+Os CEO são estabelecimentos de saúde com registro no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES), classificados como Clínica Especializada ou Ambulatório de Especialidade, e estão preparados para oferecer à população, no mínimo, os seguintes serviços: 
+Diagnóstico bucal, com ênfase no diagnóstico e detecção do câncer de boca; 
+Periodontia especializada; 
+Cirurgia oral menor dos tecidos moles e duros; 
+Endodontia e atendimento a portadores de necessidades especiais. 
+
+O tratamento oferecido é uma continuidade do trabalho realizado pela equipe de Saúde Bucal (eSB) que atua na Atenção Primária e, no caso dos municípios que estão na Estratégia Saúde da Família (ESF), pelas eSB que atuam na ESF. 
+São consideradas 3 tipologias de CEO: 
+Tipo I com 3 cadeiras odontológicas; 
+Tipo II com 4 a 6 cadeiras odontológicas; e 
+Tipo III acima de 7 cadeiras odontológicas.
+
+Neste cálculo não são consideradoss CEO que estão com a transferência de incentivos financeiros federais temporariamente suspensas.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Centros de Especialidades Odontológicas I, II e III implantados com cofinanciamento pelo Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (SISAB), a qual integra a estratégia e-SUS APS; do Sistema de Informação Ambulatorial do SUS (SIA); e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: entrar no site do SCNES na aba "relatórios", clicar em "habilitações", no campo "Estados", selecionar "Todos". 
+Passo 2: no relatório apresentado, identificar o total das habilitações 0403-CENTRO DE ESPECIALIDADES ODONTOLOGICAS I, 0404-CENTRO DE ESPECIALIDADES ODONTOLOGICAS II, 0405-CENTRO DE ESPECIALIDADES ODONTOLOGICAS III.
+Passo 3: realizar a adição dos valores encontrados. Serão encontradas as quantidades de CEO credenciados. 
+Passo 4: subtrair os CEO com incentivos financeiros federais suspensos.
+Limitações: A implantação dos Centros de Especialidades Odontológicas está condicionada ao reconhecimento e a priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador. A restrição orçamentária de União e Municípios pode ocasionar baixa oferta de novos serviços.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 3365
+Indicador: 12693
+Denominação: Número de eMulti com custeio adicional para a oferta de atendimento remoto nas Unidades Básicas de Saúde (UBS) com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-02-28 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de eMulti com custeio adicional para a oferta de atendimento remoto nas Unidades Básicas de Saúde (UBS), implantadas e com cofinanciamento pelo Ministério da Saúde. 
+Analisa a manutenção para condições da oferta de Teleconsulta na Atenção Primária, considerando as atividades realizadas pelas eMulti.
+Período Ou Data A Que Se Refere: Último dia do mês.
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eMulti com custeio adicional para a oferta de atendimento remoto nas Unidades Básicas de Saúde (UBS) com cofinancimento pelo Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES), Sistema de Informação em Saúde para a Atenção Básica (SISAB) e Portal e-Gestor AB (Relatório Público de Financiamento da APS).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Identificar as eMulti de acordo com os critérios estabeledidos na Portaria GM/MS nº 635/2023: I - credenciamento, pelo Ministério da Saúde, por meio de portaria específica; II - cadastramento das equipes no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES); e III - definição e homologação, pelo Ministério da Saúde, dos códigos referentes às Identificações Nacionais de Equipe (INE) das equipes. 
+Passo 2: Extrair do e-Gestor AB as eMulti homologadas, a partir do SCNES para as quais já foram aplicadas as regras de validação para homologar equipe. De acordo com os § 2º e 3º do Artigo 3º da Seção I, do Capítulo I do Título I da Portaria de Consolidação SAPS/MS nº 01/2021, a homologação de equipes na APS está condicionada ao cadastro no SCNES considerando o prazo de 3 competências a contar da data de publicação do credenciamento e ao cumprimento dos seguintes critérios: 
+I - cadastro em estabelecimento de saúde da APS, de acordo as regras de cada equipe e serviço; 
+II - registro do código da Identificação Nacional de Equipe (INE) da equipe no SCNES; 
+III - presença de composição profissional mínima exigida, de acordo as regras de cada equipe; e 
+IV - presença de carga horária mínima exigida por categoria profissional, de acordo as regras de cada equipe. Logo, equipe homologada se refere a equipes credenciadas e cadastradas, no prazo estabelecido, com os códigos INE publicados pelo Ministério da Saúde em portaria de homologação para fins da transferência dos incentivos de custeio federal, acompanhamento, monitoramento e avaliação. 
+Passo 3: Identificar equipes com a indicação de oferta de atendimento remoto no credenciamento, sendo regra para fazer jus ao incentivo adicional, as eMulti consideradas para cálculo do indicador deverão ter sido credenciadas e homologadas com sinalização de "Atendimento Remoto por Atividade Virtual".
+Limitações: A designação da existência das eMulti está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 843
+Indicador: 9804
+Denominação: Número de equipes de Atenção Primária (eAP) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 4792.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de equipes de Atenção Primária implantadas com cofinanciamento pelo Ministério da Saúde em determinado espaço geográfico, no período considerado. Consideram-se as equipes de Atenção Primária implantadas com cofinanciamento pelo Ministério da Saúde as equipes que primeiramente foram credenciadas em portaria específica, na sequência foram homologadas em portaria específica e que após isso, mensalmente cumprem as regras previstas Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS).	
+
+As equipe de Atenção Primária (eAP) diferem das equipes de Saúde da Família (eSF) em sua composição, sendo compostas minimamente por médicos preferencialmente especialistas em medicina de família e comunidade e enfermeiros preferencialmente especialistas em saúde da família cadastrados em uma mesma Unidade de Saúde. As eAP poderão ser de duas modalidades, de acordo com a carga horária, sendo a Modalidade I com carga horária mínima individual dos profissionais de 20 (vinte) horas semanais, população adscrita correspondente a 50% (cinquenta por cento) da população adscrita para uma eSF; e a Modalidade II com carga horária mínima individual dos profissionais de 30 (trinta) horas semanais, com população adscrita correspondente a 75% (setenta e cinco por cento) da população adscrita para uma eSF.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eAP implantadas com cofinanciamento do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (Sisab) que integra a estratégia e-SUS APS e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1 - Equipe deve ser credenciada em portaria específica. 
+Passo 2 - Equipes após credenciadas, devem ser homologadas em portaria específica. 
+Passo 3 - Após homologação, mensalmente, há validação das equipes para que haja o cofinanciamento do Ministério da Saúde, que prevê uma série de regras que estão previstas na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS). 
+Passo 4 - Realizar o somatório do n° eAP implantadas com cofinanciamento pelo Ministério da Saúde que atendem aos critérios descritos no Passo 3.
+Limitações: O cofinanciamento de novas equipes Saúde de Atenção Primária está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 70
+Entrega: 864
+Indicador: 9824
+Denominação: Número de equipes de Atenção Primária Prisional (eAPP) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 352.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de equipes de Atenção Primária Prisional (eAPP) implantadas com cofinanciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado.
+O serviço visa acompanhar a ampliação do acesso às ações e serviços de saúde, pela população privada de liberdade, que se encontra invisibilidade da sociedade e em condições de vulnerabilidade social, ofertando, de modo oportuno, uma atenção integral à saúde pelas eAPP.
+
+As eAPP possuem composição multiprofissional, com carga horária mínima de 20 (vinte) e de 30 (trinta) horas semanais:
+- eAPP com carga horária compartilhada com eSF/eSB: um médico, um enfermeiro, um tec./aux. de enfermagem, um cirurgião dentista e um tec./aux. de saúde bucal.  
+- eAPP Essencial: um médico, um enfermeiro, um tec./aux. de enfermagem e um cirurgião dentista. 
+- eAPP Ampliada: mesma configuração da essencial acrescida de um profissional de nível superior entre: enfermeiro, médico, psicólogo, assistente social, farmacêutico, nutricionista, fisioterapeuta e terapeuta ocupacional. 
+O profissional tec./aux. de saúde bucal é opcional e pode ser credenciado nas eAPP Essencial e Ampliada.
+
+As regras para a implantação com confinanciamento pelo Ministério da Saúde estão de acordo com as diretrizes das Portaria de Consolidação GM/MS nº 06/2017 e Portaria de Consolidação SAPS/MS nº 01/2021.
+
+As eAPP implantadas com cofinanciamento pelo Ministério da Saúde devem possuir composição multiprofissional, com carga horária mínima semanal de 20h e 30h, conforme descrito em Portaria de Consolidação GM/MS nº 02/2017.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eAPP 20h implantadas com cofinanciamento do Ministério da Saúde
+Número de eAPP 30h implantadas com cofinanciamento do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos. https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+Procedimento De Cálculo: Passo 1: Inserção correta da carga horária mínima exigida para cada tipo de equipe, tipo de equipe elegível, tipo de estabelecimento válido e das categorias profissionais e dos Códigos Brasileiros de Ocupação (CBO), em conformidade com a Portaria de Consolidação SAPS/MS nº 01/2021. 
+Passo 2: Quanto à natureza jurídica dos estabelecimentos de Atenção Primária, será considerada a de natureza pública. Aquelas financiadas pelo Ministério da Saúde devem ser credenciadas, homologadas e válidas para pagamento, em conformidade com a Portaria de Consolidação SAPS/MS nº 01/2021. 
+Passo 3: Realizar a extração dos dados no SCNES, aplicando as regras de composição mínima da equipe (carga horária mínima por categorial profissional + CBO mínimo de composição) conforme diretrizes estabelecidas na Portaria de Consolidação SAPS/MS nº 01/2021, e na Portaria de Consolidação GM/MS nº 06/2017, que consolida as normativas para transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde (SUS). 
+Passo 4: Realizar o somatório das duas modalidades de eAPP (20h e 30h) implantadas que atendam aos critérios descritos no passo 3.
+Limitações: A implantação de equipes de Atenção Primária Prisional está diretamente vinculada ao reconhecimento, priorização política e sanitária pela gestão local, ficando a gestão federal dependente, indiretamente, para o alcance da meta. A implantação de novas equipes com cofinanciamento pelo Ministério da Saúde requer disponibilidade orçamentária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 70
+Entrega: 861
+Indicador: 9823
+Denominação: Número de equipes de Consultório na Rua (eCR) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 184.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de equipes de Consultório na Rua (eCR) credenciadas e implantadas com cofinaciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado. 
+O serviço visa acompanhar a ampliação do acesso da população em situação de rua aos serviços de saúde, ofertando, de maneira mais oportuna, atenção integral à saúde para esse grupo populacional, o qual se encontra em condições de vulnerabilidade e com os vínculos familiares interrompidos ou fragilizados.
+
+As eCR possuem as seguintes tipologias: 
+- Modalidade I: equipe formada, minimamente, por 4 (quatro) profissionais, dentre os quais 2 (dois) destes, obrigatoriamente, deverão estar aqueles descritos no item "a" abaixo e os demais dentre aqueles relacionados nos itens "a" e "b”;
+- Modalidade II: equipe formada, minimamente, por 6 (seis) profissionais, dentre os quais 3 (três) destes, obrigatoriamente, deverão estar aqueles descritos no item "a" abaixo e os demais dentre aqueles relacionados nos itens "a" e "b”;
+- Modalidade III: equipe da Modalidade II acrescida de um profissional médico.
+  a) enfermeiro, psicólogo, assistente social, cirurgião dentista e terapeuta ocupacional; 
+  b) agente social, técnico ou auxiliar de enfermagem, técnico ou auxiliar em saúde bucal e profissional/professor de educação física.
+
+As regras para a implantação com confinanciamento pelo Ministério da Saúde estão de acordo com as diretrizes das Portaria de Consolidação GM/MS nº 06/2017 e Portaria de Consolidação SAPS/MS nº 01/2021.
+As eCR implantadas com cofinanciamento pelo Ministério da Saúde devem possuir composição multiprofissional, nas três tipologias de modalidades, conforme descrito em Portaria de Consolidação GM/MS nº 02/2017.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eCRI implantadas com cofinanciamento do Ministério da Saúde
+Número de eCRII implantadas com cofinanciamento do Ministério da Saúde
+Número de eCRIII implantadas com cofinanciamento do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos. https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+Procedimento De Cálculo: Passo 1: Inserção correta da carga horária mínima exigida para cada tipo de equipe, tipo de equipe elegível, tipo de estabelecimento válido e das categorias profissionais e dos Códigos Brasileiros de Ocupação (CBO), em conformidade com a Portaria de Consolidação SAPS/MS nº 01/2021. 
+Passo 2: Quanto à natureza jurídica dos estabelecimentos de Atenção Primária, será considerada a de natureza pública. Aquelas financiadas pelo Ministério da Saúde devem ser credenciadas, homologadas e válidas para pagamento, em conformidade com a Portaria de Consolidação SAPS/MS nº 01/2021.
+Passo 3: Realizar a extração dos dados no SCNES, aplicando as regras de composição mínima da equipe (carga horária mínima por categorial profissional + CBO mínimo de composição) conforme diretrizes estabelecidas na Portaria de Consolidação SAPS/MS nº 01/2021, e na Portaria de Consolidação GM/MS nº 06/2017, que consolida as normativas para transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde (SUS). 
+Passo 4:  Realizar o somatório das três modalidades de eCR (I, II e III) implantadas que atendam aos critérios descritos no passo 3.
+Limitações: A implantação de equipes de Consultório na Rua está diretamente vinculada ao reconhecimento, priorização política e sanitária pela gestão local, ficando a gestão federal dependente, indiretamente, para o alcance da meta. A implantação de novas equipes com cofinanciamento pelo Ministério da Saúde requer disponibilidade orçamentária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Entrega: 266
+Indicador: 9097
+Denominação: Número de equipes de Saúde Bucal (eSB) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 29516.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de equipes de Saúde Bucal (eSB) implantadas com cofinanciamento pelo Ministério da Saúde, vinculadas às equipes da Atenção Primária. O dado subsidia o processo de planejamento e organização da Rede de Atenção à Saúde Bucal, buscando ampliação do acesso da população à assistência odontológica e da integralidade da atenção.
+São consideradas eSB implantadas e cofinanciadas, as equipes que possuem portaria de credenciamento publicada, INE homologado em portaria, estejam enviando produção no SISAB e estejam sendo cofinanciados pelo Ministério da Saúde. 
+
+Existem duas modalidades de composição de eSB:
+Modalidade I, composta por 01 cirurgião-dentista e 01 auxiliar em saúde bucal ou técnico em saúde bucal, com carga horária semanal de 40h, 30h e 20h; e 
+Modalidade II, composta por 01 cirurgião-dentista, 01 auxiliar em saúde bucal ou técnico em saúde bucal e 01 técnico em saúde bucal, com carga horária exclusiva de 40h semanais. 
+
+Neste cálculo não são consideradas eSB que estão com a transferência de incentivos financeiros federais temporariamente suspensas.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Equipes de Saúde Bucal (eSB), carga horária mínima semanal de 20, 30 ou 40 horas, implantadas com cofinanciamento pelo Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Inserção correta da carga horária mínima exigida para cada tipo de equipe, tipo de equipe elegível, tipo de estabelecimento válido e das categorias profissionais e dos Códigos Brasileiros de Ocupação (CBO), em conformidade com a Portaria de Consolidação SAPS/MS nº 01/2021. 
+Passo 2: Quanto à natureza jurídica dos estabelecimentos de Atenção Primária, será considerada a de natureza pública. Aquelas financiadas pelo Ministério da Saúde devem ser credenciadas, homologadas e válidas para pagamento, em conformidade com a Portaria de Consolidação SAPS/MS nº 01/2021. 
+Passo 3: Realizar a extração dos dados no SCNES, aplicando as regras de composição mínima da equipe (carga horária mínima por categorial profissional + CBO mínimo de composição) conforme diretrizes estabelecidas na Portaria de Consolidação SAPS/MS nº 01/2021 e na Portaria de Consolidação GM/MS nº 06/2017, que consolida as normativas para transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS). 
+Passo 4: Realizar o somatório das modalidades de eSB (20h, 30h e 40h) implantadas que atendam aos critérios descritos no Passo III.
+Limitações: O cofinanciamento de novas equipes de Saúde Bucal está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador. A restrição orçamentária de União e Municípios pode ocasionar baixa oferta de novos serviços.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 836
+Indicador: 9792
+Denominação: Número de equipes de Saúde da Família (eSF) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 49601.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de equipes Saúde da Família implantadas com cofinanciamento pelo Ministério da Saúde em determinado espaço geográfico, no período considerado. Considera-se equipes Saúde da Família implantas com cofinanciamento pelo Ministério da Saúde as equipes que primeiramente foram credenciadas em portaria específica, na sequência foram homologadas em portaria específica e que após isso, mensalmente cumprem as regras previstas na Portaria de Consolidação SAPS/MS nº 1, de 02 de junho de 2021, que consolida as normas sobre Atenção Primária à Saúde (APS), bem como a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS).
+
+AAs equipes Saúde da Família (eSF) são formadas por, no mínimo, médico(a), enfermeiro(a), técnico(a) ou auxiliar de enfermagem e agentes comunitários de saúde (ACS) com a obrigatoriedade de carga horária de 40 (quarenta) horas semanais para todos os membros da equipe.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eSF implantadas com cofinanciamento do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (Sisab) que integra a estratégia e-SUS APS e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Equipe deve ser credenciada em portaria específica. 
+Passo 2: Equipes após credenciadas, devem ser homologadas em portaria específica. 
+Passo 3: Após homologação, mensalmente, há validação das equipes para que haja o cofinanciamento do Ministério da Saúde, que prevê uma série de regras que estão previstas na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde. 
+Passo 4: Realizar o ∑ n°eSF implantadas com cofinanciamento pelo Ministério da Saúde que atendem aos critérios descritos no Passo 3.
+Limitações: O cofinanciamento de novas equipes Saúde da Família está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 1348
+Indicador: 10440
+Denominação: Número de equipes Multiprofissionais (eMulti) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 24.0
+Em Apuração: Não
+Data De Apuração: 2023-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Esse indicador mensura o número de equipes Multiprofissionais (eMulti) implantadas com cofinanciamento pelo Ministério da Saúde. São consideradas: 
+> eMulti Ampliada (equipe multiprofissional na APS vinculada a no mínimo 10 (dez) e no máximo 12 (doze) equipes no mesmo município ou em um conjunto de municípios); 
+> eMulti Complementar (equipe multiprofissional na APS vinculada a no mínimo 05 (cinco) e no máximo 09 (nove) equipes no mesmo município); e 
+> eMulti Estratégica (equipe multiprofissional na APS vinculada a no mínimo 01 (uma) e no máximo 04 (quatro) equipes no mesmo município). 
+
+As eMulti deverão ser vinculadas a uma ou mais das seguintes tipologias de equipes ou serviços: 
+I - equipe de Saúde da Família (eSF); 
+II - equipe de Saúde da Família Ribeirinha (eSFR); 
+III - equipe de Consultório na Rua (eCR); 
+IV - equipe de Atenção Primária; e 
+V -  Unidade Básica de Saúde Fluvial (UBSF). 
+Considera-se eMulti implantas com cofinanciamento pelo Ministério da Saúde as equipes que primeiramente foram credenciadas em portaria específica, na sequência foram homologadas em portaria específica e que após isso, mensalmente cumprem as regras previstas Portaria GM/MS nº 635/2023, que institui, define e cria incentivo financeiro federal de implantação, custeio e desempenho para as modalidades de equipes Multiprofissionais na Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 02/2017 que consolida as normas sobre as políticas nacionais de saúde do Sistema Único de Saúde (SUS).
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Indisponível
+Polaridade: Não se aplica
+Variáveis De Cálculo: Número de eMulti Ampliada implantadas com cofinanciamento pelo Ministério da Saúde.
+Número de eMulti Complementar implantadas com cofinanciamento pelo Ministério da Saúde.
+Número eMulti Estratégica implantadas com cofinanciamento pelo Ministério da Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (Sisab) que integra a estratégia e-SUS APS e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos. https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+Procedimento De Cálculo: Passo 1 - Identificar as eMulti de acordo com os critérios estabeledidos na Portaria GM/MS nº 635/2023: 
+I - credenciamento, pelo Ministério da Saúde, por meio de portaria específica; 
+II - cadastramento das equipes no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES); e 
+III - definição e homologação, pelo Ministério da Saúde, dos códigos referentes às Identificações Nacionais de Equipe (INE) das equipes. 
+Passo 2 - Após homologação, mensalmente, há validação das equipes para que haja o cofinanciamento do Ministério da Saúde, que prevê uma série de regras que estão previstas na Portaria GM/MS nº 635/2023 e na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre Atenção Primária à Saúde. 
+Passo 3 - ∑ n°eMulti implantadas com cofinanciamento pelo MS que atendem aos critérios descritos no Passo 2.
+Limitações: A designação da existência das eMulti está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 849
+Indicador: 9808
+Denominação: Número de equipes Saúde da Família Ribeirinha (eSFR) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 199.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de equipes Saúde da Família Ribeirinha (eSFR) implantadas com cofinanciamento pelo Ministério da Saúde em determinado espaço geográfico, no período considerado. Consideram-se as equipes Saúde da Família Ribeirinhas implantadas com cofinanciamento pelo Ministério da Saúde as equipes que primeiramente foram credenciadas em portaria específica, na sequência foram homologadas em portaria específica e que após isso, mensalmente cumprem as regras previstas Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre a Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS).	
+
+As eSFR são equipes que desempenham parte significativa de suas funções em UBS construídas e/ou localizadas nas comunidades pertencentes à área adstrita e cujo acesso se dá por meio fluvial e que, pela grande dispersão territorial, necessitam de embarcações para atender as comunidades dispersas no território. 
+A eSFR será formada por equipe multiprofissional composta por, no mínimo: 01 (um) médico, preferencialmente da especialidade de Família e Comunidade, 01 (um) enfermeiro, preferencialmente especialista em Saúde da Família e 01 (um) auxiliar ou técnico de enfermagem, podendo acrescentar a esta composição, como parte da equipe multiprofissional, o ACS e ACE e os profissionais de saúde bucal: 01 (um) cirurgião dentista, preferencialmente especialista em saúde da família e 01 (um) técnico ou auxiliar em saúde bucal.
+Nas hipóteses de grande dispersão populacional, as ESFR podem contar, ainda, com: até 24 (vinte e quatro) Agentes Comunitários de Saúde; até 12 (doze) microscopistas, nas regiões endêmicas; até 11 (onze) Auxiliares/Técnicos de enfermagem; e 01 (um) Auxiliar/Técnico de saúde bucal. As ESFR poderão, ainda, acrescentar até 02 (dois) profissionais da área da saúde de nível superior à sua composição, dentre enfermeiros ou outros profissionais previstos nas antigas equipes de Nasf-AB. 
+Os agentes comunitários de saúde, os auxiliares/técnicos de enfermagem extras e os auxiliares/técnicos de saúde bucal cumprirão carga horária de até 40 (quarenta) horas semanais de trabalho e deverão residir na área de atuação. As eSFR prestarão atendimento à população por, no mínimo, 14 (quatorze) dias mensais, com carga horária equivalente a 08 (oito) horas diárias.
+Período Ou Data A Que Se Refere: Último dia dia mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de eSFR implantadas com cofinanciamento do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (Sisab) que integra a estratégia e-SUS APS e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos. https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+Procedimento De Cálculo: Passo 1 - Equipe deve ser credenciada em portaria específica. 
+Passo 2 - Equipes após credenciadas, devem ser homologadas em portaria específica. 
+Passo 3 - Após homologação, mensalmente, há validação das equipes para que haja o cofinanciamento do Ministério da Saúde, que prevê uma série de regras que estão previstas na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS).	
+Passo 4 - Realizar o ∑ n°eSFR implantadas com cofinanciamento pelo Ministério da Saúde que atendem aos critérios  descrito no Passo 3.
+Limitações: A implantação de novas equipes de Saúde da Família Ribeirinha (eSFR) está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal e estadual. Portanto, a gestão federal depende da iniciativa municipal e estadual para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Entrega: 269
+Indicador: 9099
+Denominação: Número de municípios com Laboratórios Regionais de Próteses Dentárias (LRPD) implantados com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 2911.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de municípios com Laboratórios Regionais de Próteses Dentárias (LRPD) implantados com cofinanciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado. Os LRPD são serviços de referência para realizar a confecção de próteses dentárias, principalmente próteses totais, próteses parciais removíveis e coroas unitárias, servindo de referência para pessoas atendidas pelas equipes de Atenção Primária à Saúde (APS) e Centros de Especialidades Odontológicas (CEO) que necessitem de reabilitação oral protética.  O cadastro do LRPD no SCNES deverá conter, minimamente, um cirurgião-dentista ou técnico em prótese dentária. 
+
+São considerados os Laboratórios Regionais de Próteses Dentárias (LRPD) credenciados e cofinanciados, os que possuem portaria de credenciamento publicada, estejam enviando produção no SIA, estejam sendo cofinanciados pelo Ministério da Saúde e  que cumprem as regras de validação da equipe previstas na Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS). Não são considerados os LRPD que estão temporariamente suspensas as transferências de incentivos de custeio mensal.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de municípios com  Laboratórios Regionais de Próteses Dentárias (LRPD) implantados com cofinanciamento pelo Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação Ambulatorial do SUS (SIA) e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: Portal e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: entrar no e-Gestor AB, clicar em "relatórios públicos"; clicar em "Financiamento APS"; "Pagamento APS (2022-atual)"; selecionar UF "todos", selecionar o ano "XXXX" e selecionar a parcela "última disponível". 
+Passo 2: fazer o download. No arquivo clicar na aba "Ações Est. SB". 
+Passo 3: considerar a coluna "Valor de LRPD Estadual" e "Valor de LRPD Municipal". As células onde esse valor for diferente de ZERO indica a existência de LRPD credenciado.
+Limitações: O credenciamento dos Laboratórios Regionais de Próteses Dentárias está condicionado ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador. A restrição orçamentária de União e Municípios pode ocasionar baixa oferta de novos serviços.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos extralegais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 2638
+Indicador: 11985
+Denominação: Número de obras inacabadas em Unidades Básicas de Saúde (UBS) concluídas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-08-09 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de obras inacabadas em Unidades Básicas de Saúde (UBS) concluídas no período 2024-2027, mediante aporte financeiro para a retomada e conclusão de obras com recursos oriundos do PAC.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: julho/ano (dados do 1º semestre) e janeiro/ano (dados do 1º e 2º semestre).
+Periodicidade: Semestral/Bianual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Obras inacabadas em Unidades Básicas de Saúde (UBS) concluídas a cada ano no período 2024-2027, mediante aporte financeiro para a retomada e conclusão de obras com recursos oriundos do PAC.
+Fonte De Dados Das Variáveis De Cálculo: 1. Sistema de Monitoramento de Obras (SISMOB);
+2. InvestSUS;
+3. Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS)
+Forma De Disponibilização: Os resultados são disponibilizados semestralmente no SISMOB (https://sismobcidadao.saude.gov.br/) e InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Extração dos dados de obras inacabadas em Unidades Básicas de Saúde (UBS) concluídas a cada ano no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Monitoramento de Obras (SISMOB) e Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS), mediante aporte financeiro para a retomada e conclusão de obras com recursos oriundos do PAC.
+Limitações: 1. Restrições orçamentárias e financeiras; 
+2. Capacidade de execução das obras pelos gestores locais.
+Notas Explicativas: Considera-se como "Unidade Básica de Saúde (UBS) construída aquela com estágio da obra"concluída", mediante aporte financeiro para a retomada e conclusão de obras com recursos oriundos do PAC, com informação de conclusão da obra no Sistema de Monitoramento de Obras (SISMOB).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 70
+Entrega: 866
+Indicador: 9829
+Denominação: Número de pessoas que menstruam e se encontram em condições de precariedade menstrual, contempladas no Programa de Proteção, Promoção da Saúde e Dignidade Menstrual
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número estimado de pessoas que menstruam beneficiárias do programa, de acordo com as diretrizes estabelecidas na Lei nº 14.214/2021 e os regulamentos correlatos.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do mês subsequente ao mês de referência, conforme base de dados do Programa Farmácia Popular.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Pessoas que menstruam beneficiárias do programa, conforme a Lei nº 14.214/2021 e os regulamentos oriundos, que estejam cadastradas no Cadastro Único para Programas Sociais (CadÚnico) e no Programa Bolsa Família.
+Fonte De Dados Das Variáveis De Cálculo: Cadastro Único para Programas Sociais (CadÚnico);
+Cadastro do Programa Bolsa Família;
+Sistema penitenciário brasileiro (Sisdepen);
+Sistema Nacional de Atendimento Socioeducativo (Sinase).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos. https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+Página do Programa Farmácia Popular
+Procedimento De Cálculo: Em elaboração
+Limitações: A implantação de nova política pública através de distribuição descentralizada via Programa Farmácia Popular, envolve a dispensação em municípios de todos os Estados da Federação, tendo a gestão federal a atribuição de cofinanciamento e articulação da da cooperação estadual, municipal e distrital para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 1570
+Indicador: 10759
+Denominação: Número de polos do Programa Academia da Saúde credenciados pelo Ministério da Saúde
+Índice De Referência: 1602.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de polos do Programa Academia da Saúde credenciados pelo Ministério da Saúde. O monitoramento da implementação do Programa visa aumentar a oferta de ações de promoção da saúde e fortalecimento das ações intrassetoriais e intersetoriais das equipes da Atenção Primária à Saúde e diferentes setores.
+São considerados os polos credenciados pelo Ministério da Saúde, os quais possuam portaria de credenciamento e portaria de homologação do CNES publicadas.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de de polos de Academia da Saúde credenciados pelo Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (SISAB), o qual integra a estratégia e-SUS APS.
+Forma De Disponibilização: e-Gestor Atenção Básica
+https://egestorab.saude.gov.br/gestaoaps/relFinanciamentoParcela.xhtml
+Procedimento De Cálculo: Passo 1: Acessar o site do e-gestor, por meio do link https://egestorab.saude.gov.br/gestaoaps/relFinanciamentoParcela.xhtml.
+Passo 2: Selecionar os campos UF: **TODOS**, município: **TODOS**, ano de referência e a parcela de referência.
+Passo 3: Identificar o número absoluto de polos credenciados no período.
+Limitações: Polos descredenciados por não cumprimento do prazo para homologação e não cumprimento das regras de pagamento por mais de 12 competências consecutivas
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 1583
+Indicador: 10760
+Denominação: Número de procedimentos de inserção de métodos contraceptivos de longa duração na Atenção Primária à Saúde realizados
+Índice De Referência: 52119.0
+Em Apuração: Não
+Data De Apuração: 2022-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de inserções de Dispositivos Intrauterinos (DIU) na Atenção Primária à Saúde
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 20º dia do mês subsequente ao mês de referência.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de procedimentos de inserção de Dispositivo Intrauterino (DIU) realizados na Atenção Primária.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (SISAB), o qual integra a estratégia e-SUS APS.
+Forma De Disponibilização: Sistema de Informação em Saúde para a Atenção Básica (SISAB)
+https://sisab.saude.gov.br/paginas/acessoRestrito/relatorio/federal/saude/RelSauProducao.xhtml
+Procedimento De Cálculo: Passo 1: Acessar o SISAB, por meio https://sisab.saude.gov.br/paginas/acessoRestrito/relatorio/federal/saude/RelSauProducao.xhtml
+Passo 2: Definir as seguintes variáveis: Unidade Geográfica (Brasil); Competência (Janeiro a Dezembro/ano); Linha (Região); Coluna: SIGTAP; e Procedimento (0301040141 - INSERÇÃO DO DISPOSITIVO INTRA-UTERINO (DIU))
+Passo 3: Selecionar a visualização dos dados em tela ou download
+Limitações: O cálculo é limitado aos procedimentos de inserção de DIU por não haver série histórica de outros procedimentos de inserção de métodos contraceptivos na Atenção Primária.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 896
+Indicador: 9881
+Denominação: Número de salas com atividade virtual nas Unidades Básicas de Saúde (UBS) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-02-28 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de salas com atividade virtual nas Unidades Básicas de Saúde (UBS), implantadas e com cofinanciamento pelo Ministério da Saúde, para as equipes Multiprofissionais (eMulti) credenciadas, homologadas e que realizam atendimento remoto por meio de atividade virtual. 
+Analisa a manutenção para condições da oferta de Teleconsulta na Atenção Primária, considerando as atividades realizadas pelas eMulti, sendo estimado que cada equipe tenha uma sala para atendimento remoto.
+
+Salas com atividade virtual destinadas à oferta de atendimento remoto de forma assistida pelas equipes Multiprofissionais (eMulti), mediada por Tecnologia da Informação e da Comunicação (TIC).
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de salas com atividade virtual nas Unidades Básicas de Saúde (UBS)
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES), Sistema de Informação em Saúde para a Atenção Básica (SISAB) e Portal e-Gestor AB (Relatório Público de Financiamento da APS).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Identificar as eMulti de acordo com os critérios estabeledidos na Portaria GM/MS nº 635/2023: I - credenciamento, pelo Ministério da Saúde, por meio de portaria específica; II - cadastramento das equipes no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES); e III - definição e homologação, pelo Ministério da Saúde, dos códigos referentes às Identificações Nacionais de Equipe (INE) das equipes. 
+Passo 2: Extrair do e-Gestor AB as eMulti homologadas, a partir do SCNES para as quais já foram aplicadas as regras de validação para homologar equipe. De acordo com os § 2º e 3º do Artigo 3º da Seção I, do Capítulo I do Título I da Portaria de Consolidação SAPS/MS nº 01/2021, a homologação de equipes na APS está condicionada ao cadastro no SCNES considerando o prazo de 3 competências a contar da data de publicação do credenciamento e ao cumprimento dos seguintes critérios: 
+I - cadastro em estabelecimento de saúde da APS, de acordo as regras de cada equipe e serviço; 
+II - registro do código da Identificação Nacional de Equipe (INE) da equipe no SCNES; 
+III - presença de composição profissional mínima exigida, de acordo as regras de cada equipe; e 
+IV - presença de carga horária mínima exigida por categoria profissional, de acordo as regras de cada equipe. Logo, equipe homologada se refere a equipes credenciadas e cadastradas, no prazo estabelecido, com os códigos INE publicados pelo Ministério da Saúde em portaria de homologação para fins da transferência dos incentivos de custeio federal, acompanhamento, monitoramento e avaliação. 
+Passo 3: Entende-se que para a execução do atendimento remoto, os estabelecimentos de saúde deverão dispor, minimamente, de sala para a atividade de atendimento remoto, por eMulti. Portanto, o requisito é ao menos 1 sala para a atividade de atendimento remoto por eMulti. Como a indicação de que a eMulti oferta atendimento remoto acontece no credenciamento, sendo regra para fazer jus ao incentivo adicional, as eMulti consideradas para cálculo do indicador deverão ter sido credenciadas e homologadas com sinalização de "Atendimento Remoto por Atividade Virtual".
+Limitações: A designação da existência das eMulti está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Entrega: 264
+Indicador: 9088
+Denominação: Número de Serviço de Especialidades em Saúde Bucal (Sesb) implantados com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Serviços de Especialidades em Saúde Bucal (Sesb) implantados com cofinanciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado. O Sesb é uma estratégia de ampliação da oferta de especialidades em saúde bucal, servindo de referência para as equipes de Saúde Bucal (eSB) da APS. 
+
+O Sesb deverá funcionar com os seguintes parâmetros mínimos: 
+I - horário de funcionamento de 30 (trinta) horas semanais; 
+II - nenhum profissional com carga horária individual menor que dez horas semanais; 
+III - um auxiliar ou técnico de saúde bucal, com carga horária semanal mínima de 30 (trinta) horas; 
+IV - duas especialidades odontológicas ofertadas conforme CBO específico; e 
+V - dispor de cadeira odontológica completa, canetas de baixa e alta rotação, compressor odontológico, aparelho fotopolimerizador, aparelho de raio-x odontológico, autoclave compatível com o tipo de serviço e instrumentais e materiais odontológicos permanentes suficientes para oferta adequada da atenção especializada em saúde bucal à população brasileira.
+
+São considerados Serviços de Especialidades em Saúde Bucal implantados com cofinanciamento pelo Ministério da Saúde os que possuem portaria de credenciamento publicada, habilitação ativa no CNES, estejam enviando produção SISAB e estejam sendo cofinanciados pelo Ministério da Saúde. 
+
+Os entes federativos que tiverem o Sesb habilitado deverão: 
+I - manter cadastro regular do serviço no Sistema de Cadastro Nacional de Estabelecimentos de Saúde - SCNES; 
+II - fazer uso da estratégia e-SUS APS por meio do Prontuário Eletrônico do Cidadão - PEC para registro das informações dos atendimentos ou de sistema terceiro que contemple as funcionalidades da respectiva estratégia; 
+III - enviar produção no Sistema de Informação da Atenção Básica - Sisab; 
+IV - apresentar, preferencialmente, padronização de identificação visual a ser disponibilizada conforme modelo a ser publicado em endereço eletrônico do Ministério da Saúde referente à APS; e 
+V - manter os parâmetros do serviço, e realizar as adequações necessárias nos sistemas de informação do SUS pertinentes para fins de viabilizar a identificação no Cadastro Nacional de Estabelecimentos de Saúde - CNES dos estabelecimentos de saúde habilitados na modalidade de Sesb. 
+
+Neste cálculo não são considerados os Sesb que estão com a transferência de incentivos financeiros federais temporariamente suspensas.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Serviços de Especialidades em Saúde Bucal implantados com cofinanciamento pelo Ministério da Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (SISAB), o qual integra a estratégia e-SUS APS; e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Para a identificação das unidades cofinanciadas pelo Ministério da Saúde é disponibilizado mensalmente relatórios de financiamento da APS de domínio público, no e-Gestor AB. Abaixo procedimento para tal consulta:
+Passo 1: entrar no e-Gestor AB; clicar em "relatórios públicos"; clicar em "Financiamento APS"; "Pagamento APS (2022-atual)"; selecionar UF "todos"; selecionar o ano "XXXX" e selecionar a parcela "última disponível". 
+Passo 2: fazer o download. No arquivo clicar na aba "Ações Est. SB". 
+Passo 3: considerar a coluna Qt. Sesb pago.
+(OBSERVAÇÃO: O CÓDIGO DO CNES E A FORMA DE CONSULTA NO E-GESTOR PODERÃO SOFRER AJUSTES/ALTERAÇÕES)
+Limitações: O cofinanciamento dos Serviços de Especialidades em Saúde Bucal está condicionado ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador. A restrição orçamentária de União e Municípios pode ocasionar baixa oferta de novos serviços.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 894
+Indicador: 9878
+Denominação: Número de UBS estruturadas com equipamentos antropométricos e materiais permanentes para a realização da vigilância alimentar e nutricional e cuidado das pessoas com obesidade
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-24 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) estruturadas com equipamentos e materiais permanentes cofinanciados com recursos financeiros oriundos de emendas parlamentares e programação, para prover a realização da vigilância alimentar e nutricional e o cuidado das pessoas com obesidade.
+
+Rol de equipamentos financiáveis pelo Ministério da Saúde: 
+- Equipamentos antropométricos: Balança pediátrica; Balança antropométrica para pessoas com obesidade; Mesa antropométrica; e Estadiômetro.
+- Equipamentos e materiais permanentes específicos para atendimento de pessoas com obesidade: Cadeira para obeso; Cadeira de rodas para obeso; e Esfigmomanômetro para obeso.
+Período Ou Data A Que Se Refere: 31/12
+Data De Divulgação/Disponibilização: O dado do ano de referência será disponibilizado no mês subsequente ao fechamento do período de contabilização.
+Periodicidade: Anual
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Básicas de Saúde (UBS) estruturadas com equipamentos e materiais permanentes cofinanciados com recursos financeiros oriundos de emendas parlamentares e programação, para prover a realização da vigilância alimentar e nutricional e o cuidado das pessoas com obesidade.
+Fonte De Dados Das Variáveis De Cálculo: 1. Diário Oficial da União (DOU);
+2. Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS);
+3. Investsus.
+Forma De Disponibilização: Os resultados são disponibilizados anualmente no InvestSUS
+(https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Publicação de Portaria ministerial de habilitação, no Diário Oficial da União (DOU) e respectivo empenho.
+2. Extração dos dados de propostas habilitadas e com recursos financeiros efetivamente repassados para cofinanciar a aquisição de equipamentos de informática, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS).
+Limitações: O número de UBS estruturadas com equipamentos e materiais permanentes depende do número de registros de pessoas acompanhadas na APS diagnosticadas com obesidade, de acordo com os relatórios do Sistema de Vigilância Alimentar e Nutricional (Sisvan). Esses relatórios dependem da adequada interoperabilidade entre os sistemas de informação da Atenção Primária (e-SUS, sistema de gestão do Programa Bolsa Família na Saúde ou sistemas próprios) e o SISAB para ficarem disponíveis no SISVAN.
+Além disso, restrições orçamentárias e financeiras e a capacidade de execução das compras de equipamentos e materiais permanentes pelos gestores locais também são pontos que influenciam no alcance das metas propostas.
+Notas Explicativas: - Considera-se como "estruturadas com equipamentos antropométricos e materiais permanentes para a realização da vigilância alimentar e nutricional e cuidado das pessoas com obesidade" aquela com proposta contemplada em portaria de habilitação e com repasse de recursos financeiros efetivados, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017.
+- A portaria de habilitação informa o ente subnacional que faz jus ao recebimento do recurso financeiro destinado à obra/equipamento, bem como o número da proposta, valor da proposta e respectiva funcional programática.
+- As portarias de habilitação serão publicadas no decorrer do exercício e em conformidade com o orçamento consignado na respectiva Lei Orçamentária Anual - LOA.
+- Os valores aprovados nas portarias de habilitação serão a título de participação da União no financiamento tripartite do SUS, transferidos em parcela única e, caso o custo da obra/equipamento seja maior do que o valor aprovado pelo Ministério da Saúde, o aporte adicional será de responsabilidade dos Estados, Distrito Federal e Municípios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 854
+Indicador: 9811
+Denominação: Número de Unidades Básicas de Saúde Fluvial (UBSF) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 36.0
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de Unidades Básicas de Saúde Fluvial (UBSF) implantadas com cofinanciamento pelo MS em determinado espaço geográfico, no período considerado. Considera-se UBSF implantada com cofinanciamento pelo Ministério da Saúde as unidades que primeiramente foram credenciadas em portaria específica, na sequência foram homologadas em portaria específica e que após isso, mensalmente cumprem as regras previstas Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS).
+
+Unidades Básicas de Saúde Fluvial (UBSF) implantadas com cofinanciamento pelo MS são embarcações que realizam apoio para as eSFR, com estrutura para navegação nos rios, bem como para atendimento a população que vive as margens dos rios. As equipes de Saúde da Família Ribeirinha (eSFR) e as equipes de Saúde da Família Fluvial (eSFF) estão presentes nos municípios da Amazônia Legal e do Pantanal Sul-Mato-Grossense. Constituem eSFR as equipes que desempenham a maior parte de suas funções em Unidades Básicas de Saúde construídas e/ou localizadas nas comunidades pertencentes à área adscrita e cujo acesso se dá por meio fluvial e que, pela grande dispersão territorial, necessitam de embarcações para atender as comunidades dispersas no território. As eSFF são chamadas assim por estarem dentro das UBSF, porém possuem a mesma composição das eSFR.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de UBSF implantadas com cofinanciamento do Ministério da Saúde
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (Sisab) que integra a estratégia e-SUS APS e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos. https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml
+Procedimento De Cálculo: Passo 1 - Equipe deve ser credenciada em portaria específica. 
+Passo 2 - Equipes após credenciadas, devem ser homologadas em portaria específica. 
+Passo 3 - Após homologação, mensalmente, há validação das equipes para que haja o cofinanciamento do Ministério da Saúde, que prevê uma série de regras que estão previstas na Portaria de Consolidação SAPS/MS nº 01/ 2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde. 
+Passo 4 - ∑ n°UBSF implantadas com cofinanciamento pelo MS que atendem aos critérios descritos no Passo 3.
+Limitações: O cofinanciamento de novas Unidades Básicas de Saúde Fluviais (UBSF) está condicionada ao reconhecimento e necessidade sanitária por parte da gestão municipal e estadual. Portanto, a gestão federal depende dessas iniciativas para o alcance da meta desse indicador.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 893
+Indicador: 9877
+Denominação: Número de Unidades Básicas de Saúde (UBS) ampliadas com salas de vacinas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-25 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) ampliadas com sala de vacina, que consistem no acréscimo de área a uma edificação existente ou construção de uma nova edificação para ser agregada funcionalmente (fisicamente ou não) a um estabelecimento já existente.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: O dado do semestre de referência será disponibilizado no mês subsequente ao fechamento do período de contabilização.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Básicas de Saúde (UBS) ampliadas com sala de vacina com estágio da obra "concluída" no Sistema de Monitoramento da Obra (SISMOB), cofinanciadas com recursos financeiros oriundos de emendas parlamentares e programação, incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Fonte De Dados Das Variáveis De Cálculo: 1. Sistema de Monitoramento de Obras (SISMOB).
+Forma De Disponibilização: Os resultados são disponibilizados semestralmente no SISMOB (https://sismobcidadao.saude.gov.br/) e InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Extração dos dados de propostas de UBS ampliadas com sala de vacina no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Monitoramento de Obras (SISMOB) e Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS), incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Limitações: 1. Restrições orçamentárias e financeiras; 
+2. Capacidade de execução das obras pelos gestores locais.
+Notas Explicativas: Considera-se como "Unidade Básica de Saúde (UBS) ampliadas com sala de vacina com estágio da obra "concluída", aquela com informação de conclusão no Sistema de Monitoramento de Obras (SISMOB).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 889
+Indicador: 9871
+Denominação: Número de Unidades Básicas de Saúde (UBS) construídas
+Índice De Referência: 0.0
+Em Apuração: Sim
+Data De Apuração: 2023-07-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) construídas no período 2024-2027, mediante cofinanciamento com recursos oriundos do PAC, incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: julho/ano (dados do 1º semestre) e janeiro/ano (dados do 1º e 2º semestre).
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Básicas de Saúde (UBS) construídas a cada ano no período 2024-2027, mediante cofinanciamento com recursos oriundos do PAC, incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Fonte De Dados Das Variáveis De Cálculo: 1. Sistema de Monitoramento de Obras (SISMOB);
+2. InvestSUS;
+3. Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS).
+Forma De Disponibilização: Os resultados são disponibilizados semestralmente no SISMOB (https://sismobcidadao.saude.gov.br/) e InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Extração dos dados de construção de Unidades Básicas de Saúde (UBS) concluídas a cada ano no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Monitoramento de Obras (SISMOB) e Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS), mediante cofinanciamento com recursos oriundos do PAC, incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Limitações: 1. Restrições orçamentárias e financeiras; 
+2. Capacidade de execução das obras pelos gestores locais.
+Notas Explicativas: Considera-se como "Unidade Básica de Saúde (UBS) construída" aquela com estágio da obra"concluída", mediante cofinanciamento com recursos oriundos do PAC, com informação de conclusão da obra no Sistema de Monitoramento de Obras (SISMOB), incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 3372
+Indicador: 12700
+Denominação: Número de Unidades Básicas de Saúde (UBS) estruturadas com equipamentos
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2024-12-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) estruturadas com combo de equipamentos estratégicos no período 2025-2026, mediante recursos oriundos do Novo PAC.
+Período Ou Data A Que Se Refere: julho/ano (dados do 1º semestre ) e janeiro/ano (dados do 1º semestre e 2º semestre).
+Data De Divulgação/Disponibilização: julho/ano (dados do 1º semestre ) e janeiro/ano (dados do 1º semestre e 2º semestre).
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Básicas de Saúde (UBS) estruturadas com 1 (um) combo de equipamentos a cada ano no período 2025-2026, mediante recursos oriundos do Novo PAC.
+Fonte De Dados Das Variáveis De Cálculo: 1. InvestSUS;
+2. Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS);
+3. TranfereGov.
+Forma De Disponibilização: Os dados são disponibilizados no InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html)
+Procedimento De Cálculo: 1. Extração dos dados  das Unidades Básicas de Saúde (UBS) estruturadas com 1 (um) combo de equipamentos a cada ano no período 2025-2026, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, TransfereGov, Investsus e  Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS), mediante cofinanciamento com recursos oriundos do Novo PAC.
+Limitações: 1. Restrições orçamentárias e financeiras; 
+2. A convergência das propostas com os requisitos e critério de seleção de cada modalidade da Portaria GM/MS 6.640, de 20 de fevereiro de 2025
+3. Manifestação de Interesse na participação do processo de seleção pelos gestores locais em inscrever propostas para solicitar o combo de equipamentos;
+4. Capacidade de cofinanciar o custeio, de manter outras despesas correntes necessárias para o bom funcionamento das unidades de saúde e dos equipamentos pelos gestores locais.
+Notas Explicativas: A fim de estruturar as Unidades Básicas de Saúde (UBS) será possível montar combos com os seguintes equipamentos:
+· Eletrocardiógrafo Telessaúde;
+· Doppler Vascular;
+· Retinógrafo portátil Telessaúde;
+· Espirômetro digital Telessaúde;
+· Dermatoscópio Telessaúde;
+· Eletrocautério (Bisturi Elétrico);
+· Desfibrilador externo automático (DEA);
+· Laser para fisioterapia;
+· Ultrassom para fisioterapia;
+· TENS e FES
+· Dinamômetro
+· Balança Digital Portátil;
+· Tábua de propriocepção;
+· Câmara Fria;
+· Fotóforo - Foco de Luz de Cabeça;
+· Cadeira de Rodas para Obeso;
+· Ultrassom Portátil de Bolso com Telessaúde;
+· Otoscópio digital.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 891
+Indicador: 9874
+Denominação: Número de Unidades Básicas de Saúde (UBS) estruturadas com equipamentos de informática para prover a informatização e conectividade
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-25 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) estruturadas com equipamentos de informática cofinanciados com recursos financeiros oriundos de emendas parlamentares e programação, para prover a informatização e conectividade.
+
+Rol de equipamentos de informática financiáveis pelo Ministério da Saúde: Computador (Desktop-Básico); Impressora Laser (Comum); No-Break (Para Computador/Impressora); Switch; Computador Portátil (Notebook); Tablet; Computador (Desktop-Avançado); Computador Servidor (Apenas Servidor Básico de Entrada); Computador Servidor (Servidores de Médio e Grande Porte); Estabilizador de Tensão/Módulo Isolador (Para Computador); Impressora Laser Multifuncional (copiadora, scanner e fax op; Leitor de Código de Barras; Rack de Servidor; Roteador (LAN); e Impressora de Código de Barras.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: O dado do semestre de referência será disponibilizado no mês subsequente ao fechamento do período de contabilização.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Básicas de Saúde (UBS) estruturadas com equipamentos de informática cofinanciados com recursos financeiros oriundos de emendas parlamentares e programação, para prover a informatização e conectividade.
+Fonte De Dados Das Variáveis De Cálculo: 1. Diário Oficial da União (DOU);
+2. Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS);
+3. Investsus.
+Forma De Disponibilização: Os resultados são disponibilizados semestralmente no InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Publicação de Portaria ministerial de habilitação, no Diário Oficial da União (DOU) e respectivo empenho.
+2. Extração dos dados de propostas habilitadas e com recursos financeiros efetivamente repassados para cofinanciar a aquisição de equipamentos de informática, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS).
+Limitações: 1. Restrições orçamentárias e financeiras; 
+2. Capacidade de execução das propostas pelos gestores locais.
+Notas Explicativas: Considera-se como ""Unidade Básica de Saúde (UBS) estruturada com equipamentos de informática para prover a informatização e conectividade"" aquela com proposta contemplada em portaria de habilitação e com repasse de recursos financeiros efetivados, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017.
+Rol de equipamentos de informática financiáveis pelo Ministério da Saúde: Computador (Desktop-Básico); Impressora Laser (Comum); No-Break (Para Computador/Impressora); Switch; Computador Portátil (Notebook); Tablet; Computador (Desktop-Avançado); Computador Servidor (Apenas Servidor Básico de Entrada); Computador Servidor (Servidores de Médio e Grande Porte); Estabilizador de Tensão/Módulo Isolador (Para Computador); Impressora Laser Multifuncional (copiadora, scanner e fax op; Leitor de Código de Barras; Rack de Servidor; Roteador (LAN); e Impressora de Código de Barras.
+A portaria de habilitação informa o ente subnacional que faz jus ao recebimento do recurso financeiro destinado à obra/equipamento, bem como o número da proposta, valor da proposta e respectiva funcional programática.
+As portarias de habilitação serão publicadas no decorrer do exercício e em conformidade com o orçamento consignado na respectiva Lei Orçamentária Anual - LOA.
+Os valores aprovados nas portarias de habilitação serão a título de participação da União no financiamento tripartite do SUS, transferidos em parcela única e, caso o custo da obra/equipamento seja maior do que o valor aprovado pelo Ministério da Saúde, o aporte adicional será de responsabilidade dos Estados, Distrito Federal e Municípios.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 890
+Indicador: 9872
+Denominação: Número de Unidades Básicas de Saúde (UBS) reformadas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-25 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) reformadas, cofinanciadas com recursos financeiros oriundos de emendas parlamentares e de programação, que consiste em alteração em ambientes sem acréscimo de área, podendo incluir
+vedações e/ou instalações existentes, substituição ou recuperação de materiais de acabamento ou instalações existentes.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: O dado do semestre de referência será disponibilizado no mês subsequente ao fechamento do período de contabilização.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Básicas de Saúde (UBS) reformadas com estágio da obra "concluída" no Sistema de Monitoramento da Obra (SISMOB), cofinanciadas com recursos financeiros oriundos de emendas parlamentares e programação, incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Fonte De Dados Das Variáveis De Cálculo: 1. Sistema de Monitoramento de Obras (SISMOB).
+Forma De Disponibilização: Os resultados são disponibilizados semestralmente no SISMOB (https://sismobcidadao.saude.gov.br/) e InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Extração dos dados de propostas de reforma de UBS concluídas no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Monitoramento de Obras (SISMOB) e Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS).
+Limitações: 1. Restrições orçamentárias e financeiras;
+2. Capacidade de execução das obras pelos gestores locais.
+Notas Explicativas: Considera-se como "Unidade Básica de Saúde (UBS) reformada com estágio da obra concluída", aquela com informação de conclusão no Sistema de Monitoramento de Obras (SISMOB).
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 70
+Entrega: 3367
+Indicador: 12695
+Denominação: Número de Unidades Móveis de Consultório na Rua (UMCnaR) implantadas com cofinanciamento do Ministério da Saúde
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-03-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o total de Unidades Móveis de Consultório na Rua (UMCnaR) implantadas com cofinaciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado. 
+O serviço visa acompanhar a ampliação do acesso da população em situação de rua aos serviços de saúde, ofertando, de maneira mais oportuna, atenção integral à saúde para esse grupo populacional, o qual se encontra em condições de vulnerabilidade e com os vínculos familiares interrompidos ou fragilizados.
+Período Ou Data A Que Se Refere: Último dia do mês.
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Móveis de Consultório na Rua implantadas e cofinanciadas pelo Ministério da Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúda (SCNES)
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: entrar no e-Gestor AB, clicar em "relatórios públicos"; clicar em "Financiamento APS"; "Pagamento APS (2022-atual)"; selecionar UF "todos", selecionar o ano "XXXX" e selecionar a parcela "última disponível". 
+Passo 2: fazer o download. No arquivo clicar na aba "UMCnaR". 
+Passo 3: considerar a coluna Qt. UMCnaR paga.
+Limitações: Descredenciamentos e homologações.
+Origem: PPA
+Momento: 8300
+Novo: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 2637
+Indicador: 11984
+Denominação: Número de Unidades Odontológicas Móveis (UOM) adquiridas
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-05-31 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Odontológicas Móveis (UOM) adquiridas pelo Ministério da Saúde e doadas aos municípios, conforme critérios de elegibilidade definidos em portaria. O dado subsidia o processo de planejamento e organização da Rede de Atenção à Saúde Bucal, buscando ampliação do acesso da população à assistência odontológica e da integralidade da atenção.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do mês subsequente
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Unidades Odontológicas Móveis (UOM) adquiridas pelo Ministério da Saúde com recursos oriundos do PAC, com os termos de recebimento e doação assinados que comprovem a entrega da UOM ao município.
+Fonte De Dados Das Variáveis De Cálculo: Informações e arquivos da Coordenação-Geral de Saúde Bucal (CGSB/DESCO/SAPS/MS).
+Forma De Disponibilização: Portal da APS, programa Brasil Sorridente https://www.gov.br/saude/pt-br/composicao/saps/brasil-sorridente/equipes-sb.
+Procedimento De Cálculo: Os dados serão disponibilizados pela Coordenação-Geral de Saúde Bucal (CGSB/DESCO/SAPS/MS) posteriormente às assinaturas dos termos de recebimento e doação que comprovam a entrega da UOM ao município.
+Limitações: 1. Restrição orçamentária da União; 2. Indisponibilidade mercadológica ocasionando o atraso na entrega da UOM.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Entrega: 263
+Indicador: 9086
+Denominação: Número de Unidades Odontológicas Móveis (UOM) implantadas com cofinanciamento pelo Ministério da Saúde
+Índice De Referência: 104.0
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Odontológicas Móveis implantadas com cofinanciamento pelo Ministério da Saúde, em determinado espaço geográfico, no período considerado. A UOM é utilizada pelas Equipes de Saúde Bucal para garantir as ações de promoção e prevenção e o atendimento básico às populações rurais, quilombolas, assentadas e em áreas isoladas ou de difícil acesso.
+As UOM são consultórios odontológicos estruturados em veículos devidamente adaptados e equipados, sendo compostas por: cadeira odontológica completa; kit de peça de mão contendo caneta de alta e baixa rotação; aparelho de RX periapical; compressor odontológico; aparelho amalgamador; aparelho fotopolimerizador; e autoclave.
+São consideradas Unidades Odontológicas Móveis implantadas com cofinanciamento pelo Ministério da Saúde as que tenham sido doadas pelo Ministério da Saúde, possuam portaria de credenciamento e portaria de homologação do CNES publicadas, estejam enviando produção SISAB e estejam recebendo incentivo financeiro pelo Ministério da Saúde, conforme as regras de validação previstas na Portaria de Consolidação SAPS/MS nº 1, de 02 de junho de 2021, que consolida as normas sobre Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde.
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de Unidades Odontológicas Móveis implantadas com cofinanciamento pelo Ministério da Saúde.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (SISAB), o qual integra a estratégia e-SUS APS; e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Considera-se válida para transferência dos incentivos financeiros federais de custeio a Unidade Odontológica Móvel (UOM) que estiver cadastrada no SCNES, com código 40 - Unidade Móvel Terrestre e Subtipo 001 - Unidade Móvel Odontológica. 
+O cadastro da UOM no SCNES deverá conter profissionais que compõem as eSB, vinculadas à eSF, e que compartilham carga horária semanal na UOM. A soma da carga horária do profissional, cadastrada na eSB e na UOM, deve totalizar a carga horária semanal mínima de 40 (quarenta) horas e máxima de 60 (sessenta) horas por profissional da eSB. 
+
+Para a identificação das Unidades cofinanciadas pelo Ministério da Saúde é disponibilizado mensalmente relatórios de financiamento da APS de domínio público no e-Gestor AB:
+Passo 1: entrar no e-Gestor AB, clicar em "relatórios públicos"; clicar em "Financiamento APS"; "Pagamento APS (2022-atual)"; selecionar UF "todos", selecionar o ano "XXXX" e selecionar a parcela "última disponível". 
+Passo 2: fazer o download. No arquivo clicar na aba "Ações Est. SB". 
+Passo 3: considerar a coluna Qt. UOM paga.
+Limitações: O cofinanciamento de novas Unidades Odontológicas Móveis está condicionada à doação do Ministério da Saúde, e ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador. A restrição orçamentária de União e Municípios pode ocasionar baixa oferta de novos serviços.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Entrega: 1381
+Indicador: 10486
+Denominação: Número de vagas ocupadas nos programas de provimento médico da Atenção Primária à Saúde
+Índice De Referência: 13075.0
+Em Apuração: Não
+Data De Apuração: 2023-07-01 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mede a ocupação das vagas ofertadas nos programas de provimento médico da Atenção Primária, Programa Mais Médicos (PMM) e Programa Médicos pelo Brasil (PMpB), identificando tendências de desocupação e lugares para as mesmas. Destaca a evolução do preenchimento de vagas e quais potencialiades e dificuldades no processo, com a finalidade de atender as demandas do SUS e reduzir a carência desses profissionais atuantes na APS, com ênfase em áreas remotas e com vulnerabilidade social.
+
+Considera-se vaga ocupada aquela com médico ativo em equipe de saúde pelos programas de provimento do Ministério da Saúde.
+Período Ou Data A Que Se Refere: Último dia do quadrimestre
+Data De Divulgação/Disponibilização: No segundo mês subsequente ao mês de referência
+Periodicidade: Quadrimestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de vagas ocupadas no Programa Mais Médicos 
+Número de vagas ocupadas no Programa Médicos pelo Brasil.
+Fonte De Dados Das Variáveis De Cálculo: 1. Monitoramento interno dos programas de provimento médico pela DGAPS/SAPS
+2. Sistema de Gestão de Programas (SGP)
+3. Boletim da Agência de Desenvolvimento da Atenção Primária à Saúde (ADAPS)
+Forma De Disponibilização: Consulta ao SGP, por meio de login de acesso ao sistema, para extração dos dados referentes a ocupação de vagas do Programa Mais Médicos para o Brasil. O SGP é um sistema do Ministério da Saúde nos quais gestores municipais e profissionais médicos realizam adesões e inscrições nos Programas de Provimento de Médicos, disponível por meio do link: https://maismedicos.saude.gov.br/, além de servir a gestão dos programas para acompanhamento da situação de profissionais e municípios.
+
+Ao DGAPS/SAPS recorre-se para obtenção do quantitativo de vagas ativas nos programas de provimento já que o controle e monitoramento destas é feito por equipe técnica instalada neste departamento.
+
+Ao boletim da Agência de Desenvolvimento da Atenção Primária à Saúde (ADAPS) recorre-se para a obtenção de dados referentes a ocupação de vagas diponibilizadas pelo Programa Médicos pelo Brasil.
+Procedimento De Cálculo: Passo 1: Extrair dados do SGP para o PMMB;
+Passo 2: Tratar dados extraídos do SGP para o PMMB;
+Passo 3: A partir do tratamento, obter dados de vagas ocupadas no PMMB;
+Passo 4: Tratar dados de vagas ocupadas no boletim da ADAPS para o PMpB;
+Passo 5: Somar dados de vagas ocupadas do PMMB com PMpB.
+Limitações: O indicador não detecta as movimentações nas vagas (ocupação/desocupação) durante o período, sendo uma fotografia do trigésimo dia do último mês de cada quadrimestre. Vagas ocupadas por médicos intercambistas em período de avaliação não necessariamente significam que o médico está trabalhando na equipe justamente por ele ainda estar no Módulo de Avaliação.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 2749
+Indicador: 12103
+Denominação: Percentual de execução de obra de construção da Unidade Básica de Saúde Costa e Silva
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual %
+Descrição: Mensurar o percentual de execução da obra Unidade Básica de Saúde Costa e Silva do Hospital Nossa Senhora da Conceição - GHC.  Considera construída a Unidade Básica de Saúde Costa e Silva do Hospital Nossa Senhora da Conceição - GHC quando emitidos o Relatório de Vistoria de Término de Obra, finalizado os comissionamentos e emitidos os termos de recebimento definitivo da obra pela Comissão de Acompanhamento e Fiscalização de Contrato.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: Quinto dia do mês subsequente ao fim do semestre.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Área construída da Unidade Básica de Saúde Costa e Silva do Hospital Nossa Senhora da Conceição - GHC
+Fonte De Dados Das Variáveis De Cálculo: Sistemas de acompanhamento de obras do GHC , Planilhas, Relatórios de visitas técnicas a obra, workflow.
+Forma De Disponibilização: Relatório de acompanhamento mensal de obra, contendo a Medição (percentual executado) disponibilizado no Workflow.
+Procedimento De Cálculo: O percentual de execução da Obra se dará através da Medição de área construída.  Para chegar ao percentual de execução são realizados os seguintes passos: 
+Passo 1) O Engenheiro vai na obra realizar a medição da quantidade executada da obra;  
+Passo 2) Insere a metragem obtida na planilha de medição
+Passo 3)  Realiza a divisão do valor encontrado na medição e divide pelo total da obra.
+Limitações: Atraso no processo de licitação das construções / conclusão da obra.
+Notas Explicativas: 1) Em 2024, não há previsão para entrega de percentual de execução da obra. No entanto, considerando o processo de obra, há necessidade de previsão orçamentária para seleção, análise e aprovação das propostas aptas para a construção. 
+2) A Unidade de Atenção Primária à Saúde Costa e Silva do GHC é destinado para a população em geral.
+3)  A obra utiliza materiais recicláveis e com reaproveitamento de água.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 2755
+Indicador: 12107
+Denominação: Percentual de execução de obra de construção da Unidade Básica de Saúde Divina Providência do Hospital Nossa Senhora da Conceição - GHC
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual %
+Descrição: Mensurar o percentual de execução da obra Unidade Básica de Saúde Divina Providência do Hospital Nossa Senhora da Conceição - GHC .  Considera construída a Unidade Básica de Saúde Divina Providência do Hospital Nossa Senhora da Conceição - GHC  quando emitidos o Relatório de Vistoria de Término de Obra, finalizado os comissionamentos e emitidos os termos de recebimento definitivo da obra pela Comissão de Acompanhamento e Fiscalização de Contrato.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: Quinto dia do mês subsequente ao fim do semestre.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Área construída da Unidade Básica de Saúde Divina Providência
+Fonte De Dados Das Variáveis De Cálculo: Sistemas de acompanhamento de obras do GHC , Planilhas, Relatórios de visitas técnicas a obra, workflow.
+Forma De Disponibilização: Relatório de acompanhamento mensal de obra, contendo a Medição (percentual executado) disponibilizado no Workflow.
+Procedimento De Cálculo: O percentual de execução da Obra se dará através da Medição de área construída.  Para chegar ao percentual de execução são realizados os seguintes passos: 
+Passo 1) O Engenheiro vai na obra realizar a medição da quantidade executada da obra;  
+Passo 2) Insere a metragem obtida na planilha de medição e 
+Passo 3)  Realiza a divisão do valor encontrado na medição e divide pelo total da obra.
+Limitações: Atraso no processo de licitação das construções / conclusão da obra.
+Notas Explicativas: 1) Em 2024, não há previsão para entrega de percentual de execução da obra. No entanto, considerando o processo de obra, há necessidade de previsão orçamentária para seleção, análise e aprovação das propostas aptas para a construção. 
+2) A Unidade de Atenção Primária à Saúde Costa e Silva do GHC é destinado para a população em geral.
+3)  A obra utiliza materiais recicláveis e com reaproveitamento de água.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Entrega: 895
+Indicador: 9879
+Denominação: Proporção de municípios que apresentam IVS muito alto e alto com equipes providas de equipamentos mínimos para o fomento das linhas de cuidado de condições crônicas não transmissíveis
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-06-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Para a integralidade do cuidado às pessoas com Condições Crônicas Não-Transmissíveis (CCNT) são necessárias capacidades básicas mínimas para a implementação das Linhas de Cuidado de Obesidade, Hipertensão Arterial Sistêmica (HAS) e Diabetes Mellitus (DM), bem como para a prevenção dos fatores de risco relacionados. 
+Serão considerados, dentre os municípios com Índice de Vulnerabilidade Social (IVS) muito alto e alto, aqueles que adiquirirem ao menos 1 esfigmomanômetro, 1 estetoscópio, 1 kit monofilamento, 1 diapasão, 1 martelo e fita antropométrica por equipe da Atenção Primária homologada (equipe de Saúde da Família - eSF ou equipe de Atenção Primária - eAP).
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: O dado do semestre de referência será disponibilizado no mês subsequente ao fechamento do período de contabilização.
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1. Número de municípios com IVS muito alto/alto e com 100% das equipes homologadas pelo Ministério da Saúde (eSF e eAP) providas com equipamentos mínimos para fomento das linhas de cuidado de obesidade, Hipertensão Arterial Sistêmica (HAS) e Diabetes Mellitus (DM)
+2. Número total de municípios com IVS muito alto e alto no período avaliado
+Fonte De Dados Das Variáveis De Cálculo: Relatório de monitoramento da infraestrutura básica para o cuidado às pessoas com Obesidade, HAS e DM
+Relatório SISAB
+Instituto de Pesquisa Econômica Aplicada (Ipea)
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Identificar os municípios com IVS muito alto e alto, conforme dados do Atlas de Vulnerabilidade Social disponibilizado pelo Ipea.
+Passo 2: Acessar o número de equipes eSF e eAP homologadas pelo Ministério da Saúde, por meio do Portal do e-Gestor AB (https://egestorab.saude.gov.br/gestaoaps/relEquipesHomologadas.xhtml) e realizar o dowload.
+Passo 3: Identificar dentre os municípios com IVS muito alto/alto quais possuem 100% das equipes homologadas (eSF e eAP) providas com equipamentos mínimos para o fomento das linhas de cuidado de obesidade, HAS e DM, por meio do cruzamento dos dados do Ipea, do e-Gestor AB e do relatório de avaliação da infraestrutura básica para o cuidado às pessoas com Obesidade, HAS e DM.
+Passo 4: Aplicar os dados na fórmula de cálculo.
+Limitações: 1. As informações analisadas a partir do incentivo ao provimento de equipamentos mínimos para o cuidado às pessoas com Obesidade, HAS e DM refletem exclusivamente as condições mínimas para atuação, sem traduzir a integralidade do cuidado. 
+2. O acesso a informação está sujeito ao preenchimento adequado e regular dos dados pelos municípios contemplados.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Sim
+
+passage: Programa Número 5119
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Indicador: 8871
+Denominação: Cobertura populacional estimada da Atenção Primária à Saúde
+Índice De Referência: 64.56
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: Mensura a porcentagem da população estimada coberta por equipes Saúde da Família (eSF) e equipes de Atenção Primária (eAP) em determinado espaço geográfico. A ampliação da eSF aponta para a sustentabilidade da reorientação da política de saúde, a busca da universalização do acesso e para promoção da reorganização dos serviços de saúde nos territórios/regiões. 
+
+As equipes Saúde da Família (eSF) são formadas por, no mínimo: médico(a), enfermeiro(a), técnico(a) ou auxiliar de enfermagem e agente comunitário de saúde (ACS), com a obrigatoriedade de carga horária de 40 (quarenta) horas semanais para todos os membros da equipe. 
+
+As equipe de Atenção Primária (eAP) são formadas minimamente por médicos, preferencialmente especialistas em medicina de família e comunidade, e enfermeiros, preferencialmente especialistas em saúde da família, de modo a atender às características e necessidades de cada município, devendo observar as diretrizes da Política Nacional da Atenção Básica (PNAB) e os atributos essenciais da Atenção Primária à Saúde, como acesso de primeiro contato, longitudinalidade, coordenação e integralidade.
+
+As eAP poderão ser de duas modalidades, de acordo com a carga horária: 
+- Modalidade I: a carga horária mínima individual dos profissionais deverá ser de 20 (vinte) horas semanais, com população adscrita correspondente a 50% (cinquenta por cento) da população adscrita para uma eSF; ou 
+- Modalidade II: a carga horária mínima individual dos profissionais deverá ser de 30 (trinta) horas semanais, com população adscrita correspondente a 75% (setenta e cinco por cento) da população adscrita para uma eSF.
+Período Ou Data A Que Se Refere: Último dia do Mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Equipes Saúde da Família (eSF)  com carga horária de 40 (quarenta) horas semanais
+Equipes de Atenção Primária (eAP) de acordo com as modalidades: 
+- Modalidade I: a carga horária mínima individual dos profissionais deverá ser de 20 (vinte) horas semanais, com população adscrita correspondente a 50% (cinquenta por cento) da população adscrita para uma eSF; ou 
+- Modalidade II: a carga horária mínima individual dos profissionais deverá ser de 30 (trinta) horas semanais, com população adscrita correspondente a 75% (setenta e cinco por cento) da população adscrita para uma eSF. 
+O parâmetro de cadastro K leva em consideração a ponderação de vulnerabilidade do território do município, sendo uma aproximação para redução das desigualdades locorregionais.
+População IBGE oficial adotada pelo Ministério da Saúde para todos os cálculos e análises.
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (Sisab) que integra a estratégia e-SUS APS e do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: A cobertura Brasil é calculada pelo somatório da multiplicação das quantidades equivalentes de equipes (ESF + EAP/2) vezes o parâmetro de cadastro de cada município, sendo o valor desta multiplicação limitado pela quantidade da população informada pelo IBGE, e depois dividido pela soma total da população Brasil, tudo multiplicado por 100.
+Limitações: O aumento da cobertura da APS está condicionada ao reconhecimento e priorização política e sanitária prioritariamente por parte da gestão municipal e também da gestão estadual/distrital.
+Restrições orçamentárias e financeiras para cofinanciamento de novas equipes.
+Notas Explicativas: Foi considerando o histórico de implantação de equipes, os novos credenciamentos e o aumento do provimento médico para o período 2024-2027. O cálculo considerou atingir 100% de cobertura em todos municípios com índice de Vulnerabilidade Social (IVS) - IPEA I, II e III e 80% de cobertura nos municípios com IVS IV e V.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 70
+Indicador: 9031
+Denominação: Cobertura populacional estimada de atenção integral à saúde das populações em situação de rua e privadas de liberdade
+Índice De Referência: 40.79
+Em Apuração: Não
+Data De Apuração: 2023-03-31 00:00:00
+Unidade De Medida: percentual
+Descrição: Cobertura populacional estimada de atenção integral à saúde das populações em situação de rua e privadas de liberdade, considerando as equipes de Consultório na Rua (eCR) e as equipes de Atenção Primária Prisional (eAPP), sendo utilizada para o monitoramento do acesso às ações de saúde, com vistas a visibilidade e ao fortalecimento do planejamento do Sistema Único de Saúde (SUS).
+
+São consideradas as equipes de Consultório na Rua (eCR) nas modalidades I, II e III, as quais podem ter composição variável em categorias profissionais e devem cumprir a carga horária mínima semanal de 30 horas, conforme Portaria de Consolidação GM/MS nº 02/2017. É considerada a população em situação de Rua registrada no Cadastro Único (https://cecad.cidadania.gov.br/tab_cad.php) e tabulada para Brasil e Bloco 12 - Situação de Rua "sim". 
+
+São consideradas as equipes de Atenção Primária Prisional (eAPP) nas modalidades de 20h e 30h, conforme Portaria de Consolidação GM/MS nº 02/2017. É considerada a população privada de liberdade em celas físicas (excluindo os presos em carceragens de PC/PM/CBM/PF), conforme registro do SISPEDEN ==> informações gerais (https://www.gov.br/senappen/pt-br/servicos/sisdepen).
+
+Consideram-se eCR e eAPP implantadas com cofinanciamento pelo Ministério da Saúde as equipes que primeiramente foram credenciadas em portaria específica, na sequência, foram homologadas, e que após isso, mensalmente cumprem as regras previstas na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre a Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde (SUS).
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: equipes de Consultório na Rua (eCR) nas modalidades I, II e III
+equipes de Atenção Primária Prisional (eAPP) nas modalidades de 20h e 30h
+População em situação de rua cadastrada no CadÚnico
+População privada de liberdade em cela física estadual e federal
+Fonte De Dados Das Variáveis De Cálculo: Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES); Sistema de Informações do Departamento Penitenciário Nacional (SISDEPEN); e Plataforma de Consulta, seleção e extração de informações do CadÚnico (CECAD).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Identificar as eCR e as eAPP que estejam credenciadas, homologadas e implantadas com cofinanciamento do Ministério da Saúde, por meio do Sistema de Informação em Saúde para Atenção Básica (SISAB), o qual integra a estratégia e-SUS APS, de acordo com as suas tipologias.
+Passo 2: Extrair os dados de população em situação de rua e privada de liberdade, por meio dos sistemas  (2º Semestre do ano anterior) e CECAP (março do ano vigente).
+Passo 3: Aplicar os dados na fórmula de cálculo.
+Limitações: A implantação de equipes de Consultório na Rua e de equipes de Atenção Primária Prisional está condicionada ao reconhecimento e priorização política e sanitária por parte da gestão municipal. Portanto, a gestão federal depende da iniciativa municipal para o alcance da meta desse indicador. A restrição orçamentária de União e Municípios pode ocasionar baixa oferta de novos serviços.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Indicador: 9043
+Denominação: Cobertura populacional estimada de saúde bucal
+Índice De Referência: 47.5
+Em Apuração: Não
+Data De Apuração: 2023-04-30 00:00:00
+Unidade De Medida: percentual
+Descrição: A cobertura pela Estratégia Saúde Bucal através das equipes de Saúde Bucal (eSB), vinculadas às equipes de Saúde da Família (eSF) e equipes de Atenção Primária (eAP), é utilizada para mensurar o acesso da população aos serviços de Saúde Bucal na Atenção Primária, considerando a estimativa populacional prevista pela Política Nacional de Atenção Báscia (PNAB), com vistas ao fortalecimento do planejamento do Sistema Único de Saúde (SUS).
+
+São consideradas as equipes de Saúde Bucal (eSB) nas modalidades 20h, 30h e 40h, as quais podem ter composição variável de acordo com as categorias profissionais, devendo cumprir a carga horária mínima semanal, conforme Portaria de Consolidação GM/MS nº 02/2017. 
+
+Consideram-se eSB implantadas com cofinanciamento pelo Ministério da Saúde as equipes que foram credenciadas, em seguida homologadas, e que após isso, mensalmente cumprem as regras previstas na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre a Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde (SUS).
+Período Ou Data A Que Se Refere: Último dia do mês
+Data De Divulgação/Disponibilização: A partir do 10⁰ dia útil do segundo mês subsequente à competência de registro no SCNES.
+Periodicidade: Mensal
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: Número de equipes de Saúde Bucal (eSB), nas modalidades 20h, 30h e 40h.
+Estimativa Populacional (IBGE).
+Fonte De Dados Das Variáveis De Cálculo: Os dados serão extraídos do Sistema de Informação em Saúde para Atenção Básica (SISAB), o qual integra a estratégia e-SUS APS; do Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES); e do Instituto Brasileiro de Geografia e Estatística (IBGE).
+Forma De Disponibilização: e-Gestor Atenção Básica: Relatório Públicos (https://egestorab.saude.gov.br/paginas/acessoPublico/relatorios/relatoriosPublicos.xhtml)
+Procedimento De Cálculo: Passo 1: Identificar as equipes de Saúde Bucal vinculadas às equipes de Atenção Primária e equipes de Saúde da Família, conforme regras previstas na Portaria de Consolidação SAPS/MS nº 01/2021, que consolida as normas sobre a Atenção Primária à Saúde, bem como a Portaria de Consolidação GM/MS nº 06/2017 que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Únido de Saúde (SUS).
+Passo 2: Extrair dados para o denominador leva-se em consideração a estimativa populacional do IBGE referente a 1º de julho do último ano disponível, sendo esta informação atualizada anualmente.
+Passo 3: Aplicar os dados na fórmula prevista
+
+As equipes de Saúde Bucal de 40h serão consideradas equivalentes a uma eSF, as de 30h a uma eAP 30h, e as de 20h a uma eAP de 20h. A Cobertura máxima que um município pode ter é de 100%.
+Limitações: Serão consideradas para cálculo as equipes de Saúde Bucal credenciadas, homologadas e pagas na competência, sendo excluídas do cálculo as eSB que estejam suspensas por órgão de controle e/ou por não envio de produção para o centralizador nacional do e-SUS APS por 03 (três) meses consecutivos.
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Indicador: 9866
+Denominação: Número de Unidades Básicas de Saúde (UBS) estruturadas com investimento em obras, equipamentos e materiais permanentes
+Índice De Referência: 0.0
+Em Apuração: Não
+Data De Apuração: 2023-07-25 00:00:00
+Unidade De Medida: número absoluto
+Descrição: Mensura o número de Unidades Básicas de Saúde (UBS) estruturadas com investimento em obras, equipamentos e materiais permanentes, com recursos financeiros oriundos de emendas parlamentares e programação (PAC e não PAC), visando prover condições adequadas para o trabalho em saúde na Atenção Primária.
+Período Ou Data A Que Se Refere: 30/06 e 31/12
+Data De Divulgação/Disponibilização: julho/ano (dados do 1º semestre) e janeiro/ano (dados do 1º e 2º semestre).
+Periodicidade: Semestral
+Polaridade: Quanto maior melhor
+Variáveis De Cálculo: 1. Unidades Básicas de Saúde (UBS) construída, com estágio da obra "concluída" no Sistema de Monitoramento da Obra (SISMOB), mediante cofinanciamento com recursos oriundos do PAC;
+2. Unidades Básicas de Saúde (UBS) reformada, com estágio da obra "concluída" no Sistema de Monitoramento da Obra (SISMOB), cofinanciada com recursos financeiros oriundos de emendas parlamentares e programação;
+3. Unidades Básicas de Saúde (UBS) estruturada com equipamentos de informática cofinanciados com recursos financeiros oriundos de emendas parlamentares e programação, para prover a informatização e conectividade;
+4. Unidades Básicas de Saúde (UBS) ampliada com sala de vacina, com estágio da obra "concluída" no Sistema de Monitoramento da Obra (SISMOB), cofinanciada com recursos financeiros oriundos de emendas parlamentares e programação; 
+5. Unidades Básicas de Saúde (UBS) estruturadas com combo de equipamentos no período de 2024-2027, mediante cofinanciamento com recursos oriundos do PAC.; e
+6. Obras inacabadas em Unidades Básicas de Saúde (UBS) concluídas no período 2024-2027, mediante aporte financeiro para a retomada e conclusão de obras com recursos oriundos do PAC.
+Fonte De Dados Das Variáveis De Cálculo: 1. Diário Oficial da União (DOU);
+2. Sistema de Monitoramento de Obras (SISMOB);
+3. Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS);
+4. Investsus.
+Forma De Disponibilização: Os resultados são disponibilizados semestralmente no SISMOB (https://sismobcidadao.saude.gov.br/) e InvestSUS (https://infoms.saude.gov.br/extensions/CGIN_InvestsusPaineis/CGIN_InvestsusPaineis.html).
+Procedimento De Cálculo: 1. Extração dos dados de obras concluídas no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Monitoramento de Obras (SISMOB) e Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS), cofinanciada com recursos financeiros oriundos de emendas parlamentares e programação (PAC e não PAC), incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+2. Extração dos dados de propostas habilitadas e com recursos financeiros efetivamente repassados para a aquisição de equipamentos e materiais permanentes no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS).
+Limitações: 1. Restrições orçamentárias e financeiras; 
+2. Capacidade de execução das obras pelos gestores locais.
+Notas Explicativas: Considera-se como "Unidade Básica de Saúde (UBS) estruturadas com investimento em obras" aquela com obra concluída no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Monitoramento de Obras (SISMOB) e Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS), cofinanciada com recursos financeiros oriundos de emendas parlamentares e programação (PAC e não PAC), incluindo as obras habilitadas e com recursos liquidados em exercícios anteriores.
+Considera-se como "Unidade Básica de Saúde (UBS) estruturadas com investimento em equipamentos e materiais permanentes" aquela com proposta habilitada e com recursos financeiros efetivamente repassados para a aquisição de equipamentos e materiais permanentes no período 2024-2027, conforme critérios preconizados na Portaria de Consolidação GM/MS nº 6/2017, no Sistema de Propostas do Fundo Nacional de Saúde (SISPROFNS).
+Origem: PPA
+Momento: 8300
+Indicador De Alteração: Atributos gerenciais alterados
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5119
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 69
+Enunciado: Expandir o acesso e a cobertura da Estratégia Saúde da Família, priorizando áreas de vulnerabilidade social, inclusive ribeirinhas e quilombolas,com provimento de profissionais e cuidado interprofissional
+Descrição: A Política Nacional de Atenção Básica (PNAB) tem na Estratégia Saúde da Família (ESF) o modelo prioritário e traz como princípios a universalidade, a equidade e a integralidade, além das diretrizes de territorialização, cuidado centrado na pessoa, resolutividade, longitudinalidade do cuidado. Assim, o cálculo da cobertura é utilizado para o monitoramento do acesso aos serviços de Atenção Primária à Saúde (APS), com vistas ao fortalecimento do planejamento do Sistema Único de Saúde (SUS). Entende-se que quanto maior a cobertura, consequentemente, será maior o número de equipes nos territórios e mais pessoas poderão acessar os serviços de saúde ofertados.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 70
+Enunciado: Expandir o acesso à atenção integral à saúde das populações em situação de rua, privadas de liberdade e outras populações vulnerabilizadas
+Descrição: A Política Nacional de Atenção Básica (PNAB) traz como princípios a universalidade, a equidade e a integralidade, além das diretrizes de cuidado centrado na pessoa, resolutividade, longitudinalidade do cuidado. Assim, o cálculo da cobertura, em questão, voltado à população em situação de rua e às pessoas privadas de liberdade, é utilizado para o monitoramento do acesso aos serviços de saúde, com vistas ao fortalecimento do planejamento do Sistema Único de Saúde (SUS). Entende-se que quanto maior a cobertura, consequentemente, será maior o número de equipes nos territórios e mais pessoas poderão acessar os serviços de saúde ofertados.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Não
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 150
+Enunciado: Expandir o acesso e a oferta aos serviços de saúde bucal
+Descrição: Aumentar a oferta de estratégias e serviços de saúde bucal para mudança do modelo de atenção que seja centrado nas necessidades da população, desde a atenção primária até a atenção especializada, incluindo a ampliação do acesso à saúde bucal para populações residentes em locais distantes e/ou de difícil acesso dos centros urbanos, que não consigam atendimento em unidades de saúde convencionais e também serviços de apoio laboratorial para confecção de próteses dentárias.
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Objetivo Específico: 378
+Enunciado: Ampliar a infraestrutura das Unidades Básicas de Saúde (UBS) com investimento em obras, equipamentos e materiais permanentes, visando prover condições adequadas para o trabalho em saúde na Atenção Primária
+Descrição: Adequar a infraestrutura das Unidades Básicas de Saúde (UBS) ao quantitativo de população adscrita e suas especificidades, bem como aos processos de trabalho das equipes e à atenção à saúde dos usuários considerando as ações e serviços de saúde a serem realizados na Atenção Primária à Saúde (APS).
+Órgão: 36000
+Tipo Do Órgão: O
+Origem: PPA
+Momento: 8300
+Novo: Não
+Validado: Sim
+Excluído: Não
+
+passage: Programa Número 5119
+
+Exercício: 2025
+Programa: 5119
+Objetivo: 1283
+Enunciado: Fortalecer a atenção primária, ampliando a cobertura da Estratégia Saúde da Família e da Saúde Bucal, com vistas à universalização do acesso, à abrangência do cuidado integral, à promoção da saúde, à prevenção de doenças e agravos e à redução de desigualdades de raça/etnia, de gênero, regionais e sociais
+Descrição: Fortalecer a atenção primária, ampliando a cobertura da Estratégia Saúde da Família e da Saúde Bucal, com vistas à universalização do acesso, à abrangência do cuidado integral, à promoção da saúde, à prevenção de doenças e agravos e à redução de desigualdades de raça/etnia, de gênero, regionais e sociais
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
+
+passage: Programa Número 5119
+
+Exercício: 2025
+Programa: 5119
+Título: Atenção Primária à Saúde
+Tipo: Finalístico
+Órgão: 36000.0
+Público-Alvo: População em geral
+Descrição Do Problema: Barreiras ao acesso oportuno e resolutivo à Atenção Primária à Saúde (APS) nos territórios, caracterizadas pela oferta restrita de serviços e parâmetros populacionais inadequados para a garantia da qualidade do cuidado integral e da equidade.
+Causa Do Problema: • Oferta restrita de serviços;
+• Parâmetros populacionais inadequados; 
+• Insuficiência de Unidades Básicas de Saúde (UBS);
+• Insuficiência de equipes multiprofissionais e de especialistas no escopo ampliado da Atenção Primária à Saúde (APS); 
+• Subfinanciamento federal decorrente de limitações do modelo de financiamento atual;
+• Insuficiente participação dos governos estaduais no financiamento da APS e das equipes de saúde bucal;
+• Dificuldade de provimento e fixação de profissionais;
+• Insuficiência de consultórios odontológicos nas UBS.
+Evidências Do Problema: De acordo com o estudo “Estimativa de Recursos Necessários para Ampliação da Estratégia Saúde da Família” (IEPS, 2022), a cobertura integral da ESF é uma realidade em metade dos municípios brasileiros, ainda que 34% da população esteja descoberta pelos serviços da Atenção Primária. O referido estudo também estima que a maior parte da população não coberta habita em regiões metropolitanas, com uma maior concentração nas capitais e na região sudeste, e que o alcance de 100% de cobertura da ESF pode ocorrer com o credenciamento de cerca de 25,6 mil novas equipes, requerendo até 236,9 mil profissionais de saúde, entre médicos, enfermeiros, técnicos, auxiliares e agentes comunitários de saúde, ao custo de R$ 17,1 bilhões ao ano. 
+Acrescente-se que, desde 2014, os recursos próprios aportados pelo Ministério da Saúde (MS) destinados à construção, ampliação e reforma de UBS são insuficientes, de modo que grande parte das dotações alocadas para este fim são provenientes de emendas parlamentares. Nesta perspectiva, dados de 2021 do Sistema de Informações sobre Orçamentos Públicos em Saúde (Siops) evidenciam que as Secretarias Estaduais e Municipais de Saúde aportam, em média, cerca de 24% e 29,7%, respectivamente, de recursos próprios em saúde, ainda que a Lei Complementar nº 141/2012 estabeleça os percentuais mínimos de 12% para os estados e de 15% para os municípios. Ainda, de acordo com o Conselho Nacional de Secretários de Saúde, os entes subnacionais vêm aportando mais recursos em ações e serviços públicos em saúde do que a União (Conass, 2023). 
+Evidência recentemente publicada pelo Ipea (2020), concluiu que são escassas as análises do Siops com a subfunção “301 - Atenção Básica”, demonstrando que existem barreiras de alimentação de dados e confiabilidade de informações, mas que devem ser enviados esforços para observar o desenvolvimento dos gastos com Atenção Primária com a finalidade de possibilitar sua melhoria. 
+A demografia médica no Brasil, em 2023, apontou que a densidade de médicos por 1.000 habitantes aumentou no país, porém prevalece a concentração geográfica nos grandes centros. As capitais apresentam densidade média de médicos por habitantes (6,13), muito maior que os interiores (1,84), sendo que em alguns estados essa diferença é ainda mais expressiva. Em 2022, nas cidades com menos de 50.000 habitantes, estavam presentes apenas 8% dos médicos. Nesse contexto, é pouco significativa a dispersão territorial de médicos no país (Scheffer et al., 2023). 
+Além disso, destacam-se as disparidades na distribuição de médicos entre o SUS e o setor privado e a média de consultas médicas no Brasil. Anualmente são realizadas 1.260 consultas por médico no país, número bem menor do que em países da OCDE. Ainda, é relevante considerar a instalação, a produtividade e o desempenho desses profissionais. Portanto, o pareamento entre o número suficiente, a igualdade de acesso e a qualidade nos cuidados de saúde é um desafio para a demografia médica no Brasil.  
+De acordo com os dados disponíveis no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES), aproximadamente 4.600 equipes de Saúde da Família (eSF) ou equipes de Atenção Primária (eAP) não possuem profissional médico, considerando a carga horária de 40h semanais.
+Acerca da baixa cobertura da Estratégia Saúde Bucal no país, cabe destacar que dados do e-Gestor relativos à fevereiro de 2023 mostram que, quando comparados os números de eSF e eAP, 52.575 equipes, com os números de eSB, 28.078 equipes, há 24.497 equipes na APS sem cobertura por equipes de saúde bucal vinculadas.
+Justificativa Para A Intervenção: A Estratégia Saúde da Família (ESF) objetiva proporcionar cuidados essenciais à saúde da população, por meio de equipes multidisciplinares, visando o cuidado integral à saúde. Não obstante, a expansão da ESF no Brasil justifica-se pela necessidade de promoção de melhorias na qualidade e humanização do atendimento, com profissionais que estabeleçam vínculos com as pessoas atendidas e com a comunidade. Nesse sentido, é preciso avançar em estratégias de provimento profissional, aliadas às condições de vinculação e garantia de atendimento qualificado para aquelas pessoas que acessam cotidianamente este nível de atenção.
+Destaque-se que a ampliação da infraestrutura das UBS dialoga com a premente necessidade de ofertar uma infraestrutura adequada, com equipamentos e instalações suficientes ao pleno desempenho das equipes. É importante que haja investimentos em construções, ampliações e reformas das UBS, bem como a aquisição de equipamentos e materiais permanentes.
+Fortalecer a integração entre a ESF e outros serviços de saúde com vistas a atuação mais efetiva, é importante para a integração entre as atenções primária e especializada e a vigilância em saúde.
+Executar ações de promoção da saúde neste nível de atenção, é fundamental para não se limitar ao tratamento de doenças e agravos, mas também propiciar ações que promovam o bem-estar das pessoas assistidas, educação em saúde e o reconhecimento das políticas públicas de saúde, como as campanhas de vacinação, o fomento às atividades físicas e orientação nutricional, entre outras.
+Investir na qualificação de profissionais para garantir que estes estejam envolvidos e adequadamente qualificados para desempenhar suas atribuições junto e para a população nos territórios, é fundamental para o êxito e a sustentabilidade da APS. Tal investimento se dá a partir de treinamentos técnicos que podem ser feitos por meio de cursos de formação, treinamentos gerais e específicos, fomentando a melhoria das boas práticas pelos profissionais e equipes. 
+A participação da comunidade é fundamental em todos os contextos da APS, e principalmente no êxito da ESF, que tem como alicerce a dinâmica e reconhecimento das peculiaridades que permeiam os territórios. É importante que as equipes da APS promovam a participação da população nas decisões sobre as ações e os serviços de saúde ofertados, por meio de conselhos de saúde, por exemplo, assim como outras formas de participação popular.
+Essas são apenas algumas das ações que justificam e reafirmam a necessidade de priorização da expansão da APS, com ênfase na ESF, bem como da garantia do acesso a este nível de atenção em todo o território brasileiro. É importante ressaltar que essa expansão deve ser feita de forma planejada, gradual, e dialogada, com comunicação e pactuação tripartite, levando em conta as singularidades e especificidades de cada região do país e da população atendida.
+Evolução Histórica: Na década de 90 foram instituídos o Programa Agentes Comunitários de Saúde (PACS, 1992), o Programa Saúde da Família (PSF, 1994) e iniciou-se o repasse do Piso de Atenção Básica (PAB Fixo, 1998). 
+A primeira Política Nacional de Atenção Básica (PNAB), foi publicada em 2006, definindo o PSF como principal estratégia de expansão da Atenção Primária à Saúde (APS) no país e a Estratégia Saúde da Família (ESF), em caráter substitutivo em relação à Atenção Básica tradicional, estipulando parâmetros de cobertura e composição, descrevendo os princípios e diretrizes para a APS e estipulando as competências de cada ente federativo na organização deste nível de atenção. 
+Uma nova versão da PNAB foi publicada em 2011, incorporando os Núcleos de Apoio à Saúde da Família na Atenção Básica (Nasf-AB), as equipes de Saúde da Família Ribeirinha (eSFR), as Unidades Básicas de Saúde Fluvial (UBSF) e regulamentando as equipes de Consultórios na Rua (eCR) e o Programa Saúde na Escola (PSE). Além disso, reconheceu a APS como ordenadora da Rede de Atenção à Saúde (RAS). 
+Em 2017, tal Política foi atualizada e instituiu as equipes de Atenção Básica (eAB), a oferta nacional de serviços essenciais e a função profissional de Gerente na APS. 
+Cumpre mencionar, ainda, a implementação de programas e estratégias para a qualificação da Atenção Primária nos anos 2000, como o Programa de Requalificação das Unidades Básicas de Saúde (Requalifica UBS, 2009), o Programa Nacional de Melhoria do Acesso e da Qualidade da Atenção Básica (PMAQ-AB, 2011), o Sistema de Informação da AB (estratégia e-SUS AB, 2011) e os programas de provimento médico (Programa Mais Médicos, 2013 e Programa Médicos pelo Brasil, 2019).
+O Sistema Único de Saúde (SUS) tem enfrentado diversos desafios desde sua criação. Destacam-se, entre eles, ações de cofinanciamento da saúde pública. Em novembro de 2019, após amplas discussões nos espaços de gestão tripartite do SUS, foi instituído modelo de financiamento, com Pagamento por Desempenho, por meio da Portaria GM/MS nº 2.979/2019, que estabeleceu um novo modelo de financiamento de custeio da APS no âmbito do SUS. Diante dos desafios que a APS enfrenta hoje, é importante o aperfeiçoamento de um modelo de financiamento capaz de mobilizar e reconhecer as atividades que permeiam os territórios.
+Ao longo dos últimos anos a cobertura pelos serviços da APS aumentou, consideravelmente, de 47,97% em 2007 para 75,12% em 2022. Considerando dezembro de 2022, a APS no Brasil, por meio da Estratégia Saúde da Família, apresentou cobertura de mais de 160 milhões de pessoas que vivem no Brasil, com ações de promoção da saúde, proteção, diagnóstico, tratamento, reabilitação, redução de danos, prevenção de agravos e doenças, cuidados paliativos e vigilância em saúde no Sistema Único de Saúde (SUS). São mais de 48 mil Unidades Básicas de Saúde (UBS) em todos os municípios do país, onde atuam aproximadamente 700 mil profissionais.
+Além disso, em 2023, o Governo Federal lançou o novo Mais Médicos, uma versão ampliada do programa Mais Médicos, incluindo agora especialização profissional e incentivos de permanência e vinculação aos municípios, para atendimento de mais de 96 milhões de brasileiras e brasileiros, que terão a garantia de acesso à assistência médica na APS.
+Comparações Internacionais: Áustria, Bélgica, Dinamarca, Espanha, Finlândia e Reino Unido demonstram que, quanto mais forte o sistema de atenção primária do país, melhor a classificação para os impactos combinados de saúde, ficando claro que os países com a APS mais forte lidam melhor com resultados e custos.
+Fonte: Primary Care: balancing health needs, services, and technology, © 1998 by Oxford University Press, Inc. New York. ©UNESCO 2002 Edição brasileira.
+Relação Com Os Ods: ODS 2 - Acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover a agricultura sustentável.
+ODS 3 - Assegurar uma vida saudável e promover o bem-estar para todas e todos, em todas as idades.
+ODS 5 - Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas.
+ODS 10 - Reduzir a desigualdade dentro dos países e entre eles.
+Agentes Envolvidos: As três esferas de gestão (federal, municipal/distrital e estadual), universidades, fundações, organizações nacionais e internacionais diversas, movimentos e representações sociais, assim como CONASS, CONASEMS, COSEMS, CNS e os demais Conselhos, Comissões e Associações na área da saúde.
+Articulação Federativa: As diretrizes da Política Nacional de Atenção Básica (PNAB) devem ser definidas periodicamente, de forma pactuada, na Comissão Intergestores Tripartite (CIT), da qual fazem parte as três esferas de gestão. Também de forma tripartite, são definidas as estratégias de articulação do Ministério da Saúde junto às gestões estaduais e municipais do Sistema Único de Saúde (SUS), com vistas à institucionalização da avaliação e qualificação da APS. O Ministério da Saúde se responsabiliza em prestar apoio aos gestores estaduais e municipais no processo de qualificação e de consolidação da APS, bem como às Secretarias Estaduais de Saúde também compete prestarem apoio aos gestores municipais.
+Enfoque Transversal: A Atenção Primária, como primeiro nível de atenção em saúde, contempla ações de âmbito individual e coletivo, que abrangem a promoção e a proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento, a reabilitação, a redução de danos e a manutenção da saúde com o objetivo de desenvolver uma atenção integral que impacte positivamente na situação de saúde das coletividades. 
+Nesse sentido, a APS resolutiva e de qualidade é capaz de contribuir para a redução das desigualdades sociais. Para isso, os gestores e trabalhadores da APS devem articular ações intersetoriais com ênfase nas necessidades locorregionais e com atenção diferenciada para as vulnerabilidades existentes no território, como, por exemplo, fortalecimento da Estratégia Saúde da Família, acompanhamento dos Programas Bolsa Família (PBF), Saúde na Escola (PSE), Brasil Sorridente, Proteção e Promoção da Saúde Menstrual, dentre outros programas e ações da saúde.
+Cabe ainda destacar a reestruturação do Programa Mais Médicos, que visa prover e formar profissionais médicos; a retomada e ampliação das equipes multiprofissionais, bem como aumento nos investimentos na formação uni e multiprofissional com vistas ao fortalecimento da Rede de Atenção e Vigilância em Saúde que garanta acesso à população, construa vínculo com a comunidade, coordene o cuidado, ordene a rede, e ofereça uma relação abrangente de serviços com eficiência, humanização e resolutividade.
+Marco Legal: Anexo XXII da Portaria de Consolidação nº 02, de 28 de setembro de 2017, que dispõe sobre a operacionalização da Política Nacional de Atenção Básica (PNAB); Portaria de consolidação GM/MS nº 06, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde; Portaria de Consolidação GM/MS nº 05, de 28 de setembro de 2017, que consolida as normas sobre as ações e os serviços de saúde do Sistema Único de Saúde; Portaria GM/MS nº 751, de 15 de junho 2023. Altera a Portaria de Consolidação GM/MS nº 05, de 28 de setembro de 2017, para instituir o Serviço de Especialidades em Saúde Bucal - Sesb; Portaria GM/MS nº 635, de 22 de maio de 2023, que institui, define e cria incentivo financeiro federal de implantação, custeio e desempenho para as modalidades de equipes Multiprofissionais na Atenção Primária à Saúde.
+Planos Nacionais, Setoriais E Regionais: Plano Nacional de Saúde.
+Origem: PPA
+Momento: 8300
+Novo: Não
+Excluído: Não
