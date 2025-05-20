@@ -16,3 +16,4 @@ def load_indexed_files():
         with open(INDEXED_LIST_PATH, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
+

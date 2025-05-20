@@ -1,5 +1,6 @@
 import os
 import glob
+import traceback
 import streamlit as st
 from config import DOCS_PATH, VECTORDB_PATH
 from langchain_community.vectorstores import FAISS
@@ -13,8 +14,8 @@ from rag.utils import save_indexed_files
 from langchain.text_splitter import TokenTextSplitter
 from transformers import AutoTokenizer
 
-
-
+sucesso = 0
+falha = 0
 
 from settings import EMBEDDING_MODEL, CHUNK_OVERLAP, CHUNK_SIZE
 
@@ -27,16 +28,19 @@ def create_vectorstore():
     files = sorted(glob.glob(f"{DOCS_PATH}/*"))
     total = len(files)
 
+    sucesso = 0
+    falha = 0
+
     for i, file in enumerate(files):
         ext = os.path.splitext(file)[1].lower()
         filename = os.path.basename(file)
-        sidebar_status.markdown(f"📄 Processando: `{filename}`")
+        sidebar_progress.markdown(f"📄 Processando: `{filename}`")
 
         try:
             if ext == ".pdf":
                 loader = PyPDFLoader(file)
             elif ext == ".txt":
-                loader = TextLoader(file)
+                loader = TextLoader(file, encoding="utf-8")
             elif ext == ".docx":
                 loader = UnstructuredWordDocumentLoader(file)
             elif ext == ".xlsx":
@@ -46,13 +50,23 @@ def create_vectorstore():
             else:
                 continue
             docs.extend(loader.load())
+            sucesso += 1
         except Exception as e:
-            st.sidebar.warning(f"⚠️ Erro ao processar `{filename}`: {e}")
+            falha += 1
+            sidebar_progress.markdown(f"⚠️ Erro ao processar `{filename}`: {e}")
+            print(f"Erro ao processar {filename}: {type(e).__name__}")
+            traceback.print_exc()
 
         sidebar_progress.progress((i + 1) / total)
 
+    # Resultado final
+    sidebar_progress.markdown(f"✅ Arquivos processados com sucesso: {sucesso}")
+    if falha > 0:
+        sidebar_progress.markdown(f"❌ Arquivos com erro: {falha}")
+
+
     if not docs:
-        sidebar_status.error("❌ Nenhum documento válido.")
+        sidebar_progress.markdownr("❌ Nenhum documento válido.")
         sidebar_progress.empty()
         st.stop()
 
@@ -64,17 +78,7 @@ def create_vectorstore():
     splitter = TokenTextSplitter.from_huggingface_tokenizer(
         tokenizer=tokenizer,
         chunk_size=CHUNK_SIZE,
-        chunk_overlap=CHUNK_OVERLAP,
-        
-        separators=[
-        "\n\n",  # parágrafos
-        "\n",    # quebras de linha
-        ".",     # frases
-        ";",     # sentenças curtas
-        ",",     # frases compostas
-        " ",     # fallback: palavras
-        ""       # fallback final: caractere por caractere
-        ]
+        chunk_overlap=CHUNK_OVERLAP        
     )
 
     sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")
