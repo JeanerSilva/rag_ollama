@@ -14,7 +14,7 @@ openai_key = os.getenv("OPENAI_API_KEY")
 def load_llm(modelo_llm: str):
     if modelo_llm == "GGUF (offline)":
         return LlamaCpp(
-            model_path="./.models/mistral-7b-instruct-v0.1.Q4_K_M.gguf",
+            model_path="./.models/Meta-Llama-3-8B-Instruct.Q5_K_M.gguf",
             n_ctx=4096,
             n_batch=64,
             temperature=TEMPERATURE,
