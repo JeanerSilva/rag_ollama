@@ -5,16 +5,19 @@ from dotenv import load_dotenv
 from langchain_community.llms import LlamaCpp
 from langchain_ollama import OllamaLLM
 from langchain_openai import ChatOpenAI
-from settings import TEMPERATURE, LLM_MODEL, OPENAI_MODEL
+from settings import TEMPERATURE, LLM_MODEL, OPENAI_MODEL,LLM_GGUF
 
 
 load_dotenv()
 openai_key = os.getenv("OPENAI_API_KEY")
 
 def load_llm(modelo_llm: str):
+
+    assert os.path.exists(LLM_GGUF), "Modelo não encontrado!"
+
     if modelo_llm == "GGUF (offline)":
         return LlamaCpp(
-            model_path="./.models/Meta-Llama-3-8B-Instruct.Q5_K_M.gguf",
+            model_path=LLM_GGUF,
 
             n_ctx=4096,
             n_batch=64,
