@@ -111,8 +111,6 @@ def create_vectorstore(model_name):
 
     indexed_files = [f"{os.path.basename(f)} | {hash_file(f)}" for f in files]
 
-    indexed_files = [f"{os.path.basename(f)} | {hash_file(f)}" for f in files]
-
     st.session_state["indexed_files"] = indexed_files
     save_indexed_files(indexed_files)
 
