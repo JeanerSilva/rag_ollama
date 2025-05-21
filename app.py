@@ -26,16 +26,7 @@ if "chat_history" not in st.session_state:
 if "chat_session_id" not in st.session_state:
     st.session_state.chat_session_id = generate_session_id()
 
-# Sidebar: Upload
-st.sidebar.header("📤 Enviar documentos")
-uploaded_files = st.sidebar.file_uploader(
-    "Arquivos: .pdf, .txt, .docx, .xlsx, .html",
-    type=["pdf", "txt", "docx", "xlsx", "html"],
-    accept_multiple_files=True,
-)
-if uploaded_files:
-    save_uploaded_files(uploaded_files)
-    st.sidebar.success("✅ Arquivos enviados com sucesso.")
+
 
 # Sidebar: Configurações
 st.sidebar.markdown("⚙️ **Configurações**")
@@ -79,6 +70,17 @@ if indexed_files:
 else:
     st.sidebar.info("Nenhum arquivo indexado.")
 
+# Sidebar: Upload
+st.sidebar.header("📤 Enviar documentos")
+uploaded_files = st.sidebar.file_uploader(
+    "Arquivos: .pdf, .txt, .docx, .xlsx, .html",
+    type=["pdf", "txt", "docx", "xlsx", "html"],
+    accept_multiple_files=True,
+)
+if uploaded_files:
+    save_uploaded_files(uploaded_files)
+    st.sidebar.success("✅ Arquivos enviados com sucesso.")
+
 # Carregar index e LLM
 vectorstore = load_vectorstore(embed_model_name)
 if not vectorstore:
@@ -93,7 +95,10 @@ if not qa_chain:
 
 # Formulário de pergunta
 with st.form("chat-form", clear_on_submit=True):
-    user_input = st.text_input("Digite sua pergunta:")
+    user_input = st.text_input(
+        "Digite sua pergunta:",
+        value="Faça uma lista das causas do problema do Programa Abastecimento e Soberania Alimentar"
+    )
     submitted = st.form_submit_button("Enviar")
 
 if submitted and user_input:
@@ -148,3 +153,4 @@ if st.session_state.chat_history:
         if role == "bot":
             st.download_button("📥 Baixar última resposta", msg, file_name="resposta.txt")
             break
+
