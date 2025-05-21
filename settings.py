@@ -18,3 +18,4 @@ LLM_GGUF = "./.models/mistral-7b-instruct-v0.1.Q4_K_M.gguf"
 
 # Meta-Llama-3-8B-Instruct.Q5_K_M
 # multilingual-e5-large-instruct-q8_0.gguf 
+# mistral-7b-instruct-v0.1.Q4_K_M
