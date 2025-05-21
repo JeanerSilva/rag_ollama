@@ -7,3 +7,6 @@ git flow release finish 1.0.0
 
 
 git flow hotfix start name-hotfix
+
+
+Atenção: o clone é feito a partir do develop

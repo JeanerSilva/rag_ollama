@@ -1,4 +1,6 @@
 .models/
+chat_sessions
+
 # Ignora o ambiente virtual
 .venv/
 
@@ -12,5 +14,5 @@ __pycache__/
 *.pyd
 *.log
 
-#git rm -r --cached __pycache__
+
 .env

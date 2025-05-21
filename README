@@ -48,7 +48,7 @@ git flow release finish 'v1.0.0'
 git push origin develop
 git push origin main
 
-
+#git rm -r --cached __pycache__
 
 
 Programa: [nome do programa]
