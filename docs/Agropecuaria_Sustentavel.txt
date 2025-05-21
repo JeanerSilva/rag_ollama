@@ -4,7 +4,7 @@ Descrição do Problema:
 Insuficiência no alcance e na adoção de sistemas sustentáveis na agropecuária
 
 Causa do Problema:
- Ausência de indicadores e bases de informação não integradas relacionadas ao desenvolvimento da agropecuária sustentável; 
+    
 - Alta vulnerabilidade do sistema de produção agropecuária à mudança do clima; 
 - Perda de recursos naturais produtivos, biodiversidade e de recursos genéticos para a alimentação e agricultura;
 - Baixa ou pouca organização social dos atores da agropecuária com reflexo na falta de agregação de valor da produção e acesso aos mercados; 
