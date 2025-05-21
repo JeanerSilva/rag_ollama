@@ -7,6 +7,7 @@ from langchain_ollama import OllamaLLM
 from langchain_openai import ChatOpenAI
 from settings import TEMPERATURE, LLM_MODEL, OPENAI_MODEL
 
+
 load_dotenv()
 openai_key = os.getenv("OPENAI_API_KEY")
 
