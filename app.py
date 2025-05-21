@@ -12,6 +12,8 @@ from rag.utils import save_uploaded_files, load_indexed_files
 from rag.llm_loader import load_llm
 from rag.chat_history import generate_session_id, save_chat
 
+from rag.prompt import get_saved_prompt, save_prompt, DEFAULT_PROMPT_TEMPLATE   
+
 # Configurações da interface
 st.set_page_config(page_title="Pergunte ao PPA", page_icon="🧠")
 st.title("🧠 Pergunte ao PPA")
@@ -26,7 +28,23 @@ if "chat_history" not in st.session_state:
 if "chat_session_id" not in st.session_state:
     st.session_state.chat_session_id = generate_session_id()
 
+# Prompt personalizado
+st.subheader("🛠️ Prompt personalizado")
 
+if "prompt_template" not in st.session_state:
+    st.session_state["prompt_template"] = get_saved_prompt()
+
+edited_prompt = st.text_area(
+    "Edite o template do prompt abaixo (use {context} e {question}):",
+    value=st.session_state["prompt_template"],
+    height=400,
+    key="prompt_editor"
+)
+
+if st.button("💾 Salvar prompt"):
+    save_prompt(edited_prompt)
+    st.session_state["prompt_template"] = edited_prompt
+    st.success("Prompt salvo com sucesso!")
 
 # Sidebar: Configurações
 st.sidebar.markdown("⚙️ **Configurações**")
@@ -88,7 +106,7 @@ if not vectorstore:
     st.stop()
 
 llm = load_llm(modelo_llm)
-qa_chain = build_qa_chain(vectorstore, llm)
+qa_chain = build_qa_chain(vectorstore, llm, st.session_state["prompt_template"])
 if not qa_chain:
     st.warning("⚠️ A chain não está carregada.")
     st.stop()
