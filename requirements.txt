@@ -12,3 +12,6 @@ faiss-cpu
 python-docx>=0.8.11
 pytest
 tiktoken>=0.5.1
+llama-cpp-python
+langchain_ollama 
+langchain_openai 

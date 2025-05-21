@@ -1,9 +1,14 @@
-# llm_loader.py
+# rag/llm_loader.py
 
 import os
+from dotenv import load_dotenv
 from langchain_community.llms import LlamaCpp
 from langchain_ollama import OllamaLLM
-from settings import TEMPERATURE, LLM_MODEL
+from langchain_openai import ChatOpenAI
+from settings import TEMPERATURE, LLM_MODEL, OPENAI_MODEL
+
+load_dotenv()
+openai_key = os.getenv("OPENAI_API_KEY")
 
 def load_llm(modelo_llm: str):
     if modelo_llm == "GGUF (offline)":
@@ -14,10 +19,23 @@ def load_llm(modelo_llm: str):
             temperature=TEMPERATURE,
             verbose=False
         )
-    else:
+
+    elif modelo_llm == "Ollama (servidor)":
         base_url = os.getenv("OLLAMA_HOST", "http://localhost:11434")
         return OllamaLLM(
             model=LLM_MODEL,
             base_url=base_url,
             temperature=TEMPERATURE
         )
+
+    elif modelo_llm == "OpenAI (API)":
+        if not openai_key:
+            raise ValueError("OPENAI_API_KEY não definido no ambiente.")
+        return ChatOpenAI(
+            model=OPENAI_MODEL,
+            temperature=TEMPERATURE,
+            api_key=openai_key
+        )
+
+    else:
+        raise ValueError(f"Modelo LLM desconhecido: {modelo_llm}")

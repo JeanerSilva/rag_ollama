@@ -1,5 +1,5 @@
 # vectorstore.py
-
+import hashlib
 import os, glob, traceback
 import streamlit as st
 from config import DOCS_PATH
@@ -13,6 +13,10 @@ from rag.utils import save_indexed_files
 from langchain.text_splitter import TokenTextSplitter
 from transformers import AutoTokenizer
 from settings import CHUNK_OVERLAP, CHUNK_SIZE
+
+def hash_file(filepath):
+    with open(filepath, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
 
 def get_vectordb_path(model_name):
     safe_name = model_name.split("/")[-1].replace("-", "_")
@@ -76,7 +80,8 @@ def create_vectorstore(model_name):
     db = FAISS.from_documents(chunks, embeddings)
     db.save_local(vectordb_path)
 
-    indexed_files = [os.path.basename(f) for f in files]
+    indexed_files = [f"{os.path.basename(f)} | {hash_file(f)}" for f in files]
+
     st.session_state["indexed_files"] = indexed_files
     save_indexed_files(indexed_files)
 

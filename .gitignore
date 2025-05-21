@@ -13,3 +13,4 @@ __pycache__/
 *.log
 
 #git rm -r --cached __pycache__
+.env

@@ -1,21 +1,30 @@
 # app.py
 
 import os
+import time
 import streamlit as st
 from config import DOCS_PATH
+from settings import RETRIEVER_TOP_K, EMBEDDING_OPTIONS
+
 from rag.vectorstore import load_vectorstore, create_vectorstore
 from rag.qa_chain import build_qa_chain
 from rag.utils import save_uploaded_files, load_indexed_files
 from rag.llm_loader import load_llm
-from settings import RETRIEVER_TOP_K, EMBEDDING_OPTIONS
+from rag.chat_history import generate_session_id, save_chat
 
+# Configurações da interface
 st.set_page_config(page_title="Pergunte ao PPA", page_icon="🧠")
 st.title("🧠 Pergunte ao PPA")
 
+# Estado inicial
 if "indexed_files" not in st.session_state:
     st.session_state["indexed_files"] = load_indexed_files()
+
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
+
+if "chat_session_id" not in st.session_state:
+    st.session_state.chat_session_id = generate_session_id()
 
 # Sidebar: Upload
 st.sidebar.header("📤 Enviar documentos")
@@ -30,6 +39,7 @@ if uploaded_files:
 
 # Sidebar: Configurações
 st.sidebar.markdown("⚙️ **Configurações**")
+
 st.session_state["retriever_k"] = st.sidebar.number_input(
     label="Número de trechos a considerar (k)",
     min_value=1,
@@ -38,22 +48,26 @@ st.session_state["retriever_k"] = st.sidebar.number_input(
     step=1
 )
 
-# Sidebar: Escolha de modelo LLM
+# Sidebar: LLM
 st.sidebar.markdown("🧠 **Modelo de linguagem**")
-modelo_llm = st.sidebar.radio("Modo de execução:", ["GGUF (offline)", "Ollama (servidor)"])
+modelo_llm = st.sidebar.radio(
+    "Modo de execução:",
+    ["GGUF (offline)", "Ollama (servidor)", "OpenAI (API)"]
+)
+
 st.session_state["modelo_llm"] = modelo_llm
 
-# Sidebar: Escolha de modelo de embedding
+# Sidebar: Embedding
 st.sidebar.markdown("🧬 **Modelo de embedding**")
 embed_model_label = st.sidebar.selectbox("Escolha o modelo:", list(EMBEDDING_OPTIONS.keys()))
 embed_model_name = EMBEDDING_OPTIONS[embed_model_label]
 st.session_state["embedding_model"] = embed_model_name
 
-# Reindexar
+# Sidebar: Reindexar
 if st.sidebar.button("🔁 Reindexar agora"):
     create_vectorstore(embed_model_name)
 
-# Arquivos indexados
+# Sidebar: arquivos indexados
 indexed_files = st.session_state.get("indexed_files", [])
 if indexed_files:
     st.sidebar.markdown("📂 **Arquivos indexados:**", unsafe_allow_html=True)
@@ -65,7 +79,7 @@ if indexed_files:
 else:
     st.sidebar.info("Nenhum arquivo indexado.")
 
-# Carga do vetor e da LLM
+# Carregar index e LLM
 vectorstore = load_vectorstore(embed_model_name)
 if not vectorstore:
     st.warning("⚠️ Nenhum índice encontrado para esse modelo. Reindexe primeiro.")
@@ -73,7 +87,6 @@ if not vectorstore:
 
 llm = load_llm(modelo_llm)
 qa_chain = build_qa_chain(vectorstore, llm)
-
 if not qa_chain:
     st.warning("⚠️ A chain não está carregada.")
     st.stop()
@@ -85,25 +98,41 @@ with st.form("chat-form", clear_on_submit=True):
 
 if submitted and user_input:
     query = f"query: {user_input}"
+    start = time.time()
     result = qa_chain.invoke({"query": query})
+    elapsed = time.time() - start
+
     resposta = result["result"]
     fontes = result["source_documents"]
+
     st.session_state.chat_history.append(("user", user_input))
     st.session_state.chat_history.append(("bot", resposta))
     st.session_state.last_contexts = fontes
-    st.sidebar.write("🔍 Consulta:", query)
 
-# Exibição do chat
+    # Salvar histórico por sessão
+    save_chat(st.session_state.chat_session_id, st.session_state.chat_history)
+
+    # Exibir tempo
+    st.sidebar.success(f"⏱️ Resposta em {elapsed:.2f} segundos")
+
+    # Mostrar chunks retornados
+    with st.expander("🔬 Depuração: Chunks retornados pelo retriever"):
+        for doc in fontes:
+            st.markdown(doc.page_content)
+
+# Exibição estilo chat
 for role, msg in st.session_state.chat_history:
     with st.chat_message("user" if role == "user" else "assistant"):
         st.markdown(msg)
 
-# Fontes
+# Fontes da resposta
 if "last_contexts" in st.session_state:
     with st.expander("📚 Trechos usados na resposta"):
         for doc in st.session_state.last_contexts:
-            nome = os.path.basename(doc.metadata.get("source", ""))
-            st.markdown(f"**Fonte:** `{nome}`")
+            source = doc.metadata.get("source", "desconhecido")
+            nome = os.path.basename(source)
+            tipo = os.path.splitext(nome)[1].replace(".", "").upper()
+            st.markdown(f"**Fonte:** `{nome}` ({tipo})")
             st.markdown(doc.page_content.strip())
             st.markdown("---")
 
@@ -113,7 +142,7 @@ if st.button("🧹 Limpar conversa"):
     st.session_state.last_contexts = []
     st.rerun()
 
-# Download
+# Download da resposta
 if st.session_state.chat_history:
     for role, msg in reversed(st.session_state.chat_history):
         if role == "bot":
