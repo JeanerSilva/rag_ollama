@@ -1,7 +1,8 @@
+# config.py
+
 import os
 from dotenv import load_dotenv
 
-# Diretórios
 DOCS_PATH = "./docs"
 VECTORDB_PATH = "./vectordb"
 INDEXED_LIST_PATH = "./indexed/indexed_files.json"

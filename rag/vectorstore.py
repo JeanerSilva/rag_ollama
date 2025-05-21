@@ -1,10 +1,10 @@
-import os
-import glob
+# vectorstore.py
+import hashlib
+import os, glob, traceback
 import traceback
 import streamlit as st
-from config import DOCS_PATH, VECTORDB_PATH
+from config import DOCS_PATH
 from langchain_community.vectorstores import FAISS
-#from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import (
     TextLoader, PyPDFLoader, UnstructuredWordDocumentLoader,
     UnstructuredExcelLoader, UnstructuredHTMLLoader
@@ -13,20 +13,29 @@ from rag.embeddings import load_embeddings
 from rag.utils import save_indexed_files
 from langchain.text_splitter import TokenTextSplitter
 from transformers import AutoTokenizer
+from settings import CHUNK_OVERLAP, CHUNK_SIZE
 
-sucesso = 0
-falha = 0
+def hash_file(filepath):
+    with open(filepath, "rb") as f:
+        return hashlib.md5(f.read()).hexdigest()
 
-from settings import EMBEDDING_MODEL, CHUNK_OVERLAP, CHUNK_SIZE
+def get_vectordb_path(model_name):
+    safe_name = model_name.split("/")[-1].replace("-", "_")
+    path = f"./vectordb_{safe_name}"
+    os.makedirs(path, exist_ok=True)
+    return path
 
-def create_vectorstore():
+def create_vectorstore(model_name):
     sidebar_status = st.sidebar.empty()
     sidebar_progress = st.sidebar.progress(0)
+    vectordb_path = get_vectordb_path(model_name)
 
     sidebar_status.info("🔄 Reindexando documentos...")
     docs = []
     files = sorted(glob.glob(f"{DOCS_PATH}/*"))
     total = len(files)
+    sucesso = 0
+    falha = 0
 
     sucesso = 0
     falha = 0
@@ -51,10 +60,14 @@ def create_vectorstore():
                 continue
             docs.extend(loader.load())
             sucesso += 1
+            sucesso += 1
         except Exception as e:
             falha += 1
             sidebar_progress.markdown(f"⚠️ Erro ao processar `{filename}`: {e}")
             print(f"Erro ao processar {filename}: {type(e).__name__}")
+            traceback.print_exc()
+            falha += 1
+            sidebar_progress.markdown(f"⚠️ Erro ao processar `{filename}`: {e}")
             traceback.print_exc()
 
         sidebar_progress.progress((i + 1) / total)
@@ -83,16 +96,23 @@ def create_vectorstore():
 
     sidebar_status.markdown(f"📦 Gerando embeddings. Chunk_size {CHUNK_SIZE} e chunk_overlap {CHUNK_OVERLAP}...")
     # Carregamento e divisão dos documentos
+    sidebar_status.markdown(f"📄 Fazendo o splitting com {model_name}...")
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    splitter = TokenTextSplitter.from_huggingface_tokenizer(
+        tokenizer=tokenizer,
+        chunk_size=CHUNK_SIZE,
+        chunk_overlap=CHUNK_OVERLAP
+    )
+
+    sidebar_status.markdown(f"📦 Gerando embeddings...")
     chunks = splitter.split_documents(docs)
 
-    # Prefixar "passage: " para compatibilidade com E5
-    for chunk in chunks:
-        chunk.page_content = f"passage: {chunk.page_content.strip()}"
+    sidebar_status.markdown(f"📦 Indexando documentos...")
 
-    db = FAISS.from_documents(chunks, load_embeddings())
-    db.save_local(VECTORDB_PATH)
+    indexed_files = [f"{os.path.basename(f)} | {hash_file(f)}" for f in files]
 
-    indexed_files = [os.path.basename(f) for f in files]
+    indexed_files = [f"{os.path.basename(f)} | {hash_file(f)}" for f in files]
+
     st.session_state["indexed_files"] = indexed_files
     save_indexed_files(indexed_files)
 
@@ -100,7 +120,10 @@ def create_vectorstore():
     sidebar_progress.empty()
     return db
 
-def load_vectorstore():
-    if not os.path.exists(os.path.join(VECTORDB_PATH, "index.faiss")):
+def load_vectorstore(model_name):
+    vectordb_path = get_vectordb_path(model_name)
+    index_file = os.path.join(vectordb_path, "index.faiss")
+    if not os.path.exists(index_file):
         return None
-    return FAISS.load_local(VECTORDB_PATH, load_embeddings(), allow_dangerous_deserialization=True)
+    embeddings = load_embeddings(model_name)
+    return FAISS.load_local(vectordb_path, embeddings, allow_dangerous_deserialization=True)

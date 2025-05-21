@@ -1,10 +1,16 @@
 .models/
-__pycache__/
-.vscode/
+# Ignora o ambiente virtual
 .venv/
+
+# Ignora o arquivo de variáveis de ambiente
+.env
+
+# Arquivos temporários / cache
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.db
+*.log
+
+#git rm -r --cached __pycache__
 .env
-**/__pycache__/

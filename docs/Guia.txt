@@ -1,0 +1,151 @@
+📄 Guia de Boas Práticas e Técnicas para Avaliação de Orçamentos Públicos
+🧭 Objetivo do Documento
+Este guia reúne boas práticas e técnicas consolidadas para avaliar orçamentos públicos de forma eficiente, transparente e orientada a resultados. Ele é destinado a analistas, gestores, conselheiros e cidadãos interessados em monitorar e fiscalizar a qualidade da gestão orçamentária.
+
+1. Princípios Fundamentais
+Legalidade: A execução orçamentária deve respeitar o que foi autorizado pela lei.
+
+Transparência: Todas as fases do orçamento devem ser públicas e acessíveis.
+
+Eficiência: Recursos devem ser usados com o melhor custo-benefício.
+
+Eficácia: Os objetivos e metas devem ser efetivamente alcançados.
+
+Controle Social: A sociedade deve poder acompanhar e participar da execução orçamentária.
+
+2. Boas Práticas Gerais
+2.1 Estabelecimento de Indicadores de Desempenho
+Físicos: número de unidades entregues, pessoas atendidas, km de estrada pavimentada.
+
+Financeiros: execução orçamentária (% empenhado, liquidado e pago).
+
+De resultado: impacto social, econômico ou ambiental da despesa.
+
+2.2 Planejamento Integrado
+Garantir alinhamento entre:
+
+PPA (Plano Plurianual) – metas de médio prazo.
+
+LDO (Lei de Diretrizes Orçamentárias) – prioridades anuais.
+
+LOA (Lei Orçamentária Anual) – programação detalhada.
+
+2.3 Definição de Metas Claras e Mensuráveis
+Formular metas com base no modelo SMART:
+
+Specíficas
+
+Mensuráveis
+
+Atingíveis
+
+Relevantes
+
+Temporais (com prazo definido)
+
+3. Técnicas de Avaliação Orçamentária
+3.1 Avaliação da Execução Financeira
+Comparar valores:
+
+Autorizados x Empenhados x Liquidados x Pagos.
+
+Identificar:
+
+Dotações subutilizadas.
+
+Programas com execução desproporcional.
+
+3.2 Avaliação da Execução Física
+Confrontar metas físicas (ações planejadas) com entregas realizadas.
+
+Exemplo: "Construção de 10 creches" vs. número efetivamente entregues.
+
+3.3 Análise de Custo por Unidade
+Avaliar custo médio por unidade produzida.
+
+Identificar ineficiências ou desvios significativos entre regiões ou anos.
+
+3.4 Avaliação de Impacto
+Avaliar se os gastos geraram melhoria nas condições sociais.
+
+Exemplos:
+
+Investimento em educação → melhoria nos índices de aprovação.
+
+Ampliação da atenção primária → redução de internações hospitalares.
+
+3.5 Avaliação de Alinhamento Estratégico
+Verificar se os programas orçamentários estão coerentes com:
+
+Planos de governo.
+
+Objetivos do desenvolvimento sustentável (ODS).
+
+Demandas da sociedade civil.
+
+3.6 Comparação Intertemporal
+Comparar a evolução dos gastos ao longo dos anos.
+
+Observar tendências positivas ou deterioração na execução de determinadas áreas.
+
+4. Avaliação por Categoria Econômica e Função
+Categoria econômica:
+
+Corrente (salários, serviços, materiais).
+
+Capital (investimentos, obras).
+
+Função de governo:
+
+Saúde, educação, infraestrutura, segurança etc.
+
+Prática: Concentrar a avaliação nas funções com maior impacto ou com histórico de baixa execução.
+
+5. Ferramentas e Instrumentos Recomendados
+Planilhas automatizadas de execução orçamentária.
+
+Dashboards de BI com integração a sistemas financeiros.
+
+Análise de dados com Python/R para identificar padrões.
+
+Matrizes de indicadores por programa.
+
+6. Participação e Controle Social
+Envolver conselhos setoriais e a sociedade civil organizada.
+
+Utilizar audiências públicas para apresentar e debater os resultados.
+
+Criar mecanismos de feedback para incorporar sugestões da população.
+
+7. Boas Práticas por Etapa do Ciclo Orçamentário
+Etapa	Boas Práticas
+Planejamento	Formular objetivos claros, metas quantificáveis e indicadores.
+Programação	Detalhar ações, recursos e cronogramas.
+Execução	Monitorar metas físicas e financeiras em tempo real.
+Avaliação	Publicar relatórios periódicos com comparativos e análises.
+
+8. Boas Práticas Institucionais
+Capacitar equipes de planejamento e avaliação.
+
+Integrar áreas de planejamento, orçamento e controle interno.
+
+Adotar normas e manuais padronizados.
+
+Implementar auditorias de desempenho regulares.
+
+Incentivar inovação e uso de tecnologias na gestão orçamentária.
+
+9. Indicadores Sugeridos por Área
+Área	Indicadores de Avaliação
+Educação	Gasto por aluno, taxa de escolarização, IDEB
+Saúde	Gasto per capita, cobertura da atenção básica, internações evitáveis
+Obras	Custo por metro quadrado, cronograma físico-financeiro, índice de paralisação
+
+10. Considerações Finais
+A avaliação orçamentária não é apenas uma obrigação técnica, mas um instrumento essencial de boa governança. Aplicar essas práticas ajuda a:
+
+Garantir transparência e prestação de contas.
+
+Melhorar a alocação de recursos.
+
+Aumentar a confiança da sociedade na administração pública.
