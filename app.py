@@ -1,23 +1,23 @@
+# app.py
+
 import os
 import streamlit as st
 from config import DOCS_PATH
 from rag.vectorstore import load_vectorstore, create_vectorstore
 from rag.qa_chain import build_qa_chain
 from rag.utils import save_uploaded_files, load_indexed_files
-from settings import RETRIEVER_TOP_K
-#from rag.normalizador import normalize_query
-
+from rag.llm_loader import load_llm
+from settings import RETRIEVER_TOP_K, EMBEDDING_OPTIONS
 
 st.set_page_config(page_title="Pergunte ao PPA", page_icon="🧠")
 st.title("🧠 Pergunte ao PPA")
 
-# Session state
 if "indexed_files" not in st.session_state:
     st.session_state["indexed_files"] = load_indexed_files()
 if "chat_history" not in st.session_state:
     st.session_state.chat_history = []
 
-# Sidebar: upload
+# Sidebar: Upload
 st.sidebar.header("📤 Enviar documentos")
 uploaded_files = st.sidebar.file_uploader(
     "Arquivos: .pdf, .txt, .docx, .xlsx, .html",
@@ -28,7 +28,7 @@ if uploaded_files:
     save_uploaded_files(uploaded_files)
     st.sidebar.success("✅ Arquivos enviados com sucesso.")
 
-# Sidebar: k config
+# Sidebar: Configurações
 st.sidebar.markdown("⚙️ **Configurações**")
 st.session_state["retriever_k"] = st.sidebar.number_input(
     label="Número de trechos a considerar (k)",
@@ -38,11 +38,22 @@ st.session_state["retriever_k"] = st.sidebar.number_input(
     step=1
 )
 
-# Sidebar: reindex
-if st.sidebar.button("🔁 Reindexar agora"):
-    create_vectorstore()
+# Sidebar: Escolha de modelo LLM
+st.sidebar.markdown("🧠 **Modelo de linguagem**")
+modelo_llm = st.sidebar.radio("Modo de execução:", ["GGUF (offline)", "Ollama (servidor)"])
+st.session_state["modelo_llm"] = modelo_llm
 
-# Sidebar: arquivos indexados
+# Sidebar: Escolha de modelo de embedding
+st.sidebar.markdown("🧬 **Modelo de embedding**")
+embed_model_label = st.sidebar.selectbox("Escolha o modelo:", list(EMBEDDING_OPTIONS.keys()))
+embed_model_name = EMBEDDING_OPTIONS[embed_model_label]
+st.session_state["embedding_model"] = embed_model_name
+
+# Reindexar
+if st.sidebar.button("🔁 Reindexar agora"):
+    create_vectorstore(embed_model_name)
+
+# Arquivos indexados
 indexed_files = st.session_state.get("indexed_files", [])
 if indexed_files:
     st.sidebar.markdown("📂 **Arquivos indexados:**", unsafe_allow_html=True)
@@ -54,49 +65,35 @@ if indexed_files:
 else:
     st.sidebar.info("Nenhum arquivo indexado.")
 
-# Carregamento
-vectorstore = load_vectorstore()
+# Carga do vetor e da LLM
+vectorstore = load_vectorstore(embed_model_name)
 if not vectorstore:
-    raise ValueError("Vetor de documentos não carregado.")
+    st.warning("⚠️ Nenhum índice encontrado para esse modelo. Reindexe primeiro.")
+    st.stop()
 
-qa_chain = build_qa_chain(vectorstore)
+llm = load_llm(modelo_llm)
+qa_chain = build_qa_chain(vectorstore, llm)
+
 if not qa_chain:
-    st.warning("⚠️ A chain ainda não está carregada. Verifique a indexação ou se há documentos na pasta.")
+    st.warning("⚠️ A chain não está carregada.")
+    st.stop()
 
 # Formulário de pergunta
-if qa_chain:
-    with st.form("chat-form", clear_on_submit=True):
-        user_input = st.text_input("Digite sua pergunta:")
-        submitted = st.form_submit_button("Enviar")
+with st.form("chat-form", clear_on_submit=True):
+    user_input = st.text_input("Digite sua pergunta:")
+    submitted = st.form_submit_button("Enviar")
 
-    #if submitted and user_input:
-    #    #normalized_question = normalize_query(user_input)
-    #    #result = qa_chain(normalized_question)
-    #    result = qa_chain(user_input)
-    #    resposta = result["result"]
-    #    fontes = result["source_documents"]
-    #    st.session_state.chat_history.append(("user", user_input))
-    #    st.session_state.chat_history.append(("bot", resposta))
-    #    st.session_state.last_contexts = fontes
+if submitted and user_input:
+    query = f"query: {user_input}"
+    result = qa_chain.invoke({"query": query})
+    resposta = result["result"]
+    fontes = result["source_documents"]
+    st.session_state.chat_history.append(("user", user_input))
+    st.session_state.chat_history.append(("bot", resposta))
+    st.session_state.last_contexts = fontes
+    st.sidebar.write("🔍 Consulta:", query)
 
-    if submitted and user_input:
-    # Prefixo necessário para modelos E5
-        query = f"query: {user_input}"
-        result = qa_chain.invoke({"query": query})
-        resposta = result["result"]
-        fontes = result["source_documents"]
-        st.session_state.chat_history.append(("user", user_input))
-        st.session_state.chat_history.append(("bot", resposta))
-        st.session_state.last_contexts = fontes
-        st.sidebar.write("🔍 Consulta enviada ao retriever:", query)
-        with st.expander("🔬 Depuração: Chunks retornados pelo retriever"):
-            for doc in result["source_documents"]:
-                st.markdown(doc.page_content)
-
-
-
-
-# Chat
+# Exibição do chat
 for role, msg in st.session_state.chat_history:
     with st.chat_message("user" if role == "user" else "assistant"):
         st.markdown(msg)

@@ -1,10 +1,9 @@
-from langchain_huggingface import HuggingFaceEmbeddings
-from settings import EMBEDDING_MODEL
+# embeddings.py
 
-def load_embeddings():
-    #return HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5")
+from langchain_huggingface import HuggingFaceEmbeddings
+
+def load_embeddings(model_name: str):
     return HuggingFaceEmbeddings(
-        model_name=EMBEDDING_MODEL,
-        #model_kwargs={"device": "cuda" if torch.cuda.is_available() else "cpu"},
+        model_name=model_name,
         encode_kwargs={"normalize_embeddings": True}
-)
+    )
