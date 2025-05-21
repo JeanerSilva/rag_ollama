@@ -12,4 +12,4 @@ EMBEDDING_OPTIONS = {
 }
 
 LLM_MODEL = "llama3.2"  # usado para ollama
-OPENAI_MODEL = "gpt-3.5-turbo"  # pode trocar para gpt-4
+OPENAI_MODEL = "gpt-4.1"  # pode trocar para gpt-4

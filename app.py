@@ -97,7 +97,7 @@ if not qa_chain:
 with st.form("chat-form", clear_on_submit=True):
     user_input = st.text_input(
         "Digite sua pergunta:",
-        value="Faça uma lista das causas do problema do Programa Abastecimento e Soberania Alimentar"
+        value="Quais são os Objetivos Específicos do Programa Abastecimento e Soberania Alimentar"
     )
     submitted = st.form_submit_button("Enviar")
 
